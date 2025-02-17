@@ -47,10 +47,10 @@ async def scrape_all_ids():
     semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
     ps3_digital = [f"NP{region}{rtype}" for region, rtype in product("AEHJKUIX", "ABCDEFGHIJKLMNOPQRSTUVWXYZ")]
     ps3_physical = [f"B{rights}{region}{rtype}" for rights, region, rtype in product("CL", "ACEHJKPU", "BCDMSTVXZ") if not (rtype == "M" and region != "J")]
-    ps3_mrtc = [f"MRTC{num:05}" for num in range(100000)]
+    ps3_mrtc = [f"MRTC"]
     psx_ps2_physical = [f"S{rights}{region}{rtype}" for rights, region, rtype in product("CL", "ACEKPUZ", "ADJMNS")] # Other ones than these appear not be used? e.g. PAPX
-    ps4_prefixes = [f"CUSA{num:05}" for num in range(100000)]
-    #ps5_prefixes = [f"PPSA{num:05}" for num in range(100000)]
+    ps4_prefixes = [f"CUSA"]
+    #ps5_prefixes = [f"PPSA"]
 
     async with aiohttp.ClientSession() as session:
         for prefixes, path, ext in [
