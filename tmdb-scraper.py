@@ -54,8 +54,7 @@ async def scrape_all_ids():
 
     async with aiohttp.ClientSession() as session:
         for prefixes, path, ext in [
-            (ps3_digital + ps3_physical + psx_ps2_physical, "tmdb", "xml"), # PSP and VITA may use this one too?
-            (ps3_mrtc, "tmdb", "xml")
+            (ps3_digital + ps3_physical + psx_ps2_physical + ps3_mrtc, "tmdb", "xml"), # PSP and VITA may use this one too?
             (ps4_prefixes, "tmdb2", "json")
             #(ps5_prefixes, "tmdb3", "json") # Appears to be a thing, cannot access it tho
         ]:
