@@ -49,21 +49,21 @@ async def fetch_tmdb(session, semaphore, title_id, path, extension):
 async def scrape_all_ids():
     semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
     ps3_digital = [f"NP{region}{rtype}" for region, rtype in product("EHJKU", "ABCDEFGHIJKLMNOPQRSTUVWXYZ")] # A in region never been used it seems
-    ps3_physical = [f"B{rights}{region}{rtype}" for rights, region, rtype in product("CL", "AEJKU", "BDMSX") if not ((rtype in ["M", "B"]) and region != "J") and not ((rtype in ["D"]) and region != ["E", "U"])] # C, H in region never been used it seems
-    #ps3_mrtc = [f"MRTC"]
+    ps3_physical = [f"B{rights}{region}{rtype}" for rights, region, rtype in product("CL", "AEJKU", "BDMSX") if not ((rtype in ["M", "B"]) and region != "J") and not ((rtype in ["D"]) and region not in ["E", "U"])] # C, H in region never been used it seems
+    ps3_mrtc = [f"MRTC"]
     psx_ps2_physical = [f"S{rights}{region}{rtype}" for rights, region, rtype in product("CL", "ACEKPUZ", "ADJMNS") if not ((rtype in ["M", "N"]) and region != "P") 
     and not (region == "A" and rtype != "J") 
     and not (region == "C" and (rights != "C" or rtype != "S"))
     and not (region == "E" and f"S{rights}{region}{rtype}" not in ["SCED", "SCES", "SLED", "SLES"])
     and not (region == "U" and f"S{rights}{region}{rtype}" not in ["SCUS", "SLUS"])
     and not (region == "K" and f"S{rights}{region}{rtype}" not in ["SCKA", "SLKA"])
-    and not (region == "Z" and f"S{rights}{region}{rtype}" != "SCZS")] # Other ones than these appear not be used? e.g. PAPX
+    and not (region == "Z" and f"S{rights}{region}{rtype}" != "SCZS")] # Seems that only PS1/2 Classics are present in API
     ps4_prefixes = [f"CUSA"]
     #ps5_prefixes = [f"PPSA"]
 
     async with aiohttp.ClientSession() as session:
         for prefixes, path, ext in [
-            (psx_ps2_physical + ps3_physical + ps3_digital, "tmdb", "xml"), # PSP and VITA may use this one too?
+            (psx_ps2_physical + ps3_physical + ps3_mrtc + ps3_digital, "tmdb", "xml"), # PSP and VITA may use this one too?
             (ps4_prefixes, "tmdb2", "json")
             #(ps5_prefixes, "tmdb3", "json") # Seems to be a thing, needs API key
         ]:
