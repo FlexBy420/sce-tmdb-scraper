@@ -22,7 +22,7 @@ DOMAIN = "http://tmdb.np.dl.playstation.net/"
 SECRET_KEY = bytes.fromhex(
     "F5DE66D2680E255B2DF79E74F890EBF349262F618BCAE2A9ACCDEE5156CE8DF2CDF2D48C71173CDC2594465B87405D197CF1AED3B7E9671EEB56CA6753C2E6B0"
 )
-MAX_CONCURRENT_REQUESTS = 2000
+MAX_CONCURRENT_REQUESTS = 20000
 
 # Generate HMAC hash
 def generate_hash(title_id):
@@ -51,7 +51,13 @@ async def scrape_all_ids():
     ps3_digital = [f"NP{region}{rtype}" for region, rtype in product("EHJKU", "ABCDEFGHIJKLMNOPQRSTUVWXYZ")] # A in region never been used it seems
     ps3_physical = [f"B{rights}{region}{rtype}" for rights, region, rtype in product("CL", "AEJKU", "BCDMSX") if not ((rtype in ["M", "B"]) and region != "J")] # C, H in region never been used it seems
     ps3_mrtc = [f"MRTC"]
-    psx_ps2_physical = [f"S{rights}{region}{rtype}" for rights, region, rtype in product("CL", "ACEKPUZ", "ADJMNS")] # Other ones than these appear not be used? e.g. PAPX
+    psx_ps2_physical = [f"S{rights}{region}{rtype}" for rights, region, rtype in product("CL", "ACEKPUZ", "ADJMNS") if not ((rtype in ["M", "N"]) and region != "P") 
+    and not (region == "A" and rtype != "J") 
+    and not (region == "C" and (rights != "C" or rtype != "S"))
+    and not (region == "E" and f"S{rights}{region}{rtype}" not in ["SCED", "SCES", "SLED", "SLES"])
+    and not (region == "U" and f"S{rights}{region}{rtype}" not in ["SCUS", "SLUS"])
+    and not (region == "K" and f"S{rights}{region}{rtype}" not in ["SCKA", "SLKA"])
+    and not (region == "Z" and f"S{rights}{region}{rtype}" != "SCZS")] # Other ones than these appear not be used? e.g. PAPX
     ps4_prefixes = [f"CUSA"]
     #ps5_prefixes = [f"PPSA"]
 
