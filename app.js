@@ -65,13 +65,36 @@ function renderTable() {
             <td>${name}</td>
             <td>${console}</td>
             <td>${parentalLevel}</td>
-            <td>${icon ? `<img src="${icon}" width="50" alt="Game Icon">` : 'N/A'}</td>
+            <td>
+                ${icon ? `<img data-src="${icon}" src="placeholder.png" width="50" alt="Game Icon" class="lazy-load">` : 'N/A'}
+            </td>
         `;
         row.addEventListener('click', () => toggleDetails(row, details));
         tbody.appendChild(row);
     });
     
     document.getElementById('game_count').textContent = `Showing ${start + 1}-${Math.min(end, filteredGames.length)} of ${filteredGames.length} games`;
+    lazyLoadIcons();
+}
+
+function lazyLoadIcons() {
+    const lazyImages = document.querySelectorAll('img.lazy-load');
+
+    const observer = new IntersectionObserver((entries, observer) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                const img = entry.target;
+                img.src = img.dataset.src;
+                img.classList.remove('lazy-load');
+                observer.unobserve(img);
+            }
+        });
+    }, {
+        rootMargin: '0px',
+        threshold: 0.1
+    });
+
+    lazyImages.forEach(img => observer.observe(img));
 }
 
 // Toggle game details
