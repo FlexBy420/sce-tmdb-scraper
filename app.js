@@ -3,7 +3,7 @@
 let initialized = false;
 let allGames = [];
 let currentConsole = 'all';
-const entriesPerPage = 1000;
+const entriesPerPage = 250;
 let currentPage = 1;
 let sortColumn = null;
 let sortOrder = 'asc';
@@ -81,7 +81,7 @@ function loadIcon(button, iconUrl, event) {
 
     const img = document.createElement('img');
     img.src = iconUrl;
-    img.width = 50;
+    img.width = 250;
     img.alt = 'Game Icon';
 
     img.addEventListener('click', (e) => {
