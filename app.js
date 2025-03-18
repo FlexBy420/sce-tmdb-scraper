@@ -110,8 +110,8 @@ function loadIcon(button, iconUrl, event) {
     });
 
     lazyImages.forEach(img => observer.observe(img));
-}
-*/
+}*/
+
 // Toggle game details
 function toggleDetails(row, details) {
     if (row.nextElementSibling && row.nextElementSibling.classList.contains('details-row')) {
@@ -123,7 +123,6 @@ function toggleDetails(row, details) {
     detailsRow.classList.add('details-row');
     detailsRow.innerHTML = `
         <td colspan="5">
-            <strong>Additional Info:</strong><br>
             ${Object.entries(details).map(([key, value]) => `<strong>${key}:</strong> ${JSON.stringify(value)}`).join('<br>')}
         </td>
     `;
