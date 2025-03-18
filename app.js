@@ -66,7 +66,7 @@ function renderTable() {
             <td>${console}</td>
             <td>${parentalLevel}</td>
             <td>
-                ${icon ? `<img data-src="${icon}" src="placeholder.png" width="50" alt="Game Icon" class="lazy-load">` : 'N/A'}
+                ${icon ? `<button class="btn btn-sm btn-primary" onclick="loadIcon(this, '${icon}', event)">Show Icon</button>` : 'N/A'}
             </td>
         `;
         row.addEventListener('click', () => toggleDetails(row, details));
@@ -74,10 +74,25 @@ function renderTable() {
     });
     
     document.getElementById('game_count').textContent = `Showing ${start + 1}-${Math.min(end, filteredGames.length)} of ${filteredGames.length} games`;
-    lazyLoadIcons();
 }
 
-function lazyLoadIcons() {
+function loadIcon(button, iconUrl, event) {
+    event.stopPropagation();
+
+    const img = document.createElement('img');
+    img.src = iconUrl;
+    img.width = 50;
+    img.alt = 'Game Icon';
+
+    img.addEventListener('click', (e) => {
+        e.stopPropagation();
+        img.replaceWith(button);
+    });
+
+    button.replaceWith(img);
+}
+
+/*function lazyLoadIcons() {
     const lazyImages = document.querySelectorAll('img.lazy-load');
 
     const observer = new IntersectionObserver((entries, observer) => {
@@ -96,7 +111,7 @@ function lazyLoadIcons() {
 
     lazyImages.forEach(img => observer.observe(img));
 }
-
+*/
 // Toggle game details
 function toggleDetails(row, details) {
     if (row.nextElementSibling && row.nextElementSibling.classList.contains('details-row')) {
