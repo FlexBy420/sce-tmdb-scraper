@@ -92,26 +92,6 @@ function loadIcon(button, iconUrl, event) {
     button.replaceWith(img);
 }
 
-/*function lazyLoadIcons() {
-    const lazyImages = document.querySelectorAll('img.lazy-load');
-
-    const observer = new IntersectionObserver((entries, observer) => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                const img = entry.target;
-                img.src = img.dataset.src;
-                img.classList.remove('lazy-load');
-                observer.unobserve(img);
-            }
-        });
-    }, {
-        rootMargin: '0px',
-        threshold: 0.1
-    });
-
-    lazyImages.forEach(img => observer.observe(img));
-}*/
-
 // Toggle game details
 function toggleDetails(row, details) {
     if (row.nextElementSibling && row.nextElementSibling.classList.contains('details-row')) {
@@ -237,7 +217,8 @@ async function init() {
         initialized = true;
         await loadGames();
 
-        document.querySelectorAll('.nav-link').forEach(link => {
+        // Only add event listeners to nav links with data-console attribute
+        document.querySelectorAll('.nav-link[data-console]').forEach(link => {
             link.addEventListener('click', (e) => {
                 e.preventDefault();
                 currentConsole = link.getAttribute('data-console');
