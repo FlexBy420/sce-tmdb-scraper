@@ -119,7 +119,7 @@ function renderPagination() {
     
     const prevButton = document.createElement('button');
     prevButton.textContent = 'Previous';
-    prevButton.className = 'btn btn-sm btn-secondary me-2';
+    prevButton.className = 'btn btn-sm btn-primary me-2';
     prevButton.disabled = currentPage === 1;
     prevButton.addEventListener('click', () => {
         if (currentPage > 1) {
@@ -150,7 +150,7 @@ function renderPagination() {
 
     const nextButton = document.createElement('button');
     nextButton.textContent = 'Next';
-    nextButton.className = 'btn btn-sm btn-secondary ms-2';
+    nextButton.className = 'btn btn-sm btn-primary ms-2';
     nextButton.disabled = currentPage === totalPages;
     nextButton.addEventListener('click', () => {
         if (currentPage < totalPages) {
@@ -210,11 +210,54 @@ function scrollToTop() {
   document.documentElement.scrollTop = 0;
 }
 
+// Dark mode functions
+function toggleDarkMode() {
+    const html = document.documentElement;
+    const isDark = html.getAttribute('data-bs-theme') === 'dark';
+    html.setAttribute('data-bs-theme', isDark ? 'light' : 'dark');
+    localStorage.setItem('darkMode', !isDark);
+    updateDarkModeIcon();
+}
+
+function updateDarkModeIcon() {
+    const toggleBtn = document.getElementById('darkModeToggle');
+    const isDark = document.documentElement.getAttribute('data-bs-theme') === 'dark';
+    toggleBtn.innerHTML = isDark ? '<i class="bi bi-sun"></i>' : '<i class="bi bi-moon"></i>';
+    toggleBtn.title = isDark ? 'Switch to light mode' : 'Switch to dark mode';
+}
+
+function initializeDarkMode() {
+    // Check for saved preference or use system preference
+    const savedMode = localStorage.getItem('darkMode');
+    const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    
+    if (savedMode === 'true' || (savedMode === null && systemPrefersDark)) {
+        document.documentElement.setAttribute('data-bs-theme', 'dark');
+    }
+    updateDarkModeIcon();
+    
+    // Set up toggle button
+    document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
+}
+
+function updateActiveFilter() {
+    document.querySelectorAll('.nav-link[data-console]').forEach(link => {
+        link.classList.remove('active-filter');
+    });
+
+    const activeLink = document.querySelector(`.nav-link[data-console="${currentConsole}"]`);
+    if (activeLink) {
+        activeLink.classList.add('active-filter');
+    }
+}
+
 document.addEventListener('DOMContentLoaded', init);
 
 async function init() {
     if (!initialized) {
         initialized = true;
+        initializeDarkMode();
+        updateActiveFilter();
         await loadGames();
 
         // Only add event listeners to nav links with data-console attribute
@@ -223,6 +266,7 @@ async function init() {
                 e.preventDefault();
                 currentConsole = link.getAttribute('data-console');
                 currentPage = 1;
+                updateActiveFilter();
                 renderTable();
                 renderPagination();
             });
