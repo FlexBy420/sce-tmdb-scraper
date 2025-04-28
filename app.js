@@ -20,9 +20,14 @@ let sortDirections = {
 
 async function loadGames() {
     try {
-        const response = await fetch('all.json');
-        if (!response.ok) throw new Error('Failed to load all.json');
-        const data = await response.json();
+        const response = await fetch('all.json.gz');
+        if (!response.ok) throw new Error('Failed to load all.json.gz');
+        
+        const stream = response.body.pipeThrough(new DecompressionStream('gzip'));
+        const text = await new Response(stream).text();
+        
+        const data = JSON.parse(text);
+        console.log(data);
 
         allGames = Object.entries(data).map(([id, game]) => ({
             id,
