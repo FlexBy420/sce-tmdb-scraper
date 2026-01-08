@@ -60,6 +60,7 @@ def sort_title_ids(data: dict) -> dict:
 async def fetch_tmdb(session, semaphore, title_id, path, extension, counter_lock, checked_counter, found_counter, results_dict, retry_ids):
     async with semaphore:
         url = f"{DOMAIN}{path}/{title_id}_00_{generate_hash(title_id)}/{title_id}_00.{extension}"
+        #logging.info(url)
         try:
             async with session.get(url) as response:
                 async with counter_lock:
@@ -114,6 +115,12 @@ def ps1_ps2_prefixes():
 
 def ps4_prefixes():
     return ["CUSA"]
+
+def psp_prefixes():
+    return [f"U{rights}{region}{rtype}"for rights, region, rtype in product("CL", "AEJKU", "BDMPSTX")]
+
+def psvita_prefixes():
+    return [f"PCS{region}" for region in "ABCDEFGH"] # Based on vita3k compat
 
 async def scrape(prefixes, path, ext, brute=True, batch_size=100000):
     semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
@@ -185,6 +192,10 @@ async def main():
             await scrape(ps4_prefixes(), "tmdb2", "json")
         elif choice == "4":
             await scrape(ps1_ps2_prefixes(), "tmdb", "xml")
+        #elif choice == "5":
+        #    await scrape(psp_prefixes(), "tmdb", "xml") # only ULJM05170, ULJM05277, ULJM05353 all empty
+        #elif choice == "6":
+        #    await scrape(psvita_prefixes(), "tmdb", "xml") # 0 json, only empty PCSF00178.xml came up lol
         elif choice == "5":
             tid = input("Enter Title ID: ").strip().upper()
             path = "tmdb2" if tid.startswith("CUSA") else "tmdb"
