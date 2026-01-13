@@ -116,6 +116,9 @@ def ps1_ps2_prefixes():
 def ps4_prefixes():
     return ["CUSA"]
 
+def ps5_prefixes():
+    return ["PPSA"]
+
 def psp_prefixes():
     return [f"U{rights}{region}{rtype}"for rights, region, rtype in product("CL", "AEJKU", "BDMPSTX")]
 
@@ -193,8 +196,10 @@ async def main():
         elif choice == "4":
             await scrape(ps1_ps2_prefixes(), "tmdb", "xml")
         #elif choice == "5":
-        #    await scrape(psp_prefixes(), "tmdb", "xml") # only ULJM05170, ULJM05277, ULJM05353 all empty
+        #    await scrape(ps5_prefixes(), "tmdb2", "json") # nothing, possibly uses some kind of newer api
         #elif choice == "6":
+        #    await scrape(psp_prefixes(), "tmdb", "xml") # only ULJM05170, ULJM05277, ULJM05353 all empty
+        #elif choice == "7":
         #    await scrape(psvita_prefixes(), "tmdb", "xml") # 0 json, only empty PCSF00178.xml came up lol
         elif choice == "5":
             tid = input("Enter Title ID: ").strip().upper()
