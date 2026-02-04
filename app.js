@@ -5,8 +5,9 @@ let allGames = [];
 let currentConsole = 'all';
 const entriesPerPage = 250;
 let currentPage = 1;
-let sortColumn = null;
+let sortColumn = 'name';
 let sortOrder = 'asc';
+let debounceTimer;
 
 const SORT_ASC = 'asc';
 const SORT_DESC = 'desc';
@@ -18,25 +19,78 @@ let sortDirections = {
     'Parental Level': null
 };
 
+function CleanTitle(title) {
+    let charr = title.split("").map(c => c.charCodeAt(0));
+    const arrLen = charr.length;
+    for (let i = 0; i < arrLen; i++) {
+        const ch = charr[i];
+        if (ch > 0xff00 && ch <= 0xff5e) {
+            charr[i] = ch - 0xfee0;
+        }
+        else if (ch > 0x30a0 && ch <= 0x30f6) {
+            charr[i] = ch - 0x0060;
+        }
+    }
+    return charr.map(c => String.fromCharCode(c)).join("")
+        .toLowerCase()
+        .replaceAll('[', '')
+        .replaceAll(']', '')
+        .replaceAll('(tm)', '')
+        .replaceAll(' ™', '')
+        .replaceAll('™', '')
+        .replaceAll('(r)', '')
+        .replaceAll(' ®', '')
+        .replaceAll('®', ' ')
+        .replaceAll('\u3000', ' ')
+        .replaceAll('\r\n', ' ')
+        .replaceAll('\r', ' ')
+        .replaceAll('\n', ' ')
+        .replaceAll('    ', ' ')
+        .replaceAll('   ', ' ')
+        .replaceAll('  ', ' ')
+        .replaceAll('\u00B7', '・')
+        .replaceAll('\uFF65', '・')
+        .replaceAll('\u2160', 'I')
+        .replaceAll('\u2161', 'II')
+        .replaceAll('\u2162', 'III')
+        .replaceAll('\u2163', 'IV')
+        .replaceAll('\u2164', 'V')
+        .replaceAll('\u2165', 'VI')
+        .replaceAll('core4', 'core4')
+        .replaceAll('baлл•и', 'валли')
+        .replaceAll('disgaea3', 'disgaea 3')
+        .replaceAll('disgaea4', 'disgaea 4')
+        .replaceAll('l@ve', 'love')
+        .replaceAll('prototype2', 'prototype 2')
+        .replaceAll('singstar vol.', 'singstar vol ')
+        .replaceAll('skate.', 'skate 1');
+}
+
 async function loadGames() {
     try {
         const response = await fetch('all.json.gz');
         if (!response.ok) throw new Error('Failed to load all.json.gz');
-        
+
         const stream = response.body.pipeThrough(new DecompressionStream('gzip'));
         const text = await new Response(stream).text();
-        
-        const data = JSON.parse(text);
-        console.log(data);
 
-        allGames = Object.entries(data).map(([id, game]) => ({
-            id,
-            name: game.name || game.names?.[0]?.name || 'N/A',
-            console: game.console || 'N/A',
-            parentalLevel: game.parentalLevel || game['parental-level'] || 'N/A',
-            icon: game.icon || game.icons?.[0]?.icon || '',
-            details: game
-        }));
+        const data = JSON.parse(text);
+
+        allGames = Object.entries(data).map(([id, game]) => {
+            const name = game.name || game.names?.[0]?.name || 'N/A';
+            return {
+                id,
+                name: name,
+                console: game.console || 'N/A',
+                parentalLevel: game.parentalLevel || game['parental-level'] || 'N/A',
+                icon: game.icon || game.icons?.[0]?.icon || '',
+                details: game,
+                filterId: id.toLowerCase().replace(/[-\s]/g, ''),
+                filterName: CleanTitle(name)
+            };
+        });
+
+        allGames.sort((a, b) => a.name.localeCompare(b.name, undefined, { sensitivity: 'base' }));
 
         renderPagination();
         renderTable();
@@ -52,12 +106,12 @@ async function loadGames() {
 function renderTable() {
     const tbody = document.querySelector('#table tbody');
     tbody.innerHTML = '';
-    
+
     let filteredGames = filterGames();
     if (sortColumn) {
         filteredGames = sortGames(filteredGames);
     }
-    
+
     const start = (currentPage - 1) * entriesPerPage;
     const end = start + entriesPerPage;
     const gamesToDisplay = filteredGames.slice(start, end);
@@ -118,10 +172,12 @@ function toggleDetails(row, details) {
 function renderPagination() {
     const pagination = document.getElementById('pagination');
     pagination.innerHTML = '';
-    
+
     const filteredGames = filterGames();
     const totalPages = Math.ceil(filteredGames.length / entriesPerPage);
-    
+
+    if (totalPages <= 1) return;
+
     const prevButton = document.createElement('button');
     prevButton.textContent = 'Previous';
     prevButton.className = 'btn btn-sm btn-primary me-2';
@@ -173,12 +229,17 @@ function sortGames(games) {
         let aValue = a[sortColumn];
         let bValue = b[sortColumn];
 
-        if (!isNaN(aValue) && !isNaN(bValue)) {
+        if (!isNaN(aValue) && !isNaN(bValue) && aValue !== '' && bValue !== '') {
             aValue = parseFloat(aValue);
             bValue = parseFloat(bValue);
+        } else {
+            aValue = aValue.toString().toLowerCase();
+            bValue = bValue.toString().toLowerCase();
         }
 
-        return sortOrder === 'asc' ? (aValue > bValue ? 1 : -1) : (aValue < bValue ? 1 : -1);
+        if (aValue === bValue) return 0;
+        const result = aValue > bValue ? 1 : -1;
+        return sortOrder === 'asc' ? result : -result;
     });
 }
 
@@ -193,11 +254,17 @@ document.querySelectorAll('#table th').forEach((th, index) => {
 
 // Filter games
 function filterGames() {
-    const filterVal = document.getElementById('filter').value.toLowerCase();
-    return allGames.filter(({ id, name, console }) => {
-        const matchesConsole = currentConsole === 'all' || console.toLowerCase() === currentConsole.toLowerCase();
-        const matchesFilter = `${id} ${name}`.toLowerCase().includes(filterVal);
-        return matchesConsole && matchesFilter;
+    const val = document.getElementById('filter').value?.toLowerCase().trim();
+    const normalizedVal = val.replace(/[-\s]/g, '');
+
+    return allGames.filter((game) => {
+        const matchesConsole = currentConsole === 'all' || game.console.toLowerCase() === currentConsole.toLowerCase();
+        if (!matchesConsole) return false;
+
+        if (val.length > 0) {
+            return game.filterId.includes(normalizedVal) || game.filterName.includes(val);
+        }
+        return true;
     });
 }
 
@@ -235,12 +302,11 @@ function initializeDarkMode() {
     // Check for saved preference or use system preference
     const savedMode = localStorage.getItem('darkMode');
     const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    
+
     if (savedMode === 'true' || (savedMode === null && systemPrefersDark)) {
         document.documentElement.setAttribute('data-bs-theme', 'dark');
     }
     updateDarkModeIcon();
-    
     // Set up toggle button
     document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
 }
@@ -278,25 +344,39 @@ async function init() {
         });
 
         const filterInput = document.getElementById('filter');
-        filterInput.addEventListener('input', () => {
-            currentPage = 1;
-            renderTable();
-            renderPagination();
-        });
-
         const clearButton = document.getElementById('clear_button');
-        clearButton.addEventListener('click', () => {
-            filterInput.value = '';
-            currentPage = 1;
-            renderTable();
-            renderPagination();
-        });
 
         filterInput.addEventListener('input', () => {
+            clearTimeout(debounceTimer);
+
             if (filterInput.value.trim()) {
                 clearButton.classList.remove('d-none');
             } else {
                 clearButton.classList.add('d-none');
+            }
+
+            debounceTimer = setTimeout(() => {
+                currentPage = 1;
+                renderTable();
+                renderPagination();
+            }, 200);
+        });
+
+        clearButton.addEventListener('click', () => {
+            filterInput.value = '';
+            clearButton.classList.add('d-none');
+            currentPage = 1;
+            renderTable();
+            renderPagination();
+        });
+
+        window.addEventListener('keydown', (event) => {
+            if (event.code === 'Escape') {
+                filterInput.value = '';
+                clearButton.classList.add('d-none');
+                currentPage = 1;
+                renderTable();
+                renderPagination();
             }
         });
     }
