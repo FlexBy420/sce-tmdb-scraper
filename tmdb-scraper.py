@@ -101,7 +101,7 @@ async def fetch_tmdb(session, semaphore, title_id, path, extension, counter_lock
                 sys.stdout.flush()
 
 def ps3_prefixes():
-    ps3_digital = [f"NP{r}{t}" for r, t in product("EHJKU", "ABCDEFGHIJKLMNOPQRSTUVWXYZ")]
+    ps3_digital = [f"NP{r}{t}" for r, t in product("EHIJKUX", "ABCDEFGHIJKLMNOPQRSTUVWXYZ")]
     ps3_physical = [
         f"B{rights}{region}{rtype}"
         for rights, region, rtype in product("CL", "AEJKU", "BDMSX")
@@ -174,6 +174,7 @@ def menu():
 3. Only PS4
 4. Only PS1 / PS2
 5. Specific ID (i.e. CUSA12345)
+6. Specific Prefix (i.e. CUSA)
 """)
     return input("Choose Option: ").strip()
 
@@ -203,9 +204,20 @@ async def main():
         #    await scrape(psvita_prefixes(), "tmdb", "xml") # 0 json, only empty PCSF00178.xml came up lol
         elif choice == "5":
             tid = input("Enter Title ID: ").strip().upper()
+            if not tid:
+                print("Input cannot be empty!")
+                continue
             path = "tmdb2" if tid.startswith("CUSA") else "tmdb"
             ext = "json" if tid.startswith("CUSA") else "xml"
             await scrape([tid], path, ext, brute=False)
+        elif choice == "6":
+            prefix = input("Enter Prefix: ").strip().upper()
+            if not prefix:
+                print("Input cannot be empty!")
+                continue
+            path = "tmdb2" if prefix.startswith("CUSA") else "tmdb"
+            ext = "json" if prefix.startswith("CUSA") else "xml"
+            await scrape([prefix], path, ext, brute=True)
         else:
             print("Invalid Option")
             continue
