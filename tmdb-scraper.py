@@ -100,6 +100,15 @@ async def fetch_tmdb(session, semaphore, title_id, path, extension, counter_lock
                 sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} | Found IDs: {found_counter[0]}")
                 sys.stdout.flush()
 
+def get_tmdb_version():
+    while True:
+        v_choice = input("Choose TMDB version (1 - xml, 2 - json): ").strip()
+        if v_choice == "1":
+            return "tmdb", "xml"
+        elif v_choice == "2":
+            return "tmdb2", "json"
+        print("Invalid choice. Please enter 1 or 2.")
+
 def ps3_prefixes():
     ps3_digital = [f"NP{r}{t}" for r, t in product("EHIJKUX", "ABCDEFGHIJKLMNOPQRSTUVWXYZ")]
     ps3_physical = [
@@ -207,16 +216,14 @@ async def main():
             if not tid:
                 print("Input cannot be empty!")
                 continue
-            path = "tmdb2" if tid.startswith("CUSA") else "tmdb"
-            ext = "json" if tid.startswith("CUSA") else "xml"
+            path, ext = get_tmdb_version()
             await scrape([tid], path, ext, brute=False)
         elif choice == "6":
             prefix = input("Enter Prefix: ").strip().upper()
             if not prefix:
                 print("Input cannot be empty!")
                 continue
-            path = "tmdb2" if prefix.startswith("CUSA") else "tmdb"
-            ext = "json" if prefix.startswith("CUSA") else "xml"
+            path, ext = get_tmdb_version()
             await scrape([prefix], path, ext, brute=True)
         else:
             print("Invalid Option")
