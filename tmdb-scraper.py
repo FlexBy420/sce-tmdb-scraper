@@ -8,6 +8,7 @@ import sys
 import json
 import xml.etree.ElementTree as ET
 from itertools import product
+from urllib.parse import urlparse
 
 os.makedirs("log", exist_ok=True)
 logging.basicConfig(
@@ -28,6 +29,105 @@ DOMAIN = "http://tmdb.np.dl.playstation.net/"
 SECRET_KEY = bytes.fromhex("F5DE66D2680E255B2DF79E74F890EBF349262F618BCAE2A9ACCDEE5156CE8DF2CDF2D48C71173CDC2594465B87405D197CF1AED3B7E9671EEB56CA6753C2E6B0")
 MAX_CONCURRENT_REQUESTS = 2000
 MAX_RETRIES = 3
+IMAGE_SEMAPHORE = asyncio.Semaphore(100)
+
+async def download_image(session, url, game_dir):
+    if not url: return
+    file_name = os.path.basename(urlparse(url).path)
+    file_path = os.path.join(game_dir, file_name)
+
+    # Check if image already exists
+    if os.path.exists(file_path):
+        return
+
+    async with IMAGE_SEMAPHORE:
+        try:
+            async with session.get(url, timeout=15) as response:
+                if response.status == 200:
+                    content = await response.read()
+                    with open(file_path, 'wb') as f:
+                        f.write(content)
+                else:
+                    logging.error(f"HTTP error {response.status} for image: {url}")
+        except Exception as e:
+            logging.error(f"Error downloading image {url}: {e}")
+
+async def process_images_for_game(session, title_id, extension, progress_dict=None):
+    file_path = f"{extension}/{title_id}.{extension}"
+    
+    # Check if file exists and is not empty before processing
+    if not os.path.exists(file_path) or os.path.getsize(file_path) == 0:
+        if progress_dict: progress_dict['current'] += 1
+        return
+
+    urls = set()
+    try:
+        if extension == "xml":
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = ''.join(char for char in f.read() if char.isprintable() or char in '\n\r\t')
+            if not content.strip():
+                if progress_dict: progress_dict['current'] += 1
+                return
+            root = ET.fromstring(content)
+            for tag in ['.//icon', './/backgroundImage', './/otherImage']:
+                for el in root.findall(tag):
+                    if el.text: urls.add(el.text)
+        else: # JSON
+            with open(file_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            if not data:
+                if progress_dict: progress_dict['current'] += 1
+                return
+            if 'icons' in data:
+                for icon in data['icons']: urls.add(icon.get('icon', ''))
+            if data.get('backgroundImage'): urls.add(data.get('backgroundImage'))
+            if data.get('otherImage'): urls.add(data.get('otherImage'))
+
+        urls = {u for u in urls if u}
+
+        if urls:
+            game_dir = os.path.join('icons', title_id)
+            os.makedirs(game_dir, exist_ok=True)
+            tasks = [download_image(session, url, game_dir) for url in urls]
+            await asyncio.gather(*tasks)
+
+        # Update and print progress
+        if progress_dict:
+            progress_dict['current'] += 1
+            sys.stdout.write(f"\rProgress: {progress_dict['current']} / {progress_dict['total']} games processed")
+            sys.stdout.flush()
+
+    except Exception as e:
+        logging.error(f"Error processing images for {title_id}: {e}")
+        if progress_dict: progress_dict['current'] += 1
+
+async def bulk_download_images():
+    async with aiohttp.ClientSession() as session:
+        game_list = []
+
+        # Scan for existing non-empty files
+        if os.path.exists("xml"):
+            for f in os.listdir("xml"):
+                if f.endswith(".xml") and os.path.getsize(os.path.join("xml", f)) > 0:
+                    game_list.append((f.replace(".xml", ""), "xml"))
+
+        if os.path.exists("json"):
+            for f in os.listdir("json"):
+                if f.endswith(".json") and os.path.getsize(os.path.join("json", f)) > 0:
+                    game_list.append((f.replace(".json", ""), "json"))
+
+        total_games = len(game_list)
+        if total_games == 0:
+            print("No valid source files found to download images.")
+            return
+
+        print(f"Starting bulk download for {total_games} games...")
+        progress_dict = {'current': 0, 'total': total_games}
+
+        # Concurrent processing of games
+        tasks = [process_images_for_game(session, tid, ext, progress_dict) for tid, ext in game_list]
+        await asyncio.gather(*tasks)
+        print("\nBulk download finished.")
 
 def generate_hash(title_id: str) -> str:
     return hmac.new(SECRET_KEY, f"{title_id.upper()}_00".encode(), hashlib.sha1).hexdigest().upper()
@@ -184,6 +284,8 @@ def menu():
 4. Only PS1 / PS2
 5. Specific ID (i.e. CUSA12345)
 6. Specific Prefix (i.e. CUSA)
+7. Download Specific ID images
+8. Download All icons/images for found IDs
 """)
     return input("Choose Option: ").strip()
 
@@ -225,6 +327,15 @@ async def main():
                 continue
             path, ext = get_tmdb_version()
             await scrape([prefix], path, ext, brute=True)
+        elif choice == "7":
+            tid = input("Enter Title ID to download images for: ").strip().upper()
+            if not tid:
+                continue
+            path, ext = get_tmdb_version()
+            async with aiohttp.ClientSession() as session:
+                await process_images_for_game(session, tid, ext)
+        elif choice == "8":
+            await bulk_download_images()
         else:
             print("Invalid Option")
             continue
