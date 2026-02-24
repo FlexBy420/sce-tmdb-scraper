@@ -220,7 +220,7 @@ def ps3_prefixes():
     return ps3_digital + ps3_physical + ["MRTC"]
 
 def ps1_ps2_prefixes():
-    return [f"S{rights}{region}{rtype}" for rights, region, rtype in product("CL", "ACEKPUZ", "ADJMNS")]
+    return [f"S{rights}{region}{rtype}" for rights, region, rtype in product("CL", "ACEKPUZ", "ADJMNS")] + [f"P{letter}PX" for letter in "ABCDET"] + ["SIPS"]
 
 def ps4_prefixes():
     return ["CUSA"]
