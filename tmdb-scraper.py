@@ -9,6 +9,7 @@ import json
 import xml.etree.ElementTree as ET
 from itertools import product
 from urllib.parse import urlparse
+import time
 
 os.makedirs("log", exist_ok=True)
 logging.basicConfig(
@@ -27,9 +28,24 @@ if not os.path.exists(FOUND_JSON):
 
 DOMAIN = "http://tmdb.np.dl.playstation.net/"
 SECRET_KEY = bytes.fromhex("F5DE66D2680E255B2DF79E74F890EBF349262F618BCAE2A9ACCDEE5156CE8DF2CDF2D48C71173CDC2594465B87405D197CF1AED3B7E9671EEB56CA6753C2E6B0")
-MAX_CONCURRENT_REQUESTS = 2000
+MAX_CONCURRENT_REQUESTS = 1000 # set this according to your OS limit
 MAX_RETRIES = 3
 IMAGE_SEMAPHORE = asyncio.Semaphore(100)
+
+save_queue = asyncio.Queue()
+
+async def file_writer_worker():
+    while True:
+        item = await save_queue.get()
+        if item is None:
+            break
+        file_path, raw = item
+        try:
+            with open(file_path, "wb") as f:
+                f.write(raw)
+        except Exception as e:
+            logging.error(f"Error writing file {file_path}: {e}")
+        save_queue.task_done()
 
 async def download_image(session, url, game_dir):
     if not url: return
@@ -162,13 +178,14 @@ async def fetch_tmdb(session, semaphore, title_id, path, extension, counter_lock
         url = f"{DOMAIN}{path}/{title_id}_00_{generate_hash(title_id)}/{title_id}_00.{extension}"
         #logging.info(url)
         try:
-            async with session.get(url) as response:
+            async with session.get(url, timeout=10) as response:
                 async with counter_lock:
                     checked_counter[0] += 1
                 if response.status == 404:
-                    async with counter_lock:
-                        sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} | Found IDs: {found_counter[0]}")
-                        sys.stdout.flush()
+                    if checked_counter[0] % 100 == 0:
+                        async with counter_lock:
+                            sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} | Found IDs: {found_counter[0]}")
+                            sys.stdout.flush()
                     return
                 elif response.status != 200:
                     async with counter_lock:
@@ -184,8 +201,8 @@ async def fetch_tmdb(session, semaphore, title_id, path, extension, counter_lock
 
                 os.makedirs(extension, exist_ok=True)
                 file_path = f"{extension}/{title_id}.{extension}"
-                with open(file_path, "wb") as f:
-                    f.write(raw)
+                await save_queue.put((file_path, raw))
+                
                 results_dict[title_id] = {"title": title, "url": url}
 
                 async with counter_lock:
@@ -241,7 +258,10 @@ async def scrape(prefixes, path, ext, brute=True, batch_size=100000):
     counter_lock = asyncio.Lock()
     results_dict = {}
 
-    async with aiohttp.ClientSession() as session:
+    writer_task = asyncio.create_task(file_writer_worker())
+
+    connector = aiohttp.TCPConnector(limit=0, ttl_dns_cache=600, use_dns_cache=True)
+    async with aiohttp.ClientSession(connector=connector) as session:
         for prefix in prefixes:
             retry_ids = []
             if brute:
@@ -264,6 +284,10 @@ async def scrape(prefixes, path, ext, brute=True, batch_size=100000):
                 ]
                 retry_ids = []
                 await asyncio.gather(*tasks)
+
+    await save_queue.join()
+    await save_queue.put(None)
+    await writer_task
 
     print()
     results_dict = sort_title_ids(results_dict)
