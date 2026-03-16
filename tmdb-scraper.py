@@ -47,7 +47,7 @@ async def file_writer_worker():
             logging.error(f"Error writing file {file_path}: {e}")
         save_queue.task_done()
 
-async def download_image(session, url, game_dir):
+async def download_image(session, url, game_dir, silent=False):
     if not url: return
     file_name = os.path.basename(urlparse(url).path)
     file_path = os.path.join(game_dir, file_name)
@@ -63,6 +63,8 @@ async def download_image(session, url, game_dir):
                     content = await response.read()
                     with open(file_path, 'wb') as f:
                         f.write(content)
+                    if not silent:
+                        logging.info(f"Successfully downloaded: {file_name}")
                 else:
                     logging.error(f"HTTP error {response.status} for image: {url}")
         except Exception as e:
@@ -98,13 +100,16 @@ async def process_images_for_game(session, title_id, extension, progress_dict=No
                 for icon in data['icons']: urls.add(icon.get('icon', ''))
             if data.get('backgroundImage'): urls.add(data.get('backgroundImage'))
             if data.get('otherImage'): urls.add(data.get('otherImage'))
+            if data.get('pronunciation'): urls.add(data.get('pronunciation'))
+            if data.get('bgm'): urls.add(data.get('bgm'))
 
         urls = {u for u in urls if u}
 
         if urls:
             game_dir = os.path.join('icons', title_id)
             os.makedirs(game_dir, exist_ok=True)
-            tasks = [download_image(session, url, game_dir) for url in urls]
+            is_silent = progress_dict is not None
+            tasks = [download_image(session, url, game_dir, silent=is_silent) for url in urls]
             await asyncio.gather(*tasks)
 
         # Update and print progress
@@ -308,8 +313,8 @@ def menu():
 4. Only PS1 / PS2
 5. Specific ID (i.e. CUSA12345)
 6. Specific Prefix (i.e. CUSA)
-7. Download Specific ID images
-8. Download All icons/images for found IDs
+7. Download Specific ID images/files
+8. Download All icons/images/files for found IDs (Requires pre-scraped files)
 """)
     return input("Choose Option: ").strip()
 
