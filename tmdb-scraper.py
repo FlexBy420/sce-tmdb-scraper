@@ -235,7 +235,7 @@ def ps3_prefixes():
     ps3_digital = [f"NP{r}{t}" for r, t in product("EHIJKUX", "ABCDEFGHIJKLMNOPQRSTUVWXYZ")]
     ps3_physical = [
         f"B{rights}{region}{rtype}"
-        for rights, region, rtype in product("CL", "AEJKU", "BDMSX")
+        for rights, region, rtype in product("CL", "AEJKU", "BDMSTX")
         if not ((rtype in "MB") and region != "J")
         and not (rtype == "D" and region not in "EU")
     ]
