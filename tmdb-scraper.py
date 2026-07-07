@@ -27,6 +27,7 @@ if not os.path.exists(FOUND_JSON):
         json.dump({}, f, indent=4, ensure_ascii=False)
 
 DOMAIN = "http://tmdb.np.dl.playstation.net/"
+#DOMAIN = "http://tmdb.e1-np.dl.playstation.net/"
 SECRET_KEY = bytes.fromhex("F5DE66D2680E255B2DF79E74F890EBF349262F618BCAE2A9ACCDEE5156CE8DF2CDF2D48C71173CDC2594465B87405D197CF1AED3B7E9671EEB56CA6753C2E6B0")
 MAX_CONCURRENT_REQUESTS = 1000 # set this according to your OS limit
 MAX_RETRIES = 3
