@@ -1,0 +1,48 @@
+CATALOG
+
+	GROUP	"MAIN"
+		DISPLAYNAME		"FeaturedAddOns"
+		TILE			"TEMPLATE_1x3"
+		ITEM_ALWAYS( "DRIVECLUB™ Store", 	"store_tile_bg", 			"psn-store" )
+		ITEM( "LiveTiles_13", 				"store_season_pass_bg", 	"DRIVECLUBSEASONP", "europe" )
+		ITEM( "LiveTiles_13", 				"store_season_pass_bg", 	"DRIVESEASONPASS0", "us" )
+		ITEM( "LiveTiles_13", 				"store_season_pass_bg", 	"", "japan" )
+		ITEM( "LiveTiles_13", 				"store_season_pass_bg", 	"", "latam" )
+		ITEM( "LiveTiles_13", 				"store_season_pass_bg", 	"DCSP010000000000", "asia" )
+		ITEM( "LiveTiles_13", 				"store_season_pass_bg", 	"DCSP010000000000", "china" )
+		
+		ITEM_GAME_VERSION( "DC_CARS", 	"CarsUpgrade", 		"store_tile_cars_upgrade")
+		ITEM_GAME_VERSION( "DC_BIKES", 	"BikesUpgrade", 	"store_tile_bikes_upgrade")
+
+	GROUP_END
+
+	GROUP	"VEHICLES"
+		DISPLAYNAME		"Cars"
+		TILE			"TEMPLATE_3x3_cars"
+		VEHICLE_LIST
+	GROUP_END
+
+	GROUP	"tours"
+		DISPLAYNAME		"Tours"
+		TILE			"TEMPLATE_3x3"
+		TOUR_LIST
+	GROUP_END
+
+	GROUP	"liveries"
+		DISPLAYNAME		"Liveries_Uppercase"
+		TILE			"TEMPLATE_3x2_livery"
+		LIVERY_LIST
+	GROUP_END
+
+	GROUP	"fame"
+		DISPLAYNAME		"Fame"
+		TILE			"TEMPLATE_3x2_fame"
+		ITEM_ALWAYS( "DoubleFameMultipliers_10", 	"DRIVECLUB_FAME_BOOST_x10", 			"DCXXXXXXXXBNSM02" )
+		ITEM_ALWAYS( "DoubleFameMultipliers_25", 	"DRIVECLUB_FAME_BOOST_x25", 			"DCXXXXXXXXBNSM03" )
+		ITEM_ALWAYS( "DoubleFameMultipliers_50", 	"DRIVECLUB_FAME_BOOST_x50", 			"DCXXXXXXXXBNSM04" )
+		ITEM_ALWAYS( "DoubleFameMultipliers_500", 	"DRIVECLUB_FAME_BOOST_x500", 			"DCXXXXXXXXBNSM05" )
+	GROUP_END
+
+
+CATALOG_END
+

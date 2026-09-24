@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+Patch includes voiceover data for French, and German.
+    ]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[
+BIG CHANGES/UPDATES/NEW FEATURES
+
+- Fixed VOIP related issues so system is now functional
+    * Voice chat has been optimized significantly, allowing for players to easily join, leave and manage channels. User interface for VOIP has also been updated considerable to be more consistent
+
+- Modify instances of UserID or Character Name so they displayed Online IDs
+    * Group user interface display is more robust and works with console Online IDs
+
+- Settings are now saved when you exist the menu
+    * User interface Options and Settings should persist after selection, and many other fixes improve the functionality of these settings
+
+- Better social feature integration
+
+- Crash fixes
+
+
+FIXES & IMPROVEMENTS
+
+- General
+    * Logging into and out of the game is now much more robust 
+    * "PSN" functionality has been significantly improved, allowing for online ID integration, safeguards with installation, input verification and stability checks, and various crash fixes
+
+- Audio
+    * Added audio support and improved audio performance for a large number of screens
+    * Fixed an issue where audio would dropout on occasion
+
+- Performance
+    * Performance improvements for particle effect and animation
+    * Intro cinematic should play smoothly
+    * Many memory leaks and frame spiking issues were fixed across the board
+    * Various quest and dungeon updates that improve performance and reduce overall lag
+
+- Social
+    * Guild communication channels should be more efficient and user-friendly 
+    * Guild management tools are more stable and provide more functionality
+
+- Tutorial
+    * Fixed a number of tutorial bugs where the tutorials were not firing
+    * Added additional text based tutorials
+
+- User Interface
+    * Localization improvements for German and French in many user interface screens
+    * Fixed some Achievements and Trophy user interface truncation issues
+    * Improvements on group finder user interface
+    * Many error codes and messages are now more user-friendly
+    * Legal agreements are now easier to navigate and read
+    * Alliance War user interface screens are easier to navigate and show more information
+    * Interactive windows with NPCs and books have a unified user interface scheme
+    * Fixed many crash issues and user interface lockout problems in Character Creation
+    * Fixed many Crafting user interface errors and improved the way crafting is displayed
+    * Refined the entire gamepad menu transitioning experience to be smoother and more reliable
+    * Numerous Ability, Synergy, Champion point and Skill interface updates
+    * Safeguards added to prevent players from locking themselves in user interface with accidental spamming
+    * Fixed many user interface errors involving inventory management, trading and vendors
+    ]]>
+  </changes>
+</changeinfo>

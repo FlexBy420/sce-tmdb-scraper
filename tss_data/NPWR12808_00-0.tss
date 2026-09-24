@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TSS>
+	<CUSA07880_00>
+		<CountryCode default="jp,hk,sg,my,id,th,kr,tw"></CountryCode>
+		<jp>
+			<Period>
+				<!-- 視聴開始 -->
+				<PublishBegin default="636336540000000000"></PublishBegin>
+				<!-- 終了日時 -->
+				<PublishEnd default="636389244000000000"></PublishEnd>
+			</Period>
+			<Website>
+				<!-- 日本語のみ別指定 -->
+				<Url default="http://www.kingsglaivefinalfantasyxv-movie.com/site/">
+				<JPN>http://www.jp.square-enix.com/kingsglaive/</JPN>
+				</Url>
+			</Website>
+			<Unlock>
+				<Time default="636336540000000000"></Time>
+				<No default="1,3-13,15-26,28-32,34-39"></No>
+			</Unlock>
+			<TrialUnlock>
+				<Unlock0 default="636336540000000000,1,1,0,193793"></Unlock0>
+				<Unlock1 default="636336540000000000,38,1,0,167160"></Unlock1>
+			</TrialUnlock>
+			<!-- ここからいつもの-->
+			<Store default="product">
+				<StringLabel>
+					<JPN>FINALFANTASYXV00</JPN>
+				</StringLabel>
+				<NumberLabel>
+					<JPN>2</JPN>
+				</NumberLabel>
+			</Store>
+			<!-- 広告情報 -->
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.jp.playstation.com/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+			<LoginBonus>
+				<!-- スペシャルボーナス -->
+				<SpecialBonus>
+					<LotteryLimit default="636388380000000000"></LotteryLimit>
+					<Lottery default="636397884000000000"></Lottery>
+					<WinnerNotice default="636397884000000000"></WinnerNotice>
+					<WinnerSend default="636423804000000000"></WinnerSend>
+				</SpecialBonus>
+				<!-- ボーナス一覧 -->
+				<!--
+				<Day0 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="1-39"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="1,1,0,193793"></Unlock0>
+						<Unlock1 default="10,1,0,147911"></Unlock1>
+						<Unlock2 default="16,1,0,39125"></Unlock2>
+					</NotPlusName>
+				</Day0>
+				-->
+				<Day0 default="enable">
+					<Icon default="silver"></Icon>
+					<PlusName default="PS4Theme">
+						<REPSTR default="PS4Theme">
+							<JPN>ボーナステーマ Night Sky 2</JPN>
+							<ENG>Bonus theme Night Sky 2</ENG>
+							<CHS>奖励主题 夜空主题 2</CHS>
+							<CHT>獎勵主題 夜空主題 2</CHT>
+							<KRA>보너스 테마 밤하늘 다이내믹 테마 2</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000001"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="PS4Avater">
+						<REPSTR default="PS4Avater">
+							<JPN>ボーナスアバター Earth 2</JPN>
+							<ENG>Bonus Avatar Earth 2</ENG>
+							<CHS>奖励虚拟形象 地球 2</CHS>
+							<CHT>獎勵個人造型 地球 2</CHT>
+							<KRA>보너스 아바타 지구 2</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000003"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day0>
+				<Day2 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="33"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="33,1,0,448516"></Unlock0>
+					</NotPlusName>
+				</Day2>
+				<Day9 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avater">
+						<REPSTR default="PS4Avater">
+							<JPN>ボーナスアバター Earth 1</JPN>
+							<ENG>Bonus Avatar Earth 1</ENG>
+							<CHS>奖励虚拟形象 地球 1</CHS>
+							<CHT>獎勵個人造型 地球 1</CHT>
+							<KRA>보너스 아바타 지구 1</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000002"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="PS4Avater">
+						<REPSTR default="PS4Avater">
+							<JPN>ボーナスアバター KURAGE 1</JPN>
+							<ENG>Bonus Avatar Jellyfish 1</ENG>
+							<CHS>奖励虚拟形象 水母 1</CHS>
+							<CHT>獎勵個人造型 水母 1</CHT>
+							<KRA>보너스 아바타 젤리피쉬 1</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000004"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day9>
+				<Day19 default="enable">
+					<Icon default="silver"></Icon>
+					<PlusName default="PS4Theme">
+						<REPSTR default="PS4Theme">
+							<JPN>PlayStation®Plus Earth テーマ</JPN>
+							<ENG>PlayStation®Plus Earth Theme</ENG>
+							<CHS>PS Plus地球主题</CHS>
+							<CHT>PS Plus地球主題</CHT>
+							<KRA>PlayStation®Plus지구테마</KRA>
+						</REPSTR>
+						<StringLabel default="PSPLUSTHEME16005"></StringLabel>
+						<NumberLabel default="1"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="PS4Avater">
+						<REPSTR default="PS4Avater">
+							<JPN>ボーナスアバター Cycling 1</JPN>
+							<ENG>Bonus Avatar Cycling 1</ENG>
+							<CHS>奖励虚拟形象 單車 1</CHS>
+							<CHT>獎勵個人造型 自行車 1</CHT>
+							<KRA>보너스 아바타 자전거 1</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000005"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day19>
+				<Day24 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="27"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="27,1,0,204591"></Unlock0>
+					</NotPlusName>
+				</Day24>
+				<Day29 default="enable">
+					<Icon default="silver"></Icon>
+					<PlusName default="PS4Theme">
+						<REPSTR default="PS4Theme">
+							<JPN>PlayStation®Plus KURAGE Theme</JPN>
+							<ENG>PlayStation®Plus Jellyfish Theme</ENG>
+							<CHS>PS Plus水母主题</CHS>
+							<CHT>PS Plus水母主題</CHT>
+							<KRA>PlayStation®Plus 젤리피쉬 테마</KRA>
+						</REPSTR>
+						<StringLabel default="PSPLUSTHEME16007"></StringLabel>
+						<NumberLabel default="1"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="PS4Avater">
+						<REPSTR default="PS4Avater">
+							<JPN>ボーナスアバター Cycling 2</JPN>
+							<ENG>Bonus Avatar Cycling 2</ENG>
+							<CHS>奖励虚拟形象 單車 2</CHS>
+							<CHT>獎勵個人造型 自行車 2</CHT>
+							<KRA>보너스 아바타 자전거 2</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000007"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day29>
+				<Day34 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="2"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="2,1,0,138065"></Unlock0>
+					</NotPlusName>
+				</Day34>
+				<Day39 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="14"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="14,1,0,110271"></Unlock0>
+					</NotPlusName>
+				</Day39>
+				<Day44 default="enable">
+					<Icon default="gold"></Icon>
+					<PlusName default="Coupon">
+						<REPSTR default="Coupon">
+							<JPN>ボーナス交換券 2</JPN>
+							<ENG>Bonus Coupon 2</ENG>
+							<CHS>奖励兑换券 2</CHS>
+							<CHT>獎勵兌換券 2</CHT>
+							<KRA>보너스 교환권 2</KRA>
+						</REPSTR>
+						<StringLabel default="FFOS100000000000"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="PS4Avater">
+						<REPSTR default="PS4Avater">
+							<JPN>ボーナスアバター KURAGE 2</JPN>
+							<ENG>Bonus Avatar Jellyfish 2</ENG>
+							<CHS>奖励虚拟形象 水母 2</CHS>
+							<CHT>獎勵個人造型 水母 2</CHT>
+							<KRA>보너스 아바타 젤리피쉬 2</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000006"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day44>
+			</LoginBonus>
+		</jp>
+		<hk default="jp">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/cht-hk/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</hk>
+		<sg default="jp">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-sg/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</sg>
+		<my default="jp">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-my/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</my>
+		<id default="jp">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-id/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</id>
+		<th default="jp">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-th/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</th>
+		<kr default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.playstation.co.kr/psn/psplus"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</kr>
+		<tw default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/cht-tw/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</tw>
+		<Other>
+			<Period>
+				<!-- 視聴開始 -->
+				<PublishBegin default="636336540000000000"></PublishBegin>
+				<!-- 終了日時 -->
+				<PublishEnd default="636389244000000000"></PublishEnd>
+			</Period>
+			<Website>
+				<!-- 日本語のみ別指定 -->
+				<Url default="http://www.kingsglaivefinalfantasyxv-movie.com/site/">
+				<JPN>http://www.jp.square-enix.com/kingsglaive/</JPN>
+				</Url>
+			</Website>
+			<Unlock>
+				<Time default="636336540000000000"></Time>
+				<No default="1,3-13,15-26,28-32,34-39"></No>
+			</Unlock>
+			<TrialUnlock>
+				<Unlock0 default="636336540000000000,1,1,0,193793"></Unlock0>
+				<Unlock1 default="636336540000000000,38,1,0,167160"></Unlock1>
+			</TrialUnlock>
+			<Store default="product">
+				<StringLabel>
+					<JPN>FINALFANTASYXV00</JPN>
+				</StringLabel>
+				<NumberLabel>
+					<JPN>2</JPN>
+				</NumberLabel>
+			</Store>
+			<!-- 広告情報 -->
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.jp.playstation.com/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+			<LoginBonus>
+				<!-- スペシャルボーナス -->
+				<SpecialBonus>
+					<LotteryLimit default="636388380000000000"></LotteryLimit>
+					<Lottery default="636397884000000000"></Lottery>
+					<WinnerNotice default="636397884000000000"></WinnerNotice>
+					<WinnerSend default="636423804000000000"></WinnerSend>
+				</SpecialBonus>
+				<!-- ボーナス一覧 -->
+				<!--
+				<Day0 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="1-39"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="1,1,0,193793"></Unlock0>
+						<Unlock1 default="10,1,0,147911"></Unlock1>
+						<Unlock2 default="16,1,0,39125"></Unlock2>
+					</NotPlusName>
+				</Day0>
+				-->
+				<Day0 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Theme">
+						<REPSTR default="PS4Theme">
+							<JPN>ボーナステーマ Night Sky 2</JPN>
+							<ENG>Bonus theme Night Sky 2</ENG>
+							<CHS>奖励主题 夜空主题 2</CHS>
+							<CHT>獎勵主題 夜空主題 2</CHT>
+							<KRA>보너스 테마 밤하늘 다이내믹 테마 2</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000001"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="PS4Avater">
+						<REPSTR default="PS4Avater">
+							<JPN>ボーナスアバター Earth 2</JPN>
+							<ENG>Bonus Avatar Earth 2</ENG>
+							<CHS>奖励虚拟形象 地球 2</CHS>
+							<CHT>獎勵個人造型 地球 2</CHT>
+							<KRA>보너스 아바타 지구 2</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000003"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day0>
+				<Day2 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="33"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="33,1,0,448516"></Unlock0>
+					</NotPlusName>
+				</Day2>
+				<Day4 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avater">
+						<REPSTR default="PS4Avater">
+							<JPN>ボーナスアバター Earth 1</JPN>
+							<ENG>Bonus Avatar Earth 1</ENG>
+							<CHS>奖励虚拟形象 地球 1</CHS>
+							<CHT>獎勵個人造型 地球 1</CHT>
+							<KRA>보너스 아바타 지구 1</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000002"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="PS4Avater">
+						<REPSTR default="PS4Avater">
+							<JPN>ボーナスアバター KURAGE 1</JPN>
+							<ENG>Bonus Avatar Jellyfish 1</ENG>
+							<CHS>奖励虚拟形象 水母 1</CHS>
+							<CHT>獎勵個人造型 水母 1</CHT>
+							<KRA>보너스 아바타 젤리피쉬 1</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000004"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day4>
+				<Day9 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Theme">
+						<REPSTR default="PS4Theme">
+							<JPN>PlayStation®Plus Earth テーマ</JPN>
+							<ENG>PlayStation®Plus Earth Theme</ENG>
+							<CHS>PS Plus地球主题</CHS>
+							<CHT>PS Plus地球主題</CHT>
+							<KRA>PlayStation®Plus지구테마</KRA>
+						</REPSTR>
+						<StringLabel default="PSPLUSTHEME16005"></StringLabel>
+						<NumberLabel default="1"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="PS4Avater">
+						<REPSTR default="PS4Avater">
+							<JPN>ボーナスアバター Cycling 1</JPN>
+							<ENG>Bonus Avatar Cycling 1</ENG>
+							<CHS>奖励虚拟形象 單車 1</CHS>
+							<CHT>獎勵個人造型 自行車 1</CHT>
+							<KRA>보너스 아바타 자전거 1</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000005"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day9>
+				<Day14 default="enable">
+					<Icon default="silver"></Icon>
+					<PlusName default="Coupon">
+						<REPSTR default="Coupon">
+							<JPN>ボーナス交換券 1</JPN>
+							<ENG>Bonus Coupon 1</ENG>
+							<CHS>奖励兑换券 1</CHS>
+							<CHT>獎勵兌換券 1</CHT>
+							<KRA>보너스 교환권 1</KRA>
+						</REPSTR>
+						<StringLabel default="FFOS090000000000"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="PS4Avater">
+						<REPSTR default="PS4Avater">
+							<JPN>ボーナスアバター KURAGE 2</JPN>
+							<ENG>Bonus Avatar Jellyfish 2</ENG>
+							<CHS>奖励虚拟形象 水母 2</CHS>
+							<CHT>獎勵個人造型 水母 2</CHT>
+							<KRA>보너스 아바타 젤리피쉬 2</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000006"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day14>
+				<Day19 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Theme">
+						<REPSTR default="PS4Theme">
+							<JPN>PlayStation®Plus KURAGE Theme</JPN>
+							<ENG>PlayStation®Plus Jellyfish Theme</ENG>
+							<CHS>PS Plus水母主题</CHS>
+							<CHT>PS Plus水母主題</CHT>
+							<KRA>PlayStation®Plus 젤리피쉬 테마</KRA>
+						</REPSTR>
+						<StringLabel default="PSPLUSTHEME16007"></StringLabel>
+						<NumberLabel default="1"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="PS4Avater">
+						<REPSTR default="PS4Avater">
+							<JPN>ボーナスアバター Cycling 2</JPN>
+							<ENG>Bonus Avatar Cycling 2</ENG>
+							<CHS>奖励虚拟形象 單車 2</CHS>
+							<CHT>獎勵個人造型 自行車 2</CHT>
+							<KRA>보너스 아바타 자전거 2</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000007"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day19>
+				<Day24 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="27"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="27,1,0,204591"></Unlock0>
+					</NotPlusName>
+				</Day24>
+				<Day29 default="enable">
+					<Icon default="silver"></Icon>
+					<PlusName default="Coupon">
+						<REPSTR default="Coupon">
+							<JPN>ボーナス交換券 2</JPN>
+							<ENG>Bonus Coupon 2</ENG>
+							<CHS>奖励兑换券 2</CHS>
+							<CHT>獎勵兌換券 2</CHT>
+							<KRA>보너스 교환권 2</KRA>
+						</REPSTR>
+						<StringLabel default="FFOS100000000000"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="PS4Avater">
+						<REPSTR default="PS4Avater">
+							<JPN>ボーナスアバター KURAGE 3</JPN>
+							<ENG>Bonus Avatar Jellyfish 3</ENG>
+							<CHS>奖励虚拟形象 水母 3</CHS>
+							<CHT>獎勵個人造型 水母 3</CHT>
+							<KRA>보너스 아바타 젤리피쉬 3</KRA>
+						</REPSTR>
+						<StringLabel default="FFOSTBON00000008"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day29>
+				<Day34 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="2"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="2,1,0,138065"></Unlock0>
+					</NotPlusName>
+				</Day34>
+				<Day39 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="14"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="14,1,0,110271"></Unlock0>
+					</NotPlusName>
+				</Day39>
+				<Day44 default="enable">
+					<Icon default="gold"></Icon>
+					<SpecialPage default="enable"></SpecialPage>
+					<PlusName default="Special">
+						<REPSTR default="Special">
+							<JPN>スペシャル</JPN>
+							<ENG>Special</ENG>
+							<CHS>Special</CHS>
+							<CHT>Special</CHT>
+							<KRA>Special</KRA>
+						</REPSTR>
+						<StringLabel default="FINALFANTASYXV00"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="Special">
+						<REPSTR default="Special">
+							<JPN>スペシャル</JPN>
+							<ENG>Special</ENG>
+							<CHS>Special</CHS>
+							<CHT>Special</CHT>
+							<KRA>Special</KRA>
+						</REPSTR>
+						<StringLabel default="FINALFANTASYXV00"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day44>
+			</LoginBonus>
+		</Other>
+	</CUSA07880_00>
+</TSS>

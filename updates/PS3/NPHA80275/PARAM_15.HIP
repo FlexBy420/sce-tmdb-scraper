@@ -1,0 +1,1 @@
+Diverse fiksing av programfeil

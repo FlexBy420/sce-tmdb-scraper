@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.02">
+    <![CDATA[
+New Stuff:
+
+ - Circle button now detonates trigger arrows rather than Square
+ - Added a screen explaining how to detonate trigger arrows to Darkfang. It will only show once per play session, and you can disable it by disabling tips in the Options menu 
+ - Catching a flaming arrow now lights you on fire
+ - Added 'Restart' option to Dark World pause menu and game over menu
+ - Added [???]
+
+
+Fixes:
+
+ - Rebalanced a few Twilight Spire stages
+ - Fixed 'Ghost Friend' bug
+ - Fixed depth issue with the King on King's Court in Versus mode
+ - Fixed moving platforms being able to push players outside of prism traps
+ - Fixed lives mismatch bugs in Quest mode
+ - Fixed No Treasure variant not working in Dark World mode
+    ]]>
+  </changes>
+  <changes app_ver="01.01">
+    <![CDATA[
+Dark World DLC:
+
+ - New Versus towers: 
+   + The Amaranth
+   + Dreadwood
+   + Darkfang
+   + Cataclysm (with procedurally generated levels)
+ - New 1-4 player Dark World co-op mode, with four unique boss battles
+ - New playable red archer, the Vainglorious Ghoul
+ - 9 additional playable ‘alternate archers’
+ - New Powerups:
+   + Trigger Arrows
+   + Prism Arrows
+   + Speed Boots
+ - New variants:
+   + Team Revive - In Team Deathmatch mode you can resurrect your friends
+   + Treasure Draft - Everyone picks a powerup at the start of each round
+   + Clumsy Archers - Drop an arrow every time you dodge
+   + No Quivers - Archers can only hold one arrow
+   + Double Jumping - You can jump again in the air
+   + Arrow Shuffle - Randomly picks 2 special arrow types to spawn this match
+   + No Hazards - Removes all environmental elements that can kill you
+   + Start with Trigger Arrows
+   + Start with Prism Arrows
+   + Start with Speed Boots (renamed from old variant ‘Speed Boots’)
+   + No Trigger Arrows
+   + No Prism Arrows
+   + No Speed Boots
+   + 2v2 Tournament Rules preset
+ - 12 new Trials, 3 from each new tower
+
+Other New Stuff:
+
+ - Added a new alternate “end of match” music track
+ - You can now save up to 5 custom variant presets at once (was previously 3)
+ - New Versus awards: 
+   + Happy Accident Award
+   + Mastermind Award
+   + Web of Lies Award
+   + Gravedigger Award
+   + Reanimator Award
+   + Exorcist Award
+   + Speed of Light Award
+   + Hyper Booper
+   + Hyper Martyr Award
+   + Ally Oop Award
+   + Bomb Squad Award
+   + Nerves of Steel Award
+   + Prism Warden Award
+   + Special Delivery Award
+   + Too Fast Too Furious
+   + Caged Animal Award
+ - Added more Team Deathmatch levels to the existing Versus towers. Every tower now has 6 Team levels. Most are modified versions of free-for-all maps, but Sunken City got a brand new level which is also playable in other modes
+ - Added the “Session Stats” page to the Archives, which shows stats from the current play session and resets when the game is closed
+ - Nine new variants: 
+   + Regenerating Arrows - If you have no arrows, you’ll gain one after a short time
+   + Regenerating Shields - If you have no shield, you’ll gain one after a short time
+   + Infinite Drills - Drill arrows will continuously drill through surfaces forever
+   + Anti-Gravity Arrows - Arrows will never fall or lose seeking
+   + Small Quivers - Lowers your max arrow count to 3
+   + Speed Boots - Increases your movement speed
+   + Super Seeking Arrows - Arrows seek a lot more
+   + Encumbrance - The more arrows you have, the slower you move
+   + Trigger Corpses - Hold the shoot button to explode your corpse! :D
+ - Added ~???~
+
+Balance:
+
+ - Merged FFA and 1v1 Tournament Rules into one ruleset simply called Tournament Rules. This ruleset contains only No Autobalance and Symmetrical Treasure
+ - Slowed down the final “push” of the miasma as it closes in to encourage more kills before it consumes all the archers, and to make center-stage a more advantageous position
+ - Sudden Death variant now starts with miasma 1 second into the match instead of 5 seconds
+ - Rebalanced a lot of Versus arenas in the original levelsets
+ - Jumping on a teammate’s head now shares arrows the same as bumping into them from the side
+ - You can now hold the dodge button to extend your dodge time by 5 frames. This is known as “dodge stalling”
+ - You can now catch arrows when you have a shield, but only if the arrow is not in a dangerous state (ie it would not hurt you anyways)
+ - Arrows are no longer destroyed when crushed by moving solids
+ - Arrow inventories are now visible during the round intro
+ - Treasure changes:
+   + Decreased the chance of no treasure spawning
+   + The chance of getting special arrows out of a treasure chest is now normalized. In most towers, there is a 60% chance each chest has a special arrow pickup, chosen from the possible types for that level
+   + No more than one of each orb pickup can spawn per level now. If the Chaos Orb spawns, no other orbs will spawn
+   + The amount of each upgrade powerup (Wings, Looking Glass, Speed Boots) that can spawn per round is now capped by the amount of archers
+ - Added a particle effect for hyper jumping to make it more readable
+ - Archers will now slip off ledges while ducking, if they’re on the ledge by 3 or less pixels. Slipping starts 4 frames after you start ducking
+ - You can now shoot the falling orbs in Twilight Spire to destroy them as they fall
+ - Max Treasure variant now caps the amount of chests spawned per level to the amount of players + 2
+ - Return as Ghosts variant improvements:
+   + The delay from the last kill to the end of the round is doubled when there are ghosts alive
+   + Ghosts can no longer kill for 30 frames after they finish spawning
+   + Players can now control their ghost a bit during the spawn animation
+   + The shoot button now triggers the ghost’s dash attack (was previously just the dodge button)
+   + Ghosts can now open treasure chests. Chests will always spawn bomb traps when opened this way
+   + Added some controller rumble cues to ghosts to remind players they’ve respawned
+   + Ghosts are now drawn above other gameplay elements so they’re easier to spot
+ - Electric shocks now destroy brambles
+ - You can now use dodge slides to pick up hats
+ - Spinning spikeballs now pick a random spin direction when the level starts
+ - Rebalanced a few Backfire versus mode level layouts 
+ - Bumping into a teammate (in Team Deathmatch or co-op Quest) will now trade an arrow to even out your arrow counts, if possible 
+ - You can now change your facing direction while ducking
+ - Powerups spawned from the bottomless treasure chest will now timeout and despawn after 5 seconds 
+ - Removed variants from the Randomize Variants pool: Cursed Bows, Cursed Dodges, No Slipping, Start with Super Bomb Arrows
+ - Made the Return As Ghosts ghost controls a bit faster and more responsive
+ - Arrows no longer collide with treasure chests in the short time they are flashing after they appear
+ - Can no longer hold the shoot button to prevent your corpse explosion with Exploding Corpses variant (the new Trigger Corpses variant replaced this)
+ - Changed how Most Trigger-Happy Award is rated. Previously it went to the archer who shot the most arrows, now it goes to the player who spams consecutive arrows the most
+ - Changed requirement for Massive Mythology trophy to 5,000 rounds (was 20,000) 
+ - Changed requirement for Thief's Badge trophy to 10 diamond medals (was 30)
+ - Changed time requirement for Time Lord trophy to 2:15 (was 2:00)
+
+Quest Mode Changes:
+
+ - Players are now revived at their corpses, like in the new Dark World co-op mode
+ - Level completion time is now tracked on Hardcore mode
+ - Removed the old score system
+ - The ‘Level Complete’ screen now awards the crown to the player who performs better (based on kills, deaths, and combo). That player wears the crown in the next level
+ - Mimic archers now have the corpses of the archer they’re disguised as
+ - Ghost enemies can no longer hurt you while they’re stunned
+ - Added super jump pads to Twilight Spire
+ - Cultist enemies can now hop up one-tile-high ledges
+ - Red crystal enemies now only shoot one arrow at a time (blue ones still shoot twice)
+ - The final boss’s beam attack now lights players on fire
+
+Other Changes:
+
+ - Added ways to unlock Sunken City and Moonstone that don’t require multiple players. Also added a way to unlock TowerForge in Versus mode. You can now unlock all the secret levels by playing exclusively co-op or versus modes.
+ - Added a short intro to Versus matches like in Quest or Trials modes
+ - Start with Random Arrows variant no longer chooses arrow types disabled by other variants
+ - Powerup improvements:
+   + Pickups now drift downward when stuck inside a solid block
+   + Added a sparkling particle effect and a glow
+   + Added a visual icon on top of the shield pickup to make it more visible
+   + Increased the radius of light emitted by pickups
+   + Added a smooth light fade out effect when collected
+ - Players are now bounced backward by lava when killed by it
+ - Added a subtle particle effect when arrows move through moonglass
+ - Newer arrows and corpses are now always drawn above older ones
+ - Moved a few variants into a new category called “Curses”
+ - Improved electric shock rendering
+ - Hyper jumping now extinguishes torches
+ - Player corpses now push out from each other when overlapping
+ - The points awarded and lost at the end of a round of Headhunters are now shown in chronological order of when they occurred during the round
+ - If you’re playing one of the ‘Tournament Rules’ presets, the tournament icon will be shown in the UI rather than the individual variants. 
+ - Variants for disabling specific powerups will no longer be shown in the round start UI
+ - Variants to disable hidden arrow types are no longer marked as NEW when you unlock them
+ - Added the King to a King’s Court level, in the background. He orders players to fight when the round begins, and laughs when they die
+ - Added ambient rain sounds to the Ascension tower
+ - New controller rumble cues:
+   + Bumping into another player
+   + Stomping another player
+   + Stomping on an enemy or a ghost
+   + Dropping an orb or icicle by touching it
+   + Respawning as a ghost
+   + A constant slight rumble when playing as a ghost
+   + Getting a kill as a ghost
+   + Your ghost dies
+   + Your corpse explodes
+   + Charging up a corpse explosion with Trigger Corpses
+   + Reviving or being revived with Team Revive
+   + Opening a treasure chest
+   + On the results screen when winning a match
+ - Toy arrows can no longer catch fire
+ - The purple archer now always gives off ambient particles (unless she’s invisible)
+ - Polished the archer unlock sequence a bit more
+ - Improved the Ascension level background a bit
+ - Changed requirement for Battle Stenography trophy to “Earn 90% of the awards in Versus mode”
+ - Redesigned the Credits menu
+ - Removed Time Lord trophy, replaced by Reaper’s Crown trophy
+ - Added option to disable controller rumble 
+ - New variants added in patches will now show up as "NEW!" in-game the next time you play
+ - Returning to Archer Select from Versus match end menu now un-joins all players, so you can all repick
+ - You can now activate the Exploding Corpses and Return As Ghosts variants simultaneously
+ - Random vetoed levels (press L2 on a level on the map to veto it) are now remembered until the game is restarted 
+ - Can now press the random veto button (L2) on the random map tile to quickly cancel all vetoes 
+
+Fixes:
+
+ - Electric shocks will no longer affect arrows that are stuck into things or laying motionless
+ - Fixed drill arrows glitching out when trying to drill through moving blocks
+ - No Seeking Arrows and Super Seeking Arrows variants are now mutually exclusive
+ - Fixed not being able to defuse your own Bomb Arrow if shot at the floor from ducking
+ - Fixed not being able to defuse your own Bomb Arrow if you have a shield
+ - Fixed not being able to wall jump cancel out of a dodge from a ledge grab
+ - Fixed the shield and wing powerup hitboxes being wildly inaccurate
+ - Fixed the player sometimes getting pushed the wrong direction when narrowly avoiding getting squished by a solid block
+ - Fixed player’s hat sometimes warping around if the player died by squishing
+ - Fixed minor character select UI arrow coloring bug
+ - Fixed incorrect depth on player indicator HUD when respawning in Quest mode
+ - Reduced volume of the moonglass shatter sound
+ - Skull and coin icon spin animations are now properly synced on the scoreboard
+ - Fixed Player Ghosts being able to spawn inside reappearing breakable platforms
+ - Fixed various overlapping sound bugs involving hot coals, player-on-player collisions, and player-on-enemy collisions
+ - Fixed a sound effect missing in the King Reaper boss fight (when you destroy his laser gems)
+ - Fixed corpses not being able to slip off ledges into one-tile-wide gaps
+ - Fixed mimic archers losing their hats at unreasonable speeds when killed
+ - Fixed rendering bug with white archer corpse’s hair when crossing screen wrap
+ - Fixed being able to catch explosive arrows on the same frame they explode (triggering both the catch and the explosion)
+ - Fixed a few minor graphical bugs on the map
+ - Fixed Tall Tales and Massive Mythology trophies never unlocking
+ - Fixed the new variant '!' on the variants menu not drawing with the correct transparency
+ - Fixed facing direction flipping when another player bumps you while you're ducking
+ - Picking up your own crown no longer counts toward the Usurper Award
+ - Picking up your own hat now only counts toward the Most Fashionable award if you were previously hatless
+ - Fixed Koala Hunter Award only counting stomp kills
+ - Fixed replays during slow mo being really short
+ - Fixed drill arrows still seeking while drilling when No Seeking Arrows variant is activated 
+ - Fixed being able to catch arrows if you dodge right as they hit you even if you have the No Dodging variant activated 
+ - Fixed Cursed Dodges variant killing you after an arrow catch if that arrow was caught during the grace period after being hit
+ - Fixed bug with treasure spawn location randomization in Versus mode
+ - Fixed Cataclysm boss appearing to take damage during its final attack phase, when you can't actually damage it
+ - Fixed Boss Hits stat not working correctly in the Dark Gauntlet level
+ - Fixed Dark Gauntlet not spawning as many shield pickups as intended on the final level
+ - Tweaked The Amaranth boss level layout and behavior slightly
+ - Fixed not being able to revive if the Blind Lich boss squishes you immediately after a revive
+ - Fixed the Blind Lich boss burying your corpse in the ceiling with one of his attacks on Legendary difficulty
+ - Fixed incorrect level geometry in one Frostfang Keep team level
+ - Possible fix for a super-rare arrow catch crash 
+    ]]>
+  </changes>
+</changeinfo>

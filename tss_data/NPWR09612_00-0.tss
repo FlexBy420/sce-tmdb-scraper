@@ -1,0 +1,39 @@
+{
+	"version" : 8,
+    "compmp-motd": {
+        "headline": "DOOM MULTIPLAYER ALPHA",
+        "body": "Welcome to the DOOM Closed Alpha.  Servers are open from 10:01pm ET (UTC -5) Thursday, December 3 through 11:59pm ET (UTC -5) Sunday, December 6.\n\nNote: You may only join games via the in-game Find Match option.\n\nVisit http://doom.com/alpha/sonyforum for closed forum access."
+    },
+	"remote_endpoints": [
+        { "id" : 0, "regionId" : 0, "preference" : 0, "uri": "https://dfw-2.doom.amok.systems", "statusUri": "https://dfw-2.doom.amok.systems/mpcloud/status" },
+		{ "id" : 1, "regionId" : 1, "preference" : 0, "uri": "https://fra-2.doom.amok.systems", "statusUri": "https://fra-2.doom.amok.systems/mpcloud/status" },
+		{ "id" : 2, "regionId" : 2, "preference" : 0, "uri": "https://sa-east-1-prod-grupsn01-gateway1.zionprod.systems", "statusUri": "https://sa-east-1-prod-grupsn01-gateway1.zionprod.systems/mpcloud/status" },
+		{ "id" : 3, "regionId" : 3, "preference" : 0, "uri": "https://ap-southeast-1-prod-sinpsn01-gateway1.zionprod.systems", "statusUri": "https://ap-southeast-1-prod-sinpsn01-gateway1.zionprod.systems/mpcloud/status" },
+		
+		
+		{ "id" : 4, "regionId" : 0, "preference" : 1, "uri": "https://us-west-2-prod-pdxpsn01-gateway1.zionprod.systems", "statusUri": "https://us-west-2-prod-pdxpsn01-gateway1.zionprod.systems/mpcloud/status" },
+		{ "id" : 5, "regionId" : 1, "preference" : 1, "uri": "https://eu-central-1-prod-frapsn01-gateway1.zionprod.systems", "statusUri": "https://eu-central-1-prod-frapsn01-gateway1.zionprod.systems/mpcloud/status" },
+		{ "id" : 6, "regionId" : 2, "preference" : 0, "uri": "https://sa-east-1-prod-grupsn01-gateway3.zionprod.systems", "statusUri": "https://sa-east-1-prod-grupsn01-gateway3.zionprod.systems/mpcloud/status" },
+		{ "id" : 7, "regionId" : 3, "preference" : 0, "uri": "https://ap-southeast-1-prod-sinpsn01-gateway2.zionprod.systems", "statusUri": "https://ap-southeast-1-prod-sinpsn01-gateway2.zionprod.systems/mpcloud/status" },
+		
+		
+		
+		{ "id" : 8, "regionId" : 0, "preference" : 1, "uri": "https://us-west-2-prod-pdxpsn01-gateway2.zionprod.systems", "statusUri": "https://us-west-2-prod-pdxpsn01-gateway2.zionprod.systems/mpcloud/status" },
+		{ "id" : 9, "regionId" : 1, "preference" : 1, "uri": "https://eu-central-1-prod-frapsn01-gateway2.zionprod.systems", "statusUri": "https://eu-central-1-prod-frapsn01-gateway2.zionprod.systems/mpcloud/status" },
+		{ "id" : 11, "regionId" : 3, "preference" : 0, "uri": "https://ap-southeast-2-prod-sydpsn01-gateway1.zionprod.systems", "statusUri": "https://ap-southeast-2-prod-sydpsn01-gateway1.zionprod.systems/mpcloud/status" },
+		
+		
+		{ "id" : 12, "regionId" : 0, "preference" : 1, "uri": "https://us-west-2-prod-pdxpsn01-gateway3.zionprod.systems", "statusUri": "https://us-west-2-prod-pdxpsn01-gateway3.zionprod.systems/mpcloud/status" },
+		{ "id" : 13, "regionId" : 3, "preference" : 0, "uri": "https://ap-southeast-2-prod-sydpsn01-gateway2.zionprod.systems", "statusUri": "https://ap-southeast-2-prod-sydpsn01-gateway2.zionprod.systems/mpcloud/status" },
+		
+		{ "id" : 14, "regionId" : 0, "preference" : 1, "uri": "https://us-east-1-prod-iadpsn01-gateway1.zionprod.systems", "statusUri": "https://us-east-1-prod-iadpsn01-gateway1.zionprod.systems/mpcloud/status" },
+		{ "id" : 15, "regionId" : 0, "preference" : 1, "uri": "https://us-east-1-prod-iadpsn01-gateway2.zionprod.systems", "statusUri": "https://us-east-1-prod-iadpsn01-gateway2.zionprod.systems/mpcloud/status" },
+		{ "id" : 16, "regionId" : 0, "preference" : 1, "uri": "https://us-east-1-prod-iadpsn01-gateway3.zionprod.systems", "statusUri": "https://us-east-1-prod-iadpsn01-gateway3.zionprod.systems/mpcloud/status" }
+    ],
+    "remote_devEndpoints": [                         
+		{ "id" : 17, "regionId" : 0, "preference" : 0, "uri": "https://us-west-2-dev-zionqa03-gateway1.ziondev.systems", "statusUri": "https://us-west-2-dev-zionqa03-gateway1.ziondev.systems/mpcloud/status" },
+		{ "id" : 18, "regionId" : 0, "preference" : 0, "uri": "https://us-west-2-dev-zionqa03-gateway2.ziondev.systems", "statusUri": "https://us-west-2-dev-zionqa03-gateway2.ziondev.systems/mpcloud/status" },
+		{ "id" : 19, "regionId" : 0, "preference" : 0, "uri": "https://us-west-2-dev-zionqa03-gateway3.ziondev.systems", "statusUri": "https://us-west-2-dev-zionqa03-gateway3.ziondev.systems/mpcloud/status" }
+    ]
+}
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+		Changelist:
+		- cloud/local saves happen asynchronously
+		- exit confirmation screen dims all the way
+		- fixed a crash that can sometimes occur when quitting a game to the main menu
+		- trophy description adjust for A Perfect Perfect to account for RUNNER's levelling
+		- BEAT's comet effects toned down
+		- BEAT's game over screen brightened up
+		- BEAT's main menu paddle fades out with the rest of the screen
+		- BEAT's end of level score tallying is bigger and centered vertically
+		- BEAT's printing of the base score per beat is halved in EASY
+		- CORE's point-per-beat is halved for EASY difficulty
+		- CORE's values for mode'ing up/down adjusted for twice as easy to mode up in EASY and twice as easy to mode down in HARD, and the rest of the values are same as for NORMAL
+		- CORE can be unpaused by the circle button
+		- CORE's A Perfect Perfect achievement no longer difficulty-specific
+		- VOID's main menu effects when popping beats render correctly on the VOID
+		- VOID can be unpaused also by the circle button
+		- RUNNER's get-gold effect brightness toned down
+		- RUNNER's left black bar in the bonus levels goes all the way to the top
+		- RUNNER's first cutscene's planet shimmering fixed
+		- RUNNER's main menu music starts when the menu comes up
+		- RUNNER'S levelend music is looped
+		- RUNNER's bonus level unpaused only by the START button
+		- RUNNER's score/gold/etc. droptext is the same width as the text it's dropping from
+		- RUNNER/FATE/FLUX unlocking a level unlocks for all difficulty levels
+		- FATE subliminal text centered vertically
+		- FATE's buddy powerup adjusted so that the parallex effect is minimized
+		- FATE's pause menu letterbox bars go all the way to the top/bottom of the screen
+		- FATE's main menu letterbox bars go all the way to the top/bottom of the screen
+		- FATE's first music loop fixed
+		- FATE's initial/death cutscenes fixed to remove shimmering
+		- FLUX's levelend score is centered
+		- FLUX's racquetball boss dies in 10 instead of 15 "hits"
+		- FLUX's vibration toned down
+		- FLUX's META mode cells put back and working
+    ]]>
+  </changes>
+</changeinfo>

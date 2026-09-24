@@ -1,0 +1,22 @@
+{
+	"loginServer" : {
+		"fqdn" : "scls.vs765.nbgi-amnet.jp",
+		"host" : "scls.vs765.nbgi-amnet.jp",
+		"port" : 443,
+		"commandPort" : 443,
+		"urlPrefix" : "Moon",
+		"consumerKey" : "67eca7d08be8c80be65bdc2efac38ddd",
+		"consumerSecret" : "9167eb82dd7f8c72cc745779eb37a429"
+	},
+	"enableEncryption"							: false,
+	"enablePlatformSignin"						: true,
+	"httpRequestTimeoutMsec"					: 10000,
+	"psnServiceIDStr"							: "JP0700-NPJB00466_00",
+	"psnServiceIDStr_JP"						: "JP0700-NPJB00466_00",
+	"psnServiceIDStr_US"						: "UP0700-NPUB31345_00",
+	"psnServiceIDStr_EU"						: "EP0700-NPEB01827_00",
+	"lobbyServerConfigEnable"					: false,
+	"playerIDRandomGeneration"					: false,
+	"dummyCipherKey"							: "0123456789abcdef0123456789abcdef",
+	"httpsEnable"								: true
+}

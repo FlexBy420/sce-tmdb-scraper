@@ -1,0 +1,31 @@
+{
+	"data": [
+		{
+			"enable": true,
+			"iD": 2,
+			"name": "",
+			"eventStartDate": "2019.02.09-06.00.00",
+			"eventEndDate": "2019.02.10-06.00.00",
+			"rewardEndDate": "2019.02.16-05.59.59",
+			"MoodType": 4,
+			"IndexInMoodType": -1,
+			"gamePointTotal": 100000,
+			"rewards": [
+				{
+					"conditionKind": "E_REWARD_COND_KIND_EVERY_GAMECLEAR",
+					"conditionPoint": 1,
+					"kind": "E_REWARD_KIND_AVATAR_GACHA",
+					"value": 7,
+                    "messageId": ""
+				},
+				{
+					"conditionKind": "E_REWARD_COND_KIND_WORLD_FINISH_POINT",
+					"conditionPoint": 150000,
+					"kind": "E_REWARD_KIND_AVATAR",
+					"value": 153,
+                    "messageId": ""
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+	<changes app_ver="01.02">
+		<![CDATA[
+			- New ghost format. New ghosts can now be watched like replays
+			- Weekly challenges and special events : add an option to watch attached replays
+			- Fix input binding issue with some Fanatec steering wheels
+			- Fix checkpoints. If a checkpoint is missed, player is respawned to last validated checkpoint
+			- Network stability fixes
+		]]>
+	</changes>
+	<changes app_ver="01.01">
+		<![CDATA[
+			- Fix pad vibrations
+			- Fix Thrustmaster steering wheel FFB
+			- Add Fanatec and Logitech steering wheel support
+			- Add option to configure steering wheel rotation angle
+			- Add D-pad control for steering
+			- Fix some menu actions missing binding on steering wheels
+			- Change penalty system : time penalties are decreased but now stack
+			- Display speedometer in cockpit view with close camera distance
+			- Increase clear weather probability
+			- Increase ghost limit per scoreboard from 5 to 10
+			- Improve engine sounds
+			- Remove codriver shock voices
+			- Remove respawn range option
+			- Fix respawn distances
+			- Fix trophies being unlocked after giving up a stage
+			- Fix gear ratio setting being inverted in car configuration menu
+			- Stability fixes
+		]]>
+	</changes>
+</changeinfo>

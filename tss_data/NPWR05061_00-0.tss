@@ -1,0 +1,19 @@
+{
+	"loginServer" : {
+		"fqdn" : "www.bandainamcogames.co.jp",
+		"host" : "www.bandainamcogames.co.jp",
+		"port" : 443,
+		"commandPort" : 443,
+		"urlPrefix" : "Moon",
+		"consumerKey" : "67eca7d08be8c80be65bdc2efac38ddd",
+		"consumerSecret" : "9167eb82dd7f8c72cc745779eb37a429"
+	},
+	"enableEncryption"							: false,
+	"enablePlatformSignin"						: true,
+	"httpRequestTimeoutMsec"					: 10000,
+	"psnServiceIDStr"							: "JP0700-NPJB90617_00",
+	"lobbyServerConfigEnable"					: false,
+	"playerIDRandomGeneration"					: false,
+	"dummyCipherKey"							: "0123456789abcdef0123456789abcdef",
+	"httpsEnable"								: true
+}

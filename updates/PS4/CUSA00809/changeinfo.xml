@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.08">
+<![CDATA[
+New and Updated Content
+- Added 4 new fighters; 1 in Women’s Bantamweight: Holly Holm, 2 in Lightweight: Rafael dos Anjos and Eddie Alvarez and 1 in Light Heavyweight: Anthony Johnson
+- Added a stamina penalty for missed and blocked strike
+- Added full body hit reactions to strikes landed while lunging
+- Tuned stamina for lunges 
+]]>
+  </changes>
+  
+  <changes app_ver="01.07">
+<![CDATA[
+New and Updated Content
+- Added 4 Legendary Fighters; 2 at Heavyweight: Brock Lesnar and Mark Coleman, 1 in Light Heavyweight: Quinton ‘Rampage’ Jackson, and 1 in Welterweight: Matt Hughes.
+]]>
+  </changes>
+  
+  <changes app_ver="01.06">
+<![CDATA[
+New and Updated Content
+- Addition of 3 new fighters. 1 in Lightweight: Myles Jury, 1 in Middleweight: Yoel Romero, and 1 at Heavyweight: Andrei Arlovski.
+
+Online
+- Fixed an issue with the Fighter Stats screen in Online Championships.
+
+Miscellaneous
+- Fixed idle animations for a few fighters.
+]]>
+  </changes>
+  
+  <changes app_ver="01.05">
+<![CDATA[
+New and Updated Content
+- Addition of 3 new fighters. 2 in Lightweight: Diego Sanchez and Michael Chiesa, and 1 in Welterweight: Hector Lombard.
+- Added Gegard Mousasi to Middleweight Division.
+- Implemented a stamina burn system to counter consecutive single-type strike combos.
+
+Gameplay
+- Fixed an issue where performing a sweep during kick animations may cause temporary loss of functionality.
+- Fixed stamina reduction for get-up attempts from Submissive Full Mount, Back Mount, Crucifix and Dominant Rubber Guard.
+- Fixed an exploit with transition denials from the clinch.
+- Added pause to stamina regeneration on attacker if takedown is successfully denied.
+]]>
+  </changes>
+
+  <changes app_ver="01.04">
+<![CDATA[
+New and Updated Content
+- Addition of 2 new fighters. 1 in Welterweight: Gunnar Nelson and 1 in Middleweight: Tim Kennedy.
+- Added Nick Diaz to Middleweight Division.
+- Updates to fighter records.
+- Gameplay – Finish the Fight 2.0 – Rush down the opponent with a flurry of punches when they are wobbled.
+- Gameplay – Added Guillotine Takedown Reversals. To initiate, deny a takedown with the R1 button and Right Stick Down. Must be done with a fighter who has Guillotine in Full Guard.
+- Gameplay – Added more variety to Takedowns based on denial and input times. Perfect takedowns will end in Half Guard and late denials or inputs will end in Full Guard.
+- Gameplay – Added new Submissive Side Control transition to Side Back Mount.
+
+Gameplay
+- Added animations for fatigued kicks during Health Events or low stamina.
+- Slips – Back slips procedurally hold longer to avoid strikes, side slips have improved evasive properties.
+- Strikes will now interrupt kicks if landed early in the kick animation.
+- Increased stamina tax on slips and lunges.
+- Adjusted movesets of a few fighters.
+- Fixed transition denial inputs for certain clinch positions.
+- Fixed issue with clinch steering.
+- Fixed an issue with fighters freezing on the ground.
+- Fixed an issue with fighters clipping through the cage.
+- Tuning – Tuned priority logic on the ground and in the clinch.
+- Tuning – Tuned Strike combo branching.
+- Tuning – Clinch transition timings have been tuned.
+- Tuning – Takedown denial timings have been tuned.
+- Tuning – Parry timing has been tuned.
+- Tuning – Referee stand up time has been tuned for more dominant positions.
+- Tuning – Judge logic tuned.
+- Tuning – Stamina has been tuned.
+
+Online
+- Fixed an issue with offline save data triggering Championship presentation online.
+
+Miscellaneous
+- Fix unsupported characters for Russian in Origin Flow.
+]]>
+  </changes>
+
+  <changes app_ver="01.03">
+<![CDATA[
+New and Updated Content
+- Addition of 3 new fighters. 2 in Welterweight: Matt Brown, Mike Pyle and 1 at Heavyweight: Stipe Miocic.
+- Updates to fighter records.
+- Gameplay – Added Referee TKO stoppage if dominant fighter throws too many blocked strikes without the submissive fighter trying to improve his position.
+- Gameplay – Added the ability to catch kicks on parries if the attacking fighter has low stamina or high leg damage when throwing a kick. If Parry button is held, a takedown will be initiated.
+- Gameplay – Added new defensive standup transitions from Full Guard. Moved Sweep to Advanced Transition.
+- Gameplay – Added Back Mount escape for submissive fighter.
+- Gameplay – Added manual taunts. Press Left or Right Directional buttons to taunt.
+- Gameplay – Successful Basic Single Leg Takedowns will now end in Half Guard.
+- Online – Added Coins to Championships. Watch partner videos from the Home Panel and earn Coins to trade in for Season Points.
+
+Gameplay
+- Fixed issue where dominant fighter could stall transitions.
+- Fixed an exploit where fighters could sneak in a free hammer fist during Posture up and down animations.
+- Fixed exploit in Side Control where users could land a free shot after transitioning to Side Control.
+- Fixed an issue with Cage Clinch Break denial inputs.
+- Tuning – Increased base punch speed of all weight classes.
+- Tuning – AI tuned to be less aggressive. AI is more aware of stamina and fight pacing.
+- Tuning – Duration and probability of Health Events has been tuned.
+- Tuning – Stamina loss on strikes landed has been adjusted.
+- Tuning – Tuned denial windows for various ground transitions, getups and submission attempts.
+- Tuning – Animation speeds adjusted for strikes that were being abused Online.
+- Added delay on submission attempts after a failed submission.
+- Submissions cannot be attempted when attacker has minimal Stamina.
+- Fighters can change stances while blocking.
+- Adjusted Antônio Rogério Nogueira’s and Robbie Lawler’s Hand Power and Speed attributes.
+
+Career
+- Fixed issue where Crucifix was unavailable in career. Will now be available on new Career save files after purchasing transition.
+
+Online
+- Allow users to view Fighter Stats and Abilities in Online Championships Fighter Select Screen.
+- Disabled Online Pause in all Online modes. User can still access the Pause menu, however it does not pause gameplay.
+
+Miscellaneous
+- Fixed an issue with incorrect video for ‘GSP Switch Kick’ move.
+- Fixed a crash when adjusting Walk out music.
+- Fixed an issue with Mat damage.
+- Changed Antônio Rogério Nogueira’s stance to southpaw.
+- Various replay fixes.
+]]>
+  </changes>
+
+  <changes app_ver="01.02">
+<![CDATA[
+New and Updated Content
+- Addition of 3 new fighters. 2 in Bantamweight: TJ Dillashaw, Takeya Mizugaki and 1 at Welterweight: Tyron Woodley.
+- Updates to fighter records.
+- Update TJ Dillashaw to be Bantamweight Champion in Career and default fighter in Fight Now.
+- Updated Alexander Gustafsson’s tattoo.
+- Gameplay - Added Finish the Fight. Allowing users to land extra shots as a fighter gets knocked out.
+- Gameplay - Added Sprawls when defending Power Takedowns.
+- Gameplay - Added the ability to touch gloves at the start of every round.
+
+Gameplay
+- Added animation to submissive fighter when attempting full guard sweep to a postured opponent in full guard.
+- Added the ability to break out of cage clinch by pressing L3 button.
+- Fixed an exploit where Dominant fighter in full mount could sneak in punches from Posturing up.
+- Fix for arm alignment issue for certain fighters in full mount.
+- Removed Power takedowns and side control sweeps from fighters that should not have them.
+- Stamina and Damage changes are now relative to Accelerated Clock.
+- Stamina no longer regenerates if user holds block.
+- User takes a larger stamina penalty when hit while weak blocking.  
+- Dominant fighter in full guard has larger window to reverse the Full Guard sweep to Mount. Animation of sweep takes longer. 
+- Fixed rare submission issue where gates could be skipped.
+- Fixed issues with framerate during gameplay.
+- Fixed rare issue with loss of takedown functionality after denying cage clinch.
+- Fixed issues with referee standup during TKOs and Submissions.
+- Fixed various physics issues.
+- Fixed various animation issues. 
+
+Audio
+- Update to Renan Barão Bruce Buffer commentary.
+
+Online
+- Opened Red Belt division in Championships.
+- Opened Grand Prix Invitational tournament in Championships.
+- Fix to online leaderboard stats displaying incorrectly in comparison to FighterNet Profile.
+- Fix to online disconnects in tournaments resetting user’s fighter.
+- Fix to online disconnects not reporting the game and no DNF given.
+- Fixed issue with uploading highlight reels when game is suspended.
+
+Miscellaneous
+- Added a EULA tile in the Extras menu.
+- Update to filtering of tutorial videos based on Language settings.
+- Fix to Origin flow in unsupported language displaying unsupported text.
+- Decreased difficulty of Initial Fight after tutorials. User is unable to get knocked down during standup.
+- Fixed Create a fighter icons for hats and tattoos.
+- Fixed rare issue with incorrect Post fight NIS playing.
+- Fixed rare crash that occurred during replays.
+- Fixed issue with Game Face Fighters having a seam around neck.
+]]>
+  </changes>
+
+  <changes app_ver="01.01">
+<![CDATA[
+Gameplay
+- Tuned ability “Infinite Core” to have a bit of impact on Stamina.
+- Tuned down the abilities “Bobble Head” and “Crushing Blows” that increased the chance of liver shots as they were too powerful.
+- Tuned down the ability “Weathering Storms” as it was too powerful.
+- General gameplay and difficulty level tuning.
+- Miscellaneous physics improvements.
+
+Audio
+- Fixed issue where punches from a submissive position in tower guard could not be heard.
+- Fixed issue where there was no gym timer for career sparring.
+- Fixed issue where all Welterweight fighters would be announced as Middleweights when they won The Ultimate Fighter Finale.
+
+Career
+- Added functionality to the Power Rankings screen where when changing through views the next page started at the top of the list. It will now stay on the fighter that was highlighted.
+- Fixed issue where the user is unable to hit the advance prompts in the Attempting Submissions training game.
+- Fixed issue where, while fighting in the TUF gym, objects around outside the cage will get in front of the camera, blocking the action.
+- Fixed issue where Brutal Leg Kicks video was appearing in the wrong location.
+- Fixed issue where a locked, unselectable Roundhouse kick option is present in the moves screen.
+- Miscellaneous Career Mode tuning.
+
+Miscellaneous
+- Added the ability for the user to delete Highlight Reels.
+- Added screen to in-game pause menu that lists move sets for both fighters in Fight Now.
+]]>
+  </changes>
+</changeinfo>

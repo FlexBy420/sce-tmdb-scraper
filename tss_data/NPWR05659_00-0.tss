@@ -1,0 +1,12 @@
+
+sub settings()
+{
+    EnablePLS(true);
+    ServerProdPLS("https://pls.dyinglightgame.com");
+    ServerDevPLS ("https://pls.dyinglightgame.com");
+    DisableQoSConnectionTest(true);
+    AllowedMaps()
+    {
+       AllMaps();
+    }
+}

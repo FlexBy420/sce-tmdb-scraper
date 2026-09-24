@@ -1,0 +1,41 @@
+{
+    "switchingIDs": [ ],
+    "defaultServiceURL": {
+        "IsJSON": true,
+        "URL": "http://senlive-event.s3.amazonaws.com/prod/schedule.json",
+        "NewsURL": "http://senlive-event.s3.amazonaws.com/prod/news.json"
+    },
+    "serviceURLs": [
+        {
+            "Label": "FPQA",
+            "IsJSON": true,
+            "URL": "http://senlive-event.s3.amazonaws.com/fpqa.json",
+            "NewsURL": "https://s3.amazonaws.com/senlive-event/fpqa_news.json"
+        },
+        {
+            "Label": "Production (Not Active)",
+            "IsJSON": true,
+            "URL": "http://senlive-event.s3.amazonaws.com/prod.json",
+            "NewsURL": "https://s3.amazonaws.com/senlive-event/prod_news.json"
+        },
+        {
+            "Label": "Pre-Production",
+            "IsJSON": true,
+            "URL": "http://senlive-event.s3.amazonaws.com/preprod.json",
+            "NewsURL": "https://s3.amazonaws.com/senlive-event/preprod_news.json"
+        },
+        {
+            "Label": "SNE-Dev",
+            "IsJSON": true,
+            "URL": "http://senlive-event.s3.amazonaws.com/sne-dev.json",
+            "NewsURL": "https://s3.amazonaws.com/senlive-event/sne-dev_news.json"
+        },
+        {
+            "Label": "SCEE R&D-Dev",
+            "IsJSON": true,
+            "URL": "http://senlive-event.s3.amazonaws.com/sceerd-dev.json",
+            "NewsURL": "https://s3.amazonaws.com/senlive-event/sceerd-dev_news.json"
+        }
+    ],
+    "encryptionKey": "9gQhbrDA4R8tqhOCETPQag=="
+}

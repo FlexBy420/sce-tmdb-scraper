@@ -1,0 +1,203 @@
+netVars {
+	"chainRally_weighting"						"0.40"
+	"meteorRally_weighting"						"0.25"
+	"Carnage_weighting"							"0.20"
+	"triadRally_weighting"						"0.15"
+
+	"gearhead_weighting"						"0.19"
+	"meteor_weighting"							"0.19"
+	"reactor_weighting"							"0.19"
+	"southernHighway_weighting"					"0.19"
+	"abandoned_weighting"						"0.19"
+	"prime_weighting"							"0.05"
+
+	"net_connectTimeoutInSeconds"					"15"
+	"net_peerTimeoutInSeconds"						"30"
+	"net_peerTimeoutInSeconds_Lobby"				"20"
+	"net_peer_timeout_loading"						"90000"
+	
+	"net_minBufferedSnapPCT_Static"					"1.0"
+	
+	"net_maxSearchResults"							"25"
+	"net_maxSearchResultsToTry"						"5"
+	
+	"lobby_IntermissionSecMax" 						"20"
+	"lobby_IntermissionSecMin" 						"20"
+	"lobby_FinalCountdownSec" 						"10"
+	"lobby_MinPlayersToStartGame" 					"3"
+	"lobby_MinPlayersToStartCoundown" 				"3"
+
+	"net_bw_challenge_enable"						"0"
+	"net_bw_test_interval" 							"33"
+	"net_bw_test_numPackets"						"30"
+	"net_bw_test_packetSizeBytes" 					"1024"
+	"net_bw_test_timeout"							"500"
+	"net_bw_test_host_timeout"						"3000"
+
+	"net_bw_test_throttle_rate_pct"					"0.80"
+	"net_bw_test_throttle_byte_pct"					"0.80"
+	"net_bw_test_throttle_seq_pct"					"0.80"
+
+	"net_peer_throttle_mode"						"3"		// 1 = Fixed, 2 = Absolute, 3 = both
+	"net_peer_throttle_minSnapSeq"					"150"
+	"net_peer_throttle_bps_peer_threshold_pct"		"0.60"
+	"net_peer_throttle_bps_host_threshold"			"1024.0"
+	"net_peer_throttle_bps_decay"					"0.25"
+	"net_peer_throttle_bps_duration"				"3000"
+	"net_peer_throttle_maxSnapRate"					"4"
+
+	"MIGRATION_TIMEOUT_IN_SECONDS"					"20"
+	"MIGRATION_PICKING_HOST_TIMEOUT_IN_SECONDS"		"15"
+	"MIGRATION_INVITE_TIME_IN_SECONDS"				"2"
+
+	"XEN_RTT_WEIGHTING_PER_MS"						"1.0"
+	"XEN_UP_STREAM_WEIGHTING_PER_kBps"				"0.2"
+	"XEN_UP_STREAM_CLAMP_IN_kBps"					"30.0"
+	"XEN_RTT_CLAMP_IN_MS"							"2000"
+
+	"PS3_RTT_WEIGHTING_PER_MS"						"5.0"
+	"PS3_WEIGHTING_PER_LEVEL"						"1.0"
+	"PS3_RTT_CLAMP_IN_MS"							"2000"
+
+	"VOICE_THROTTLE_TIME_IN_MS"						"33"
+	"MAX_VDP_DATA_SIZE"								"1000"
+
+	"MAX_REDUNDANT_CMDS"							"6"
+
+	"net_snap_bw_test_throttle_rate_pct"			"0.80"
+	"net_snap_bw_test_throttle_max_scale"			"0.80"
+	"net_snap_bw_test_throttle_for_seconds_scale"	"10.0"
+
+	"net_snap_bw_test_resend_in_ms"					"150"
+	"net_min_ping_in_ms"							"1500"
+	"net_pingIncPercentBeforeRecover"				"1.3"
+	"net_maxFailedPingRecoveries"					"10"
+	"net_pingRecoveryThrottleTimeInSeconds"			"3"
+	
+	"veh_useReliableHitMsgs"						"0"
+	"net_input_clientBuffer"						"3"
+	"net_userCmdRate"								"4"
+
+	"dlcReleaseVersion"								"0"
+
+	"meteor_tractor_range"							"1000"
+	"meteor_tractor_accel"							"400"
+	"meteor_tractor_enable"							"1"
+
+	"meteor_despawn_time"							"120000"
+	"meteor_despawn_time_from_player"				"15000"
+	"meteor_spawnSpeed"								"1500"
+
+	"gc_reviveThreshold"							"2.0"
+	"gc_killStreakTimeLimit"						"10.0"
+	"gc_coop_killStreakTimeLimit"					"2.0"
+	"gc_coop_assistPct"								"0.3"
+	"gc_coop_defendTime"							"2000"
+
+	"gc_preGameDuration"							"20000"
+	"gc_preGameDurationCoop"						"5000"
+	"gc_preGameDurationRibbon"						"3000"
+	"gc_preGameLoadoutDelay"						"9000"
+
+	"gc_rally_closecall_dist"						"500"
+	"gc_rally_denial_dist"							"1000"
+
+	"abandoned_chainRally_Random_Score"				"200"
+	"abandoned_chainRally_Random_Time"				"420"
+	"abandoned_triadRally_Random_Score"				"200"
+	"abandoned_triadRally_Random_Time"				"420"
+	"abandoned_Carnage_Random_Score"				"200"
+	"abandoned_Carnage_Random_Time"					"420"
+	"abandoned_meteorRally_Random_Score"			"200"
+	"abandoned_meteorRally_Random_Time"				"420"
+
+
+	"gearhead_chainRally_Random_Score"				"200"
+	"gearhead_chainRally_Random_Time"				"420"
+	"gearhead_triadRally_Random_Score"				"200"
+	"gearhead_triadRally_Random_Time"				"420"
+	"gearhead_Carnage_Random_Score"					"200"
+	"gearhead_Carnage_Random_Time"					"420"
+	"gearhead_meteorRally_Random_Score"				"200"
+	"gearhead_meteorRally_Random_Time"				"420"
+
+
+	"meteor_chainRally_Random_Score"				"200"
+	"meteor_chainRally_Random_Time"					"420"
+	"meteor_triadRally_Random_Score"				"200"
+	"meteor_triadRally_Random_Time"					"420"
+	"meteor_Carnage_Random_Score"					"200"
+	"meteor_Carnage_Random_Time"					"420"
+	"meteor_meteorRally_Random_Score"				"200"
+	"meteor_meteorRally_Random_Time"				"420"
+
+
+	"prime_chainRally_Random_Score"					"200"
+	"prime_chainRally_Random_Time"					"420"
+	"prime_triadRally_Random_Score"					"200"
+	"prime_triadRally_Random_Time"					"420"
+	"prime_Carnage_Random_Score"					"200"
+	"prime_Carnage_Random_Time"						"420"
+	"prime_meteorRally_Random_Score"				"200"
+	"prime_meteorRally_Random_Time"					"420"
+
+
+	"reactor_chainRally_Random_Score"				"200"
+	"reactor_chainRally_Random_Time"				"420"
+	"reactor_triadRally_Random_Score"				"200"
+	"reactor_triadRally_Random_Time"				"420"
+	"reactor_Carnage_Random_Score"					"200"
+	"reactor_Carnage_Random_Time"					"420"
+	"reactor_meteorRally_Random_Score"				"200"
+	"reactor_meteorRally_Random_Time"				"420"
+
+
+	"southernHighway_chainRally_Random_Score"		"200"
+	"southernHighway_chainRally_Random_Time"		"420"
+	"southernHighway_triadRally_Random_Score"		"200"
+	"southernHighway_triadRally_Random_Time"		"420"
+	"southernHighway_Carnage_Random_Score"			"200"
+	"southernHighway_Carnage_Random_Time"			"420"
+	"southernHighway_meteorRally_Random_Score"		"200"
+	"southernHighway_meteorRally_Random_Time"		"420"
+
+	"net_LobbyCoalesceTimeInSeconds"				"30"
+	"net_LobbyRandomCoalesceTimeInSeconds"			"3"
+
+	"meteor_Shower_killScore"						"1"
+	"vdm_killScore"									"10"
+	"rally_killScore"								"1"
+	"tri_rally_killScore"							"5"
+	"rallyPointScore"								"2"
+	"tri_rallyPointScore"							"10"
+
+	"meteorCapturePoints_0"							"3"
+	"meteorCapturePoints_1"							"6"
+	"meteorCapturePoints_2"							"12"
+	"meteorCapturePoints_3"							"24"
+	"meteorCapturePoints_4"							"36"
+	"meteorCapturePoints_5"							"48"
+	"meteorCapturePoints_6"							"60"
+	"meteorCapturePoints_7"							"72"
+	"meteorCapturePoints_8"							"84"
+	"meteorCapturePoints_9"							"100"
+
+	"xp_multiplier"									"1.0"
+	
+	"pm_deferredSlideMove"							"1"
+	"pm_deferredSlideMoveAccelScale"				"1.3"
+	
+	"savegame_ps3NextMapTimeoutMs"					"30000"
+	"savegame_ps3SaveTimeoutMs"						"60000"
+	
+	"forcePartialLoadForPatch1"						"0"
+
+	"itemMaxCount_vehicle/quickuse/jump"			"4"
+	"itemSetCount_vehicle/quickuse/jump"			"4"
+
+	"itemMaxCount_vehicle/quickuse/emp"				"3"
+	"itemSetCount_vehicle/quickuse/emp"				"3"
+
+	"itemMaxCount_vehicle/quickuse/boostextender"	"3"
+	"itemSetCount_vehicle/quickuse/boostextender"	"3"
+}

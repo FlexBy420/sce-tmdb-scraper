@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.08">
+<![CDATA[
+Nuovi contenuti e aggiornamenti
+- Aggiunti 4 nuovi lottatori; 1 nei pesi gallo femminili (Holly Holm), 2 nei pesi leggeri (Rafael dos Anjos e Eddie Alvarez) e 1 nei pesi mediomassimi: Anthony Johnson
+- Aggiunta una penalità alla resistenza per colpi a vuoto e bloccati
+- Aggiunte reazioni del corpo ai colpi in affondo a segno
+- Bilanciato il consumo di resistenza per gli affondi 
+]]>
+  </changes>
+  
+  <changes app_ver="01.07">
+<![CDATA[
+Nuovi contenuti e aggiornamenti
+- Sono stati aggiunti 4 lottatori leggendari. 2 nei pesi massimi: Brock Lesnar e Mark Coleman; 1 nei pesi mediomassimi: Quinton "Rampage" Jackson e 1 nei pesi welter: Matt Hughes.
+]]>
+  </changes>
+  
+  <changes app_ver="01.06">
+<![CDATA[
+Nuovi contenuti e aggiornamenti
+- 3 nuovi lottatori aggiunti. 1 nei pesi leggeri (Myles Jury), 1 nei pesi medi (Yoel Romero) e 1 nei pesi massimi (Andrei Arlovski).
+
+Online
+- È stato risolto un problema relativo alla schermata Statistiche lottatore nei campionati online.
+
+Varie
+- È stato risolto un problema relativo alle animazioni inattive per nuovi lottatori.
+]]>
+  </changes>
+  
+  <changes app_ver="01.05">
+<![CDATA[
+Nuovi contenuti e aggiornamenti
+- 3 nuovi lottatori aggiunti. 2 nei pesi mediomassimi (Diego Sanchez e Michael Chiesa) e 1 nei pesi welter (Hector Lombard).
+- Gegard Mousasi aggiunto alla divisione dei pesi medi.
+- Implementato un sistema di consumo di resistenza per impedire combo di colpi consecutivi dello stesso tipo.
+
+Gioco
+- Risolto un problema per cui eseguire una spazzata durante l'animazione di un calcio poteva causare una perdita temporanea di funzionalità.
+- Regolata la riduzione della resistenza nei tentativi di rialzarsi da full mount sottomessa, back mount, crocifisso e rubber guard dominante.
+- Risolto un exploit nelle negazioni di transizioni dal clinch.
+- Aggiunta una pausa alla rigenerazione della resistenza dell'attaccante se il takedown viene negato con successo.
+]]>
+  </changes>
+
+  <changes app_ver="01.04">
+<![CDATA[
+Nuovi contenuti e aggiornamenti
+- 2 nuovi lottatori aggiunti, 1 nei pesi welter (Gunnar Nelson) e 1 nei pesi medi (Tim Kennedy).
+- Nick Diaz aggiunto alla divisione dei pesi medi.
+- Sono stati aggiornati gli storici dei lottatori.
+- Gioco - Finish the Fight 2.0 - Avventati sull'avversario con una successione di pugni mentre sta barcollando.
+- Gioco - Sono stati aggiunti i ribaltamenti di takedown a ghigliottina. Per iniziare, contrasta un takedown con il tasto R1 e la levetta destra giù. Deve essere eseguito con un lottatore che ha la ghigliottina in guardia piena. 
+- Gioco - È stata aggiunta più varietà ai takedown in termini di tempismo della negazione e dell'input. Takedown perfetti finiranno in mezza guardia e negazioni o input in ritardo finiranno in guardia piena.
+- Gioco - È stata aggiunta una nuova transizione controllo laterale in sottomissione al back mount laterale.
+
+Gioco
+- Sono state aggiunte animazioni per i calci in condizioni di stanchezza quando subisci un danno critico alla salute o hai resistenza bassa.
+- Scarti - Gli scarti all'indietro durano di più per evitare i colpi, gli scarti laterali hanno migliori proprietà evasive.
+- I colpi ora interrompono i calci se messi a segno all'inizio dell'animazione del calcio.
+- Scarti e affondi incidono di più sulla resistenza.
+- Sono stati modificati i set di mosse di alcuni lottatori.
+- Sono stati perfezionati gli input per le negazioni delle transizioni in alcune posizioni di clinch.
+- È stata risolto un problema di deviazione del clinch.
+- È stato risolto un problema riguardante i lottatori che si bloccavano a terra.
+- È stato risolto un problema di clipping tra i lottatori e la gabbia.
+- Messa a punto - È stata calibrata la logica di priorità a terra e durante il clinch.
+- Messa a punto - È stata calibrata la ramificazione delle combo di colpi.
+- Messa a punto - Sono stati calibrati i tempi di transizione in clinch.
+- Messa a punto - Sono stati calibrati i tempi di negazione del takedown.
+- Messa a punto - È stato calibrato il tempo di parata.
+- Messa a punto - È stato calibrato il momento in cui l'arbitro fa rialzare per altre posizioni dominanti.
+- Messa a punto - È stata calibrata la logica dei giudici.
+- Messa a punto - È stata calibrata la resistenza.
+
+Online
+- È stato risolto un problema riguardante il salvataggio offline che innescava la presentazione dei Campionati online.
+
+Varie
+- È stato risolto un problema riguardante i caratteri non supportati per il russo nel flow Origin.
+]]>
+  </changes>
+
+  <changes app_ver="01.03">
+<![CDATA[
+Nuovo contenuto e aggiornamenti
+- Aggiunti 3 nuovi lottatori, 2 nei pesi welter (Matt Brown e Mike Pyle) e 1 nei pesi massimi (Stipe Miocic).
+- Storici dei lottatori aggiornati.
+- Gioco - Aggiunto KOT dichiarato dall'arbitro se il lottatore dominante sferra troppi colpi mentre il lottatore sottomesso si copre senza tentare di migliorare la propria posizione.
+- Gioco - Aggiunta la possibilità di afferrare la gamba durante la parata di un calcio se l'attaccante ha poca resistenza o ha riportato danni significativi alle gambe. Mantenendo il tasto della parata verrà iniziato un takedown.
+- Gioco - Aggiunta una nuova transizione difensiva in piedi da guardia piena. Spazzata spostata a transizione avanzata.
+- Gioco - Aggiunta uscita da back mount per il lottatore sottomesso.
+- Gioco - Aggiunte provocazioni controllate dal giocatore. Premi i tasti sinistra o destra per provocare.
+- Gioco - I takedown base a gamba singola riusciti ora terminano in mezza guardia.
+- Online - Aggiunte monete ai Campionati. Guarda video partner dal pannello Home e guadagna monete da scambiare per punti stagione.
+
+Gioco
+- Risolto un problema per cui il lottatore dominante poteva impedire le transizioni.
+- Risolto un exploit per cui il lottatore poteva sferrare un pugno a martello aggiuntivo durante le animazioni di postura alta e bassa.
+- Risolto un exploit per cui il lottatore poteva sferrare un pugno aggiuntivo dopo la transizione a controllo laterale.
+- Risolto un problema relativo agli input per il contrasto all'interruzione di clinch sfruttando la gabbia.
+- Bilanciamento - Aumentata la velocità del pungo di base per tutte le classi di peso.
+- Bilanciamento - Diminuita l'aggressività dell'IA, ora più attenta alla resistenza e al ritmo dell'incontro.
+- Bilanciamento - Modificata la durata e la probabilità degli eventi salute.
+- Bilanciamento - Modificata la perdita di resistenza per i colpi a segno.
+- Bilanciamento - Modificato il tempo utile per contrastare varie transizioni a terra, tentativi di rialzarsi e sottomissioni.
+- Bilanciamento - Modificata la velocità di animazione per certi colpi abusati online.
+- Aggiunto un ritardo ai tentativi di sottomissione dopo una sottomissione fallita.
+- Le sottomissioni non possono essere tentate se l'attaccante ha resistenza minima.
+- I lottatori possono cambiare postura durante la copertura.
+- Modificati i valori di potenza e velocità nelle mani di Antônio Rogério Nogueira e Robbie Lawler.
+
+Carriera
+- Risolto un problema per cui il crocifisso non era disponibile in carriera. Ora sarà disponibile in nuovi salvataggi carriera dopo aver acquistato la transizione.
+
+Online
+- Gli utenti ora possono visualizzare le statistiche dei lottatori e le abilità nella schermata di selezione lottatore dei Campionati online.
+- Disabilitata la pausa in tutte le modalità online. L'utente può ancora accedere al menu di pausa ma il gioco non si arresterà.
+
+Varie
+- Risolto un problema di video sbagliato per la mossa del calcio alternato "GSP".
+- Risolto un problema di crash alla modifica del volume della musica di entrata.
+- Risolto un problema di danni al tappeto.
+- Cambiata la postura di Antônio Rogério Nogueira a mancino.
+- Risolti vari problemi nei replay.
+]]>
+  </changes>
+
+  <changes app_ver="01.02">
+<![CDATA[
+Nuovi contenuti e aggiornamenti
+- 3 nuovi lottatori aggiunti, 2 nei pesi gallo (TJ Dillashaw, Takeya Mizugaki) e 1 nei pesi welter (Tyron Woodley).
+- Sono stati aggiornati gli storici dei lottatori.
+- Aggiornamento: ora TJ Dillashaw sarà il campione dei pesi gallo nella Carriera e il lottatore predefinito in Combatti ora.
+- Il tatuaggio di Alexander Gustafsson è stato aggiornato.
+- Gioco - È stata aggiunta l'opzione Finish the Fight per permettere ai giocatori di sferrare colpi extra quando un lottatore viene messo KO.
+- Gioco - Sono stati aggiungi sprawl nella difesa dai takedown di potenza.
+- Gioco - È stata aggiunta la possibilità di toccare i guanti all'inizio di ogni round.
+
+Gioco
+- È stata aggiunta un'animazione per il lottatore sottomesso quando cerca di eseguire spazzate in guardia piena ai danni di un avversario in postura alta.
+- È stata aggiunta l'abilità di liberarsi da un clinch sfruttando la gabbia, premendo la levetta sinistrail tasto L3.
+- È stato risolto un problema che si verificava quando il lottatore dominante in full mount poteva sferrare pugni addizionali assumendo una postura alta.
+- Risolto il problema di allineamento delle braccia per certi lottatori in full mount.
+- Sono stati tolti i takedown di potenza e le spazzate da controllo laterale dai lottatori che non dovrebbero averli.
+- I cambi di resistenza e di danno ora sono proporzionali alla durata accelerata.
+- La resistenza non si rigenera più se il giocatore mantiene il blocco.
+- Il giocatore perde più resistenza quando viene colpito mentre si trova in copertura debole.  
+- Il lottatore dominante in guardia piena ha più tempo per invertire la spazzata da guardia piena a mount. L'animazione della spazzata richiede un tempo maggiore. 
+- Risolto un raro problema nella sottomissione che permetteva di saltare vie di fuga.
+- Risolti alcuni problemi relativi al frame rate durante il gioco.
+- Risolto un raro problema di funzionalità dei takedown dopo aver contrastato un clinch sfruttando la gabbia.
+- Risolti dei problemi riguardanti l'arbitro che cercava di farti alzare durante KOT e sottomissioni.
+- Risolti vari problemi nella fisica.
+- Risolti diversi problemi di animazione.
+
+Audio
+- È stato aggiornato il commento di Bruce Buffer a Renan Barão.
+
+Online
+- Aperta la divisione cintura rossa nei Campionati.
+- Aperto il torneo Grand Prix Invitational nei Campionati.
+- Risolto un problema relativo alle statistiche della classifica online (non corrispondevano a quelle del profilo FighterNet).
+- Risolto un problema di disconnessione online nei tornei che reimpostava il lottatore del giocatore.
+- Risolto un problema di disconnessione online per cui la partita non veniva registrata e non veniva assegnato NT.
+- Risolto un problema nel caricamento dei momenti salienti quando il gioco era sospeso.
+
+Varie
+- È stata aggiunta una sezione per le EULA nel menu Extra.
+- Aggiornamento della selezione dei video del tutorial basata sulle impostazioni della lingua.
+- Risolto un problema di Origin (lingue non sopportate mostravano testo non supportato).
+- È stata diminuita la difficoltà dell'incontro iniziale dopo i tutorial. Il giocatore non può essere messo KO quando è in piedi.
+- Le icone di Crea un lottatore per i tatuaggi e i cappelli sono state sistemate.
+- Risolto un raro problema di sequenza postincontro sbagliata.
+- Risolto un raro problema di crash durante i replay.
+- Risolto un problema relativo ai lottatori creati con Game Face che venivano visualizzati con una linea intorno al collo.
+]]>
+  </changes>
+
+  <changes app_ver="01.01">
+<![CDATA[
+Gameplay
+- Modificata l'abilità Resistenza infinita in modo che abbia un piccolo impatto sulla resistenza.
+- Modificate le abilità che offrono una possibilità di colpo al fegato (Testa a molla e Colpi distruttivi) in modo da renderle meno potenti.
+- Modificata l'abilità Resistere alla tempesta in modo da renderla meno potente.
+- Varie modifiche per il bilanciamento del gameplay e dei livelli di difficoltà.
+- Vari miglioramenti alla fisica.
+
+Audio
+- Risolto un problema per cui i pugni da una posizione a torre in sottomissione non producevano alcun suono.
+- Risolto un problema per cui il timer della palestra non era presente nello sparring in carriera.
+- Risolto un problema per cui tutti i pesi welter venivano annunciati come pesi medi una volta vinta la finale di The Ultimate Fighter.
+
+Carriera
+- Aggiuta una funzionalità alla schermata delle Graduatorie lottatori. In precedenza cambiare la visuale faceva iniziare la pagina successiva dalla cima della lista; ora si rimane sul lottatore selezionato.
+- Risolto un problema per cui l'utente non era in grado di completare l'avanzamento nell'addestramento Tentare una sottomissione.
+- Risolto un problema per cui, durante i combattimenti nella palestra TUF, gli oggetti intorno alla gabbia ostruivano la visuale della telecamera.
+- Risolto un problema per cui il video Calci brutali alle gambe appariva nella posizione sbagliata.
+- Risolto un problema per cui un'opzione Calcio circolare, bloccata e non selezionabile, compariva nella schermata delle mosse.
+- Varie modifiche alla modalità carriera.
+
+Varie
+- Aggiunta per l'utente la possibilità di eliminare Momenti salienti.
+- Aggiunta una schermata al menu di pausa in gioco che elenca le mosse disponibili a entrambi i lottatori in Combatti ora.
+]]>
+  </changes>
+</changeinfo>

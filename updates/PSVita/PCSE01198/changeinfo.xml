@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<changeinfo>
+  <changes app_ver="01.02">
+    <![CDATA[
+	Removed blood from infantry kills
+	Fixed auto take-off not working in Frontline mode 
+    ]]>
+  </changes>
+  <changes app_ver="01.01">
+    <![CDATA[
+	Fixed Frontline mode not updating high scores on campaign completion
+	Fixed trophies sometimes failing to unlock when 2 or more were earned at once
+	Fixed various soft locks caused by pressing controls during dialogue/auto-pilot
+	Fixed an issue where ghost bullets could damage enemies off screen
+	Fixed Hot Potato uploading scores of zero in some instances
+	Fixed being unable to select a direction when using a custom alternate control scheme
+	Improved alternate controls for players that don't hold the direction stick constantly
+	Added a difficulty based score multiplier to all kills in some game modes
+	Train mission no longer spawns before mission 10
+	Minor graphical improvements
+	Minor text corrections
+    ]]>
+  </changes>
+</changeinfo>

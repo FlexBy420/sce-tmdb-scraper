@@ -1,0 +1,230 @@
+{
+  "gameSetupMode": "f1",
+  "season": 2018,
+  "valid": true,
+  "visible": true,
+  "driver": "max_verstappen",
+  "track": "catalunya",
+  "raceLength": "100_percent",
+  "raceRuleset": "race",
+  "vehicleDamage": "Full",
+  "eventType": "SingleSession",
+  "eventSpeciality": "Regular",
+  "noSnapshot": false,
+  "flashbacks": true,
+  "strictRules": true,
+  "flyingLap": false,
+  "returnToGarage": true,
+  "allowCarSetup": true,
+  "objectivePosition": 1,
+  "LapCompletion": 0,
+  "NoFlashbackLaps": 1000,
+  "targetTime": 5593.0,
+  "targetLapTime": 111.8,
+  "maxDifficultyModifier": 0.11,
+  "CleanRace": 0.5,
+  "AbsOff": 0.04,
+  "TractionControlOff": 0.04,
+  "TractionControlMedium": 0.02,
+  "ManualGears": 0.04,
+  "ManualGearsSuggested": 0.02,
+  "DRLOff": 0.03,
+  "DRLCorners": 0.005,
+  "PitAssistOff": 0.0,
+  "eSports" : true,
+  "eventTODStart": -4760,
+  "targetLapTimeCheatMultiplier" : 0.64,  
+  "targetTimeCheatMultiplier" : 0.8,  
+  "weatherSequence": [
+    {
+      "type": "overcast",
+      "length": 7000.0,
+      "transition_length": 0.0
+    }
+  ],
+  "drivers": [{
+            "name" : "lewis_hamilton",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 0,
+            "vehicle": "mercedes",
+            "team": "mercedes",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "valtteri_bottas",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 1,
+            "vehicle": "mercedes",
+            "team": "mercedes",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "sebastian_vettel",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 2,
+            "vehicle": "ferrari",
+            "team": "ferrari",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "kimi_raikkonen",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 3,
+            "vehicle": "ferrari",
+            "team": "ferrari",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "daniel_ricciardo",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 5,
+            "vehicle": "redbull",
+            "team": "redbull",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "max_verstappen",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 4,
+            "vehicle": "redbull",
+            "team": "redbull",
+            "teamPosition": 1,
+            "playerDescription" : "player"
+        }, {
+            "name" : "sergio_perez",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 14,
+            "vehicle": "force_india",
+            "team": "forceindia",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "esteban_ocon",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 12,
+            "vehicle": "force_india",
+            "team": "forceindia",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "lance_stroll",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 17,
+            "vehicle": "williams",
+            "team": "williams",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "sergey_sirotkin",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 18,
+            "vehicle": "williams",
+            "team": "williams",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "nico_hulkenberg",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 15,
+            "vehicle": "lotus",
+            "team": "renault",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "carlos_sainz-jr",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 8,
+            "vehicle": "lotus",
+            "team": "renault",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "brendon_hartley",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 19,
+            "vehicle": "toro_rosso",
+            "team": "tororosso",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "pierre_gasly",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 11,
+            "vehicle": "toro_rosso",
+            "team": "tororosso",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "romain_grosjean",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 9,
+            "vehicle": "haas",
+            "team": "haas",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "kevin_magnussen",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 6,
+            "vehicle": "haas",
+            "team": "haas",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "fernando_alonso",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 7,
+            "vehicle": "mclaren",
+            "team": "mclaren",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "stoffel_vandoorne",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 10,
+            "vehicle": "mclaren",
+            "team": "mclaren",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "marcus_ericsson",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 16,
+            "vehicle": "sauber",
+            "team": "sauber",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "charles_leclerc",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 13,
+            "vehicle": "sauber",
+            "team": "sauber",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }
+  ],
+  "leaderboard": "LBV2018FE21",
+  "xbox_one_id": 21,
+  "activeFrom": 1557140400,
+  "activeUntil": 1558306799,
+  "canWriteToLeaderboardsUntil": 1558306799,
+  "descriptions": {
+		"english": "Qualifying event for the 2019 F1® Esports Series. Can Max VERSTAPPEN take P2 in the 2018 FORMULA 1 SPANISH GRAND PRIX? This is a points based event. Points will be awarded based on skill, speed, difficulty and assist settings, with additional points awarded for clean racing. For more details please refer to: https://f1esports.com/",
+		"english-us" : "Qualifying event for the 2019 F1® Esports Series. Can Max VERSTAPPEN take P2 in the 2018 FORMULA 1 SPANISH GRAND PRIX? This is a points based event. Points will be awarded based on skill, speed, difficulty and assist settings, with additional points awarded for clean racing. For more details please refer to: https://f1esports.com/",
+		"french" : "Épreuve de qualification pour la Série Esports de F1® 2019. Max VERSTAPPEN peut-il décrocher la deuxième position du 2018 FORMULA 1 SPANISH GRAND PRIX ? Le classement se décide aux points. Points obtenus via dextérité, vitesse, difficulté et aides utilisées. Des points supplémentaires sont octroyés en cas de conduite propre. Pour en savoir plus, consultez : https://f1esports.com/",
+		"italian" : "Evento Qualifiche per l'Esports Series 2019 F1®. Riuscirà Max VERSTAPPEN a conquistare la seconda posizione nel 2018 FORMULA 1 SPANISH GRAND PRIX? Questo è un evento a punti. I punti saranno assegnati sulla base delle impostazioni di abilità, velocità, difficoltà e aiuti, con punti supplementari per la correttezza in gara. Per maggiori dettagli: https://f1esports.com/",
+		"german" : "Qualifikationsevent für die 2019 F1® Esports Series. Kann sich Max VERSTAPPEN beim 2018 FORMULA 1 SPANISH GRAND PRIX P2 holen? Dieser Event basiert auf Punkten. Die vergebenen Punkte basieren auf Fahrkönnen, Geschwindigkeit, Schwierigkeitsgrad und Fahrhilfen; ein sauberes Rennen bringt zusätzliche Punkte ein. Mehr Infos unter: https://f1esports.com/",
+		"spanish" : "Clasificación para Esports Series de F1® 2019. ¿Puede Max VERSTAPPEN hacerse con la segunda posición en el 2018 FORMULA 1 SPANISH GRAND PRIX? Es un evento por puntos. Se otorgarán más o menos según los ajustes de habilidad, velocidad, dificultad y asistencia. Las carreras limpias brindan puntos adicionales. Para saber más, ve a: https://f1esports.com/",
+		"japanese" : "2019年度F1® Eスポーツシリーズ予選。Max VERSTAPPEN は2018 FORMULA 1 SPANISH GRAND PRIXで2位を取れるのか？ポイントベースで競われるこのイベントでは、スキル、スピード、難易度、アシスト設定に基づくポイントに加え、クリーンレースで追加ポイントが加算される。詳細はこちら: https://f1esports.com/",
+		"tchinese" : "Qualifying event for the 2019 F1® Esports Series. Can Max VERSTAPPEN take P2 in the 2018 FORMULA 1 SPANISH GRAND PRIX? This is a points based event. Points will be awarded based on skill, speed, difficulty and assist settings, with additional points awarded for clean racing. For more details please refer to: https://f1esports.com/",
+		"schinese" : "2019 F1®电子竞技系列赛的资格赛。M·维斯塔潘可以在2018年F1一级方程式西班牙大奖赛中拿下第二名吗？本次赛事是积分赛。依照车手技术、速度、赛事难度和辅助设置来给分，完美比赛更可额外获得积分。如需详细信息，请查看：https://f1esports.com/",
+		"russian" : "Квалификационный заезд серии F1® Esports 2019. Сможет ли Max VERSTAPPEN завоевать второе место на 2018 FORMULA 1 SPANISH GRAND PRIX? В этом событии пилоты зарабатывают очки за мастерство. Результаты заезда определяются очками, начисляемыми за мастерство, скорость, сложность и настройки помощи, а также за чистую езду. Дополнительную информацию можно найти на https://f1esports.com/",
+		"polish" : "Wydarzenie kwalifikacyjne Esports Series F1® 2019. Czy Max VERSTAPPEN zajmie drugie miejsce w 2018 FORMULA 1 SPANISH GRAND PRIX? To jest wydarzenie z punktacją. Punkty zostaną przyznane za umiejętności, prędkość i ustawienia systemów wspomagania, a dodatkowe punkty można zdobyć za jazdę bez kolizji. Szczegóły pod adresem: https://f1esports.com/",
+		"portuguese" : "Qualifying event for the 2019 F1® Esports Series. Can Max VERSTAPPEN take P2 in the 2018 FORMULA 1 SPANISH GRAND PRIX? This is a points based event. Points will be awarded based on skill, speed, difficulty and assist settings, with additional points awarded for clean racing. For more details please refer to: https://f1esports.com/",
+		"brazilian" : "Evento de qualificação para a Série E-Sports 2019 da F1®. Max VERSTAPPEN conseguirá dominar o treino livre 2 no 2018 FORMULA 1 SPANISH GRAND PRIX? Este evento é baseado em pontos, concedidos com base em habilidade, velocidade, dificuldade e configurações de assistência e pontos adicionais por uma corrida limpa. Para saber mais, visite: https://f1esports.com/",
+		"french-ca" : "Épreuve de qualification pour la Série Esports de F1® 2019. Max VERSTAPPEN peut-il décrocher la deuxième position du 2018 FORMULA 1 SPANISH GRAND PRIX ? Le classement se décide aux points. Points obtenus via dextérité, vitesse, difficulté et aides utilisées. Des points supplémentaires sont octroyés en cas de conduite propre. Pour en savoir plus, consultez : https://f1esports.com/",
+		"spanish-us" : "Clasificación para Esports Series de F1® 2019. ¿Puede Max VERSTAPPEN hacerse con la segunda posición en el 2018 FORMULA 1 SPANISH GRAND PRIX? Es un evento por puntos. Se otorgarán más o menos según los ajustes de habilidad, velocidad, dificultad y asistencia. Las carreras limpias brindan puntos adicionales. Para saber más, ve a: https://f1esports.com/",
+		"worstcase" : "Квалификационный заезд серии F1® Esports 2019. Сможет ли Max VERSTAPPEN завоевать второе место на 2018 FORMULA 1 SPANISH GRAND PRIX? В этом событии пилоты зарабатывают очки за мастерство. Результаты заезда определяются очками, начисляемыми за мастерство, скорость, сложность и настройки помощи, а также за чистую езду. Дополнительную информацию можно найти на https://f1esports.com/"		
+  }
+}

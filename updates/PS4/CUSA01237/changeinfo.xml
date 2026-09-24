@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.02">
+    <![CDATA[
+    Fixed Vita Remote Play controller mappings.
+    Added light bar support.
+    Fixed bug that prevented Divine Wrath and Treasure Hunter trophies from unlocking.
+    Physics stability improvements.
+    Fixed some spelling errors.
+    Zeus' music no longer gets stuck when reloading.
+    Added a confirmation box when returning to the main menu.
+    Fixed bug with climbing walls.
+    Elevators now reactivate after killing Ares.
+    Fixed bug that caused certain gods to return to life when reloading a level.
+    Aspis Shield added to Agora and Acropolis shops
+    Fixed rare crash in Apollo's stables.
+    Fixed rare crash in Satyr temple.
+    Fixed issue picking up Wild Trophy Key.
+    Fixed crash in animation system.
+    Adjusted controller deadzones.
+    Grappling hooks no longer collide with doors or boats.
+    ]]>
+  </changes>
+    <changes app_ver="01.01">
+    <![CDATA[
+    Fixed unclear reference to R3 button in tutorial.
+    Fixed reference of "touchpad button" to "touch pad button".
+    Fixed reference of "left-stick" to "left stick".
+    Fixed out of memory crash bug.
+    Fixed crash bug during save game processing.
+    Added functionality to delete corrupt save game data.
+    Fixed case where breathing sounds got stuck looping.
+    Fixes for a few gameplay crashes.
+    Added some small performance improvements.
+    ]]>
+  </changes>
+</changeinfo>

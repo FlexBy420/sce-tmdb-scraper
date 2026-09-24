@@ -1,0 +1,83 @@
+{
+	"global":
+	{
+		"enable_access":true,
+		"live_start_time":"2014-06-09T17:30:00.00Z",
+		"live_end_time":"2014-06-10T06:00:00.00Z",
+		"open_time":"2014-06-10T12:00:00.00Z",
+		"apptime_int":2,
+		"http_server":"posttestserver.com",
+		"http_port":80,
+		"http_get_str":"http://scea-home.playstation.net/a.home/E3_2014/A/config.json",
+		"http_post_str":"http://posttestserver.com/post.php",
+		"http_post_body":"{\"id\":\"%s\",\"value\":\"%d\"}",
+		"use_http_get":false,
+		"lock_msg1":"Come back for the PlayStation® Press Conference on June 9th at 5:45pm (PDT)",
+		"lock_msg2":"Come back when the doors open on June 10th at 12:00pm (PDT)",
+		"day1_end":"2014-06-11T12:00:00.00Z",
+		"day2_end":"2014-06-13T12:00:00.00Z",
+		"day3_end":"2014-06-13T15:00:00.00Z",
+		"livecast_end":"2014-06-11T12:00:00.00Z",
+		"psnow_limit":10000
+	},
+	"games":
+	{
+		"batman":{ "Trailer":"http://www.playstation.com/en-us/campaigns/e32014/batman/videos",
+				   "Screenshots":"http://www.playstation.com/en-us/campaigns/e32014/batman/screens",
+				   "Pre-Order":"psns:browse?product=UP9000-CUSA00035_00-ORDER1886PARENT2" },
+		"battlefield":{ "Trailer":"http://www.playstation.com/en-us/campaigns/e32014/battlefield/videos?video=1",
+				   "Screenshots":"http://www.playstation.com/en-us/campaigns/e32014/battlefield/screens",
+				   "Pre-Order":"psns:browse?product=UP0006-CUSA00625_00-OMAHAOMAHA000000" },
+		"order":{ "Trailer":"http://www.playstation.com/en-us/campaigns/e32014/the-order/videos?video=1",
+				   "Screenshots":"http://www.playstation.com/en-us/campaigns/e32014/the-order/screens",
+				   "Pre-Order":"psns:browse?product=UP9000-CUSA00035_00-ORDER1886PARENT2" },
+		"beast":{ "Trailer":"http://www.playstation.com/en-us/campaigns/e32014/bloodborne/videos?video=1",
+				   "Screenshots":"http://www.playstation.com/en-us/campaigns/e32014/bloodborne/screens",
+				   "Pre-Order":"psns:browse?product=UP9000-CUSA00900_00-BLOODBORNE000000" },
+		"hohokum":{ "Trailer":"http://www.playstation.com/en-us/campaigns/e32014/hohokum/videos?video=1",
+				   "Screenshots":"http://www.playstation.com/en-us/campaigns/e32014/hohokum/screens",
+				   "Pre-Order":"psns:browse?product=UP9000-NPUA80783_00-HOHOKUMPAREPRODU" },
+		"counterspy":{ "Trailer":"http://www.playstation.com/en-us/campaigns/e32014/counterspy/videos?video=1",
+				   "Screenshots":"http://www.playstation.com/en-us/campaigns/e32014/counterspy/screens",
+				   "Pre-Order":"http://www.amazon.com/Watch-Dogs-PlayStation-4/dp/B00BI83EVU/ref=sr_1_1?ie=UTF8&qid=1400009067&sr=8-1&keywords=watch+dogs" },
+		"lbp3":{ "Trailer":"http://www.playstation.com/en-us/campaigns/e32014/lbp/videos?video=1",
+				   "Screenshots":"http://www.playstation.com/en-us/campaigns/e32014/lbp/screens",
+				   "Pre-Order":"psns:browse?product=UP9000-CUSA00473_00-LBP3GAME00000001" }
+	},
+	"hardware":
+	{
+		"vita tv":{ "thumbnail":"", "url":"http://www.playstation.com/en-us/campaigns/e32014/psvitatv" },
+		"destiny":{ "thumbnail":"", "url":"http://www.playstation.com/en-us/campaigns/e32014/destinybundle" },
+		"headset":{ "thumbnail":"", "url":"http://www.playstation.com/en-us/campaigns/e32014/headset" },
+		"morpheus":{ "thumbnail":"", "url":"http://www.playstation.com/en-us/campaigns/e32014/morpheus" },
+		"vita":{ "thumbnail":"", "url":"http://www.playstation.com/en-us/campaigns/e32014/vita" }
+	},
+	"services":
+	{
+		"music":{ "thumbnail":"", "url":"http://www.playstation.com/en-us/campaigns/e32014/musicunlimitedimage" },
+		"video":{ "thumbnail":"", "url":"http://www.playstation.com/en-us/campaigns/e32014/videounlimited" },
+		"psplus":{ "thumbnail":"", "url":"http://us.playstation.com/playstation-plus" },
+		"rewards":{ "thumbnail":"", "url":"http://www.playstation.com/en-us/campaigns/e32014/e32014-videos-test" },
+		"psnow":{ "thumbnail":"", "url":"http://us.playstation.com/playstationnow" },
+		"amazon":{ "thumbnail":"", "url":"http://amazon.com/ps4prime" },
+		"music_trial":{ "thumbnail":"", "url":"http://www.playstation.com/en-us/campaigns/e32014/musicunlimitedimage" }
+	},
+	"conference":
+	{
+		"live":{ "thumbnail":"", "url":"http://www.ustream.tv/ps4embed" },
+		"liveclips":{ "thumbnail":"", "url":"http://www.ustream.tv/embed/recorded/48615426?v=3&amp;wmode=direct" },
+		"press":{ "thumbnail":"", "url":"http://www.ustream.tv/ps4embed" },
+		"interviews":{ "thumbnail":"", "url":"http://www.playstation.com/en-us/campaigns/e32014/livecast" },
+		"trailers":{ "thumbnail":"", "url":"https://www.youtube.com/playlist?list=PLol_ykYs3OQ50ptggSokBCSZRVTypFBXk" }
+	},
+	"truck":
+	{
+		"schedule":{ "url":"http://us.playstation.com/community/roadtogreatness/" },
+		"video":{ "url":"http://www.playstation.com/en-us/campaigns/e32014/pstruck" }
+	},
+	"progress":
+	{
+		"sonyrewards":{ "url":"http://us.playstation.com/sonyrewards/" },
+		"amazon":{ "url":"http://amazon.com/ps4prime" }
+	}
+}

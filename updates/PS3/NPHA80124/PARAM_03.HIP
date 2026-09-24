@@ -1,0 +1,5 @@
+ - Clasificar fotos y cambiar la pantalla para cada tipo de fotos.
+ - Sincronizar archivos MPF​/MPO en el menú XMB™.
+ - Reduce el tiempo necesario para la puesta en marcha y la importación de fotos.
+ - Girar fotos 90 grados.
+ - Visualizar imágenes multiángulo en 3D.

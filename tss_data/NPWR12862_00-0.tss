@@ -1,0 +1,105 @@
+{
+  "version": {
+    "major": 0,
+    "minor": 1
+  },
+  "availableSlots" : [0, 1],
+  "announcements": [
+    {
+      "version": 1,
+      "title": "#str_announcement_chronicle_0_redeemed_title",
+      "description": "#str_announcement_chronicle_0_redeemed_desc",
+      "subTitle": "#str_announcement_chronicle_0_redeemed_subtitle",
+      "image": "textures/guis/chronicles/popups/popup_c0",
+      "goToButton": true,
+      "chapterDecl": "dlc/chapter0",
+      "uniqueId": 1,
+      "requireEntitlement": true,
+      "requireNoEntitlement": false
+    },
+    {
+      "version": 1,
+      "title": "#str_announcement_chronicle_none_redeemed_title",
+      "description": "#str_announcement_chronicle_none_redeemed_desc",
+      "subTitle": "#str_announcement_chronicle_none_redeemed_subtitle",
+      "image": "textures/guis/chronicles/popups/popup_c0",
+      "goToButton": false,
+      "chapterDecl": "dlc/chapter0",
+      "uniqueId": 1,
+      "requireEntitlement": false,
+      "requireNoEntitlement": true
+    },
+    {
+      "version": 2,
+      "title": "#str_announcement_chronicle_1_redeemed_title",
+      "description": "#str_announcement_chronicle_1_redeemed_desc",
+      "subTitle": "#str_announcement_chronicle_1_redeemed_subtitle",
+      "image": "textures/guis/chronicles/popups/popup_c1",
+      "goToButton": true,
+      "chapterDecl": "dlc/chapter1",
+      "uniqueId": 2,
+      "requireEntitlement": true,
+      "requireNoEntitlement": false
+    },
+    {
+      "version": 2,
+      "title": "#str_announcement_chronicle_1_redeemed_title",
+      "description": "#str_announcement_chronicle_1_available_desc",
+      "subTitle": "#str_announcement_chronicle_1_redeemed_subtitle",
+      "image": "textures/guis/chronicles/popups/popup_c1",
+      "goToButton": true,
+      "chapterDecl": "dlc/chapter1",
+      "uniqueId": 2,
+      "requireEntitlement": false,
+      "requireNoEntitlement": true
+    },
+    {
+      "version": 3,
+      "title": "#str_announcement_chronicle_2_redeemed_title",
+      "description": "#str_announcement_chronicle_2_redeemed_desc",
+      "subTitle": "#str_announcement_chronicle_2_redeemed_subtitle",
+      "image": "textures/guis/chronicles/popups/popup_c2",
+      "goToButton": true,
+      "chapterDecl": "dlc/chapter2",
+      "uniqueId": 3,
+      "requireEntitlement": true,
+      "requireNoEntitlement": false
+    },
+    {
+      "version": 3,
+      "title": "#str_announcement_chronicle_2_redeemed_title",
+      "description": "#str_announcement_chronicle_2_available_desc",
+      "subTitle": "#str_announcement_chronicle_2_redeemed_subtitle",
+      "image": "textures/guis/chronicles/popups/popup_c2",
+      "goToButton": true,
+      "chapterDecl": "dlc/chapter2",
+      "uniqueId": 3,
+      "requireEntitlement": false,
+      "requireNoEntitlement": true
+    },
+    {
+      "version": 4,
+      "title": "#str_announcement_chronicle_3_redeemed_title",
+      "description": "#str_announcement_chronicle_3_redeemed_desc",
+      "subTitle": "#str_announcement_chronicle_3_redeemed_subtitle",
+      "image": "textures/guis/chronicles/popups/popup_c3",
+      "goToButton": true,
+      "chapterDecl": "dlc/chapter3",
+      "uniqueId": 4,
+      "requireEntitlement": true,
+      "requireNoEntitlement": false
+    },
+    {
+      "version": 4,
+      "title": "#str_announcement_chronicle_3_redeemed_title",
+      "description": "#str_announcement_chronicle_3_available_desc",
+      "subTitle": "#str_announcement_chronicle_3_redeemed_subtitle",
+      "image": "textures/guis/chronicles/popups/popup_c3",
+      "goToButton": true,
+      "chapterDecl": "dlc/chapter3",
+      "uniqueId": 4,
+      "requireEntitlement": false,
+      "requireNoEntitlement": true
+    }
+  ]
+}

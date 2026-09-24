@@ -1,0 +1,21 @@
+{
+	"tweak_data": {
+		"weapon": {
+			"m1911": {
+				"dismember_chance": 0.2
+			},
+			"c96": {
+				"damage_falloff_near": 5000,
+				"damage_falloff_far": 7000,
+				"fire_mode_data": {
+					"fire_rate": 0.25
+				},
+				"NR_CLIPS_MAX": 6,
+				"AMMO_MAX": 60
+			},
+			"badweapon": {
+				"doesnt_exist": true
+			}
+		}
+	}
+}

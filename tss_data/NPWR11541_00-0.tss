@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TSS>
+	<Store>
+		<!-- ストアつなぎ込み情報 -->
+		<Product>
+			<JPN>FFX0FFX20JP00PS4</JPN>
+		</Product>
+		<ServiceLabel>
+			<JPN>1</JPN>
+		</ServiceLabel>
+	</Store>
+	<Period>
+		<!-- 終了日時 -->
+		<PublishEnd default="636138684000000000"></PublishEnd>
+	</Period>
+	<Unlock>
+		<!-- 2段階の開放タイミングが存在　9/7,10/5 -->
+		<Time default="636087708000000000;636111900000000000">
+		</Time>
+		<!-- 2段階分の開放曲を指定　1回目48～68,2回目69～88 -->
+		<No default="48-68;69-88">
+		</No>
+	</Unlock>
+</TSS>

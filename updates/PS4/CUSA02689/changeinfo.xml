@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+      • Fixed a crash when trying to play multiplayer with an account with many friends (2000+)
+      • Added more vibration events (losing a round, etc.)
+      • Fixed crashes related to disconnecting/logging out at various stages during play
+      • Fixed Runner Selection screen displaying incorrect information on clients when removing bots
+      • Fixed potential player desync issues when a player would drop out of a 4 player game during the loading screen
+      • Fixed memory leak during multiplayer games
+      • Implemented better handling of local multiplayer regards to controller support (controller disconnect message no longer appears and pauses game during multiplayer)
+      • Fixed matchmaking becoming unusable after repeatedly opening and closing sessions
+    ]]>
+  </changes>
+</changeinfo>

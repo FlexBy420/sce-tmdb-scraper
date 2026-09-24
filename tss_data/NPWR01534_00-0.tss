@@ -1,0 +1,16 @@
+;Config File for NamocoG - AS - NPWR01534_00
+
+;Do not use space in the Var define line, eg:
+;varA = 123 (WRONG)
+;varA=123   (RIGHT)
+
+;Version, change this to mark the update, 8 Ansi char
+Version=111126.1
+
+;StoreID: like HP0700-NPHB00237_00, 0 means do not jump to Store
+StoreID=HP0700-NPHB00261_00
+
+;url
+url=http://ng.namco-ch.net/
+
+;END

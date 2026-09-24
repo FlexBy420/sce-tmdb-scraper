@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TSS>
+	<!-- アプリごとの公式サイトURL 英語のみ別指定 -->
+	<Website>
+		<!-- 日本語のみ別指定 -->
+		<Url default="http://www.finalfantasyxv.com/">
+		<JPN>http://www.jp.square-enix.com/ff15/</JPN>
+		</Url>
+	</Website>
+
+	<Store>
+		<!-- ストアつなぎ込み情報 -->
+		<Product>
+			<JPN>FINALFANTASYXV00</JPN>
+		</Product>
+		<ServiceLabel>
+			<JPN>1</JPN>
+		</ServiceLabel>
+	</Store>
+</TSS>

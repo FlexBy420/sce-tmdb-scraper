@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TSS>
+	<CUSA14706_00>
+		<CountryCode default="jp,hk,sg,my,id,th,kr,tw"></CountryCode>
+		<jp default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.jp.playstation.com/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</jp>
+		<hk default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/cht-hk/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</hk>
+		<sg default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-sg/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</sg>
+		<my default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-my/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</my>
+		<id default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-id/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</id>
+		<th default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-th/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</th>
+		<kr default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.playstation.co.kr/psn/psplus"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</kr>
+		<tw default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/cht-tw/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</tw>
+		<Other>
+			<Period>
+				<!-- 視聴開始 -->
+				<PublishBegin default="636825564000000000"></PublishBegin>
+				<!-- 終了日時 -->
+				<PublishEnd default="637054524000000000"></PublishEnd>
+			</Period>
+			<!-- 広告情報 -->
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.jp.playstation.com/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+			<LoginBonus>
+				<Day2 default="enable">
+					<Icon default="gold"></Icon>
+					<PlusName default="PS4Theme">
+						<REPSTR default="PS4Theme">
+							<JPN></JPN>
+							<ENG></ENG>
+							<CHS></CHS>
+							<CHT></CHT>
+							<KRA></KRA>
+						</REPSTR>
+						<StringLabel default="FFSSTHEME0000001"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+				</Day2>
+			</LoginBonus>
+		</Other>
+	</CUSA14706_00>
+</TSS>

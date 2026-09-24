@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+<changes app_ver="01.03">
+<![CDATA[
+	Apply changes and fixes for SCEA/SCEE release.
+	<ul>
+		<li>Fixed small gracphic bug in Chamber21</li> 
+		<li>Deleted "on PlayStation(R)" from title screen</li>
+		<li>Deleted ".com" behind the "FullPowerSideAttack" of a title screen by non-link request</li>
+		<li>Stability improved by some other changes</li>
+	</ul>
+]]>
+</changes>
+<changes app_ver="01.02">
+<![CDATA[
+	Implemented the simple save (resume) function.<br>
+	<ul>
+		<li>Upon reaching a goal, the game will record which chamber is next and the time taken to reach that goal. (There will be only one save slot; if save data exists, it will be overwritten.) </li>
+		<li>If save data exists when the game is loaded, a goal labeled "Continue" will appear on the left side of the first screen. If that goal is entered, the player will start at the recorded chamber with the recorded time passed. </li>
+		<li>Once the player reaches the end of the game, the save data will be reset and the Continue goal will disappear. If the game is played again and new save data is created, the Continue goal will reappear. </li>
+		<li>No save data will be created for the first stage or for certain special stages.</li>
+	<h3>Supplemental</h3>
+	<ul>
+		<li>For example, upon clearing Chamber02, save data will be created allowing the player to continue from Chamber03. </li>
+		<li>When shifting to Chamber01 from Title, TorqueL doesn't save. </li>
+		<li>When reaching a goal of Chamber10, TorqueL saves so that it may begin from Chamber11. (TorqueL doesn't save a staging chamber.) </li>
+		<li>When detecting unjust data, a Continue goal isn't indicated.</li>
+	</ul>
+]]>
+</changes>
+<changes app_ver="01.01">
+<![CDATA[
+	Fixed "Inability to progress if "Back to Title" is selected before restarting after failing a level" issue.
+]]>
+</changes>
+</changeinfo>

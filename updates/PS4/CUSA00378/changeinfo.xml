@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+    <changes app_ver="01.05">
+<![CDATA[1.05:
+    Added "Shooting Range", accessible from the main menu.
+    Co-op: Added new Overwatch mission "Twilight Strike".
+    Multiplayer: Added two new deathmatch maps and three new no-cross maps.
+    Multiplayer: Added "Capture the Flag" mode, supported by all deathmatch maps.
+	Co-op: Fixed enemies occasionally not going to ragdoll after a melee kill.
+    Support for latest weapon DLC packages.
+1.04:
+    Multiplayer: Added three new deathmatch maps and two new no-cross maps.
+    Support for latest weapon and level DLC packages.
+1.03:
+    Multiplayer: Fixed desync due to bulletcams in multiplayer (where the target can survive on every machine except the one of the person firing the shot).
+    Multiplayer: Bulletcams are no longer prevented by nearby dead bodies.
+    Multiplayer: Fixed an issue where large chunks of the level would be invisible in "Hellfire!" from certain viewing angles/positions.
+    Multiplayer: Fixed an emerge-from-cover issues in "Ruins"
+    Co-op: When host changes level while in the briefing screen, client's collectible information updates to match.
+    Continued changes to ragdolls to reduce interpenetration with environment.
+    AIs reloading don't get confused by player attempts at melee killing them (in Sniper Elite and Authentic difficulties).
+    Firing from hip while moving should now orient the character before firing the weapon rather than firing immediately.
+    Total collectable count now reflects currently installed DLC rather than ignoring DLC or counting DLC that isn't installed.
+1.02:
+    Fixed unlocking of "Dedicated Soldier" trophy.
+    Fixed "Character Select" list.
+    Fixed text clipping in some languages in Hunt The Grey Wolf DLC.
+1.01:
+    Improved game experience.
+]]>
+    </changes>
+</changeinfo>

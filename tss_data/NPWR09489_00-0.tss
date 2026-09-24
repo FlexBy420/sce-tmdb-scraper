@@ -1,0 +1,76 @@
+{
+	"version": {
+		"major": 0,
+		"minor": 19
+	},
+	"net_dedicatedServerGate_URIString": "http://dfw-gatekeeper-live-psn.doom.amok.systems/gatekeeper",
+	"net_dedicatedServerGate_Enable" : true,
+	"motd" : {
+		"compmp": [
+			{
+				"textFields": [
+					{
+						"english": "FIGHT LIKE HELL ON MAY 13",
+						"chinese": "FIGHT LIKE HELL ON MAY 13",
+						"french": "Fight Like Hell le 13 mai.",
+						"german": "Schicken Sie die Dämonen zurück in die Hölle! Am 13. Mai",
+						"italian": "Il 13 maggio combatti fino alla morte",
+						"japanese": "FIGHT LIKE HELL ON MAY 13",
+						"latin_spanish": "Luchen a muerte el 13 de mayo",
+						"polish": "Piekielna walka 13 maja",
+						"portuguese": "Lute feito um demônio em 13 de maio",
+						"russian": "13 мая научите ад бояться",
+						"spanish": "Luchad a muerte el 13 de mayo"
+					}
+				],
+				"image": {
+					"remote_file": "1",
+					"transmapName": "_imageCompmpMOTD1",
+					"materialName": "textures/motd/compmp_1",
+					"clickType" : "MOTD_CLICKTYPE_STORE",
+					"clickTypeLocation" : "DOOMNORTHAMERICA",
+					"orbis_na_storeLocation" : "DOOMPREORDERBUND",
+					"orbis_eu_storeLocation" : "DOOMNORTHAMERICA",
+					"orbis_storeServiceLabel" : 1
+				},
+				"template": 1
+			},
+			{
+				"textFields": [
+					{
+						"english": "PRE-ORDER NOW AND GET THE DEMON MULTIPLAYER PACK",
+						"chinese": "PRE-ORDER NOW AND GET THE DEMON MULTIPLAYER PACK",
+						"french": "Précommandez et obtenez le pack multijoueur démoniaque",
+						"german": "Vorbesteller erhalten das Demon Multiplayer Pack",
+						"italian": "Prenota subito per il pacchetto Demone Multigiocatore",
+						"japanese": "PRE-ORDER NOW AND GET THE DEMON MULTIPLAYER PACK",
+						"latin_spanish": "Reserven y obtengan el paquete multijugador de demonios",
+						"polish": "Zamów już teraz i otrzymaj Demon Multiplayer Pack",
+						"portuguese": "Reserve já e obtenha o Pacote Multijogador Demoníaco",
+						"russian": "Предзаказ откроет демонический набор для сетевой игры",
+						"spanish": "Reservad y obtened el paquete multijugador de demonios"
+					}
+				],
+				"image": {
+					"remote_file": "2",
+					"transmapName": "_imageCompmpMOTD2",
+					"materialName": "textures/motd/compmp_2",
+					"clickType" : "MOTD_CLICKTYPE_STORE",
+					"clickTypeLocation" : "DOOMNORTHAMERICA",
+					"orbis_na_storeLocation" : "DOOMPREORDERBUND",
+					"orbis_eu_storeLocation" : "DOOMNORTHAMERICA",
+					"orbis_storeServiceLabel" : 1
+				},
+				"template": 1
+			}
+		]
+	},
+	"remote_files": [
+		"1",
+		"2"
+	],
+	"remote_endpoints": [
+	],
+	"remote_devEndpoints": [
+	]
+}

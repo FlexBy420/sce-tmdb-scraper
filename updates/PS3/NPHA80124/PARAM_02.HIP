@@ -1,0 +1,5 @@
+ - Classez les photos par catégorie et changez l'affichage selon chaque type de photo
+ - Synchronisez avec les fichiers MPF/MPO dans le menu XMB™
+ - Réduisez le temps de lancement et d'import des photos
+ - Faites pivoter les photos à 90 degrés
+ - Visionnez les images à angles multiples en 3D

@@ -1,0 +1,290 @@
+﻿{
+ "VERSION":"1427790183",
+ "PT_JOURNAL":
+ {
+ // ▼ロウストリートジャーナル本体
+  "JOURNAL":
+  {
+   "CLAUSE":
+   [
+    {
+     "TITLE":
+     {
+      "TEXT":
+      {
+       "ENG":"24 HR SURVEILLANCE",
+       "JPN":"24 HR SURVEILLANCE",
+      }
+     }
+     "CAPTION":
+     {
+      "TEXT":
+      {
+       "ENG":"24 HR SURVEILLANCE",
+       "JPN":"24 HR SURVEILLANCE",
+      }
+     },
+     "PICTURE":"0",
+     "PROPA_EXPRESSION":"raku",
+    },
+    {
+     "TITLE":
+     {
+      "TEXT":
+      {
+       "ENG":"24 HR SURVEILLANCE",
+       "JPN":"24 HR SURVEILLANCE",
+      }
+     },
+     "CAPTION":
+     {
+      "TEXT":
+      {
+       "ENG":"24 HR SURVEILLANCE",
+       "JPN":"24 HR SURVEILLANCE",
+      }
+     },
+     "PROPA_EXPRESSION":"raku",
+     "PICTURE":"1",
+     },
+    {
+     "TITLE":
+     {
+      "TEXT":
+      {
+       "ENG":"24 HR SURVEILLANCE",
+       "JPN":"24 HR SURVEILLANCE",
+      }
+     }
+     "CAPTION":
+     {
+      "TEXT":
+      {
+       "ENG":"24 HR SURVEILLANCE",
+       "JPN":"24 HR SURVEILLANCE",
+       //"VOICE":"",
+      }
+     },
+     "PICTURE":"2",
+     "PROPA_EXPRESSION":"raku",
+     //"URL":"http://pscom.jp/freedomwars_info",
+    },   
+    {
+     "TITLE":
+     {
+      "TEXT":
+      {
+       "ENG":"24 HR SURVEILLANCE",
+       "JPN":"24 HR SURVEILLANCE",
+      }
+     }
+     "CAPTION":
+     {
+      "TEXT":
+      {
+       "ENG":"24 HR SURVEILLANCE",
+       "JPN":"24 HR SURVEILLANCE",
+       //"VOICE":"",
+      }
+     },
+     "PICTURE":"3",
+     "PROPA_EXPRESSION":"raku",
+    },
+{
+     "TITLE":
+     {
+      "TEXT":
+      {
+       "ENG":"24 HR SURVEILLANCE",
+       "JPN":"24 HR SURVEILLANCE",
+      }
+     },
+     "CAPTION":
+     {
+      "TEXT":
+      {
+       "ENG":"24 HR SURVEILLANCE",
+       "JPN":"24 HR SURVEILLANCE",
+       }
+     },
+     "PROPA_EXPRESSION":"raku",
+     "PICTURE":"4",
+     //"URL":"http://www.jp.playstation.com/scej/title/freedomwars/001/system/internet.html#play1",
+     //"STORE_CONTENTS_ID":"JP9000-PCSC00054_00-ENT0010000000000",
+    },
+],
+  }
+ },
+ // ▼ロウストリートジャーナル用画像データ定義
+ "PICTURE":
+ [
+   "p0_141027_img",
+   "p1_141027_img",
+   "p2_141027_img",
+   "p3_141027_img",
+   "p4_141027_img",
+ ],
+ // ▼ボランティア配信設定
+"EVENT_VOLUNTEER":
+[
+    {"START":"0","STOP":"0","BASE_ID":"1604","REWARD_TABLE_ID":"0"},																
+    {"START":"0","STOP":"0","BASE_ID":"1605","REWARD_TABLE_ID":"0"},																
+    {"START":"0","STOP":"0","BASE_ID":"3200","REWARD_TABLE_ID":"0"},	
+    {"START":"0","STOP":"0","BASE_ID":"3201","REWARD_TABLE_ID":"0"},
+    {"START":"0","STOP":"0","BASE_ID":"3202","REWARD_TABLE_ID":"0"},
+    {"START":"0","STOP":"0","BASE_ID":"806","REWARD_TABLE_ID":"0"},	
+    {"START":"0","STOP":"0","BASE_ID":"807","REWARD_TABLE_ID":"0"},
+    {"START":"0","STOP":"0","BASE_ID":"808","REWARD_TABLE_ID":"0"},
+    {"START":"0","STOP":"0","BASE_ID":"809","REWARD_TABLE_ID":"0"},	
+    {"START":"0","STOP":"0","BASE_ID":"810","REWARD_TABLE_ID":"0"},	
+    {"START":"0","STOP":"0","BASE_ID":"811","REWARD_TABLE_ID":"0"},	
+ 
+//天罰
+    {"START":"0","STOP":"0","BASE_ID":"1600","REWARD_TABLE_ID":"0","PT_ID":"40"},
+    {"START":"0","STOP":"0","BASE_ID":"1601","REWARD_TABLE_ID":"0","PT_ID":"41"},
+    {"START":"0","STOP":"0","BASE_ID":"1602","REWARD_TABLE_ID":"0","PT_ID":"47"},
+    {"START":"0","STOP":"0","BASE_ID":"1603","REWARD_TABLE_ID":"0","PT_ID":"46"},
+    {"START":"0","STOP":"0","BASE_ID":"800","REWARD_TABLE_ID":"0","PT_ID":"48"},
+    {"START":"0","STOP":"0","BASE_ID":"801","REWARD_TABLE_ID":"0","PT_ID":"10"},
+    {"START":"0","STOP":"0","BASE_ID":"802","REWARD_TABLE_ID":"0","PT_ID":"43"},
+    {"START":"0","STOP":"0","BASE_ID":"803","REWARD_TABLE_ID":"0","PT_ID":"3"},
+    {"START":"0","STOP":"0","BASE_ID":"804","REWARD_TABLE_ID":"0","PT_ID":"11"},
+    {"START":"0","STOP":"0","BASE_ID":"805","REWARD_TABLE_ID":"0","PT_ID":"19"},
+],
+ // ▼対象特定アイテム付与設定
+ //"BONUS_GIFT":[],
+// ▼都市国家情勢 特別褒賞/助成品付与設定
+//"PT_RANKING_LOG":[]
+
+  // ▼シングルプレイ時の天罰抽選頻度設定
+"TENBATSU_LOCAL":
+ {
+  "CODE_LOW":"5",
+  "CODE_HIGH":"2",
+ },
+ 
+ // ▼環境設定
+ "ENVIRONMENT":
+ {
+  "PT_INFO_DOWNLOAD_WAIT_TIME":"10",
+  "PT_INFO_DOWNLOAD_WAIT_TIME_AUTO":"1800",
+  "PT_DATA_UPLOAD_WAIT_TIME":"60",
+  "MY_FELLOW_CARD_UPLOAD_WAIT_TIME":"1800",
+  "LOG_UPLOAD_WAIT_TIME":"1800",
+  "PT_RANKING_UPLOAD_WAIT_TIME":"3600",
+ },
+ // ▼同盟設定
+//"ALLIANCE":[],
+ // ▼敵地侵攻ボランティア 侵攻先設定
+ //"PT_VS_PT":[],
+ // ▼敵地侵攻ボランティア GDPP略奪比率設定
+ "PT_VS_PT_RATE":
+ {
+  "BONUS_2ND_CLASS_CITIZEN":"0.1",
+  "ATTACK_SIDE":
+  [
+   { "RANK":"1",  "RATE":"1.0" },
+   { "RANK":"2",  "RATE":"8.0" },
+   { "RANK":"5",  "RATE":"10.0" },
+   { "RANK":"8",  "RATE":"15.0" },
+   { "RANK":"19",  "RATE":"18.0" },
+   { "RANK":"26",  "RATE":"20.0" },
+   { "RANK":"36",  "RATE":"30.0" },
+   { "RANK":"40",  "RATE":"40.0" },
+   { "RANK":"50",  "RATE":"60.0" },  
+  ],
+  "DEFENSE_SIDE":
+  [
+   { "RANK":"1",  "RATE":"1.0" },
+   { "RANK":"2",  "RATE":"0.5" },
+   { "RANK":"5", "RATE":"0.3" },
+   { "RANK":"26", "RATE":"0.2" },
+   { "RANK":"36", "RATE":"0.1" },  
+   { "RANK":"50", "RATE":"0.01" }, 
+  ],
+ },
+ // ▼敵地侵攻ボランティア 敵地侵攻許可証交付設定
+ "PT_VS_PT_TICKET_CTRL":
+ {
+   "MAX_TICKET":"20",
+   "RECOVERY_TICKET":
+   [
+    {
+     "START":"0",
+     "STOP":"0",
+     "TIME":"00:00",
+     "TICKET_NUM":"5",
+    },
+    {
+     "START":"0",
+     "STOP":"0",
+     "TIME":"06:00",
+     "TICKET_NUM":"5",
+    },
+    {
+     "START":"0",
+     "STOP":"0",
+     "TIME":"12:00",
+     "TICKET_NUM":"5",
+    },
+    {
+     "START":"0",
+     "STOP":"0",
+     "TIME":"18:00",
+     "TICKET_NUM":"5",
+    },
+   ]
+ },
+// ◆◆◆◆◆↓↓Ver1.20追加機能↓↓◆◆◆◆◆
+ // ▼対人ボランティア参加申請設定
+ "PVP_RATE":
+ {
+ //  ▽CTP計算係数（勝利時/敗北時/引き分け時）
+ //  "WIN_SIDE":
+ //  [
+ //   { "RANK":"1",  "RATE":"1.0" },// ランク1～20
+ //  ],
+ //  "LOSE_SIDE":
+ //  [
+ //   { "RANK":"1",  "RATE":"0.03" },// ランク1
+ //   { "RANK":"2",  "RATE":"0.03" },// ランク2
+ //   { "RANK":"3",  "RATE":"0.03" },// ランク3
+ //   { "RANK":"4",  "RATE":"0.05" },// ランク4
+ //   { "RANK":"5",  "RATE":"0.05" },// ランク5
+ //   { "RANK":"6",  "RATE":"0.05" },// ランク6
+ //   { "RANK":"7",  "RATE":"0.05" },// ランク7
+ //   { "RANK":"8",  "RATE":"0.05" },// ランク8
+ //   { "RANK":"9",  "RATE":"0.05" },// ランク9
+ //   { "RANK":"10", "RATE":"0.05" },// ランク10
+ //   { "RANK":"11", "RATE":"0.10" },// ランク11
+ //   { "RANK":"12", "RATE":"0.10" },// ランク12
+ //   { "RANK":"13", "RATE":"0.10" },// ランク13
+ //   { "RANK":"14", "RATE":"0.20" },// ランク14
+ //   { "RANK":"15", "RATE":"0.20" },// ランク15
+ //   { "RANK":"16", "RATE":"0.30" },// ランク16
+ //   { "RANK":"17", "RATE":"0.40" },// ランク17
+ //   { "RANK":"18", "RATE":"0.50" },// ランク18
+ //   { "RANK":"19", "RATE":"0.50" },// ランク19
+ //   { "RANK":"20", "RATE":"1.00" },// ランク20
+ //  ],
+ //  "DRAW_SIDE":
+ //  [
+ //   { "RANK":"1",  "RATE":"1.0" },// ランク1～20
+ //  ],
+ //  ▽バトルスコアのGDPP変換係数
+  "SCORE_TO_GDPP":"40.0",
+ },
+ // ▼イデオロギー戦
+ //"IDEOLOGY":[],
+ // ▼特殊ボランティア派遣抽選端末（プロパガチャ）
+ "PROPA_GACHA":"ON",
+
+ // ▼フラタニティショップ入手難度高資源販売設定
+ "RARE_STORE":
+ {
+  "TENBATSU":"ON",
+  "ABDUCTER_BIG":"ON",
+  "ABDUCTER_SMALL":"ON",
+  "FIELD":"ON",
+ },
+}

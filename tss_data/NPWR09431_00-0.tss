@@ -1,0 +1,60 @@
+
+sub settings()
+{
+    EnablePLS(true);
+    ServerProdPLS("https://pls.dyinglightgame.com");
+    ServerDevPLS ("https://pls.dyinglightgame.com");
+    
+    SkuConfig() 
+    {
+        //DW:EU:En,Fr,It,De,Es,Pl,Ru,Nl:
+        TitleId("CUSA00050_00")
+        {
+            FullGameProductId("DYINGLIGHTGAME00");
+            ServiceLabel(0);
+        }
+
+        //DW:EU-2:En,Fr,It,De,Es,Pl,Ru,Nl:
+        TitleId("CUSA02010_00")
+        {
+            FullGameProductId("DYINGLIGHTGAME00");
+            ServiceLabel(1);
+        }
+
+        //DW:NA:En,Fr,El:
+        TitleId("CUSA00078_00")
+        {
+            FullGameProductId("DYINGLIGHTGAME00");
+            ServiceLabel(0);
+        }
+
+        //DW:SA:En,El,Br:    
+        TitleId("CUSA01473_00")
+        {
+            FullGameProductId("DYINGLIGHTGAME00");
+            ServiceLabel(1);
+        }
+
+        //DW:JP:Jp,En:    
+        TitleId("CUSA01090_00")
+        {
+            FullGameProductId("DYINGLIGHTGAME00");
+            ServiceLabel(0);
+        }
+        
+        //DW:DemoEU:En,Fr,It,De,Es,Pl,Ru,Nl:
+        TitleId("CUSA03066_00")
+        {
+            FullGameProductId("DYINGLIGHTGAME00");
+            ServiceLabel(1);
+        }
+
+        //DW:DemoNA:En,Fr,El:
+        TitleId("CUSA03026_00")
+        {
+            FullGameProductId("DYINGLIGHTGAME00");
+            ServiceLabel(1);
+        }
+    }
+
+}

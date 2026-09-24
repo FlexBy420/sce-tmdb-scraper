@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+<changes app_ver="01.01">
+	<![CDATA[
+		Changelist:
+		<ul>
+		<li>overall huge framerate improvements in all the games</li>
+		<li>"needs to update" message on leaderboards</li>
+		<li>credits updated with QA</li>
+		<li>cloud/local saves happen asynchronously</li>
+		<li>exit confirmation screen dims all the way</li>
+		<li>fixed a crash that can sometimes occur when quitting a game to the main menu</li>
+		<li>trophy description adjust for A Perfect Perfect to account for RUNNER's levelling</li>
+		<li>BEAT/FLUX's controller neutral detection fixed</li>
+		<li>BEAT controller vibration cut in half</li>
+		<li>BEAT pong score in HYPER mode prints on-screen</li>
+		<li>BEAT's comet effects toned down</li>
+		<li>BEAT's game over screen brightened up</li>
+		<li>BEAT's main menu paddle fades out with the rest of the screen</li>
+		<li>BEAT's end of level score tallying is bigger and centered vertically</li>
+		<li>BEAT's printing of the base score per beat is halved in EASY</li>
+		<li>BEAT's HYPER text lightened up</li>
+		<li>CORE's point-per-beat is halved for EASY difficulty</li>
+		<li>CORE's values for mode'ing up/down adjusted for twice as easy to mode up in EASY and twice as easy to mode down in HARD, and the rest of the values are same as for NORMAL</li>
+		<li>CORE can be unpaused by the circle button</li>
+		<li>CORE's A Perfect Perfect achievement no longer difficulty-specific</li>
+		<li>CORE's lighting is fixed</li>
+		<li>CORE's pulsing + in SUPER mode vertically centered</li>
+		<li>CORE's level 3 glitches fixed</li>
+		<li>CORE's difficulty unified with the other games</li>
+		<li>VOID's main menu effects when popping beats render correctly on the VOID</li>
+		<li>VOID can be unpaused also by the circle button</li>
+		<li>VOID's difficulty unified with the other games</li>
+		<li>VOID's redundant final score screen removed</li>
+		<li>VOID's beat timing with the music fixed</li>
+		<li>VOID's text ticker screen fixed so that button image fades with the text</li>
+		<li>RUNNER's levels 2 and 3 brightened</li>
+		<li>RUNNER rainbow background on pause menu and end of level/challenges moves in the other direction and has the gaps closed up</li>
+		<li>RUNNER kicking/blocking is also allowed via R/L buttons</li>
+		<li>RUNNER's level 2 and 3 challenges background color are blue</li>
+		<li>RUNNER's challenges menu buttons for changing difficulty and going to the leaderboards</li>
+		<li>RUNNER's fade text effect for numbers spacing fixed</li>
+		<li>RUNNER's get-gold effect brightness toned down</li>
+		<li>RUNNER's left black bar in the bonus levels goes all the way to the top</li>
+		<li>RUNNER's first cutscene's planet shimmering fixed</li>
+		<li>RUNNER's main menu music starts when the menu comes up</li>
+		<li>RUNNER'S levelend music is looped</li>
+		<li>RUNNER's bonus level unpaused only by the START button</li>
+		<li>RUNNER's score/gold/etc. droptext is the same width as the text it's dropping from</li>
+		<li>RUNNER's level 2 cutscene fixed problem with cloud on top of parachute</li>
+		<li>RUNNER's level end text overlapping text box fixed</li>
+		<li>RUNNER's difficulty unified with the other games</li>
+		<li>RUNNER's freestyle beats no longer accessible by the R button</li>
+		<li>RUNNER/FATE/FLUX unlocking a level unlocks for all difficulty levels</li>
+		<li>FATE subliminal text centered vertically</li>
+		<li>FATE's buddy powerup adjusted so that the parallex effect is minimized</li>
+		<li>FATE's pause menu letterbox bars go all the way to the top/bottom of the screen</li>
+		<li>FATE's main menu letterbox bars go all the way to the top/bottom of the screen</li>
+		<li>FATE's first music loop fixed</li>
+		<li>FATE's initial/death cutscenes fixed to remove shimmering</li>
+		<li>FATE startup crash fixed</li>
+		<li>FATE's flashlight effect looks more like a flashlight</li>
+		<li>FATE's buddy powerup showing correctly with Mrs. Cv</li>
+		<li>FATE's difficulty unified with the other games</li>
+		<li>FATE's lighting fixed</li>
+		<li>FATE's level end score has fixed-width spacing</li>
+		<li>FATE's level 2 animations fixed to be smooth</li>
+		<li>FATE's pause menu controlled by tilt</li>
+		<li>FLUX's multiple collision detection (esp. on large beats) fixed</li>
+		<li>FLUX's beat timing matches other platforms (fixes things like Epilogue planet wrapping around)</li>
+		<li>FLUX's glitchy audio looping fixed</li>
+		<li>FLUX bad color array access fixed (caused a crash)</li>
+		<li>FLUX's paddle speed now matches BEAT's</li>
+		<li>FLUX's levelend score is centered</li>
+		<li>FLUX's racquetball boss dies in 10 instead of 15 "hits"</li>
+		<li>FLUX's vibration toned down</li>
+		<li>FLUX's META mode cells put back and working</li>
+		<li>FLUX's difficulty unified with the other games</li>
+		</ul>
+	]]>
+</changes>
+</changeinfo>

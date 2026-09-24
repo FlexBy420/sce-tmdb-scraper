@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+	<changes app_ver="01.03">
+		<![CDATA[
+			- New texture effect
+			- New options menu lets you change music and SFX volumes
+			- Added new bedtime cutscene variant
+			- Fixed small animation bugs
+		]]>
+	</changes>
+	<changes app_ver="01.02">
+		<![CDATA[
+			- Fixed loading problems incurred in v1.01 where games loaded after installing patch could send the player into the upsidedown
+			- Fixed "scanning dance" bug
+			- Added extra checkpoints per mission (and restored missing ones)
+			- Textbox fixes (no more text juggling!)
+			- Fixed various typos
+			- Patched up a few "holes" in some walls
+			- addressed an issue with the map screen in week 3
+			- Fixed instances where two objects could be scanned at once
+			- Made objects in one mission easier to spot
+		]]>
+	</changes>
+</changeinfo>

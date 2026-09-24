@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[ 
+      Fixed no progression bug after Witch Forest
+      ]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[ 
+    - added 30 fps lock/unlimited framerate option
+    - framerate improvements
+    - tweaked the brightness setting algorithm
+    - config now loads up just once until app is closed
+    - smaller savegame fixes
+    - smaller game script fixes
+    - a couple of collision fixes (player could get stuck in geometry)
+    ]]>
+  </changes>
+</changeinfo>

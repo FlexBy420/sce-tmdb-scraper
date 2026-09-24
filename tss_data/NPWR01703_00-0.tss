@@ -1,0 +1,24 @@
+;for Event Board
+
+;0: close, 1: open
+EBOpen=0
+
+;EBOpenid add 1 every time of the changing EBBoardId
+EBOpenId=2
+
+;1 		Championship
+;2 		Area1
+;3 		Area2
+;4 		Area3
+;5 		Area4
+;6 		Area5
+;7 		Area6
+;8 		Area7
+;9 		Area8
+;10	Area9
+EBBoardId=1
+
+;flag for leaderboards	0: close, 1: open 
+EBLBOpen=1
+
+;END

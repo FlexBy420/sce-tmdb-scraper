@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+<ul>
+        <li>Faster load time between areas.</li>
+        <li>Various UI improvements.</li>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[
+<ul>
+        <li>Non-critical bug fixes found in beta testing.</li>
+        <li>Improved balancing.</li>
+        <li>Improved Map Layouts.</li>
+</ul>
+    ]]>
+  </changes> 
+  <changes app_ver="01.03">
+    <![CDATA[
+<ul>
+        <li>Bug fixes</li>
+        <li>Improved balancing</li>
+</ul>
+    ]]>
+  </changes>  
+  <changes app_ver="01.04">
+    <![CDATA[
+<ul>
+        <li>Bug fixes</li>
+        <li>Improved balancing</li>
+        <li>Class Mode</li>
+        <li>Parachute moved to backdash button</li>
+        <li>Improved wall jumping</li>
+</ul>
+    ]]>
+  </changes>
+<changes app_ver="01.05">
+<![CDATA[
+<ul>
+<li>Added Arcade Mode</li>
+<li>Added translations for Spanish, French, German, Italian, Portuguese and Hungarian</li>
+<li>Added chance for Unique and Legendary item drops with bonus stats</li>
+<li>Added over 60 rooms for more path variation (new games only)</li>
+<li>Added customizable controls w/ updated button graphics</li>
+<li>Added new background graphics to all areas</li>
+<li>Added alternate chiptune soundtrack</li>
+<li>Added new shortcuts in Mines and Catacombs to help with backtracking (new games only)</li>
+<li>Added Savepoint to Mines shortcut hub</li>
+<li>Added Inventory sorting by Name, Value, and Type</li>
+<li>Added 4th treasure chest room to Mines, Catacombs, Gardens and Keep areas (new games only)</li>
+<li>Added checkmark for fully explored areas on map screen</li>
+<li>Added new items Throwing Sword, Summon Scroll, and Luck Scroll (new games only)</li>
+<li>Added option to skip game intro (requires completed game)</li>
+<li>Added profile icon for completed games (must be resaved to take effect)</li>
+<li>Revised rooms and improved styling</li>
+<li>Tweaks to balancing, drop rates, player speed, spell upgrades, etc</li>
+<li>Changed Portals to ask for destination after more than 2 unlocked</li>
+<li>Extended buffer for button presses during attacks for more responsiveness</li>
+<li>Various improvements to UI and map</li>
+<li>Over 30 bug fixes</li>
+</ul>
+]]>
+</changes>
+<changes app_ver="01.06">
+<![CDATA[
+<ul>
+<li>Added safeguard for flour drops in innkeepers sidequest.</li>
+<li>Increased mana particle acceleration.</li>
+<li>Increased enemy mana and gold drop rates.</li>
+<li>Custom player map markers now pulse to differentiate from others.</li>
+<li>Arcade: fixed consumable chest items being incorrectly added to drop blacklist.</li>
+<li>Arcade: fixed crash if all items of a category have already been dropped by chests.</li>
+<li>Fixed unintended trophy unlocking when playing Arcade then Story mode.</li>
+<li>Fixed buying multiple potions at a time not counting towards Big Spender trophy.</li>
+<li>Fixed equipment items stacking when purchasing multiple at a time.</li>
+<li>Fixed input buffer size growing every room change.</li>
+<li>Fixed animation pooling bug in Bestiary.</li>
+<li>Fixed Misc category notes allowing paging for translated languages.</li>
+<li>Fixed bird hat not appearing on map.</li>
+<li>Fixed backdash and jump button buffers not being checked when landing on ground in walking state.</li>
+<li>Fixed animation pooling bug in Bestiary.</li>
+<li>Fixed flambard special move on thumbstick.</li>
+<li>Fixed eyebat getting stuck in ground.</li>
+<li>Fixed equipment items stacking when purchasing multiple of a type.</li>
+<li>Fixed throwing sword not throwing when holding down on d-pad.</li>
+<li>Fixed eyebat getting stuck in ground.</li>
+<li>Fixed secret detector beeping for elixirs already picked up.</li>
+<li>Fixed dire rat aggro when on platform above or below.</li>
+<li>Fixed executioner walking into oil.</li>
+<li>Fixed bird hat icon positions.</li>
+<li>Fixed tiling and collision errors in a few rooms.</li>
+<li>Fixed rare glitch with explosion FX.</li>
+</ul>
+]]>
+</changes>
+</changeinfo>

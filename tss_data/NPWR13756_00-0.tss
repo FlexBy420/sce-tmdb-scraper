@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TSS>
+	<CUSA09076_00>
+		<CountryCode default="jp,hk,sg,my,id,th,kr,tw"></CountryCode>
+		<jp>
+			<Period>
+				<PublishBegin default="636367644000000000"></PublishBegin>
+				<PublishEnd default="636421212000000000"></PublishEnd>
+			</Period>
+			<Unlock>
+				<Time default="636367644000000000"></Time>
+				<No default="1-10"></No>
+			</Unlock>
+			<Website>
+				<!-- 日本語のみ別指定 -->
+				<Url default="http://nier-automata.com/gb/">
+					<JPN>http://www.jp.square-enix.com/nierautomata/</JPN>
+				</Url>
+			</Website>
+			<!-- ストア繋ぎこみ-->
+			<Store default="product">
+				<StringLabel default="ANDROIDS20030612"></StringLabel>
+				<NumberLabel default="1"></NumberLabel>
+			</Store>
+			<!-- 広告情報 -->
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.jp.playstation.com/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+			<LoginBonus>
+				<!-- スペシャルボーナス -->
+				<SpecialBonus>
+					<LotteryLimit default="636388380000000000"></LotteryLimit>
+					<Lottery default="636397884000000000"></Lottery>
+					<WinnerNotice default="636397884000000000"></WinnerNotice>
+					<WinnerSend default="636423804000000000"></WinnerSend>
+				</SpecialBonus>
+				<!-- ボーナス一覧 -->
+				<!--
+				<Day0 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="1-39"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="1,1,0,193793"></Unlock0>
+						<Unlock1 default="10,1,0,147911"></Unlock1>
+						<Unlock2 default="16,1,0,39125"></Unlock2>
+					</NotPlusName>
+				</Day0>
+				-->
+				<Day0 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>レプリカント アバター ニーア</JPN>
+							<ENG>Replicant Avatar Nier</ENG>
+							<CHS>Replicant Avatar Nier</CHS>
+							<CHT>Replicant Avatar Nier</CHT>
+							<KRA>Replicant Avatar Nier</KRA>
+						</REPSTR>
+						<StringLabel default="NIERBON000000001"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="3,1,0,287317"></Unlock0>
+					</NotPlusName>
+				</Day0>
+				<Day6 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>レプリカント アバター カイネ</JPN>
+							<ENG>Replicant Avatar Kaine</ENG>
+							<CHS>Replicant Avatar Kaine</CHS>
+							<CHT>Replicant Avatar Kaine</CHT>
+							<KRA>Replicant Avatar Kaine</KRA>
+						</REPSTR>
+						<StringLabel default="NIERBON000000002"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="1,1,0,90000"></Unlock0>
+					</NotPlusName>
+				</Day6>
+				<Day13 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>レプリカント アバター 白の書</JPN>
+							<ENG>Replicant Avatar Grimoire Weiss</ENG>
+							<CHS>Replicant Avatar Grimoire Weiss</CHS>
+							<CHT>Replicant Avatar Grimoire Weiss</CHT>
+							<KRA>Replicant Avatar Grimoire Weiss</KRA>
+						</REPSTR>
+						<StringLabel default="NIERBON000000003"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="2,1,0,90000"></Unlock0>
+					</NotPlusName>
+				</Day13>
+				<Day20 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>レプリカント アバター 実験兵器7号</JPN>
+							<ENG>Replicant Avatar &#xA;Experimental Weapon No. 7</ENG>
+							<CHS>Replicant Avatar &#xA;Experimental Weapon No. 7</CHS>
+							<CHT>Replicant Avatar &#xA;Experimental Weapon No. 7</CHT>
+							<KRA>Replicant Avatar &#xA;Experimental Weapon No. 7</KRA>
+						</REPSTR>
+						<StringLabel default="NIERBON000000004"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="5,1,0,90000"></Unlock0>
+					</NotPlusName>
+				</Day20>
+				<Day27 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>レプリカント アバター デボル&amp;ポポル</JPN>
+							<ENG>Replicant Avatar Devola &amp; Popola</ENG>
+							<CHS>Replicant Avatar Devola &amp; Popola</CHS>
+							<CHT>Replicant Avatar Devola &amp; Popola</CHT>
+							<KRA>Replicant Avatar Devola &amp; Popola</KRA>
+						</REPSTR>
+						<StringLabel default="NIERBON000000005"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="7,1,0,90000"></Unlock0>
+					</NotPlusName>
+				</Day27>
+				<Day34 default="enable">
+					<Icon default="silver"></Icon>
+					<PlusName default="PS4Theme">
+						<REPSTR default="PS4Theme">
+							<JPN>レプリカント テーマ</JPN>
+							<ENG>Replicant Theme</ENG>
+							<CHS>Replicant Theme</CHS>
+							<CHT>Replicant Theme</CHT>
+							<KRA>Replicant Theme</KRA>
+						</REPSTR>
+						<StringLabel default="NIERBON000000008"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="8,1,0,90000"></Unlock0>
+					</NotPlusName>
+				</Day34>
+
+				<Day44 default="enable">
+					<Icon default="gold"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>ボーナスアバター 2Bトロ&amp;9Sクロ</JPN>
+							<ENG>Bonus Avatar 2B Toro &amp; 9S Kuro</ENG>
+							<CHS>Bonus Avatar 2B Toro &amp; 9S Kuro</CHS>
+							<CHT>Bonus Avatar 2B Toro &amp; 9S Kuro</CHT>
+							<KRA>Bonus Avatar 2B Toro &amp; 9S Kuro</KRA>
+						</REPSTR>
+						<StringLabel default="NIERBONBUNDLE001"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="9,1,0,90000"></Unlock0>
+					</NotPlusName>
+				</Day44>
+			</LoginBonus>
+		</jp>
+		<hk default="jp">
+			<Store default="product">
+				<StringLabel default="ANDROIDS20030612"></StringLabel>
+				<NumberLabel default="2"></NumberLabel>
+			</Store>
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/cht-hk/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</hk>
+		<sg default="jp">
+			<Store default="product">
+				<StringLabel default="ANDROIDS20030612"></StringLabel>
+				<NumberLabel default="2"></NumberLabel>
+			</Store>
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-sg/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</sg>
+		<my default="jp">
+			<Store default="product">
+				<StringLabel default="ANDROIDS20030612"></StringLabel>
+				<NumberLabel default="2"></NumberLabel>
+			</Store>
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-my/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</my>
+		<id default="jp">
+			<Store default="product">
+				<StringLabel default="ANDROIDS20030612"></StringLabel>
+				<NumberLabel default="2"></NumberLabel>
+			</Store>
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-id/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</id>
+		<th default="jp">
+			<Store default="product">
+				<StringLabel default="ANDROIDS20030612"></StringLabel>
+				<NumberLabel default="2"></NumberLabel>
+			</Store>
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-th/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</th>
+		<kr default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.playstation.co.kr/psn/psplus"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</kr>
+		<tw default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/cht-tw/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</tw>
+		<Other>
+			<Period>
+				<PublishBegin default="636367644000000000"></PublishBegin>
+				<PublishEnd default="636421212000000000"></PublishEnd>
+			</Period>
+			<Unlock>
+				<Time default="636367644000000000"></Time>
+				<No default="1-10"></No>
+			</Unlock>
+			<Website>
+				<!-- 日本語のみ別指定 -->
+				<Url default="http://nier-automata.com/gb/">
+					<JPN>http://www.jp.square-enix.com/nierautomata/</JPN>
+				</Url>
+			</Website>
+			<Store default="product">
+				<StringLabel default="ANDROIDS20030612"></StringLabel>
+				<NumberLabel default="2"></NumberLabel>
+			</Store>
+			<!-- 広告情報 -->
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.jp.playstation.com/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+			<LoginBonus>
+				<!-- スペシャルボーナス -->
+				<SpecialBonus>
+					<LotteryLimit default="636388380000000000"></LotteryLimit>
+					<Lottery default="636397884000000000"></Lottery>
+					<WinnerNotice default="636397884000000000"></WinnerNotice>
+					<WinnerSend default="636423804000000000"></WinnerSend>
+				</SpecialBonus>
+				<!-- ボーナス一覧 -->
+				<!--
+				<Day0 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="1-39"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="1,1,0,193793"></Unlock0>
+						<Unlock1 default="10,1,0,147911"></Unlock1>
+						<Unlock2 default="16,1,0,39125"></Unlock2>
+					</NotPlusName>
+				</Day0>
+				-->
+				<Day0 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>レプリカント アバター ニーア</JPN>
+							<ENG>Replicant Avatar Nier</ENG>
+							<CHS>Replicant Avatar Nier</CHS>
+							<CHT>Replicant Avatar Nier</CHT>
+							<KRA>Replicant Avatar Nier</KRA>
+						</REPSTR>
+						<StringLabel default="NIERBON000000001"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="3,1,0,287317"></Unlock0>
+					</NotPlusName>
+				</Day0>
+				<Day6 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>レプリカント アバター カイネ</JPN>
+							<ENG>Replicant Avatar Kaine</ENG>
+							<CHS>Replicant Avatar Kaine</CHS>
+							<CHT>Replicant Avatar Kaine</CHT>
+							<KRA>Replicant Avatar Kaine</KRA>
+						</REPSTR>
+						<StringLabel default="NIERBON000000002"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="1,1,0,90000"></Unlock0>
+					</NotPlusName>
+				</Day6>
+				<Day13 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>レプリカント アバター 白の書</JPN>
+							<ENG>Replicant Avatar Grimoire Weiss</ENG>
+							<CHS>Replicant Avatar Grimoire Weiss</CHS>
+							<CHT>Replicant Avatar Grimoire Weiss</CHT>
+							<KRA>Replicant Avatar Grimoire Weiss</KRA>
+						</REPSTR>
+						<StringLabel default="NIERBON000000003"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="2,1,0,90000"></Unlock0>
+					</NotPlusName>
+				</Day13>
+				<Day20 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>レプリカント アバター 実験兵器7号</JPN>
+							<ENG>Replicant Avatar &#xA;Experimental Weapon No. 7</ENG>
+							<CHS>Replicant Avatar &#xA;Experimental Weapon No. 7</CHS>
+							<CHT>Replicant Avatar &#xA;Experimental Weapon No. 7</CHT>
+							<KRA>Replicant Avatar &#xA;Experimental Weapon No. 7</KRA>
+						</REPSTR>
+						<StringLabel default="NIERBON000000004"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="5,1,0,90000"></Unlock0>
+					</NotPlusName>
+				</Day20>
+				<Day27 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>レプリカント アバター デボル&amp;ポポル</JPN>
+							<ENG>Replicant Avatar Devola &amp; Popola</ENG>
+							<CHS>Replicant Avatar Devola &amp; Popola</CHS>
+							<CHT>Replicant Avatar Devola &amp; Popola</CHT>
+							<KRA>Replicant Avatar Devola &amp; Popola</KRA>
+						</REPSTR>
+						<StringLabel default="NIERBON000000005"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="7,1,0,90000"></Unlock0>
+					</NotPlusName>
+				</Day27>
+				<Day34 default="enable">
+					<Icon default="silver"></Icon>
+					<PlusName default="PS4Theme">
+						<REPSTR default="PS4Theme">
+							<JPN>レプリカント テーマ</JPN>
+							<ENG>Replicant Theme</ENG>
+							<CHS>Replicant Theme</CHS>
+							<CHT>Replicant Theme</CHT>
+							<KRA>Replicant Theme</KRA>
+						</REPSTR>
+						<StringLabel default="NIERBON000000008"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="8,1,0,90000"></Unlock0>
+					</NotPlusName>
+				</Day34>
+
+				<Day44 default="enable">
+					<Icon default="gold"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>ボーナスアバター 2Bトロ&amp;9Sクロ</JPN>
+							<ENG>Bonus Avatar 2B Toro &amp; 9S Kuro</ENG>
+							<CHS>Bonus Avatar 2B Toro &amp; 9S Kuro</CHS>
+							<CHT>Bonus Avatar 2B Toro &amp; 9S Kuro</CHT>
+							<KRA>Bonus Avatar 2B Toro &amp; 9S Kuro</KRA>
+						</REPSTR>
+						<StringLabel default="NIERBONBUNDLE001"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="9,1,0,90000"></Unlock0>
+					</NotPlusName>
+				</Day44>
+			</LoginBonus>
+		</Other>
+	</CUSA09076_00>
+</TSS>

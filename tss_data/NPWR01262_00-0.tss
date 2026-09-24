@@ -1,0 +1,219 @@
+
+
+@ #Report end
+
+
+#SJIS
+
+
+#Tag that can be used ([V] Video upload, [S] Stage upload)
+#  [V]     &videoid;     ... Vide ID
+#  [V]     &videotitle;  ... Video title
+#  [V][S]  &title;       ... Game title
+#     [S]  &username;    ... User name
+#     [S]  &stagename;   ... Stage name
+#     [S]  &ruleicon;    ... Stage rule icon
+#  [V][S]  &MSG_???;     ... Game text
+#  [V][S]  &var:???;     ... Variable
+
+
+[Var]
+# YouTube upload name.
+YN=&title; / &MSG_facebook_08;
+YN_US=&title; / &MSG_facebook_08_EA;
+
+# YouTube upload caption.
+YC=&videotitle;
+
+# YouTuve upload swf source.
+YS=http://www.youtube.com/v/&videoid;
+
+# YouTube upload image source.
+YI=http://i.ytimg.com/vi/&videoid;/2.jpg
+
+# Stage upload name.
+SN=&title; / &MSG_facebook_09;
+SN_US=&title; / &MSG_facebook_09_EA;
+
+# Stage upload caption.
+SC=&MSG_ResultDesigner;: &username; / &MSG_ResultStageName_e;: &stagename;
+
+# Stage upload image source.
+SI_SCEJ=&ruleicon;
+SI_SCEAsia=&ruleicon;
+SI_SCEA=&ruleicon;
+SI_SCEE=&ruleicon;
+
+# Facebook movie thumbnail width, devault 130.
+ThumbW=130
+
+# Facebook movie thumbnail height, default 97.
+ThumbH=97
+
+# Facebook inline movie width, default 398.
+ExpandedW=398
+
+# Facebook inline movie height, default 259.
+ExpandedH=259
+
+# Facebook action links text
+AT=&MSG_facebook_11;
+AT_US=&MSG_facebook_11_EA;
+
+# Facebook action links href
+AH_SCEJ=http://www.jp.playstation.com/scej/title/mugen_hikaritokage/
+AH_SCEAsia=http://asia.playstation.com/hk/en/
+AH_SCEA=http://blog.us.playstation.com/
+AH_SCEE=http://blog.eu.playstation.com/
+
+# Rule icon (&ruleicon;) displayed when stage is uploaded.
+RuleIcon_SCEJ_A=http://cmnimg.scej-online.jp/echochrome2/JPN_A_cast.png
+RuleIcon_SCEJ_B=http://cmnimg.scej-online.jp/echochrome2/JPN_B_echo.png
+RuleIcon_SCEJ_C=http://cmnimg.scej-online.jp/echochrome2/JPN_C_paint.png
+RuleIcon_SCEJ_AB=http://cmnimg.scej-online.jp/echochrome2/JPN_D_cast_echo.png
+RuleIcon_SCEJ_AC=http://cmnimg.scej-online.jp/echochrome2/JPN_E_cast_paint.png
+RuleIcon_SCEJ_BC=http://cmnimg.scej-online.jp/echochrome2/JPN_F_echo_paint.png
+RuleIcon_SCEJ_ABC=http://cmnimg.scej-online.jp/echochrome2/JPN_G_cast_echo_paint.png
+
+RuleIcon_SCEAsia_A=http://cmnimg.scej-online.jp/echochrome2/ASIA_A_cast.png
+RuleIcon_SCEAsia_B=http://cmnimg.scej-online.jp/echochrome2/ASIA_B_echo.png
+RuleIcon_SCEAsia_C=http://cmnimg.scej-online.jp/echochrome2/ASIA_C_paint.png
+RuleIcon_SCEAsia_AB=http://cmnimg.scej-online.jp/echochrome2/ASIA_D_cast_echo.png
+RuleIcon_SCEAsia_AC=http://cmnimg.scej-online.jp/echochrome2/ASIA_E_cast_paint.png
+RuleIcon_SCEAsia_BC=http://cmnimg.scej-online.jp/echochrome2/ASIA_F_echo_paint.png
+RuleIcon_SCEAsia_ABC=http://cmnimg.scej-online.jp/echochrome2/ASIA_G_cast_echo_paint.png
+
+RuleIcon_SCEA_A=http://cmnimg.scej-online.jp/echochrome2/US_A_cast.png
+RuleIcon_SCEA_B=http://cmnimg.scej-online.jp/echochrome2/US_B_echo.png
+RuleIcon_SCEA_C=http://cmnimg.scej-online.jp/echochrome2/US_C_paint.png
+RuleIcon_SCEA_AB=http://cmnimg.scej-online.jp/echochrome2/US_D_cast_echo.png
+RuleIcon_SCEA_AC=http://cmnimg.scej-online.jp/echochrome2/US_E_cast_paint.png
+RuleIcon_SCEA_BC=http://cmnimg.scej-online.jp/echochrome2/US_F_echo_paint.png
+RuleIcon_SCEA_ABC=http://cmnimg.scej-online.jp/echochrome2/US_G_cast_echo_paint.png
+
+RuleIcon_SCEE_A=http://cmnimg.scej-online.jp/echochrome2/EU_A_cast.png
+RuleIcon_SCEE_B=http://cmnimg.scej-online.jp/echochrome2/EU_B_echo.png
+RuleIcon_SCEE_C=http://cmnimg.scej-online.jp/echochrome2/EU_C_paint.png
+RuleIcon_SCEE_AB=http://cmnimg.scej-online.jp/echochrome2/EU_D_cast_echo.png
+RuleIcon_SCEE_AC=http://cmnimg.scej-online.jp/echochrome2/EU_E_cast_paint.png
+RuleIcon_SCEE_BC=http://cmnimg.scej-online.jp/echochrome2/EU_F_echo_paint.png
+RuleIcon_SCEE_ABC=http://cmnimg.scej-online.jp/echochrome2/EU_G_cast_echo_paint.png
+
+# Facebook variable max length
+MessageLen=256
+NameLen=256
+CaptionLen=256
+Src(SwfSrc)Len=256
+Href(ImgSrc)Len=256
+ActionLinksTextLen=256
+ActionLinksHrefLen=256
+
+
+
+### Video upload ###
+
+#SCEJ
+[J_Facebook_YouTube_Upload]
+stat=alive	# maintenance, alive
+name=&var:YN;
+caption=&var:YC;
+swfsrc=&var:YS;
+imgsrc=&var:YI;
+width=&var:ThumbW;
+height=&var:ThumbH;
+expanded_width=&var:ExpandedW;
+expanded_height=&var:ExpandedH;
+action_links_text=&var:AT;
+action_links_href=&var:AH_SCEJ;
+
+#SCE Asia
+[A_Facebook_YouTube_Upload]
+stat=alive	# maintenance, alive
+name=&var:YN_US;
+caption=&var:YC;
+swfsrc=&var:YS;
+imgsrc=&var:YI;
+width=&var:ThumbW;
+height=&var:ThumbH;
+expanded_width=&var:ExpandedW;
+expanded_height=&var:ExpandedH;
+action_links_text=&var:AT;
+action_links_href=&var:AH_SCEAsia;
+
+#SCEA
+[U_Facebook_YouTube_Upload]
+stat=alive	# maintenance, alive
+name=&var:YN_US;
+caption=&var:YC;
+swfsrc=&var:YS;
+imgsrc=&var:YI;
+width=&var:ThumbW;
+height=&var:ThumbH;
+expanded_width=&var:ExpandedW;
+expanded_height=&var:ExpandedH;
+action_links_text=&var:AT_US;
+action_links_href=&var:AH_SCEA;
+
+#SCEE
+[E_Facebook_YouTube_Upload]
+stat=alive	# maintenance, alive
+name=&var:YN;
+caption=&var:YC;
+swfsrc=&var:YS;
+imgsrc=&var:YI;
+width=&var:ThumbW;
+height=&var:ThumbH;
+expanded_width=&var:ExpandedW;
+expanded_height=&var:ExpandedH;
+action_links_text=&var:AT;
+action_links_href=&var:AH_SCEE;
+
+
+
+### Stage upload ###
+
+#SCEJ
+[J_Facebook_Stage_Upload]
+stat=alive	# maintenance, alive
+name=&var:SN;
+caption=&var:SC;
+src=&var:SI_SCEJ;
+href=
+action_links_text=&var:AT;
+action_links_href=&var:AH_SCEJ;
+
+#SCE Asia
+[A_Facebook_Stage_Upload]
+stat=alive	# maintenance, alive
+name=&var:SN_US;
+caption=&var:SC;
+src=&var:SI_SCEAsia;
+href=
+action_links_text=&var:AT;
+action_links_href=&var:AH_SCEAsia;
+
+#SCEA
+[U_Facebook_Stage_Upload]
+stat=alive	# maintenance, alive
+name=&var:SN_US;
+caption=&var:SC;
+src=&var:SI_SCEA;
+href=
+action_links_text=&var:AT_US;
+action_links_href=&var:AH_SCEA;
+
+#SCEE
+[E_Facebook_Stage_Upload]
+stat=alive	# maintenance, alive
+name=&var:SN;
+caption=&var:SC;
+src=&var:SI_SCEE;
+href=
+action_links_text=&var:AT;
+action_links_href=&var:AH_SCEE;
+
+
+
+! #Facebook end
+
+

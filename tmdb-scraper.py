@@ -26,22 +26,76 @@ if not os.path.exists(FOUND_JSON):
     with open(FOUND_JSON, "w", encoding="utf-8") as f:
         json.dump({}, f, indent=4, ensure_ascii=False)
 
+FOUND_DEV_JSON = "log/tmdb_dev.json"
+if not os.path.exists(FOUND_DEV_JSON):
+    with open(FOUND_DEV_JSON, "w", encoding="utf-8") as f:
+        json.dump({}, f, indent=4, ensure_ascii=False)
+
+UPDATES_JSON = "log/updates.json"
+if not os.path.exists(UPDATES_JSON):
+    with open(UPDATES_JSON, "w", encoding="utf-8") as f:
+        json.dump({}, f, indent=4, ensure_ascii=False)
+
 DOMAIN = "http://tmdb.np.dl.playstation.net/"
-#DOMAIN = "http://tmdb.e1-np.dl.playstation.net/"
+DEV_DOMAIN = "http://tmdb.e1-np.dl.playstation.net/"
 SECRET_KEY = bytes.fromhex("F5DE66D2680E255B2DF79E74F890EBF349262F618BCAE2A9ACCDEE5156CE8DF2CDF2D48C71173CDC2594465B87405D197CF1AED3B7E9671EEB56CA6753C2E6B0")
 MAX_CONCURRENT_REQUESTS = 1000 # set this according to your OS limit
 MAX_RETRIES = 3
 IMAGE_SEMAPHORE = asyncio.Semaphore(100)
 
+UPDATES_ENV = "np"
+UPDATES_URL = "https://a0.ww.{env}.dl.playstation.net/tpl/{env}/{title_id}/{title_id}-ver.xml"
+UPDATES_DIR = "updates"
+UPDATE_FILE_EXTENSIONS = (".xml", ".json", ".hip")
+PS4_UPDATES_URL = "http://gs-sec.ww.np.dl.playstation.net/plo/np/{title_id}/{hash}/{title_id}-ver.xml"
+PS4_PATCH_HMAC_KEY = bytes.fromhex("AD62E37F905E06BC19593142281C112CEC0E7EC3E97EFDCAEFCDBAAFA6378D84")
+VITA_UPDATES_URL = "http://gs-sec.ww.np.dl.playstation.net/pl/np/{title_id}/{hash}/{title_id}-ver.xml"
+VITA_PATCH_HMAC_KEY = bytes.fromhex("E5E278AA1EE34082A088279C83F9BBC806821C52F2AB5D2B4ABD995450355114")
+
+TSS_URL = "https://a0.ww.np.dl.playstation.net/tss/np/{npwr}/{npwr}-{suffix}.tss"
+TSS_DIR = "tss_data"
+TSS_ID_START = 0
+TSS_ID_END = 99999
+TSS_SUFFIX_START = 0
+TSS_SUFFIX_END = 15
+TSS_CONCURRENCY = 1000
+TSS_REQUEST_TIMEOUT = 15
+TSS_RETRY_BACKOFF = 2
+
+def raise_fd_limit():
+    try:
+        import resource
+    except ImportError:
+        return None
+    soft, hard = resource.getrlimit(resource.RLIMIT_NOFILE)
+    wanted = 65536 if hard == resource.RLIM_INFINITY else min(hard, 65536)
+    if soft == resource.RLIM_INFINITY or soft < wanted:
+        try:
+            resource.setrlimit(resource.RLIMIT_NOFILE, (wanted, hard))
+            soft = wanted
+        except (ValueError, OSError):
+            pass
+    return soft
+
+FD_LIMIT = raise_fd_limit()
+if FD_LIMIT and FD_LIMIT > 0:
+    MAX_CONCURRENT_REQUESTS = min(MAX_CONCURRENT_REQUESTS, max(FD_LIMIT - 200, 50))
+    TSS_CONCURRENCY = min(TSS_CONCURRENCY, MAX_CONCURRENT_REQUESTS)
+
 save_queue = asyncio.Queue()
+
+def tmdb_dir(extension, dev=False):
+    return f"{'tmdb_dev' if dev else 'tmdb'}/{extension}"
 
 async def file_writer_worker():
     while True:
         item = await save_queue.get()
         if item is None:
+            save_queue.task_done()
             break
         file_path, raw = item
         try:
+            os.makedirs(os.path.dirname(file_path) or ".", exist_ok=True)
             with open(file_path, "wb") as f:
                 f.write(raw)
         except Exception as e:
@@ -59,7 +113,7 @@ async def download_image(session, url, game_dir, silent=False):
 
     async with IMAGE_SEMAPHORE:
         try:
-            async with session.get(url, timeout=15) as response:
+            async with session.get(url, timeout=aiohttp.ClientTimeout(total=15)) as response:
                 if response.status == 200:
                     content = await response.read()
                     with open(file_path, 'wb') as f:
@@ -71,8 +125,8 @@ async def download_image(session, url, game_dir, silent=False):
         except Exception as e:
             logging.error(f"Error downloading image {url}: {e}")
 
-async def process_images_for_game(session, title_id, extension, progress_dict=None):
-    file_path = f"{extension}/{title_id}.{extension}"
+async def process_images_for_game(session, title_id, extension, progress_dict=None, dev=False):
+    file_path = f"{tmdb_dir(extension, dev)}/{title_id}.{extension}"
     
     # Check if file exists and is not empty before processing
     if not os.path.exists(file_path) or os.path.getsize(file_path) == 0:
@@ -107,7 +161,7 @@ async def process_images_for_game(session, title_id, extension, progress_dict=No
         urls = {u for u in urls if u}
 
         if urls:
-            game_dir = os.path.join('icons', title_id)
+            game_dir = os.path.join('icons_dev' if dev else 'icons', title_id)
             os.makedirs(game_dir, exist_ok=True)
             is_silent = progress_dict is not None
             tasks = [download_image(session, url, game_dir, silent=is_silent) for url in urls]
@@ -123,19 +177,21 @@ async def process_images_for_game(session, title_id, extension, progress_dict=No
         logging.error(f"Error processing images for {title_id}: {e}")
         if progress_dict: progress_dict['current'] += 1
 
-async def bulk_download_images():
+async def bulk_download_images(dev=False):
     async with aiohttp.ClientSession() as session:
         game_list = []
 
         # Scan for existing non-empty files
-        if os.path.exists("xml"):
-            for f in os.listdir("xml"):
-                if f.endswith(".xml") and os.path.getsize(os.path.join("xml", f)) > 0:
+        xml_dir = tmdb_dir("xml", dev)
+        if os.path.exists(xml_dir):
+            for f in os.listdir(xml_dir):
+                if f.endswith(".xml") and os.path.getsize(os.path.join(xml_dir, f)) > 0:
                     game_list.append((f.replace(".xml", ""), "xml"))
 
-        if os.path.exists("json"):
-            for f in os.listdir("json"):
-                if f.endswith(".json") and os.path.getsize(os.path.join("json", f)) > 0:
+        json_dir = tmdb_dir("json", dev)
+        if os.path.exists(json_dir):
+            for f in os.listdir(json_dir):
+                if f.endswith(".json") and os.path.getsize(os.path.join(json_dir, f)) > 0:
                     game_list.append((f.replace(".json", ""), "json"))
 
         total_games = len(game_list)
@@ -147,12 +203,36 @@ async def bulk_download_images():
         progress_dict = {'current': 0, 'total': total_games}
 
         # Concurrent processing of games
-        tasks = [process_images_for_game(session, tid, ext, progress_dict) for tid, ext in game_list]
+        tasks = [process_images_for_game(session, tid, ext, progress_dict, dev) for tid, ext in game_list]
         await asyncio.gather(*tasks)
         print("\nBulk download finished.")
 
 def generate_hash(title_id: str) -> str:
     return hmac.new(SECRET_KEY, f"{title_id.upper()}_00".encode(), hashlib.sha1).hexdigest().upper()
+
+def generate_ps4_patch_hash(title_id: str) -> str:
+    return hmac.new(PS4_PATCH_HMAC_KEY, f"np_{title_id.upper()}".encode(), hashlib.sha256).hexdigest()
+
+def generate_vita_patch_hash(title_id: str) -> str:
+    return hmac.new(VITA_PATCH_HMAC_KEY, f"np_{title_id.upper()}".encode(), hashlib.sha256).hexdigest()
+
+def update_platform(title_id: str) -> str:
+    if title_id.startswith("CUSA"):
+        return "PS4"
+    if title_id.startswith("PCS"):
+        return "PSVita"
+    return "PS3"
+
+def update_dir(title_id: str, platform=None) -> str:
+    return f"{UPDATES_DIR}/{platform or update_platform(title_id)}/{title_id}"
+
+def build_update_url(title_id: str, platform=None) -> str:
+    platform = platform or update_platform(title_id)
+    if platform == "PS4":
+        return PS4_UPDATES_URL.format(title_id=title_id, hash=generate_ps4_patch_hash(title_id))
+    if platform == "PSVita":
+        return VITA_UPDATES_URL.format(title_id=title_id, hash=generate_vita_patch_hash(title_id))
+    return UPDATES_URL.format(env=UPDATES_ENV, title_id=title_id)
 
 def extract_title_from_xml(data: bytes):
     try:
@@ -172,6 +252,39 @@ def extract_title_from_json(data: bytes):
     except Exception:
         return None
 
+def extract_versions_from_update(data: bytes):
+    try:
+        root = ET.fromstring(data)
+        versions = []
+        for el in root.iter("package"):
+            version = el.get("version")
+            if version and version not in versions:
+                versions.append(version)
+        return versions
+    except Exception:
+        return []
+
+def extract_update_file_urls(data: bytes):
+    try:
+        root = ET.fromstring(data)
+    except Exception:
+        return []
+    found = []
+    for tag in root.iter("tag"):
+        tag_name = "".join(c if c.isalnum() or c in "-_." else "_" for c in tag.get("name", ""))
+        for el in tag.iter():
+            for attr in ("url", "manifest_url"):
+                url = el.get(attr)
+                if url and urlparse(url).path.lower().endswith(UPDATE_FILE_EXTENSIONS) and all(url != u for u, _ in found):
+                    found.append((url, tag_name))
+    names = [os.path.basename(urlparse(u).path) for u, _ in found]
+    result = []
+    for (url, tag_name), name in zip(found, names):
+        if names.count(name) > 1:
+            name = f"{tag_name}_{name}"
+        result.append((url, name))
+    return result
+
 def sort_title_ids(data: dict) -> dict:
     def sort_key(tid: str):
         prefix = "".join(c for c in tid if c.isalpha())
@@ -179,24 +292,32 @@ def sort_title_ids(data: dict) -> dict:
         return (prefix, int(number) if number else 0)
     return dict(sorted(data.items(), key=lambda item: sort_key(item[0])))
 
-async def fetch_tmdb(session, semaphore, title_id, path, extension, counter_lock, checked_counter, found_counter, results_dict, retry_ids):
+def save_results(json_path, results_dict):
+    with open(json_path, "r", encoding="utf-8") as f:
+        existing = json.load(f)
+    existing.update(results_dict)
+    existing = sort_title_ids(existing)
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(existing, f, indent=4, ensure_ascii=False)
+
+async def fetch_tmdb(session, semaphore, title_id, path, extension, counter_lock, checked_counter, found_counter, results_dict, retry_ids, dev=False):
     async with semaphore:
-        url = f"{DOMAIN}{path}/{title_id}_00_{generate_hash(title_id)}/{title_id}_00.{extension}"
+        url = f"{DEV_DOMAIN if dev else DOMAIN}{path}/{title_id}_00_{generate_hash(title_id)}/{title_id}_00.{extension}"
         #logging.info(url)
         try:
-            async with session.get(url, timeout=10) as response:
+            async with session.get(url, timeout=aiohttp.ClientTimeout(total=10)) as response:
                 async with counter_lock:
                     checked_counter[0] += 1
                 if response.status == 404:
                     if checked_counter[0] % 100 == 0:
                         async with counter_lock:
-                            sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} | Found IDs: {found_counter[0]}")
+                            sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found IDs: {found_counter[0]}")
                             sys.stdout.flush()
                     return
                 elif response.status != 200:
                     async with counter_lock:
                         retry_ids.append(title_id)
-                        sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} | Found IDs: {found_counter[0]}")
+                        sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found IDs: {found_counter[0]}")
                         sys.stdout.flush()
                     return
                 raw = await response.read()
@@ -205,32 +326,121 @@ async def fetch_tmdb(session, semaphore, title_id, path, extension, counter_lock
                 else:
                     title = extract_title_from_xml(raw) if extension == "xml" else extract_title_from_json(raw)
 
-                os.makedirs(extension, exist_ok=True)
-                file_path = f"{extension}/{title_id}.{extension}"
+                save_dir = tmdb_dir(extension, dev)
+                os.makedirs(save_dir, exist_ok=True)
+                file_path = f"{save_dir}/{title_id}.{extension}"
                 await save_queue.put((file_path, raw))
                 
                 results_dict[title_id] = {"title": title, "url": url}
 
                 async with counter_lock:
                     found_counter[0] += 1
-                    sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} | Found IDs: {found_counter[0]}")
+                    sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found IDs: {found_counter[0]}")
                     sys.stdout.flush()
 
         except Exception:
             async with counter_lock:
                 retry_ids.append(title_id)
                 checked_counter[0] += 1
-                sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} | Found IDs: {found_counter[0]}")
+                sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found IDs: {found_counter[0]}")
                 sys.stdout.flush()
 
-def get_tmdb_version():
+async def download_update_file(session, url, save_path):
+    if os.path.exists(save_path):
+        return
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            async with session.get(url, timeout=aiohttp.ClientTimeout(total=15)) as response:
+                if response.status == 200:
+                    raw = await response.read()
+                    await save_queue.put((save_path, raw))
+                    return
+                elif response.status == 404:
+                    return
+        except Exception:
+            pass
+        if attempt < MAX_RETRIES:
+            await asyncio.sleep(attempt)
+    logging.error(f"Failed to download update file {url}")
+
+async def fetch_update(session, semaphore, title_id, counter_lock, checked_counter, found_counter, results_dict, retry_ids, platform=None):
+    async with semaphore:
+        url = build_update_url(title_id, platform)
+        try:
+            async with session.get(url, timeout=aiohttp.ClientTimeout(total=10)) as response:
+                async with counter_lock:
+                    checked_counter[0] += 1
+                if response.status == 404:
+                    if checked_counter[0] % 100 == 0:
+                        async with counter_lock:
+                            sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found updates: {found_counter[0]}")
+                            sys.stdout.flush()
+                    return
+                elif response.status != 200:
+                    async with counter_lock:
+                        retry_ids.append(title_id)
+                        sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found updates: {found_counter[0]}")
+                        sys.stdout.flush()
+                    return
+                raw = await response.read()
+                if not raw.strip():
+                    return
+
+                save_dir = update_dir(title_id, platform)
+                await save_queue.put((f"{save_dir}/{title_id}-ver.xml", raw))
+
+                for file_url, file_name in extract_update_file_urls(raw):
+                    await download_update_file(session, file_url, f"{save_dir}/{file_name}")
+
+                results_dict[title_id] = {"platform": platform or update_platform(title_id), "versions": extract_versions_from_update(raw), "url": url}
+
+                async with counter_lock:
+                    found_counter[0] += 1
+                    sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found updates: {found_counter[0]}")
+                    sys.stdout.flush()
+
+        except Exception:
+            async with counter_lock:
+                retry_ids.append(title_id)
+                checked_counter[0] += 1
+                sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found updates: {found_counter[0]}")
+                sys.stdout.flush()
+
+def get_tmdb_version(psp2=False):
     while True:
-        v_choice = input("Choose TMDB version (1 - xml, 2 - json): ").strip()
+        if psp2:
+            v_choice = input("Choose TMDB version (1 - xml, 2 - json, 3 - psp2-tmdb): ").strip()
+        else:
+            v_choice = input("Choose TMDB version (1 - xml, 2 - json): ").strip()
         if v_choice == "1":
             return "tmdb", "xml"
         elif v_choice == "2":
             return "tmdb2", "json"
+        elif v_choice == "3" and psp2:
+            return "psp2-tmdb", "xml"
+        print("Invalid choice. Please enter 1, 2 or 3." if psp2 else "Invalid choice. Please enter 1 or 2.")
+
+def get_tmdb_domain():
+    while True:
+        d_choice = input("Choose TMDB domain (1 - prod, 2 - dev): ").strip()
+        if d_choice == "1":
+            return False
+        elif d_choice == "2":
+            return True
         print("Invalid choice. Please enter 1 or 2.")
+
+def get_update_backend():
+    while True:
+        b_choice = input("Choose update backend (1 - auto by prefix, 2 - PS3, 3 - PS4, 4 - PS Vita): ").strip()
+        if b_choice == "1":
+            return None
+        elif b_choice == "2":
+            return "PS3"
+        elif b_choice == "3":
+            return "PS4"
+        elif b_choice == "4":
+            return "PSVita"
+        print("Invalid choice. Please enter 1, 2, 3 or 4.")
 
 def ps3_prefixes():
     ps3_digital = [f"NP{r}{t}" for r, t in product("EHIJKUX", "ABCDEFGHIJKLMNOPQRSTUVWXYZ")]
@@ -257,9 +467,12 @@ def psp_prefixes():
 def psvita_prefixes():
     return [f"PCS{region}" for region in "ABCDEFGH"] # Based on vita3k compat
 
-async def scrape(prefixes, path, ext, brute=True, batch_size=100000):
+def dev_prefixes():
+    return ["TEST"] + ["NPXS"] + ["NPXX"] + ["NPWR"]
+
+async def scrape(prefixes, path, ext, brute=True, batch_size=100000, dev=False):
     semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
-    checked_counter = [0]
+    checked_counter = [0, len(prefixes) * 100000 if brute else len(prefixes)]
     found_counter = [0]
     counter_lock = asyncio.Lock()
     results_dict = {}
@@ -273,99 +486,274 @@ async def scrape(prefixes, path, ext, brute=True, batch_size=100000):
             if brute:
                 for start in range(0, 100000, batch_size):
                     tasks = [
-                        fetch_tmdb(session, semaphore, f"{prefix}{i:05}", path, ext, counter_lock, checked_counter, found_counter, results_dict, retry_ids)
+                        fetch_tmdb(session, semaphore, f"{prefix}{i:05}", path, ext, counter_lock, checked_counter, found_counter, results_dict, retry_ids, dev)
                         for i in range(start, start + batch_size)
                     ]
                     await asyncio.gather(*tasks)
 
             else:
                 retry_ids = []
-                await fetch_tmdb(session, semaphore, prefix, path, ext, counter_lock, checked_counter, found_counter, results_dict, retry_ids)
+                await fetch_tmdb(session, semaphore, prefix, path, ext, counter_lock, checked_counter, found_counter, results_dict, retry_ids, dev)
             for attempt in range(1, MAX_RETRIES + 1):
                 if not retry_ids:
                     break
-                tasks = [
-                    fetch_tmdb(session, semaphore, tid, path, ext, counter_lock, checked_counter, found_counter, results_dict, [])
-                    for tid in retry_ids
-                ]
+                current_ids = retry_ids
                 retry_ids = []
+                checked_counter[0] -= len(current_ids)
+                sys.stdout.write(f"\rRetrying {len(current_ids)} IDs (attempt {attempt}/{MAX_RETRIES})...")
+                sys.stdout.flush()
+                tasks = [
+                    fetch_tmdb(session, semaphore, tid, path, ext, counter_lock, checked_counter, found_counter, results_dict, retry_ids, dev)
+                    for tid in current_ids
+                ]
                 await asyncio.gather(*tasks)
 
     await save_queue.join()
     await save_queue.put(None)
     await writer_task
 
+    sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found IDs: {found_counter[0]}")
     print()
     results_dict = sort_title_ids(results_dict)
 
-    with open(FOUND_JSON, "r", encoding="utf-8") as f:
-        existing = json.load(f)
-    existing.update(results_dict)
-    existing = sort_title_ids(existing)
-    with open(FOUND_JSON, "w", encoding="utf-8") as f:
-        json.dump(existing, f, indent=4, ensure_ascii=False)
+    save_results(FOUND_DEV_JSON if dev else FOUND_JSON, results_dict)
     logging.info(f"Saved {len(results_dict)} IDs from prefixes [{', '.join(prefixes)}]")
+
+async def scrape_updates(prefixes, brute=True, batch_size=100000, platform=None):
+    semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
+    checked_counter = [0, len(prefixes) * 100000 if brute else len(prefixes)]
+    found_counter = [0]
+    counter_lock = asyncio.Lock()
+    results_dict = {}
+
+    writer_task = asyncio.create_task(file_writer_worker())
+
+    connector = aiohttp.TCPConnector(limit=0, ttl_dns_cache=600, use_dns_cache=True, ssl=False)
+    async with aiohttp.ClientSession(connector=connector) as session:
+        for prefix in prefixes:
+            retry_ids = []
+            if brute:
+                for start in range(0, 100000, batch_size):
+                    tasks = [
+                        fetch_update(session, semaphore, f"{prefix}{i:05}", counter_lock, checked_counter, found_counter, results_dict, retry_ids, platform)
+                        for i in range(start, start + batch_size)
+                    ]
+                    await asyncio.gather(*tasks)
+            else:
+                await fetch_update(session, semaphore, prefix, counter_lock, checked_counter, found_counter, results_dict, retry_ids, platform)
+            for attempt in range(1, MAX_RETRIES + 1):
+                if not retry_ids:
+                    break
+                current_ids = retry_ids
+                retry_ids = []
+                checked_counter[0] -= len(current_ids)
+                sys.stdout.write(f"\rRetrying {len(current_ids)} IDs (attempt {attempt}/{MAX_RETRIES})...")
+                sys.stdout.flush()
+                tasks = [
+                    fetch_update(session, semaphore, tid, counter_lock, checked_counter, found_counter, results_dict, retry_ids, platform)
+                    for tid in current_ids
+                ]
+                await asyncio.gather(*tasks)
+
+    await save_queue.join()
+    await save_queue.put(None)
+    await writer_task
+
+    sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found updates: {found_counter[0]}")
+    print()
+    results_dict = sort_title_ids(results_dict)
+
+    save_results(UPDATES_JSON, results_dict)
+    logging.info(f"Saved {len(results_dict)} update files from prefixes [{', '.join(prefixes)}]")
+
+def build_tss_targets():
+    for npwr_num in range(TSS_ID_START, TSS_ID_END + 1):
+        npwr = f"NPWR{npwr_num:05d}_00"
+        for suffix in range(TSS_SUFFIX_START, TSS_SUFFIX_END + 1):
+            url = TSS_URL.format(npwr=npwr, suffix=suffix)
+            save_path = os.path.join(TSS_DIR, f"{npwr}-{suffix}.tss")
+            yield url, save_path
+
+class TssStats:
+    def __init__(self, total):
+        self.total = total
+        self.found = 0
+        self.not_found = 0
+        self.errors = 0
+        self.processed = 0
+
+def print_tss_progress(stats):
+    sys.stdout.write(f"\rChecked IDs: {stats.processed} / {stats.total} | Found files: {stats.found}")
+    sys.stdout.flush()
+
+async def fetch_tss(session, url, save_path, stats):
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            timeout = aiohttp.ClientTimeout(total=TSS_REQUEST_TIMEOUT)
+            async with session.get(url, timeout=timeout) as resp:
+                if resp.status == 200:
+                    data = await resp.read()
+                    await save_queue.put((save_path, data))
+                    stats.found += 1
+                    stats.processed += 1
+                    print_tss_progress(stats)
+                    return
+                elif resp.status != 429 and resp.status < 500:
+                    stats.not_found += 1
+                    stats.processed += 1
+                    return
+        except (asyncio.TimeoutError, aiohttp.ClientError):
+            pass
+        except Exception as e:
+            logging.error(f"Unexpected error for {url}: {e}")
+            stats.errors += 1
+            stats.processed += 1
+            return
+
+        if attempt < MAX_RETRIES:
+            await asyncio.sleep(TSS_RETRY_BACKOFF * attempt)
+
+    logging.error(f"All {MAX_RETRIES} attempts failed for {url}")
+    stats.errors += 1
+    stats.processed += 1
+
+async def tss_worker(queue, session, stats):
+    while True:
+        item = await queue.get()
+        if item is None:
+            queue.task_done()
+            break
+        url, save_path = item
+        try:
+            await fetch_tss(session, url, save_path, stats)
+            if stats.processed % 100 == 0:
+                print_tss_progress(stats)
+        finally:
+            queue.task_done()
+
+async def scrape_tss():
+    os.makedirs(TSS_DIR, exist_ok=True)
+
+    start_time = time.time()
+    total_targets = (TSS_ID_END - TSS_ID_START + 1) * (TSS_SUFFIX_END - TSS_SUFFIX_START + 1)
+
+    queue = asyncio.Queue(maxsize=TSS_CONCURRENCY * 4)
+    stats = TssStats(total_targets)
+
+    writer_task = asyncio.create_task(file_writer_worker())
+
+    connector = aiohttp.TCPConnector(limit=TSS_CONCURRENCY, ttl_dns_cache=300, ssl=False)
+    headers = {"User-Agent": "Mozilla/5.0"}
+
+    async with aiohttp.ClientSession(connector=connector, headers=headers) as session:
+        workers = [
+            asyncio.create_task(tss_worker(queue, session, stats))
+            for _ in range(TSS_CONCURRENCY)
+        ]
+
+        for target in build_tss_targets():
+            await queue.put(target)
+
+        for _ in workers:
+            await queue.put(None)
+
+        await queue.join()
+        await asyncio.gather(*workers)
+
+    await save_queue.join()
+    await save_queue.put(None)
+    await writer_task
+
+    print()
+    elapsed = time.time() - start_time
+    logging.info(
+        f"Saved {stats.found} TSS files (not found: {stats.not_found}, errors: {stats.errors}) in {elapsed:.1f}s"
+    )
 
 def menu():
     print("""
-1. All Platforms
-2. Only PS3
-3. Only PS4
-4. Only PS1 / PS2
-5. Specific ID (i.e. CUSA12345)
-6. Specific Prefix (i.e. CUSA)
+1. All Platforms (TMDB)
+2. Only PS3 (TMDB)
+3. Only PS4 (TMDB)
+4. Only PS1 / PS2 (TMDB)
+5. Specific ID (i.e. CUSA12345) (TMDB)
+6. Specific Prefix (i.e. CUSA) (TMDB)
 7. Download Specific ID images/files
 8. Download All icons/images/files for found IDs (Requires pre-scraped files)
+9. Only PS3 Updates
+10. Only PS4 Updates
+11. Only PS Vita Updates
+12. Updates for Specific ID (i.e. BLUS30145 / CUSA00001)
+13. Updates for Specific Prefix (i.e. BLUS / CUSA)
+14. Title Small Storage files
 """)
     return input("Choose Option: ").strip()
 
 async def main():
-    if len(sys.argv) > 1 and sys.argv[1] == "--all":
-        await scrape(ps1_ps2_prefixes() + ps3_prefixes(), "tmdb", "xml")
-        await scrape(ps4_prefixes(), "tmdb2", "json")
-        return
-
     while True:
         choice = menu()
+        dev = get_tmdb_domain() if choice in ("1", "2", "3", "4", "5", "6", "7", "8", "dev", "ps5", "psp", "psp2") else False
+        path, ext = get_tmdb_version(choice == "psp2") if choice in ("2", "3", "4", "5", "6", "7", "dev", "ps5", "psp", "psp2") else (None, None)
 
         if choice == "1":
-            await scrape(ps1_ps2_prefixes() + ps3_prefixes(), "tmdb", "xml")
-            await scrape(ps4_prefixes(), "tmdb2", "json")
+            await scrape(ps1_ps2_prefixes() + ps3_prefixes(), "tmdb", "xml", dev=dev)
+            await scrape(ps4_prefixes(), "tmdb2", "json", dev=dev)
         elif choice == "2":
-            await scrape(ps3_prefixes(), "tmdb", "xml")
+            await scrape(ps3_prefixes(), path, ext, dev=dev)
         elif choice == "3":
-            await scrape(ps4_prefixes(), "tmdb2", "json")
+            await scrape(ps4_prefixes(), path, ext, dev=dev)
         elif choice == "4":
-            await scrape(ps1_ps2_prefixes(), "tmdb", "xml")
-        #elif choice == "5":
-        #    await scrape(ps5_prefixes(), "tmdb2", "json") # nothing, possibly uses some kind of newer api
-        #elif choice == "6":
-        #    await scrape(psp_prefixes(), "tmdb", "xml") # only ULJM05170, ULJM05277, ULJM05353 all empty
-        #elif choice == "7":
-        #    await scrape(psvita_prefixes(), "tmdb", "xml") # 0 json, only empty PCSF00178.xml came up lol
+            await scrape(ps1_ps2_prefixes(), path, ext, dev=dev)
+        elif choice == "ps5":
+            await scrape(ps5_prefixes(), path, ext, dev=dev) # nothing, possibly uses some kind of newer api
+        elif choice == "psp":
+            await scrape(psp_prefixes(), path, ext, dev=dev) # only ULJM05170, ULJM05277, ULJM05353 all empty
+        elif choice == "psp2":
+            await scrape(psvita_prefixes(), path, ext, dev=dev) # 0 json, only empty PCSF00178.xml came up lol
         elif choice == "5":
             tid = input("Enter Title ID: ").strip().upper()
             if not tid:
                 print("Input cannot be empty!")
                 continue
-            path, ext = get_tmdb_version()
-            await scrape([tid], path, ext, brute=False)
+            await scrape([tid], path, ext, brute=False, dev=dev)
         elif choice == "6":
             prefix = input("Enter Prefix: ").strip().upper()
             if not prefix:
                 print("Input cannot be empty!")
                 continue
-            path, ext = get_tmdb_version()
-            await scrape([prefix], path, ext, brute=True)
+            await scrape([prefix], path, ext, brute=True, dev=dev)
         elif choice == "7":
             tid = input("Enter Title ID to download images for: ").strip().upper()
             if not tid:
                 continue
-            path, ext = get_tmdb_version()
             async with aiohttp.ClientSession() as session:
-                await process_images_for_game(session, tid, ext)
+                await process_images_for_game(session, tid, ext, dev=dev)
         elif choice == "8":
-            await bulk_download_images()
+            await bulk_download_images(dev=dev)
+        elif choice == "9":
+            await scrape_updates(ps3_prefixes())
+        elif choice == "10":
+            await scrape_updates(ps4_prefixes())
+        elif choice == "11":
+            await scrape_updates(psvita_prefixes())
+        elif choice == "12":
+            tid = input("Enter Title ID: ").strip().upper()
+            if not tid:
+                print("Input cannot be empty!")
+                continue
+            await scrape_updates([tid], brute=False)
+        elif choice == "13":
+            prefix = input("Enter Prefix: ").strip().upper()
+            if not prefix:
+                print("Input cannot be empty!")
+                continue
+            await scrape_updates([prefix], brute=True, platform=get_update_backend())
+        elif choice == "14":
+            await scrape_tss()
+        elif choice == "dev":
+            await scrape(dev_prefixes(), path, ext, dev=dev)
+            for update_backend in ("PS3", "PS4", "PSVita"):
+                await scrape_updates(dev_prefixes(), platform=update_backend)
         else:
             print("Invalid Option")
             continue
@@ -376,4 +764,7 @@ async def main():
             break
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        logging.warning("[INTERRUPTED] Stopped by user (Ctrl+C)")

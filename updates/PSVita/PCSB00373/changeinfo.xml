@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.08">
+    <![CDATA[
+	  <h1>NEW CHARACTER Fencer from Nidhogg</h1>
+	  <h1>Fixed various crashes and online issues</h1>
+    ]]>
+  </changes>
+  <changes app_ver="01.06">
+    <![CDATA[
+	  <h1>NEW CHARACTER Johnny Gat from Saints Row®</h1>
+	  <h1>NEW STAGE Da Beech, an island paradise!</h1>
+	  <h1>Minor bug fixes</h1>
+	  <h1>Balance changes</h1>
+      <ul>
+	  <h2>Stream -</h2>
+	  <li>Kick speed decreased ~8%</li>
+	  <li>Meter gain decreased ~12%</li>
+      <ul>
+      </ul>
+	  <h2>Baz -</h2>
+	  <li>Meter gain decreased ~9%</li>
+	  <li>Swing acceleration decreased ~4%</li>
+      <ul>
+      </ul>
+	  <h2>Kick -</h2>
+	  <li>Meter gain increased ~16%</li>
+      <ul>
+      </ul>
+	  <h2>Mr N -</h2>
+	  <li>Meter gain decreased ~13%</li>
+      <ul>
+      </ul>
+	  <h2>Jefailey -</h2>
+	  <li>Maximimum kick velocity decreased ~7%</li>
+	  <li>Meter gain decreased ~10%</li>
+      </ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.03">
+    <![CDATA[
+      	<h1>General Changes and Fixes</h1>
+		<ul>
+		<li>Traditional Menu mode added. Now you can control the menu screens with a d-pad like you have been for the last 20 years. Two Button Menu mode is still also available, and can be turned on in the option.</li>
+		<li>Blind selection has been added to ranked play. Choose quickly and in confidence!</li>
+		<li>Style gem bonus is now 15%, up from 10%. Dive gem bonus remains at 6%, and Kick gem at 12%. All of these still say 10% on the gem select screen because we like it that way.</li>
+		<li>The player is now able to go back to the main menu after entering either Story or Versus mode.</li>
+		<li>Menu sound effect now only plays once when entering any mode from the main menu.</li>
+		<li>Various SFX and audio that had been missing have been restored.</li>
+		<li>Stream's Glitch Pop SFX no longer plays when there is a round time out.</li>
+		<li>Kenny's Air Spirit Bullet SFX now stops playing after the opponent is hit by the bullet.</li>
+		</ul>
+		<h1>Gameplay Changes</h1>
+		<h2>DIVE - Dive has been trying to solve the Yang-Mills existence and mass gap problem in order to win the Millennium Prize to save Uncle Sensei's dojo. As a result, he has discovered a new use for Terminal Velocity, one of his signature moves.</h2>
+		<ul>
+		<li>[+] Dive can now cancel a kick at any time into Terminal Velocity (air special).</li>
+		<li>[-] Terminal Velocity (air special) cost increased by 33%.</li>
+		<li>[-] Kickfactor speed buff is now 20% lower.</li>
+		</ul>
+		<h2>KICK - Kick is sick and tired of starting a party, assuming it is good to go, and attending blindly. Instead, he would like to start the party, confirm that it has started and started well, and then decide on his attendance. Kick really doesn't think about anything important.</h2>
+		<ul>
+		<li>[+] Party Starter now bounces the opponent at a 33% higher velocity.</li>
+		<li>[-] Meter gain reduced by ~9%.</li>
+		<li>[-] Kickfactor speed buff is now 20% lower.</li>
+		</ul>
+		<h2>REDACTED - Redacted has been dating a male skunkbear named Bruce. The male of the species is a bit more timid, so Redacted learned how to better use Cornered Beast.</h2>
+		<ul>
+		<li>[?] Fixed a camera bug that occurred when the round ended during a wall cling.</li>
+		<li>[+] Feral Stance (ground special) builds meter about 200% faster.</li>
+		<li>[+] Cornered Beast (air special) now sends Redacted toward the wall no matter where it is used from. If she makes it to the wall, it leaves her in a wall cling state that drains meter. Tapping Dive from the cling lets her wall jump, tapping Kick lets go.</li>
+		<li>[­] Cornered Beast (air special) costs ~70% more meter.</li>
+		<li>[-] Kickfactor speed buff is now 20% lower.</li>
+		</ul>
+		<h2>KUNG PAO - Kung is learning new ways to kick portals open, but still cannot find her way home.</h2>
+		<ul>
+		<li>[+] Kung can now cancel a kick at any time into Dimension Break (air special).</li>
+		<li>[+] Meter gain rate is increased ~20%.</li>
+		<li>[-] Kickfactor speed buff is now 25% lower.</li>
+		</ul>
+		<h2>MR. N - Mr. N has gained 30lbs... of pure muscle!</h2>
+		<ul>
+		<li>[+] GTFO (ground special) moves ~30% faster.</li>
+		<li>[+] The startup frames on GTFO (ground special) are now invincible other than his head.</li>
+		<li>[+] Mr. N can now cancel a kick at any time into Marneto (air special).</li>
+		<li>[+] Secret Double Jump has 25% more velocity.</li>
+		<li>[-] Kickfactor speed buff is now 16% lower.</li>
+		</ul>
+		<h2>DR SHOALS - The medical precision she shows in the operating room now also shows in her deadly new kickfactor technique.</h2>
+		<ul>
+		<li>[+] Shoals can now manually cancel Death From Above (air special) even if she doesn't have enough meter to begin this move.</li>
+		<li>[+] In Kickfactor, her speed bonus was removed. Instead, the startup time on both of her kicks is greatly decreased. Additionally, the she gets the full 8 second Kickfactor duration now.</li>
+		<li>[-] Fixed the "dropkick bug", which caused her to fall normally from an un-ended Kicking 1st in the wrong pose, maintaining her attack.</li>
+		<li>[-] Disallowed her from canceling landing recovery into Brilliant Escape (ground special) which allowed her to go backwards.</li>
+		<li>[-] Increased the cost per frame on maintaining Brilliant Escape (ground special) about 200%.</li>
+		<li>[-] Increased the startup time on both of her kicks by 1 frame each.</li>
+		</ul>
+		<h2>UNCLE SENSEI - Sensei is now higher than ever before.</h2>
+		<ul>
+		<li>[+] Super Jump (ground special) velocity increased by 8%.</li>
+		<li>[+] Using Stance Dance (air special) to cancel one kick into another now adds velocity to each successive kick. All velocities return to normal when he touches the ground.</li>
+		<li>[-] Kickfactor speed buff is now 12% lower.</li>
+		</ul>
+		<h2>JEFAILEY - Jefailey has been working out! You can call him Buff Failwell from now on.</h2>
+		<ul>
+		<li>[+] YOLO Gem no longer makes his head grow at the start of the fight.</li>
+		<li>[+] Timer Scam (ground special) pauses his own kickfactor meter, but his opponent's will continue to drain.</li>
+		<li>[+] Jefailey can now cancel a kick at any time into Disqualified (air special).</li>
+		<li>[+] Jump velocity increased 5%.</li>
+		<li>[+] Jefailey's gravity rating now decreases 25% more than before per head size increase.</li>
+		<li>[+] Builds meter about 25% faster.</li>
+		</ul>
+		<h2>THE BAZ - The Baz tier list used to say: "1.) Kenny, 2.) Bubblan87, 3.) The Baz." Finally, The Baz is the best Baz.</h2>
+		<ul>
+		<li>[+] The Baz has essentially been removed from the game and replaced by New Baz. Think of him as a brand new character. Below, you'll read about how The Baz transformed into New Baz.</li>
+		<li>[=] Mighty Swing and Bazkousen have been swapped. Mighty Swing is now his normal kick button action and builds meter. Bazkousen is now his air special and costs meter.</li>
+		<li>[=] The Baz can only use two Mighty Swings per jump.</li>
+		<li>[=] Bazkousen (air special) now starts at a 40 degree angle, rotates 15% faster, and maxes out at a 105 degree angle.</li>
+		<li>[=] Baz's Kickfactor is no longer invincible.</li>
+		<li>[=] Kickfactor lasts full 8-second duration and has speed bonus of 30%.</li>
+		<li>[=] The Baz jumps higher. He also jumps farther and higher when using kickback (jump away).</li>
+		</ul>
+		<h2>MARKMAN - Markman is spending a lot of time improving the Kickbox, but not a lot working out. As a result, precision mode is far more deadly, but Markman himself is a bit less so.</h2>
+		<ul>
+		<li>[+] Upkick (precision mode special) has ~33% more velocity than before.</li>
+		<li>[+] Upkicks cost 20-40% more precision meter, but the auto drain on precision much slower.</li>
+		<li>[+] If you don't use any Upkicks, precision mode now lasts about 40 seconds.</li>
+		<li>[-] Upkick attack boxes no longer go past Markman's knee.</li>
+		<li>[-] Decreased kickback distance by about ~8%</li>
+		<li>[-] The angle that Markman travels after using Feint (air special) has changed. He falls down much more sharply now.</li>
+		<li>[-] Increased his Kick startup time by ~17%.</li>
+		<li>[-] Kickfactor speed buff is now ~38% lower.</li>
+		<li>[-] Kick speed is 9% slower.</li>
+		<li>[-] EWGF is ~16% slower.</li>
+		</ul>
+		<h2>STREAM - Monstering alone isn't nearly as fun as doing so with other monsters. Stream has invited his friends to play in his all new Kickfactor mode.</h2>
+		<ul>
+		<li>[+] Can now launch a second Flame Bait (air special) even if another is already active on screen. Doing so will cancel the existing Flame Bait. You can still only use one Flame Bait per jump.</li>
+		<li>[+] Some instances of buffering bugs that caused unwanted special moves have been fixed.</li>
+		<li>[+] Stream can now turn invisibility off manually by using Spooby PLS (ground special) again.</li>
+		<li>[+] In Kickfactor, Stream no longer gets any speed buff. Instead, taking any basic action (Jump, back jump, double jump, air back jump, or kicking) will summon a Mini Monster Missile. This can be done every 90 frames (1.5 seconds) during Kickfactor. His Kickfactor duration is now 10 seconds.</li>
+		</ul>
+		<h2>S-KILL - Adelheid was right.</h2>
+		<ul>
+		<li>[+] A few instances in which S-Kill could get stuck in various situations have been fixed.</li>
+		<li>[=] Replaced his teleport jumps with normal jumps.</li>
+		<li>[=] In Kickfactor, his speed buff has been removed. Instead, he gets his teleport jumps back for the duration. His Kickfactor mode now lasts 40 seconds. We call this Boss Mode.</li>
+		<li>[-] Moved Parry (ground special) hitbox up about 50%. It now ends at the level of his elbow in this pose.</li>
+		<li>[-] Increased the recovery time by 400% on his Parry (ground special), including a new frame of animation to show he is vulnerable.</li>
+		<li>[-] When using a Kickback (back jump) or air Kickback in Kickfactor, the teleport VFX is rotated 90 degrees.</li>
+		</ul>
+		<h2>KENNY - Kenny's abilities now more accurately represent a heavenly warrior's true skill level.</h2>
+		<ul>
+		<li>[+] Kenny can now attack after Spirit Bullet Homing (air special) in all stances.</li>
+		<li>[+] Kenny can now cancel a kick at any time into a Spirit Bullet Homing (air special)</li>
+		<li>[+] S-Kill stance now behaves like the new S-Kill, including special Kickfactor.</li>
+		<li>[+] Kenny can now mimic Stream's new Kickfactor mode.</li>
+		<li>[+] Kenny can now mimic Dr. Shoals' new Kickfactor mode.</li>
+		<li>[+] Kenny can now fire or place multiple Spirit Bullets (air and ground specials) on screen at the same time.</li>
+		<li>[=] Other balance adjustments to characters base stats have carried over to Kenny.</li>
+		<li>[=] The Baz stance has been removed. Kenny has no rope.</li>
+		<li>[-] The base cost of Spirit Bullet Homing has increased by 50%.</li>
+		</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[
+		<h1>General Changes</h1>
+		<ul>
+		<li>The leaderboard can now scroll past 100 without any issues.</li>
+		<li>Improvements have been made to make finding and joining ranked and unranked matches faster and more reliable.  Changes were also made to help players join find lobbies when searching.</li>
+		<li>Your CR (Character Rating) value should now be accurate when playing online.</li>
+		<li>Fixed a rare crash that would occur at the end of an online match.</li>
+		</ul>
+		<h1>Gameplay Changes</h1>
+		<h2>The Baz - These changes were made to encourage more thoughtful Baz play.</h2>
+		<ul>
+		<li>Builds meter ~14% faster.</li>
+		<li>Kickfactor now ends if you get a kill with it and will not carry over to the next round.</li>
+		<li>Kickfactor is half a second shorter.</li>
+		<li>Two Kickfactor Baz will now pass through eachother instead of a Double KO.</li>
+		</ul>
+		<h2>Kenny</h2>
+		<ul>
+		<li>Baz stance has the same changes Baz has undergone.</li>
+		<li>Fixed a bug that was preventing Kenny from getting the right speed bonus from his stance in Kickfactor.</li>
+		</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.01">
+    <![CDATA[
+      <ul>
+      <li>Updated ranked matchmaking algorithm.</li>
+	  <li>Fixed issue that could result in a player being kicked from an online match.</li>
+      </ul>
+    ]]>
+  </changes>
+</changeinfo>

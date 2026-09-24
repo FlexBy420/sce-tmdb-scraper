@@ -1,0 +1,26 @@
+<changeinfo>
+	<changes app_ver="01.01">
+		<![CDATA[
+			Various bug fixes.
+		]]>
+	</changes>
+	<changes app_ver="01.02">
+		<![CDATA[
+			<ul>
+			<li>Maniac Mansion - added multiple save slots and support for saving anywhere.</li>
+			<li>Cross-Save - added an option to turn off cross-save for players who do not wish to synchronize save data over the Internet. Turning this feature off may help players who experience problems due to Internet connectivity issues.</li>
+			<li>Audio - added a setting to toggle between remastered and classic sound effects.</li>
+			<li>Audio - fixed &quot;FIRE!!!&quot; voice over line not playing if subtitles are turned off.</li>
+			<li>Audio - fixed a classic game bug where Bernard would say one of Laverne's lines in the Lobby in a specific situation.</li>
+			<li>Art - fixed a sorting issue with Green Tentacle in the future during a cutscene.</li>
+			<li>Art - removed a stray white pixel on Laverne's shoe in a certain animation.</li>
+			<li>Commentary - fixed some subtitle typos.</li>
+			<li>Concept Art - removed the in-game unlock notification. Check the pause menu to see when new concept art has been unlocked.</li>
+			<li>Controls - added the ability to skip dialog lines by tapping on the touchscreen.</li>
+			<li>Controls - added a way to trigger object highlight using touch. Hold two fingers on the touchscreen to use.</li>
+			<li>UI - fixed a bug in verb dial mode where a certain inventory object's morph animation didn't play correctly during a certain puzzle.</li>
+			<li>UI - added touch UI for opening the pause menu in DotT verb bar mode and in Maniac Mansion.</li>
+			</ul>
+		]]>
+	</changes>
+</changeinfo>

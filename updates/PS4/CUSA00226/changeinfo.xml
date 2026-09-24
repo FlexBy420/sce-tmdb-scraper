@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>  
+<changes app_ver="01.03">
+<![CDATA[
+Fix spotlight aiming that would not lock when user reloaded/restarted while aiming a spotlight.
+Fix spotlight at top of tower which would break if user would exit aim mode.
+]]>
+</changes>
+<changes app_ver="01.02">
+<![CDATA[
+Prevent the box or the player to get stuck/sink into walls and items when picking up objects.
+Prevent general shadow shifting at start of game except on the specific wall onto which we want to teach the user to shift into shadow.
+Fix Boxgetting stuck in walls on exit.
+Fix Box landing and staying on Player Head
+Fix Box landing on Moving actors and floating into space. 
+Don't allow the player to shift into Blocking Volumes.
+Don't allow the player to go into Blocking Volumes while in shadows (and get stuck).
+Don't allow the player to go through walls while shifted in shadows.
+Display the walking animation when stuck in a stable configuration while falling.
+Allow jumping in that case to help the player get out of the collision.
+Fix getting stuck while shifting out.
+Fix going through walls and stop dash from going through shadows.
+Fix for the box falling on the player's head and floating in space.
+Fix Carousel loading / persistent problem
+]]>
+</changes>
+<changes app_ver="01.01">
+<![CDATA[
+Collectibles and chapters are now properly reset on new game.
+]]>
+</changes>
+</changeinfo>

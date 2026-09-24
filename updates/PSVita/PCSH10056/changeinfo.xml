@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.11">
+    <![CDATA[
+    <ul>
+	<li>A color cycling effect has been added to Bonus+ battles, so they can be recognized easier. The same applies to other global battle effects. (Speed+, Defense+, Strength+, Luck+)</li>
+	<li>A new notification has been added that reminds players that grinding is not required if they focus on Bonus+ battles instead of random or optional battles.</li>
+	<li>Help notifications are spawned with a much lower frequency.</li>
+	<li>A very rare UI related crash bug has been fixed.</li>
+	<li>A very rare battle related crash bug has been fixed.</li>
+	<li>A rare crash bug has been fixed that occurred during startup when other applications were open.</li>
+	</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.10">
+    <![CDATA[
+	<li>New features:</li>
+    <ul>
+	<li>A new zero star battle rank has been added. Battles will be much easier for players that just want to focus on story and exploration parts.</li>
+	<li>Battle skill animations can now be skipped right from the start. The following options have been added:</li>
+	<li>[Default] This is the old default behavior.</li>
+	<li>[Skip always] All skills can always be skipped by holding down the R button. This also affects monster skills.</li>
+	<li>[Auto skip] All animations are skipped automatically without holding down the R button. If a new skill is discovered, it will be displayed once, but all follow up animations of the same skill are skipped. This affects ally and enemy skills.</li>
+    </ul>
+	<li>Improvements:</li>
+    <ul>
+	<li>Several help notifications have been added. These notifications only appear in the beginning of the game.</li>
+	<li>A help notification will be displayed in case certain key features of the game are not used, such as:</li>
+    <ul>
+	<li>many skill stones have been collected but not spent in the upgrade menu.</li>
+	<li>new skill books have not been purchased and studied in a while.</li>
+	<li>new gear has not been purchased, although sufficient coins are available.</li>
+	<li>equipment has not been improved at the blacksmith with collected materials.</li>
+	<li>a reminder that players can switch to the battle menu by pressing the cancel button.</li>
+	</ul>
+	<li>All vehicles can now also be entered by pressing the SELECT button when standing close to the vehicle. This prevents very rare situations where players were no longer able to enter their vehicle after landing in very small areas with other interactive objects nearby.</li>
+    </ul>
+	<li>Bugfixes:</li>
+    <ul>
+	<li>Fixed an issue where the main character did not reappear after changing equipment in very populated spots.</li>
+	<li>The passive skill "Kamikaze" now works properly in all situations and the damage prediction always matches the expected result.</li>
+	<li>Fixed a very rare crash related to GUI lists (collecting bags, opening skill menu, etc.).</li>
+	<li>Fixed an issue where the HP display could become corrupted when fighting an end game boss on battle rank 9.</li>
+	<li>Fixed a very rare issue that allowed battles with notorious monsters to be initiated while they were despawning.</li>
+	<li>Fixed an issue at the monster farm that allowed players to change the egg selection while the rename requester was spawned. This could lead to the removal of the wrong egg and other side effects.</li>
+	<li>Fixed several bugs related to the monster house. In case corrupted units are stored in the monster house, they will automatically be repaired when loading the save data.</li>
+	<li>If a battle was started, while the lottery music was played, the battle music was not played at all.</li>
+	<li>Fixed a crash that could occur after a trial battle if the speech bubble was not confirmed immediately.</li>
+	<li>Fixed a bug that could lead to triggering empty battles in the end game dungeon "Cascades of Mystery."</li>
+	<li>A bag in the "Glimmer Mine" could not be collected if a big character or monster was selected as leader.</li>
+	<li>Fixed several text typos.</li>
+	<li>Other minor or cosmetic improvements and fixes.</li>
+	</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[
+    <ul>
+	<li>A bug introduced in 1.01 has been fixed</li>
+	</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.01">
+    <![CDATA[
+    <ul>
+	<li>Several texts have been improved</li>
+	<li>Minor gameplay adjustments</li>
+	<li>Fixed minor bugs</li>
+	</ul>
+    ]]>
+  </changes>
+</changeinfo>
