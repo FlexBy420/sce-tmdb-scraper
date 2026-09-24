@@ -1,0 +1,2 @@
+- Adjustment to Online Multiplayer sync;
+- ATTENTION: This application's Parental Control level has been increased to Level 5.

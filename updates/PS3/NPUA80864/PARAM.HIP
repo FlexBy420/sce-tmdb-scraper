@@ -1,0 +1,3 @@
+Update Information
+
+    ・Bugs fixed.

@@ -1,0 +1,5 @@
+ - Sortieren von Fotos und Umschalten der Anzeige für jeden Fototyp
+ - Synchronisieren mit MPF-/MPO-Dateien im XMB™ (XrossMediaBar)-Menü
+ - Weniger Zeit erforderlich für Start und Foto-Import
+ - Drehen von Fotos um 90 Grad
+ - Ansehen von Fotos aus verschiedenen Perspektiven in 3D

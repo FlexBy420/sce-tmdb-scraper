@@ -1,0 +1,3 @@
+- CHANGE: Performance improvements in 1080p mode
+- CHANGE: Improvements to leaderboards
+- FIX: Trophy related fixes

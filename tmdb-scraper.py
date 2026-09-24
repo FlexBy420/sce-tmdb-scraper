@@ -8,8 +8,10 @@ import sys
 import json
 import xml.etree.ElementTree as ET
 from itertools import product
-from urllib.parse import urlparse
+from urllib.parse import urlparse, parse_qs
 import time
+import re
+import random
 
 os.makedirs("log", exist_ok=True)
 logging.basicConfig(
@@ -61,6 +63,71 @@ TSS_SUFFIX_END = 15
 TSS_CONCURRENCY = 1000
 TSS_REQUEST_TIMEOUT = 15
 TSS_RETRY_BACKOFF = 2
+
+TROPHY_AUTH_BASE_URL = "https://ca.account.sony.com/api/authz/v3/oauth"
+TROPHY_AUTH_BASIC = "Basic MDk1MTUxNTktNzIzNy00MzcwLTliNDAtMzgwNmU2N2MwODkxOnVjUGprYTV0bnRCMktxc1A="
+TROPHY_REDIRECT_URI = "com.scee.psxandroid.scecompcall://redirect"
+TROPHY_CLIENT_ID = "09515159-7237-4370-9b40-3806e67c0891"
+TROPHY_SCOPE = "psn:mobile.v2.core psn:clientapp"
+TROPHY_DOMAIN = "https://m.np.playstation.com/api/trophy/v1"
+TROPHY_GRAPHQL_URL = "https://m.np.playstation.com/api/graphql/v1/op"
+TROPHY_DIR = "trophies"
+TROPHY_META_DIR = f"{TROPHY_DIR}/_meta"
+TROPHY_VALID_LOG = "log/trophies_valid.txt"
+TROPHY_SCHEMA_VERSION = 6
+TROPHY_ID_START = 0
+TROPHY_ID_END = 99999
+TROPHY_CONCURRENCY = 4
+TROPHY_RETRIES = 3
+TROPHY_RETRY_BASE_DELAY = 1.5
+TROPHY_LANGUAGE_REQUEST_DELAY = 0.12
+TROPHY_FORCE_REFRESH = False
+TROPHY_INCLUDE_USER_DATA = False
+TROPHY_INCLUDE_GAME_HELP = False
+TROPHY_SAVE_DUPLICATE_LOCALES = False
+TROPHY_FAST_NOT_FOUND = False
+
+TROPHY_LANGUAGES = [
+    ("ar", "ar-SA", "Arabic"),
+    ("zh-cn", "zh-CN", "Chinese (Simplified)"),
+    ("zh-tw", "zh-TW", "Chinese (Traditional)"),
+    ("cs", "cs-CZ", "Czech"),
+    ("da", "da-DK", "Danish"),
+    ("nl", "nl-NL", "Dutch"),
+    ("en-gb", "en-GB", "English (UK)"),
+    ("en", "en-US", "English (US)"),
+    ("fi", "fi-FI", "Finnish"),
+    ("fr-ca", "fr-CA", "French (Canada)"),
+    ("fr", "fr-FR", "French (France)"),
+    ("de", "de-DE", "German"),
+    ("el", "el-GR", "Greek"),
+    ("hu", "hu-HU", "Hungarian"),
+    ("id", "id-ID", "Indonesian"),
+    ("it", "it-IT", "Italian"),
+    ("jp", "ja-JP", "Japanese"),
+    ("ko", "ko-KR", "Korean"),
+    ("no", "nb-NO", "Norwegian"),
+    ("pl", "pl-PL", "Polish"),
+    ("pt-br", "pt-BR", "Portuguese (Brazil)"),
+    ("pt", "pt-PT", "Portuguese (Portugal)"),
+    ("ro", "ro-RO", "Romanian"),
+    ("ru", "ru-RU", "Russian"),
+    ("es-latam", "es-MX", "Spanish (LatAm/Mexico)"),
+    ("es", "es-ES", "Spanish (Spain)"),
+    ("sv", "sv-SE", "Swedish"),
+    ("th", "th-TH", "Thai"),
+    ("tr", "tr-TR", "Turkish"),
+    ("uk", "uk-UA", "Ukrainian"),
+    ("vi", "vi-VN", "Vietnamese"),
+]
+
+TROPHY_VALID_ENTRIES = None
+
+class TrophyNotFoundError(Exception):
+    pass
+
+class TrophyBadRequestError(Exception):
+    pass
 
 def raise_fd_limit():
     try:
@@ -670,6 +737,681 @@ async def scrape_tss():
         f"Saved {stats.found} TSS files (not found: {stats.not_found}, errors: {stats.errors}) in {elapsed:.1f}s"
     )
 
+def trophy_format_npwr(index):
+    return f"NPWR{index:05d}_00"
+
+def trophy_platform_needs_legacy_service(platform):
+    if not isinstance(platform, str):
+        return False
+    return bool(re.search(r"(?:^|,|\s)(PS3|PS4|PSVITA|PS Vita)(?:$|,|\s)", platform, re.IGNORECASE))
+
+def trophy_platform_uses_trophy2(platform):
+    if not isinstance(platform, str):
+        return False
+    return bool(re.search(r"(?:PS5|PSPC|PC)", platform, re.IGNORECASE))
+
+async def trophy_exchange_npsso_for_code(session, npsso):
+    url = f"{TROPHY_AUTH_BASE_URL}/authorize"
+    params = {
+        "access_type": "offline",
+        "client_id": TROPHY_CLIENT_ID,
+        "scope": TROPHY_SCOPE,
+        "redirect_uri": TROPHY_REDIRECT_URI,
+        "response_type": "code",
+    }
+    headers = {"Cookie": f"npsso={npsso}"}
+    async with session.get(url, params=params, headers=headers, allow_redirects=False, timeout=aiohttp.ClientTimeout(total=15)) as response:
+        location = response.headers.get("Location")
+        if not location:
+            raise Exception("PSN did not return a redirect; NPSSO may be invalid or expired.")
+        parsed = urlparse(location)
+        qs = parse_qs(parsed.query)
+        code = qs.get("code", [None])[0]
+        if not code:
+            raise Exception("Could not extract access code from PSN redirect.")
+        return code
+
+async def trophy_exchange_code_for_tokens(session, code):
+    url = f"{TROPHY_AUTH_BASE_URL}/token"
+    headers = {"Content-Type": "application/x-www-form-urlencoded", "Authorization": TROPHY_AUTH_BASIC}
+    data = {
+        "code": code,
+        "redirect_uri": TROPHY_REDIRECT_URI,
+        "grant_type": "authorization_code",
+        "token_format": "jwt",
+    }
+    async with session.post(url, headers=headers, data=data, timeout=aiohttp.ClientTimeout(total=15)) as response:
+        raw = await response.json(content_type=None)
+        if response.status != 200 or "access_token" not in raw:
+            raise Exception(f"Failed to exchange access code for tokens: {raw}")
+        return raw
+
+async def trophy_exchange_refresh_token(session, refresh_token):
+    url = f"{TROPHY_AUTH_BASE_URL}/token"
+    headers = {"Content-Type": "application/x-www-form-urlencoded", "Authorization": TROPHY_AUTH_BASIC}
+    data = {
+        "refresh_token": refresh_token,
+        "grant_type": "refresh_token",
+        "scope": TROPHY_SCOPE,
+        "token_format": "jwt",
+    }
+    async with session.post(url, headers=headers, data=data, timeout=aiohttp.ClientTimeout(total=15)) as response:
+        raw = await response.json(content_type=None)
+        if response.status != 200 or "access_token" not in raw:
+            raise Exception(f"Failed to refresh tokens: {raw}")
+        return raw
+
+async def trophy_refresh_tokens(session, auth_state, auth_lock):
+    before_version = auth_state["version"]
+    async with auth_lock:
+        if auth_state["version"] != before_version:
+            return
+        refresh_token = auth_state.get("refresh_token")
+        tokens = None
+        if refresh_token:
+            try:
+                tokens = await trophy_exchange_refresh_token(session, refresh_token)
+            except Exception:
+                tokens = None
+        if tokens is None:
+            code = await trophy_exchange_npsso_for_code(session, auth_state["npsso"])
+            tokens = await trophy_exchange_code_for_tokens(session, code)
+        auth_state["access_token"] = tokens["access_token"]
+        if tokens.get("refresh_token"):
+            auth_state["refresh_token"] = tokens["refresh_token"]
+        auth_state["version"] += 1
+
+async def trophy_api_get(session, auth_state, auth_lock, url, params=None, accept_language=None):
+    attempt = 1
+    auth_renewals = 0
+    while True:
+        headers = {"Authorization": f"Bearer {auth_state['access_token']}"}
+        if accept_language:
+            headers["Accept-Language"] = accept_language
+        try:
+            async with session.get(url, params=params, headers=headers, timeout=aiohttp.ClientTimeout(total=15)) as response:
+                if response.status == 401 and auth_renewals < 2:
+                    auth_renewals += 1
+                    await trophy_refresh_tokens(session, auth_state, auth_lock)
+                    continue
+                if response.status == 404:
+                    raise TrophyNotFoundError(url)
+                if response.status == 400:
+                    text = await response.text()
+                    raise TrophyBadRequestError(text)
+                if response.status != 200:
+                    raise Exception(f"HTTP {response.status} for {url}")
+                return await response.json(content_type=None)
+        except (TrophyNotFoundError, TrophyBadRequestError):
+            raise
+        except Exception:
+            if attempt >= TROPHY_RETRIES:
+                raise
+            await asyncio.sleep(TROPHY_RETRY_BASE_DELAY * attempt + random.random() * 0.5)
+            attempt += 1
+
+async def trophy_get_groups_raw(session, auth_state, auth_lock, npcid, service_name, accept_language):
+    url = f"{TROPHY_DOMAIN}/npCommunicationIds/{npcid}/trophyGroups"
+    params = {"npServiceName": service_name} if service_name else None
+    data = await trophy_api_get(session, auth_state, auth_lock, url, params, accept_language)
+    if not isinstance(data, dict) or not data.get("trophyTitleName") or data.get("trophySetVersion") is None or not isinstance(data.get("trophyGroups"), list):
+        raise Exception(f"Invalid trophy groups response for {npcid}")
+    return data
+
+async def trophy_discover_title(session, auth_state, auth_lock, npcid, accept_language):
+    try:
+        groups = await trophy_get_groups_raw(session, auth_state, auth_lock, npcid, None, accept_language)
+        platform = groups.get("trophyTitlePlatform")
+        if trophy_platform_needs_legacy_service(platform):
+            groups = await trophy_get_groups_raw(session, auth_state, auth_lock, npcid, "trophy", accept_language)
+            return "trophy", groups
+        if trophy_platform_uses_trophy2(platform):
+            return "trophy2", groups
+        return None, groups
+    except TrophyNotFoundError:
+        if TROPHY_FAST_NOT_FOUND:
+            raise
+        try:
+            groups = await trophy_get_groups_raw(session, auth_state, auth_lock, npcid, "trophy", accept_language)
+            return "trophy", groups
+        except TrophyNotFoundError:
+            raise
+        except Exception:
+            groups = await trophy_get_groups_raw(session, auth_state, auth_lock, npcid, "trophy2", accept_language)
+            return "trophy2", groups
+    except TrophyBadRequestError:
+        try:
+            groups = await trophy_get_groups_raw(session, auth_state, auth_lock, npcid, "trophy", accept_language)
+            return "trophy", groups
+        except TrophyNotFoundError:
+            raise
+        except Exception:
+            groups = await trophy_get_groups_raw(session, auth_state, auth_lock, npcid, "trophy2", accept_language)
+            return "trophy2", groups
+
+async def trophy_fetch_all_trophies(session, auth_state, auth_lock, npcid, service_name, accept_language):
+    pages = []
+    seen_offsets = set()
+    offset = None
+    while True:
+        url = f"{TROPHY_DOMAIN}/npCommunicationIds/{npcid}/trophyGroups/all/trophies"
+        params = {}
+        if service_name:
+            params["npServiceName"] = service_name
+        if offset is not None:
+            params["offset"] = offset
+        response = await trophy_api_get(session, auth_state, auth_lock, url, params, accept_language)
+        if not isinstance(response, dict) or not isinstance(response.get("trophies"), list):
+            raise Exception(f"Trophy response does not contain trophies[] for {npcid}")
+        pages.append(response)
+        trophies = response.get("trophies") or []
+        total = response.get("totalItemCount", len(trophies))
+        collected = sum(len(p.get("trophies") or []) for p in pages)
+        next_offset = response.get("nextOffset")
+        if collected >= total or next_offset is None:
+            break
+        try:
+            next_offset = int(next_offset)
+        except Exception:
+            break
+        if next_offset in seen_offsets:
+            break
+        seen_offsets.add(next_offset)
+        offset = next_offset
+    if not pages:
+        return None
+    if len(pages) == 1:
+        return pages[0]
+    merged = dict(pages[0])
+    merged["trophies"] = [t for p in pages for t in (p.get("trophies") or [])]
+    merged["_pagination"] = {"pageCount": len(pages)}
+    merged.pop("nextOffset", None)
+    merged.pop("previousOffset", None)
+    return merged
+
+async def trophy_fetch_all_user_trophies(session, auth_state, auth_lock, npcid, service_name):
+    pages = []
+    seen_offsets = set()
+    offset = None
+    while True:
+        url = f"{TROPHY_DOMAIN}/users/me/npCommunicationIds/{npcid}/trophyGroups/all/trophies"
+        params = {}
+        if service_name:
+            params["npServiceName"] = service_name
+        if offset is not None:
+            params["offset"] = offset
+        response = await trophy_api_get(session, auth_state, auth_lock, url, params)
+        pages.append(response)
+        trophies = response.get("trophies") or []
+        total = response.get("totalItemCount", len(trophies))
+        collected = sum(len(p.get("trophies") or []) for p in pages)
+        next_offset = response.get("nextOffset")
+        if collected >= total or next_offset is None:
+            break
+        try:
+            next_offset = int(next_offset)
+        except Exception:
+            break
+        if next_offset in seen_offsets:
+            break
+        seen_offsets.add(next_offset)
+        offset = next_offset
+    if not pages:
+        return None
+    if len(pages) == 1:
+        return pages[0]
+    merged = dict(pages[0])
+    merged["trophies"] = [t for p in pages for t in (p.get("trophies") or [])]
+    merged["_pagination"] = {"pageCount": len(pages)}
+    merged.pop("nextOffset", None)
+    merged.pop("previousOffset", None)
+    return merged
+
+async def trophy_fetch_game_help(session, auth_state, auth_lock, npcid, accept_language):
+    availability_hash = "71bf26729f2634f4d8cca32ff73aaf42b3b76ad1d2f63b490a809b66483ea5a7"
+    tips_hash = "93768752a9f4ef69922a543e2209d45020784d8781f57b37a5294e6e206c5630"
+
+    async def graphql(operation_name, variables, sha_hash):
+        params = {
+            "operationName": operation_name,
+            "variables": json.dumps(variables),
+            "extensions": json.dumps({"persistedQuery": {"version": 1, "sha256Hash": sha_hash}}),
+        }
+        headers = {
+            "Authorization": f"Bearer {auth_state['access_token']}",
+            "apollographql-client-name": "PlayStationApp-Android",
+            "content-type": "application/json",
+        }
+        if accept_language:
+            headers["Accept-Language"] = accept_language
+        async with session.get(TROPHY_GRAPHQL_URL, params=params, headers=headers, timeout=aiohttp.ClientTimeout(total=15)) as response:
+            if response.status != 200:
+                raise Exception(f"Game Help HTTP {response.status}")
+            return await response.json(content_type=None)
+
+    availability = await graphql("metGetHintAvailability", {"npCommId": npcid}, availability_hash)
+    available = ((availability.get("data") or {}).get("hintAvailabilityRetrieve") or {}).get("trophies")
+    if not isinstance(available, list) or not available:
+        return {"availability": availability, "tips": None}
+
+    trophy_args = [
+        {"trophyId": str(v["trophyId"]), "udsObjectId": str(v["udsObjectId"]), "helpType": str(v["helpType"])}
+        for v in available if v and v.get("trophyId") is not None and v.get("udsObjectId") is not None and v.get("helpType") is not None
+    ]
+    if not trophy_args:
+        return {"availability": availability, "tips": None}
+
+    tips = await graphql("metGetTips", {"npCommId": npcid, "trophies": trophy_args}, tips_hash)
+    return {"availability": availability, "tips": tips}
+
+def trophy_json_equal(a, b):
+    return a == b
+
+def trophy_merge_api_responses(groups, trophies, npcid, service_name):
+    result = {}
+    owners = {}
+    conflicts = {}
+
+    def add_source(source_name, source):
+        if not isinstance(source, dict):
+            return
+        for key, value in source.items():
+            if value is None:
+                continue
+            if key not in result:
+                result[key] = value
+                owners[key] = source_name
+                continue
+            if trophy_json_equal(result[key], value):
+                continue
+            if key not in conflicts:
+                conflicts[key] = {owners.get(key, "firstResponse"): result[key]}
+            conflicts[key][source_name] = value
+            if source_name == "titleTrophies":
+                result[key] = value
+                owners[key] = source_name
+
+    add_source("trophyGroups", groups)
+    add_source("titleTrophies", trophies)
+
+    if "npCommunicationId" not in result:
+        result["npCommunicationId"] = npcid
+    if "npServiceName" not in result and service_name:
+        result["npServiceName"] = service_name
+
+    if conflicts:
+        result["apiFieldConflicts"] = conflicts
+
+    return result
+
+def trophy_merge_user_data(data, user_data):
+    if not isinstance(user_data, dict):
+        return data
+
+    result = dict(data)
+    static_trophies = data.get("trophies") if isinstance(data.get("trophies"), list) else []
+    user_trophies = user_data.get("trophies") if isinstance(user_data.get("trophies"), list) else []
+    by_id = {str(t.get("trophyId")): t for t in user_trophies}
+    matched = set()
+
+    merged_trophies = []
+    for trophy in static_trophies:
+        tid = str(trophy.get("trophyId"))
+        user_trophy = by_id.get(tid)
+        if not user_trophy:
+            merged_trophies.append(trophy)
+            continue
+        matched.add(tid)
+        extra = {}
+        for key, value in user_trophy.items():
+            if key == "trophyId" or value is None:
+                continue
+            if key in trophy and trophy_json_equal(trophy[key], value):
+                continue
+            extra[key] = value
+        merged_trophies.append({**trophy, "user": extra} if extra else trophy)
+    result["trophies"] = merged_trophies
+
+    unmatched = [t for t in user_trophies if str(t.get("trophyId")) not in matched]
+    if unmatched:
+        result["userOnlyTrophies"] = unmatched
+
+    response_extras = {}
+    for key, value in user_data.items():
+        if key == "trophies" or value is None:
+            continue
+        if key in result and trophy_json_equal(result[key], value):
+            continue
+        response_extras[key] = value
+    if response_extras:
+        result["userTrophyData"] = response_extras
+
+    return result
+
+def trophy_localization_signature(groups, trophies):
+    group_list = groups.get("trophyGroups") if isinstance(groups.get("trophyGroups"), list) else []
+    trophy_list = trophies.get("trophies") if isinstance(trophies.get("trophies"), list) else []
+    localized = {
+        "titleName": groups.get("trophyTitleName"),
+        "titleDetail": groups.get("trophyTitleDetail"),
+        "groups": [{"id": g.get("trophyGroupId"), "name": g.get("trophyGroupName"), "detail": g.get("trophyGroupDetail")} for g in group_list],
+        "trophies": [{"id": t.get("trophyId"), "name": t.get("trophyName"), "detail": t.get("trophyDetail"), "rewardName": t.get("trophyRewardName")} for t in trophy_list],
+    }
+    return hashlib.sha256(json.dumps(localized, sort_keys=True, ensure_ascii=False).encode("utf-8")).hexdigest()
+
+def trophy_manifest_path(npcid):
+    return os.path.join(TROPHY_META_DIR, f"{npcid}.json")
+
+def trophy_locale_path(folder, npcid):
+    return os.path.join(TROPHY_DIR, folder, f"{npcid}.json")
+
+def trophy_read_json(file_path):
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return None
+
+def trophy_save_json_if_changed(file_path, data):
+    os.makedirs(os.path.dirname(file_path) or ".", exist_ok=True)
+    new_json = json.dumps(data, indent=2, ensure_ascii=False)
+    if os.path.exists(file_path):
+        with open(file_path, "r", encoding="utf-8") as f:
+            old_text = f.read()
+        if old_text == new_json:
+            return False
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(new_json)
+    return True
+
+def trophy_get_valid_entries():
+    global TROPHY_VALID_ENTRIES
+    if TROPHY_VALID_ENTRIES is None:
+        entries = set()
+        if os.path.exists(TROPHY_VALID_LOG):
+            with open(TROPHY_VALID_LOG, "r", encoding="utf-8") as f:
+                for line in f:
+                    match = re.match(r"^(NPWR\d{5}_\d{2})\b", line)
+                    if match:
+                        entries.add(match.group(1))
+        TROPHY_VALID_ENTRIES = entries
+    return TROPHY_VALID_ENTRIES
+
+def trophy_append_valid_log(npcid, title, platform):
+    valid_entries = trophy_get_valid_entries()
+    if npcid in valid_entries:
+        return
+    os.makedirs(os.path.dirname(TROPHY_VALID_LOG) or ".", exist_ok=True)
+    safe_title = title or "<unknown title>"
+    safe_platform = platform or "<unknown platform>"
+    with open(TROPHY_VALID_LOG, "a", encoding="utf-8") as f:
+        f.write(f"{npcid} - {safe_title} [{safe_platform}]\n")
+    valid_entries.add(npcid)
+
+def trophy_remove_valid_log_entry(npcid):
+    valid_entries = trophy_get_valid_entries()
+    if npcid not in valid_entries or not os.path.exists(TROPHY_VALID_LOG):
+        return
+    with open(TROPHY_VALID_LOG, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+    kept = [l for l in lines if not l.startswith(f"{npcid} ") and l.strip() != npcid]
+    with open(TROPHY_VALID_LOG, "w", encoding="utf-8") as f:
+        f.writelines(kept)
+    valid_entries.discard(npcid)
+
+def trophy_is_valid_saved_json(data):
+    if not isinstance(data, dict):
+        return False
+    title = data.get("trophyTitleName") or data.get("title")
+    return bool(
+        isinstance(data.get("npCommunicationId"), str)
+        and isinstance(title, str) and title.strip() != ""
+        and isinstance(data.get("trophies"), list) and len(data["trophies"]) > 0
+    )
+
+def trophy_remove_invalid_cached_locale(folder, npcid):
+    file_path = trophy_locale_path(folder, npcid)
+    if not os.path.exists(file_path):
+        return False
+    existing = trophy_read_json(file_path)
+    if trophy_is_valid_saved_json(existing):
+        return False
+    os.remove(file_path)
+    return True
+
+def trophy_remove_stored_if_invalid(npcid):
+    removed = False
+    for folder, _, _ in TROPHY_LANGUAGES:
+        removed = trophy_remove_invalid_cached_locale(folder, npcid) or removed
+
+    meta = trophy_manifest_path(npcid)
+    if os.path.exists(meta):
+        manifest = trophy_read_json(meta) or {}
+        successful_count = manifest.get("successfulLocaleCount", 0)
+        has_valid_locale = any(
+            os.path.exists(trophy_locale_path(folder, npcid)) and trophy_is_valid_saved_json(trophy_read_json(trophy_locale_path(folder, npcid)))
+            for folder, _, _ in TROPHY_LANGUAGES
+        )
+        if successful_count <= 0 or not has_valid_locale:
+            os.remove(meta)
+            removed = True
+
+    return removed
+
+def trophy_can_skip_whole_title(npcid, remote_version, languages):
+    if TROPHY_FORCE_REFRESH:
+        return False
+    manifest = trophy_read_json(trophy_manifest_path(npcid))
+    if not manifest or manifest.get("schemaVersion") != TROPHY_SCHEMA_VERSION:
+        return False
+    if str(manifest.get("trophySetVersion") or "") != str(remote_version or ""):
+        return False
+
+    requested_headers = sorted(h for _, h, _ in languages)
+    previous_headers = sorted(v.get("acceptLanguage") for v in (manifest.get("requestedLanguages") or []))
+    if requested_headers != previous_headers:
+        return False
+    if bool(manifest.get("includeUserData")) != bool(TROPHY_INCLUDE_USER_DATA):
+        return False
+    if bool(manifest.get("includeGameHelp")) != bool(TROPHY_INCLUDE_GAME_HELP):
+        return False
+    if bool(manifest.get("saveDuplicateLocales")) != bool(TROPHY_SAVE_DUPLICATE_LOCALES):
+        return False
+
+    for locale in manifest.get("locales") or []:
+        if locale.get("error") or locale.get("gameHelpError"):
+            return False
+        if locale.get("saved") is False:
+            continue
+        if not os.path.exists(trophy_locale_path(locale.get("folder"), npcid)):
+            return False
+
+    return True
+
+async def trophy_scrape_id(session, auth_state, auth_lock, npcid, languages, counter_lock, checked_counter, found_counter):
+    primary = next((l for l in languages if l[0] == "en"), languages[0])
+
+    try:
+        service_name, groups = await trophy_discover_title(session, auth_state, auth_lock, npcid, primary[1])
+    except TrophyNotFoundError:
+        trophy_remove_stored_if_invalid(npcid)
+        trophy_remove_valid_log_entry(npcid)
+        async with counter_lock:
+            checked_counter[0] += 1
+            sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found trophies: {found_counter[0]}")
+            sys.stdout.flush()
+        return
+    except Exception as e:
+        logging.error(f"Trophy discovery failed for {npcid}: {e}")
+        async with counter_lock:
+            checked_counter[0] += 1
+            sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found trophies: {found_counter[0]}")
+            sys.stdout.flush()
+        return
+
+    remote_version = groups.get("trophySetVersion")
+    title = groups.get("trophyTitleName") or "<unknown title>"
+    platform = groups.get("trophyTitlePlatform") or "<unknown platform>"
+
+    if trophy_can_skip_whole_title(npcid, remote_version, languages):
+        trophy_append_valid_log(npcid, title, platform)
+        async with counter_lock:
+            checked_counter[0] += 1
+            found_counter[0] += 1
+            sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found trophies: {found_counter[0]}")
+            sys.stdout.flush()
+        return
+
+    user_data = None
+    user_data_error = None
+    if TROPHY_INCLUDE_USER_DATA:
+        try:
+            user_data = await trophy_fetch_all_user_trophies(session, auth_state, auth_lock, npcid, service_name)
+        except Exception as e:
+            user_data_error = str(e)
+
+    locales = []
+    signature_owners = {}
+    ordered_languages = [primary] + [l for l in languages if l[1] != primary[1]]
+
+    for folder, header, label in ordered_languages:
+        try:
+            if header == primary[1]:
+                groups_for_lang = groups
+            else:
+                groups_for_lang = await trophy_get_groups_raw(session, auth_state, auth_lock, npcid, service_name, header)
+
+            trophies = await trophy_fetch_all_trophies(session, auth_state, auth_lock, npcid, service_name, header)
+            if not trophies or not trophies.get("trophies"):
+                trophy_remove_invalid_cached_locale(folder, npcid)
+                raise Exception("Trophy list is empty; nothing will be saved for this locale.")
+
+            game_help = None
+            game_help_error = None
+            if TROPHY_INCLUDE_GAME_HELP and trophy_platform_uses_trophy2(groups_for_lang.get("trophyTitlePlatform") or platform):
+                try:
+                    game_help = await trophy_fetch_game_help(session, auth_state, auth_lock, npcid, header)
+                except Exception as e:
+                    game_help_error = str(e)
+
+            signature = trophy_localization_signature(groups_for_lang, trophies)
+            same_content_as = signature_owners.get(signature)
+            if not same_content_as:
+                signature_owners[signature] = folder
+
+            data = trophy_merge_api_responses(groups_for_lang, trophies, npcid, service_name)
+            if TROPHY_INCLUDE_USER_DATA and user_data:
+                data = trophy_merge_user_data(data, user_data)
+            if TROPHY_INCLUDE_GAME_HELP and game_help:
+                data["gameHelp"] = game_help
+
+            should_save = TROPHY_SAVE_DUPLICATE_LOCALES or not same_content_as
+            file_path = trophy_locale_path(folder, npcid)
+            if should_save:
+                trophy_save_json_if_changed(file_path, data)
+            elif os.path.exists(file_path):
+                os.remove(file_path)
+
+            locales.append({
+                "folder": folder,
+                "acceptLanguage": header,
+                "label": label,
+                "signature": signature,
+                "sameContentAs": same_content_as,
+                "gameHelpError": game_help_error,
+                "saved": should_save,
+                "file": os.path.relpath(file_path, TROPHY_DIR).replace("\\", "/") if should_save else None,
+            })
+
+            if TROPHY_LANGUAGE_REQUEST_DELAY > 0:
+                await asyncio.sleep(TROPHY_LANGUAGE_REQUEST_DELAY)
+        except Exception as e:
+            locales.append({
+                "folder": folder,
+                "acceptLanguage": header,
+                "label": label,
+                "error": str(e),
+                "saved": False,
+            })
+
+    successful = [l for l in locales if not l.get("error")]
+
+    if not successful:
+        trophy_remove_stored_if_invalid(npcid)
+        async with counter_lock:
+            checked_counter[0] += 1
+            sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found trophies: {found_counter[0]}")
+            sys.stdout.flush()
+        return
+
+    unique_signatures = {l["signature"] for l in successful}
+
+    manifest = {
+        "schemaVersion": TROPHY_SCHEMA_VERSION,
+        "npCommunicationId": npcid,
+        "trophySetVersion": remote_version,
+        "trophyTitleName": groups.get("trophyTitleName"),
+        "trophyTitleDetail": groups.get("trophyTitleDetail"),
+        "trophyTitleIconUrl": groups.get("trophyTitleIconUrl"),
+        "trophyTitlePlatform": groups.get("trophyTitlePlatform"),
+        "definedTrophies": groups.get("definedTrophies"),
+        "hasTrophyGroups": groups.get("hasTrophyGroups"),
+        "npServiceName": service_name,
+        "includeUserData": TROPHY_INCLUDE_USER_DATA,
+        "userTrophiesError": user_data_error if (TROPHY_INCLUDE_USER_DATA and not user_data) else None,
+        "includeGameHelp": TROPHY_INCLUDE_GAME_HELP,
+        "saveDuplicateLocales": TROPHY_SAVE_DUPLICATE_LOCALES,
+        "requestedLanguages": [{"folder": f, "acceptLanguage": h, "label": l} for f, h, l in languages],
+        "successfulLocaleCount": len(successful),
+        "uniqueLocalizedContentCount": len(unique_signatures),
+        "localeAliases": {l["folder"]: l["sameContentAs"] for l in successful if l.get("sameContentAs")},
+        "locales": locales,
+    }
+
+    trophy_save_json_if_changed(trophy_manifest_path(npcid), manifest)
+    trophy_append_valid_log(npcid, title, platform)
+
+    async with counter_lock:
+        checked_counter[0] += 1
+        found_counter[0] += 1
+        sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found trophies: {found_counter[0]}")
+        sys.stdout.flush()
+
+async def scrape_trophies(npsso_token):
+    os.makedirs(TROPHY_DIR, exist_ok=True)
+    os.makedirs(TROPHY_META_DIR, exist_ok=True)
+
+    async with aiohttp.ClientSession() as session:
+        auth_state = {"npsso": npsso_token, "access_token": None, "refresh_token": None, "version": 0}
+        auth_lock = asyncio.Lock()
+        try:
+            code = await trophy_exchange_npsso_for_code(session, npsso_token)
+            tokens = await trophy_exchange_code_for_tokens(session, code)
+        except Exception as e:
+            logging.error(f"PSN authentication failed: {e}")
+            print(f"Authentication failed: {e}")
+            return
+        auth_state["access_token"] = tokens["access_token"]
+        auth_state["refresh_token"] = tokens.get("refresh_token")
+
+        languages = TROPHY_LANGUAGES
+        total = TROPHY_ID_END - TROPHY_ID_START + 1
+        checked_counter = [0, total]
+        found_counter = [0]
+        counter_lock = asyncio.Lock()
+        semaphore = asyncio.Semaphore(TROPHY_CONCURRENCY)
+
+        async def run_one(npcid):
+            async with semaphore:
+                await trophy_scrape_id(session, auth_state, auth_lock, npcid, languages, counter_lock, checked_counter, found_counter)
+
+        tasks = [run_one(trophy_format_npwr(i)) for i in range(TROPHY_ID_START, TROPHY_ID_END + 1)]
+        await asyncio.gather(*tasks)
+
+    sys.stdout.write(f"\rChecked IDs: {checked_counter[0]} / {checked_counter[1]} | Found trophies: {found_counter[0]}")
+    print()
+    logging.info(f"Saved {found_counter[0]} trophy sets to '{TROPHY_DIR}' (checked {checked_counter[0]} IDs from {trophy_format_npwr(TROPHY_ID_START)} to {trophy_format_npwr(TROPHY_ID_END)})")
+
 def menu():
     print("""
 1. All Platforms (TMDB)
@@ -686,6 +1428,7 @@ def menu():
 12. Updates for Specific ID (i.e. BLUS30145 / CUSA00001)
 13. Updates for Specific Prefix (i.e. BLUS / CUSA)
 14. Title Small Storage files
+15. Trophies (Requires NPSSO token)
 """)
     return input("Choose Option: ").strip()
 
@@ -750,6 +1493,12 @@ async def main():
             await scrape_updates([prefix], brute=True, platform=get_update_backend())
         elif choice == "14":
             await scrape_tss()
+        elif choice == "15":
+            token = input("Enter your NPSSO token (From https://ca.account.sony.com/api/v1/ssocookie): ").strip()
+            if not token:
+                print("Input cannot be empty!")
+                continue
+            await scrape_trophies(token)
         elif choice == "dev":
             await scrape(dev_prefixes(), path, ext, dev=dev)
             for update_backend in ("PS3", "PS4", "PSVita"):

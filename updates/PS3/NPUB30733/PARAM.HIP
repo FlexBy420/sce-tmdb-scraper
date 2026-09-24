@@ -1,0 +1,2 @@
+- Added support for downloadable character packs
+- Performance improvements

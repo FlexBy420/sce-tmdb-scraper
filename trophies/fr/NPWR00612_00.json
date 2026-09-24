@@ -1,0 +1,762 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR00612_00",
+  "trophySetVersion": "01.05",
+  "trophyTitleName": "Borderlands™",
+  "trophyTitleDetail": "Borderlands™ Trophées",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/139C9C9CED4D16F49088574B9725573E3D8222BB.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 59,
+    "silver": 17,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Borderlands™",
+      "trophyGroupDetail": "Borderlands™ Trophées",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/139C9C9CED4D16F49088574B9725573E3D8222BB.PNG",
+      "definedTrophies": {
+        "bronze": 59,
+        "silver": 17,
+        "gold": 4,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Défenseur de Borderland",
+      "trophyDetail": "Vous avez vaincu tous les Boss. Vous êtes sacrément balèze.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/0D383A3C88EF926B291BF412BE77046233B47F61.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Assemblé à Fyrestone",
+      "trophyDetail": "5 missions complétées dans les Arid Badlands",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/78BC84A203E5994D84C682056A6BDE797C93D413.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fyrestone, c'est fini",
+      "trophyDetail": "Toutes les missions finies dans les Arid Badlands",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/4267165113E9A1BD09C282E868AB7D594D0EEAFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Assemblé à New Haven",
+      "trophyDetail": "5 missions complétées dans les Rust Commons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/799A251EDF2AC1FB5DB2715B11155EA334A70678.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Haven, c'est fini",
+      "trophyDetail": "Toutes les missions finies dans les Rust Commons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/3F4DBE6A8485FBFA0638C8762B10B1941B20C76B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's-a me ! Le plombier ! ",
+      "trophyDetail": "Ennemi tué façon plombier",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/908F9B4069D2E21E53CE7978FAE7CD788250F26C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Les 12 jours de Pandore",
+      "trophyDetail": "Vous avez tué la faune de Pandore.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/6AFC81B60AEDCB7D027C0A761FD099874B1B1B96.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Avis de recherche : Sledge",
+      "trophyDetail": "Sledge a été tué\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/F6767CC0D0A3AFAAB004C8ADDFF3C036763C05A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Avis de recherche : Krom",
+      "trophyDetail": "Krom a été tué",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/CEF6C54828A2F329DABE85CD3ED0D35E99F89E87.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Avis de recherche : Flynt",
+      "trophyDetail": "Flynt a été vaincu",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/7BCC936C137399DBE7A5E3F5A8433966A9A7F942.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Ruche détruite",
+      "trophyDetail": "Rakk Hive tué",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/F51E29D1AE30C895F753F57FB20F82B4EB558DB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Destroyer détruit",
+      "trophyDetail": "Gardien de l'Arche tué",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/CFE813AD5039B9D89BD4CFFCBD60D51195097874.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'as du volant",
+      "trophyDetail": "Record battu sur Ludicrous Speedway.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/DF7CC3E609F6E04C7B13C93C30A0FB6CB18E87FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Archéologue",
+      "trophyDetail": "Antiquité élémentale appliquée",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/6781DA00F88C9796379DCD365AA120B530FA27F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Débutant",
+      "trophyDetail": "Niveau 5 atteint",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/C80C78F8AC57A0D6D3B45A6B6EE91D8100F38C01.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Novice",
+      "trophyDetail": "Niveau 10 atteint",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/97AB1C6173105A8571D1EA5975B78EFF7C8CAC75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert",
+      "trophyDetail": "Niveau 20 atteint",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/57E3DB7A70C717EFAB68306B0DC09876B5F1F773.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hardcore",
+      "trophyDetail": "Niveau 30 atteint",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/B56AF448986E24E48CE3886B6F4E0EDD0B461060.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monomaniaque",
+      "trophyDetail": "Niveau 40 atteint",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/114AC90D5EEAD0F75AE77462F095399C74E2A2D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Skag Gully découverte",
+      "trophyDetail": "Skag Gully découverte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/C8250F7A1533D441BE3B0580F1BC3CAB7AB4123D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sledge's Safe House découverte",
+      "trophyDetail": "Sledge's Safe House découverte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/7BD923889EBA2D7B9FA25EC2016E1AFA6E44E32B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Headstone Mine découverte",
+      "trophyDetail": "Headstone Mine découverte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/62798025751A255B10EAC94C441F9F66D4783290.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trash Coast découverte",
+      "trophyDetail": "Trash Coast découverte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/31418680F36B66739196D005316469182E4E4FA8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scrapyard découvert",
+      "trophyDetail": "Scrapyard découvert",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/844F91F85EE145C43C22DBE3EFCE167ECCC30DF8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Krom's Canyon découvert",
+      "trophyDetail": "Krom's Canyon découvert",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/EAA9CF8DB47589C728192D4BFE0227921C7526B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crimson Lance Enclave découverte",
+      "trophyDetail": "Crimson Lance Enclave découverte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/72E17EAF3E619BDDCE1BF695662C847C6134C526.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eridian Promontory découvert",
+      "trophyDetail": "Eridian Promontory découvert",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/F920B960BAF356197090BFFC26257548B9524EC6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Champion",
+      "trophyDetail": "Niveau 50 atteint",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/D82847E286F72281C0E084D0275DE2FC9DADA780.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un peu de sang sur les pneus !",
+      "trophyDetail": "25 ennemis écrasés avec un véhicule.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/1A2761D0BF3EBA9F29EB79724C63482BCB1A424C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dur à cuire",
+      "trophyDetail": "5 Rakk tués en moins de 10 secondes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/98210BC286755DAD316B376065E9637C18013586.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pandore-Dog Millionaire",
+      "trophyDetail": "Vous avez gagné 1 000 000 de dollars.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/09E6D08E70D723840E0196C2C7E79CB26429C91D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vente en gros",
+      "trophyDetail": "50 armes vendues à un magasin",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/802DC372F6DCCFC1EF31B6D1E21B61A071C004C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gladiateur",
+      "trophyDetail": "Vous êtes sorti vainqueur d'une partie en arène.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/E203D6BA1109C26454F89059DA8CAD2EBE4E521F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Duel-icieux",
+      "trophyDetail": "Duel remporté face à un autre joueur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/1223F1B2387A2434EBA3E2AB424EA0FC29F08720.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Groupe cherche soigneur",
+      "trophyDetail": "Allié sauvé dans une partie en coop",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/CDEC590094F98F39BA7220C0BE7784341A0F82C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un pour tous",
+      "trophyDetail": "15 missions terminées en coop",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/0D6196DD6324FD38D53CE43461AEEFD069F7BB36.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "L'union fait la force.",
+      "trophyDetail": "Le Rakk Hive, le Gardien de l'Arche, Sledge, Krom ou Flynt battus dans une partie coop",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/DEB6B1BA61E2250BB38D16CEAF9A767BFABD96CC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tout le monde en parle.",
+      "trophyDetail": "Vous avez joué avec une star.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/40EBF667BD3BDD7F0E42044583C04167D12924E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amateur d'armes",
+      "trophyDetail": "Niveau 10 d'expertise d'une arme atteint",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/8F5EA57B4F750B22A1ED149862D5CDF7864FA43A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "En bateau !",
+      "trophyDetail": "Je suis sûr que vous ne pensiez pas arriver là !",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/A06743C30C56B6D3D86CF48660ECBB05BBA2144A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Roi du duel",
+      "trophyDetail": "Duel remporté sans être touché",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/DAC06090E3D5CF1E4C67B0541FF0984A3E6D231D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le roi de l'acide",
+      "trophyDetail": "25 ennemis tués à l'aide d'armes corrosives",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/D06D6C062C53F201B46359ECDD3BB7200E063B0C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1,21 Gigawatts",
+      "trophyDetail": "25 ennemis tués avec des armes électriques",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/B3C16476F626E1A587C8C405E22BA1D751FE6639.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pyromane",
+      "trophyDetail": "25 ennemis tués à l'aide d'armes incendiaires.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/A171D507630CF904DC167004598A59524BA6B5F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'artificier",
+      "trophyDetail": "25 ennemis tués à l'aide d'armes explosives.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/7C7BE869AF56D9D2F4EAC75C96DFCDFFD8FCA5C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Certains m'appellent... Tim",
+      "trophyDetail": "Personnage équipé d'un Mod de classe",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/EF42C546011FC66086DD850FD62F42C6F5C1C0D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chargé à bloc",
+      "trophyDetail": "Vous avez secouru assez de Claptrap pour obtenir 42 emplacements dans l'inventaire.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/2F40E903B249A607DBD0B2EF88EAB89ABF69DCB6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "C'est un scandale",
+      "trophyDetail": "Ennemi tué avec la compétence d'action de la Sirène",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/C5946AFAFDBC9294ACBC6814AA9825313DE6C775.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Attention, chien méchant.",
+      "trophyDetail": "15 ennemis tués avec la compétence d'action du Chasseur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/233E33DBC4A5E10C5F61B4B41BDB4A006DC1F972.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le tout pour le tout ",
+      "trophyDetail": "15 ennemis tués avec la compétence d'action du Furieux.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/4912B42D0D4AE86B86D87AB23554C50F7EF3A800.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Morts au combat",
+      "trophyDetail": "15 ennemis tués avec la compétence d'action du Soldat",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/3B9445E29DD40CBFFBBFD2EA1A12440C3F1D9713.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La maison des dam-Ned",
+      "trophyDetail": "Mission \"La maison des dam-Ned\" accomplie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/4A0F59C0549E5A8B8CCE67BBAC0A2490EB20226A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chair à canon pour la Jakobs",
+      "trophyDetail": "Mission \"Chair à canon pour la Jakobs\" accomplie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/7A7B92D9F7224ADC7D163BD001CF962E5FB2C1B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "La nuit 'Ned mort-vivant'",
+      "trophyDetail": "Ned est mort...plus ou moins",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/B689538EE1256994D875C314CF418AEF09244168.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Ned : mort ou mort-vivant",
+      "trophyDetail": "Ned est mort. À nouveau !",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/EB98E51E051FD8DF07CC5141CFB6D7C74675CC05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cerveeeeeeeeeeeelle !",
+      "trophyDetail": "Mission \"Cerveeeeeeeeeeeelle !\" accomplie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/AE011C31293189CDE8D173A4A3EF90A5AD791469.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Petites Chelem",
+      "trophyDetail": "Vous avez terminé le défi mineur dans les 3 coliseums.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/2BF3565E5883F0A11B44D812C4149A8D0B0006F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hell-Burbia",
+      "trophyDetail": "Vous avez terminé le défi majeur dans le coliseum Hell-Burbia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/3FD7B9AB72C7C85B7B4A84D687FE4AD16FDA96BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Angelic Ruins",
+      "trophyDetail": "Vous avez terminé le défi majeur dans le coliseum Angelic Ruins.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/3043C2AE22492C8BC8A48CB7C5BD3235B513FEE3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Gully",
+      "trophyDetail": "Vous avez terminé le défi majeur dans le coliseum The Gully.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/6C64E9D018AEBD153CFC0A1EE24FCC57185DDDA7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Grand Chelem",
+      "trophyDetail": "Vous avez fini chacun des 3 plus grands défis avec 1 seul personnage",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/FE846792CB274DB50C0DEB9C6F74360041CEE6F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monstre en kit",
+      "trophyDetail": "Nouvelle voiture construite : Monster",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/B80315DE7CACAADEB15FFF172C1C894ACCD8565A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Athéna, libre",
+      "trophyDetail": "Athéna secourue",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/525C62CDD9007A0CBBC0C7003F88F8ECA9DF52D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dépôté",
+      "trophyDetail": "Lance Depot détruit",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/D9BDA42F8458FD932CCD0E735413A1DEF168B86B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vincible",
+      "trophyDetail": "Crawmerax l'Invincible tué",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/B8BAD486E30C29D080A35DD50FACD57D2063EC6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Saletés de nabots",
+      "trophyDetail": "Tous les nabots de butin ont été tués",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/93998890E87C58FA792156D7B269FC411FEF632D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La vitesse tue",
+      "trophyDetail": "Lancer détruit avec un Racer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/C9A5F6784B8A17AEDD45C13B63DC1D4EC816FAD9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ding ! Niveau méta sup' !",
+      "trophyDetail": "Niveau 51 atteint",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/29BD2E12AF814855845361FA5377E88928891634.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ding ! Niveau méta sup' +11 !",
+      "trophyDetail": "Niveau 61 atteint",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/FF76E563D56B3421F624C47174FFB72D78B281B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complétiste",
+      "trophyDetail": "Toutes les missions de Secret Armory of General Knoxx ont été terminées",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/6D3DC31A5188618E2F983A1EBC97A1C33F5DC862.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chaque minute, un gogo s'éveille",
+      "trophyDetail": "Payé pour la visite (sans intérêt) de la World's Largest Bullet",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/A850AD6EEA800C714759FBC21F3F066AECB12D18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Touriste",
+      "trophyDetail": "Vous avez trouvé les 6 statues de Claptrap",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/AB8D1E0722987908B1206157A70D8A7825F3A65B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Knoxx-Trap",
+      "trophyDetail": "Knoxx peut reposer en paix.... c'est pas trop tôt !",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/172AC0E5952AA9A59589817DA7C9279D26A12728.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Steele-Trap",
+      "trophyDetail": "Vous avez tué le Commandant Steele-Trap",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/1F608E68B722ED288F0A2933E7DEF271DF133F26.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ned-Trap",
+      "trophyDetail": "Vous avez tué le Dr. Ned-Trap",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/3E2EF622EE13F3EFD776BC436379DC90B11169D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Il était une fois la robolution",
+      "trophyDetail": "Vous avez tué le Claptrap Assassin Ninja Interplanétaire.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/0E7463F91DADC54E460C30CDD9B61B7D92C883AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Le Collectionneur.",
+      "trophyDetail": "Vous avez terminé la mission dingo de Tannis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/FCAB9BAFB676AE34F56C7F6460ABC01420CEC46B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le Lubricateur",
+      "trophyDetail": "Vous avez trouvé 25 bidons d'huile",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/EBBBDB5003A8747B0CF61AE5AF02DE2F86EAE648.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Figur-Trap",
+      "trophyDetail": "Vous avez trouvé 15 figurines de Claptrap.\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/75304D86CF7F4794CB3DE5094F64EC3880E5B1DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "C'est trop réaliste !",
+      "trophyDetail": "Vous avez trouvé 5 paires de lunette 3D",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/7BF19F1DA7E78E144053B8E75EB45E94F94A30DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Quelle fiesta !",
+      "trophyDetail": "Vous avez trouvé 3 culottes, 5 poissons et 15 pizzas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/26EB1447B586CF16EAAE06148379EE92CB3A6646.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 81
+}

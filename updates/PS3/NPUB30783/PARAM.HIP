@@ -1,0 +1,7 @@
+- Added ability to challenge a player from a ranking board to a game of Play By Mail.
+- Allow shoulder button to toggle lock camera position.
+- Option to toggle in game legal move highlights.
+- Country flags added to leaderboards.
+- Fixed a bug where the ELO stats for beaten opponents did not show up.
+- Fixed a bug where the system would crash when attempting to check mail after resending a Play by Mail game message.
+- Resolved a crash that would occur if the user rapidly switched between the options and audio volume screens.
