@@ -1,0 +1,19 @@
+- Greatly reduced the time it takes to gain ranks (making it easier to obtain the Tolkienesque trophy)
+- Various fixes to improve the frame rate
+- Reduced the frequency that the narration lines play
+- Added new boss Giant Crab
+- Added new boss Scrapyard
+- Added new boss Meteor Ship
+- Added new event Parallel Cascade
+- Added new event Laser Levels
+- Added new event Minefield
+- Added new event Portals
+- Added new Black Hole enemy Pirates
+- Added new Black Hole enemy Ninjas
+- Added new Black Hole enemy Vikings
+- Added new Black Hole enemy Ghosts
+- Added new Black Hole enemy Zombies
+- Added new Black Hole event Black Hole Chaos
+- Added new enemy Fogger
+- Added new enemy Trailer
+- Various bug fixes and visual improvements

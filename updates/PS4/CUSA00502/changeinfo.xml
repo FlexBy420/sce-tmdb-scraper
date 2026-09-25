@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+	<changes app_ver="01.01">
+		<![CDATA[
+			- While using Remote Play, Turn() and Undo are now mapped to R1 and L1, respectively 
+			- Fixed rare crash that could occur in Stability Test 1
+			- Fixed rare crash that could occur using the Get() function
+			- Fixed issue where user would sometimes run offscreen during Turn() execution
+			- Fixed issues where user could not advance through certain situations with certain function loadouts
+			- Fixed issue where user could not use multiple instances of a function in Turn() in Recursion mode
+			- Fixed issue in Bracket Towers where a maintenance door would not open in rare cases
+			- Fixed issue where user could fail Speed Test 1 while completing it
+			- Fixed an exploit where users could win Stability Test 1 by using Turn() immediately
+			- Optimized visual FX for Jaunt() + Crash() + Spark() for performance
+			- 'Snapshot' Process no longer physically invulnerable while dodging
+			- In Speed Test 2, replaced fixed function Flood() with Load() + Jaunt()
+- Fixed several minor textual errors
+			- Updated a profile data error message to be more accurate.
+		]]>
+	</changes>
+</changeinfo>

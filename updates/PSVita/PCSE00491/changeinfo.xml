@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+- Fixed a problem when accepting a game invite while in a game.<br>
+- Fixed 'Can Build and Mine' option in Host Options Menu not functioning properly in a Creative Mode game.<br>
+- Fixed a crash when attempting to download a save transfer when the memory card was full.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[
+- Fixed a crash on saving a game after resetting the nether.<br>
+- Fixed an issue causing corrupt save data after Saving and then quickly selecting Save and Exit.<br>
+- Fixed an issue with Save Transfer causing players to lose their inventory on re-loading the save.<br>
+- Fixed a graphical issue with the Nether Portal effect.<br>
+- Enabled support for limited time Additional Content.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.10">
+    <![CDATA[
+- Added the trial Steampunk Texture Pack.<br>
+- Added the trial Skyrim Mash-up Pack.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.11">
+    <![CDATA[
+- Added the trial Festive Mash-up Pack.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.12">
+    <![CDATA[
+- Updated to equivalent of Java 1.6.4<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.13">
+    <![CDATA[
+-	Fix for various Redstone issues.<br>
+-	Fixed a crash when breaking an Item Frame containing a map.<br>
+-	Fixed a crash when a Dispenser is dispensing water or lava when the Dispenser is blocked.<br>
+-	Fix for placing a boat on harmful surfaces causing the game to crash.<br>
+-	Updates to horse and other animal de-spawning to take into account Saddles, Saddle bags, Leads, Armor and Nametags.<br>
+-	Fix for Stonebrick stairs recipe.<br>
+-	Fix for issue where player is able to stay alive with zero hearts in their Healthbar.<br>
+-	Fixed an issue in the Host Options menu in Adventure mode causing options to be set wrongly.<br>
+-	Fix for issue where animals don't stop running after being hit.<br>
+-	Fix for issue where destroying planted Pumpkin and Melon Seeds drops an incorrect number of seeds.<br>
+-	Librarian villagers now have a small probability of offering nametags for sale.<br>
+-	Add a rare probability of spawning Skeletons/Wither Skeletons in the nether.<br>
+-	Brought forward change so that Witches naturally spawn, rarely, anywhere that's dark.<br>
+-	Fix for issue where Wither Skeletons stop spawning in the Nether when the difficulty is set to Easy from Peaceful.<br>
+-	Changed Minecart riding behaviour back so that the player turns with the Minecart.<br>
+-	If mob griefing is turned off, sheep shouldn't change grass blocks when they eat them.<br>
+-	Fix for TNT cart exploding despite 'TNT Explodes' option being turned off.<br>
+-	Fix to Noteblock fall-off distance so they can be heard further away.<br>
+-	Fix for player legs not being rotated correctly when riding.<br>
+-	Fix for Wolf heal tooltip.<br>
+-	Fixed improper tooltip displayed when Player is holding a Lead and aiming at an aggressive mob.<br>
+-	Fix for Potion of Weakness effect description having incorrect values.<br>
+-	Fix for issue where Creepers hover off the floor.<br>
+-	Fixed issue where Name Tags do not appear to work correctly on the Wither, Iron Golem and Wither Skeleton.<br>
+-	Fix for player nametags not being colored.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.14">
+    <![CDATA[
+- More Redstone fixes.<br>
+- Increased minecart limit.<br>
+- Stopped tamed horses despawning when they are in a fenced-off area.<br>
+- Crafting a map now produces an Empty Map.<br>
+- Fixed a crash with a Noteblock.<br>
+- Fixed an issue with village generation.<br>
+- Fixed an issue with Witch Huts allowing other mobs to spawn in them after a reload.<br>
+- Fixed a problem causing clouds to look 2D.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.15">
+    <![CDATA[
+- Added Language Select in the options, and Greek and Chinese Simplified languages.<br>
+- Added Mass Effect Mash-up Trial content.<br>
+- Added Pattern Texture Pack Trial content.<br>
+- Fixed issue placing Pistons, Dispensers and Droppers.<br>
+- Added Quick Move to the Horse Inventory.<br>
+- Made some fixes to player privileges.<br>
+- Corrected Baby Zombie hit boxes size.<br>
+- Added 'Where are we now" Music Disc in Survival Mode.<br>
+- Fix for a bug where a Chest didn't disappear when destroyed.<br>
+- Fix for player sometimes taking fall damage while in a boat.<br>
+- Fixed an issue where a player's wolves could teleport to them when they were in a boat, and kill them.<br>
+- Updated Lapis Lazuli block texture.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.16">
+    <![CDATA[
+- Added the Alex skin and some variations of it to the default skins.<br>
+- Changed music tracks played in Creative mode and on front-end menus to match Java version.<br>
+-	Brought forward change so that shrubs can placed in flower pots.<br>
+- Added The Simpsons skin pack trial content.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.17">
+    <![CDATA[
+- Added Oak Wood Fence, Spruce Wood Fence, Birch Wood Fence, Jungle Wood Fence.<br>
+- Added Oak Wood Fence Gate, Spruce Wood Fence Gate, Birch Wood Fence Gate, Jungle Wood Fence Gate.<br>
+- Added Oak Wood Door, Spruce Wood Door, Birch Wood Door, Jungle Wood Door.<br>
+- Added Iron Trapdoor, Inverted Daylight Sensor, Book and Quill and Stained Glass.<br>
+- Added Custom Superflat User Interface, allowing players to customize superflat world generation.<br>
+- Added new in-game options to allow changing game mode, difficulty setting, time of day, and spawn position per player, and disable or enable ambient cave sounds, and weather settings.<br>
+- Split Load/Join interface into Create/Load/Join.<br>
+- Added Classic Crafting option, so you can now craft the same way as on the Java version if you really want to! This option is available in the UI settings menu.<br>
+- Added LittleBigPlanet™ Mash-up Pack trial content.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.18">
+    <![CDATA[
+- Added Greek Mythology Mash-up Pack trial content.<br>
+-	Added Acacia Wood, Acacia Planks, Acacia Fence, Acacia Fence Gate, Acacia Door, Acacia Slab and Acacia Stairs to the Creative menu.<br>
+-	Added Dark Oak Wood, Dark Oak Planks, Dark Oak Fence, Dark Oak Fence Gate, Dark Oak Door, Dark Oak Slab and Dark Oak Stairs to the Creative menu.<br>
+- Fixed a crash when approaching Villages, Desert Temples and Jungle Temples if the save that was loaded had a partially discovered Village/Temple in it.<br>
+- Fixed an issue with stacking doors.<br>
+- Fixed the Oak Door recipe not giving 3 doors.<br>
+- Fixed an issue with the Set Day button in the Host Options menu.<br>
+- Fixed an issue stopping players removing Leads from Fences.<br>
+- Fixed Minecart with TNT having no igniting animation.<br>
+- Fixed an issue with Mobs being unable to pass through an open Iron Door.<br>
+- Fixed an issue where reaching the maximum spawn limit of villagers prevents spawning baby villagers after some of the villagers die.<br>
+- Fixed doors being destroyed when placing them on an upper Slab.<br>
+- Fixed an issue where players with no privileges could make tamed Wolves stand up.<br>
+- Fixed an issue where players with no privileges could kill Snow Golems.<br>
+- Stopped players being able to destroy Minecarts when 'Can Build and Mine' privilege is disabled.<br>
+- Stopped players being able to open Minecart with Chest, Minecart with Hopper, and Saddlebags when 'Can Open Containers' privilege is disabled.<br>
+- Fixed an issue with disabling weather cycle and saving causing other host options to be wrongly set.<br>
+- Fixed an issue with Wolves not taking damage properly.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.19">
+    <![CDATA[
+- Added Star Wars Classic Skin Pack trial content.<br>
+- Added Star Wars Rebels Skin Pack trial content.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.20">
+    <![CDATA[
+- Added Doctor Who Skins I & II Bundle trial content.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.21">
+    <![CDATA[
+- Added the Star Wars Prequel Skin Pack trial content.<br>
+- Added the Halloween 2015 Mash-up Pack trial content.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.22">
+    <![CDATA[
+- Added new Biomes: Mesa, Mega Taiga, Roofed Forest, Birch Forest, Flower Forest, Savanna, Deep Ocean and more!<br>
+- World generation changes, including Ocean Monuments.<br>
+- Added new blocks: Packed Ice, Podzol, Diorite, Granite, Andesite, Coarse Dirt, Red Sand, Red Sandstone, Prismarine, Prismarine Bricks, Dark Prismarine, Sea Lanterns, Wet Sponge, Slime Blocks and lots of new flowers.<br>
+- Added Endermites, Guardians and Elder Guardians.<br>
+- Added Rabbits, Raw Rabbit, Rabbit Stew, Rabbit Hide and Rabbit's Foot.<br>
+- Added new items: Prismarine crystals, Prismarine Shards, Raw Mutton, Cooked Mutton.<br>
+- Added Pufferfish, Salmon and Clownfish which can be caught when fishing.<br>
+- Villagers now have more professions, and trade different items.<br>
+- Changes to Enchanting, which now includes a payment of Lapis Lazuli to enchant items.<br>
+- Added Armor Stands.<br>
+- Added Potion of Leaping.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.23">
+    <![CDATA[
+- Fix for MCCE #48 - Water Spreading Creates New Source Blocks.<br>
+- Fix for MCCE #571 - Interface Opacity and Tooltip Opacity issues.<br>
+- Fix for MCCE #772 - Animals get stuck in corners of fence-type blocks.<br>
+- Fix for MCCE #826 - Beacon height limit.<br>
+- Fix for MCCE #829 - The end build limit is smaller.<br>
+- Fix for MCCE #831 - Player skin is the default skin when holding a map.<br>
+- Fix for MCCE #856 - Red sandstone stairs texture incorrect.<br>
+- Fix for MCCE #863 - The map does not work as it should (unless "View Hand" is turned on).<br>
+- Fix for MCCE #865 - Rabbits only appear to spawn naturally in snow biomes.<br>
+- Fix for MCCE #878 - Book and Quill saving issue. Opening and closing an edited (not signed) writeable book deletes the saved pages.<br>
+- Fix for MCCE #833 - When Interface opacity is down, hotbar faded tools won’t show their durability.<br>
+- Fix for MCCE #885 & #886 - Feather Falling enchantment does not reduce falling damage & Ender pearl Damage.<br>
+- Fix for MCCE #962 - Slime Spawning (Increase to Slime Spawning).<br>
+- Fix for MCCE #1009 - Skulls in the inventory and held in first person are oversized.<br>
+- Fix for MCCE #1024 - Raw fish and raw salmon have the same texture in the Natural Texture Pack.<br>
+- Fix for MCCE #1072 - In the City Texture Pack it shows smooth red sandstone as a rough block but when you place it, it is smooth.<br>
+- Fix for MCCE #1091 - Some fire caused by Ghast's Fireball explosion is not displayed.<br>
+- Fix for MCCE #1127 - Wolfs default collar colour had changed (Orange -> Red).<br>
+- Fix for MCCE #1142 - Minecraft Capes using incorrect texture.<br>
+- Fix for MCCE #1192 Texture under the bed is the texture of the top of the bed.<br>
+- Fix for MCCE #1202 - Map dark when facing north or south.<br>
+- Fix for MCCE #1214 - Texture of any potion turns black while holding it in the End or Nether.<br>
+- Fix for MCCE #1349 - Penned animals de-spawn when leaving the chunk.<br>
+- Fix for MCCE #1366 - When placing a torch under water to reset / refill your air meter will often (about 50% of the time) cause a crash.<br>
+- Fix for MCCE #1367 - Melon farm with piston causes crash.<br>
+- Fix for MCCE #1415 & #1403 - Hunger meter always regenerates when switching from peaceful to any other difficulty.<br>
+- Fix for MCCE #1434 - Fishing Rod Bobber Sticks to Walls!<br>
+- Fix for MCCE #1455 - Piston/slime block duplication.<br>
+- Fix for MCCE #1457 - TNT can destroy blocks placed well beyond the world border.<br>
+- Fix for MCCE #1488 - ‘Getting an Upgrade’ trophy fails to unlock while crafting a stone pickaxe using classic crafting.<br>
+- Fix for crash when Ender Chest is mined for a few seconds.<br>
+- Fix for an intermittent crash when placing beds on snow.<br>
+- Fix for a crash when a Superflat World session with a combination of multiple Planks or Wood, Lava and Air Layers is saved.<br>
+- Fix for a crash after destroying blocks and exploring a Superflat World with multiple Sand, Air and TNT Layers.<br>
+- Improved random seed generator to select worlds with a better spread of biomes.<br>
+- Fix for Villagers not harvesting crops from Farmlands created by the player.<br>
+- Fix for glass not being able to be broken by hand in Adventure Mode.<br>
+- Fix for an issue where the user renames a ‘Spawn Egg’ and places it in water, causing debug text to be displayed.<br>
+- Fix for an issue when the "Body Guard" trophy does not unlock as expected when the Iron Golem is built in a certain way.<br>
+- Fix for an issue where a player cannot see other players after dying and respawning.<br>
+- Fix for an issue where baby horses appear to be adults after feeding with one golden carrot.<br>
+- Fix for issue where two Primary Powers can be applied to the Player's character through the Beacon UI.<br>
+- Fix for an issue where a Torch and a Redstone Torch have two hitboxes.<br>
+- Fix for de-spawn protections not being applied to baby animals created with Spawn Eggs.<br>
+- Fix for issue where item quantity for Bottle o' Enchanting, Nether Star, Enchanted Golden Apple and strength indicator for Potions are not affected by Interface Opacity when in the Quick Select.<br>
+- Fix for Death Message with incorrect text is displayed when the player is killed with a named weapon.<br>
+- Fix for worlds generating slightly differently every time even with the same seed.<br>
+- Fix for issue where Leather Clothes, Spawn Eggs and Potions are displayed improperly when the player is above 256 blocks or is in a place where there is no source of daylight.<br>
+- Fix for Doors, Trapdoors and Fence Gates missing a sound effect when closing.<br>
+- Fix for issue where opening certain menus does not cancel the eating, drinking or bow charging animations.<br>
+- Fixed an issue where items that have no custom names were not showing up in edit text field in the Anvil.<br>
+- Fix for Ocelots not sprinting away from the player.<br>
+- Fix for Pistons and objects pushed by them having corrupted, black textures while animating.<br>
+- Fix for falling Gravel, Sand and Red Sand blocks displaying with very dark textures.<br>
+- Fix for issue where texture pack changes to vanilla Minecraft textures if the player joins a friend's session.<br>
+- Added first person rendering of additional skin parts for the left and right arms.<br>
+- Fix for an issue when in a Split-screen session where at least one player does not get Critical Hit particles.<br>
+- Fix for seeing through the base of falling blocks.<br>
+- Fix for missing mining animation for Skulls, Heads, Signs, Chests and Beacons.<br>
+- Fix for issue where changing the Interface Opacity to specific values causes visual issues with the item and button icons on the HUD.<br>
+- Fix for issue when travelling directly north or south in a Minecart where the player automatically turns to face eastwards.<br>
+- Fix for missing tooltip for 'Exit' / 'Dismount' actions.<br>
+- Fix for Guardians not being spawned around Ocean Monuments on a Superflat World.<br>
+- Fix for City Texture Pack missing textures for multiple kinds of doors while holding in the player’s hand.<br>
+- Fix for Sign text not displaying.<br>
+- Fix for Cows needing to take 11 hits with hand or 3 hits with any Sword to be killed.<br>
+- Fix for Clownfish description displaying incorrect information.<br>
+- Fixed an issue unlocking the ‘Iron Belly' trophy.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.24">
+    <![CDATA[
+- Added Biome Settlers Pack 1 trial content.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.25">
+    <![CDATA[
+- Added Story Mode Skin Pack trial content.<br>
+- Fixed Tall Grass so that it is randomly offset from the center of the block again.<br>
+- Changed behaviour of explosions so that they push Primed TNT, even if a block in that location wouldn't get destroyed.<br>
+- Fix to stop Slimes spawning in Witch Huts.<br>
+- Changed Item Frame rendering so that the closest ones to the player appear, up to a fixed limit of total visible frames.<br>
+- Fix for location icon for Item Frames with Maps in them appearing incorrectly.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.26">
+    <![CDATA[
+- Fixed Guardians no longer spawning after loading a save.<br>
+- Removed change that restricted changing to third-person camera while running or performing other actions.<br>
+- Removed changed that made sprint activation more sensitive.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.28">
+    <![CDATA[
+- Added Battle Mini Game. Battle is a frantic last-man-standing style mini game, where players will have to hunt the arenas for chests containing weapons, armor and food in order to survive and to have an advantage over other players. You can find it in the "Mini Games" menu.<br>
+- Added "Distribute Items" for Inventory and Crafting menus to enable spreading items equally among the slots.<br>
+- Updated Change Skin menu.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.29">
+    <![CDATA[
+- Fixed an issue that caused attempting to join Public Battle games to fail.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.30">
+    <![CDATA[
+- Disabled hosts in a public Battle game from being able to kick players.<br>
+- Increased the invulnerable period at the start of a Battle round to 20 seconds.<br>
+- Fixed some holes in Battle arenas that players could get stuck in.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.31">
+    <![CDATA[
+- Added Battle Map Pack 2.<br>
+- Added Redstone Specialist Skin pack.<br>
+- Fix for terrain generation not generating enough height variation, causing hills to be smaller.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.33">
+    <![CDATA[
+- Added Tumble Mini Game.<br>
+- Added Battle Map Pack 3.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.34">
+    <![CDATA[
+- Changed falling sound in Tumble Mini Game.<br>
+- Fix for Battle map selection preferences not saving correctly.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.35">
+    <![CDATA[
+- Revert vote-to-kick in Mini games.<br>
+- Fix for coloured text not showing correctly.<br>
+- Fix some stability issues.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.36">
+    <![CDATA[
+- Added new blocks: End Bricks, Beetroot, Grass Path, Frosted Ice, Magma, Nether Wart Block, Red Nether Brick, Bone Block.<br>
+- Added new items: Beetroot, Beetroot Seeds, Beetroot soup.<br>
+- Added Igloos and Fossils.<br>
+- Paths in Villages are now made from Grass Path blocks.<br>
+- Buildings in Villages are made from different types of wood, depending on the biome they generate in.<br>
+- Added Banners.<br>
+- Added new enchantments: Frost Walker and Mending.<br>
+- Added Polar Bears.<br>
+- Added Chinese Mythology Mash-up Pack trial content.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.37">
+    <![CDATA[
+- Added Battle Map Pack 4 trial.<br>
+- Added Campfire Tales Skin Pack trial.<br>
+- Added Halloween Battle Map trial.<br>
+- Fixes to many Battle maps to remove areas where players could get stuck.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.38">
+    <![CDATA[
+- Added new Tutorial world.<br>
+- Added new blocks: Chorus Flower, Chorus Plant, Dragon Head, End Gateway, End Rod, Purpur Block, Purpur Pillar, Purpur Stairs, Purpur Slab.<br>
+- Added new items: Chorus Fruit, Popped Chorus Fruit, Dragon's Breath, Elytra, End Crystal, Lingering Potion, Water Splash Potion, Potion of Luck, Tipped Arrow, Boats made from Spruce, Birch, Jungle, Acacia, and Dark Oak.<br>
+- Updates to terrain generation:<br>
+  The End has changed when generating a new world, and can also be updated for old worlds. To get the new End in an old world, select "Reset End" in the "More Options" menu when loading the world.<br>
+	After killing the Ender Dragon in the new End, an End Gateway will spawn nearby. Throwing an Ender Pearl into this will teleport you to a new area in The End with an End City and End Ship.<br>
+	Within the End City and End Ship you can find Shulkers, Elytra, and a Dragon Head.<br>
+- Added new mobs: Shulker, Stray, Husk, and Skeleton Trap Horses.<br>
+- Added Elytra, which let you glide around the world when you are wearing them.<br>
+- Boats are now controlled differently, and can have multiple passengers.<br>
+- Brewing now requires Blaze Powder as fuel for the Brewing Stand.<br>
+- Updated crafting interface to allow crafting Firework Stars and Fireworks.<br>
+- Added Fallout Mash-up Pack trial.<br>
+- Added Festive Battle Map trial.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.39">
+    <![CDATA[
+- Minor updates to Tutorial world.<br>
+- Fix crash when firing snowballs from a Dispenser.<br>
+- Fix crash when crafting fireworks with renamed items.<br>
+- Fix for End Crystals sometimes being invulnerable.<br>
+- Fix for crash that occurs after trying to collect Dragon's Breath with a Glass Bottle.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.40">
+    <![CDATA[
+- Fix for Mob Spawners not spawning any more, and showing a Pig inside them.<br>
+- Fix for previously created signs being censored for players with restrictive Privacy settings.<br>
+- Fix for being able to escape the boundaries of the world by exiting a Boat at the edge.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.41">
+    <![CDATA[
+- Added new trophies for Survival.<br>
+- Added new trophies for Tumble.<br>
+- Added Villains Skin Pack trial.<br>
+- Fix for Slab blocks not blocking light.<br>
+- Fix for Blazes not dropping Glowstone Dust.<br>
+- Fix for Chickens not dropping Cooked Chicken when they die on fire.<br>
+- Fix for Zombie Pigmen not dropping Gold Ingots.<br>
+- Fix for Dead Bushes not dropping sticks.<br>
+- Fix for Wither Skeletons being able to walk through two block high spaces.<br>
+- Fix for incorrect lighting in the area where a player has spawned.<br>
+- Fixed some occasions where End Gateways would be broken.<br>
+- Fixed incorrect tooltips when using a variety of different items.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.42">
+    <![CDATA[
+- Added Fallout Battle Map Pack trial.<br>
+- Fix for being unable to change a Mob Spawner to spawn Pigs.<br>
+- Fix for Player exiting any vehicle they were riding when reloading a save.<br>
+- Fix for rendering issues if a player rides a vehicle beyond your draw distance, then comes back towards you.<br>
+- Fix for crash that can occur when saving particularly detailed worlds.<br>
+- Fix for crash that can occur when cycling through the Firework crafting menu.<br>
+- Fixed some issues that caused low framerates.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.43">
+    <![CDATA[
+- Fix for high-res texture packs showing lower resolution items in the UI (MCCE 4226)<br>
+- Fix for Nether portals connecting to the wrong portal (MCCE 4227)<br>
+- Fix for player falling through the ground if they jump in a confined space (MCCE 4321)<br>
+- Fix for seeds always appearing as "0" in Load menu.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.44">
+    <![CDATA[
+- Added Glide Mini Game.<br>
+- Added new Mini Game lobby.<br>
+- Added Power Rangers skin pack.<br>
+- Added Mini Game Masters skin pack.<br>
+- Fix for a bug that was causing players to not be able to open chests in the Battle Mini Game.<br>
+- Fix for Skeleton hitboxes blocking the placement of blocks directly above them (MCCE 4108)<br>
+- Fix for Stained Glass Panes on the ground not being transparent (MCCE 4238)<br>
+- Fix for some chunk loading issues in the Tumble Mini Game.<br>
+- Fix for some item UI scaling/alignment issues when using Texture/Mash-Up Packs.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.45">
+    <![CDATA[
+- Added new Glide sound effects.<br>
+- Improved Glide HUD and notification visuals.<br>
+- Improved Glide round-end experience.<br>
+- Updated Glide "How To Play" page with more detailed information.<br>
+- Added new loading screen tips for Glide.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.47">
+    <![CDATA[
+- Added Glide Beasts Track Pack trial, with new tracks Dragon, Yeti and Kraken.<br>
+- Added particles when a player reaches the end of a Glide Mini Game track.<br>
+- Changed "Showdown" in Glide Mini Game to say "Hurry Up".<br>
+- Shortened the respawn time in Glide Mini Game.<br>
+- Shortened the start delay time when playing Glide Mini Game in Solo mode.<br>
+- Interface Opacity setting now affects Glide Mini Game HUD.<br>
+- Fix for issues that occur if a player was in a certain place in the Mini Game Lobby when the transition to a new game starts.<br>
+- Changed Boat item textures in Mass Effect Mash Up Pack to correspond to the in game texture.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.48">
+    <![CDATA[
+- Updates to new Glide tracks to close off some places where a player could escape the track.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.49">
+    <![CDATA[
+- Added Adventure Time Mash-up Pack.<br>
+- Added Magic: The Gathering Skin Pack.<br>
+- Your best run in Glide will now be recorded (as long as it is under 5 minutes), and a Ghost will fly alongside you in Solo Mode to help you improve!<br>
+- The default controls have been changed slightly, and you can now define your own control scheme in the options menu.<br>
+- Added Shulker Box item.<br>
+- Added Shulker Shell item.<br>
+- Added Iron Nugget item. You can now smelt Iron and Gold armour into nuggets.<br>
+- More items can now be used as fuel in a furnace.<br>
+- Added some new sound effects for filling Cauldrons, paddling Boats, using a Fishing Rod, and End Portals.<br>
+- Using a Firework while gliding with Elytra will now give you a boost. Don't try this at home!<br>
+- Added Concrete Powder.<br>
+- Added Concrete.<br>
+- Added Glazed Terracotta.<br>
+- Changed the color of Dyes.
+    ]]>
+  </changes>
+  <changes app_ver="01.50">
+    <![CDATA[
+- Updated UI renderer, to improve memory use and performance when opening new menus.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.52">
+    <![CDATA[  
+- Added Mini Game Heroes Skin Pack.<br>
+- Added Giants Glide Track Pack; three new tracks where everything is HUGE!<br>
+- Added Llamas, new mobs that can be tamed and ridden, and will form caravans when led.<br>
+- Added Parrots. Try letting them ride your shoulder, but be careful what you feed them!<br>
+- Added Woodland Mansions, and the mobs that inhabit them: Vindicators, Evokers, and the annoying Vexes that they summon.<br>
+- Added Explorer Maps to help you find Ocean Temples and the new Woodland Mansions, and the new Cartographer Villager to sell them to you.<br>
+- Added Observer Blocks.<br>
+- Added Totem of Undying item.<br>
+- Added Curses of Binding and Vanishing.<br>
+- Added Spawn Eggs to the Creative Menu for Skeleton Horses, Zombie Horses, Elder Guardians, Strays, Wither Skeletons, Husks, and Zombie Villagers.<br>
+- Added display of status effects on the HUD.<br>
+- Reduced the amount of Food Bar drain player many actions cause, but increased the drain caused by health regeneration.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.53">
+    <![CDATA[  
+- Fix for crash that can occur after losing internet connection while in an offline game.<br>
+- Fix for wordwrap issues in the store.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.55">
+    <![CDATA[  
+- Added Biome Settlers 2 Skin pack.<br>
+- Added Canyon, a free Glide track.<br>
+- Added Terracotta and Glazed Terracotta layers to Tumble.<br>
+- Improved performance in Solo Glide when restarting the level (particularly with split-screen spectators).<br>
+- Totem of Undying now also applies Fire Resistance II.<br>
+- Fixed some areas where it was possible to escape from Battle maps or Glide tracks.<br>
+- Fixed a bug where players were unable to milk a Cow in Creative Mode.<br>
+- Fixed a bug where players were being teleported back to the Nether portal shortly after arriving in the other dimension.<br>
+- Fixed a bug where broken Banners wouldn't stack with crafted Banners.<br>
+- Fixed a bug where Wheat, Ladders, and Banners were not correctly spawning in Woodland Mansions.<br>
+- Fixed a bug where Monster Spawners in Woodland Mansions were Pigs instead of Spiders.<br>
+- Fixed a bug where the Item Frame icon appeared when holding a Map.<br>
+- Fixed an incorrect death message when players were killed by Zombie Villagers.<br>
+- Fix for custom names of Mobs not being shown in death messages.<br>
+- Fix for being unable to unlock "Sniper Duel".<br>
+- Fix for being unable to unlock "Camouflage".<br>
+- Fix for MCCE #5183 - Player can kill a tamed Parrot with PvP disabled.<br>
+- Fix for MCCE #5062 - Farmer Villagers only plant one seed after harvesting a whole crop of seeds from a field.<br>
+- Fix for MCCE #4103 - Time spent on the Pause menu when under water counts towards the "Free Diver" trophy.<br>
+- Fix for MCCE #3112 - When trying to throw food, Villagers throw it in the wrong direction.<br>
+- Fix for MCCE #5219 - Two types of Bone Block with different pictures.<br>
+- Fix for MCCE #4989 - Zombie Villager Spawn eggs are the wrong colour.<br>
+- Fix for MCCE #5261 - Flower hitbox is displaced.<br>
+- Fix for MCCE #4897 - Beds explode when TNT Explodes is disabled.<br>
+- Fix for MCCE #4954 - Mobs can't move with a block above them.<br>
+- Fix for MCCE #3010 - Constructing an End portal in a certain method can lead to the End Portal being created next to the portal frame.<br>
+- Fix for MCCE #5292 - Only regular Skeletons spawning in the Nether.<br>
+- Fix for MCCE #5151 & MCCE #5208 - Item frames don't show the custom name of their items.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.57">
+    <![CDATA[  
+- Added Glide Myths Track Pack; Drift through the clouds of Icarus, dive into conflict in Excalibur, and ride with the Kelpies in Celts.<br>
+- Added Strangers - Biome Settlers 3 Skin Pack.<br>
+- Skeleton Horses can now be tamed and leashed.<br>
+- Wither Skeletons no longer fear daylight.<br>
+- The Wither will now attack anything that lives.<br>
+- Strays now flee from Wolves.<br>
+- Polar Bears finally got the memo that "Peaceful" means "Don't attack players".<br>
+- Crafting any kind of Boat now requires a Wooden Shovel.<br>
+- String can now be crafted from Web.<br>
+- Purpur Stairs and Slabs can now be crafted from both Purpur Blocks and Pillars.<br>
+- Stone Slabs, Redstone Repeaters, and Redstone Comparators can now be crafted from Stone, Granite, Andesite, Diorite, and their Polished variants.<br>
+- Pistons can now push Daylight Sensors.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.60">
+    <![CDATA[  
+- Added Stranger Things Skin Pack.<br>
+- Added the "Custom" game type to the Battle and Tumble Mini Games, with a huge variety of new settings.<br>
+- Added the No Armor item set to Custom Battle games, an item set designed to keep the combat fast-paced and exciting.<br>
+- Added the High Power item set to Custom Battle games, allowing you to play Battle with some of the most powerful items in Minecraft!<br>
+- Added the Decayed item set to Custom Battle games; every item breaks after a few uses, so you'll need to keep moving.<br>
+- Added the Food Central item set to Custom Battle games. Food is only found in the centre chests, and equipment only in the outer chests - there's bound to be some explosive confrontations when using this item set.<br>
+- Added Fireworks as a usable weapon in Custom Tumble games. Ptchoo!<br>
+- Added Splash Potions of Levitation as a usable weapon in Custom Tumble games. Mind your head...<br>
+- Added Spectator Participation to Custom Tumble games - watch out, those bats aren't harmless anymore!<br>
+- Talking about Spectators, Players can now spectate Mini Games as a Parrot, Vex, or floating head.<br>
+- Added Custom settings to the Battle and Tumble Mini Games to allow multiple lives per round, and multiple rounds per match.<br>
+- Added loads more Custom settings to Mini Games, so go check them out!<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.61">
+    <![CDATA[  
+- Added support for the Minecon Earth 2017 Skin Pack.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.64">
+    <![CDATA[  
+- Added Norse Mythology Mashup Pack.<br>
+- Added Leather Horse Armor. It can be dyed like any other leather armor, and provides 1.5 Armor when equipped to a Horse.<br>
+- Updated Cauldrons. They can now hold Potions and dyed water, and can be used to create Tipped Arrows and dye Armor.<br>
+- Added Baby Zombie Jockeys that can ride all kinds of mobs.<br>
+- On higher difficulties, The Wither will now spawn some Wither Skeletons for protection.<br>
+- Updated Villages to better suit their biomes.<br>
+- Dispensers will now launch Fireworks in the direction they are facing.<br>
+- Dispensers will now drop Mob Heads if placing them wouldn't spawn a mob.<br>
+- Armor Stands now have arms, and can be posed manually or with Redstone power.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.65">
+    <![CDATA[  
+- Fix for Norse Mythology music not playing after the content was purchased and the game restarted.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.66">
+    <![CDATA[  
+- Added Moana Character Pack. Set sail with Moana, Maui, and all the crew from Motunui. How far will you go in Minecraft with this adventurous character set? You're welcome!<br>
+- Fixed MCCE-6589: Pistons of both types can't move Cauldrons.<br>
+- Fixed MCCE-6531: Placing a bed next to a cactus crashes the game.<br>
+- Fixed MCCE-6376: Observer Blocks don't detect some changes, like other powered Observers.<br>
+- Fixed a bug where Rails and Torches couldn't be placed on Glowstone, Sea Lanterns, Glass, or Ice.<br>
+- Fixed a bug where Flowerpots, Doors, and Pumpkins couldn't be placed on Glass.<br>
+- Fixed a bug where Redstone, Levers, and Buttons couldn't be placed on Pistons.<br>
+- Fixed a bug where attaching a fishing bobber to a Mob wasn't registered as a hit.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.67">
+    <![CDATA[  
+- Added Star Wars Sequel Skin Pack.<br>
+- Fixed MCCE-5384 - Cave Spider Spawners crash the game.<br>
+- Fixed MCCE-3522 – Player can fly over the sky barrier.<br>
+- Fixed MCCE-6536 - Save file can be corrupted when flying over the sky barrier.<br>
+- Fixed MCCE-6383 – Dragon Breath causing large performance dip.<br>
+- Fixed MCCE-6224 - No Music Disc Collection Messages.<br>
+- Fixed MCCE-4956 - The back of an observer block does not light up when powered.<br>
+- Fixed MCCE-4986 - Parrots that have been tamed disappear after moving away from them. Tamed Ocelots and Wolves shouldn't despawn now either.<br>
+- Fixed MCCE-6764 - The comparator detects 6 power for a cauldron instead of 3.<br>
+- Fixed MCCE-6603 - Grass spreads under tilled dirt / farmland.<br>
+- Fixed MCCE-6802 - Sticky Pistons does not pull chests back.<br>
+- Fixed MCCE-6734 - Sharpness particles replaced by rain drops.<br>
+- Fixed MCCE-4683 - Dispensers pointing vertically spawn mobs in the wrong positions.<br>
+- Fixed a bug where Endermen weren't teleporting upon taking damage directly from Players.<br>
+- Fixed a bug where holding a stack of two or more items prevented players from performing the "Take/Place" action on Armor Stands.<br>
+- Fixed a bug where some mobs weren't correctly chasing players through doors.<br>
+- Fixed a bug where mobs could breed through walls and fences.<br>
+- Fixed a bug where players could sometimes enter a round of Levitation Potions Tumble without any Potions.<br>
+- Fixed a bug where Cauldron sound effects were louder than intended.<br>
+- Fixed a bug where fuel in Brewing Stands was consumed at the wrong time.<br>
+- Fixed a bug where Zombie Pigmen stayed angry at dead players.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.68">
+    <![CDATA[  
+- Added FINAL FANTASY XV Skin Pack.<br>
+- Fixed a bug where arrows would bounce off Llamas when shot by the player riding them.<br>
+- Fixed a bug where the player could hit their currently mounted pig with arrows.<br>
+- Fixed a bug where mobs would not follow a player after being enticed with food a second time.<br>
+- Fixed a crash that occurred when a player looked directly at a cauldron while holding a water bottle obtained from fishing.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.70">
+    <![CDATA[  
+- Added Egyptian Mythology Pack. Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs, a pantheon of skins and an epic soundtrack!<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.73">
+    <![CDATA[  
+- Added The Incredibles Skin Pack. Grab your super suit and join the action with the Parr family and other heroes and villains in this incredible skin pack!<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.74">
+    <![CDATA[  
+- Added Super Cute Texture Pack. Create a cheerful world full of the cutest and cuddliest mobs! Bouncing bunnies, ultra-adorable unicorns, brilliant bumblebees and, er, burgers? Yes, burgers! Even the squid will make you Squeee!<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.75">
+    <![CDATA[  
+- Added Solo: A Star Wars Story Skin Pack. Whether you’re a driver, a flyer, or a smuggler, you’ve been waiting for a shot like this. Assemble a crew with characters like Han Solo, Lando Calrissian, L3-37 and more!<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.76">
+    <![CDATA[  
+- Added the Update Aquatic! The oceans of Minecraft are now teeming with new life!<br>
+- Added Shipwrecks, Underwater Ruins, Coral Reefs, Icebergs, Underwater Caves/Ravines, and Buried Treasure to world generation.<br>
+- Added new blocks: Coral, Dried Kelp, Sea Pickles, Sea Turtle Eggs, Stripped Logs, Blue Ice, Prismarine Stairs, and Prismarine Slabs.<br>
+- Added new Kelp and Sea Grass underwater flora.<br>
+- Added Trapdoors, Pressure Plates, and Buttons for every type of wood.<br>
+- Added Bubble Columns that are created by underwater Magma or Soul Sand. Bubble Columns push players and mobs to the surface, or drag them under! <br>
+- Added the Conduit, a block that provides underwater players with a powerful Status Effect.<br>
+- Added Tridents, and their unique enchantments; Impaling, Channeling, Riptide, and Loyalty.<br>
+- Added other new items: Dried Kelp, Fish Buckets, Turtle Shell Helmet, Heart of the Sea, Nautilus Shell, Scute, and Phantom Membrane.<br>
+- Added new Potions and Arrows of the Turtle Master, and of Slow Falling.<br>
+- Added Buried Treasure Explorer Maps that will lead you to great wealth hidden under the sands!<br>
+- Added Cod, Salmon, Pufferfish, and 2700 types of Tropical Fish!<br>
+- Added the Dolphin, a friendly mob that helps players out!<br>
+- Added the Phantom, a mob that hunts down tired players.<br>
+- Added the Sea Turtle, a mob that travels the world but always returns home.<br>
+- Added the Drowned, a monster that attacks players that enter their underwater domain.<br>
+- Added new Warm, Lukewarm, and Cold Ocean biomes to hold all this new stuff...<br>
+- ...And a new Tutorial world to show you how to use it!<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.77">
+    <![CDATA[  
+- Added Pirates of the Caribbean Mash-Up Pack. Take what you can. Give nothing back! Join Jack and his crew in the Pirates of the Caribbean Mash-up, featuring many of your favorite rogues and rascals. Plot a course from Tortuga to Shipwreck Cove and all the way down to Davy Jones’ Locker. This is the day you will always remember as the day you sailed with Captain Jack Sparrow.<br>
+- Fixed a crash when walking back and forth across the bridge in the new Tutorial world.<br>
+- Fixed a bug where loading saves from previous versions could occasionally crash the game.<br>
+- Fixed a bug where players were not receiving damage from TNT explosions in the Battle Mini Game. <br>
+- Fixed a bug where Iron Golems were not defending themselves while walking to Villages.<br>
+- Fixed a bug where damaged tools were not consumed in crafting, and could not be used at all in Classic crafting. <br>
+- Fixed a bug where Dolphins were taking damage too quickly when stuck on land.<br>
+- Fixed a bug where Torches could sometimes be placed underwater.<br>
+- Fixed a bug where Sugar Cane could be placed underwater.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.79">
+    <![CDATA[  
+- Added From the Shadows Skin Pack. What lurks beyond your vision, in the darkness beneath the bed? The spooky closet is whispering, "I think you'll lose your head!" Clothe yourself with horror, join the beasts, and scare; "From the Shadows" could mean you, but only if you dare!<br>
+- Fixed some bugs.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.81">
+    <![CDATA[  
+- Fixed a crash that occurred when clients of multiplayer session would join a world with rapidly moving pistons.<br>
+- Fixed some other minor bugs. <br>
+    ]]>
+  </changes>
+  <changes app_ver="01.82">
+    <![CDATA[  
+- Added The Nightmare Before Christmas Mash-Up Pack.<br>
+    ]]>
+  </changes>
+  <changes app_ver="01.83">
+    <![CDATA[
+    - Fixed some text issues.
+    ]]>
+  </changes>
+  <changes app_ver="01.84">
+    <![CDATA[
+    - Remove save transfer.
+    ]]>
+  </changes>
+</changeinfo>

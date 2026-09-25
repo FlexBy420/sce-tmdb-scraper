@@ -1,0 +1,588 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01580_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "Mass Effect™ 2",
+  "trophyTitleDetail": "Mass Effect™ 2",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/0DF2825C4C57EF0ECA6893BCAD22AA45070DEBB9.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 50,
+    "silver": 6,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Mass Effect™ 2",
+      "trophyGroupDetail": "Mass Effect™ 2",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/0DF2825C4C57EF0ECA6893BCAD22AA45070DEBB9.PNG",
+      "definedTrophies": {
+        "bronze": 46,
+        "silver": 6,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Zaeed: el precio de la venganza",
+      "trophyGroupDetail": "Zaeed: el precio de la venganza",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/93882E82FBBDE11DA17FA4D19F5A3013270ABB64.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Llegada",
+      "trophyGroupDetail": "Llegada",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/4C0A255AE15618CA357BA09C6CC379A54F9A909E.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Élite N7",
+      "trophyDetail": "Consigue todos los trofeos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/C1A3501BC0D2383954C7C2DF95808E09684D73D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mucho entrenamiento",
+      "trophyDetail": "Mira todos los vídeos de entrenamiento en combate avanzado en la terminal privada de Shepard.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/1809D23D63C996A75C659FB3F65B79F6F0AC330B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Desaparición en combate",
+      "trophyDetail": "Salva a tu tripulación de un ataque arrollador",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/BBC637F60A89F75468744F58E937DFDAB2A49576.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Muy escurridizo",
+      "trophyDetail": "Vuelve al servicio activo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/08954EA4C3AA536A2CDEE9131D7BAF015526505B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La Convicta",
+      "trophyDetail": "Recluta a la convicta biótica",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/E5B3CE714B91C10340A40E1387EF66975248EA71.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "El Krogan",
+      "trophyDetail": "Recluta al krogan",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/FB66F871F09A1C514F7E6B03C65EB50101222983.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "El Arcángel",
+      "trophyDetail": "Recluta a Arcángel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/BBBF8D25521C766DC571EAFF61AAABBB8143EA5D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "El Profesor",
+      "trophyDetail": "Recluta al profesor",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/E4EB403C87707C70E5534F9E98898EE18FD12BFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La Quariana",
+      "trophyDetail": "Recluta a la quariana",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/671B0EC05F15731A297220487340D552350E5C56.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La Justiciera",
+      "trophyDetail": "Recluta a la justiciera",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/5C133425578F9536B0B4B8553BAD3832AAB989CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "El Asesino",
+      "trophyDetail": "Recluta al asesino",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/144F7FD36E89C05A885698AFA2093C7AE38C6659.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defensa colonial",
+      "trophyDetail": "Defiende una colonia humana de un ataque",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/28D007779C2CE7B3DB542489CF80D67518A0E179.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La Pródiga",
+      "trophyDetail": "Gánate la lealtad de la oficial de Cerberus",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/D6096E6DB6FFD265AAEC248B894CAEFF14FE0730.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La sombra del padre",
+      "trophyDetail": "Gánate la lealtad del operativo de Cerberus",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/2802BBBB9798B55D67B681F5906CFD45195DD9AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Catarsis",
+      "trophyDetail": "Gánate la lealtad de la convicta biótica",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/DC135C606F6D193A08594986D2BA6F37A543BD9A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Señor de la guerra",
+      "trophyDetail": "Gánate la lealtad del krogan",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/C96CCB6F63D99952B71BCEE39D33CCA2A59ECBD4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Agarra a ese fantasma",
+      "trophyDetail": "Gánate la lealtad de Arcángel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/B24F7DE10629F9E763BA1C2FE9BC446AF002F488.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La cura",
+      "trophyDetail": "Gánate la lealtad del profesor",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/428067D3B676F10C00E4FCE2E166EDD6840F4ADA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Traición",
+      "trophyDetail": "Gánate la lealtad de la quariana",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/DB75FC9E3EE5D280109894835030C6530B188F3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Espíritu de cambio",
+      "trophyDetail": "Ayuda a la justiciera a llevar a cabo su misión",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/13D9C9B206C49A71872C3504924927302E2823A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Desatención paterna",
+      "trophyDetail": "Gánate la lealtad del asesino",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/EFCD559D6A02C6BC91EF7BA544DE9C14E2E7D0EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amigo o enemigo",
+      "trophyDetail": "Consigue la tecnología geth",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/EB6A3845A16F627A841B26E9CFEBBC7E834D188D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Una casa dividida",
+      "trophyDetail": "Piratea un colectivo geth",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/6C0738F6F489F1E9E10FE7BAB3397987A2D19144.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nave fantasma",
+      "trophyDetail": "Completa la investigación del pecio alienígena abandonado",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/4D92698975441321C6B11B11CFC958BD8E5DD171.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Misión suicida",
+      "trophyDetail": "Usa el relé de Omega 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/467ED5E06E1B02C3036F3C062A4960B60014F235.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Misión cumplida",
+      "trophyDetail": "Salva a toda la humanidad de la galaxia de una aniquilación segura",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/B6D42A9EE5700E80E6BCAC50DF992FD54733E5C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Contra todo pronóstico",
+      "trophyDetail": "Sobrevive a la misión suicida",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/5227007408CB37CD40F0C2DC54EFE1DD1512C78D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Locura",
+      "trophyDetail": "Completa el juego en el nivel de dificultad \"Locura\" sin cambiar el ajuste",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/EEB4B50E15A75655D65DE1A5B6030D693FA4EA11.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "No abandonamos a nadie",
+      "trophyDetail": "Mantén vivo al equipo durante la misión suicida",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/B37492F8DB558C2CCC598B4D86AAB37387A80760.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Medalla al servicio prolongado",
+      "trophyDetail": "Completa Mass Effect 2 dos veces, o una vez con un personaje importado de Mass Effect 1",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/DA3DD819B225CF40FC64AF9AB05442D313157A24.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Amante",
+      "trophyDetail": "Mantén una relación con un compañero o compañera",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/5DDA473D60B1E05C8ECCBD66DEEDBE2BB363EEFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rompecocos",
+      "trophyDetail": "Consigue 30 bajas humanoides con tiros en la cabeza con cualquier arma",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/4620D6E259E31E12BF53F8B76387B119843D3A9A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Luchador",
+      "trophyDetail": "Dispara y mata a 20 enemigos después de tumbarlos de un puñetazo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/3C8BABDD3BD8A0F80A58720289321B6391098296.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Caza mayor",
+      "trophyDetail": "Derrota a las fauces trilladoras",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/4A503462CEA841C8680202EB102B9F5B4A4F4DD1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Táctico",
+      "trophyDetail": "Alcanza a 20 blancos distintos con varios poderes bióticos para combinar los efectos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/C3527A2C3E635878AED6845F7681ED98ED506D68.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maestría de armas",
+      "trophyDetail": "Mata enemigos con 5 armas pesadas diferentes durante el juego",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/25FF5DE674E1A2755ACEE1A2F76C354AE7052D87.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Implacable",
+      "trophyDetail": "Haz chillar a 20 enemigos cuando caigan o se quemen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/35B4A50BA069E44DDAA8B944F7A8D408F3261FE8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Especialista en Sobrecarga",
+      "trophyDetail": "Neutraliza los escudos de 25 enemigos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/73564C430305BA30BDB339AE4A305303A099E2BD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Especialista en Alteración",
+      "trophyDetail": "Altera las barreras de 25 enemigos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/3E89E36302A9B68102A7FC81326D15065CE2298F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Especialista en Incineración",
+      "trophyDetail": "Incinera la armadura de 25 enemigos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/E7DFC09CCD91939A2A2C52E85B7C2B962FA28BAA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operativo",
+      "trophyDetail": "Completa una misión descubierta al analizar un planeta inexplorado",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/E0A9AB334F9EB30F0487E971523E69E1BE167845.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Agente",
+      "trophyDetail": "Completa 5 misiones descubiertas al analizar planetas inexplorados",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/9AF66866260E9E06BA0492A4CBA8E15030548509.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prospector",
+      "trophyDetail": "Consigue recursos minerales tras analizar y sondear un planeta del mapa galáctico",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/4A20C49AD4F52F4F62C869204C15238FBC0533AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explorador",
+      "trophyDetail": "Visita el 100% de los planetas de un cúmulo inexplorado",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/80EBDC39358A89722A34482E98EA10D6FA5F469D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Jugador de primera",
+      "trophyDetail": "Alcanza el nivel 30 con un personaje",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/9BA7E98F7B8C26547E1C667926D380D1BE39ECE8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Erudito",
+      "trophyDetail": "Desbloquea 15 nuevas entradas del Códice de Mass Effect 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/944B0733CBD37A8FB6C3A8B0EC27E3F41448DFD2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Técnico",
+      "trophyDetail": "Consigue 10 mejoras tecnológicas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/23EDFBAB47D3876F5C1CCD81F490F6BEBF74796D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Especialista en arma",
+      "trophyDetail": "Mejora por completo un arma",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/B9F281D11E66DBE6B384C65BA8B568F18720221C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Científico",
+      "trophyDetail": "Completa cualquier proyecto de investigación en el laboratorio de la Normandía",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/45ED3F46E8BFD3501B01789411767F57305FEE9F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A la moda",
+      "trophyDetail": "Personaliza tu armadura",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/78018462A4EDCA6DAE93160389585F3AD768AFBF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Poderoso",
+      "trophyDetail": "Desarrolla cualquier poder",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/BF1C4B4A64AAFB82FF789EE276954F45CFE8BA17.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Corazón de tinieblas",
+      "trophyDetail": "Enfréntate al Corredor Sombrío.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/A8D9FF4B9F2806FA4D79A25C991FC16596F37688.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Roto, ciego y desquiciado",
+      "trophyDetail": "Gana la lealtad de la ladrona",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/A66E3CCCEAC0D4C83000859A1E29CE487BA18026.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rastreador de datos",
+      "trophyDetail": "Recoge los 6 paquetes de datos de Cerberus diseminados por Aite",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/D125A7A0CB4A21C49E894C59B6B1A052B2D5B5DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exorcismo Digital",
+      "trophyDetail": "Desactiva el programa no autorizado de IV del Proyecto Overlord",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/16261ABF209E87464D0F39E8852CEFB2BB1213AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Venganza!",
+      "trophyDetail": "Gánate la lealtad del mercenario. (Contenido descargable: \"Paquete de Cerberus\")",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/61ABB30827210ED9DFC239E8764F599092173A6F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "El mayor sacrificio",
+      "trophyDetail": "Completa el contenido descargable de Llegada (contenido descargable \"Llegada\")",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/5FA70183F0D25D0B5BFC5D74862C63A0951F5A80.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hasta el final",
+      "trophyDetail": "Sobrevive a las cinco oleadas de la batalla por el Objeto Rho (contenido descargable \"Llegada\")",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/A0B4571917135ED3E8D40C633DF94788668C7436.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Acción encubierta",
+      "trophyDetail": "Rescata a la doctora Amanda Kenson sin llamar la atención de los enemigos (contenido descargable \"Llegada\")",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/B03CFAB85F41C3CB075F8989CF5B4EC6385945C1.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 59
+}

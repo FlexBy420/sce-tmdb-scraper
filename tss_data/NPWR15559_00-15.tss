@@ -1,0 +1,54 @@
+{
+    "version": 4,
+    "progression": {
+        "multiplier": 1,
+        "version": 2
+    },
+    "matchmaking": {
+        "options": {
+            "search_time": 120
+        }
+    },
+    "voting": {
+        "next_track_voting_timer": 8.0
+    },
+    "game_balance": {
+        "canned_events": true
+    },
+    "game_session_config": {
+      "prediction": {
+        "extrapolationOffset": -0.007,
+        "teleportRange": 3.0,
+        "teleportTime": 0.2,
+        "interpPosition": 0.150,
+        "interpOrientation": 0.150,
+        "interpVelocity": 0.125,
+        "interpAngVelocity": 0.125
+      },
+      "clockParameters": {
+        "useUnsmoothedAdjustment": true,
+        "useHistogramOverAdjustments": true,
+        "enableLowVarianceLock": false
+      }
+    },
+    
+    "beta": {
+      "enabled":false,
+      "message":"The F1 2018 Closed Beta is now open! Please check out the private beta forum for notes on what to test and how to report issues:\nhttp://forums.codemasters.com/categories/f1beta-general-discussion\n\nIf you are unable to access the beta forum, please contact our support team at f1beta@codemasters.com.",
+      "message_closed":"The F1 2018 Beta is now closed. Thank you for all of your help in testing this product!",
+      "blacklist_steam":["76561198019874496"],
+      "blacklist_psn":["2284978957241867431", "1234938024172953162", "2636989880544941981"],
+      "config": {
+        "game_modes": [ "custom_2017", "online_custom_2017" ],
+        "enableClassicEra": false,
+        "enableSOC": false,
+        "enableQuick": false,
+        "enableSafetyCar": true,
+        "enableFormationLap": false,
+        "enableSessionPrivacy": true
+      }
+    },
+    
+    "trace_channels": [
+    ]
+}

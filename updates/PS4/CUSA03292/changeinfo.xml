@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+    * Fixed stomper collision: you now get knocked out of harm's way rather than taking continuous damage
+    * Fixed damage effect for off-screen sandcrawler gun turrets
+    * Multiplier now correctly resets after expiring
+    * Fixed graphical glitches in Sarlacc
+    * Fixed time and fuel it takes to reach the Sandcrawler and Mos Eisley
+    * Corrected thermal detonator's effect on environmental objects
+    * Fixed player action getting stuck momentarily when certain bosses spawned
+    * Added SLOWDOWN Option (see manual) to simulate the average reduced speed of game play in side-view levels due to hardware slow down in the original 1992 game
+    * Adjusted slide distance to simulate effects of slowdown on original hardware
+    * Updated game credits
+    ]]>
+  </changes>
+</changeinfo>

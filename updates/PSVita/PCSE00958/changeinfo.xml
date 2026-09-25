@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.03">
+    <![CDATA[
+    <ul>
+    <li>Added new netcode options
+    <li>Host's language now shows on Multiplayer Search Results
+    <li>New selection menu for Rankings
+    <li>Added "Top" and "Me" to Rankings view
+    <li>Now makes a sound when someone joins your hosted room
+    <li>Fix scroll wrapping in Controls Menu
+    <li>Support touch screen
+    <li>Cosmetic UI fixes
+    <li>Fix rare issues when sync'ing online stats
+    </ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[
+	<ul>
+    <li>Improved network error/state messaging</li>
+    <li>Text improvements</li>
+    <li>Local game play now in Japanese if system language is Japanese</li>
+    <li>Improve input lag for local and online play</li>
+    <li>Fix potential desync when DEMO CUT options didn't match between Host and Guest</li>
+    </ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.01">
+    <![CDATA[
+	<ul>
+    <li>Fix menu problem if you tried to back out of error message when there's not enough space to save your profile data.</li>
+    <li>Will now prompt before deleting damaged save data.</li>
+    <li>Improved error messaging.</li>
+    <li>Fix problem where game could get stuck if you tried to start an online match before cross-save completed.</li>
+    <li>Remove black screen after attempting to go online with an underage account.</li>
+    <li>Fix typo in Tizoc's move list.</li>
+    <li>Adjusted font for legibility.</li>
+    <li>Fixed problems transitioning between ad hoc and online matches.</li>
+    <li>Fixed electronic manual.</li>
+    </ul>
+    ]]>
+  </changes>
+</changeinfo>

@@ -1,0 +1,23 @@
+<scripts_config.xml>
+    <authmEntryPoint> af451790-ad4b-4b49-9ef0-bed0f0766750 </authmEntryPoint>
+    <server>
+        <dev>
+            <host alias="RETAIL" csis="https://csis-lg.wowslegends.com/csis/navyxlg/" transport="dtls" authmEntryPoint="af451790-ad4b-4b49-9ef0-bed0f0766750" platform="psn">
+			<master addr="login-1.wowslegends.com:20020"/>
+            <master addr="login-2.wowslegends.com:20020"/>
+			</host>
+        </dev>
+        <cert>
+            <host alias="RETAIL" csis="https://csis-lg.wowslegends.com/csis/navyxlg/" transport="dtls" authmEntryPoint="af451790-ad4b-4b49-9ef0-bed0f0766750" platform="psn">
+			<master addr="login-1.wowslegends.com:20020"/>
+            <master addr="login-2.wowslegends.com:20020"/>
+			</host>
+        </cert>
+        <live>
+            <host alias="RETAIL" csis="https://csis-lg.wowslegends.com/csis/navyxlg/" transport="dtls" authmEntryPoint="af451790-ad4b-4b49-9ef0-bed0f0766750" platform="psn">
+			<master addr="login-1.wowslegends.com:20020"/>
+            <master addr="login-2.wowslegends.com:20020"/>
+			</host>
+        </live>
+    </server>
+</scripts_config.xml>

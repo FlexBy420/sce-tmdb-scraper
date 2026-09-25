@@ -1,0 +1,19 @@
+{
+	"version": {
+		"major": 1,
+		"minor": 0,
+		"micro": 0
+	},
+	"online_services": {
+		"shippingretail": {
+			"hydra": {
+				"endpoint": "https://services.bethesda.net/agora_hydra",
+				"apiKey": "bc90b97f08e1469caef7f96eae4d534b"
+			},
+			"profanityFilter": {
+				"endpoint": "https://services.bethesda.net/",
+				"apiKey": "4084670e82ccc4ab9e398b7b4bfe245b"
+			}
+		}
+	}
+}

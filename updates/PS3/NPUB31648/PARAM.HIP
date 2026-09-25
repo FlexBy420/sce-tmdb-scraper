@@ -1,0 +1,3 @@
+-Fixed an issue where the game would occasionally halt.
+-Fixed an issue where occasionally the character would die on hitting bouncers.
+-Fixed an issue where certain stats were not being stored properly.

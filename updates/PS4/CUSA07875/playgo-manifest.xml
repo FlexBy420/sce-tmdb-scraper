@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<psproject fmt="playgo-manifest" version="0990">
+  <volume>
+    <chunk_info chunk_count="33" scenario_count="2">
+      <scenarios default_id="0">
+        <scenario id="0" type="sp" initial_chunk_count="21" label="sp-first">0-3 18-31 4-17 32</scenario>
+        <scenario id="1" type="mp" initial_chunk_count="19" label="mp-first">0-3 18-32 4-17</scenario>
+      </scenarios>
+    </chunk_info>
+  </volume>
+</psproject>

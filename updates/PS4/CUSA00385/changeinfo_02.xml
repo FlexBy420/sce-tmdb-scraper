@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.02">
+    <![CDATA[
+* Ajout du support du chinois traditionnel.
+* Problème corrigé : rare plantage qui survenait après un long temps de jeu.
+* Problème corrigé : rare plantage dans les menus.
+* Problème corrigé : le store était parfois vide après avoir appuyé sur le bouton Contenu téléchargeable depuis le menu principal.
+* Problème corrigé : les sauvegardes étaient parfois désactivées après avoir acheté le jeu complet depuis la version d'essai.
+* Problème corrigé : deux interactions apparaissaient sur le Capili après lui avoir donné la pelle dans le monastère.
+* Problème corrigé : le Golem n'apparaissait parfois pas.
+* Problème corrigé : Igniculus ne pouvait pas aveugler des ennemis si le joueur gardait le joystick gauche orienté vers la gauche ou la droite pendant la transition vers un combat.
+* Problème corrigé : Igniculus pouvait être bloqué en activant un élément de puzzle avec l'écran tactile.
+* Les noms des modes de jeu Facile et Difficile sont maintenant Explorateur et Expert.
+* Problème corrigé : les contrôles pour Igniculus en mode 1 joueur affichaient la mauvaise manette.
+* Améliorations de l'affichage de Nox.
+    ]]>
+  </changes>
+  <changes app_ver="01.01">
+    <![CDATA[
+* Problème corrigé : de rares plantages survenaient en début de combat.
+* Problème corrigé : l'option "Contenu téléchargeable" ne fonctionnait pas correctement.
+* Problème corrigé : en jouant à la version d'essai avec un compte Uplay associé, l'ouverture du menu en appuyant sur OPTION débloquait les récompenses Uplay.
+* Problème corrigé : une erreur survenait quand l'utilisateur sélectionnait l'option "Déverrouiller le jeu complet" depuis le menu principal.
+* Problème corrigé : si l'utilisateur quittait le jeu au cours d'une scène cinématique, celle-ci ne se relançait pas à son retour dans le jeu (Medusa).
+* Problème corrigé : dans le monastère, après le déplacement de la boîte pour déclencher l'énigme et la sélection de l'option "Continuer" après la sauvegarde automatique, le joueur ne pouvait plus progresser.
+* Problème corrigé : au cours des combats, l'icône de l'ennemi sélectionné s'animait dans la barre d'action même quand la partie était en pause.
+* Problème corrigé : la carte de Lemuria se débloquait quand l'utilisateur fuyait à deux reprises le combat contre l'ennemi Medusa (dans le puits).
+* Problème corrigé : après fermeture et redémarrage du jeu, le joueur était plongé en plein combat juste après sa réapparition.
+* Problème corrigé : un coffre manquait dans la zone cachée de la région des moulins à vent.
+* Problème corrigé : Aurora tombait hors de la carte quand elle arrivait pour la deuxième fois au Palais de Lemuria depuis la carte de Lemuria et après avoir vaincu la Reine Noire.
+* Problème corrigé : dans la version d'essai, la marque commerciale SCE était utilisée, mais l'avertissement légal ne s'affichait pas.
+* Problème corrigé : la musique de combat se faisait entendre à l'ouverture du menu associé à la touche PS.
+* Problème corrigé : un morceau de musique jouait en boucle dans le puits une fois un certain ennemi vaincu.
+* Problème corrigé : un son se faisait entendre en boucle pendant un combat se déroulant à l'extérieur du monastère.
+* Problème corrigé : du texte dépassait du cadre quand l'utilisateur achetait du contenu téléchargeable depuis le jeu.
+* Problème corrigé : les messages d'interaction avec Gen et Drust ne disparaissaient pas une fois la quête du village piscéen terminée.
+* Problème corrigé : du texte de débogage s'affichait quand l'utilisateur passait les crédits après avoir terminé l'aventure.
+* Problème corrigé : pendant les combats, les animations se s'interrompaient pas lors de l'affichage du menu Pause.
+* Ajout d'une option permettant de désactiver le didacticiel dans le menu Options.
+* Problème corrigé : l'écran "Niveau supérieur" pouvait se réinitialiser en cas de pause et de retour au jeu à un moment précis.
+* Problème corrigé : des défauts graphiques affectaient parfois Nox dans le Palais du soleil.
+* Problème corrigé : une animation était défaillante quand Aurora accélérait.
+* Problème corrigé : pendant les combats, des effets visuels s'interrompaient lors de l'utilisation de plusieurs actions décuplantes et affaiblissantes.
+* Problème corrigé : une erreur de déplacement survenait quand Aurora atterrissait.
+* Problème corrigé : une erreur de transition faisait marcher Aurora dans les airs quand l'utilisateur essayait de passer du vol à la marche.
+* Problème corrigé : une animation de l'ennemi Trunk Crawler tournait en boucle quand l'utilisateur se tenait à proximité.
+* Problème corrigé : une erreur de déplacement survenait quand Aurora pénétrait dans une tour de la région des moulins à vent.
+* Amélioration de l'animation de la chevelure d'Aurora, jeune et adulte.
+* Modification des contours de la tenue d'Aurora, jeune et adulte.
+    ]]>
+  </changes>
+</changeinfo>

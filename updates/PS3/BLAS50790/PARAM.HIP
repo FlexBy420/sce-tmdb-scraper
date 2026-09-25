@@ -1,0 +1,2 @@
+- A new playable character is added.
+- Stability has been enhanced.

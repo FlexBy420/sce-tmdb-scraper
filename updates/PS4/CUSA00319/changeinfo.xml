@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+	New Feature: 3/4-Player-mode
+	- Add support for up to 4 players in local drop-in/drop-out co-op (increased from previous max of 2 players)
+	- Update arena population across game for 3/4P mode
+	
+	General Co-op Enhancements:
+	- Adjust co-op camera positioning in some areas, to provide better view of what's ahead
+	- Update auto-bubble-due-to-long-fall tolerances with custom per-camera-zone settings
+	- Increase general bubble movement speed, for easier un-bubbling
+	- Have players inherit active move of bubble target when un-bubbling
+	- When dimension-swap is blocked by one or more players: Flash blocking players
+	- Update Temple of Rain dimension-swap portals to fail immediately if swap is blocked by another player
+	- Disable low-health warning sound in co-op
+	- Disable Temple of Rain portals for a brief period of time after a dimension swap
+	- In co-op play, normal difficulty, when a player hits insta-kill lava while others are alive, have the player bubble (not die)
+	- Auto-bubble players who try to go back to previous camera zone within 1 second of having exited it in co-op (helps with camera contention issues)
+	- Add subtle "wall slime" indicators to other-dimension hull visuals throughout game, as appropriate
+	
+	Progression Blocker Fixes:
+	- Fix for progression-blocking bug that could occur if players entered Pico, then backtracked to Sierra before obtaining Goat-Fly
+	- Fix for progression-blocking bug that could occur if players quit out during boat sequence of Canal
+	- Fix for progression-blocking bug that could occur if players broke a red uppercut block at the bottom of the Tule Tree from above (resulting in inability to obtain Double-jump later in the level)
+	- Fix for progression-blocking bug in bar in Santa-Luchita (if players quit out and re-loaded in/around bar scene)
+	- Fix for progression-blocking bug that could occur if you quit after the forced progression arena in Pico de Gallo
+	- Fix for progression-blocking bug where players could in some circumstances load into the chicken-only portion of the Desert as a human
+	
+	Other Bug fixes:
+	- Fix for soft-lock that could occur in El Trio boss battle
+	- Fix for noticeable delay/latency when opening or closing pause menu (Note: This latency seems to be related to a system update that was released after the game's launch)
+	- Fix for Camposanto side-quest re-playing final door-opening sequence after quest is complete
+	- Fix for soft-lock bug where elite enemies sometimes fail to re-appear after teleporting out
+	- Fixes to errors with fading geo in IAMERROR's house
+	- Fix for misaligned damage-zone in Pico de Gallo hard mode
+	- Fix for calibration screen healing you fully
+	- Fix for Calaca Red Shield Shine moving too fast
+	- Fix for (rare) controller-assignment-change soft-lock
+	- Fix for soft-lock when player countdown ends mid Flame Face fight (co-op only)
+	- Fix for soft-lock that could occur around falling stalactite in Canal level (co-op only)
+    ]]>
+  </changes>
+    <changes app_ver="01.02">
+    <![CDATA[
+	Bug Fix: Fix for crash that can occur if you die repeatedly while fighting the final boss in co-op
+    ]]>
+  </changes>
+  <changes app_ver="01.03">
+    <![CDATA[
+	- Added support for new costumes 
+    ]]>
+  </changes>
+</changeinfo>

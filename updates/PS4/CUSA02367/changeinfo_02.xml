@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+Le correctif comprend des données de doublage pour le français et l’allemand.
+    ]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[
+GROS CHANGEMENTS/MISES À JOUR/NOUVELLES FONCTIONNALITÉS
+
+- Correction de problèmes liés à la VOIP, rendant désormais le système opérationnel
+    * Le chat vocal a été grandement optimisé, permettant aux joueurs de rejoindre, quitter ou gérer les canaux plus facilement. L’interface utilisateur de la VOIP a également été mise à jour pour être plus cohérente.
+
+- Modification des instances de l’UserID et des noms de personnages, afin de toujours afficher l’ID en ligne.
+    * L’affichage de l’interface de groupe est désormais plus robuste et intègre l’ID en ligne.
+
+- Les réglages sont désormais sauvegardés lorsque vous sortez du menu
+    * Les options et réglages de l’interface utilisateur devraient persister, et de nombreux correctifs améliorent le fonctionnement de ces réglages.
+
+- Meilleure intégration des fonctions sociales
+- Correction de plantages
+
+
+CORRECTIONS ET AMÉLIORATIONS
+
+- Général
+    * Se connecter et se déconnecter du jeu est désormais plus stable.
+    * Les fonctionnalités  "PSN" ont été grandement améliorées, permettant l’intégration de l’ID en ligne, la protection de l’installation, la vérification des commandes et de la stabilité ainsi que plusieurs correctifs de plantage.
+
+- Audio
+    * Ajout et amélioration de sons dans un grand nombre d’écrans.
+    * Correction d’un problème entrainant parfois une disparition de l’audio.
+
+- Performances
+    * Amélioration des performances des effets de particules et de leur animation.
+    * La cinématique d’intro devrait désormais être plus fluide.
+    * De nombreuses fuites de mémoire et de saccades ont été résolues un peu partout.
+    * Plusieurs mises à jour de quêtes et de donjons améliorant les performances et réduisant le lag.
+
+- Social
+    * Les canaux de communication de guilde devraient être plus efficaces et intuitifs. 
+    * Les outils de gestion de guilde sont plus stables et proposent d’avantage de fonctionnalités.
+
+- Didacticiels
+    * Correction d’un nombre de bugs qui faisaient que les didacticiels ne se lançaient pas.
+    * Ajout de didacticiels textuels.
+
+- Interface Utilisateur
+    * Amélioration de la localisation de nombreux écrans d’interface en français et en allemand.
+    * Correction de quelques troncations de succès et de trophées.
+    * Amélioration de l’interface de recherche de groupe.
+    * Un bon nombre de messages et de codes d’erreurs sont désormais plus compréhensibles.
+    * Les mentions légales sont désormais plus faciles à lire.
+    * les écrans de l’interface de la Guerre d’Alliances sont plus faciles à naviguer et affichent plus d’informations.
+    * La charte graphique des interactions avec les PNJ et les livres a été unifiée.
+    * Correction de nombreux problèmes de plantages et de gel de l’écran de création de personnages.
+    * Correction de nombreuses erreurs dans l’interface d’artisanat et amélioration de son affichage.
+    * Peaufinage de la transition du menu manette afin qu’il soit plus fluide et fiable.
+    * Mise à jour de nombreuses interfaces (Compétences, Synergies, Points de Champion).
+    * Ajout de protections empêchant les joueurs de se faire verrouiller pour cause de spam  accidentel.
+    * Correction de nombreuses erreurs de l’Interface Utilisateur concernant la gestion d’inventaire, l’échange et les marchands.
+    ]]>
+  </changes>
+</changeinfo>

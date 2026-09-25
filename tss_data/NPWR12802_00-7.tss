@@ -1,0 +1,381 @@
+{
+  "revision": 4,
+  "settings": [
+    {
+      "name": "Weekend Format",
+      "values": [
+        {
+          "name": "Full Q 50% Race",
+          "codename": "week-fq50pr",
+          "weights": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "Short Q 50% Race",
+          "codename": "week-sq50pr",
+          "weights": [
+            -30,
+            -20,
+            0,
+            20,
+            10,
+            0
+          ]
+        },
+        {
+          "name": "One-Shot Q 50% Race",
+          "codename": "week-1q50pr",
+          "weights": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "50% Race",
+          "codename": "week-50pr",
+          "weights": [
+            -30,
+            0,
+            0,
+            20,
+            -10,
+            0
+          ]
+        },
+        {
+          "name": "Full Q 25% Race",
+          "codename": "week-fq25pr",
+          "weights": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "Short Q 25% Race",
+          "codename": "week-sq25pr",
+          "weights": [
+            -10,
+            -15,
+            0,
+            10,
+            10,
+            0
+          ]
+        },
+        {
+          "name": "One-Shot Q 25% Race",
+          "codename": "week-1q25pr",
+          "weights": [
+            -5,
+            -10,
+            0,
+            10,
+            10,
+            0
+          ]
+        },
+        {
+          "name": "25% Race",
+          "codename": "week-25pr",
+          "weights": [
+            -5,
+            10,
+            0,
+            10,
+            -10,
+            0
+          ]
+        },
+        {
+          "name": "One-Shot Q 5 Lap Race",
+          "codename": "week-1q5lr",
+          "weights": [
+            20,
+            -20,
+            0,
+            -10,
+            10,
+            0
+          ]
+        },
+        {
+          "name": "5 Lap Race",
+          "codename": "week-5lr",
+          "weights": [
+            20,
+            5,
+            0,
+            0,
+            -20,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weather",
+      "values": [
+        {
+          "name": "Heavy Rain",
+          "codename": "atm-hrain",
+          "weights": [
+            0,
+            0,
+            -20,
+            0,
+            0,
+            20
+          ]
+        },
+        {
+          "name": "Dynamic",
+          "codename": "atm-dyn",
+          "weights": [
+            0,
+            0,
+            -20,
+            0,
+            10,
+            30
+          ]
+        },
+        {
+          "name": "Clear",
+          "codename": "atm-clear",
+          "weights": [
+            5,
+            0,
+            30,
+            0,
+            0,
+            -20
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Damage",
+      "values": [
+        {
+          "name": "Simulation Damage",
+          "codename": "dam-sim",
+          "weights": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "Full Damage",
+          "codename": "dam-norm",
+          "weights": [
+            0,
+            0,
+            -30,
+            -4,
+            3,
+            20
+          ]
+        },
+        {
+          "name": "Reduced Damage",
+          "codename": "dam-low",
+          "weights": [
+            0,
+            0,
+            0,
+            -3,
+            0,
+            10
+          ]
+        },
+        {
+          "name": "No Damage",
+          "codename": "dam-off",
+          "weights": [
+            0,
+            0,
+            15,
+            -2,
+            -3,
+            -15
+          ]
+        },
+        {
+          "name": "No Collisions",
+          "codename": "dam-nocoll",
+          "weights": [
+            7,
+            0,
+            10,
+            0,
+            -15,
+            -30
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Corner Cutting",
+      "values": [
+        {
+          "name": "Normal",
+          "codename": "cc-norm",
+          "weights": [
+            0,
+            5,
+            20,
+            0,
+            -5,
+            -5
+          ]
+        },
+        {
+          "name": "Strict",
+          "codename": "cc-strict",
+          "weights": [
+            0,
+            -5,
+            -5,
+            0,
+            5,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Race Starts",
+      "values": [
+        {
+          "name": "Automatic",
+          "codename": "rs-off",
+          "weights": [
+            0,
+            10,
+            20,
+            0,
+            0,
+            -5
+          ]
+        },
+        {
+          "name": "Manual",
+          "codename": "rs-on",
+          "weights": [
+            0,
+            0,
+            -5,
+            0,
+            10,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Parc Ferme",
+      "values": [
+        {
+          "name": "Relaxed",
+          "codename": "pf-off",
+          "weights": [
+            0,
+            10,
+            10,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "Enforced",
+          "codename": "pf-on",
+          "weights": [
+            0,
+            0,
+            0,
+            0,
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Formation Lap",
+      "values": [
+        {
+          "name": "Off",
+          "codename": "fl-off",
+          "weights": [
+            5,
+            0,
+            0,
+            5,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "On",
+          "codename": "fl-on",
+          "weights": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Safety Car",
+      "values": [
+        {
+          "name": "Off",
+          "codename": "sc-off",
+          "weights": [
+            0,
+            10,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "On",
+          "codename": "sc-on",
+          "weights": [
+            -5,
+            0,
+            0,
+            0,
+            10,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

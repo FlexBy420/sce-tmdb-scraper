@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TSS>
+	<CUSA09075_00>
+		<CountryCode default="jp,hk,sg,my,id,th,kr,tw"></CountryCode>
+		<jp default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.jp.playstation.com/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</jp>
+		<hk default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/cht-hk/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</hk>
+		<sg default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-sg/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</sg>
+		<my default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-my/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</my>
+		<id default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-id/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</id>
+		<th default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-th/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</th>
+		<kr default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.playstation.co.kr/psn/psplus"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</kr>
+		<tw default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/cht-tw/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</tw>
+		<Other>
+			<Period>
+				<PublishBegin default="636414300000000000"></PublishBegin>
+				<PublishEnd default="636467004000000000"></PublishEnd>
+			</Period>
+			<!-- 広告情報 -->
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.jp.playstation.com/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+			<LoginBonus>
+				<!-- スペシャルボーナス -->
+				<SpecialBonus>
+					<LotteryLimit default="636388380000000000"></LotteryLimit>
+					<Lottery default="636397884000000000"></Lottery>
+					<WinnerNotice default="636397884000000000"></WinnerNotice>
+					<WinnerSend default="636423804000000000"></WinnerSend>
+				</SpecialBonus>
+				<!-- ボーナス一覧 -->
+				<!--
+				<Day0 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="1-39"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="1,1,0,193793"></Unlock0>
+						<Unlock1 default="10,1,0,147911"></Unlock1>
+						<Unlock2 default="16,1,0,39125"></Unlock2>
+					</NotPlusName>
+				</Day0>
+				-->
+				<Day0 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="1-17"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="7,1,0,59500"></Unlock0>
+						<Unlock1 default="7,2,59500,18000"></Unlock1>
+						<Unlock2 default="7,3,77500,60000"></Unlock2>
+						<Unlock3 default="7,4,137500,6000"></Unlock3>
+						<Unlock4 default="7,5,143500,41737"></Unlock4>
+					</NotPlusName>
+				</Day0>
+				<Day6 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>JAPAN Studio 音楽祭「トロ」その１</JPN>
+							<ENG>JAPAN Studio Music Festival&#xA;Toro NO.1</ENG>
+							<CHS>JAPAN Studio Music Festival Toro NO.1</CHS>
+							<CHT>JAPAN Studio Music Festival Toro NO.1</CHT>
+							<KRA>JAPAN Studio Music Festival Toro NO.1</KRA>
+						</REPSTR>
+						<StringLabel default="JS2DBON000000001"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="8,1,0,79000"></Unlock0>
+						<Unlock1 default="8,2,79000,151000"></Unlock1>
+						<Unlock2 default="8,3,230000,52325"></Unlock2>
+					</NotPlusName>
+				</Day6>
+				<Day13 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>JAPAN Studio 音楽祭「トロ」その2</JPN>
+							<ENG>JAPAN Studio Music Festival&#xA;Toro NO.2</ENG>
+							<CHS>JAPAN Studio Music Festival Toro NO.2</CHS>
+							<CHT>JAPAN Studio Music Festival Toro NO.2</CHT>
+							<KRA>JAPAN Studio Music Festival Toro NO.2</KRA>
+						</REPSTR>
+						<StringLabel default="JS2DBON000000002"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="9,2,154500,70000"></Unlock0>
+						<Unlock1 default="9,3,224500,95500"></Unlock1>
+						<Unlock2 default="9,4,320000,38421"></Unlock2>
+					</NotPlusName>
+				</Day13>
+				<Day20 default="enable">
+					<Icon default="bronze"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>JAPAN Studio 音楽祭「キトゥン」白</JPN>
+							<ENG>JAPAN Studio Music Festival&#xA;Kat White</ENG>
+							<CHS>JAPAN Studio Music Festival Kat White</CHS>
+							<CHT>JAPAN Studio Music Festival Kat White</CHT>
+							<KRA>JAPAN Studio Music Festival Kat White</KRA>
+						</REPSTR>
+						<StringLabel default="JS2DBON000000006"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>JAPAN Studio 音楽祭「キトゥン」黒</JPN>
+							<ENG>JAPAN Studio Music Festival&#xA;Kat Black</ENG>
+							<CHS>JAPAN Studio Music Festival Kat Black</CHS>
+							<CHT>JAPAN Studio Music Festival Kat Black</CHT>
+							<KRA>JAPAN Studio Music Festival Kat Black</KRA>
+						</REPSTR>
+						<StringLabel default="JS2DBON000000005"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day20>
+				<Day34 default="enable">
+					<Icon default="silver"></Icon>
+					<PlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>JAPAN Studio 音楽祭&#xA;「トロ&amp;キトゥン」</JPN>
+							<ENG>JAPAN Studio Music Festival&#xA;Toro &amp; Kat</ENG>
+							<CHS>JAPAN Studio Music Festival Toro &amp; Kat</CHS>
+							<CHT>JAPAN Studio Music Festival Toro &amp; Kat</CHT>
+							<KRA>JAPAN Studio Music Festival Toro &amp; Kat</KRA>
+						</REPSTR>
+						<StringLabel default="JS2DBON000000007"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="PS4Avatar">
+						<REPSTR default="PS4Avatar">
+							<JPN>JAPAN Studio 音楽祭「トロ」その3</JPN>
+							<ENG>JAPAN Studio Music Festival&#xA;Toro NO.3</ENG>
+							<CHS>JAPAN Studio Music Festival Toro NO.3</CHS>
+							<CHT>JAPAN Studio Music Festival Toro NO.3</CHT>
+							<KRA>JAPAN Studio Music Festival Toro NO.3</KRA>
+						</REPSTR>
+						<StringLabel default="JS2DBON000000003"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day34>
+				<Day44 default="enable">
+					<Icon default="gold"></Icon>
+					<PlusName default="PS4Theme">
+						<REPSTR default="PS4Theme">
+							<JPN>JAPAN Studio 音楽祭テーマ</JPN>
+							<ENG>JAPAN Studio Music Festival Theme</ENG>
+							<CHS>JAPAN Studio Music Festival Theme</CHS>
+							<CHT>JAPAN Studio Music Festival Theme</CHT>
+							<KRA>JAPAN Studio Music Festival Theme</KRA>
+						</REPSTR>
+						<StringLabel default="JS2DBON000000008"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<REPSTR default="PS4Avatar">
+							<JPN>JAPAN Studio 音楽祭「トロ」その4</JPN>
+							<ENG>JAPAN Studio Music Festival&#xA;Toro NO.4</ENG>
+							<CHS>JAPAN Studio Music Festival Toro NO.4</CHS>
+							<CHT>JAPAN Studio Music Festival Toro NO.4</CHT>
+							<KRA>JAPAN Studio Music Festival Toro NO.4</KRA>
+						</REPSTR>
+						<StringLabel default="JS2DBON000000004"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</NotPlusName>
+				</Day44>
+			</LoginBonus>
+		</Other>
+	</CUSA09075_00>
+</TSS>

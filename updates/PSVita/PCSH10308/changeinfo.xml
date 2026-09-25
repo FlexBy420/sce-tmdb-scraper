@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.60">
+    <![CDATA[
+      <ul>
+      <li>We introduced a new adaptive difficulty system which will scale with the skill of struggling players. It can be disabled in the settings (and will always be turned off when playing from the Chaos Roots)</li>
+      <li>Challenge menu accessible from the Nexus Computer with notifications</li>
+      <li>Stats menu accessible from the Nexus Computer</li>
+      <li>You can now save during an ongoing game and resume it later on</li>
+      <li>We added a new music option to select your preferred style of music (Dynamic, calm music only, or battle music only)</li>
+      <li>There is now a confirmation before exiting, restarting, or returning to the Tree</li>
+      <li>The Nexus Computer will now display in which Realm you can find specific Expedition Logs</li>
+      <li>We added an option to reduce white fullscreen flashes</li>
+      <li>Peppy will now come to help even if the players already beat the 5th boss (except when playing from the Chaos Roots)</li>
+      <li>Secret rooms are now more likely to spawn in spots where they have the most neighbors</li>
+      <li>Smashing enemies into Realm 6 traps will disable the traps</li>
+      <li>Increased the visibility of secret rooms and made it so perfectly smashing enemies/bullets trigger a more visible hint</li>
+      <li>Removed flickering from the main menu animation</li>
+      <li>Slightly changed the Primordial Ignis to be more visible with total color-blindness</li>
+      <li>Reworked how explosion damages so that weapons such as the cross-grenade deal more consistent damages (cross-grenade has been consequently nerfed)</li>
+      <li>Upgraded our engine for general performance and stability improvements</li>
+      <li>Re-organized challenges to be displayed in a more logical order in the Nexus computer</li>
+      <li>Changed Charged Pack item design to not be mistaken with the a trademarked logo</li>
+      <li>Fixes secret room count sometime not following the rule of "always one secret room, or two if there is only one shop"</li>
+      <li>Fixes World 3 green drop decoration getting out of sync</li>
+      <li>Fixes some World 6 bullets not cleaning after a battle</li>
+      <li>Fixes Plasma saw-bot sometime disappearing for one frame when smashed</li>
+      <li>Fixes Initial Bomb not dropping items</li>
+      <li>Fixes Splat-flies getting stuck into walls (and possibly hidden in green smoke)</li>
+      <li>Fixes spawning enemies being affected by the Tranquilizing mod</li>
+      <li>Fixes a rare crash</li>
+      <li>Fixes Nexus computer spawning upon resuming a save despite not having found it in the first place</li>
+      <li>Fixes enemies activating traps</li>
+      <li>Fixes "triple" jump</li>
+      <li>Fixes accessibility settings sometime having the selection disappearing</li>
+      <li>Fixes pizza gun not working</li>
+      </ul>
+    ]]>
+  </changes>
+</changeinfo>

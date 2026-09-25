@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.02">
+    <![CDATA[
+* Added support for Traditional Chinese.
+* Fixed rare crash when playing for a long time.
+* Fixed rare crash in menus.
+* Resolved the issue of the store sometimes being empty when pressing Downloadable Content from the Main Menu.
+* Resolved the issue of sometimes saves being disabled when buying the full game from the trial.
+* Resolved the issue of two prompts appearing on the Capilli after giving him the shovel in the Monastery.
+* Resolved the issue of the Golem sometimes not appearing.
+* Improved an issue where Igniculus is unable to blind enemies if the player keeps the left stick pointing left or right on the transition to battle.
+* Resolved an issue where Igniculus could get stuck when activating a puzzle element through the touch screen.
+* Changed Normal and Hard mode names to Casual and Expert.
+* Resolved an issue where text read Controller 2 instead of Controller 1 for Igniculus single player controls.
+* Resolved some issues with Nox' appearance.
+    ]]>
+  </changes>
+  <changes app_ver="01.01">
+    <![CDATA[
+* Fixed rare crashes when entering battles
+* Resolved the issue of the ‘Downloadable Content’ option not functionning properly.
+* Resolved the issue that, when playing in Trial mode with Uplay linked account, opening Menu screen by pressing OPTION will unlock Uplay Rewards
+* Fixed an error when selecting the "Unlock full game" option when selected from main menu
+* Resolved an issue of cinematics not triggering again if the game is closed while the cinematic is being played (Medusa)
+* Resolved the issue that, when in the Monastery, the Player is unable to advance when box is moved to puzzle trigger and continue is selected after auto save.
+* Fixed an issue during battles; animation of selected enemy's icon in action barweres displayed even if the game is paused
+* Resolved an issue with the World Map becoming unlocked after fleeing the fight with the Medusa twice (Well Area).
+* Fixed a spawning issue after quitting and relaunching the game; the player would end up going into battle right after respawning.
+* Updated a missing chest in the secret area of the Windmill section
+* Resolved an issue where Aurora falls out of map when arriving to the Palace of Lemuria for a second time from the World Map and after defeating the black queen
+* Resolved the issue when on Trial mode, SCE trade mark is used but legal notice is not displayed.
+* Resolved an issue when battle music could be heard in menu opened by pressing the PS button.
+* Fixed a music loop issue in the Well when defeating a specific enemy.
+* Fixed a looping  sound issue heard in the background of a battle outside of the Monastery
+* Resolved the issue of text overlaping the frame when user buys DLCs from in-game
+* Fixed Gen and Drust's interaction button prompts that would fail to disappear after completing the quest in the Piscean Village.
+* Fixed a Credits issue: Debug text observed when skipping the credits after completing the walkthrough
+* Resolved an issue when entering the Pause Menu during fights where animation would not pause
+* Added an option in the options Menu to turn off the tutorial
+* Fixed an issue with the Level Up screen that could reset if pausing/returning to gameplay at a specific time 
+* Resolved graphical glitches on Nox that can occasionnaly occur in Palace of the Sun
+* Fixed an improper animation of Aurora while dashing
+* Resolved an issue for VFX that stop playing when using multiple buffs and debuffs in battle.
+* Fixed an issue with Aurora in navigation when landing on the ground.
+* Fixed a transition bug where Aurora was seen walking in the air if the player would try to transition while flying.
+* Fixed a looping animation issue with the Trunk Crawler enemy when the player would stand close to it
+* Fixed a navigation issue with Aurora when entering a tower in the Windmill area
+* Polished behavior of Aurora Teen / Adult hair
+* Updated the cloth outline for Aurora Teen and Adult
+    ]]>
+  </changes>
+</changeinfo>

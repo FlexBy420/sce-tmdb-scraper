@@ -1,0 +1,117 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- This XML file defines tuning values, global and debug settings for the VE app -->
+
+<!-- VE Config -->
+<body>
+
+	<!-- DebugSettings are not included in the final release. They are only used for setting debug only features -->
+	<!-- prototype-menu - flag set to 1 to prototype the new main editor menu  -->
+	<DebugSettings 
+		analogpressurestick="1">
+	</DebugSettings>
+	
+	<!-- TuneSettings are used for tune values that are set at runtime -->
+	<TunerSettings>
+
+		<!-- Movement determined by the stick presure 
+				 Pressure is a value from 0.1 to 1.0
+				 firstdelay = is the delay to the next analog movement once the stick is pressed. The goal of the first delay is to allow single frame movement 
+				 easing = The analog stick pressure is sent to the easing function where it smoothed to a curve
+				 scale = the easing result is multipled by a scale factor to give a wider range of movement steps 
+				 movestep is the value that is multiple by the scaled eased value to determin actual pixel movement
+				 the actual function is (easing(pressure) * scale) * movestep = pixels moved by stick when pressed 
+				 timestep is the value that is multiple by the scaled eased value to determin actual time movement
+				 the actual function is (easing(pressure) * scale) * timestep = pixels moved by stick when pressed 
+				 movestep is used on the Commentary and Main Edit screens, timestep is used on the fullscreen -->
+		<AnalogPresureStick 
+			firstdelay="000" 
+			easing="quadinout" 
+			scale="2.0" 
+			movestep="15.0"
+			timestep="800.0"/>
+
+		<!-- Movement determined via an acceleration curve over a fixed period of time. The stick acts as a button, where presses are sent at a fixed duration.
+				 firstdelay = is the delay to the next analog movement once the stick is pressed. The goal of the first delay is to allow single frame movement 
+				 easing = The analog stick pressure is sent to the easing function where it smoothed to a curve
+				 maxmovestep = this is the largest step in pixels that can be moved with a single stick press.
+				 easeinterval = this is the interval of time (in milliseconds) that it taks a pressed stick to accerlate to maximun velocity.
+				 the actual function is (easing(time) * maxmovestep = pixels moved by stick when pressed -->
+		<AnalogKeymaticStick 
+			firstdelay="400" 
+			easing="quadinout" 
+			maxmovestep="18.0" 
+			easeinterval="3000"/>
+
+		<!-- Film segment values 
+				 minfilmclipsize represents the smallest film clip allowed 
+				 maxfilmclipsamplesize represents the point where a large clip will be trimmed to a smaller size -->
+		<Segment minfilmclipsize="1000" minfilmclipsamplesize="5000" maxfilmclipsamplesize="30000"/>
+
+		<!-- Project limits 
+				 maxprojectlengthsecs represents the maximun size in seconds a project can be
+				 maxfilmexportlengthsecs represents the maximun size that is allowed for exporting a movie         
+				 maxfilmsegments represents the maximun number of film segments allowed in the film track (this number does not include film overlay segments)
+				 maxmusicsegments represents the maximun number of music segments allowed in the music track 
+				 maxcommentsegments represents the maximun number of comment segments allowed in the comment track -->
+		<!-- disk budge assume 1GB (1073741824) /download0 -->
+		
+		<!-- maxmusicdiskspacebytes="209715200" -->
+		<ProjectLimits maxprojectlengthsecs="1200" 
+									 maxfilmexportlengthsecs="900" 
+									 maxfilmsegments="40" 
+									 maxfilmtransitionsegments="30" 									 
+									 maxmusicsegments="6" 
+									 maxcommentsegments="10"
+									 maxmusicdiskspacebytes="209715200"
+									 maxcommentarydiskspacebytes="811597824"
+									 maxprojectdiskspacebytes="52428800"/>
+
+		<!-- AudioVideo Values
+				 defaultvolumecommentary is the default volume of the commentary track before adjustment. it is in the range (0, 1.0)
+				 defaultvolumefilm is the default volume of the film track before adjustment. it is in the range (0, 1.0)
+				 commentarygroupname is the name of the commentary volume group, used for specifying which volume group to operate on
+				 filmgroupname is the name of the film volume group 
+				 recordcountdowndelay countdown timer delay before recoding starts (in seconds) -->
+		<AudioVideo
+			defaultvolumecommentary="1.5"
+			defaultvolumefilm="0.8"
+			defaultvolumemusic="0.8"
+			commentarygroupname="commentary"
+			filmgroupname="film"
+			recordcountdowndelay="5"/>
+		
+		<!-- Film Clip Thumbnail sizes -->
+		<Thumbnail width="320" height="180"/>
+
+		<!-- Project Thumbnail sizes ...based on thumbnail export requirements -->
+		<ProjectThumbnail width="440" height="248"/>
+
+		<!-- Music Import -->
+		<!--  maxdiskspacebytes = space a user is allowed for storing imported music in bytes -->
+		<MusicImport maxdiskspacebytes="26214400" importdir="/SHAREfactory/Music"/>
+
+		<!-- Support Audio Formats for importing -->
+		<AudioImportFormats>
+			<AudioFormat id="mp3"/>
+			<AudioFormat id="mp4"/>
+			<AudioFormat id="m4a"/>
+			<AudioFormat id="ogg"/>
+			<AudioFormat id="aac"/>
+			<AudioFormat id="3gp2"/>
+			<AudioFormat id="3gp"/>
+			<AudioFormat id="amr"/>
+		</AudioImportFormats>
+	</TunerSettings>
+	
+	<!-- Supported Game Live Streaming Services -->
+	<StreamingServices twitch="false" ustream="true" nico="false"/>
+
+	<Content>
+		<ContentItem id="2043557663" key="LOCKED-KEY"/>
+		<ContentItem id="1886944052" key="LOCKED-KEY"/>
+		<ContentItem id="281014993" key="LOCKED-KEY"/>
+	</Content>
+</body>
+

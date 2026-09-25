@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.08">
+<![CDATA[
+Contenu ajouté et modifications
+- 4 nouveaux combattants ajoutés : 1 poids bantam femme : Holly Holm ; 2 poids légers : Rafael dos Anjos et Eddie Alvarez ; 1 poids lourd : Anthony Johnson
+- Ajout d’une pénalité sur l’endurance pour toutes les frappes ratées et bloquées
+- Ajout de réactions aux frappes sur tout le corps lors d’une frappe en plein bond
+- Équilibrage de l’endurance pour les bonds
+]]>
+  </changes>
+
+  <changes app_ver="01.07">
+<![CDATA[
+Contenu ajouté et modifications
+- Ajout de 4 combattants légendaires ! 2 en poids lourds : Brock Lesnar et Mark Coleman, 1 en poids lourd-léger : Quinton « Rampage » Jackson et 1 en poids welter : Matt Hughes.
+]]>
+  </changes>
+  
+  <changes app_ver="01.06">
+<![CDATA[
+Contenu ajouté et modifications
+- 3 nouveaux combattants ajoutés : 1 poids léger : Myles Jury, 1 poids moyen : Yoel Romero, et 1 poids lourd : Andrei Arlovski
+
+En ligne
+- Correction d'un problème sur l'écran des stats du combattant dans les championnats en ligne.
+
+Divers
+- Correction de problèmes avec les animations d'inactivité de plusieurs combattants.
+]]>
+  </changes>
+  
+  <changes app_ver="01.05">
+<![CDATA[
+Contenu ajouté et modifications
+- Ajout de trois nouveaux combattants: deux en poids légers (Diego Sanchez et Michael Chiesa) et un en poids welter (Hector Lombard).
+- Ajout de Gegard Mousasi en catégorie poids moyens.
+- Mise en œuvre d'un système d'utilisation de l'endurance pour contrer les combos consécutifs d'un même type de frappe.
+
+Gameplay
+- Résolution d'un problème pouvant provoquer une perte temporaire de fonctionnalité lorsque le joueur réalise un balayage durant les animations de coup de pied.
+- Modification de la réduction de l'endurance en cas de tentatives de relèvement en full mount, back mount et crucifix de soumission, et en rubber guard de domination.
+- Résolution d'un bug exploit relatif aux empêchements de transition en clinch.
+- Ajout d'une pause dans la récupération d'endurance de l'attaquant en cas d'empêchement réussi d'un takedown.
+]]>
+  </changes>
+
+  <changes app_ver="01.04">
+<![CDATA[
+Contenu ajouté et modifications
+- Ajout de deux nouveaux combattants : un en poids welter (Gunnar Nelson) et un en poids moyens (Tim Kennedy).
+- Ajout de Nick Diaz en catégorie poids moyens.
+- Mises à jour des palmarès des combattants.
+- Gameplay – Fonction Finir le combat, version 2.0 – Assénez une volée de coups de poing à votre adversaire lorsqu'il est déséquilibré.
+- Gameplay – Ajout de la possibilité de renverser les takedowns avec une guillotine. Pour ce faire, déjouez une tentative de takedown avec la touche R1 et en orientant le joystick droit vers le bas. Pour utiliser cette fonction, le combattant doit réaliser une guillotine en full guard.
+- Gameplay – Diversification des takedowns en fonction des temps des entrées et des empêchements. Les takedowns parfaits se terminent en half guard et les entrées ou empêchements tardifs se terminent en full guard.
+- Gameplay – Ajout d'une nouvelle transition de side control de soumission à back side mount.
+
+Gameplay
+- Ajout d'animations pour les coups de pied réalisés alors que le combattant est épuisé pendant les phases santé ou que son endurance est faible.
+- Évitements – Au niveau de la procédure, les évitements en arrière sont maintenus plus longtemps pour éviter les frappes. Les propriétés d'échappement des évitements latéraux ont été améliorées.
+- Les frappes interrompent désormais les coups de pied si elles sont réussies tôt durant l'animation de coup de pied.
+- Les évitements et les bondissements coûtent plus en endurance.
+- Réglage des mouvements de quelques combattants.
+- Résolution d'un problème affectant les entrées des empêchements de transition dans certaines positions de clinch.
+- Résolution d'un problème de direction des clinchs.
+- Résolution d'un problème de gel des combattants au sol.
+- Résolution d'un problème de détourage des combattants dans la cage.
+- Corrections – Modification de la logique de priorité au sol et en clinch.
+- Corrections – Modification de la composition des combos de frappes.
+- Corrections – Optimisation des durées de transition en clinch.
+- Corrections – Optimisation des durées des évitements des takedowns.
+- Corrections – Optimisation des durées des parades.
+- Corrections – Optimisation des délais de relèvement par l'arbitre pour augmenter les positions dominantes.
+- Corrections – Modification de la logique de jugement.
+- Corrections – Optimisation de l'endurance.
+
+En ligne
+- Résolution d'un problème affectant les données de sauvegarde hors ligne provoquant la présentation des championnats en ligne.
+
+Divers
+- Résolution d'un problème de prise en charge de certains caractères en langue russe pour les données Origin.
+]]>
+  </changes>
+
+  <changes app_ver="01.03">
+<![CDATA[
+Contenu ajouté et modifications
+- Ajout de trois nouveaux combattants : deux en poids welter (Matt Brown et Mike Pyle) et un en poids lourd (Stipe Miocic).
+- Mises à jour des palmarès des combattants.
+- Gameplay – Ajout : l'arbitre arrête le combat pour KO technique si le combattant en position dominante envoie trop de frappes bloquées sans que son adversaire en position de soumission tente d'améliorer sa position.
+- Gameplay – Ajout : possibilité d'intercepter les pieds lors des parades si l'attaquant a une faible endurance ou des dégâts aux jambes importants lorsqu'il lance son coup de pied. Si le joueur maintient la touche de parade, un takedown est engagé.
+- Gameplay – Ajout : nouvelles transitions de défense debout en Full Guard. Passage du balayage en transition avancée.
+- Gameplay – Ajout  : dégagement d'un back mount pour le combattant en position de soumission.
+- Gameplay – Ajout : provocations manuelles. Appuyez sur les joysticks gauche ou droit pour provoquer l'adversaire.
+- Gameplay – En cas de réussite des takedowns de base avec une seule jambe, le combattant passe désormais en half guard.
+- Online – Ajout de pièces aux championnats. Regardez les vidéos des partenaires dans la section Accueil et gagnez des pièces à convertir en points de saison.
+
+Gameplay
+- Résolution d'un problème permettant au combattant dominant de ralentir les transitions.
+- Correction d'un bug exploit à cause duquel les combattants parvenaient à lancer furtivement un hammer fist lors des animations en postures haute et basse.
+- Correction d'un bug exploit affectant le contrôle latéral à cause duquel les joueurs pouvaient effectuer une frappe après une transition en contrôle latéral.
+- Résolution d'un problème affectant les tentatives déjouées d'interruption de clinch avec la cage.
+- Paramétrage – Augmentation de la vitesse de base des coups de poing pour toutes les catégories de poids.
+- Paramétrage – Diminution de l'agressivité de l'IA. Meilleure prise en compte de l'endurance et du rythme des combats.
+- Paramétrage – Modification de la durée et de la probabilité des phases santé.
+- Paramétrage – Modification de la perte d'endurance suite à des frappes réussies.
+- Paramétrage – Modification des fenêtres d'empêchement des tentatives de diverses transitions au sol, de redressement et de soumission.
+- Paramétrage – Modification de la vitesse des animations pour les frappes qui étaient utilisées de manière abusive en ligne.
+- Ajout d'un délai pour les tentatives de soumission suite à l'échec d'une soumission.
+- Impossible de tenter une soumission lorsque l'attaquant a une endurance minimale.
+- Les combattants peuvent changer de posture lorsqu'ils bloquent.
+- Modifications des attributs de vitesse et de puissance des mains d'Antônio Rogério Nogueira et de Robbie Lawler.
+
+Carrière
+- Résolution d'un problème d'indisponibilité des crucifix en Carrière. Ils sont désormais disponibles avec les nouveaux fichiers de sauvegarde de carrière une fois la transition achetée.
+
+En ligne
+- Les utilisateurs peuvent voir les stats et compétences des combattants depuis l'écran Choix combattant des championnats en ligne.
+- Désactivation de la mise en pause en ligne dans tous les modes en ligne. Les utilisateurs peuvent toujours accéder au menu Pause mais il ne permet plus de mettre le jeu en pause.
+
+Divers
+- Résolution d'un problème de vidéo incorrecte pour le déplacement "Switch kick (GSP)"
+- Résolution d'un problème de plantage lors du paramétrage de la musique de sortie.
+- Résolution d'un problème affectant les dégâts au sol.
+- Garde d'Antônio Rogério Nogueira modifiée en fausse garde.
+- Résolution de divers problèmes affectant les rediffusions.
+]]>
+  </changes>
+
+  <changes app_ver="01.02">
+<![CDATA[
+Contenu ajouté et modifications
+- Ajout de trois nouveaux combattants: deux en poids bantam (TJ Dillashaw et Takeya Mizugaki) et un en poids welter (Tyron Woodley).
+- Mises à jour des palmarès des combattants.
+- Mise à jour du personnage de TJ Dillashaw (champion poids bantam en carrière et combattant par défaut en combat immédiat).
+- Correction du tatouage d'Alexander Gustafsson.
+- Gameplay - Introduction de la possibilité de finir le combat en infligeant des coups supplémentaires lorsque l'adversaire est mis KO.
+- Gameplay - Ajout des sprawls en défense contre les takedowns puissants.
+- Gameplay - Ajout de la possibilité de toucher le gant de l'adversaire au début de chaque round.
+
+Gameplay
+- Nouvelle animation du combattant en position de soumission lorsqu'il tente un balayage en full guard contre un adversaire en posture haute de full guard.
+- Introduction de la possibilité d'interrompre un clinch utilisant la cage en appuyant sur la touche L3.
+- Correction d'un bug exploit du combattant dominant en full mount qui parvenait à lancer furtivement des coups de poing en adoptant une posture haute.
+- Résolution d'un problème d'alignement des bras affectant certains combattants en full mount.
+- Suppression des takedowns puissants et des balayages de contrôle latéraux pour les combattants ne devant pas les avoir.
+- Les variations d'endurance et de dégâts sont désormais définies en fonction du temps accéléré.
+- L'endurance ne se régénère plus si le joueur maintient le blocage.
+- Le joueur reçoit une pénalité d'endurance plus importante lorsqu'il est frappé alors que le blocage est faible.
+- Le combattant dominant en full guard dispose d'une fenêtre plus importante pour renverser le balayage de full guard en position mount. L'animation du balayage est plus longue. 
+- Résolution d'un problème rare de soumission pouvant engendrer un dépassement des seuils.
+- Résolution de problèmes affectant le nombre d'images par seconde durant le jeu.
+- Résolution d'un problème rare empêchant d'effectuer un takedown après avoir déjoué un clinch utilisant la cage.
+- Résolution de problèmes d'affichage survenant lors des KO techniques et soumissions au moment où l'arbitre relève un combattant.
+- Résolution de divers problèmes liés à la physique de jeu.
+- Résolution de divers problèmes d'animation.
+
+Audio
+- Mise à jour du commentaire de Bruce Buffer à propos de Renan Barão.
+
+En ligne
+- Ouverture d'une division Ceinture rouge en championnats.
+- Ouverture d'un tournoi Grand prix sur invitation en championnats.
+- Résolution d'un problème d'affichage des statistiques de classement en ligne par rapport au profil FighterNet.
+- Résolution d'un problème de déconnexion lors des tournois en ligne provoquant la réinitialisation du combattant du joueur.
+- Résolution d'un problème de déconnexions non détectées empêchant le combat d'être comptabilisé dans les Non terminés.
+- Résolution d'un problème de téléchargement des temps forts pendant que la partie est suspendue.
+
+Divers
+- Ajout d'un cadre CLUF dans le menu Extras.
+- Mise à jour du filtrage des vidéos des didacticiels selon les paramètres de langue.
+- Correction d'un problème affectant l'affichage des données Origin dans une langue non prise en charge (elles s'affichaient sous forme de texte non pris en charge).
+- Réduction de la difficulté du combat initial après les didacticiels (le joueur ne peut pas être mis KO lorsqu'il est debout).
+- Correction des icônes Créer un combattant (casquettes et tatouages).
+- Résolution d'un problème rare de SNI d'après-combat incorrecte.
+- Résolution d'un problème rare provoquant des plantages lors des rediffusions.
+- Résolution d'un problème d'affichage du cou des combattants créés avec Game Face.
+]]>
+  </changes>
+
+  <changes app_ver="01.01">
+<![CDATA[
+Gameplay
+- Modification des paramètres de la compétence “Cœur infini” afin qu'elle influe légèrement sur l'endurance.
+- Modification des paramètres des compétences “Tête tremblotante” et “Coups renversants” afin d'en réduire la puissance et de diminuer la probabilité des frappes au foie.
+- Modification des paramètres de la compétence “Dur à cuire” afin d'en réduire la puissance.
+- Modifications générales du système de jeu et du niveau de difficulté.
+- Améliorations de la physique du jeu.
+
+Audio
+- Correction d'une erreur empêchant d'entendre les coups de poing exécutés depuis une position de soumission en tower guard.
+- Ajout d'une fonction manquante de chrono dans le gymnase au sparring de carrière.
+- Correction d'un problème d'annonce erronée de tous les combattants poids welter en catégorie poids moyen, lors de leur victoire en finale de The Ultimate Fighter.
+
+Carrière
+- Ajout d'une fonctionnalité permettant de rester sur le combattant à l'écran “Classement et rendement”. (Précédemment, lors d'un changement d'affichage, la page suivante démarrait au début de la liste.)
+- Résolution d'un problème empêchant le joueur d'appuyer sur les invites d'avancement dans l'entraînement jeu “Tenter une soumission”.
+- Résolution d'un problème de blocage de l'action lié au mauvais placement d'objets à l'extérieur de la cage et devant la caméra, lors des combats dans le gymnase TUF.
+- Résolution d'une erreur d'emplacement de la vidéo montrant les coups de pied violents à la jambe.
+- Suppression de l'option “Coup de pied circ.” qui apparaissait comme verrouillée et non sélectionnable dans l'écran des mouvements.
+- Modifications du mode Carrière.
+
+Divers
+- Ajout d'une fonctionnalité permettant au joueur de supprimer les Temps forts.
+- Ajout d'un écran au menu de pause en jeu, listant les mouvements des deux combattants dans Combat immédiat.
+]]>
+  </changes>
+</changeinfo>

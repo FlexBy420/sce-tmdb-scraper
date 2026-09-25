@@ -1,0 +1,5 @@
+ - Kategorisera bilder och ändra visning för varje bildtyp
+ - Synkronisera med MPF/MPO-filer i XMB™ (XrossMediaBar)
+ - Minska tiden som krävs för uppstart och för att importera bilder
+ - Rotera bilder 90 grader
+ - Se flervinkelbilder i 3D

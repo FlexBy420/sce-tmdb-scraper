@@ -1,0 +1,5 @@
+ - Plaats je foto's in categorieën en kies een weergave voor elk soort foto.
+ - Synchroniseer met MPF/MPO-bestanden in XMB™.
+ - Je kunt nu nog sneller opstarten en foto's importeren.
+ - Draai foto's 90 graden.
+ - Bekijk Multi-Angle-afbeeldingen in 3D.

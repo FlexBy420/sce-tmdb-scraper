@@ -1,0 +1,492 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01747_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Mortal Kombat",
+  "trophyTitleDetail": "Ensemble de trophées pour Mortal Kombat",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/4FB18AFB31BD82D62E01A3BE4A4AD68C4F5F3199.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 34,
+    "silver": 15,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Mortal Kombat",
+      "trophyGroupDetail": "Ensemble de trophées pour Mortal Kombat",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/4FB18AFB31BD82D62E01A3BE4A4AD68C4F5F3199.PNG",
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 15,
+        "gold": 1,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Trophée de platine",
+      "trophyDetail": "Vous avez débloqué tous les trophées !",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/21E66A924D8E67071C4D9AC0004D8010EBFC8CAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Presque !",
+      "trophyDetail": "Finir le mode histoire à 50 %",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/30D9E3618D8B19749FC57206D6894F0C9E325D57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Voyage dans le passé...",
+      "trophyDetail": "Finir le mode histoire à 100 %",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/F5D66F44A418248736D7C9F37379A25AF3AFFA1C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "E pour \"Effort\"",
+      "trophyDetail": "Finir le mode didacticiel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/757BBC2EF49B496F8E7E27CE7197BD84A640590E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fatality !",
+      "trophyDetail": "Exécute une Fatality !",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/241EBDEBD998F2C93123239EE2D453EDA92B7735.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bloque-moi ça !",
+      "trophyDetail": "Exécute un kombo à 10 coups avec un des persos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/197932B6DA573AED98F027E7BB07361FF01C0013.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La Brute",
+      "trophyDetail": "Effectuer tous les coups avant et arrière de chaque personnage dans un mode de combat",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/91B1668C346F288946A39631E35131852AC007F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ascension",
+      "trophyDetail": "Finir l'Ascension avec un des persos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/530F5CDA980F49603E361FD7C4216C4F0FD6F163.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Champion de l'Ascension",
+      "trophyDetail": "Finir l'Ascension avec tous les personnages",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/88A5E9F85D9E05B600B7FEB7D11B0E0B90B50F21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Finis ce que tu as commencé !",
+      "trophyDetail": "Exécute une Fatality avec tous les personnages du jeu",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/65801636FCE1B980234F7BA8ED51946DCC27B14D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Le Compétiteur",
+      "trophyDetail": "Dispute 200 matchs Versus (en ligne ou hors-ligne)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/47A65BF7D490BBF38A582B1A300C31B93D7F6529.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maître du Ladder",
+      "trophyDetail": "Terminer l'Ascension en difficulté maximale sans utiliser l'option de reprise",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/0DBCA9DBFC32D6279599DA50A679310258801074.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ne saute pas !",
+      "trophyDetail": "Remporte un combat classé en ligne sans sauter",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/145F47C64F3F7D1E151A3BE86521A976157C4E1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ça sert à quoi ce bouton ?",
+      "trophyDetail": "Terminer l'Ascension sans effectuer de blocage (reprise autorisée)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/A43C531AF42F2275141A0C21008C8E3BA7C84891.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "C'est un dur !",
+      "trophyDetail": "Remporte un combat en ligne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/A8EA614C303FA2C5E28E84988258F0E4A34315D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vive les robots !",
+      "trophyDetail": "Remporte l'Ascension en équipe avec les robots Sektor et Cyrax",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/9B689241D9ACC4FE42B31357CCC0FF4749B484DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Extraordinaire !",
+      "trophyDetail": "Remporte 10 combats classés en ligne d’affilée",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/C7A1E1DD542F8A6963E240009F82C4C825655770.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cyber adversaire",
+      "trophyDetail": "Remporte 100 combats en ligne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/9DB183DEA6100C5BA774BA9E17E6B9D8BB440F67.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wavenet...",
+      "trophyDetail": "Remporte un total de 100 combats en ligne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/25768BB40E6BD21E084E5A3F9C59AE77BC0ACB72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Humiliation",
+      "trophyDetail": "Remporte une Flawless Victory lors d'un combat en ligne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/D16C7F035D4437BB69F23FEB8C2C0585C905F686.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Je vais t'apprendre le respect !",
+      "trophyDetail": "Gagne 1000 points de respect via le mode roi de la colline",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/7B98DDAC299C3C1C45B8438A79ED59492A648E3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fossoyeur",
+      "trophyDetail": "Débloque 50 % de la Krypte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/2F7EFF80481776966D47B6F7E8D992A7257F5C50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gardien de la Krypte",
+      "trophyDetail": "Débloque 100 % de la Krypte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/1327D6D814EAF2EAB814083545201B30EA7A3E15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ça va saigner !",
+      "trophyDetail": "Répands 10 000 litres de sang",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/DB1B1A376826DBD5A3CF61F9DCC945AE1FD7983C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Permis de tuer",
+      "trophyDetail": "Terminer l’entraînement aux Fatality",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/80F0FBBC272C353D54AD93B6C7480C47FE6AB6E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Respect ultime !",
+      "trophyDetail": "Gagne 2500 points de respect via le mode roi de la colline",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/4557414F7FA924E0CCDFF0DB53E7AB2EC5ACC9DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Il ne peut en rester qu’un !",
+      "trophyDetail": "Remporte 10 combats d'affilée en mode roi de la colline",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/841F76A9B70CC5E35526D5F685479E4F4D727EA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Les projections, c’est pour les champions",
+      "trophyDetail": "Effectue 8 projections lors d'un combat classé en ligne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/64DCBD3330D377101B69845263DDF18600B021ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "En tortue !",
+      "trophyDetail": "Remporte les deux rounds de combat classé en ligne grâce à la fin du chrono",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/2C65FC3E1CB2612BF249596FE8B0755BA1126D3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pas encore mort !",
+      "trophyDetail": "Reprends l’avantage et gagne avec moins de 10 % d'énergie dans un combat classé en ligne.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/DF4B61B7FFEE6F4B5E4C16CC8F19BDA07B87E2FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fusion glacée",
+      "trophyDetail": "Débloque le perso caché \"Cyber Sub-Zero\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/0AB1576EEC569757010DD61560C0156EFD0153DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "e-X-cellent !",
+      "trophyDetail": "Réussir toutes les attaques de X-ray dans un mode de combat",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/00617AC0674A3AA62191FCD5F59BA94144DD9ADE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La chance est versatile",
+      "trophyDetail": "Obtiens tous les dragons de MK dans le mode Teste Ta Chance",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/135473D8D29AE8882DEE6FEA7221F595BF9E0DA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "T'as du style !",
+      "trophyDetail": "Débloque toutes les variantes de costumes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/ED95EC0E36E961506A2621F5C8AC4476B3EF65D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Elle a les yeux... revolver !",
+      "trophyDetail": "Débloque la 3ème variante de costume de Mileena",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/133EDBBFF269344026E65512A71E8B9A2F609776.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Je suis un maître du Kung-Fu",
+      "trophyDetail": "Maîtrise un personnage",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/6FB652805A3885D2F078D2BC8192520FB9857295.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Je suis un dieu du Kung-Fu",
+      "trophyDetail": "Maîtrise les personnages",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/5FB12E5A1D7674E5640DDC8466936B001C7594FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Je suis \"peut-être\" le plus fort",
+      "trophyDetail": "Termine tous les mini-jeux et défis du mode Teste Ta Force",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/685C31181791D70618C5FE5233853CF585810678.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dim Mak !",
+      "trophyDetail": "Termine tous les mini-jeux et défis du mode Teste Ta Frappe",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/18677BF6CB7102BB3E3061569DB91CCFA015ECFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ce ne sont pas mes lunettes !",
+      "trophyDetail": "Termine tous les mini-jeux et défis du mode Teste Ta Vue",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/C58F30473F91D9C5CF15A2046B26FB8F191AE5C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apprenti de la Tour",
+      "trophyDetail": "Termine 25 missions de la Tour",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/69A38CBE1235D7F6B340C7ECE213E1C23010BC1D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Maître de la Tour",
+      "trophyDetail": "Termine toutes les missions de la Tour",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/AEB372D861A3C593B363F9C9B994A95B0F3E540A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "C’est toi le chat !",
+      "trophyDetail": "Exécute un Kombo en équipe",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/D2DCD49B566BC7A33C0E49C251E62939D36B6D5A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Complet-ality",
+      "trophyDetail": "Effectue chaque type de \"-ality\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/6A72598B7E73C8B81F3D11BCDEFE0E2CFBE56559.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Achève-le ?",
+      "trophyDetail": "Effectue un finish caché d’un des personnages",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/D2EE8EC84F84DC51D3CAE1EF55579BFFD5979BD9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Humiliation ultime",
+      "trophyDetail": "Effectue le finish caché de tous les personnages",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/5062CB62F29D4F3D408ED19B11A25EDBB95ED215.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "French Quan Quan",
+      "trophyDetail": "Débloque le personnage caché Quan Chi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/1CA92D9442B1091816F343805F2B8E0BA843EAAC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tu m’as trouvé !",
+      "trophyDetail": "Découvre le premier Kombattant caché dans l'Ascension et affronte-le",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/D4D62685A05307FCE11373DD2807A2980FC3823B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cache-cache",
+      "trophyDetail": "Découvre le second Kombattant caché dans l'Ascension et affronte-le",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/8599184E5DF9511F5C5BAB8763F128BA2AEA45B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Maître de la Fosse",
+      "trophyDetail": "Découvre le troisième Kombattant caché dans l'Ascension et affronte-le",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/C4D6DC3A7403A086FB4B6BCD8923A60782A75AEA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Confrérie de l’Ombre",
+      "trophyDetail": "Découvre le quatrième Kombattant caché dans l'Ascension et affronte-le",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/01CDDA101C44A2A289CC37B4906AF185D8F7B0B4.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 51
+}

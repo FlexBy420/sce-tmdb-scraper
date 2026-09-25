@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.04">
+    <![CDATA[
+Patch 1.01
+Optimised salvage
+Moolah now attracted in a much better way
+Fixed Japanese line breaking bugs
+Fixed localisation issues in Korean
+Rebalanced endgame enemy damage multipliers
+General bug fixes
+General optimisations
+Added a New Game + feature
+Once the player beats the final boss, they can start a NG+
+NG+ can be repeated a number of times
+Each NG+ adds an indestructible drone with heavy firepower
+Each NG+ increases the level and drop rate of enemies
+When selecting NG+ objectives remain completed however stats are reset (enemies killed etc)
+
+Patch 1.02
+Fixed frequent out of memory crashes (sincere apologies this took a while).
+Optimised planet user interface so tapping tycoon trophy is 100% achievable now.
+Removed Stats and Tutorial log as they were causing significant memory leaks.
+Optimised memory usage throughout game.
+Reduced draw calls in space for minor FPS gains during gameplay.
+Optimised executive menu for large FPS gains in minigames.
+
+Patch 1.03
+Many optimisations including:
+Using IL2CPP
+Only update currency string when it changes
+Using PreAllocated Raycasts 
+Moved various systems back into FixedUpdate
+Moved things into linkLists
+Reduced NGUI usage
+Removed speedlines (ironically these were causing huge FPS drops)
+Fixed recursion errors
+others...
+Fixed some more string typos
+Fixed broken waves
+
+    ]]>
+  </changes>
+</changeinfo>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.02">
+    <![CDATA[
+1. Features
+  1.1 Added Challenge Mode
+  1.2 Added ability for players to manually change placement of tiles on rack
+2.Bugs fixed
+  2.1 Fixed a crash issue that occurs when “Ready” and ”Cancel Ready” buttons in Private Multiplayer lobby are pressed repeatedly
+  2.2 Fixed an issue where tiles would randomly disappear during a match
+  2.3 Fixed an issue where tiles on the rack were not properly loaded from a saved match
+  2.4 Fixed a control issue where placing tiles on the game board with no space left would trigger an error
+  2.5 Fixed a UI overlay issue
+  2.6 Fixed cross-language invitation issue for Monopoly.
+3.Updates
+  3.1 Updated the match result screen
+    ]]>
+  </changes>
+</changeinfo>

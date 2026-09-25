@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<psproject fmt="playgo-manifest" version="2000">
+  <volume>
+    <chunk_info chunk_count="3" scenario_count="2">
+      <scenarios default_id="0">
+        <scenario id="0" type="userdefined1" initial_chunk_count="1" label=" User-defined Scenario #1(Create)">0-2</scenario>
+        <scenario id="1" type="userdefined2" initial_chunk_count="1" label=" User-defined Scenario #2(Play)">0 2 1</scenario>
+      </scenarios>
+      <scenarios_info>
+        <scenario_info id="0" type="userdefined1">
+          <lang type="default" name="Create"/>
+          <lang type="ja" name="クリエイト"/>
+          <lang type="en-US" name="Create"/>
+          <lang type="fr" name="Crée"/>
+        </scenario_info>
+        <scenario_info id="1" type="userdefined2">
+          <lang type="default" name="Play"/>
+          <lang type="ja" name="プレイ"/>
+          <lang type="en-US" name="Play"/>
+          <lang type="fr" name="Joue"/>
+        </scenario_info>
+      </scenarios_info>
+    </chunk_info>
+  </volume>
+</psproject>

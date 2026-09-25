@@ -1,0 +1,2 @@
+Supercar Challenge Beta
+Improved collisions between players

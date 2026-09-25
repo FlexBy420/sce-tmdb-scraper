@@ -1,0 +1,492 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01747_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Mortal Kombat",
+  "trophyTitleDetail": "Troféus do Mortal Kombat",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/4FB18AFB31BD82D62E01A3BE4A4AD68C4F5F3199.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 34,
+    "silver": 15,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Mortal Kombat",
+      "trophyGroupDetail": "Troféus do Mortal Kombat",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/4FB18AFB31BD82D62E01A3BE4A4AD68C4F5F3199.PNG",
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 15,
+        "gold": 1,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Troféu de platina",
+      "trophyDetail": "Você desbloqueou todos os troféus!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/21E66A924D8E67071C4D9AC0004D8010EBFC8CAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Na metade do caminho!",
+      "trophyDetail": "Complete 50% do modo história.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/30D9E3618D8B19749FC57206D6894F0C9E325D57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Historiador",
+      "trophyDetail": "Complete 100% do modo história.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/F5D66F44A418248736D7C9F37379A25AF3AFFA1C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A prática leva à perfeição",
+      "trophyDetail": "Complete o modo tutorial.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/757BBC2EF49B496F8E7E27CE7197BD84A640590E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golpe Fatal!",
+      "trophyDetail": "Execute um Golpe Fatal!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/241EBDEBD998F2C93123239EE2D453EDA92B7735.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bloqueia isto então!",
+      "trophyDetail": "Execute um kombo de 10 acertos usando qualquer personagem.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/197932B6DA573AED98F027E7BB07361FF01C0013.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Luta livre",
+      "trophyDetail": "Execute os arremessos para frente e para trás de todos os jogadores em quaisquer modos de kombate.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/91B1668C346F288946A39631E35131852AC007F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iniciante do modo arcade",
+      "trophyDetail": "Complete o Torneio modo Arcade com qualquer jogador.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/530F5CDA980F49603E361FD7C4216C4F0FD6F163.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Veterano do modo arcade",
+      "trophyDetail": "Complete o Torneio modo Arcade com todos os personagens.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/88A5E9F85D9E05B600B7FEB7D11B0E0B90B50F21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "É bom você terminar o que começou!",
+      "trophyDetail": "Execute um Golpe Fatal com todos os personagens.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/65801636FCE1B980234F7BA8ED51946DCC27B14D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "O duelista",
+      "trophyDetail": "Conclua 200 partidas contra (online ou offline).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/47A65BF7D490BBF38A582B1A300C31B93D7F6529.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mestre dos mestres",
+      "trophyDetail": "Complete o Torneio modo Arcade na dificuldade máxima sem usar nenhum continue.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/0DBCA9DBFC32D6279599DA50A679310258801074.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pular é para os fracos!",
+      "trophyDetail": "Vença uma partida online por ranking sem pular nenhuma vez.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/145F47C64F3F7D1E151A3BE86521A976157C4E1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Para que serve mesmo esse botão?",
+      "trophyDetail": "Complete o Torneio modo Arcade sem bloquear (continues são permitidos).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/A43C531AF42F2275141A0C21008C8E3BA7C84891.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A primeira de muitas!",
+      "trophyDetail": "Vença uma partida online.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/A8EA614C303FA2C5E28E84988258F0E4A34315D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Robôs unidos jamais serão vencidos",
+      "trophyDetail": "Vença o Torneio modo Arcade em duplas com os robôs Sektor e Cyrax.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/9B689241D9ACC4FE42B31357CCC0FF4749B484DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Retroceder nunca, render-se jamais!",
+      "trophyDetail": "Vença 10 partidas online por ranking seguidas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/C7A1E1DD542F8A6963E240009F82C4C825655770.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Desafiante virtual",
+      "trophyDetail": "Complete 100 partidas online",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/9DB183DEA6100C5BA774BA9E17E6B9D8BB440F67.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Campeão virtual",
+      "trophyDetail": "Vença 100 partidas online.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/25768BB40E6BD21E084E5A3F9C59AE77BC0ACB72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Humilhação",
+      "trophyDetail": "Obtenha uma Flawless Victory em uma partida online.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/D16C7F035D4437BB69F23FEB8C2C0585C905F686.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vou te ensinar um pouco de respeito!",
+      "trophyDetail": "Obtenha 1000 pontos de respeito atrás das partidas rei da montanha.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/7B98DDAC299C3C1C45B8438A79ED59492A648E3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "O coveiro",
+      "trophyDetail": "Desbloqueie 50% da Kripta",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/2F7EFF80481776966D47B6F7E8D992A7257F5C50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Coveiro mestre",
+      "trophyDetail": "Desbloqueie 100% da Kripta",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/1327D6D814EAF2EAB814083545201B30EA7A3E15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mortal Kombat sem sangue não é Mortal Kombat...",
+      "trophyDetail": "Derrame 10000 litros de sangue.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/DB1B1A376826DBD5A3CF61F9DCC945AE1FD7983C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Licença para matar",
+      "trophyDetail": "Complete o treinamento de golpes fatais.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/80F0FBBC272C353D54AD93B6C7480C47FE6AB6E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Respeite minha autoridade!",
+      "trophyDetail": "Obtenha 2500 pontos de respeito atrás das partidas rei da montanha.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/4557414F7FA924E0CCDFF0DB53E7AB2EC5ACC9DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Só pode haver um",
+      "trophyDetail": "Vença 10 partidas online rei da montanha seguidas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/841F76A9B70CC5E35526D5F685479E4F4D727EA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Especialista em arremessos",
+      "trophyDetail": "Execute 8 arremessos em uma partida por ranking online.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/64DCBD3330D377101B69845263DDF18600B021ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Modo tartaruga!",
+      "trophyDetail": "Vença ambos os rounds por tempo em uma partida por ranking online.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/2C65FC3E1CB2612BF249596FE8B0755BA1126D3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ainda não estou morto!",
+      "trophyDetail": "Vença uma partida por ranking online com menos de 10% de vida.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/DF4B61B7FFEE6F4B5E4C16CC8F19BDA07B87E2FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Abaixo de zero",
+      "trophyDetail": "Desbloqueie o lutador escondido Ciber Sub-Zero.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/0AB1576EEC569757010DD61560C0156EFD0153DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "e-X-celente!",
+      "trophyDetail": "Execute e acerte o oponente com todos os Raios-X de todos os personagens em quaisquer modos de kombate.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/00617AC0674A3AA62191FCD5F59BA94144DD9ADE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nas encruzilhadas da sorte",
+      "trophyDetail": "Obtenha somente Dragões MK no modo Teste sua Sorte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/135473D8D29AE8882DEE6FEA7221F595BF9E0DA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Esse tem estilo!",
+      "trophyDetail": "Desbloqueie todas as vestimentas alternativas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/ED95EC0E36E961506A2621F5C8AC4476B3EF65D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Guarda-roupa completo!",
+      "trophyDetail": "Desbloqueia a 3ª vestimenta de Mileena",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/133EDBBFF269344026E65512A71E8B9A2F609776.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sou mais meu Kung Fu",
+      "trophyDetail": "Domine as habilidades de 1 personagem",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/6FB652805A3885D2F078D2BC8192520FB9857295.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Sou muito mais meu Kung Fu",
+      "trophyDetail": "Domine as habilidades de todos os personagens",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/5FB12E5A1D7674E5640DDC8466936B001C7594FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "O mais forte de todos",
+      "trophyDetail": "Complete todos os desafios do modo Teste sua Força.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/685C31181791D70618C5FE5233853CF585810678.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dim Mak!",
+      "trophyDetail": "Complete todos os desafios do modo Teste seu Golpe.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/18677BF6CB7102BB3E3061569DB91CCFA015ECFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Não, não são meus óculos!",
+      "trophyDetail": "Complete todos os desafios do modo Teste sua Percepção.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/C58F30473F91D9C5CF15A2046B26FB8F191AE5C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aprendiz da torre",
+      "trophyDetail": "Complete 25 missões da torre.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/69A38CBE1235D7F6B340C7ECE213E1C23010BC1D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mestre da torre",
+      "trophyDetail": "Complete todas as missões da torre.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/AEB372D861A3C593B363F9C9B994A95B0F3E540A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kombo em dupla",
+      "trophyDetail": "Execute e acerte o oponente com um Kombo em dupla.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/D2DCD49B566BC7A33C0E49C251E62939D36B6D5A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Extermínio",
+      "trophyDetail": "Execute um de cada tipo de Golpe Fatal ou Brutalidade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/6A72598B7E73C8B81F3D11BCDEFE0E2CFBE56559.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Acabe com ele?",
+      "trophyDetail": "Execute o movimento de finalização secreto de qualquer personagem.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/D2EE8EC84F84DC51D3CAE1EF55579BFFD5979BD9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Humilhação total",
+      "trophyDetail": "Execute o movimento de finalização secreto de todos os personagens.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/5062CB62F29D4F3D408ED19B11A25EDBB95ED215.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Quan Chi",
+      "trophyDetail": "Desbloqueie o lutador escondido “Quan Chi”.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/1CA92D9442B1091816F343805F2B8E0BA843EAAC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Você me encontrou!",
+      "trophyDetail": "Encontre e enfrente o Kombatente Escondido 1 no Torneio modo Arcade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/D4D62685A05307FCE11373DD2807A2980FC3823B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Esconde-esconde",
+      "trophyDetail": "Encontre e enfrente o Kombatente Escondido 2 no Torneio modo Arcade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/8599184E5DF9511F5C5BAB8763F128BA2AEA45B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mestre do fosso",
+      "trophyDetail": "Encontre e enfrente o Kombatente Escondido 3 no Torneio modo Arcade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/C4D6DC3A7403A086FB4B6BCD8923A60782A75AEA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Irmandade das Sombras",
+      "trophyDetail": "Encontre e enfrente o Kombatente Escondido 4 no Torneio modo Arcade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/01CDDA101C44A2A289CC37B4906AF185D8F7B0B4.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 51
+}

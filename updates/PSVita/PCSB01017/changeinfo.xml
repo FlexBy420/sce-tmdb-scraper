@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+<ul>
+        <li>Added missing sound effects.</li>
+        <li>Improved quality of lighting for in-dungeon sprites.</li>
+        <li>Miscellanious UX improvements.</li>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[
+<ul>
+        <li>Fixed bug in save game when entering a dungeon or the hamlet.</li>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.03">
+    <![CDATA[
+<ul>
+      <li>Fixed crashes that could occur due to narration or other audio issues, often encountered during provisioning or dungeon entry.</li>
+      <li>Fixed crash that could occur when interacting with some dungeon curios, such as chests, especially in Russian.</li>
+      <li>Fixed crash when showing certain Abomination 'bark' messages or other long barks.</li>
+      <li>Fixed crash due to character color swapping and simultaneously pressing other buttons.</li>
+      <li>Added button hint icons to Estate bar in town.</li>
+      <li>Misc graphical cleanups.</li>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.04">
+    <![CDATA[
+<ul>
+      <li>Fixed crash that could occur while fighting the Hag boss in the Weald.</li>
+      <li>Fixed rendering bug causing some monsters to appear green or miscolored.</li>
+      <li>Fixed issue that could cause player to become stuck at the 'Quest Complete' popup, observed when camping.</li>
+      <li>Fixed issue that could prevent a player from selecting the last hero in their roster.</li>
+      <li>Tempting Goblet trinket rarity and price now show up properly.</li>
+      <li>Fixed a number of other low frequency crashes, art bugs, and UX issues.</li>
+      <li>Fixed a case where the trophy "Valiant sacrifice..." was not awarded.</li>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.06">
+    <![CDATA[
+<ul>
+    <li>Game now saves more often and has a text warning for when the game is saving.</li>
+    <li>Added new control options category to options menu, which includes:</li>
+    <ul>
+        <li>Hold Required in Dungeons (Default: OFF)</li>
+            <ul>
+                <li>While in dungeons holding L Button is required before you can swap hero positions, change hero selections, or view character sheets. Turn this on if you frequently start swapping a hero’s position when you don’t intend too.</li>
+            </ul>
+        <li>Rear Touch Pad Enabled (Default: ON)</li>
+            <ul>
+                <li>Turning this off disables rear touch pad inputs and uses the front touchscreen instead for the same things. Do this if you find yourself accidentally tapping the rear touch pad.</li>
+            </ul>
+        <li>Interact with L Stick Up (Default: ON)</li>
+            <ul>
+                <li>While in dungeons, pressing up on L Stick can be used to enter doors, open curios, and similar actions. (This duplicates Cross Button functionality.)</li>
+            </ul>
+    </ul>
+    <li>Fix to monster generating guid offset bug.</li>
+    <li>Fix to NG+ failure.</li>
+    <li>Fix to text clipping in Ancestor's Memoirs.</li>
+    <li>Fix to remove buffs that persisted after death when resurrecting heroes.</li>
+    <li>Fix to Level 6 heroes getting benefit from Town Event resolve levels.</li>
+    <li>Fix to Hag’s Cauldron activity log text.</li>
+    <li>Fix to tutorial cursor changing.</li>
+    <li>Fix to various missing sfx in town. </li>
+    <li>Fix to attack overlay placement and sizing.</li>
+    <li>Fix to quest text overlapping the torch.</li>
+    <li>Fix to drop trinket on equipment bug.</li>
+    <li>Fix to trinket duping exploit.</li>
+    <li>Fix to the mysterious mini-map tiles disappearing or traps being shown as scouted when they aren't.</li>
+    <li>Fix to map not being forced during scouting curio result.</li>
+    <li>Changed logic of map scroll with controller to be closest to center.</li>
+    <li>Cleaned up roster icons.</li>
+    <li>Allow checking of health/stress/turns when inspecting tooltips with controller.</li>
+    <li>Allow to cycle heroes while in inventory panel in dungeon outside of battle.</li>
+    <li>Fixing bug with roster input not being as responsive as it used to be.</li>
+    <li>Wait for audio bank samples to finish loading in loading screen.</li>
+    <li>Reduced scroll speed of glossary.</li>
+    <li>Reduce sort tooltip screen time.</li>
+    <li>Removed ability to target / select move when classes are immobilized.</li>
+    <li>Prevent the activity log scrolling while the button is held for the roster focus.</li>
+    <li>Render announcements over character barks.</li>
+    <li>Showing 'Week #' after estate name when downloading/replacing a slot from Cross-Save.</li>
+    <li>Constant saving of the embark party so that you can quit the game and load it back up with the previous party you had built. </li>
+    <li>Disable scrolling while dragging.</li>
+    <li>Disabled trinket sort operation while dragging trinket around.</li>
+    <li>Disabled opening help panel during screen transitions.</li>
+    <li>Added scale when focusing on tile tooltips in map.</li>
+    <li>Added hold button time animation for deleting estate in the Main Menu.</li>
+    <li>Added input preview for roster.</li>
+    <li>Added pulse animation to the highlighted skill in the character sheet to better indicate focus.</li>
+    <li>Misc graphical cleanups.</li>
+</ul>
+    ]]>
+  </changes>
+<changes app_ver="01.07">
+    <![CDATA[
+<ul>
+    <li>RADIANT MODE</li>
+    <ul>
+        <li>Never Again changed:</li>
+        <ul>
+            <li>Heroes are now allowed to return to the Darkest Dungeon. However, they will undergo significant stress upon doing so, and are more likely to become afflicted instead of virtuous when in the Darkest Dungeon.</li>
+        </ul>
+        <li>More Power Leveling flexibility:</li>
+        <ul>
+            <li>Heroes of up to Level 4 may enter Novice dungeons. Any hero may enter a Veteran or Champion dungeon.</li>
+        </ul>
+        <li>Accelerated hero XP progression.</li>
+        <li>Hero upgrade and treatment cost scaling by level reduced.</li>
+        <li>Higher Light conditions confer slightly more to party DEF bonuses.</li>
+        <li>Returned provisions now give slightly more money back.</li>
+        <li>Stage Coach tweaks:</li>
+        <ul>
+            <li>Stage Coach can now be upgraded to allow the appearance of new recruits starting at up to Level 4.</li>
+            <li>Increased chance of upgraded recruits appearing.</li>
+            <li>Reduced cost of Upgraded Recruits upgrades.</li>
+        </ul>
+        <li>Accelerated Region Progression.</li>
+        <li>Town Events trigger more frequently to compensate for shorter playtime.</li>
+    </ul>
+    <li>STYGIAN MODE</li>
+    <ul>
+        <li>Renamed NG+ to Stygian.</li>
+        <li>Stygian can now be selected when starting a new campaign, instead of requiring completion of Darkest mode first.</li>
+        <li>More stress, higher darkness penalties, more light loss per step, higher trap diff, enemy HP bump from 15% (prev) to 20%, slightly higher monster crits...overall slightly more deadly.</li>
+        <li>Time limit reduced to 86 weeks and hero death limit dropped to 12.</li>
+        <li>You can now continue playing after the time limit on your Stygian mode game after successfully completing the game.</li>
+    </ul>
+    <li>ALL MODES</li>
+    <ul>
+        <li>Added 4 new monsters (Bone Bearer, Hateful Virago, Swine Skiver, and Squiffy Ghast) that appear in Champion level Dungeons - welcome aboard, Dana!</li>
+        <li>Caw! Caw! Added New Trinket Recovery Quest</li>
+        <ul>
+            <li>When a party wipe occurs, trinkets are no longer lost! There is a way to recover them. Exactly what that way is, we leave for you to discover...</li>
+            <li>Trinkets are no longer recoverable from fallen characters after retreating.</li>
+        </ul>
+        <li>Added two new Town Events.</li>
+        <li>Added New Variations to Dungeon Map Generation!</li>
+        <li>Fix for users reporting increased cpu usage.</li>
+        <li>ECONOMY Adjustments:</li>
+        <ul>
+            <li>Radiant and Darkest modes:</li>
+            <ul>
+                <li>Economy was too gold starved across the board, including mid and late game.</li>
+                <li>Slightly reduced cost of Hero Treatment. </li>
+                <li>Reduced hero weapon and armour upgrade costs.</li>
+                <li>Reduced cost of upgrading hero skills final two levels.</li>
+                <li>Increased gold drops and gold stacking from 1,500 to 1,750.</li>
+            </ul>
+            <li>All modes:</li>
+            <ul>
+                <li>Rebalanced gem drops and changed gem values.</li>
+                <ul>
+                    <li>Net result is much higher values of gems dropping as difficulty of missions progress.</li>
+                </ul>
+                <li>Gems now all stack to 5 instead of 4.</li>
+                <li>Adjusted Antiquarian values to be in line with Economy changes to ensure she's still profitable.</li>
+            </ul>
+        </ul>
+        <li>Tavern and Abbey complete side-effects rebalance and some new side effects added. Goal is to make neither Tavern or Abbey preferable over another, and also add more interest.</li>
+        <li>Fixed Provision Discount Town Event description so all languages should show up correctly.</li>
+        <li>Quests that will trigger a Town Event: links are now clearly shown.</li>
+        <li>The Cove Gather mission now triggers “Lost and Found” Town Event instead of “Supply Run” Town Event upon successful completion.</li>
+        <li>Adjustments to chances of getting quirks at quest end. Slightly increased chances in both cases for interest.</li>
+        <li>New quirk: “skilled gambler”. Bad Gambler and Skilled Gambler functionality improved.</li>
+        <li>Stagecoach Upgraded Recruits: adjusted number of pos and neg quirks they start with to ensure they are still valuable. Reduced cost of the Upgraded Recruits upgrades.</li>
+        <li>Secret Rooms are no longer guaranteed in every dungeon.</li>
+        <li>Quest Trinket rewards: better logic for supplying trinket rewards in cases where the designated trinkets aren’t available.</li>
+        <li>Heirloom Chest now more profitable after using key.</li>
+        <li>Added new treasure: "Jute Tapestry" (functions as a very rare gem worth 5,000 gold).</li>
+        <li>Added “Party” selection type to camp skills to help make the skills more clear.</li>
+        <li>Tweaked Roster sort so that Characters in Party are arranged in their party formation.</li>
+        <li>Added Skill Equip warning when trying to embark without all skills equipped.</li>
+        <li>Added Food Embark warning when trying to embark without much food.</li>
+        <li>Skills will now auto-equip when purchased and have room (this will be most noticed with purchasing your 4th camping skill).</li>
+        <li>After several angry phone calls from Vvulf, he is now properly tagged as a boss.</li>
+        <li>(Radiant and Darkest modes) Vvulf quest and Vvulf himself not quite as tough, and also won’t appear before week 40 minimum.</li>
+        <li>Veteran and Champion Skeletal Defenders now have the tools to live up to their namesake.</li>
+        <li>Tweaked Trinket Embark Warning to be % based. You are now warned on L3 and L5 dungeons when you have less than half equipped.</li>
+        <li>Adjusted cooldowns on town events up a bit, to reduce repetition.</li>
+        <li>DARKEST and STYGIAN modes: Final battle tuned up some to give a bit more challenge.</li>
+        <li>Adjusted Nomad Wagon stock rarity (Rare trinkets are now more rare).</li>
+        <li>Added Town Event Description in the reward section for related Quests.</li>
+        <li>Added Subtitle Location Option: Top or Bottom.</li>
+        <li>Added border FX for Ancestral Trinkets and Boss Trophies.</li>
+        <li>Added FX to Dungeon Region experience bars on increase.</li>
+        <li>Added in new art for all missing Curio states. Welcome aboard Trudi!</li>
+        <li>Added Date/Time to save slots.</li>
+        <li>Added option to disable party first sort in roster list.</li>
+        <li>Updated journal fonts.</li>
+        <li>Fix to the background image in DD Quest 3.</li>
+        <li>Journal pages (written by KS backers) will now appear more frequently!</li>
+        <li>DD Talisman now reduces damage from Revelation skill by 100% instead of adding 100% protection. The latter wasn't working because of the internal PROT cap.</li>
+        <li>Added new syntax for Ability tool-tips with self buffs (buffs that last x/rounds), and removed syntax for instant-buff abilities (i.e. +%DMG to Mark)</li>
+        <li>Added new Loot Window Text for recovering fallen hero trinkets after retreating from battle (no longer says: VICTORY!).</li>
+        <li>Fix to % Move modifiers not working properly.</li>
+        <li>Fix to map boss tooltip and scouting and checkmark.</li>
+        <li>Fix to graveyard not showing dead heroes.</li>
+        <li>Fix to bug involving wearing to -100% food consumption trinkets on one character affecting all party members.</li>
+        <li>Fix to incompatible quirk problem.</li>
+        <li>Fix to remove buffs that persisted after death when resurrecting heroes.</li>
+        <li>Fix to Level 6 heroes getting benefit from Town Event resolve levels.</li>
+        <li>Fix to Hag’s Cauldron activity log text.</li>
+        <li>Fix to tutorial cursor changing.</li>
+        <li>Fix to the mysterious mini-map tiles disappearing or traps being shown as scouted when they aren't.</li>
+        <li>Fix to map not being forced during scouting curio result.</li>
+        <li>Removed ability to target / select move when classes are immobilized.</li>
+        <li>Render announcements over character barks.</li>
+        <li>Added pulse animation on controller highlight for skills in character sheet.</li>
+        <li>Realm inventory UI cleanup.</li>
+        <li>Moved tutorial option to other instead of gameplay so its saved app wide.</li>
+        <li>Updated Town Fair town event text to accurately state that all treatment facilities are free.</li>
+        <li>Plot quest reward trinkets (Trophy/Darkest Dungeon Talisman) are no longer valid for trinket retention because you can never lose them.</li>
+        <li>Added New Batch of 200+ Community Party Names. (NO LOC for these yet, they will all be in English for now)</li>
+        <li>Uncapped Trap Disarms (100% or more should _always_ succeed now).</li>
+        <li>Fixed Quirk Descriptions.</li>
+        <li>Fixed to a town even cooldown bug.</li>
+        <li>Added new art for each dungeon regions starting room.</li>
+        <li>New Option:</li>
+        <ul>
+            <li>Game Menu > Options > Other > Auto-Center Dungeon Map (Default: ON)</li>
+            <ul>
+                <li>Dungeon map will auto-center on party when idle.</li>
+            </ul>
+        </ul>
+        <li>Fixed Activity log not displaying money lost from activity correctly.</li>
+        <li>Fixed missing sound for Eldritch Altar.</li>
+        <li>Fixed to FX when disarming traps.</li>
+        <li>Updated Marquee text.</li>
+        <li>Swintaur: updated fx.</li>
+        <li>Various tool-tip fixes.</li>
+        <li>Fixed various typos.</li>
+        <li>Various UI tweaks.</li>
+    </ul>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.08">
+    <![CDATA[
+<ul>
+    <li>Fixed bug which was keeping some players from loading saves from previous versions.</li>
+    <li>Fixed crash when viewing particularly long journal pages (occured in Russian, other languages possible).</li>
+    <li>Fixed bug which was preventing the party from leaving rooms in the correct direction on certain maps (most notably, the Vulf town event map and Darkest Dungeon quest maps).</li>
+    <li>Fixed crash related to selecting a hero within the roster.</li>
+    <li>Fixed bug in embark screen related to loss-of-state after a confirm dialog is shown.</li>
+    <li>Campaign log and graveyard are now trimmed to a max size to prevent hitting size limitation when using Cross-Save.</li>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.09">
+    <![CDATA[
+<ul>
+    <li>Fixed crash when entering a dungeon for the first time after loading a save from a prior version.</li>
+    <li>Fixed bug causing new games to skip past the "Old Road" tutorial level.</li>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.10">
+    <![CDATA[
+<ul>
+    <li>Core game updates to allow for Crimson Court DLC</li>
+    <li>Character class balancing and adjustments: Highlights include Crusader’s Bulwark of Faith, Highwayman’s Tracking Shot and Open Vein, Bounty Hunter’s Hook and Slice (Now, Caltrops), Leper’s Intimidate, and maybe the biggest of all: Occultist’s Wyrd Reconstruction (now usable in any rank!).</li>
+    <li>Comprehensive trinket re-balancing: you’ll notice not only stat changes, but rarity/tiering changes as well for some trinkets.</li>
+    <li>Added Horror (Stress DOT) to a few monsters sprinkled around the dungeons...</li>
+    <li>Added Laudanum -a powerful tonic to combat Horror, available at a Provisioner near you.</li>
+    <li>You can now enter the dungeon with less than a full party of four. We advise against it!</li>
+    <li>New Affliction act-outs: Experience the mayhem and tomfoolery of characters attacking each other</li>
+    <li>Combat skill tooltip optimization</li>
+    <li>BUG FIX: Revised improper quest rewards for Cove boss quests to give higher rewards.</li>
+    <li>BUG FIX: High torchlight levels now properly grant dodge bonus to heroes.</li>
+    <li>Many miscellaneous bug fixes and stability improvements.</li>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.11">
+    <![CDATA[
+<ul>
+    <li>BUG FIX: We talked with Musketeer and she will not cause any troubles anymore. You can take her freely to the dungeon (if you have her already in your party), but no more musketeers will come to help you.</li>
+    <li>BUG FIX: Estate districts - You can build any building, if you have enough materials.</li>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.12">
+    <![CDATA[
+<ul>
+    <li>Player can see the infestation level.</li>
+    <li>BUG FIX: Crashes and save corruption issues in the third and the fourth part of Crimson Court dungeon have been resolved.</li>
+    <li>BUG FIX: Save corruption issues when the cross-save function was used have been resolved.</li>
+    <li>BUG FIX: Imprisoned heroes can now be set free.</li>
+    <li>BUG FIX: During missions you can now switch or access hero's trinkets.</li>
+    <li>BUG FIX: Minor changes in SFX.</li>
+    <li>Many miscellaneous bug fixes and stability improvements.</li>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.13">
+    <![CDATA[
+<ul>
+    <li>BUG FIX: Game will no longer crash after final boss is killed.</li>
+    <li>BUG FIX: Interaction with curios will not lock the game controls.</li>
+    <li>BUG FIX: Interaction with curios will bring them into the foreground and give them focus.</li>
+    <li>BUG FIX: Quitting the game while there are any enemies that are both stunned and surprised will not lock the game when reloading.</li>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.14">
+    <![CDATA[
+<ul>
+    <li>Core game updates to allow for Shieldbreaker DLC</li>
+    <li>BUG FIX: Minor changes in SFX.</li>
+    <li>Many miscellaneous bug fixes and stability improvements.</li>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.15">
+    <![CDATA[
+<ul>
+    <li>Minor bug fixing</li>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.16">
+    <![CDATA[
+<ul>
+    <li>Core game updates to allow for Color of Madness and Musketeer DLCs.</li>
+    <li>Fix to quit out before initative saves crash.</li>
+    <li>Fix to crimson court locked out bug.</li>
+    <li>Fix radiant mode crimson court crash.</li>
+    <li>Fix to vulf boss_tassle trinket so size crit buff is being applied correctly.</li>
+    <li>Fix to psv layout for realm inventory change.</li>
+    <li>Fix to scrolling issue in options.</li>
+    <li>Fix to campaign default options.</li>
+    <li>Fix to curio tracker animations not being reset.</li>
+    <li>Fix to empty space controller curio tracker bug.</li>
+    <li>Fix to double camp flashback bug.</li>
+    <li>Fix to move outside of battle flicker with controller.</li>
+    <li>Fix to using items during flashback barks.</li>
+    <li>Fix to sort button input with controllers.</li>
+    <li>Fix to using the default order during ambush / flashback.</li>
+    <li>Fix to being able to use move skills after camping before flashback.</li>
+    <li>Fix to default pip colour in the guild.</li>
+    <li>Fix for loot window no longer responding when only one item is left after using an item from it.</li>
+    <li>Fix to upgrade cost offset.</li>
+    <li>Fix to quirk wasting death not killing activity heroes.</li>
+    <li>Fix to options spacing when unmuting.</li>
+    <li>Fix to quirk wasting death not killing activity heroes.</li>
+    <li>Fix to talisman warnings.</li>
+    <li>Fix to curio layering bug.</li>
+    <li>Fix to wasting warning not happening when wasting heroes are in activities which now can kill them.</li>
+    <li>Fix to heroes from not having skills equipped showing up in different quest select warnings.</li>
+    <li>Fix to not being able to quick select heroes after a quest select warning.</li>
+    <li>Many more fixes to general gameplay and features.</li>
+</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.17">
+    <![CDATA[
+<ul>
+    <li>Fixed issue where Miller's trinket interaction buff was being resisted.</li>
+    <li>Fixed issue where the background for the fanatic fights wasn't showing correctly.</li>
+    <li>Fixed Graveyard text missing for death by Thirsting Hollow trinket's damage.</li>
+</ul>
+    ]]>
+  </changes>
+</changeinfo>

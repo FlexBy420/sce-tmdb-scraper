@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.03">    
+    <![CDATA[
+-	Mana regeneration issue fixed
+-	Improper Infiltrator's behaviour (Boss does not attack the player) fixed.
+-	The cutscene with the two imprisoned monks now triggers correctly.
+-	Crafter's VO's are now correctly played
+-	Overlapping statistics texts in the Rune Screen removed (French only)
+-	VO synchronization problems after unpausing the game fixed (German only)
+-	The Quake spell is now causing the correct damage
+-	Antanas' Dark Experiments ending played correctly
+-	Support for the Ancient Labyrinth DLC
+    ]]>
+  </changes>
+  <changes app_ver="01.02">    
+    <![CDATA[
+General:
+-	Performance improvements (reduces tearing)
+-	Removed the potential stutter when saving a game
+-	Localization improvements
+-	Loot fixes and improvements
+-	Stability improvements
+-	Collision mesh improvements
+-	Fixed broken savegames which could occur under certain circumstances
+-	The Judge boss should not fall through the floor anymore
+-	Fixed an issue that caused disappearing locks on treasure chests
+-	Replaced the portal model at the Hand of God location so it no longer looks like a challenge portal
+-	Fixed an issue with the player randomly dying after loading a savegame
+-	Fixed an issue that allowed the player to access a locked area too early near the Commander arena
+-	The game settings are now stored and restored properly
+-	The Rune of Adyr is now removed from inventory when starting New Game +
+-	Added a tutorial explaining how to save the game without losing the XP modifier bonus
+-	Prevented sudden changes in contrast from happening in outdoor areas
+-	Fixed scaling for weapons with attribute requirement lower than 10
+-	Added the option to enable/disable chroma shift
+-	Added an option to enable/disable automatic target switching after killing an enemy
+-	Added an option to invert X camera axis
+-	Target selection using the right stick is improved
+-	Using checkpoints now properly reset the experience gain modifier
+-	Checkpoints can still be used to save the game without resetting the XP bonus modifier by holding down the L3 button. Health and potions will not be refilled in that case
+-	Magic regeneration is now properly reset after loading a game
+-	Spells can now be marked as favorite allowing to customize the spell rotation (press the triangle button in the character development UI to toggle favorites)
+    ]]>
+  </changes>
+  <changes app_ver="01.01">    
+    <![CDATA[
+General:
+-	Improved tearing
+-	General improvements in difficulty balance
+-	Text & voiceover fixes and improvements
+-	Incorrect despawn behavior fixed
+-	An issue with missing music in the credits is fixed
+-	Judge boss fight balance updated
+-	Challenge Arena tweaks
+-	Camera clipping fixes
+-	New Game+ intro behavior fixed
+-	The Blacksmith is now accessible after the Infiltrator encounter
+-	Savepoints problems fixed
+-	The run, jump and jump attack tutorials now start again if the player approaches the first savepoint in Old Monastery
+
+Art:
+-	Visual effects improvements
+-	Animation improvements
+-	General lighting improvements
+-	Improved LODs
+-	Various visual glitches fixed
+-	Improved collision meshes
+-	Performance optimization
+-	Camera behavior improvements
+-	General texture improvements
+-	Fixed disappearing environment particle effects
+
+Music & Sound:
+-	Incorrect playback of boss battle music fixed
+-	Music & SFX volumes adjusted
+-	Improved SFX timing
+    ]]>
+  </changes>
+</changeinfo>

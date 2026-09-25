@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.11">
+    <![CDATA[
+    <ul>
+	<li>A color cycling effect has been added to Bonus+ battles, so they can be recognized easier. The same applies to other global battle effects. (Speed+, Defense+, Strength+, Luck+)</li>
+	<li>A new notification has been added that reminds players that grinding is not required if they focus on Bonus+ battles instead of random or optional battles.</li>
+	<li>Help notifications are spawned with a much lower frequency.</li>
+	<li>A very rare UI related crash bug has been fixed.</li>
+	<li>A very rare battle related crash bug has been fixed.</li>
+	<li>A rare crash bug has been fixed that occurred during startup when other applications were open.</li>
+	<li>All vehicles can now also be entered by pressing the SELECT button when standing close to the vehicle. This prevents very rare situations where players were no longer able to enter their vehicle after landing in very small areas with other interactive objects nearby.</li>
+	<li>Fixed several bugs related to the monster house. In case corrupted units are stored in the monster house, they will automatically be repaired when loading the save data.</li>
+	<li>Fixed an issue where the HP display could become corrupted when fighting an end game boss on battle rank 9.</li>
+	<li>The passive skill "Kamikaze" now works properly in all situations and the damage prediction always matches the expected result.</li>
+	<li>In rare cases costs for boat and vehicle rent could become negative.</li>
+	<li>Fixed a very rare issue that allowed battles with notorious monsters to be initiated while they were despawning.</li>
+	<li>Several thresholds for help notifications have been rebalanced.</li>
+	<li>The passive skill "Kamikaze" now works properly in all situations and the damage prediction always matches the expected result.</li>
+	<li>Fixed a very rare crash related to GUI lists (collecting bags, opening skill menu, etc.).</li>
+	<li>Fixed an issue where the main character did not reappear after changing equipment in very populated spots.</li>
+	<li>Several dungeon and world editing bugs have been addressed.</li>
+	<li>Other minor issues and improvements.</li>
+	</ul>
+    ]]>
+  </changes>
+</changeinfo>

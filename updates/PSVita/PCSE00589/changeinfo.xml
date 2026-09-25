@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+	SEVERED PATCH 1 - CHANGE LOG
+	<br> <br>
+	ADDITIONS
+	<ul>
+		<li> Added support for Russian, Japanese, Simplified Chinese, Traditional Chinese, and Korean languages </li>
+	</ul>
+	
+	FIXES
+	<ul>
+		<li> Fix for issue where Citadel's final door could enter a permanently closed state if the player left midway through unlocking it </li>
+		<li> Fix to an abrupt animation skip that could occur when reentering the final boss fight after the player died in it </li>
+		<li> Fix to allow the end credits music time to fully finish playing out before ending the credits scene </li>
+	</ul>
+    ]]>
+  </changes>
+</changeinfo>

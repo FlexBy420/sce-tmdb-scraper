@@ -1,0 +1,5 @@
+- Added support for DLC.
+- Added support for choosing player color.
+- Added 4 new battle maps.
+- Improved visual effects.
+- Fixed a problem with recording videos over 10 minutes.

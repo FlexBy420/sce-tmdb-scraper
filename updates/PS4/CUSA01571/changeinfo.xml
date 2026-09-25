@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[Bug Fixes:
+    - Fixed an issue where connections to a host would fail after clients disconnect and rejoin
+    - Improved error messages when a game session is full
+    - Clients will no longer become unresponsive while the host is editing a deck
+    - Long (15-16 character) Online IDs with large characters in the variable-width font are no longer abbreviated in the lobby and game screens
+    - Victories are no longer awarded when a user disconnects from the network in Random 1v1 mode
+    - Connection error messages now more thoroughly distinguish when on host vs. client and disconnect vs. sign out.
+    ]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[Bug Fixes:
+    - Resolved an issue preventing a save slot from hosting or joining co-op games once a large portion of game content was unlocked.
+    ]]>
+  </changes>
+</changeinfo>

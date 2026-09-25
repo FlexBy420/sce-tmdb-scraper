@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+- Developer version K1.08
+- FIXES FOR:
+    * Rare lockup problems with goalkeeper
+    * Joysticker more responsive in switching from header or slide
+    * Header and slide exercises
+    * Some problems with referee playing advantage
+    * Some problems that occurred on disconnection
+    * Stray scanner dots after players sent off
+    * Weekly reset not resetting individual ratings
+    * Funday Sunday - Rankings are fixed at midnight on Saturday UTC and remain unchanged until Monday
+    * Possible ranking crash issue
+    * Fix for rare penalty shoot problem
+    * Fix for the precise position of the goal lines
+    
+- GAMEPLAY CHANGES:
+    * Player formations anticipate future position of ball (makes it harder to break through defense)
+    * Referee generally more likely to award fouls from behind
+    * Limit how rapidly 'stop and go' can be used in play (some players were overusing this)
+    * Fix for accidental exploit stop and go variant
+    * 50 bonus rating points for each win and 20 for each draw in online play
+    
+- COSMETIC
+    * New advertising panel
+    * Credits changes
+    ]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[
+- Developer version K1.09
+- FIXES FOR:
+    * leaderboards not loading/syncing
+    * separated leaderboards (one per platform)
+
+    ]]>
+  </changes>
+  <changes app_ver="01.03">
+    <![CDATA[
+- Developer version K1.10
+- FIXES FOR:
+    * ghost sessions in matchmaking
+    * locks during matchmaking
+
+    ]]>
+  </changes>
+</changeinfo>

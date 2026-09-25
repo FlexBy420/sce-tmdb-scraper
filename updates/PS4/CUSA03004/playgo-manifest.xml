@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<psproject fmt="playgo-manifest" version="2000">
+  <volume>
+    <chunk_info chunk_count="19" scenario_count="2">
+      <scenarios default_id="0">
+        <scenario id="0" type="userdefined1" initial_chunk_count="6" label="Zombies">0-5 9 13-15 6-8 10-12 16-18</scenario>
+        <scenario id="1" type="userdefined2" initial_chunk_count="6" label="Multiplayer">0-2 6-12 3-5 13-18</scenario>
+      </scenarios>
+      <scenarios_info>
+        <scenario_info id="0" type="userdefined1">
+          <lang type="default" name="Zombies"/>
+        </scenario_info>
+        <scenario_info id="1" type="userdefined2">
+          <lang type="default" name="Multiplayer"/>
+        </scenario_info>
+      </scenarios_info>
+    </chunk_info>
+  </volume>
+</psproject>

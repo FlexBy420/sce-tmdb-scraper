@@ -1,0 +1,603 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR03059_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "Silent Hill: Book of Memories",
+  "trophyTitleDetail": "Book of Memories",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/6A48E2F97B0A6EF9B2517F70C77B033643E7C962.PNG",
+  "trophyTitlePlatform": "PSVITA",
+  "definedTrophies": {
+    "bronze": 48,
+    "silver": 12,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Silent Hill: Book of Memories",
+      "trophyGroupDetail": "Book of Memories",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/6A48E2F97B0A6EF9B2517F70C77B033643E7C962.PNG",
+      "definedTrophies": {
+        "bronze": 48,
+        "silver": 8,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "DLCトロフィー - 追加の記憶パック",
+      "trophyGroupDetail": "DLCトロフィーで新たな悪夢へ",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/966BDBDF798E0BB7246D7BCFB60705EE8E180C73.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "超記憶力",
+      "trophyDetail": "すべてのトロフィーをゲット",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/5D36EBAF4F0167722EC2714CB13F5762FFA5C0F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "創造主",
+      "trophyDetail": "キャラを作成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/FFF7F10613D0C3CEDC9FC9D357B8C3DB8A575113.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "消費者",
+      "trophyDetail": "ハワードのショップでアイテム購入",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/7412E00738E2D2DC36EB29047E56B6EE539E60B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ちょっとウト寝",
+      "trophyDetail": "ゾーン１をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/8ECEB037DD96DB63F44CB16315DB29CB0C531E40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "爆睡",
+      "trophyDetail": "ゾーン５０に到達",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/AA0A9CF93FFD69A142F8D1D31473116EC724D085.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "昏睡状態",
+      "trophyDetail": "ゾーン１００に到達",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/87678F0DF2E38167C6676D18CEE2E87B46906BB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "新参者",
+      "trophyDetail": "レベル２に到達",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/A4F9733C266A7E8EE2545D712F9209B201266F12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "見習い",
+      "trophyDetail": "レベル２５に到達",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/4556DE44A490FDFF6B077F3E3BADDB25F5B33D8C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "マスター",
+      "trophyDetail": "レベル５０に到達",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/9E48F04B4B1FB04FC8D8F570A48E4B21D78BCD59.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ミートチョイス",
+      "trophyDetail": "巨大肉切り包丁でブッチャーを２５体倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/729D7C64908C03ECE2292D97E150C6CE93E8C35A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "乱暴者",
+      "trophyDetail": "鉄パイプでナースを２５体倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/F05533656DB2FAC8471546D89E759924430845B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ハンマー登場",
+      "trophyDetail": "ブギーマンハンマーでブギーマンを２５体倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/D7DB073AB4BB6FDA48674AE08B7380DE48B95EAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "打倒ピラミッド",
+      "trophyDetail": "大鉈でピラミッドヘッドを２５体倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/43626BB8FD85C5347E46C012DB8D76A37AF6CCA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "光・自己治癒",
+      "trophyDetail": "光のカルマ能力「自己治癒」を使ってHPを２５％以上回復",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/E1CBDFE17A19E22DC2FAB95EF874C9CF68EA039B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "光・治癒恩恵",
+      "trophyDetail": "光のカルマ能力「治癒恩恵」を使って友達のHPを５０％以上回復",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/C5078AE9F13845D4581F0145FFAA83B0583C4DBE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "光・一斉治癒",
+      "trophyDetail": "光のカルマ能力「一斉治癒」を使って３人のプレイヤーのHPをそれぞれ5０％以上回復（マルチプレイ）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/8FCF200869DD21DC73C11730D60FAE0C5A8B43B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "血・集中攻撃",
+      "trophyDetail": "血のカルマ能力｢集中攻撃｣を使って５体以上の敵を倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/E667027E9019D8939BC83E8B2FB4E7FD8A2F08B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "血・ビーム",
+      "trophyDetail": "血のカルマ能力「ビーム」を使って一度に５体以上の敵を倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/58BC5137F0B6AD40E34F35C3DF0C3079BFCD905C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "血・燃焼攻撃",
+      "trophyDetail": "血のカルマ能力「燃焼攻撃」を使って一度に４種類の敵を倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/5BD55CE3AA2B3A2D0351D438C375D6D3C643715D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ウェポンブレーカー",
+      "trophyDetail": "壊れそうな武器でパワー技「ウェポンブレーカー」を発動",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/A8B677750D31BFB92BAB60916EDE401D5D55CD48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "チャージタックル",
+      "trophyDetail": "パワー技「チャージタックル」を使って敵をもう１体の敵に叩き付ける",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/E62D5F3D7DD63CF201FF8ABB3C7F41B55F7EAB01.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "フラッシュバースト",
+      "trophyDetail": "パワー技「フラッシュバースト」を使って敵を失神させた後で5体かそれ以上の敵に攻撃",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/7B6906FC7DBA3E5E1FDBBACDC8CEC719A44BED96.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "カルマフリップ",
+      "trophyDetail": "パワー技「カルマフリップ」を使って一度に8体かそれ以上の敵を反転させる",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/D20EB4657FA759B57F8E2E7C32F0809A1ACC87B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "プッシュフォース",
+      "trophyDetail": "パワー技「プッシュフォース」を使って一度に８体かそれ以上の敵を押し倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/6EF9A66787F85AB40B0C42145C2962BE89713216.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "HPサイフォン",
+      "trophyDetail": "パワー技「HPサイフォン」を使って死にそうな友達を蘇らせる（マルチプレイ）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/0F39B67A8566C0693F9A35A529F2A980AB6C385A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "３６０°アタック",
+      "trophyDetail": "パワー技「３６０°アタック」を使って一度に４体以上の敵に攻撃",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/D73F84EB207D420A5CEE62E5E98756D2C872CAA6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "猛獣使い",
+      "trophyDetail": "ダメージを受けずに任意の守護者を倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/89808C3D9D5F35650340205A1DA799FAA9122408.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ビートマニア",
+      "trophyDetail": "コンボアタックを３０回決める",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/E47B06718EE0EFD7F0BCD9548BFF8C194DED2D0A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "鍛冶屋",
+      "trophyDetail": "１０個の武器をレベルアップ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/E482055FDC82FE8B0449A5A6BE4B198E4B145BE6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "大出血",
+      "trophyDetail": "１つのゾーンで死なずに４００％のHPを失う",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/1E5385BE275483F1FE768A7F6336D4E182103577.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ボディガード",
+      "trophyDetail": "拳だけで１つのゾーンをクリア（武器の使用不可）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/CADF4DC8BE97F324B849E19CC1E06DF3D571754E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "クイズの天才",
+      "trophyDetail": "レバーのヒントを使わずに５つのパズルをクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/596152ED63FA3DD52E6BCD698BE4556D6FA19BFE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "処刑人",
+      "trophyDetail": "１つのゾーン内で１０体の敵に対して処刑攻撃を行う",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/BB935DD8B23968E90DEFA8D69D74E0ABCEC94A25.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "不器用",
+      "trophyDetail": "ゲーム内のすべてのトラップに引っかかる",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/45B77F3B5F842D4E4B866EA9011D1B91EDAA61AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "救急隊員",
+      "trophyDetail": "友達からのリクエストに応えて体力パックを届ける（マルチプレイ）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/CAE22D96D75547C923B92DF2389D63EAF903CFDB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "大金持ち",
+      "trophyDetail": "ハワードのショップでMRを25万消費",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/2DA532946DF0C29141498726D76436E4A5486F3B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "忍者",
+      "trophyDetail": "懐中電灯を使わずに１つのゾーンをクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/73F484F68984276EA1A24E0873EAEFCD76B4B414.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ハイな気分",
+      "trophyDetail": "立ち止まった時間の合計が３０秒以下で１つのゾーンをクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/126E419C528B5B33ACFA0CC896DBEE3B76A5D5F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "オタク",
+      "trophyDetail": "１人のキャラのチャット音声をすべてプレイ\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/19399E633912510DA5BE5BC4D64E7ABB96A1A9A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ウィングマン",
+      "trophyDetail": "４人のプレイヤー全員が生きた状態で任意の守護者を倒す（マルチプレイ）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/51547CC5BCB79A98FA4A15245C8474842A94480F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "聖人",
+      "trophyDetail": "すべての忘れられた部屋を「光」エンディングでクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/C71C3B4263B38297C5E4AAA975CA257EAF7C7D80.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "罪人",
+      "trophyDetail": "すべての忘れられた部屋を「血」エンディングでクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/12C3779F0673DA7E902A2128ACCA854B2698B501.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "宙ぶらりん",
+      "trophyDetail": "すべての忘れられた部屋を「中性」エンディングでクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/DAFBA6B6A449F0A1FA166FDE958585774C7A2F27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "消防士",
+      "trophyDetail": "火の守護者を倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/908A981DB1A604FD4B5F4106DEA3697A2FA0D5F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "木こり",
+      "trophyDetail": "森の守護者を倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/9F061A018BFC927A2E47D241B037C325EA24706E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "眠りの精",
+      "trophyDetail": "光の守護者を倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/63CCD3B2E7EF216798968861D02B8687691339A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "配管工",
+      "trophyDetail": "水の守護者を倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/A229E65361EA81586922F97DD70842D968FB843A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "鉱山労働者",
+      "trophyDetail": "大地の守護者を倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/8C95CC15205A4FD31B310450CABB696E6E7FCF46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "採血士",
+      "trophyDetail": "血の守護者を倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/C43BC92726B138DE2045C785A792E7E71AFC2B01.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "作家",
+      "trophyDetail": "鉄の守護者を倒してゲームをクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/475CCC58E69782CD1A0CA0CAF74342F45AB9BF78.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "使者",
+      "trophyDetail": "ゾーン１から２１までのヴァルティエルのミッションをクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/8683F146CE942CC48E7CB7C40D17A98D11CC2F43.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "語り部",
+      "trophyDetail": "６つのゲームエンディングすべてを達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/26717E95F585E445FBD62ABEDB9D087B721E91CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "建築家",
+      "trophyDetail": "ルームリストを１００％完成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/AF28EE0455C3EC23F27555B0C4DB9B88E0BBD7DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "アンティーク専門家",
+      "trophyDetail": "工芸品リストを１００％完成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/DBBA48C2547DF7E2ECE688EB01CAFAA690DD79A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "兵器ディーラー",
+      "trophyDetail": "武器リストを１００％完成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/8D043A347CA2B275ADA68E6464BDD98DEA3693CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "カウチポテト",
+      "trophyDetail": "放送番組リストを１００％完成 ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/5616861B0DBF35F81A200C0F4ED7A7DD5AD4EFE3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "図書館員",
+      "trophyDetail": "メモリストを１００％完成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/BE1AD558B164A3294CC70EBA89865FDCC5B4FB90.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "獣医",
+      "trophyDetail": "クリーチャーリストを１００％完成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/C21F7AC7BABCB453C0A9B70FD44654D9C5507037.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "楽観主義者",
+      "trophyDetail": "属性のあるメモ40種類を全部「光」にする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/2E5F9390A94632C401E89E4C7752FCA6740397D7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "悲観主義者",
+      "trophyDetail": "属性のあるメモ40種類を全部「血」にする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/B5B6F6B8E9F9B1D7EE7585500C7FA5D108113CB3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "神",
+      "trophyDetail": "レベル７０までレベルアップ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/038BDA1B0F7AAB98CA89D8709A9CFC8ADF62E3B3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "コメンテーター",
+      "trophyDetail": "各リストの追加コンテンツ(赤)の部分をコンプリートする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/97AD3F8DF062C6CE78E182C3A238A88CFF6A8B44.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 62
+}

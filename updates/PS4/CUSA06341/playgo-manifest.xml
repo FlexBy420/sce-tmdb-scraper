@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<psproject fmt="playgo-manifest" version="2000">
+  <volume>
+    <chunk_info chunk_count="65" scenario_count="2">
+      <scenarios default_id="0">
+        <scenario id="0" type="userdefined1" initial_chunk_count="5" initial_chunk_count_disc="5" label="Single Player">0-1 18-64 8-11 2-7 12-17</scenario>
+        <scenario id="1" type="userdefined2" initial_chunk_count="11" label="Multiplayer">0-1 9-11 2-4 12-14 8 5-7 15-64</scenario>
+      </scenarios>
+      <scenarios_info>
+        <scenario_info id="0" type="userdefined1">
+          <lang type="default" name="Single Player"/>
+          <lang type="ja" name="シングルプレイヤー"/>
+          <lang type="fr" name="Solo"/>
+          <lang type="es-ES" name="Jugador individual"/>
+          <lang type="de" name="Einzelspieler"/>
+          <lang type="it" name="Giocatore singolo"/>
+          <lang type="ru" name="Одиночная игра"/>
+          <lang type="ko" name="싱글플레이"/>
+          <lang type="zh-Hant" name="單人玩家"/>
+          <lang type="zh-Hans" name="单人游戏"/>
+          <lang type="pl" name="Jeden gracz"/>
+          <lang type="pt-BR" name="Individual"/>
+          <lang type="es-LA" name="Jugador individual"/>
+          <lang type="ar" name="طور اللعب الفردي"/>
+          <lang type="fr-CA" name="Solo"/>
+        </scenario_info>
+        <scenario_info id="1" type="userdefined2">
+          <lang type="default" name="Multiplayer"/>
+          <lang type="ja" name="マルチプレイヤー"/>
+          <lang type="fr" name="Multijoueur"/>
+          <lang type="es-ES" name="Multijugador"/>
+          <lang type="de" name="Mehrspieler"/>
+          <lang type="it" name="Multigiocatore"/>
+          <lang type="ru" name="Сетевая игра"/>
+          <lang type="ko" name="멀티플레이"/>
+          <lang type="zh-Hant" name="多人連線"/>
+          <lang type="zh-Hans" name="多人游戏"/>
+          <lang type="pl" name="Gra wieloosobowa"/>
+          <lang type="pt-BR" name="Multijogador"/>
+          <lang type="es-LA" name="Multijugador"/>
+          <lang type="ar" name="طور اللعب الجماعي"/>
+          <lang type="fr-CA" name="Multijoueur"/>
+        </scenario_info>
+      </scenarios_info>
+    </chunk_info>
+  </volume>
+</psproject>

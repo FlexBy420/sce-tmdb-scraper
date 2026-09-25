@@ -1,0 +1,231 @@
+{
+  "gameSetupMode": "f1",
+  "season": 2018,
+  "valid": true,
+  "visible": true,
+  "driver": "lewis_hamilton",
+  "track": "baku",
+  "raceLength": "100_percent",
+  "raceLength": "100_percent",
+  "raceRuleset": "race",
+  "vehicleDamage": "Full",
+  "eventType": "SingleSession",
+  "eventSpeciality": "Regular",
+  "noSnapshot": false,
+  "flashbacks": true,
+  "strictRules": true, 
+  "flyingLap": false,
+  "returnToGarage": true,
+  "allowCarSetup": true,
+  "objectivePosition": 0,
+  "LapCompletion": 0,
+  "NoFlashbackLaps": 1000,
+  "targetTime": 5525.0,
+  "targetLapTime": 139.0,
+  "maxDifficultyModifier": 0.11,
+  "CleanRace": 0.5,
+  "AbsOff": 0.04,
+  "TractionControlOff": 0.04,
+  "TractionControlMedium": 0.02,
+  "ManualGears": 0.04,
+  "ManualGearsSuggested": 0.02,
+  "DRLOff": 0.03,
+  "DRLCorners": 0.005,
+  "PitAssistOff": 0.0,
+  "eSports" : true,
+  "eventTODStart": -4760,
+  "targetLapTimeCheatMultiplier" : 0.64,  
+  "targetTimeCheatMultiplier" : 0.8,  
+  "weatherSequence": [
+    {
+      "type": "clear",
+      "length": 7000.0,
+      "transition_length": 0.0
+    }
+  ],
+  "drivers": [{
+            "name" : "lewis_hamilton",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 1,
+            "vehicle": "mercedes",
+            "team": "mercedes",
+            "teamPosition": 0,
+            "playerDescription" : "player"
+        }, {
+            "name" : "valtteri_bottas",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 2,
+            "vehicle": "mercedes",
+            "team": "mercedes",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "sebastian_vettel",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 0,
+            "vehicle": "ferrari",
+            "team": "ferrari",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "kimi_raikkonen",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 5,
+            "vehicle": "ferrari",
+            "team": "ferrari",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "daniel_ricciardo",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 3,
+            "vehicle": "redbull",
+            "team": "redbull",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "max_verstappen",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 4,
+            "vehicle": "redbull",
+            "team": "redbull",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "sergio_perez",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 7,
+            "vehicle": "force_india",
+            "team": "forceindia",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "esteban_ocon",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 6,
+            "vehicle": "force_india",
+            "team": "forceindia",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "lance_stroll",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 9,
+            "vehicle": "williams",
+            "team": "williams",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "sergey_sirotkin",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 10,
+            "vehicle": "williams",
+            "team": "williams",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "nico_hulkenberg",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 13,
+            "vehicle": "lotus",
+            "team": "renault",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "carlos_sainz-jr",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 8,
+            "vehicle": "lotus",
+            "team": "renault",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "brendon_hartley",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 18,
+            "vehicle": "toro_rosso",
+            "team": "tororosso",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "pierre_gasly",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 16,
+            "vehicle": "toro_rosso",
+            "team": "tororosso",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "romain_grosjean",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 19,
+            "vehicle": "haas",
+            "team": "haas",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "kevin_magnussen",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 14,
+            "vehicle": "haas",
+            "team": "haas",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "fernando_alonso",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 11,
+            "vehicle": "mclaren",
+            "team": "mclaren",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "stoffel_vandoorne",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 15,
+            "vehicle": "mclaren",
+            "team": "mclaren",
+            "teamPosition": 1,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "marcus_ericsson",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 17,
+            "vehicle": "sauber",
+            "team": "sauber",
+            "teamPosition": 0,
+            "playerDescription" : "ai"
+        }, {
+            "name" : "charles_leclerc",
+            "tyreAllocation" : "Balanced",
+            "gridPosition": 12,
+            "vehicle": "sauber",
+            "team": "sauber",
+            "teamPosition": 1,
+            "playerDescription" : "ai" 
+        }
+  ],
+  "leaderboard": "LBV2018FE20",
+  "xbox_one_id": 20,
+  "activeFrom": 1555930800,
+  "activeUntil": 1557097199,
+  "canWriteToLeaderboardsUntil": 1557097199,
+  "descriptions": {
+		"english": "Qualifying event for the 2019 F1® Esports Series. Can Lewis HAMILTON take the chequered flag in the 2018 FORMULA 1 AZERBAIJAN GRAND PRIX? This is a points based event. Points will be awarded based on skill, speed, difficulty and assist settings, with additional points awarded for clean racing. For more details please refer to: https://f1esports.com/",
+		"english-us" : "Qualifying event for the 2019 F1® Esports Series. Can Lewis HAMILTON take the cheuqered flag in the 2018 FORMULA 1 AZERBAIJAN GRAND PRIX? This is a points based event. Points will be awarded based on skill, speed, difficulty and assist settings, with additional points awarded for clean racing. For more details please refer to: https://f1esports.com/",
+		"french" : "Épreuve de qualification pour la Série Esports de F1® 2019. Lewis Hamilton peut-il décrocher la victoire au Grand Prix d'Azerbaïdjan 2018 ? Le classement se décide aux points. Points obtenus via dextérité, vitesse, difficulté et aides utilisées. Des points supp. sont octroyés en cas de conduite propre. Pour en savoir plus, consultez : https://f1esports.com/",
+		"italian" : "Evento Qualifiche per l'Esports Series 2019 F1®. Riuscirà Lewis HAMILTON a tagliare il traguardo per primo nel 2018 FORMULA 1 AZERBAIJAN GRAND PRIX? Questo è un evento a punti. I punti saranno assegnati sulla base delle impostazioni di abilità, velocità, difficoltà e aiuti, con punti supplementari per la correttezza in gara. Per maggiori dettagli: https://f1esports.com/",
+		"german" : "Qualifikationsevent für die 2019 F1® Esports Series. Kann Lewis HAMILTON sich beim 2018 FORMULA 1 AZERBAIJAN GRAND PRIX die karierte Flagge holen? Die vergebenen Punkte basieren auf Fahrkönnen, Geschwindigkeit, Schwierigkeitsgrad und Fahrhilfen; ein sauberes Rennen bringt zusätzliche Punkte ein. Mehr Infos unter https://f1esports.com",
+		"spanish" : "Clasificación para Esports Series de F1® 2019. ¿Puede Lewis HAMILTON conquistar la bandera a cuadros en el 2018 FORMULA 1 AZERBAIJAN GRAND PRIX? Es un evento por puntos. Se otorgarán más o menos según los ajustes de habilidad, velocidad, dificultad y asistencia.Las carreras limpias brindan puntos adicionales. Para saber más, ve a: https://f1esports.com/",
+		"japanese" : "F1® Eスポーツシリーズ予選。ルイス・ハミルトンは2018年フォーミュラ1アゼルバイジャン・グランプリでチェッカーフラッグを揺らすことができるか？ポイントベースで競われるこのイベントでは、スキル、スピード、難易度、アシスト設定に基づくポイントに加え、クリーンレースで追加ポイントが加算される。詳細はこちら: https://f1esports.com/",
+		"tchinese" : "Qualifying event for the 2019 F1® Esports Series. Can Lewis HAMILTON take the cheuqered flag in the 2018 FORMULA 1 AZERBAIJAN GRAND PRIX? This is a points based event. Points will be awarded based on skill, speed, difficulty and assist settings, with additional points awarded for clean racing. For more details please refer to: https://f1esports.com/",
+		"schinese" : "2019F1®电子竞技系列赛的资格赛。L·汉密尔顿可以在2018年FORMULA 1阿塞拜疆大奖赛中获得方格旗吗？本次赛事是积分赛。依照车手技术、速度、赛事难度和辅助设置来给分，完美比赛更可额外获得积分。如需详细信息，请查看：https://f1esports.com/",
+		"russian" : "Квалификационный заезд серии F1® Esports 2019. Сумеет ли Льюис ХЭМИЛТОН забрать клетчатый флаг «ФОРМУЛЫ-1» на ГРАН-ПРИ АЗЕРБАЙДЖАНА 2018? В этом событии пилоты зарабатывают очки за мастерство. Результаты заезда определяются очками, начисляемыми за мастерство, скорость, сложность и настройки помощи, а также за чистую езду. Дополнительную информацию можно найти на https://f1esports.com/",
+		"polish" : "Wydarzenie kwalifikacyjne eSports Series F1® 2019. Czy Lewis HAMILTON sięgnie po zwycięstwo w wyścigu FORMUŁY 1 GRAND PRIX AZERBEJDŻANU 2018? To jest wydarzenie z punktacją. Punkty zostaną przyznane za umiejętności, prędkość i ustawienia systemów wspomagania, a dodatkowe punkty można zdobyć za jazdę bez kolizji. Szczegóły pod adresem: https://f1esports.com/",
+		"portuguese" : "Qualifying event for the 2019 F1® Esports Series. Can Lewis HAMILTON take the cheuqered flag in the 2018 FORMULA 1 AZERBAIJAN GRAND PRIX? This is a points based event. Points will be awarded based on skill, speed, difficulty and assist settings, with additional points awarded for clean racing. For more details please refer to: https://f1esports.com/",
+		"brazilian" : "Evento de classificação para a Série E-Sports 2019 da F1®. Lewis HAMILTON conseguirá a bandeira quadriculada no GRANDE PRÊMIO DO AZERBAIJÃO DE FÓRMULA 1 DE 2018? Este evento é baseado em pontos, concedidos com base em habilidade, velocidade, dificuldade e configurações de assistência e pontos adicionais por uma corrida limpa. Para saber mais, visite: https://f1esports.com/",
+		"french-ca" : "Épreuve de qualification pour la Série Esports de F1® 2019. Lewis Hamilton peut-il décrocher la victoire au Grand Prix d'Azerbaïdjan 2018 ? Le classement se décide aux points. Points obtenus via dextérité, vitesse, difficulté et aides utilisées. Des points supp. sont octroyés en cas de conduite propre. Pour en savoir plus, consultez : https://f1esports.com/",
+		"spanish-us" : "Clasificación para Esports Series de F1® 2019. ¿Puede Lewis HAMILTON conquistar la bandera a cuadros en el 2018 FORMULA 1 AZERBAIJAN GRAND PRIX? Es un evento por puntos. Se otorgarán más o menos según los ajustes de habilidad, velocidad, dificultad y asistencia.Las carreras limpias brindan puntos adicionales. Para saber más, ve a: https://f1esports.com/",
+		"worstcase" : "Qualifying event for the 2019 F1® Esports Series. Can Lewis HAMILTON take the cheuqered flag in the 2018 FORMULA 1 AZERBAIJAN GRAND PRIX? This is a points based event. Points will be awarded based on skill, speed, difficulty and assist settings, with additional points awarded for clean racing. For more details please refer to: https://f1esports.com/"		
+  }
+}

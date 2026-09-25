@@ -1,0 +1,79 @@
+<xml>
+	<!-- :TODO: Versioning (and prompt to patch if a newer version exists) -->
+	<client version="1" />
+	
+	<entitlement_validity days="180" />
+	<grace_period days="14" />
+
+	<manifest region="scee" content_base="http://scee-home.playstation.net/e.home/hap/images/">
+		<game_list>
+			<game id="scribble" uuid="484C3086-1C254317-B9FCCD88-7BF9C075" product_id="EP9000-NPEQ00005_00-SCRIBBLESH001936" entitlement_id="EP9000-NPEQ00005_00-001936" />
+			<game id="madblocker" uuid="04019D4C-7B714661-9BA45850-85B31EEA" product_id="EP4306-NPER00043_00-MADBLOCKER000001" entitlement_id="EP4306-NPER00043_00-000001" />
+			<game id="asteroids" uuid="C49D6A4E-8B824AF3-ADD558E2-947E743F" product_id="EP4369-NPER00052_00-ASTEROIDSA000072"  entitlement_id="EP4369-NPER00052_00-000072" />
+			<game id="centipede" uuid="33D461A7-96C44EB9-A0234F8C-06BDF447" product_id="EP4369-NPER00052_00-CENTIPEDEA000075"  entitlement_id="EP4369-NPER00052_00-000075" />
+			<game id="frogger" uuid="7689C128-4B684173-B5B8054E-60EDDD33" product_id="EP0101-NPER00034_00-FROGGERXXX000841" entitlement_id="EP0101-NPER00034_00-000841" />
+			<game id="timepilot" uuid="A496A29F-0ECD484D-AF19AF6A-0A69FDA8" product_id="EP0101-NPER00034_00-TIMEPILOTX000842" entitlement_id="EP0101-NPER00034_00-000842" />
+			<game id="astrosmash" uuid="0D0AC262-9B7B4D9B-BDA05E37-8FFD3624" product_id="EP4387-NPER00058_00-ASTROSMASH000002" entitlement_id="EP4387-NPER00058_00-000002" />
+			<game id="sharkshark" uuid="B871EEDF-F5484888-B8D7830C-148B8B9A" product_id="EP4387-NPER00058_00-SHARKSHARK000001" entitlement_id="EP4387-NPER00058_00-000001" />
+		</game_list>
+		<featured_items>
+			<category id="STORE-MSF73008-VITAHOMEARCADE" />
+			<game id="madblocker" small_image="00000002/madblocker_store_small.png" big_image="00000002/madblocker_store_big.png" />
+			<game id="scribble" small_image="00000002/storeimage_small02.png" big_image="00000002/scribble_store_big.png" />
+			<game id="centipede" small_image="00000002/centipede_store_small.png" big_image="00000002/centipede_store_big.png" />
+			<game id="asteroids" small_image="00000002/asteroids_store_small.png" big_image="00000002/asteroids_store_big.png" />
+			<game id="frogger" new="true" small_image="00000002/Frogger_store_small.png" big_image="00000002/Frogger_store_big.png" />
+			<game id="timepilot" new="true" small_image="00000002/TimePilot_store_small.png" big_image="00000002/TimePilot_store_big.png" />
+			<game id="astrosmash" new="true" small_image="00000002/Astrosmash_store_small.png" big_image="00000002/Astrosmash_store_big.png" />
+			<game id="sharkshark" new="true" small_image="00000002/SharkShark_store_small.png" big_image="00000002/SharkShark_store_big.png" />
+		</featured_items>
+	</manifest>
+
+	<manifest region="scea" content_base="http://scea-home.playstation.net/a.home/hap/images/">
+		<game_list>
+			<game id="scribble" uuid="484C3086-1C254317-B9FCCD88-7BF9C075" product_id="UP9000-NPUQ00015_00-HAPSCRIBBLESHT00" entitlement_id="UP9000-NPUQ00015_00-000001" />
+			<game id="madblocker" uuid="04019D4C-7B714661-9BA45850-85B31EEA" product_id="UP4306-NPUR30331_00-HAPMADBLOCKER000" entitlement_id="UP4306-NPUR30331_00-000001" />
+			<game id="asteroids" uuid="C49D6A4E-8B824AF3-ADD558E2-947E743F" product_id="UP0182-NPUR30051_00-HAPASTEROIDS0000" entitlement_id="UP0182-NPUR30051_00-000001" />
+			<game id="centipede" uuid="33D461A7-96C44EB9-A0234F8C-06BDF447" product_id="UP0182-NPUR30051_00-HAPCENTIPEDE0000" entitlement_id="UP0182-NPUR30051_00-000002" />
+			<game id="frogger" uuid="7689C128-4B684173-B5B8054E-60EDDD33" product_id="UP0101-NPUR30231_00-HAPFROGGER000000" entitlement_id="UP0101-NPUR30231_00-000002" />
+			<game id="timepilot" uuid="A496A29F-0ECD484D-AF19AF6A-0A69FDA8" product_id="UP0101-NPUR30231_00-HAPTIMEPILOT0000" entitlement_id="UP0101-NPUR30231_00-000001" />
+			<game id="astrosmash" uuid="0D0AC262-9B7B4D9B-BDA05E37-8FFD3624" product_id="UT5022-NPUR00206_00-HAPASTROSMASH000" entitlement_id="UT5022-NPUR00206_00-000001" />
+			<game id="sharkshark" uuid="B871EEDF-F5484888-B8D7830C-148B8B9A" product_id="UT5022-NPUR00206_00-HAPSHARKSHARK000" entitlement_id="UT5022-NPUR00206_00-000002" />
+		</game_list>
+		<featured_items>
+			<category id="STORE-MSF74515-PSHOMEARCADEAPPS" />
+			<game id="madblocker" small_image="00000002/madblocker_store_small.png" big_image="00000002/madblocker_store_big.png" />
+			<game id="scribble" small_image="00000002/storeimage_small02.png" big_image="00000002/scribble_store_big.png" />
+			<game id="centipede" small_image="00000002/centipede_store_small.png" big_image="00000002/centipede_store_big.png" />
+			<game id="asteroids" small_image="00000002/asteroids_store_small.png" big_image="00000002/asteroids_store_big.png" />
+			<game id="frogger" new="true" small_image="00000002/Frogger_store_small.png" big_image="00000002/Frogger_store_big.png" />
+			<game id="timepilot" new="true" small_image="00000002/TimePilot_store_small.png" big_image="00000002/TimePilot_store_big.png" />
+			<game id="astrosmash" new="true" small_image="00000002/Astrosmash_store_small.png" big_image="00000002/Astrosmash_store_big.png" />
+			<game id="sharkshark" new="true" small_image="00000002/SharkShark_store_small.png" big_image="00000002/SharkShark_store_big.png" />
+		</featured_items>
+	</manifest>
+
+	<manifest region="sceasia" content_base="http://sceasia-home.playstation.net/asia.home/hap/images/">
+		<game_list>
+			<game id="scribble" uuid="484C3086-1C254317-B9FCCD88-7BF9C075" product_id="HP9000-NPHQ00001_00-0008540000000000" entitlement_id="HP9000-NPHQ00001_00-000854" />
+			<game id="madblocker" uuid="04019D4C-7B714661-9BA45850-85B31EEA" product_id="HT4016-NPHR00032_00-0000010000000000" entitlement_id="HT4016-NPHR00032_00-000001" />
+			<game id="asteroids" uuid="C49D6A4E-8B824AF3-ADD558E2-947E743F" product_id="HP4369-NPHR00034_00-0000010000000000" entitlement_id="HP4369-NPHR00034_00-000001" />
+			<game id="centipede" uuid="33D461A7-96C44EB9-A0234F8C-06BDF447" product_id="HP4369-NPHR00034_00-0000020000000000" entitlement_id="HP4369-NPHR00034_00-000002" />
+			<game id="frogger" uuid="7689C128-4B684173-B5B8054E-60EDDD33" product_id="HP0101-NPHR00011_00-0000230000000000" entitlement_id="HP0101-NPHR00011_00-000023" />
+			<game id="timepilot" uuid="A496A29F-0ECD484D-AF19AF6A-0A69FDA8" product_id="HP0101-NPHR00011_00-0000220000000000" entitlement_id="HP0101-NPHR00011_00-000022" />
+			<game id="astrosmash" uuid="0D0AC262-9B7B4D9B-BDA05E37-8FFD3624" product_id="HT4015-NPHR00031_00-0000010000000000" entitlement_id="HT4015-NPHR00031_00-000001" />
+			<game id="sharkshark" uuid="B871EEDF-F5484888-B8D7830C-148B8B9A" product_id="HT4015-NPHR00031_00-0000020000000000" entitlement_id="HT4015-NPHR00031_00-000002" />
+		</game_list>
+		<featured_items>
+			<category id="HP9011-PCSD00045_00-INGAMECATALOG000" />
+			<game id="madblocker" small_image="00000002/madblocker_store_small.png" big_image="00000002/madblocker_store_big.png" />
+			<game id="scribble" small_image="00000002/storeimage_small02.png" big_image="00000002/scribble_store_big.png" />
+			<game id="centipede" small_image="00000002/centipede_store_small.png" big_image="00000002/centipede_store_big.png" />
+			<game id="asteroids" small_image="00000002/asteroids_store_small.png" big_image="00000002/asteroids_store_big.png" />
+			<game id="frogger" new="true" small_image="00000002/Frogger_store_small.png" big_image="00000002/Frogger_store_big.png" />
+			<game id="timepilot" new="true" small_image="00000002/TimePilot_store_small.png" big_image="00000002/TimePilot_store_big.png" />
+			<game id="astrosmash" new="true" small_image="00000002/Astrosmash_store_small.png" big_image="00000002/Astrosmash_store_big.png" />
+			<game id="sharkshark" new="true" small_image="00000002/SharkShark_store_small.png" big_image="00000002/SharkShark_store_big.png" />
+		</featured_items>
+	</manifest>
+</xml>

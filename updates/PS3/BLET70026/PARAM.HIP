@@ -1,0 +1,1 @@
+Maxdome Beta V1.04 to confirm fixes to the PlayReady detail level switch.  Also including the previous single playback fix.

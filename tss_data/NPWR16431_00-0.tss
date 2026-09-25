@@ -1,0 +1,69 @@
+{
+  "version": {
+    "major": 0,
+    "minor": 1
+  },
+  "iso-regions": [
+    {
+      "id": 0,
+      "name": "EU",
+      "codes": [ "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FO", "FR", "GB", "GG", "GI", "GL", "GR", "HR", "HU", "IE", "IM", "IS", "IT", "JE", "LI", "LT", "LU", "LV", "MC", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SA", "SE", "SI", "SJ", "SK", "SM", "UA", "VA" ]
+    },
+    {
+	  "id": 1,
+	  "name": "NA-West",
+	  "codes": [ "US", "CA", "PM", "US-AK", "US-AZ", "US-CA", "US-CO", "US-HI", "US-ID", "US-MT", "US-NV", "US-NM", "US-OR", "US-UT", "US-WA", "US-WY" ]
+	},
+	{
+	  "id": 2,
+	  "name": "NA-East",
+	  "codes": [ "US-AL", "US-AR", "US-CT", "US-DE", "US-FL", "US-GA", "US-IL", "US-IN", "US-IA", "US-KS", "US-KY", "US-LA", "US-ME", "US-MD", "US-MA", "US-MI", "US-MN", "US-MS", "US-MO", "US-NE", "US-NH", "US-NJ", "US-NY", "US-NC", "US-ND", "US-OH", "US-OK", "US-PA", "US-RI", "US-SC", "US-SD", "US-TN", "US-TX", "US-VT", "US-VA", "US-WV", "US-WI", "US-DC", "US-AS", "US-GU", "US-MP", "US-PR", "US-UM", "US-VI" ]
+	},
+    {
+      "id": 3,
+      "name": "AS",
+      "codes": [ "AZ", "BD", "BH", "BN", "CN", "GE", "GU", "HK", "ID", "IL", "IN", "JP", "KG", "KH", "KP", "KR", "KZ", "MD", "MM", "MN", "MO", "MP", "MV", "MY", "NP", "PH", "PK", "RU", "SG", "TH", "TJ", "TM", "TN", "TW", "UZ", "VN" ]
+    },
+    {
+      "id": 4,
+      "name": "SA",
+      "codes": [ "AG", "AI", "AR", "AW", "BB", "BL", "BO", "BQ", "BR", "CL", "CO", "CR", "CU", "CW", "DM", "DO", "EC", "FK", "GD", "GF", "GP", "GS", "GT", "GY", "HN", "KN", "KY", "LA", "LC", "LK", "MF", "MQ", "MS", "MX", "NI", "PA", "PE", "PR", "PY", "SR", "SV", "SX", "TC", "TT", "UY", "VC", "VE", "VG" ]
+    },
+    {
+      "id": 5,
+      "name": "OC",
+      "codes": [ "AS", "AU", "CC", "CK", "CX", "FJ", "FM", "KI", "MH", "NC", "NF", "NR", "NU", "NZ", "PF", "NZ", "PN", "PW", "SB", "TK", "TL", "TO", "TV", "WF", "WS" ]
+    }
+  ],
+  "timed_challenges": {
+    "schedule_start": "2019-06-13T16:00:00Z",
+    "daily_schedule": [
+      [ "endless/day001/daily_001","endless/day001/daily_002","endless/day001/daily_003" ],
+      [ "endless/day002/daily_004","endless/day002/daily_005","endless/day002/daily_006" ],
+      [ "endless/day003/daily_007","endless/day003/daily_008","endless/day003/daily_009" ],
+      [ "endless/day004/daily_010","endless/day004/daily_011","endless/day004/daily_012" ],
+      [ "endless/day005/daily_013","endless/day005/daily_014","endless/day005/daily_015" ],
+      [ "endless/day006/daily_016","endless/day006/daily_017","endless/day006/daily_018" ],
+      [ "endless/day007/daily_019","endless/day007/daily_020","endless/day007/daily_021" ],
+      [ "endless/day008/daily_022","endless/day008/daily_023","endless/day008/daily_024" ],
+      [ "endless/day009/daily_025","endless/day009/daily_026","endless/day009/daily_027" ],
+      [ "endless/day010/daily_028","endless/day010/daily_029","endless/day010/daily_030" ],
+      [ "endless/day011/daily_031","endless/day011/daily_032","endless/day011/daily_033" ],
+      [ "endless/day012/daily_034","endless/day012/daily_035","endless/day012/daily_036" ],
+      [ "endless/day013/daily_037","endless/day013/daily_038","endless/day013/daily_039" ],
+      [ "endless/day014/daily_040","endless/day014/daily_041","endless/day014/daily_042" ],
+      [ "endless/day015/daily_043","endless/day015/daily_044","endless/day015/daily_045" ],
+      [ "endless/day016/daily_046","endless/day016/daily_047","endless/day016/daily_048" ],
+      [ "endless/day017/daily_049","endless/day017/daily_050","endless/day017/daily_051" ],
+      [ "endless/day018/daily_052","endless/day018/daily_053","endless/day018/daily_054" ],
+      [ "endless/day019/daily_055","endless/day019/daily_056","endless/day019/daily_057" ],
+      [ "endless/day020/daily_058","endless/day020/daily_059","endless/day020/daily_060" ],
+      [ "endless/day021/daily_061","endless/day021/daily_062","endless/day021/daily_063" ]
+    ],
+    "weekly_schedule": [
+      [ "endless/week01/weekly_01","endless/week01/weekly_02","endless/week01/weekly_03" ],
+      [ "endless/week02/weekly_04","endless/week02/weekly_05","endless/week02/weekly_06" ],
+      [ "endless/week03/weekly_07","endless/week03/weekly_08","endless/week03/weekly_09" ]
+    ]
+  }
+}

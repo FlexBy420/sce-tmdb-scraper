@@ -1,0 +1,576 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01064_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "nail'd",
+  "trophyTitleDetail": "nail'd Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/AECBADE7B261B17B5D20ABFD2EFF6BFE397F6388.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 45,
+    "silver": 10,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "nail'd",
+      "trophyGroupDetail": "nail'd Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/AECBADE7B261B17B5D20ABFD2EFF6BFE397F6388.PNG",
+      "definedTrophies": {
+        "bronze": 38,
+        "silver": 7,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "nail'd DLC",
+      "trophyGroupDetail": "nail'd DLC Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/66B204D92B7EC0D3B42A572C36A16A26AE01A5EA.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Got it all!",
+      "trophyDetail": "Unlock all other 48 trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/647293DB2C9BA0F2F85D0EFB1866EFF014FBE50F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Newbie coming!",
+      "trophyDetail": "Win your first nail'd event",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/475055358B900E2E93A63860785571FD5A895776.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just started",
+      "trophyDetail": "Race for more than one hour",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/5B8ED6773D30F53E638E2D2F53FBBC0A91851A6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Greece Cup medalist",
+      "trophyDetail": "Win at least a Bronze Medal in the Greece Amateur Cup in Tournament mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/791F2474DBF8FE29F2032F6289CC68569BB18CF4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Andes Cup medalist",
+      "trophyDetail": "Win at least a Bronze Medal in the Andes Amateur Cup in Tournament mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/F55D371F98BC081F6EBFC45774367D2C810F3B55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yosemite Cup medalist",
+      "trophyDetail": "Win at least a Bronze Medal in the Yosemite Amateur Cup in Tournament mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/FE2B58492F3D4AB04AB3A94240F537595B081B40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arizona Cup medalist",
+      "trophyDetail": "Win at least a Bronze Medal in the Arizona Amateur Cup in Tournament mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/A2CEE13B2BB3895D13F06F34BA359CA4CA229B50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Amateur World Cup medalist",
+      "trophyDetail": "Win at least a Bronze Medal in all the Amateur World Cups in Tournament mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/A79F3E9E4BEA55C3D569A55F42C5BBC440360288.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stunt Mania competition medalist",
+      "trophyDetail": "Win at least a Bronze Medal in the Stunt Cup in Tournament mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/AD76C1010DC29E43D1FE7BD5933004185AB3D4A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Afterburner competition medalist",
+      "trophyDetail": "Win at least a Bronze Medal in the Burner Cup in Tournament mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/0F057E93A3445A708E87C929CBA4638E6AE96959.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pro World Cup medalist",
+      "trophyDetail": "Unlock The Grand Finale in Tournament mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/0EA7517E8577AE1B5396DB4512CBB16DD5C32594.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Dirt devil",
+      "trophyDetail": "Win at least a Bronze Medal in the Tournament",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/255745D52D41DD9B4FCF18340FE04992C4F9CCC9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Competitor",
+      "trophyDetail": "Win 10 events in a row",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/B63610D619EF7368BA2B23235C96EC536A50BBBE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glider",
+      "trophyDetail": "Fly for more than 10 kilometers / 6.2 miles",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/9B49C8873C3864E337CECAAE114FA644A3C0B72D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boost expert",
+      "trophyDetail": "Earn at least 200 Boost Feats",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/E18F5A20D418332E7F50B6C6645DF433BE576285.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boost master",
+      "trophyDetail": "Earn all possible types of Boost Feats",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/59AA6A50B927D8D08F5B0FD4509ED199B8AA4126.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Beat Jasiu",
+      "trophyDetail": "Beat Jasiu's time of 2:37 on Aqueducts in simple race with no mutators",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/BC3E5F17E1797B649268350D18C29C6ED81F94F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crush master",
+      "trophyDetail": "Smash at least 100 opponents in multiplayer races",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/8FC40529D96F0186B4C6CBB5BD0130D44CF49E57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Airborne",
+      "trophyDetail": "Gain a boost feat using air control",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/6F81A249AD6BB7E30958732277E4355817FAE760.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pressing hard",
+      "trophyDetail": "Gain a boost feat using pressure control",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/C5BECFE85A78948F8610AAC17EE347CE8AAA5679.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dangerous maniac!",
+      "trophyDetail": "Be at least 3rd in 100 online events",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/EEAFF95492F2D3DC5AB6876F2129377CF47C7BE6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unwelcome guest",
+      "trophyDetail": "Play and win 30 online events you have not created",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/4A0CAED21AEBF8BBDF27A76EEDEDD94EDDBFAE5F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Home sweet home",
+      "trophyDetail": "Play and win 20 online events you have created",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/6FFC6FC3AAD5B7DBBA665B7F7AC4257D675BBB19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Not a scratch!",
+      "trophyDetail": "Win 5 online events in a row without crashing",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/5002BB7E38159C1CCCE93717FB7A76B48389C414.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flying monster",
+      "trophyDetail": "Perform 20 Monster MTX Boost Feats",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/8D699E4ADB52850B198534BF99237CC2FF2064A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flawless driver",
+      "trophyDetail": "Perform 20 nail'd Expert Boost Feats",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/B7FE814FF34491E7B032CA6F3D0F3FEE01CC2449.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Globetrotter",
+      "trophyDetail": "Drive a total of 1,000 km / 621 mi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/19A7680E93FB39892B5C822034A2E577C848A620.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Judgement day",
+      "trophyDetail": "Gain a Off-road rage boost feat 50 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/53A19354ECD32F8ED255298E2B7DCD2CB3B13960.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brave, brave Sir Robin",
+      "trophyDetail": "Find a shortcut that leads to a three headed knight statue",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/81FD3B0B62470D47FF0C03C8F5C393BB67A3EB9A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrecked God",
+      "trophyDetail": "Win a tournament race in which you crashed at least 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/66685EDC5B60E4296D65CE2B9839198DECD1241E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "And who's the best?",
+      "trophyDetail": "Win races on all tracks in all modes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/D183227CF384FC1CC74E6E45830D23DE24056994.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Working on it, guys",
+      "trophyDetail": "Beat developer bests on 4 tracks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/88BA9C72A991DA49F271731389C0AE074C33B163.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Got you, guys",
+      "trophyDetail": "Beat developer bests on 8 tracks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/74C368E52EBEE9FAA440A5A1C89F4D5A08204B14.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Faster than you, guys",
+      "trophyDetail": "Beat developer bests on all tracks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/C7B07D0E53275B676FB0AC7B15887C0004BAD73C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stuntman",
+      "trophyDetail": "Fly for more than 260 meters / 853 feet in a single jump",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/A0BF65C0840D7D1099A97B8255B6B4C10FEBDC33.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Still alive!",
+      "trophyDetail": "Wreck your vehicle 250 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/10408E692BE58357EB3452EBAFEB5A4F16D547A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dominator",
+      "trophyDetail": "Win a race by more than 5.0 sec.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/6C63D5A86B1E7FB63F4DA4827DFAE83745115181.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heart of a champion",
+      "trophyDetail": "Win an online race with 5 other, higher classified players",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/BA644CAC2D7BA70A4B29E0BBF2622B699FB13B06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Runner up",
+      "trophyDetail": "Win at least a silver medal in each of 49 Tournament events",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/69E3EF9A86E5502CA58939379F8EFCA65D16C716.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "A true winner",
+      "trophyDetail": "Win 100 online races",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/9177F91075F4C9AB7326DF31580B4A27A0FA6E91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Golden guy",
+      "trophyDetail": "Win all 49 Tournament gold medals",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/56B4D6485ABBA9BCB232CD04FFA8A4BCE8397C96.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bronze collector",
+      "trophyDetail": "Win at least a bronze medal in each of 49 Tournament events",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/B54B3F1B09646FA311CB329141CF057D52AC3DA0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Native of Greece",
+      "trophyDetail": "Win races on all Greece tracks in all modes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/25E10BF12E237EFE30D8CA8EC5ADBA0E0873660A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Native of the Andes",
+      "trophyDetail": "Win races on all Andes tracks in all modes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/C1843A1DC2B8C697FBC15E219EC38EC3F91542F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Native of Yosemite",
+      "trophyDetail": "Win races on all Yosemite tracks in all modes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/0645B630E660BA64D9BC700E096E7077EB524D18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Native of Arizona",
+      "trophyDetail": "Win races on all Arizona tracks in all modes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/70AEDFC982DFFADDB8A0DFA1218C74910874D6F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quick like a bunny",
+      "trophyDetail": "Perform 5 Boost Feats in less than 10sec.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/2062C4C8BCB5CF514E0DF12C1AEF23C180EA928A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Never lose faith",
+      "trophyDetail": "Win an online race in which you were last after the first half of the track",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/F8C6B7A3A0CDDF3BA19BABD1944F7D1E4F4FD321.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The great battle of our time",
+      "trophyDetail": "Win an online race in which you smashed two opponents and were smashed twice",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/D15A66BCAEC6D6E055CEBBDA2D91FC69B8DA27D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gender equality",
+      "trophyDetail": "Win 2 events in a row, each one with a different gender driver (SP or MP)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/2AD446882FACAC4A0A0FDCCF7427F59F61D8DA57.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Now it's really done",
+      "trophyDetail": "Win DLC Tournament extension",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/507095708991E1680DDF75ABCF32EC5038CCF6E3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Andes fight back",
+      "trophyDetail": "Win races on all DLC Andes tracks in all modes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/281C7C90C3ACA6FDC72BDF7B253053E33D20139D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The trees are strong",
+      "trophyDetail": "Win an online event on all Yosemite tracks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/E9660FDEB5BC4C442A6753C1576BF22BC9EFC9E1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Still counts as one",
+      "trophyDetail": "Win an online event consisting of 5 or more tracks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/929D46F53FF7F745622C532B153139B649386D44.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Golden guy deluxe",
+      "trophyDetail": "Win all Tournament gold medals including DLC extension",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/D20F3E594D0C529C3CBEB445F76169F2C8121F69.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Like a snail",
+      "trophyDetail": "Win a race without using boost",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/0A589F5F43705B3A84EF22D8FB79AF437DC45E37.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bombproof",
+      "trophyDetail": "Win a detonator race without being blown up",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/66D2A94A0CB00445BE0685894F1A27A327350514.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "AI, human - doesn't matter",
+      "trophyDetail": "Win races on all tracks (including DLC maps) in all modes in multiplayer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/6DB100B5450C7C02818D71AD28BCD0344E3662F2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bomb disposal expert",
+      "trophyDetail": "Win 20 online detonator races with more than 5 players",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/087B62673A8B90E65B433A969870351793DCE4E0.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 59
+}

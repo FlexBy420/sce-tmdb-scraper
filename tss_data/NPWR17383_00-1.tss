@@ -1,0 +1,26 @@
+{
+	"endpoints":
+	[
+		{
+			"environment": "qa",
+			"hydraUrl": "https://mk11-api.wbagora.com",
+			"hydraAPIKey": "147f9baf4fbc4529aaf12572e1aa995e",
+			"hydraClientID": "faae7c06-b158-4faf-9711-87a8d256865e",
+			"eventEndpoint": "https://event.wbinsights.com/seven11/v1/event"
+		},
+		{
+			"environment": "cert",
+			"hydraUrl": "https://mk11-api.wbagora.com",
+			"hydraAPIKey": "2269b16ec6ed4aa4a2b99eae317b92ae",
+			"hydraClientID": "faae7c06-b158-4faf-9711-87a8d256865e",
+			"eventEndpoint": "https://event.wbinsights.com/seven11/v1/event"
+		},
+		{
+			"environment": "prod",
+			"hydraUrl": "https://mk11-api.wbagora.com",
+			"hydraAPIKey": "c6c125dc34a04540aa506215e040a4af",
+			"hydraClientID": "faae7c06-b158-4faf-9711-87a8d256865e",
+			"eventEndpoint": "https://event.wbinsights.com/seven11/v1/event"
+		}
+	]
+}

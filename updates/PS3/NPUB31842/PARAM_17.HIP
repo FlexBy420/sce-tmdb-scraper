@@ -1,0 +1,2 @@
+- Ajustes de sincronia para modo Online;
+- ATENÇÃO: O Nível de Controle Parental deste aplicativo foi alterado para Nível 5.

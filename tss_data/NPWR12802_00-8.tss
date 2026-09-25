@@ -1,0 +1,38 @@
+{
+  "enabled":false,
+  "config":
+  {
+    "maxConnections":21,
+    "game_modes": [ "online_custom_2016", "online_custom_2017", "custom_2016", "custom_2017" ],
+    "enableSOC":false,
+    "enableCustom":true,
+    "enableQuick":false,
+    "enableFormationLap":true,
+    "enableSafetyCar":true,
+    "enableClassicEra":false,
+    "enableAIselect":true,
+    "notforceCustomPractice":"none",
+    "notforceCustomQualifying":"short",
+    "notforceCustomRace":"5_laps",
+    "notforcePublicTime":6,
+    "notforcePublicDetail":7,
+    "notforcePublicChallenge":5
+  },
+  "reporting":
+  {
+    "locations":
+    {
+      "xone":"https://ec2-35-176-194-142.eu-west-2.compute.amazonaws.com/xone/",
+      "ps4":"https://ec2-35-176-194-142.eu-west-2.compute.amazonaws.com/psn/",
+      "win":"https://ec2-35-176-194-142.eu-west-2.compute.amazonaws.com/ost/"
+    },
+    "compress":false,
+    "esbulk":"_bulk",
+    "eventlogIndex":"runtime.event_log/_bulk",
+    "dannstatsIndex":"runtime.dann_stats/_bulk"
+  },
+  "message":"Version 1.5.1 aims to improve support for Fanatec racing wheels on PC.\n\nBoth Grand Prix and Multiplayer modes are now available. Make sure you check the forums to see when other players are arranging multiplayer sessions.\n\nPlease continue provide feedback on both game modes via the private forum. You can find our latest FAQs and a list of latest beta fixes there too. If you can’t access the beta forum then please contact us at f1beta@codemasters.com",
+  "message_closed":"The beta is now closed. Please check the private beta forum for the latest news and links to the beta survey. \n\n Thank you all for your great feedback!",
+  "blacklist_psn": [ "640419471623548766", "444373215358389813" ],
+  "blacklist_xone": [ "2533274899598882" ]
+}

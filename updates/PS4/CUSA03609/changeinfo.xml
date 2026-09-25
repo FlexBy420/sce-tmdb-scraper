@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+      - Ensure sure proper access given to .net AND .com domain.
+      - Updated google client id and settings.
+      - Fixed a multiple chat and filter bugs and error messages.
+      - Multiple text and brand usage updates.
+      - Multiple updates to loading and handling SubmitDone calls. 
+    ]]>
+  </changes>
+    <changes app_ver="01.02">
+    <![CDATA[
+      FEATURES ADDED
+      - Replay feature available on PS4.
+      - New cards added.
+      - Accounts have been reset.
+      - AI behavior adjusted to favor self-preservation more highly.
+      - Added targeting outlines on enemies within range of attacks to improve targeting clarity.
+      - Movement Speed changes, increased projectile speed to match movement speed changes.
+      - Surrender now available from the ingame menu. There is an initial cooldown period before you can initiate a surrender vote and a cooldown time between restarting the vote should the voting fail.
+      - Card tooltip improvements added.
+      - Networking changes for more stable communication between the client and the backend servers.
+      - Added short combat messages explaining how buff orbs work when you pick them up.
+      - Added death recap log.
+      - Intro and respawn animations added. The player will spawn into the game playing an intro or respawn animation and will have their input blocked until that is finished.
+      - Jungle camp initial spawn times reduced
+
+ 
+    BUGS FIXED
+    - Many hitch and memory improvements, including server hitch duration on errors from 25 seconds to 1 second
+    - Many crash bugs found and fixed
+    - Fixed a crash on unexpected disconnect/logout while in team builder.
+    - Players that have been removed from your friends list no longer remain in the quick invite option after they’ve been removed.
+    - Fixed a crash that occurred while streaming textures.
+    - Optimized triggering impact audio when doing damage to Heroes.
+    - Added audio cue when pings are activated using the Team Comms.
+    - Vision and Shadow Wards now support mini map ping system.
+    - Fixed issue with hero bots sometimes choosing to not attack structures.
+    - Fixed environment decals drawing on characters after being shielded.
+    - Fixed shield effects lasting for lifetime of character when two shields were applied simultaneously.
+    - Fix the bug that allowed people in shadow plane to still cast a shadow in the world.
+    - Fixed issue where invites received while logging in would not show up on the UI.
+    - Fixed bug preventing Card Shop correctly displaying Life Steal.
+    - Fixed issue that allowed players to place ward while in base.
+    - Fixes the bug where heroes models wouldn't go away when they died and would instead stay in the world awkwardly.
+
+
+    ALL HEROES
+    - Added velocity-based landing effects for all Heroes.
+    - Fixed a bug allowing you to emote while falling from a ledge.
+    - Emoting as you take damage or are hit by a non-damaging ability (like a debuff) will now interrupt the animation.
+    - Many Hero Specific design updates, see forum release notes for details. 
+
+    UI UPDATES
+    - Updated scoreboard layout.
+    - Added ability to ping minimap from team comms.
+    - Updated team comms menu options.
+    - Misc bug fixes and UX improvements.
+
+    AI UPDATES
+    - Bots will now use movement-related abilities when trying to run away (this includes Kallari entering shadow plane).
+    - Bots will now upgrade their abilities in a specific order (used to be random) making sure to level up their Ult and LMB as soon as possible.
+    ]]>
+  </changes>
+  <changes app_ver="01.03">
+    <![CDATA[
+  	FEATURES ADDED
+  	- Replays are now available from the main menu
+  	- Store is now available from the main menu
+
+  	GAMEPLAY UPDATES
+  	- Updated level progression for RMB and LMB
+  	- Damage updated for Casters / Mages
+  	- Removed ready check from matchmaking
+  		- We no longer gate players in groups on a ready check prompt before they can pick a hero in the play tab
+  		- Players can come and go from parties any time before the team lobby phase
+  		- Players are automatically unloaded when moving from the play tab
+  		- Heroes for players are reset when joining a new party for the first time to reduce collision chances with heroes
+  		- Slight tweaks to visuals for game type to make it more obvious that only the party leader can choose it.
+  	- When a team surrenders, the core explodes and ends like a normal match does.
+
+  	AI UPDATES
+  	- At most, only 2 melee bots will be on your team or the enemy's team when running coop or solo vs. AI modes
+  	- Changed minion target selection to calculate hero timeouts per group/wave, now timeouts of one group will not affect other minions.
+  	- Improved Bots' ability selection so that they prefer abilities that already have target in range over the one that would require location adjustment
+  	- Improvements to Bots' movement abilities usage
+  	- Minions will ignore all hero targets and return to lane when dragged into jungle.
+  	- Minions will ignore hero target when dragged too far back on their lane.
+  	- Removing damage and status immunity from jungle camps due to proximity of hero will now affects all players from both teams, instead of just the ones being close.
+  	- Fixed a bug resulting in it being possible to have all bots fights on a single lane.
+  	- Fixed minion's hit reactions playing animation for wrong direction.
+
+  	CARD UPDATES
+  	- Added Uncommon Movespeed cards:
+  		- (White affinity) Everglass: 2 Cooldown Reduction / ACTIVE- UNIQUE ACTIVE: On Ability Hit, +70 Move Speed
+  		- (Blue Affinity) Nanodrive: 1 Max Mana; 1 Energy Pen / ACTIVE- UNIQUE ACTIVE: 20 Move Speed for each nearby Hero (Max 80) 4s.
+  		- (Black Affinity) Sirensong: 1 Lifesteal / ACTIVE- UNIQUE ACTIVE: On Hit, 35 Steal Movespeed.
+  		- (Red Affinity) Heartshot: 1 Attack Speed / UNIQUE: On Kill Player, +70 Move Speed
+  	- Card - The Warlord, fixed spurious display of 2% damage value
+  	- Starter Deck Cleanup
+  	- Wards are Unique. Buying more doesn't grant extra charges. Reduced quantity of charges on ward cards.
+  	- Fixed an issue that would occasionally allow upgrades to be applied to maxed out cards
+
+  	HERO UPDATES
+  	- Dekker & Twinblast can use their RMB while in shadowplane without being bumped out.
+  	- Gadget VisionBot: Added a decal to indicate the radius.
+  	- Gideon Teleport: Shrank the targeting cylinder width for his teleport, so he can squeeze it through tighter gaps / has less trouble aiming it accurately.
+  	- HyperBreach LRM: Fixed an edge case that could cause HB to fly.
+  	- Shortened respawn animations
+
+  	UI UPDATES
+  	- Shop and Replay now available
+  	- Added a main volume slider to the Audio Settings menu.
+  	- Added icons to the death recap for the damage type (physical or energy) and replaced the ! for critical hits with a critical strike icon
+  	- Card points total added to scoreboard
+  	- Card Shop Updates
+  		- added undo, quick slotting, passive hotkeys
+  		- removed accept / decline, help text
+  	- Rewards appear as you level up now - should help clarify where rewards came from
+  		- Sources of XP and Reputation display as they are counted (full breakdown still available in the tooltip)
+  	- Minimap updated with new art
+  	- Social panel now shows when a player is currently watching a replay
+  	- Switched to circles and rings for Tower, Inhibitor, and Core health indicators on the minimap: should read better from far away. Switched player icon to be smaller, hopefully still readable.
+  	- Update chat fade, fonts, and text colors. Only team messages are displayed in white text. Other messages come out in the channel color
+  	- You can no longer bring up the scoreboard when the end game screen is up.
+  	- Fixed a bug that could prevent CXP meter from moving after recalling and spending card points.
+  	- Fixed a bug where a card pack bought couldn't be opened immediately if you previously had 0 packs
+  	- Fixed a bug where the confirmation screen would show "Error" for all confirmations once a single error had been shown.
+  	- Fixed a crash that can occur if the player selects a slot, clicks a card on top of the auto slot button.
+  	- Fixed an issue where bindings for secondary keys which are not bound by default wouldn't work correctly in game, or persist across sessions.
+  	- Fixed clipping issues in certain languages
+  	- Fixes to surrender UI
+  	- No longer running a bunch of code in widget renderer in a dedicated server to avoid a crash.
+  	- Stat bonuses unlocked by fully upgrading a card now appear on the card face when activated if they don't stack onto an existing card stat.
+    ]]>
+  </changes>
+  <changes app_ver="01.20">
+    <![CDATA[
+  	GAMEPLAY UPDATES
+	- Jungle buff tweaks
+	- Amber economy tweaks
+	- Updated daily rewards
+
+	BUG FIXES
+	- Misc crash fixes
+	- Misc Matchmaking bug fixes
+	- Steel’s shield is no longer invisible
+	- Multiple rejoin issues resolved
+	- Updated version number to match all Paragon versions (now 1.20)
+
+	AI UPDATES
+	- Bots use movement related abilities when chasing enemies
+	- AI bug fixes
+
+	CARD UPDATES
+	- New Card Packs added - Added uncommon Equipment Cards
+	- Card drop rates tweaked
+
+	HERO UPDATES
+	- Hero Bug Fixes
+	- Performance improvements in Animation and LOD levels
+
+	REPLAY
+	- Added controller inversion controls
+	- Bug fixes with friend / party invites during replay load
+	- Bug fixes with objectives spawning / respawning properly
+
+	UI UPDATES
+	- Surrender UI updates
+
+    ]]>
+  </changes>
+    <changes app_ver="01.22">
+    <![CDATA[
+  	GAMEPLAY UPDATES
+	- In Game Store updates
+	- Updated login flow for PSN 
+	- Friend Code invite system in for PSN
+	- Hero Mastery now available
+
+	BUG FIXES
+	- Misc crash fixes
+	- Misc Character lighting fixes
+
+	AI UPDATES
+	- Fixed instances where bots get stuck
+	- Bots use movement abilities correctly
+	- AI bug fixes
+
+	CARD UPDATES
+	- New Card Packs added
+
+	HERO UPDATES
+	- Misc Hero Bug Fixes
+	- FX added to select screen
+
+	REPLAY
+	- Improved quality of replay playback
+	- Replay UI Bug fixes 
+
+	UI UPDATES
+	- Added hero passive abilities tab to inspect hero screen
+	- Death Recap Panel: Added support for displaying direct damage in white (direct damage such as tower strikes ignore armor)
+
+    ]]>
+  </changes>
+</changeinfo>

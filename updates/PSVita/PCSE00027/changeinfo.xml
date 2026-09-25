@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo titleid="PCSE00027">
+ <changes app_ver="01.91">
+  <![CDATA[
+  <ul>
+   <li>New, unreachable heights of experience and scores, which allow players to keep on improving indefinitely.</li>
+   <li>Improved rules of minigame appearance, tackling the possible issues of poor internet connection.</li>
+   <li>Faster update of the current scores upon connection to server after playing offline for a while.</li>
+   <li>The game start has gotten more challenging and more interesting for you users, as starter crystal pack was reduced from 30000 crystals to 15000. It is still pretty much and enough to level up a dozen times, but it now compels to think strategy over more carefully.</li>
+   <li>The issue, which some players had with restoring the game after a long pause, was successfully dealt with.</li>
+   <li>Although in previous versions some players reported receiving incorrect tournament position at its end, this issue is removed now.</li>
+   <li>In addition to that, we performed some behind-the scenes adjustments to improve the performance of the game. Overall, it is an update, that does not change the game drastically or speed it up, but rather answers the demand of players for general improvement.</li>
+  </ul>
+ ]]>
+ </changes>
+ <changes app_ver="01.80">
+  <![CDATA[
+  <ul>
+   <li>Scratchcard will now wield higher winnings more often and, in addition to that, show what was hidden below the other squares which remained unscratched!</li>
+   <li>Easier process of levelling up for new players with a little bit more crystals for smoother ride up.</li>
+   <li>The flow of time will become more forgiving, with time bonuses being added instantly, and game being paused when no moves remain and the board shuffles.</li>
+   <li>From now on, you can switch the gravity off when you don’t want it to meddle with your game while commuting, and switch it back on when you need it.</li>
+   <li>Totems now work much faster - the next one activates right after you use the previous one.</li>
+   <li>New Ziggurat notifications are now removed from LiveArea, keeping it clean for posting new personal score records.</li>
+   <li>Never stop the combo: if the timer runs out, you will be allowed to finish the current combo before counting up the game results.</li>
+   <li>Stack up crystals to get the multiplier twice as high as it was before.</li>
+   <li>More strategic options thanks to updated features of Crystal Score, Color Discard and Score Frenzy bonuses and Yellow Totem.</li>
+   <li>Game texts will be updated to reflect all the game concepts, both new and old, better, including ‘near’ sharing details, new bonus functions and a few fixes to translations.</li>
+   <li>Expert Treasurers will now see if their hoards exceed 10 million crystals.</li>
+   <li>Levelling up with bonus XP boost bug is now fixed, giving the full advantage of double XP.</li>
+   <li>Round time is now shown as it should, with maximum available time cap taken into consideration.</li>
+  </ul>
+ ]]>
+</changes>
+ <changes app_ver="01.70">
+  <![CDATA[
+  <ul>
+   <li>The game now features 999 levels – plenty of space for those who love leveling up.</li>
+   <li>Tournament position is now reflected correctly – with appropriate prize!</li>
+   <li>Artful Master Trophy glitch fixed.</li>
+   <li>Detailed player statistics, including:</li>
+   <ul>
+	<li>Total time played</li>
+	<li>Longest game time</li>	
+	<li>Most crystals released in a single game</li>
+	<li>Highest score of all times</li>
+	<li>Longest combo</li>
+	<li>Points received for longest combo</li>
+	<li>Most tokens destroyed in a combo</li>
+	<li>Number of times kickout mode was activated</li>
+	<li>Number of times score frenzy was activated</li>
+	<li>Number of times dark mode was activated</li>
+	<li>Most points received, after a game has ended</li>
+	<li>Crystals received from daily minigame</li>
+	<li>Crystals received from near</li>
+	<li>Total number of Ziggurats collected</li>
+   </ul>
+  </ul>
+ ]]>
+</changes>
+ <changes app_ver="01.60">
+  <![CDATA[
+   <ul>
+	<li>SPL logo change</li>
+	<li>Automatic hint after player being inactive for 3 s on game screen</li>
+	<li>Round end timer signal now starts 10 s before round end, if the player extends the remaining round time above 10 s, it silences, and start over again 10 s before the end. When timer signal sounds, the time indicator pulses</li>
+	<li>Leveling up became more easy</li>
+	<li>Tap on the Friends list on the main screen now brings up Leaderboards</li>
+	<li>Swipe-scroll added</li>
+	<li>Player highlight colour changed, Friends’ highlight in Global leaderboards colour changed</li>
+	<li>Player’s profile can be viewed from Global leaderboards by pressing the Info button, and a friend request can be sent from profile</li>
+	<li>Bonus slots and their contents are now moved to center of the Start screen. Tapping the slot leads to the shop</li>
+	<li>PSN Store button added to the Start screeen, with the preceding confirmation screen</li>
+	<li>LiveArea content zone gets new buttons, one leading to the Crystals section of the Store, and the other to the game blog. Privacy Policy and Terms of Service button location changed</li>
+	<li>Pressing crystals and lives icons on the Start screen now brings up explanation of their meaning and possibility to open the Store</li>
+	<li>The Minus button for fast clearing of the Slots on the Start screen</li>
+	<li>Tapping on the tournament info brings up the explanation of the tournament meaning</li>
+	<li>Improved Tutorial</li>
+	<li>Congratulatory visual effects on winning the minigame</li>
+	<li>Prizes are given for first 3 positions in the tournament, with description, prize consisting of lives and crystals, and visual effects</li>
+	<li>Unused minigame appears again if the game was restored from fold and internet connection is live</li>
+	<li>All news of winnings are shared both to near and LiveArea</li>
+	<li>Life regeneration is progressive, level-dependent, and shorter for lower levels</li>
+	<li>Crystals purchase prompt changed to explain that player can earn them in game as well</li>
+	<li>All bonuses currently used by player appear on the board simultaneously</li>
+	<li>Trophy Pack added</li>
+	<li>Entitlement names in the Store to be shortened to ToM Blitz</li>
+	<li>Bonus info screen now features the “rent for” line to make clear that bonuses are rented, not bought</li>
+	<li>Crystal purchase prompt now features, along with explanation that crystals can be earned in game, the clear button that clears slots of all used bonuses</li>
+	<li>For bonuses still unavailable the rent price is not shown</li>
+	<li>New entitlement added: unlimited life for 1 day. Also, all lives are restored on levelup</li>
+	<li>Friends list now shows friends’ levels</li>
+	<li>If player is offline, a daily check is performed and a prompt to connect is brought up. Also, similar check is performed at the end of the tournament. This is done to ensure that player does not miss daily minigame or tournament results by accident</li>
+	<li>Tapping on ziggurats and medals brings up info about them</li>
+	<li>All players are rewarded for position in the Global leaderboards at the end of the tournament, based on their highscores</li>
+	<li>New crystal packs of 1000 and 1000000 crystals</li>
+	<li>Number of connection screens reduced to 3</li>
+	<li>Shorter pack names are in order for larger numbers: 100k Crystals, 1m Crystals</li>
+	<li>If the player has not been in the game for more than 24 hours, we give double XP and small amount of crystals, and explain this in a pop-up. The more days player has not been in the game, the more double XP rounds and the more crystal is received</li>
+	<li>Extended help on Knockout and Dark modes</li>
+	<li>On round end, play button is added onto Results screen to play again</li>
+	<li>Game icon update</li>
+	<li>Lower price on slot unlock</li>
+	<li>Different icons for crystal pack in the Store</li>
+	<li>Better text formatting in the Results screen</li>
+	<li>Added Server Maintenance popup – if the server is undergoing works, an info popup is brought up to tell player that some of the online functions will be unavailable for a short time</li>
+	<li>Loading tips</li>
+	<li>Countdown at the round start is 50% slower</li>
+	<li>The ranking and ziggurats are now counted correctly.</li>
+	<li>Life refill became more fluent.</li>	
+  </ul>
+ ]]>
+</changes>
+</changeinfo>

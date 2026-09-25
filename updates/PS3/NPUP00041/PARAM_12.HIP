@@ -1,0 +1,5 @@
+ - Luokittele valokuvia ja vaihda kunkin kuvatyypin näyttötapaa.
+ - Synkronoi XMB™ (XrossMediaBar) -valikon MPF-/MPO-tiedostot.
+ - Nopeuta käynnistystä ja valokuvien tuontia.
+ - Käännä valokuvia 90 astetta.
+ - Katsele multi-angle-kuvia 3D-tilassa.

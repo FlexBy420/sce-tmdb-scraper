@@ -1,0 +1,564 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01841_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Resistance 3",
+  "trophyTitleDetail": "Troféus de Resistance 3",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/44A4E5D0FAAF136648D0E346FA148747A08B4139.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 53,
+    "silver": 4,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Resistance 3",
+      "trophyGroupDetail": "Troféus de Resistance 3",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/44A4E5D0FAAF136648D0E346FA148747A08B4139.PNG",
+      "definedTrophies": {
+        "bronze": 53,
+        "silver": 4,
+        "gold": 1,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Troféu de platina",
+      "trophyDetail": "Ganha todos os troféus de ouro, prata e bronze do Resistance 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/24339D8ACC93BF20573DB0710522D895056F7A63.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Brutal",
+      "trophyDetail": "Completa o Modo de Campanha em dificuldade Sobre-humana",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/1400854FAA603BE9E7A85BEDE54F9796776FAD80.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Força irresistível",
+      "trophyDetail": "Completa o Modo de Campanha em qualquer nível de dificuldade",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/39E829029177C265586B49F9E7582AFF9DABCBFA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mestre mecânico",
+      "trophyDetail": "Melhora todas as armas por completo no Modo de Campanha",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/9F60C9D2696268D0B056A132E350EF9E87772E14.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sabichão",
+      "trophyDetail": "Apanha todos os diários",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/D902D1B2D19E1319603C67007B116C313586AA22.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Parceiro silencioso",
+      "trophyDetail": "Faz a assistência da morte do mesmo inimigo 100 vezes no Modo Cooperativo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/66D3156F57EDF82E0A4E880C99C968A80AEE03B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Curto-circuito",
+      "trophyDetail": "Destrói o Stalker em menos de 60 segundos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/C85ACF78EC33CA13EB41DB5AFE057BC767133081.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Domador",
+      "trophyDetail": "Mata o Brawler em Haven sem sofreres qualquer dano",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/9C41EF609B3A5D46AD5057A5CC1303DF836A7A45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jardineiro",
+      "trophyDetail": "Destrói 100 plantas explosivas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/F182935EF290BB9166944139A4FC9228DAA468F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sinetas da morte",
+      "trophyDetail": "Faz voar o Pai Natal e as suas renas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/8E75799D8E7C5AD94AAAF57E84B1574AAA24422E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Porteiro",
+      "trophyDetail": "Impede que as forças Quimerianas entrem no Pub",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/3642C67C842B1F8186D034F9DDB60981BA5EF502.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Calma sob pressão",
+      "trophyDetail": "Derrota o Brawler nos Correios em menos de 2 minutos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/F01903642981BD4BFBD23EF14982CC05E3D2C00E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Caça furtiva",
+      "trophyDetail": "Apanha todas as espingardas Deadeye, sem morreres, enquanto lutas com o Enviuvador em St. Louis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/BFA59C20AE953D2EFCF52B148F48A13B53D13D81.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Desculpa aí!",
+      "trophyDetail": "Atira um Híbrido dos penhascos em Mt. Pleasant",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/26E119DBE36C204B1454FCB943DD01F4D9DEA079.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Malditos feixes de laser",
+      "trophyDetail": "Chega ao primeiro poço da mina, em Mt. Pleasant, sem seres atingido por atiradores furtivos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/D5E4D032BDC5712378C351989DCFDA4AC4D78CD1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Destruidor de veículos",
+      "trophyDetail": "Destrói 10 veículos dos Wardens enquanto estiveres no comboio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/A72688F990919B76F34C9FF0D6986D7AA4EBBCB2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Olá, condutor!",
+      "trophyDetail": "Mata 5 condutores sem lhes destruíres os veículos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/E0ACBA11D67C05192B7FCD10B92F8C0AE07A4C9D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vomitório",
+      "trophyDetail": "Faz 6 Wardens vomitarem ao mesmo tempo na prisão",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/8D142266660327F7A7FD5C72ECA691CCA38685B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Caixa surpresa",
+      "trophyDetail": "Encontra e acerta no palhaço zarolho na prisão de Graterford",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/63A13E630F065AFAF7F9C0B96D09DC468D92F5CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sem saída",
+      "trophyDetail": "Destrói todos os veículos dos Wardens no parque de veículos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/9F73D997A404171AF01F1878B7201235F2CE5A02.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nisto juntos",
+      "trophyDetail": "Mata o Enviuvador na Times Square sem eliminar um único Híbrido",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/C33AA20C5D9AC19E960BAC6DC2C0E153D12DBC73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boas cercas",
+      "trophyDetail": "Não permitas que nenhum contra-atacante entre na base de Washington Square",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/18BFEB46EBFCE5794C0E35CFD6A5B7846F442EE5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Que arsenal!",
+      "trophyDetail": "Consegue uma morte com cada uma das armas do teu arsenal",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/88F6CC07FB52E3B76AD1FC7B043E1BEF789A08F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sobrecarga",
+      "trophyDetail": "Usa as granadas EMP para desactivar 10 escudos Auger dos Cabeças de Aço",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/C80DF6B91ABE8A583DA9607EE37D715E89B1C95D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Violência gratuita",
+      "trophyDetail": "Mata 25 inimigos com a Auger através de objectos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/5D2BB3BCF2B916CEFC74CF5B2B4151C0B06BDFC1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Granadeiro",
+      "trophyDetail": "Mata 3 ou mais Militares Quimerianos com uma única granada",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/43ED7AC71E9B6FBB7B683C06BFDFF8E99AAAB9BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chuva de membros",
+      "trophyDetail": "Mata 25 Zombies usando só granadas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/8AE6C33CF70968B398E5D450B85F9E417230F61D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carrinha funerária",
+      "trophyDetail": "Mata 25 inimigos ao detonar Sanguessugas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/0586701B0989B2A08D1BDCF9AF37613058CD5433.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Epidemia",
+      "trophyDetail": "Mata 3 inimigos em simultâneo usando um só corpo mutante",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/079031AC5B66A83903B5FD3B2CE3EF06F847E78F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unidade gafanhoto",
+      "trophyDetail": "Mata 5 Pernaltas durante o salto",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/6DAB1B9DCA8EBBDEA134924B44452DC2E91D3D29.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Papão",
+      "trophyDetail": "Mata 5 Zombies de seguida só com tiros na cabeça",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/1EBAA152A2A08A0DD4DD252F782491C363BEDC6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contagem de corpos",
+      "trophyDetail": "Mata 1000 inimigos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/0C8B48FA1797281A213605663ED641CF323B38BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Malabarista",
+      "trophyDetail": "Queima, congela e entoxica simultaneamente 4 inimigos diferentes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/F6EDD19D8955EAA180A1F34699684C60BAEDBF09.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "3 Pontos",
+      "trophyDetail": "Encesta uma granada em arco num aro de basquetebol",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/1A9209CDF7E68DC6F35A76803EA16A87DB1414D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bóreas",
+      "trophyDetail": "Congela 5 inimigos e estilhaça-os com um só disparo secundário da Arma de Criogénio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/4F001ACF90E4C22335B8C1BF692CBB28378A08E2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Touro em loja de louça",
+      "trophyDetail": "Congela e mata num combate corpo a corpo 3 Saqueadores",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/4073122434D009AB5DC27651EB7249038C66A441.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Armeiro",
+      "trophyDetail": "Melhora 5 armas no Modo de Campanha",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/F27C63C48E6F74DD71934584CD227EF98AFFE12D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Esta é a minha arma",
+      "trophyDetail": "Melhora completamente uma arma no Modo de Campanha",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/7442693DB14F63A2CC83DE3CE91F909EB529BEA7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Punhalada nas costas",
+      "trophyDetail": "Mata 20 inimigos corpo a corpo enquanto estiverem de costas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/C1C11B98270675632D05379641BEB5BF312D663E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Em maus lençóis!",
+      "trophyDetail": "Usa o disparo secundário melhorado da Deadeye para matar, simultaneamente, 2 ou mais inimigos 5 vezes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/683B4B681624D88C5A541D7DB94E92F04533C898.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contra-atirador",
+      "trophyDetail": "Usa a Deadeye para matar 20 atiradores furtivos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/9429A36B67A6EB6DB3A71E1D925AF48CFFB8FFB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avenida eléctrica",
+      "trophyDetail": "Usa granadas EMP para desactivar 25 drones",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/2D19CE2B64C63911929641F9040D584992FF08DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Velocidade da luz",
+      "trophyDetail": "Usa o disparo secundário do Atomizador para matar 30 inimigos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/3F9AB4F9221437F1DC2FD855D6462A1C179F75FE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sentes-te com sorte, meu?",
+      "trophyDetail": "Detona várias balas da Magnum 5 vezes para matares 2 ou mais inimigos ao mesmo tempo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/DDC29F50CB845B2D687675AC60FB889602BAA537.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fogo de artifício",
+      "trophyDetail": "Usa o disparo secundário da Wildfire para matar 6 inimigos com um tiro",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/09012828000C3042BF68CE9980AA19C970A4F6EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Canos serrados",
+      "trophyDetail": "Usa o melhoramento do disparo secundário da Rossmore para incendiar 6 inimigos de uma só vez",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/A058E8F550BA915A629741752D983FA3B2D22916.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apanhada",
+      "trophyDetail": "Mata 40 inimigos marcados com a Bullseye",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/1B3C98FE65513E9C94C708CA257C1DCDAD14C15B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oportunista",
+      "trophyDetail": "Mata 20 inimigos com objectos do meio envolvente",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/ED89E5864410289E9C5AE20A6A2FA0C2DDA07EB5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Atirador especialista",
+      "trophyDetail": "Consegue 50 tiros na cabeça no Modo de Campanha",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/AF09E1888293ED83830C64C7FECCC9570BC3300C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coleccionador",
+      "trophyDetail": "Apanha 10 diários",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/5ACBEF290DF365B20206EA00C880B62DF417EFB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rato de biblioteca",
+      "trophyDetail": "Apanha 50% dos diários",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/80AB4F4790866ED885E29C2B05595A54D76DE3A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sem desperdício",
+      "trophyDetail": "Consegue 5 mortes com tiros na cabeça com um carregador de Deadeye",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/DB8A069AD2E8A771FAE0AA9EE6856BA6B048AD3B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sapatos de couro",
+      "trophyDetail": "Percorre 30 km a pé",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/92F0B56CFFF3C00373E57B999148A5FE97120EAF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Terra, mar e ar",
+      "trophyDetail": "Viaja em 3 veículos diferentes durante a tua jornada",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/A0E7748D756D1F0D8EF05E0F72006AA4E4369086.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zagalotes",
+      "trophyDetail": "Mata 2 ou mais inimigos com um disparo da Rossmore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/CA45C92BF03A121E1778DEF54C33E2D2A62D0F0C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Acesso negado",
+      "trophyDetail": "Absorve 1000 de dano com os escudos Auger",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/90255602512388DB5E4518B7AFC17F5DB42D2B9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sem apontar",
+      "trophyDetail": "Mata 50 inimigos com a Bullseye ou a Marksman enquanto estás em movimento, sem usar a mira",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/DC9D66FB217D14C57D686310F618B401312FCD2E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Projéctil mortal",
+      "trophyDetail": "Mata 5 ou mais Híbridos de uma só vez com o disparo secundário da Magnum",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/86FE73F0D121BC2E0C1C812AE2EDC811EE6061CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pronto-socorro",
+      "trophyDetail": "Reanima um jogador em cooperativo 20 vezes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/F98EEA20315CA613E2AB68E25BA6BD0579A122CA.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 59
+}

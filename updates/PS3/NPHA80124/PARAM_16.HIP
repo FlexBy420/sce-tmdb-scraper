@@ -1,0 +1,5 @@
+ - Dziel zdjęcia na kategorie i przeglądaj je całymi grupami w zależności od rodzaju zdjęcia
+ - Synchronizuj pliki MPF/MPO z XMB™
+ - Oszczędzaj czas dzięki szybszemu wczytywaniu programu oraz sprawniejszemu importowi zdjęć
+ - Obracaj zdjęcia o 90 stopni
+ - Oglądaj zdjęcia panoramiczne w 3D

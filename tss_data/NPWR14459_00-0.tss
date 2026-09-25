@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TSS>
+	<CUSA10222_00>
+		<CountryCode default="jp,hk,sg,my,id,th,kr,tw"></CountryCode>
+		<jp default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.jp.playstation.com/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</jp>
+		<hk default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/cht-hk/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</hk>
+		<sg default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-sg/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</sg>
+		<my default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-my/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</my>
+		<id default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-id/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</id>
+		<th default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/en-th/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</th>
+		<kr default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.playstation.co.kr/psn/psplus"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</kr>
+		<tw default="Other">
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="https://asia.playstation.com/cht-tw/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+		</tw>
+		<Other>
+			<!-- 広告情報 -->
+			<Advertise>
+				<DefaultImage0 default="https://homer.dl.playstation.net/pr/bam-art/445/132/431805ab-c714-4e78-9089-94c3546f7e6e.jpg">
+					<Jump default="browser">
+						<Url default="http://www.jp.playstation.com/psn/playstation-plus/"></Url>
+					</Jump>
+				</DefaultImage0>
+			</Advertise>
+			<LoginBonus>
+				<Day0 default="enable">
+					<Icon default="music"></Icon>
+					<PlusName default="unlock">
+						<Unlock0 default="1-10"></Unlock0>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="1,1,0,275562"></Unlock0>
+					</NotPlusName>
+				</Day0>
+				<Day6 default="enable">
+					<Icon default="gold"></Icon>
+					<PlusName default="PS4Theme">
+						<REPSTR default="PS4Theme">
+							<JPN>Piano Collections&#xA;FINAL FANTASY XV -夜に満ちる律べ-&#xA;テーマ</JPN>
+							<ENG>Piano Collections&#xA;FINAL FANTASY XV: Moonlit Melodies&#xA;Theme</ENG>
+							<CHS>Piano Collections&#xA;FINAL FANTASY XV: Moonlit Melodies&#xA;Theme</CHS>
+							<CHT>Piano Collections&#xA;FINAL FANTASY XV: Moonlit Melodies&#xA;Theme</CHT>
+							<KRA>Piano Collections&#xA;FINAL FANTASY XV: Moonlit Melodies&#xA;Theme</KRA>
+						</REPSTR>
+						<StringLabel default="FFXVPCBON0000001"></StringLabel>
+						<NumberLabel default="0"></NumberLabel>
+					</PlusName>
+					<NotPlusName default="unlock">
+						<Unlock0 default="2,1,0,60000"></Unlock0>
+						<Unlock1 default="3,1,0,60000"></Unlock1>
+						<Unlock2 default="4,1,0,60000"></Unlock2>
+						<Unlock3 default="5,1,0,60000"></Unlock3>
+					</NotPlusName>
+				</Day6>
+			</LoginBonus>
+		</Other>
+	</CUSA10222_00>
+</TSS>

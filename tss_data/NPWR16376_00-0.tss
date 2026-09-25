@@ -1,0 +1,47 @@
+﻿/*
+ *	体験版TSSデータ
+ */
+{
+  // 有効期限
+  "ExpirationDate": {
+    // 開始日時(UTC)
+    "Start": {
+      "Year": 2019,
+      "Month": 2,
+      "Day": 22,
+      "Hour": 23,
+      "Minute": 0,
+      "Second": 0
+    },
+    // 終了日時(UTC)
+    "End": {
+      "Year": 2030,
+      "Month": 2,
+      "Day": 21,
+      "Hour": 22,
+      "Minute": 59,
+      "Second": 59
+    }
+  },
+  // 体験版コンテンツ内容
+  "TrialContents": {
+    // 強襲討伐有効日時(UTC)
+    "LargeSuppressionStart": {
+      "Year": 2019,
+      "Month": 1,
+      "Day": 10,
+      "Hour": 23,
+      "Minute": 0,
+      "Second": 0
+    },
+    // ストアへのジャンプの終了日時(UTC)
+    "JumpStoreEnd": {
+      "Year": 2019,
+      "Month": 1,
+      "Day": 13,
+      "Hour": 22,
+      "Minute": 59,
+      "Second": 59
+    }
+  }
+}

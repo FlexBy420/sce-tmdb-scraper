@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changeinfo>
+	<changes app_ver="01.01">
+		<![CDATA[
+-----------------------------------------------------------
+-------- FORCED: Slightly Better Edition -------- 
+-----------------------------------------------------------
+
+Patch 1.01 brings a lot of features and fixes that we wanted to include in the initial version but didn't have time to.
+
+--------------------------------
+Survival Mode System
+--------------------------------
+- 2 new survival modes, "The Laser Pit" and "The Dungeon". This brings us to 4 total survival modes, 3 endless waves and 1 versus.
+- The endless survival modes (Amphitheatre and the 2 new ones) now each grant up to 3 crystals based on how well you do.
+- Survive longer and gain more crystals that can be used in both Campaign and Survival to unlock new skills.
+- The Survival modes are also unlocked according to how many crystals you have. They unlock at 6, 12, 15 and 20 crystals.
+- The Survival mode menus have been reworked to accomodate these new features. We have also added unlock messages so you are told when you unlock a new survival mode.
+
+--------------------------------
+Optimization
+--------------------------------
+We have done a lot of optimization that will fix the framerate drops in the later parts of the game and help the network function better.
+- Optimized darkness effects in Chamber 4.
+- Optimized blood effect in Trial 21: The Bloodmachine.
+- Optimized the fire FX of the Master's Meteor Shower ability.
+- Optimized the FX of the Master's Summon Fire Portals ability.
+- Improved the lag when finishing a Trial by delaying some of the saving to after the success screen had completed.
+
+--------------------------------
+Controller Speaker
+--------------------------------
+- Player-specific audio is now played from the controller speaker. This includes skill cooldowns, Orb calls and hurt sounds from your character
+
+--------------------------------
+Smaller Improvements
+--------------------------------
+- Improved the visual effects on the title logo displayed as players exit Training.
+- Added a colour indicator to the profile screen to show the active profile
+- Fixed an issue with player health bars and name showing on top of other text in the Hall of Trials.
+- Removed the press any key screen so the game starts more smoothly.
+- Improved the feedback when a different user than the main user took over control and started singleplayer.
+- Fixed an issue with 'New unlocks' not displaying for clients in some cases.
+- Fixed an issue with clients in some cases not seeing their own ragdolls upon death.
+- Fixed a design issue in Trial 25 where the Frost Shield could avoid all damage from the Green Colossus when he was tethered and had maxed out the improvements on the Firestorm. The Green Colossus now also increases the animation speed when powering up, becoming virtually unstoppable if you let him stay tethered too long.
+- Fixed an issue in Trial 25 with players being able to resurrect outside the arena.
+- Improved some timings for subtitles and ending of Trial 25.
+- Fixed an issue that caused the Green Colossus to not fire his Firestorm ability when enraged after the Red one had died.
+- Fixed an issue with the hammers of the Colossi falling through the floor when they had died.
+- Fixed an issue with visual FX not showing properly on the enraged Colossus when the other died.
+- Fixed the user being able to leave a lobby as it was starting causing him to exit the game once loading was done
+- Fixed the invite friend feature being available in local lobbies even when hidden.
+- Fixed an issue with enemies not properly moving out of their spawn gates.
+- The game now pauses if you pressed the Home button in singleplayer.
+- Subtitles are now available in the intro and end movies.
+- Fixed an issue where the Y button didn't close the menu when in a Trial.
+- Fixed an issue with the menu selector not showing on the first menu item on initial startup if you didn't press anything on the start up logo screen.
+- Fixed an issue where opening the Options menu in the tutorial before picking up a weapon would cause R2 to display immediately, rather than when you picked up a weapon
+- Fixed an issue where changing the sorting on the Success Screen leaderboards multiple times in quick succession caused it to update the list as if you had only clicked once.	
+
+We hope you enjoy the updated game as much as we did making it :)
+If you're interested in news from us, please visit www.betadwarf.com
+
+- Forced love
+BetaDwarf
+]]>
+	</changes>
+</changeinfo>

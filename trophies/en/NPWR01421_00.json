@@ -1,0 +1,459 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01421_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "FIGHT NIGHT CHAMPION Trophies",
+  "trophyTitleDetail": "FIGHT NIGHT CHAMPION Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/22BC0B36A592A50F575A4BC945EE3E1A60109C29.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 30,
+    "silver": 11,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "FIGHT NIGHT CHAMPION Trophies",
+      "trophyGroupDetail": "FIGHT NIGHT CHAMPION Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/22BC0B36A592A50F575A4BC945EE3E1A60109C29.PNG",
+      "definedTrophies": {
+        "bronze": 21,
+        "silver": 11,
+        "gold": 4,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "HEAVYWEIGHT LEGENDS Trophies",
+      "trophyGroupDetail": "HEAVYWEIGHT LEGENDS Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/6EBDCDFED40DD02B2558C9EDB269F147809FF462.PNG",
+      "definedTrophies": {
+        "bronze": 9,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Trophy",
+      "trophyDetail": "Unlock all other trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/098E1E3B1C813F773AECF355B04E62FB4D540A3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "A Fist For Every Face",
+      "trophyDetail": "Defeat the entire Fight Night Champion roster in Fight Now",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/B14F5C4C9486BA3B2B2018E75808ED3043CD33AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Breaking a Sweat",
+      "trophyDetail": "Get a Champion rating on every Training Game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/313DAC9A2A57255F57DE7553EBF6507D8F1707B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Champion Emerges",
+      "trophyDetail": "Defeat Isaac Frost in Champion Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/0003432FF3B3A6E2CC0D4AA8267D09BCC2FE8470.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Low Down Dirty Tricks",
+      "trophyDetail": "Defeat Kobe Nichols in Champion Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/E13FAEDB3532D55C21335DA922CDC6560B22CA45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Everything You Got Left",
+      "trophyDetail": "Defeat Meldrick Johnson in Champion Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/A5352B07B9A36C9A2F99BC22084EB71AF4A3F068.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Brought My Own Judges",
+      "trophyDetail": "Defeat Ricardo Alvarez in Champion Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/A20041391D80A69D436530CD9B8044F29EF0B24D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to the Jungle",
+      "trophyDetail": "Defeat the prison gang member in Champion Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/19DA3BB768A1B5636263A76E0052585021B17AB9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Survival of the Fittest",
+      "trophyDetail": "Defeat the prison gang leader in Champion Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/8CF1C306191C6AEE85FAB6F4910EF3B72DC0B4B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gold Medal Performance",
+      "trophyDetail": "Knockout Joel Savon in Champion Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/2B34D004B9C0CA913F3F039EE6C2A85BD9B6356F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time To Bleed",
+      "trophyDetail": "Knockout Dwight Cooper before the 6th round in Champion Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/31820A5ED5DBCF4421327893724314054585AE62.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Turnabout If Fair Play",
+      "trophyDetail": "Knockdown Keyshawn Hayes with a left hook in Champion Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/CF0FB2585989F3002B028CF9B7F5ADD3F51DE054.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Awakening",
+      "trophyDetail": "Knockdown Mason Brooks in under 3 minutes in Champion Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/602FAC3D3627BA0C0BE75B378A55B954E3AF15B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "THIS is Sim",
+      "trophyDetail": "Create and upload a Settings file to EA SPORTS World",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/A354C068A54BDD611C13CD8B9C0B95ED91AB9E7B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alphabet Soup",
+      "trophyDetail": "Own all belts within one weight class at the same time in Legacy Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/B12331957B044910B5F5A29ED76D4B8BE6BF9C73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "How Poetic",
+      "trophyDetail": "Retire as the GOAT in Legacy Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/1161E3E7227AC978AAB82FA5BB0A2488E702EF4B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bicep Curling",
+      "trophyDetail": "Obtain boxer level 15 in OWC",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/B6478F1B8993CF6EAC1CFEF2EDCE93346A9FBD82.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bench Pressing",
+      "trophyDetail": "Obtain boxer level 30 in OWC",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/EB7914F085C8A4FC4C9B9CFE375F2E7EE7B4225C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hamstring Blasting",
+      "trophyDetail": "Obtain boxer level 45 in OWC",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/4784FA576977B11DA95D02825244FE38A19973C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Squat Thrusting",
+      "trophyDetail": "Obtain boxer level 60 in OWC",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/EBE4C5F6FC2D0AF040362B59EE35A364AB053217.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Represent the Crew I",
+      "trophyDetail": "Complete a Lightweight fight against a member of a Rival Gym",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/616014D433C06663D0F480CDD23782041E4303F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Fight Amongst Friends I",
+      "trophyDetail": "Complete a Lightweight League Match in an Online Gym",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/814517DD9F60C3F8CED0BA7AC4B5DEB00FE2A467.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Represent the Crew II",
+      "trophyDetail": "Complete a Middleweight fight against a member of a Rival Gym",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/3398D23DE5AE9D45B931D69AB5302E96B1242D86.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Fight Amongst Friends II",
+      "trophyDetail": "Complete a Middleweight League Match in an Online Gym",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/5241C6D18F664628FE5082408E5673B5FE8482AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Represent the Crew III",
+      "trophyDetail": "Complete a Heavyweight fight against a member of a Rival Gym",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/E21DA91A23647DC5A3187EEA7D2042A3BF1AF973.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Fight Amongst Friends III",
+      "trophyDetail": "Complete a Heavyweight League Match in an Online Gym",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/86DB2BB84608077630D7017E894FBD1333CD3A98.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "This Is Going Well",
+      "trophyDetail": "Knockdown an opponent twice in the same round of a Ranked Match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/7AFBD0BF9BCDA4D420EF846DE30345BD2F9E6EBA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "My Defense Is Impregnable",
+      "trophyDetail": "Win a Ranked Match with your opponent's accuracy at or below 20%",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/074D9227BF2265CAE9ABB02F205D9F0E0EE1F951.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Verdict Is In",
+      "trophyDetail": "Win a 10-round Ranked Match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/7514B953D82E1FC7E4AECFFD22C37B0854D28D4A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mr. Reliable",
+      "trophyDetail": "Earn a Reliability Multiplier of more than 85% after playing at least 100 Ranked Matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/6CDB140E30D590BC8BDFFCA5607A8959876F04F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Little This, A Little That",
+      "trophyDetail": "Knockdown an opponent with a head shot and a body shot in a Ranked Match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/C3966F735F511211425E27C21A1E22FDAF33AC92.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Will They Believe You?",
+      "trophyDetail": "Get up from a fourth knockdown during a Ranked Match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/26D7DD97DC31FD4857C84FC88D4B2E1E0E39E6AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road To Glory",
+      "trophyDetail": "Complete 100 fights In Online World Championship",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/193DF1144528A1B1C81D1FA80BBD8971A9146492.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I'm Just Doing My Jab",
+      "trophyDetail": "Jab 10,000 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/E0BB5BD82B1D8D81175A4C76F6F96780406882CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Numba One Stunna",
+      "trophyDetail": "Stun your opponents 1000 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/A5D00BF30A0F98F4374AA5D01C03FB99EA8FB1E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Every Second Counts",
+      "trophyDetail": "Knockdown an opponent in a Ranked Match with less than 10 seconds left in the round",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/0564459CAACA1618D8C73CFEECE15A1E29DC617C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Can You Feel The Power?",
+      "trophyDetail": "Max out any skill of a Legacy Mode, OWC, or Online Gyms boxer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/3968B7D205E6DB5DEBB05E73213D5C63CC956002.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Gloves Come Off",
+      "trophyDetail": "Complete a Ranked Match in Bareknuckles Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/8130F78844467B11238249A036915074D49A3714.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unforgiven",
+      "trophyDetail": "Defeat Jack Johnson in Fight Now on default settings",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/84BF170045E9F9BB77E05FB1FF4EE8B39CBEB794.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maul the Manassa Mauler",
+      "trophyDetail": "Defeat Jack Dempsey in Fight Now on default settings",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/46654D6DCB5ABBB04975D6D1158B9828AAE96804.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rock the Brockton Blockbuster",
+      "trophyDetail": "Defeat Rocky Marciano in Fight Now on default settings",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/6D79AF92EB1BD1C0F86CD7458FF41E1C201D0358.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Gentleman's Victory",
+      "trophyDetail": "Defeat Floyd Patterson in Fight Now on default settings",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/B8DCE86CF3AB0D5C284F996CFAE98097F2BBE706.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Out the Brown Bomber",
+      "trophyDetail": "Defeat Joe Louis in Fight Now on default settings",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/974A03522D98A779B9CF11EB12DC60EB5DEC08A3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Put Out the Filipino Flame",
+      "trophyDetail": "Defeat Lightweight Manny Pacquiao in Fight Now on default settings",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/F9179DF851A30829D470DE0141EDB9456AC6C724.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Execute the Mexicutioner",
+      "trophyDetail": "Defeat Featherweight Manny Pacquiao in Fight Now on default settings",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/7A6B97C296E45F932E4DB3D03B170D61DF9578FD.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Junior to School",
+      "trophyDetail": "Defeat Middleweight Roy Jones Jr in Fight Now on default settings",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/66E198439E31CC1E28FF9C6FCA8E7560DC0325C8.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 46
+}

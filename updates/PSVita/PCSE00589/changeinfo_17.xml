@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+	PATCH 1 DE SEVERED - REGISTRO DE ALTERAÇÕES
+	<br> <br>
+	ADIÇÕES
+	<ul>
+		<li> Adição de suporte para Russo, Japonês, Coreano, Chinês Tradicional e Simplificado </li>
+	</ul>
+	
+	CORREÇÕES
+	<ul>
+		<li> Correção de problema no qual a porta final da Cidadela podia emperrar em um estado fechado permanente, se o jogador saísse em meio ao desbloqueio dela </li>
+		<li> Correção de um salto brusco na animação que podia ocorrer ao retornar à luta com o chefe final após o jogador ter morrido </li>
+		<li> Correção de erro que permitia a música dos créditos finais terminar antes do fim da cena de créditos </li>
+	</ul>
+    ]]>
+  </changes>
+</changeinfo>

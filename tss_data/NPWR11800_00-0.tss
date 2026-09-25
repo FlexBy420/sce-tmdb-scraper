@@ -1,0 +1,423 @@
+<SETTINGS
+
+	configVersion								= "v1.6"
+	buildVersion								= "Refinery Edition 12-01-17 LR: 5226 / F2: 1243 / o_c: 1135"
+
+	dialogueBoxCharInterval						= "0.0005"
+	baseRunSpeed								= "3300"
+	questRewardAmount							= "30"
+	mailboxRefreshTimeSeconds					= "300"
+	mailboxItemDownloadCount 					= "3"
+	holoRefreshTimeSeconds						= "300"
+	reconnectOnAuthErrorTimeSeconds				= "60"
+	maxScreenCorpses							= "10"
+	cardSearchCount								= "3"
+	enemyLootCardCountMin						= "1"
+	enemyLootCardCountMax						= "3"
+
+	damageBurn									= "8"
+	damageIce									= "5"
+	damagePlasma								= "5"
+
+
+	card_text_scalar_french						= "1.0"
+	card_text_scalar_german						= "1.0"
+	card_text_scalar_italian					= "1.0"
+	card_text_scalar_spanish 					= "1.0"
+
+
+>
+	<LEVELS>
+		<LEVEL name="Tier 1" colour="0xaaaaaa" power="1-1" propertyChance="0.5" rotateChance="0.15"/>
+		<LEVEL name="Tier 2" colour="0xffffff" power="2-2" propertyChance="0.6" rotateChance="0.2"/>
+		<LEVEL name="Tier 3" colour="0x6969FF" power="3-3" propertyChance="0.9" rotateChance="0.3"/>
+		<LEVEL name="Tier 4" colour="0xebe814" power="4-4" propertyChance="1.0" rotateChance="0.2"/>
+		<LEVEL name="Tier 5" colour="0x990066" power="5-5" propertyChance="1.0" rotateChance="0.1"/>
+	</LEVELS>
+
+	<CATEGORIES>
+		<CATEGORY name="Space Shorts" 			shortName="Shorts" 		levelRange="1-3" type="defence" anim="defence_shorts_0001"		hues="-110,-40,0,17,110,160"/>
+		<CATEGORY name="Ablative Armband" 		shortName="Armbands" 		levelRange="1-3" type="defence" anim="defence_armBands_0001"	/>
+		<CATEGORY name="Blast Bib" 				shortName="Bibs" 		levelRange="1-4" type="defence" anim="defence_blastBib_0001"	/>
+		<CATEGORY name="Boot Helmet" 			shortName="Helmets" 		levelRange="1-4" type="defence" anim="defence_bootHelmet_0001"	/>
+		<CATEGORY name="Vortex Bin Lid"			shortName="Bin Lids" 		levelRange="2-5" type="defence" anim="defence_blackHole_0001"	/>
+		<CATEGORY name="Insectoid Boots" 		shortName="Boots" 		levelRange="2-5" type="defence" anim="defence_insectBoot_0001"	/>
+		<CATEGORY name="Oscillo-Snorkel" 		shortName="Snorkels" 		levelRange="3-5" type="defence" anim="defence_snorkel_0001"	/>
+		<CATEGORY name="Spikepan" 				shortName="Spikepans" 		levelRange="1-3" type="attack" anim="attack_skewerSpikePan_0001"		/>
+		<CATEGORY name="Meteorball" 			shortName="Meteorballs" 		levelRange="1-3" type="attack" anim="attack_basketBallsetroid_0001"	/>
+		<CATEGORY name="Self-Throw Disc" 		shortName="Discs" 		levelRange="1-4" type="attack" anim="attack_dogDisc_0001"		/>
+		<CATEGORY name="Hydra Putter" 			shortName="Putters" 		levelRange="1-4" type="attack" anim="attack_hydraPutter_0001"	/>
+		<CATEGORY name="Orbital Bowls" 			shortName="Bowls" 		levelRange="2-5" type="attack" anim="attack_lawnBowls_0001"	 	/>
+		<CATEGORY name="Pool Beast" 			shortName="Beasts" 		levelRange="2-5" type="attack" anim="attack_poolBeast_0001"	/>
+		<CATEGORY name="Sapphire Shuttlecock" 	shortName="Shuttlecocks" 		levelRange="3-5" type="attack" anim="attack_shuttlecock_0001"	/>
+
+		<CATEGORY name="Attack Slab"		levelRange="9-11" type="attack" anim="attack_combine"	combatFx="defendObjectBinLidBlackhole_0001"/>
+		<CATEGORY name="Defence Slab"		levelRange="9-11" type="defence" anim="defence_combine"	combatFx="defendObjectBinLidBlackhole_0001"/>
+
+	</CATEGORIES>
+
+	<SETS>
+		<SET name="Nothing"/>
+		<SET name="Burning"		chargeMultiplier="3.34"	chargeBonusMultiplierPerMatchingNeighbour="0.6"	use="Burn_Use"		verb="Burn_Verb"	icon="abilityIconBurn"/>
+		<SET name="Frozen"		chargeMultiplier="2.5"	chargeBonusMultiplierPerMatchingNeighbour="0.5"	use="Frozen_Use"	verb="Frozen_Verb"	icon="abilityIconFreeze"/>
+		<SET name="Plasma"		chargeMultiplier="2.5"	chargeBonusMultiplierPerMatchingNeighbour="0.5"	use="Plasma_Use"	verb="Plasma_Verb"	icon="abilityIconPlasma"/>
+		<SET name="Life"		chargeMultiplier="0.3"	chargeBonusMultiplierPerMatchingNeighbour="0.1"	use="Life_Use"		verb="Life_Verb"/>
+		<SET name="Spectral"	chargeMultiplier="1.0"	chargeBonusMultiplierPerMatchingNeighbour="0.2"	use="Spectral_Use"	verb="Spectral_Verb"/>
+		<SET name="Filth"		chargeMultiplier="1.0"	chargeBonusMultiplierPerMatchingNeighbour="0.2"	use="Filth_Use"		verb="Filth_Verb"/>
+	</SETS>
+
+	<PROPERTIES badResultChance= "0.35">
+		<TRIGGERS>
+			<TRIGGER text="Each Type"/>
+			<TRIGGER text="In Column "/>
+			<TRIGGER text="All Cards to Left" levelRange="6-6"/>
+			<TRIGGER text="All Cards to Right" levelRange="6-6"/>
+			<TRIGGER text="Odd Slot"/>
+			<TRIGGER text="Even Slot"/>
+			<TRIGGER text="Top Row"/>
+			<TRIGGER text="Bottom Row"/>
+			<TRIGGER text="Each Tier " levelRange="6-6"/>
+			<TRIGGER text="Each Tier " levelRange="6-6"/>
+			<TRIGGER text="Card to Left"/>
+			<TRIGGER text="Card to Right"/>
+			<TRIGGER text="Card Above"/>
+			<TRIGGER text="Card Below"/>
+			<TRIGGER text="Only One"/>
+			<TRIGGER text="Charges Fast"/>
+			<TRIGGER text="Card Above or Below"/>
+			<TRIGGER text="Card Left and Right"/>
+		</TRIGGERS>
+		<RESULTS>
+			<RESULT text="ZERO" bad="true"/>
+			<RESULT text="<lightred>-" range="1-2" bad="true"/>
+			<RESULT text="+" range="1-2" />
+			<RESULT text="Sticky" bad="true" levelRange="3-5"/>
+
+		</RESULTS>
+	</PROPERTIES>
+
+
+
+<ENEMYTYPES>
+
+		<!-- WORLD 1 -->
+		<ENEMYTYPE name="rat"				powerRange="2-3"		attackFirstAtNight="true"	moveStyle="Scared"		cardBuff=""				special="Rat"				weaknesses=""			resistances=""	immune="false"	maxDistFromStart="8"		baseImage="kiteRat"				moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="1"/>
+		<ENEMYTYPE name="ogron"				powerRange="4-5"		attackFirstAtNight="true"	moveStyle="Slow"		cardBuff=""				special=""					weaknesses=""		resistances=""	immune="false"	maxDistFromStart="8"		baseImage="cyclops"				moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="1"/>
+		<ENEMYTYPE name="bolasgirl"			powerRange="7-8"		attackFirstAtNight="true"	moveStyle="Wander"		cardBuff=""				special=""					weaknesses="Frozen"		resistances=""	immune="false"	maxDistFromStart="8"		baseImage="bologirl"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="1"/>
+		<ENEMYTYPE name="clunker"			powerRange="3-5"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff=""				special=""					weaknesses="Plasma"		resistances=""	immune="false"	maxDistFromStart="8"		baseImage="clunker"				moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="1"/>
+		<ENEMYTYPE name="merc"				powerRange="4-5"		attackFirstAtNight="false"	moveStyle="ScaredSlow"	cardBuff=""				special="Ranged"			weaknesses=""		resistances=""	immune="false"	maxDistFromStart="8"		baseImage="merc"				moveFrameRange="1.5-7"	hue="0"		hasLoot="true"	powerless="false" journalIndex="1"/>
+		<ENEMYTYPE name="wook"				powerRange="1-2"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff=""				special=""					weaknesses="Burning"	resistances="Frozen"	immune="false"	maxDistFromStart="8"		baseImage="wook"				moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="1"/>
+		<ENEMYTYPE name="horsebros"			powerRange="4-6"		attackFirstAtNight="true"	moveStyle="Normal"		cardBuff=""				special="FlipFlop"			weaknesses=""			resistances=""			immune="false"	maxDistFromStart="8"		baseImage="horseBros"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false"	flipMultiplier="3" journalIndex="1"/>
+		<ENEMYTYPE name="ratstack"			powerRange="5-6"		attackFirstAtNight="true"	moveStyle="Normal"		cardBuff=""				special="RatStack"			weaknesses=""		resistances=""	immune="false"	maxDistFromStart="8"		baseImage="ratStack"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="1"/>
+
+		<!-- WORLD 2 -->
+		<ENEMYTYPE name="ogron2"			powerRange="15-18"		attackFirstAtNight="true"	moveStyle="Slow"		cardBuff=""				special=""					weaknesses=""		resistances=""	immune="false"	maxDistFromStart="5"		baseImage="cyclops"				moveFrameRange="1.5-6"	hue="-30"	hasLoot="true"	powerless="false" journalIndex="2"/>
+		<ENEMYTYPE name="wook2"				powerRange="12-13"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff=""				special=""					weaknesses="Burning"	resistances="Frozen"	immune="false"	maxDistFromStart="8"		baseImage="wook"				moveFrameRange="1.5-6"	hue="50"	hasLoot="true"	powerless="false" journalIndex="2"/>
+		<ENEMYTYPE name="lunk"				powerRange="25-30"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff=""				special="Sleeper"			weaknesses=""		resistances=""	immune="false"	maxDistFromStart="8"		baseImage="lunk"				moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="2"/>
+		<ENEMYTYPE name="webjock"			powerRange="20-24"		attackFirstAtNight="true"	moveStyle="Static"		cardBuff=""				special="Web"				weaknesses="Burning"	resistances=""	immune="false"	maxDistFromStart="8"		baseImage="webJock"				moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="2"/>
+		<ENEMYTYPE name="wizard"			powerRange="9-11"		attackFirstAtNight="true"	moveStyle="ScaredSlow"	cardBuff=""				special="ForceNight"		weaknesses=""		resistances=""	immune="false"	maxDistFromStart="8"		baseImage="wizard"				moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="2"/>
+		<ENEMYTYPE name="choirobscurer"		powerRange="1-1"		attackFirstAtNight="true"	moveStyle="Scared"		cardBuff=""				special="ChoirObscura"		weaknesses=""			resistances="Burning,Frozen,Plasma"	immune="true"	maxDistFromStart="6"		baseImage="choristerCloak"		moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="true" journalIndex="2"/>
+		<ENEMYTYPE name="birdguy"			powerRange="12-15"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff=""				special="Army"				weaknesses="Frozen"	resistances=""	immune="false"	maxDistFromStart="8"		baseImage="birdguy"				moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="2"/>
+		<ENEMYTYPE name="shark"				powerRange="13-15"		attackFirstAtNight="false"	moveStyle="Slow"		cardBuff=""				special=""					weaknesses="Plasma"		resistances=""	immune="false"	maxDistFromStart="9999"		baseImage="sharkOnLegs"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="2"/>
+
+		<!-- WORLD 3 -->
+		<ENEMYTYPE name="bolasgirl2"		powerRange="19-21"		attackFirstAtNight="true"	moveStyle="Wander"		cardBuff=""				special=""					weaknesses="Frozen"		resistances=""	immune="false"	maxDistFromStart="8"		baseImage="bologirl"			moveFrameRange="1.5-6"	hue="95"	hasLoot="true"	powerless="false" journalIndex="3" audioId="bolasgirl"/>
+		<ENEMYTYPE name="merc2"				powerRange="22-25"		attackFirstAtNight="false"	moveStyle="ScaredSlow"	cardBuff=""				special="Ranged"			weaknesses=""		resistances=""	immune="false"	maxDistFromStart="8"		baseImage="merc"				moveFrameRange="1.5-7"	hue="-40"	hasLoot="true"	powerless="false" journalIndex="3"/>
+		<ENEMYTYPE name="horsebros2"		powerRange="13-15"		attackFirstAtNight="true"	moveStyle="Normal"		cardBuff=""				special="FlipFlop"			weaknesses=""			resistances=""			immune="false"	maxDistFromStart="8"		baseImage="horseBros"			moveFrameRange="1.5-6"	hue="30"	hasLoot="true"	powerless="false"	flipMultiplier="3" journalIndex="3"/>
+		<ENEMYTYPE name="jellyboy"			powerRange="10-10"		attackFirstAtNight="false"	moveStyle="Slow"		cardBuff=""				special="Split"				weaknesses=""		resistances="Burning"	immune="false"	maxDistFromStart="9999"		baseImage="jellyBoy_Body"		moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false"/>
+		<ENEMYTYPE name="itchycoo"			powerRange="26-28"		attackFirstAtNight="true"	moveStyle="Normal"		cardBuff=""				special=""					weaknesses="Burning"	resistances=""	immune="false"	maxDistFromStart="8"		baseImage="itchyCoo"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="3"/>
+		<ENEMYTYPE name="birdbomb"			powerRange="1-1"		attackFirstAtNight="true"	moveStyle="Normal"		cardBuff=""				special="Explode"			weaknesses=""	resistances=""	immune="false"	maxDistFromStart="6"		baseImage="bombMobile"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="true" journalIndex="3"/>
+		<ENEMYTYPE name="bomblayer"			powerRange="15-20"		attackFirstAtNight="true"	moveStyle="Wander"		cardBuff=""				special="BombLayer"			weaknesses=""	resistances=""	immune="false"	maxDistFromStart="6"		baseImage="bombBird"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="3"/>
+		<ENEMYTYPE name="choiramplifico"	powerRange="1-1"		attackFirstAtNight="true"	moveStyle="Scared"		cardBuff=""				special="ChoirAmplifico"	weaknesses=""			resistances="Burning,Frozen,Plasma"	immune="true"	maxDistFromStart="6"		baseImage="choristerBuff"		moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="true" journalIndex="3"/>
+		<ENEMYTYPE name="frogfoot"			powerRange="16-18"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff=""				special="NightFearing"		weaknesses="Burning"	resistances=""	immune="false"	maxDistFromStart="8"		baseImage="footFrog"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="3"/>
+		<ENEMYTYPE name="shark2"			powerRange="28-32"		attackFirstAtNight="false"	moveStyle="Slow"		cardBuff=""				special=""					weaknesses="Plasma"		resistances=""	immune="false"	maxDistFromStart="9999"		baseImage="sharkOnLegs"			moveFrameRange="1.5-6"	hue="40"	hasLoot="true"	powerless="false" journalIndex="3"/>
+
+		<!-- WORLD 4 -->
+		<ENEMYTYPE name="clunker2"			powerRange="22-26"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff=""				special=""					weaknesses="Plasma"		resistances=""	immune="false"	maxDistFromStart="8"		baseImage="clunker"				moveFrameRange="1.5-6"	hue="140"	hasLoot="true"	powerless="false" journalIndex="4"/>
+		<ENEMYTYPE name="lunk2"				powerRange="40-45"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff=""				special="Sleeper"			weaknesses=""		resistances=""	immune="false"	maxDistFromStart="8"		baseImage="lunk"				moveFrameRange="1.5-6"	hue="30"	hasLoot="true"	powerless="false" journalIndex="4"/>
+		<ENEMYTYPE name="itchycoo2"			powerRange="30-34"		attackFirstAtNight="true"	moveStyle="Normal"		cardBuff=""				special=""					weaknesses="Burning"	resistances=""	immune="false"	maxDistFromStart="8"		baseImage="itchyCoo"			moveFrameRange="1.5-6"	hue="32"	hasLoot="true"	powerless="false" journalIndex="4"/>
+		<ENEMYTYPE name="choircarnator"		powerRange="1-1"		attackFirstAtNight="true"	moveStyle="Scared"		cardBuff=""				special="ChoirCarnator"		weaknesses=""			resistances="Burning,Frozen,Plasma"	immune="true"	maxDistFromStart="6"		baseImage="choristerResurrect"	moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="true" journalIndex="4"/>
+		<ENEMYTYPE name="frogfoot2"			powerRange="30-33"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff=""				special="NightFearing"		weaknesses="Burning"	resistances=""	immune="false"	maxDistFromStart="8"		baseImage="footFrog"			moveFrameRange="1.5-6"	hue="-180"	hasLoot="true"	powerless="false" journalIndex="4"/>
+		<ENEMYTYPE name="birdguy2"			powerRange="28-30"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff=""				special="Army"				weaknesses="Frozen"	resistances=""	immune="false"	maxDistFromStart="8"		baseImage="birdguy"				moveFrameRange="1.5-6"	hue="-115"	hasLoot="true"	powerless="false" journalIndex="4"/>
+		<ENEMYTYPE name="thistle"			powerRange="50-50"		attackFirstAtNight="false"	moveStyle="Slow"		cardBuff=""				special="Thistle"			weaknesses="Burning,Frozen,Plasma"	resistances=""	immune="false"	maxDistFromStart="9999"	baseImage="thistleGuy"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="4"/>
+		<ENEMYTYPE name="burrower"			powerRange="23-28"		attackFirstAtNight="true"	moveStyle="Slow"		cardBuff=""				special="Burrower"			weaknesses="Burning"	resistances="Frozen"	immune="false"	maxDistFromStart="6"		baseImage="burrower"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="4"/>
+		<ENEMYTYPE name="fakemonster"		powerRange="20-25"		attackFirstAtNight="true"	moveStyle="Normal"		cardBuff=""				special="FlipDayNight"		weaknesses=""	resistances=""	immune="false"	maxDistFromStart="8"		baseImage="fakeMonster"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false"	flipMultiplier="3" journalIndex="4"/>
+
+
+		<!-- GLOBAL COMMON -->
+		<ENEMYTYPE name="burnbunny"			powerRange="7-11"		attackFirstAtNight="true"	moveStyle="Wander"		cardBuff="SetBurning"	special=""					weaknesses="Frozen"		resistances="Burning"	immune="true"	maxDistFromStart="8"		baseImage="burnBunny"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="5"/>
+		<ENEMYTYPE name="burnbunny2"		powerRange="17-23"		attackFirstAtNight="true"	moveStyle="Wander"		cardBuff="SetBurning"	special=""					weaknesses="Frozen"		resistances="Burning"	immune="true"	maxDistFromStart="8"		baseImage="burnBunny"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="burnbunny"/>
+		<ENEMYTYPE name="burnbunny3"		powerRange="22-28"		attackFirstAtNight="true"	moveStyle="Wander"		cardBuff="SetBurning"	special=""					weaknesses="Frozen"		resistances="Burning"	immune="true"	maxDistFromStart="8"		baseImage="burnBunny"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="burnbunny"/>
+		<ENEMYTYPE name="burnbunny4"		powerRange="28-34"		attackFirstAtNight="true"	moveStyle="Wander"		cardBuff="SetBurning"	special=""					weaknesses="Frozen"		resistances="Burning"	immune="true"	maxDistFromStart="8"		baseImage="burnBunny"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="burnbunny"/>
+		<ENEMYTYPE name="lickboy"			powerRange="7-11"		attackFirstAtNight="true"	moveStyle="Normal"		cardBuff="SetFrozen"	special=""					weaknesses="Burning"	resistances="Frozen"	immune="true"	maxDistFromStart="8"		baseImage="lickBoy"				moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="5"/>
+		<ENEMYTYPE name="lickboy2"			powerRange="17-23"		attackFirstAtNight="true"	moveStyle="Normal"		cardBuff="SetFrozen"	special=""					weaknesses="Burning"	resistances="Frozen"	immune="true"	maxDistFromStart="8"		baseImage="lickBoy"				moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="lickboy"/>
+		<ENEMYTYPE name="lickboy3"			powerRange="22-28"		attackFirstAtNight="true"	moveStyle="Normal"		cardBuff="SetFrozen"	special=""					weaknesses="Burning"	resistances="Frozen"	immune="true"	maxDistFromStart="8"		baseImage="lickBoy"				moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="lickboy"/>
+		<ENEMYTYPE name="lickboy4"			powerRange="28-34"		attackFirstAtNight="true"	moveStyle="Normal"		cardBuff="SetFrozen"	special=""					weaknesses="Burning"	resistances="Frozen"	immune="true"	maxDistFromStart="8"		baseImage="lickBoy"				moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="lickboy"/>
+		<ENEMYTYPE name="portwitch"			powerRange="7-11"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff="SetPlasma"	special="Teleport"			weaknesses="Frozen"		resistances="Plasma"	immune="true"	maxDistFromStart="8"		baseImage="portWitch"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="5"/>
+		<ENEMYTYPE name="portwitch2"		powerRange="17-23"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff="SetPlasma"	special="Teleport"			weaknesses="Frozen"		resistances="Plasma"	immune="true"	maxDistFromStart="8"		baseImage="portWitch"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="portwitch"/>
+		<ENEMYTYPE name="portwitch3"		powerRange="22-28"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff="SetPlasma"	special="Teleport"			weaknesses="Frozen"		resistances="Plasma"	immune="true"	maxDistFromStart="8"		baseImage="portWitch"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="portwitch"/>
+		<ENEMYTYPE name="portwitch4"		powerRange="28-34"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff="SetPlasma"	special="Teleport"			weaknesses="Frozen"		resistances="Plasma"	immune="true"	maxDistFromStart="8"		baseImage="portWitch"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="portwitch"/>
+		<ENEMYTYPE name="ventrigoon"		powerRange="11-14"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff="SetLife"		special=""					weaknesses="Plasma"		resistances="Burning"	immune="false"	maxDistFromStart="8"		baseImage="ventrigoon"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="5"/>
+		<ENEMYTYPE name="ventrigoon2"		powerRange="22-26"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff="SetLife"		special=""					weaknesses="Plasma"		resistances="Burning"	immune="false"	maxDistFromStart="8"		baseImage="ventrigoon"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="ventrigoon"/>
+		<ENEMYTYPE name="ventrigoon3"		powerRange="27-33"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff="SetLife"		special=""					weaknesses="Plasma"		resistances="Burning"	immune="false"	maxDistFromStart="8"		baseImage="ventrigoon"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="ventrigoon"/>
+		<ENEMYTYPE name="ventrigoon4"		powerRange="33-39"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff="SetLife"		special=""					weaknesses="Plasma"		resistances="Burning"	immune="false"	maxDistFromStart="8"		baseImage="ventrigoon"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="ventrigoon"/>
+		<ENEMYTYPE name="spectralbride"		powerRange="7-11"		attackFirstAtNight="true"	moveStyle="Slow"		cardBuff="SetSpectral"	special="Ghost"				weaknesses="Frozen"		resistances="Burning"	immune="false"	maxDistFromStart="14"		baseImage="spectralBride"		moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="5"/>
+		<ENEMYTYPE name="spectralbride2"	powerRange="17-23"		attackFirstAtNight="true"	moveStyle="Slow"		cardBuff="SetSpectral"	special="Ghost"				weaknesses="Frozen"		resistances="Burning"	immune="false"	maxDistFromStart="14"		baseImage="spectralBride"		moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="spectralbride"/>
+		<ENEMYTYPE name="spectralbride3"	powerRange="22-28"		attackFirstAtNight="true"	moveStyle="Slow"		cardBuff="SetSpectral"	special="Ghost"				weaknesses="Frozen"		resistances="Burning"	immune="false"	maxDistFromStart="14"		baseImage="spectralBride"		moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="spectralbride"/>
+		<ENEMYTYPE name="spectralbride4"	powerRange="28-34"		attackFirstAtNight="true"	moveStyle="Slow"		cardBuff="SetSpectral"	special="Ghost"				weaknesses="Frozen"		resistances="Burning"	immune="false"	maxDistFromStart="14"		baseImage="spectralBride"		moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="spectralbride"/>
+		<ENEMYTYPE name="filthpod"			powerRange="7-11"		attackFirstAtNight="false"	moveStyle="Slow"		cardBuff="SetFilth"		special="TravelUnder"		weaknesses="Burning"	resistances="Frozen"	immune="false"	maxDistFromStart="8"		baseImage="filthPod"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="5"/>
+		<ENEMYTYPE name="filthpod2"			powerRange="17-23"		attackFirstAtNight="false"	moveStyle="Slow"		cardBuff="SetFilth"		special="TravelUnder"		weaknesses="Burning"	resistances="Frozen"	immune="false"	maxDistFromStart="8"		baseImage="filthPod"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="filthpod"/>
+		<ENEMYTYPE name="filthpod3"			powerRange="22-28"		attackFirstAtNight="false"	moveStyle="Slow"		cardBuff="SetFilth"		special="TravelUnder"		weaknesses="Burning"	resistances="Frozen"	immune="false"	maxDistFromStart="8"		baseImage="filthPod"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="filthpod"/>
+		<ENEMYTYPE name="filthpod4"			powerRange="28-34"		attackFirstAtNight="false"	moveStyle="Slow"		cardBuff="SetFilth"		special="TravelUnder"		weaknesses="Burning"	resistances="Frozen"	immune="false"	maxDistFromStart="8"		baseImage="filthPod"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" audioId="filthpod"/>
+
+
+		<!-- REINFORCEMENTS -->
+		<ENEMYTYPE name="mite"				powerRange="8-20"		attackFirstAtNight="true"	moveStyle="Normal"		cardBuff=""				special=""					weaknesses="Plasma"		resistances=""	immune="false"	maxDistFromStart="2"		baseImage="corpseMite"			moveFrameRange="1.5-6"	hue="0"		hasLoot="false"	powerless="false" journalIndex="6"/>
+		<ENEMYTYPE name="sweeper"			powerRange="25-30"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff=""				special=""					weaknesses="Plasma"		resistances=""	immune="false"	maxDistFromStart="8"		baseImage="corpseSweeper"		moveFrameRange="1.5-6"	hue="0"		hasLoot="false"	powerless="false" journalIndex="6"/>
+		<ENEMYTYPE name="spacedeath"		powerRange="100-100"	attackFirstAtNight="false"	moveStyle="Normal"		cardBuff=""				special="Realtime"			weaknesses=""			resistances=""			immune="false"	maxDistFromStart="9999"		baseImage="spaceDeath"			moveFrameRange="1.5-6"	hue="0"		hasLoot="false"	powerless="false" journalIndex="6"/>
+
+		<!-- GLOBAL RARE -->
+		<ENEMYTYPE name="thief"				powerRange="10-20"		attackFirstAtNight="true"	moveStyle="Normal"		cardBuff=""				special="Thief"				weaknesses=""	resistances=""	immune="false"	maxDistFromStart="8"		baseImage="thiefMonkey"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="7"/>
+		<ENEMYTYPE name="crab"				powerRange="2-5"		attackFirstAtNight="false"	moveStyle="Scared"		cardBuff=""				special="Treasure"			weaknesses=""		resistances=""	immune="false"	maxDistFromStart="8"		baseImage="treasureImp"			moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="7"/>
+		<ENEMYTYPE name="leafguy"			powerRange="20-30"		attackFirstAtNight="false"	moveStyle="Normal"		cardBuff=""				special="TeleportAttack"	weaknesses="Burning"		resistances=""	immune="false"	maxDistFromStart="8"		baseImage="leafGuy"				moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="7"/>
+
+
+		<!-- BOSS ENEMIES -->
+		<ENEMYTYPE name="eggsac"			powerRange="1-1"		attackFirstAtNight="false"	moveStyle="ScaredSlow"	cardBuff=""				special="EggSac"		weaknesses="" resistances="Burning,Frozen,Plasma"	immune="true"	maxDistFromStart="9999"		baseImage="TBpod"				moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="true"  createMapEntry="true"/>
+		<ENEMYTYPE name="tentacleEnemy"		powerRange="1-1"		attackFirstAtNight="true"	moveStyle="Static"		cardBuff=""				special="TentacleEnemy"		weaknesses=""			resistances=""			immune="false"	maxDistFromStart="9999"		baseImage="tentacle"			moveFrameRange="1.1-1"	hue="40"	hasLoot="true"	powerless="true"   audioId="tentacle"/>
+		<ENEMYTYPE name="tentacleIce"		powerRange="1-1"		attackFirstAtNight="true"	moveStyle="Static"		cardBuff=""				special="TentacleIce"		weaknesses=""			resistances=""			immune="false"	maxDistFromStart="9999"		baseImage="tentacle"			moveFrameRange="1.1-1"	hue="80"	hasLoot="true"	powerless="true"   audioId="tentacle"/>
+		<ENEMYTYPE name="tentacleSlip"		powerRange="1-1"		attackFirstAtNight="true"	moveStyle="Static"		cardBuff=""				special="TentacleSlip"		weaknesses=""			resistances=""			immune="false"	maxDistFromStart="9999"		baseImage="tentacle"			moveFrameRange="1.1-1"	hue="120"	hasLoot="true"	powerless="true"   audioId="tentacle"/>
+		<ENEMYTYPE name="tentacleBomb"		powerRange="1-1"		attackFirstAtNight="true"	moveStyle="Static"		cardBuff=""				special="TentacleBomb"		weaknesses=""			resistances=""			immune="false"	maxDistFromStart="9999"		baseImage="tentacle"			moveFrameRange="1.1-1"	hue="160"	hasLoot="true"	powerless="true"   audioId="tentacle"/>
+		<ENEMYTYPE name="tentacleSuppress"	powerRange="1-1"		attackFirstAtNight="true"	moveStyle="Static"		cardBuff=""				special="TentacleSuppress"	weaknesses=""			resistances=""			immune="false"	maxDistFromStart="9999"		baseImage="tentacle"			moveFrameRange="1.1-1"	hue="200"	hasLoot="true"	powerless="true"   audioId="tentacle"/>
+		<ENEMYTYPE name="tentacleWall"		powerRange="1-1"		attackFirstAtNight="true"	moveStyle="Static"		cardBuff=""				special="TentacleWall"		weaknesses=""			resistances="Burning,Frozen,Plasma"			immune="true"	maxDistFromStart="9999"		baseImage="tentacle"			moveFrameRange="1.1-1"	hue="40"	hasLoot="true"	powerless="true"   audioId="tentacle"/>
+
+
+		<!-- TUTORIAL -->
+		<ENEMYTYPE name="tutorial1"			powerRange="1-1"		attackFirstAtNight="true"	moveStyle="Static"		cardBuff=""				special=""					weaknesses=""			resistances=""			immune="false"	maxDistFromStart="2"		baseImage="digiBiscuitA"		moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="7"/>
+		<ENEMYTYPE name="tutorial2"			powerRange="1-1"		attackFirstAtNight="false"	moveStyle="Static"		cardBuff=""				special=""					weaknesses=""			resistances=""			immune="false"	maxDistFromStart="2"		baseImage="digiBiscuitB"		moveFrameRange="1.5-6"	hue="-80"	hasLoot="true"	powerless="false" journalIndex="7"/>
+
+
+		<!-- SIMPLE JELLYBOY JUST FOR THE JOURNAL -->
+		<ENEMYTYPE name="journaljellyboy"			powerRange="10-10"		attackFirstAtNight="false"	moveStyle="Slow"		cardBuff=""				special="Split"				weaknesses="Frozen"		resistances="Burning"	immune="false"	maxDistFromStart="9999"		baseImage="jellyBoy"		moveFrameRange="1.5-6"	hue="0"		hasLoot="true"	powerless="false" journalIndex="3" audioId="jellyboy"/>
+
+
+
+		<!-- ALWAYS HAVE THE HOLO AT THE END-->
+		<ENEMYTYPE name="holo1"				powerRange="1-1"		attackFirstAtNight="false"	displayName=""					moveStyle="Normal"		cardBuff=""				special=""					weaknesses=""			resistances=""			immune="false"	maxDistFromStart="8"		baseImage="holo1B"		powerMultiplier="1.5"	moveFrameRange="1-4"			hue="0"		hasLoot="false"	powerless="false" />
+		<ENEMYTYPE name="holo2"				powerRange="1-1"		attackFirstAtNight="false"	displayName=""					moveStyle="Normal"		cardBuff=""				special=""					weaknesses=""			resistances=""			immune="false"	maxDistFromStart="8"		baseImage="holo2B"	powerMultiplier="1.5"	moveFrameRange="1-4"			hue="0"		hasLoot="false"	powerless="false" />
+
+	</ENEMYTYPES>
+
+	<BALANCE
+		baseHealth="5"
+		cardChargeAmountPerTileReveal= "0.005"
+		cardChargePerChargeTile="1.6"
+		cardChargePerCombatAttack="0.1"
+		holoBatteryPowerLostPerMove="0.1"
+		holoStartBatteryPower="20"
+		elitePowerMultiplier="1.8-2.5"
+		subElitePowerMultiplier="1.4-1.8"
+		subEliteChance="10"
+		reinforcementTurnStart="250"
+		reinforcementTurnIncrement="50"
+		enemyChance="17"
+		dayAndNightLength="5"
+		domeTeleportCost="25"
+		wrongGlueChance="10"
+		wrongChunkChance="10"
+		enemyBiasChance="10"
+		featureBiasChance="10"
+		tentacleChance="0.5"
+		tentacleCapMin="15"
+		tentacleCapMax="25"
+		tentacleTurnMax="3"
+		tentacleIsEnemyChance="0.5"
+	>
+		<!-- for legibility chances are in % -->
+		<WORLD index="1"
+			cardDropRate="23"
+			tier1="40" tier2="30" tier3="3" tier4="1" tier5="0"
+			bomb="0.1" chargeTile="0.1" generator="0.7" generatorBomb="0" iceSlip="0" iceBlock="0" suppressor="0" turnBasedTrap="0.1" unique="0.75" heal="0.3" holo="0.2"
+			chanceCommon="30" chanceUncommon="15" chanceRare="3" chanceAbility="3"
+			enemiesCommon="wook,ogron,bolasgirl"
+			enemiesUncommon="horsebros,merc,rat,ratstack"
+			enemiesRare="crab,thief,ogron2,wook2,wizard,birdguy"
+			enemiesAbility="burnbunny,lickboy,portwitch,spectralbride,filthpod,ventrigoon"
+			enemiesOutOfLevel="ogron2,wook2,wizard,birdguy"
+			enemiesSafeZone="rat,ogron,wook,wook"
+			holoPowerRange="15-30"
+			networkDropRange="0-5"
+		/>
+		<WORLD index="2"
+			cardDropRate="16"
+			tier1="15" tier2="40" tier3="10" tier4="3" tier5="1"
+			bomb="2" chargeTile="0.4" generator="0" generatorBomb="0" iceSlip="2" iceBlock="2" suppressor="1" turnBasedTrap="0" unique="0.5" heal="0.3" holo="0.2"
+			chanceCommon="25" chanceUncommon="15" chanceRare="3" chanceAbility="2"
+			enemiesCommon="ogron2,shark,birdguy,wook2"
+			enemiesUncommon="lunk,webjock,wizard"
+			enemiesRare="crab,thief,shark2,itchycoo,frogfoot"
+			enemiesAbility="burnbunny2,lickboy2,portwitch2,spectralbride2,filthpod2,ventrigoon2"
+			enemiesOutOfLevel="shark2,itchycoo,frogfoot"
+			enemiesForced="choirobscurer"
+			holoPowerRange="25-40"
+			networkDropRange="3-7"
+		/>
+		<WORLD index="3"
+			cardDropRate="16"
+			tier1="0" tier2="25" tier3="40" tier4="10" tier5="3"
+			bomb="4" chargeTile="0.4" generator="0" generatorBomb="0" iceSlip="0" iceBlock="0" suppressor="1" turnBasedTrap="2" unique="0.5" heal="0.3" holo="0.2"
+			chanceCommon="25" chanceUncommon="15" chanceRare="3" chanceAbility="2"
+			enemiesCommon="bolasgirl2,shark2,frogfoot,itchycoo"
+			enemiesUncommon="merc2,horsebros2,birdbomb,bomblayer"
+			enemiesRare="crab,thief,leafguy,leafguy,itchycoo2,frogfoot2,fakemonster"
+			enemiesAbility="burnbunny3,lickboy3,portwitch3,spectralbride3,filthpod3,ventrigoon3"
+			enemiesOutOfLevel="itchycoo2,frogfoot2,fakemonster"
+			enemiesForced="choiramplifico"
+			holoPowerRange="35-50"
+			networkDropRange="4-10"
+		/>
+		<WORLD index="4"
+			cardDropRate="16"
+			tier1="0" tier2="5" tier3="20" tier4="20" tier5="5"
+			bomb="2" chargeTile="0.75" generator="0.7" generatorBomb="1" iceSlip="1" iceBlock="0" suppressor="2" turnBasedTrap="1" unique="0.5" heal="0.3" holo="0.2"
+			chanceCommon="25" chanceUncommon="15" chanceRare="3" chanceAbility="2"
+			enemiesCommon="itchycoo2,frogfoot2,birdguy2"
+			enemiesUncommon="fakemonster,lunk2,fakemonster,lunk2,burrower"
+			enemiesRare="crab,thief,thief,leafguy"
+			enemiesAbility="burnbunny4,lickboy4,portwitch4,spectralbride4,filthpod4,ventrigoon4"
+			enemiesOutOfLevel=""
+			enemiesForced="thistle,choircarnator"
+			holoPowerRange="45-60"
+			networkDropRange="5-100"
+		/>
+		<WORLD index="5"
+			cardDropRate="0"
+			tier1="0" tier2="0" tier3="0" tier4="0" tier5="0"
+			bomb="0" chargeTile="0" generator="0" generatorBomb="0" iceSlip="0" iceBlock="0" suppressor="0" turnBasedTrap="0" unique="0" heal = "0" holo="0"
+			chanceCommon="30" chanceUncommon="15" chanceRare="3" chanceAbility="0"
+			enemiesCommon="itchycoo2,frogfoot2,birdguy2"
+			enemiesUncommon="fakemonster,merc2,horsebros2"
+			enemiesRare="fakemonster,merc2,horsebros2"
+			enemiesAbility=""
+			holoPowerRange="45-60"
+			networkDropRange="5-100"
+		/>
+	</BALANCE>
+
+
+	<BIOMES>
+		<BIOME name="safe" tiles="HLZ,1"								mapLineColour="0xC6FF2C" mapTileColour="0x2E3615" colour="0xffffff" hueShift="0" blockedTile="tileBlocked"				blocker="boundaryHLZ" sceneryBig="appletree,shapeTree_01,shapeTree_02,shapeTree_03" scenerySmall="groundFlower_01,groundFlower_02,groundFlower_03,groundFlower_04,groundFlower_05,groundFlower_06,groundFlower_07,groundFlower_08,groundFlower_09,groundFlower_10,shapePlant_01,shapePlant_02,shapePlant_03,shapePlant_04,shapePlant_05,shapePlant_06"  blockerCount="3"  sceneryScale="2"/>
+		<BIOME name="woods" tiles="Plain,0.5,Cracked,0.2,Woods,0.3"		mapLineColour="0xC54897" mapTileColour="0x250D1C" colour="0xE0E6FD" hueShift="20" blockedTile="tileBlocked"				blocker="boundaryOriginalMountain" sceneryBig="greentree1,greentree2,greentree3,autumntree1,autumntree2" scenerySmall="ball1,ball2,ball3,ball4,ball5,ball6,spindle1,spindle2,rocklump1,rocklump2,stump2,stump4,stump5"  sceneryNearExit="balltree1,balltree2,balltree3"   sceneryScale="2"/>
+		<BIOME name="softlumps" tiles="Plain,0.8,Cracked,0.2"			mapLineColour="0xC54897" mapTileColour="0x250D1C" colour="0xD9FFF7" hueShift="20" blockedTile="tileBlocked"				blocker="boundaryOriginalMountain" baseHue="30" baseValue="1"  sceneryBig="lumpbush,softlumpBig1,softlumpBig2,softlumpBig3,softlumpBig4,softlumpBig5" scenerySmall="softlump1,softlump2,softlump3,softlump4,softlump5,softlump6,softlump7,stump1,stump2,stump3,stump4,stump6,stump7" sceneryNearExit="balltree1,balltree2,balltree3"   sceneryScale="2"/>
+		<BIOME name="drybog" tiles="MarshPlain,0.7,MarshCracked,0.3"	mapLineColour="0xF69538" mapTileColour="0x2D1B0A" colour="0xE0E6FD" hueShift="20" blockedTile="tileMarshPlain_0006"				blocker="boundaryToxicMountain" sceneryBig="stump1,stump2,stump3,stump4,stump5,stump6,stump7" scenerySmall="log1,pipe1,pipe2,pipe3,pipe4,pipeoutline1,pipeoutline2,pipeoutline3" sceneryNearExit="eyetreeBig1,eyetreeBig2"   sceneryScale="2"/>
+		<BIOME name="marshbog" tiles="Marsh,0.6,MarshCracked,0.4"		mapLineColour="0xF69538" mapTileColour="0x2D1B0A" colour="0xE0E6FD" hueShift="20" blockedTile="tileMarshPlain_0006"				blocker="boundaryToxicMountain" sceneryBig="marshplantBig1,marshplantBig2,soakingplant1,soakingplant2" scenerySmall="marshplant1,marshplant2,marshplant3,marshplant4,plantoutline1,plantoutline2,plantoutline3,plantoutline4" sceneryNearExit="eyetreeBig1,eyetreeBig2"   sceneryScale="2"/>
+		<BIOME name="moony" tiles="Crater,0.8,MoonyCracked,0.2"			mapLineColour="0xC54897" mapTileColour="0x250D1C" colour="0xE0E6FD" hueShift="20" blockedTile="tileMoonyBlocked_0001" 	blocker="boundaryMesa" sceneryBig="rockbig1,rockbig2,rockplant1,rockplant2,totem1,tree1,tree2,tree3,treelong1,treelong2,treelong3,treelong4,treelong5" scenerySmall="rocksmall1,rocksmall2,rocksmall3,rocksmall4" sceneryNearExit="inukshuk1,inukshuk2"   sceneryScale="2"/>
+		<BIOME name="volcanic" tiles="Volcanic,1.0"						mapLineColour="0xC54897" mapTileColour="0x250D1C" colour="0xFDE6E0" hueShift="20" blockedTile="tileMoonyBlocked_0001"		blocker="boundaryMesa" sceneryBig="" scenerySmall="rocklump1,rocklump2,rocklump3,rocklump4,spindle1,spindle2,spindle3,crater"  sceneryNearExit="inukshuk1,inukshuk2"   sceneryScale="2"/>
+		<BIOME name="rocketparkstreet" tiles="Sidewalk,1"			    mapLineColour="0xC6FF2C" mapTileColour="0x021410" colour="0xE0E6FD" hueShift="20" blockedTile="tileRocketBlocked"			blocker="boundaryBuilding" sceneryBig="rustypipeBig1,streetlamp1,streetlamp2,streetlamp3,streetlamp4,streetlamp5,uforide1,rustypipe1,rustypipe2,rustypipe3,speakerbox1,speakerbox2,speakerbox3" scenerySmall=""  sceneryNearExit="bumpercars1,bumpercars2" blockerCount="7" blockerChances="1,0.05,0.05,0.05,0.05,0.05,0.05" sceneryScale="2"/>
+		<BIOME name="rocketparkgrass" tiles="Grass,1"			        mapLineColour="0xC6FF2C" mapTileColour="0x021410" colour="0xE0E6FD" hueShift="20" blockedTile="tileRocketBlocked"			blocker="boundaryBuilding" sceneryBig="rockethouse1,rocketride1,shapestree1,shapestree2,shapestree3,shapestree4,shapestree5,speakerbox1,speakerbox2,speakerbox3" scenerySmall="" sceneryNearExit="bumpercars1,bumpercars2" blockerCount="7" blockerChances="1,0.05,0.05,0.05,0.05,0.05,0.25" sceneryScale="2"/>
+		<BIOME name="tutorial" tiles="Tut,1"			        		mapLineColour="0xE1A1C0" mapTileColour="0x181523" colour="0xffffff" hueShift="0"  blockedTile="tileTutBlock"				blocker="tutorialMountain" sceneryBig="cake_01_blink1_0001,cake_02_blink1_0001,cake_03_blink1_0001,flower_01_blink1_0001,forktree_01_blink1_0001,mound_01_blink1_0001,mound_01_blink2_0001,mound_02_blink1_0001,pot_01_blink1_0001,trays_01_blink1_0001" scenerySmall="ball_01_blink1_0001,ball_02_blink1_0001,ball_03_blink1_0001,forktree_02_blink1_0001"  sceneryNearExit="balltree1,balltree2,balltree3"  sceneryScale="2"/>
+		<BIOME name="thingbelow" tiles="_Seafloor,1"			        mapLineColour="0x9586F9" mapTileColour="0x130E20" colour="0xffffff" hueShift="0"  blockedTile="tileBlockedSeafloor"		blocker="boundaryThingBelow" sceneryBig="anglerTrap1,anglerTrap2,tentaPod1,tentaPod2,tentaPod3,treeBubble1,treeBubble2,treeBubble3,treeBubble4,treeSeaweed1,treeTentacle1,treeTentacle2,treeTentacle3" scenerySmall="groundhole1,groundhole2,groundhole3,smallBarnacle1,smallBarnacle2,smallBarnacle3,smallBarnacle4,smallBarnacle5,smallBarnacle6,smallCoral1,smallCoral2,smallCoral3,smallCoral4" sceneryScale="2" blockerCount="4"/>
+
+		<BIOME name="challengeMetal" tiles="Challenge_Metal,1"			mapLineColour="0xD3F0BC" mapTileColour="0x1A1F18" colour="0xffffff" hueShift="0"  blockedTile="tileBlocked"				blocker="boundaryChallengeMetal" sceneryBig="" scenerySmall=""  sceneryNearExit=""   sceneryScale="2"/>
+		<BIOME name="challengePink" tiles="Challenge_Pink,1"			mapLineColour="0xFAB5B6" mapTileColour="0x22111D" colour="0xffffff" hueShift="0"  blockedTile="tileBlocked"				blocker="boundaryChallengePink" sceneryBig="" scenerySmall=""  sceneryNearExit=""   sceneryScale="2"/>
+		<BIOME name="challengeWood" tiles="Challenge_Wood,1"			mapLineColour="0xFADAAF" mapTileColour="0x2B2117" colour="0xffffff" hueShift="0"  blockedTile="tileBlocked"				blocker="boundaryChallengeWood" sceneryBig="" scenerySmall=""  sceneryNearExit=""   sceneryScale="2"/>
+
+	</BIOMES>
+
+	<APPEARANCE>
+		<WORLD 	index="1"
+				background="stretch_bg_world1"
+				biomes="woods,softlumps"
+				challengeBiomes="challengeMetal,challengePink,challengeWood"
+		/>
+		<WORLD index="2"
+				background="stretch_bg_world2"
+				biomes="drybog,marshbog"
+				challengeBiomes="challengeMetal,challengePink,challengeWood"
+		/>
+		<WORLD index="3"
+				background="stretch_bg_world3"
+				biomes="moony,volcanic"
+				challengeBiomes="challengeMetal,challengePink,challengeWood"
+		/>
+		<WORLD index="4"
+				background="stretch_bg_world4"
+				biomes="rocketparkgrass,rocketparkstreet"
+				challengeBiomes="challengeMetal,challengePink,challengeWood"
+		/>
+		<WORLD index="5"
+				background="stretch_bg_world5"
+				biomes="thingbelow"
+				challengeBiomes="challengeMetal,challengePink,challengeWood"
+		/>
+	</APPEARANCE>
+	
+	<UNIQUECARDS>
+
+		<!-- PASSIVE -->
+		<!--UNIQUE id=",BUFF_TIER_1"				type="passive"		name="1 Eyed Plush"			anim="plush1"			property="All Tier 1 Chips: +$v"								propertyValue="2"		badProperty="All Tier 2 Chips -1"/>
+		<UNIQUE id="BUFF_TIER_2"				type="passive"		name="2 Eyed Plush"			anim="plush2"			property="All Tier 2 Chips: +$v"								propertyValue="2"		badProperty="All Tier 3 Chips -1"/>
+		<UNIQUE id="BUFF_TIER_3"				type="passive"		name="3 Eyed Plush"			anim="plush3"			property="All Tier 3 Chips: +$v"								propertyValue="2"		badProperty="All Tier 4 Chips -1" />
+		<UNIQUE id="BUFF_TIER_4"				type="passive"		name="4 Eyed Plush"			anim="plush4"			property="All Tier 4 Chips: +$v"								propertyValue="2"		badProperty="All Tier 5 Chips -1" />
+		<UNIQUE id="BUFF_TIER_5"				type="passive"		name="5 Eyed Plush"			anim="plush5"			property="All Tier 5 Chips: +$v"								propertyValue="2"		badProperty="All Tier 4 Chips -1" /-->
+
+
+		<UNIQUE ignore="true" id="BUFF_BURNING"				type="passive"		name="10 Tons of Toaster"		anim="toaster"			property="Burn Damage Boost"    							propertyValue="4"		badProperty="Reduces Ice Damage" />
+		<UNIQUE ignore="true" id="BUFF_FROZEN"				type="passive"		name="Ice Cubes Cubed"			anim="iceCubes"			property="Freeze Damage Boost"								propertyValue="4"		badProperty="Reduces Fire Damage" />
+		<UNIQUE ignore="true" id="BUFF_PLASMA"				type="passive"		name="Infiniloop Charger"		anim="charger"			property="Plasma Damage Boost"										propertyValue="2"		badProperty="Drop Fire+Ice Damage"/>
+		<UNIQUE ignore="true" id="BUFF_LIFE"	 				type="passive"		name="Heart Paddles"			anim="heartPaddles"		property="Heal +$v"												propertyValue="2"											/>
+
+		<UNIQUE ignore="true" id="INCREASE_MAXHEALTH_2"		type="passive"		name="Mirrorball Cap"			anim="mirrorballCap"	property="Increase Max Health by 2"								 />
+		<UNIQUE ignore="true" id="CURSOR_RADIUS_INCREASE"		type="passive"		name="Cursor Radius"			anim="bungee"			property="Cursor Radius Increased"								/>
+		<UNIQUE ignore="true" id="FULLY_HEAL"					type="oneShot"		name="Plaster Blaster"			anim="plasterBlaster"	property="Burst: Fully Heal"								/>		
+		<UNIQUE ignore="true" id="TELEPORT_EXIT"				type="oneShot"		name="Teleport Exit"			anim="exitCompass"		property="Burst: Blink to the Exit"								/>
+
+		<UNIQUE ignore="true" id="REMOTE_LOOTCHIP_PICKUP"		type="passive"		name="Lootchip Grabber"			anim="tinOpener"		property="Collect Lootchips remotely with cursor"				/>
+		<UNIQUE ignore="true" id="COLLECT_ALL_LOOTCHIPS"		type="token"		name="Collect Radio"			anim="radio"			property="Spend 3 Tokens to Collect all Lootchips" shortProperty="Collect all Chips"/>
+		<UNIQUE ignore="true" id="FLEE"						type="token"		name="Flee Power"				anim="radio"			property="Spend 3 Tokens to Flee from Combat" shortProperty="Flee Combat"/>
+		<UNIQUE ignore="true" id="EXPLODE_CORPSES"			type="token"		name="Corpse Exploder"			anim="marigold"			property="Spend 3 Tokens to Explode all Nearby Corpses"  shortProperty="Explode Corpses" />
+
+
+		<UNIQUE id="BUFF_LEFT"					sticky="true" 		type="passive"				anim="MuscleTorchL"			property="All Chips to Left +$v"								propertyValue="2"		/>
+		<UNIQUE id="BUFF_RIGHT"					type="passive"		anim="MuscleTorchR"			property="All Chips to Right +$v"	 							propertyValue="1"		/>
+
+		<UNIQUE id="SLOW_ENEMIES"				type="passive"		anim="PaddlingGlue"		property="Enemies Move Slower, Half Defence"								/>
+		<UNIQUE id="CONFUSE_ENEMIES"			type="passive"		anim="BeastWhistle"		property="All Enemies are Confused"  />
+		<UNIQUE id="THIEF_LURE"	 				type="passive"		anim="ThiefLure"		property="The Thief always Steals this" />
+		<UNIQUE id="ALLOW_REINCARNATE"			type="passive"		anim="Transcendacle"			property="Reincarnate on Death"									/>
+
+		<UNIQUE id="INCREASE_MAXHEALTH_1"		type="passive"		anim="Ventriplush"		property="Increase Max Health by 1"								/>
+		<UNIQUE id="INCREASE_MAXHEALTH_3"		sticky="true" 		type="passive"					anim="VentriplushPlus"	property="Increase Max Health by 3"								/>
+		<UNIQUE id="TAUNT_BOMB"					type="passive"		anim="SpectralBomb"			property="Spectral Decoy Explodes"								/>
+		<UNIQUE id="NO_FIRE_DAMAGE"				type="passive"		anim="OvenSleeves"			property="Take No Fire or Bomb Damage"							/>
+		<UNIQUE id="BURNING_PLACES_BOMB"		type="passive"		anim="BoomBuddy"			property="Burn Ability Places Bomb"								/>
+
+		<UNIQUE id="HOLO_ALLIANCE_FLIP"	notDaily="true"	type="passive"		anim="HoloMuddler"			property="Hostile Holos become nice, nice Holos become hostile"	/>
+		<UNIQUE id="REALTIME"					type="passive"		anim="ChronoFlange"			property="Time is an illusion.."								/>
+
+		<UNIQUE id="NO_ICE_SLIDING"				type="passive"		anim="SaltSock"			property="Can walk on ice, walking on ice costs no turns"								/>
+		<UNIQUE id="SUPPRESSOR_FLIP"			type="passive"		anim="FlexFlops"			property="All abilities boosted when standing on Suppressor tiles"							/>
+
+		<UNIQUE id="INSTRUMENT_1"	dontDrop="true" type="chain"		anim="white"			property="+5 to jazz improv"  />
+		<UNIQUE id="INSTRUMENT_2"	dontDrop="true" type="chain"		anim="white"		property="+4 shredding"  />
+		<UNIQUE id="INSTRUMENT_3"	dontDrop="true" type="chain"		anim="white"			property="+10 MOR tuneage" />
+		<UNIQUE id="INSTRUMENT_4"	dontDrop="true" type="chain"		anim="white"		property="" />
+
+
+			<!-- ONE SHOTS -->
+		<UNIQUE id="COMBINE_ATK_CARDS"			type="oneShot"		anim="AttackBlender"			property="Burst: Combine all ATK Chips"								 />
+		<UNIQUE id="COMBINE_DEF_CARDS"			type="oneShot"		anim="DefenceBlender"			property="Burst: Combine all DEF Chips"								/>
+		<UNIQUE id="MUTATE_ALL_CARDS"			type="oneShot"		anim="GambleGuy"			property="Burst: Mutate all Chips"								 />
+
+		<!-- TOKENS  -->
+		<UNIQUE id="SHOW_MAP"	dontDrop="true"	type="token"	tokenCost="3"	anim="SatnavTeaTowel"/>
+		<UNIQUE id="FULLY_CHARGE"				type="token"	tokenCost="3"	anim="ChargeDock"/>
+		<UNIQUE id="HOLO_EXTEND"	notDaily="true"	type="token"	tokenCost="1"	anim="HoloBuffer"/>
+		<UNIQUE id="DELAY_REINFORCEMENTS"		type="token"	tokenCost="1"	anim="FrequencyJam" />
+		<UNIQUE id="BIG_BOMB"					type="token"	tokenCost="5"	anim="BombBalloons" />
+		<UNIQUE id="TELEPORT_RANDOM"			type="token"	tokenCost="1"	anim="RandomCompass"/>
+		<UNIQUE id="FREE_TURNS"					type="token"	tokenCost="1"	anim="PausePoncho"/>
+		<UNIQUE id="FLIP_DAY_NIGHT"				type="token"	tokenCost="1"	anim="FlipOutBlinds"/>
+
+	</UNIQUECARDS>
+</SETTINGS>

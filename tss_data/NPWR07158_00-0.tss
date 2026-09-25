@@ -1,0 +1,8 @@
+{
+  "MainConfigUri":"s3:eu-west-1:hardware-rivals-eu-west-1:/launch/np/$(env)/MainConfig.json",
+  "EventMetadataBaseUri":"https://d2edsgl5sjnm4c.cloudfront.net/",
+  "CCGConfigUri":"s3:eu-west-1:ccg-libconfig-eu-west-1:/378def60-49a8-4e45-a277-ae38a2ea1243/libconfig/hardwaremain/libconfig-np.json",
+  "S3AccessKey":"AKIAJCCG3ZKYTNU2ZY7Q",
+  "S3AccessSecret":"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",
+  "SchedulesFilter":"Live-$(env)"
+}

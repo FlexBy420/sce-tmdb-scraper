@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+Der Patch enthält die Sprachausgabe für Französisch und Deutsch.
+    ]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[
+GROßE ÄNDERUNGEN/UPDATES/NEUE FEATURES
+
+- Fehler, die mit VOIP zusammenhingen, wurden behoben, sodass das System nun einwandfrei funktioniert.
+    * Der Sprachchat wurde erheblich optimiert, was es Spielern nun erlaubt Kanälen problemlos beizutreten, sie zu verlassen, sowie sie zu verwalten. Die Benutzeroberfläche für VOIP wurde für bessere Konsistenz aktualisiert.
+
+- Fälle, in denen statt die Online-ID die UserID bzw. der Charaktername angezeigt wurden, wurden angepasst.
+    * Die Benutzeroberfläche für Gruppen ist nun stabiler und funktioniert mit der Online-ID der Konsole.
+
+- Einstellungen werden nun gespeichert, wenn das Menü verlassen wird.
+    * Optionen der Benutzeroberfläche und Einstellungen sollten nun nach Auswahl bestehen bleiben, dazu haben die vielen Korrekturen zu einer besseren Funktionalität der Einstellungen geführt.
+
+- Die sozialen Features  sind nun  integriert.
+
+- Client-Abstürze wurden behoben.
+
+
+KORREKTUREN & VERBESSERUNGEN
+
+- Allgemein
+    * Das Ein- und Ausloggen läuft nun wesentlich stabiler.
+    * Die Funktionalität des "PSN" wurde deutlich verbessert, was die Integration der Online-IDs, Installationssicherung, Eingabeverifizierung und Stabilitätsprüfung ermöglicht und außerdem verschiedene Client-Abstürze verhindert.
+
+- Audio
+    * Audiounterstützung wurde hinzugefügt und die Performance der Soundausgabe bei einer großen Anzahl an Bildschirmen wurde verbessert.
+    * Ein Problem wurde behoben, durch das die Audioausgabe gelegentlich ausfiel.
+
+- Performance
+    * Die Performance der Partikeleffekte und Animationen wurde verbessert.
+    * Das Intro sollte nun flüssig abgespielt werden.
+    * Viele Probleme mit Speicherlecks und der Framerate wurden behoben.
+    * Viele verschiedene Quests und Verliese wurden aktualisiert, was die Performance verbessert und übergreifend Lags reduziert.
+
+- Soziale Systeme
+    * Gildenkommunikationskanäle sollten nun effizienter und benutzerfreundlicher sein.
+    * Die Menüs rund um die Gildenverwaltung laufen nun stabiler und bieten mehr Funktionen an.
+
+- Tutorial
+    * Einige Probleme, die dazu führten, dass manche Szenen während des Tutorials nicht ausgelöst wurden, wurden behoben.
+    * Zusätzliche textbasierende Tutorials wurden hinzugefügt.
+
+- Benutzeroberfläche
+    * Verbesserung der Lokalisierung für Deutsch und Französisch in vielen verschiedenen Bereichen der Benutzeroberfläche.
+    * Ein Problem wurde behoben, durch das Errungenschaften und Trophäen in der Benutzeroberfläche ungewollt abgeschnitten wurden.
+    * Verbesserung der Benutzeroberfläche für die Gruppensuche
+    * Viele Fehlercodes und Fehlermeldungen sind nun benutzerfreundlicher.
+    * Es ist nun einfacher zwischen den einzelnen Nutzungsvereinbarungen zu navigieren und sie zu lesen.
+    * Die Benutzeroberfläche des Allianzkrieges wurde überarbeitet, damit sie einfacher zu navigieren ist und mehr Informationen anzeigt.
+    * Die Interaktionsfenster von NSCs und Büchern haben nun einheitliche Benutzeroberflächen.
+    * Viele verschiedene Probleme wurden behoben, die zu Abstürzen und der Blockierung der Benutzeroberfläche bei der Charaktererstellung führen konnten.
+    * Viele verschiedene Probleme wurden behoben, die zu Fehlern in der Handwerksoberfläche führen konnten. Wir haben darüber hinaus auch die Anzeige für die Handwerksherstellung verbessert.
+    * Das gesamte Gamepad-Menü wurde verbessert, um die Übergänge der Menüs glatter und verlässlicher zu gestalten.
+    * Viele Fähigkeiten-, Synergie-, Champion- und Fertigkeitenmenüs wurden aktualisiert.
+    * Sicherheitssysteme wurden integriert, um zu verhindern, dass Spieler sich durch unbeabsichtigtes „Spammen“ aus der Benutzeroberfläche aussperren konnten.
+    * Viele verschiedene Probleme wurden behoben, die zu Fehlern in der Benutzeroberfläche, bei der Inventarverwaltung, beim Handel und bei der Interaktion mit Händlern auftreten konnten.
+    ]]>
+  </changes>
+</changeinfo>

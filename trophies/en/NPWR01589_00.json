@@ -1,0 +1,597 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01589_00",
+  "trophySetVersion": "01.05",
+  "trophyTitleName": "MARVEL Pinball",
+  "trophyTitleDetail": "Whack the ball with unlimited proximity on the MARVEL Pinball tables!",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/5068B717EAF8256965F6D068274F3F6D18B29DE8.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 43,
+    "silver": 4,
+    "gold": 1,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "MARVEL Pinball",
+      "trophyGroupDetail": "Whack the ball with unlimited proximity on the MARVEL Pinball tables!",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/5068B717EAF8256965F6D068274F3F6D18B29DE8.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Fantastic Four",
+      "trophyGroupDetail": "Trophies for the Fantastic Four table.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/5B585458297D1D7D1C3B61C6A37A658A0A335BCA.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Captain America",
+      "trophyGroupDetail": "Trophies for the Captain America table.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/5D7D5985717E341C249103435B93543C68ECF1BF.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Ghost Rider",
+      "trophyGroupDetail": "Trophies for the Ghost Rider table.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/2943B665D69296D05732558EA5CAAC7BB15AE722.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Thor",
+      "trophyGroupDetail": "Trophies for the Thor table.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/C27BF4D7BF69A15134744437DA22C19FD607382A.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Moon Knight",
+      "trophyGroupDetail": "Trophies for the Moon Knight table.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/CC1F4DBB3E687ACE83CB0D1121A34449A3B27FFE.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "006",
+      "trophyGroupName": "X-Men",
+      "trophyGroupDetail": "Trophies for the X‑Men table.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/A17A0E70B473F6CFB8D7A211BB3A1A584BDA6E4B.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "007",
+      "trophyGroupName": "Infinity Gauntlet",
+      "trophyGroupDetail": "Trophies for the Infinity Gauntlet table.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/B9A07EC216ED6D3171EFA6ACB7B3FC120A62162C.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "008",
+      "trophyGroupName": "World War Hulk",
+      "trophyGroupDetail": "Trophies for the World War Hulk table.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/B58197F4ABAA66665FC12112B9B29A9F2907FABF.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "009",
+      "trophyGroupName": "Fear Itself",
+      "trophyGroupDetail": "Trophies for the Fear Itself table.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/C5750DC01F33D5513653C82F4BABB98F9A92B936.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "010",
+      "trophyGroupName": "Marvel's The Avengers\n",
+      "trophyGroupDetail": "Trophies for the Marvel's The Avengers table.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/1A48629EEDE249429CC42788DB27339739E4E64F.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "011",
+      "trophyGroupName": "Civil War",
+      "trophyGroupDetail": "Trophies for the Civil War table.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/8E3870D5BF6E897C69B5112C9A364FF4DB733D08.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cathari Treasure",
+      "trophyDetail": "Max out your funds by recovering treasures and vampire stashes on Blade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/D5491723FA6189E426362CBABE8EF8F08DA13B19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forsaken Shrine",
+      "trophyDetail": "Have Blade take a Darkhold chapter to the shrine and suppress it on Blade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/258146F29926352408D40584123CFDF9456FED58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glorious Sunshine",
+      "trophyDetail": "Complete all stages of the Final Mission and defeat Dracula on Blade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/5104BC84563B8CB5514AC8B7ED47E05EEE90A191.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tony Stark, Living Legend",
+      "trophyDetail": "Complete all Tony Stark missions on Iron Man table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/732723AAD583805571642F568ED43E4A7E25A563.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Invincible Iron Man",
+      "trophyDetail": "Complete the Whiplash and Mandarin missions on Iron Man table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/FC2351843394DB673A05975EB2A7846EED8510E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultimo",
+      "trophyDetail": "Destroy Ultimo on Iron Man table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/B3D31F45EC93D760D9F0D009804FD1837A143F5E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aunt May's Dinner Party",
+      "trophyDetail": "Start Aunt May's Dinner Party by hitting all the Websling ramps two times on Spider‑Man table!\n\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/F73DA1FD26B4C72AEE832579EA9E0DECFE17E96F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clone Chaos",
+      "trophyDetail": "Complete all four stages and lock three balls into Doc Ock hole to start the Wizard Mode: Clone Chaos on Spider‑Man table!\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/D8BC55917E73ADA838DD46591F5E2D794800C699.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Smart Move",
+      "trophyDetail": "You can get this Trophy when a pumpkin bomb ball explodes in one of Doctor Octopus' tentacles on Spider‑Man table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/68281049EDDB993568C79B54E78A1388DE79F7EE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ninja Technique",
+      "trophyDetail": "Hit one of the Hand ninjas by dumping the ball on him on the Wolverine table.\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/21FB43F7274FE884C90E79D6568A2A6597C43B1C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adamantium Bonded",
+      "trophyDetail": "Find Adamantium and complete a successful bonding process on the Wolverine table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/717068F0779FA3DF7BD9E6F4F6A42E9CB55A125F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Healing Factor Overloaded",
+      "trophyDetail": "Engage Sabretooth in battle and defeat him on the Wolverine table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/D8F73A4DB702396711B756D86A26FEDBFD51E352.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Partners",
+      "trophyDetail": "Reach 100 Team Force to win this trophy!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/2FCFF1E839D36A39289EC346E9CF2C93E8FC991F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Comrades",
+      "trophyDetail": "Reach 1000 Team Force to win this trophy!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/DF3B24FB00C370D7202CB781DF9331F53CE5B467.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Friends",
+      "trophyDetail": "Reach 5000 Team Force to win this trophy!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/9B5361D0402EE6450D454582E2C6C113A895E9BD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fearsome Foursome",
+      "trophyDetail": "Start the Fantastic Four-Ball multiball mode for the first time on Fantastic Four.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/20CAF9DC328B674DEFBA05E197F18668D6C639BA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ignition",
+      "trophyDetail": "Set the sign of the Fantastic Four on fire with Human Torch on Fantastic Four.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/5DAE892C1765379586DE5176ADA1EF3DCCBD7AE9.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fantastic!",
+      "trophyDetail": "Finish all the main missions, and save the World on Fantastic Four.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/73C66119F8B7BAD6B5F74F5E80E0D91903AC1761.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Omnipotent",
+      "trophyDetail": "Clear the way to the Cosmic Cube and grab it for a wish on Captain America!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/E10EA7FB96BA88EEDAB13E944B19C52BB0594675.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Howling Commandos",
+      "trophyDetail": "Gather the Howlers one-by-one by searching through the forests. Unlock Dum Dum Dugan, Gabe Jones, Jim Morita and Jacques Dernier to aid you during your adventures on Captain America!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/0E2EF8827CCB0D2E22C17EED3284D2C1DDFA9A20.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Total Victory",
+      "trophyDetail": "Complete each mission from Cap and the Red Skull, find at least one of the Howlers and defeat the Red Skull in a series of battles in the Final Clash on Captain America!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/5A2422972E72ABAE90719AC9446113A5C2091F64.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crowd Pleaser",
+      "trophyDetail": "Make at least three rounds in a row on the jump ramp of the Ghost Rider table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/190DA87685D8DC5E2C6FCCE00DD9F13D800007B8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hellfire Gun",
+      "trophyDetail": "Collect at least one Super Jackpot during Helluva Multiball on the Ghost Rider table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/BB4F9F23DE7A318ECC642C1D6A5A174C4CF10AD3.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spirit of Vengeance",
+      "trophyDetail": "Beat all of the villains including the final boss on the Ghost Rider table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/634EFEFD745713CDFF551DE9414239EF2A129238.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sworn Enemies Of Asgard",
+      "trophyDetail": "Complete all the Asgard missions on the Thor table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/6C5E6D9E411765AEB0F691511B25F5629F2208AA.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Divine Warrior",
+      "trophyDetail": "Wield Mjolnir and defeat Surtur and the horde of Hela on the Thor table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/DB032A772488E4B34617B3CF8D315958AB4DF1C0.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The traitor",
+      "trophyDetail": "Defeat the traitor Loki on the Thor table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/96C724475505CC82C65086C9D954D7CE92A16919.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Whirlybird",
+      "trophyDetail": "Take off with the Whirlybird on the Moon Knight table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/5B087F6F9C2E6A57A0BBC352DB3F32D450C9EF42.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lunar Legionnaire",
+      "trophyDetail": "Rout at least a hundred thugs on the Moon Knight table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/3D3E88A85D69162D75B0CC330461776723AF5AC3.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dark Side of the Moon",
+      "trophyDetail": "Complete the Final Mission and defeat the evil deity amid the stellar cataclysm on the Moon Knight table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/9F8AA068A8B40CEE22A9A2CDA7C3C7448D3A17F6.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gather The Team",
+      "trophyDetail": "Collect 3 heroes to help Xavier battle against Magneto on the X‑Men table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/4C675492729D2C9B4D6948BBFB2B59DEB89E92F2.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Finally Defeat Magneto",
+      "trophyDetail": "Spell out X‑MEN and bring Magneto to his knees on the X‑Men table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/2967B018C81029C77502512182ED2463B3156C4A.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pinball Wizard with 3-Balls",
+      "trophyDetail": "Defeat Magneto in Final Clash or destroy 2 Sentinels during Danger Room Training on the X‑Men table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/096C29F3505D19B8E5ACADA3A5B034C7754826CC.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silver Surfin'",
+      "trophyDetail": "Ride the surfboard with the Silver Surfer, and score a Surfer Award on Infinity Gauntlet.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/621B26C1A5E65B3D0D4438F3320B178752D11A3C.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reaver of Souls",
+      "trophyDetail": "Trap the souls of the worlds and start the Half of the Universe mode on Infinity Gauntlet.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/16D315C62566D7CBBB637E5F567E902535BBEEE7.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To Infinity",
+      "trophyDetail": "Beat Thanos, and possess the Infinity Gauntlet to rule the Infinity Gems on Infinity Gauntlet.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/9AA858F2A062CF1156EE7D150DF5DB50B22DB6EB.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enter Hulk's Arena",
+      "trophyDetail": "Enter Hulk's Arena on the World War Hulk table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/6921FEEC585B18D5A22C74834128735E92C0E025.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hulk's Vengeance",
+      "trophyDetail": "Complete all the Main and Side missions on the World War Hulk table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/5B956E6D01620754A9C621B1C42A56206872A735.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Final Battle",
+      "trophyDetail": "Fend off the humans' military laser attack on the Wold War Hulk table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/8BB37FDEE179052DFDE6AE1DD7326646F99890F7.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Army of the Serpent",
+      "trophyDetail": "Collect all targets before the walker destroys them during Blitzkrieg USA on the Fear Itself  table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/50A8467CD73C6D4DC606003EA9A5252DBE7430DF.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avengers assemble!",
+      "trophyDetail": "Score a triple jackpot during Avengers' Multiball on the Fear Itself table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/5DB0BA9DF85123691D9DF10A4B2D437069E2ABF1.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prophecy fulfilled",
+      "trophyDetail": "Beat all of the Worthy and Skadi to confront the Serpent on the Fear Itself table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/8F6316CCA39B32A048E300332DA593808A4B1632.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back from the Dead",
+      "trophyDetail": "Perform a successful bang back with the Captain America ball. Perform a bang back by nudging the table at the right time as the ball heads down an outlane.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/7DD4D43C30BE5BE90762604648B616A49091ECB4.PNG",
+      "trophyGroupId": "010"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just Like the Movie",
+      "trophyDetail": "Start all game modes with each Avenger character ball that correspond to the character whose game mode is being played.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/807820D49A35067FD8C95D334499E6D4CFC0C543.PNG",
+      "trophyGroupId": "010"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avengers Assembled",
+      "trophyDetail": "Assemble the Avengers and start the Wizard mode against Loki and his army.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/E684424578E7FA3918C5632C35F26BA010826BCF.PNG",
+      "trophyGroupId": "010"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prison Break",
+      "trophyDetail": "Break into the Prison and start the Ambush with Captain America on Civil War.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/0B4445938C0229E43424750B185377BE82441A5F.PNG",
+      "trophyGroupId": "011"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Law Enforcement",
+      "trophyDetail": "Lead a successful ambush with Iron Man on Civil War.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/1713413C1C434653D817C992EE9E2868B046E31C.PNG",
+      "trophyGroupId": "011"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "King and Goddess",
+      "trophyDetail": "Unite all of the heroes on your side then start the wizard mode on Civil War.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/1A5B0D9CA85BF9AD09D5D3EAD9FEC364FFC14127.PNG",
+      "trophyGroupId": "011"
+    }
+  ],
+  "totalItemCount": 48
+}

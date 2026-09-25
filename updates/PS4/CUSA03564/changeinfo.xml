@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+   <changes app_ver="01.07">
+   <![CDATA[
+Dead Star - Beta Test
++ FEATURES
+- Matchmaking
+-- Added an option to disable Crossplay matchmaking between PlayStation Network and PC Steam.
+-- Enabled server support in Europe, Asia, and Oceania.  Added multiple regions in North America.
+-- Players can toggle available locations from the Find Match menu.
+
+- Voice Chat
+-- Added Push To Talk and Toggle Talk options for Voice Chat. See Options->Settings->Audio for options.
+-- Mapped to Triangle on gamepad.
+
+- Game Tips
+-- Added a new Help Tips message area to the in game HUD, offering tips on current game goals.
+-- Tips can be disabled using Options->Settings->HUD->Advanced Game Status->In-Game Help Tips.
+
+- Events
+-- Added two new Events that can be chosen to occur for a match:
+-- Maximum Augments: All Ship systems are fully augmented during the match
+-- Maximum Upgrades: All Ship systems are upgraded to maximum level during the match.
+
+- Help Menu
+-- Help Menu: Added images and updated text to address clarity in some sections.
+
+- UI 
+-- Added unique icon art for every Ship System
+-- Loading Screen: Loading screen now shows the map layout for Conquest, and the option selections for Freeplay.
+-- Remapped interface buttons in many menus to make Push To Talk button always available.
+-- Increased the size of Objective Indicators in the HUD.
+-- Scanner now shows Squad Members in as green ship icons.
+
+- Audio
+-- Added missing audio to several ship systems.
+-- Added an audio alert when player has an unspent Upgrade Point.
+
++ GAMEPLAY
+- AI Units 
+-- Guardian AI in home base sectors now increases level more slowly.
+-- AI Frigates speed slightly boosted.
+-- Improved damage avoidance against environment hazards.
+
+- Capital Ship Escape Run
+-- Enabled back end support for Capital Ship Escape Runs. Ability to earn Contracts is currently disabled.
+
+- Tutorial
+-- Added several extra Tutorial steps, and a prompt at the end of tutorials to learn more from the Help menu.
+
+- Experience
+-- If an Outpost was disabled but not captured by the enemy team, give less XP when it is recaptured by the owning team.
+
+- Comet Events
+-- Reduced Health on Comets so they are easier to destroy.
+
++ BUG FIXES
+- Fix to an issue where AI Frigates would not aim properly when using beam weapon.
+- Various small fixes to UI elements and text strings.
+
+- Warden (Estari Raider)
+-- Fixed an issue where the Shock Cannon could hit targets multiple times.
+
+- Voice Chat
+-- Fixed issues with Mute All not muting incoming players.
+
+- Leaderboards
+-- Fixed players with wins and no losses sorting at the bottom of the win/loss leaderboard. 
+   ]]>
+   </changes>
+   <changes app_ver="01.06">
+   <![CDATA[
+Dead Star - Beta Test
++ BUG FIXES
+- Lobbies now consider more factors when rebalancing teams, and the timer is not reset when a rebalance is called.
+- Fix for issues with crossplay and name handling between PS4 and PC.
+- Fix for issue with PSN account validation when prompted for PS+.
+- Various small bug fixes to audio, paint styles, and text issues.
+
++ FEATURES
+- Players that are in Squads now have a colored tag next to their name in any player list, to identify that they are in a Squad.
+- Improvements to UI visuals and functionality, including handling long names and crossplatform tags.
+- Additional graphics options, including Brightness settings.
+
++ GAMEPLAY
+- Reduced Raider Cargo Capacity from 200 Ore to 100 Ore.
+- Bulldog (Valant Raider)
+-- Adjusted Blast Cannon damage values to correct DPS values for the Raider class.
+- Marksman (Valant Scout)
+-- Increase # of bullets fired at each rank, to make it easier to hit targets.  Damage adjusted so overall DPS remains the same.
+   ]]>
+   </changes>
+   <changes app_ver="01.05">
+   <![CDATA[
+Dead Star - Beta Test
++ BUG FIXES
+ - Fixed potential cases that would cause NP-32553-8 error for clients.
+   ]]>
+   </changes>
+   <changes app_ver="01.04">
+   <![CDATA[
+Dead Star - Beta Test
++ BUG FIXES
+ - Fixed small visual and audio issues.
+ - Fixed typos in ship system descriptions and help menus.
+
++ FEATURES
+ - Updated Pilot and Hangar menus, providing a simplified flow.
+ - Added tip text to various views.
+ - Added new Pilot Portraits to the available list.
+ - Added the ability to reset all Settings to default values.
+ - Improved the Matchmaker and Lobby rebalancing systems.
+
++ GAMEPLAY
+ - Added Mining Station to the list of randomized Outposts.
+ - Made small balancing adjustments to some ships.
+   ]]>
+   </changes>
+   <changes app_ver="01.03">
+   <![CDATA[
+Dead Star - Beta Test Launch
+
++ 10 VS. 10 MULTIPLAYER SPACE COMBAT
+Fast-paced action with strategic goals. Pilot your ship in intense dogfights, capture outposts to expand your presence, mine ore to upgrade your defenses, and discover secrets buried within the wreckage of ancient battlefields.
+
++ CUSTOMIZABLE SHIPS AND UPGRADES
+Choose from a variety of ships to fly into combat, each equipped with a unique set of abilities you can upgrade based on your playstyle. Customize your ships and pilot with rewards you earn from completing priority objectives.
+
++ PROCEDURALLY GENERATED BATTLEFIELDS
+With every match, Dead Star creates new regions of space for you to explore, filled with strategic points of interest and deadly hazards. Cast your vote to determine which location is chosen for the upcoming battle.
+
+   ]]>
+   </changes>
+</changeinfo>

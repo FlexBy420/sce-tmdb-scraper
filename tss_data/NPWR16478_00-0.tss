@@ -1,0 +1,23 @@
+<scripts_config.xml>
+    <authmEntryPoint> ad0f8994-ee17-41a6-bb8a-0d4f10c74b54 </authmEntryPoint>
+    <server>
+        <dev>
+            <host alias="navypsships" csis="https://csis-ps.wowslegends.com/csis/navypsshipps/" transport="dtls" authmEntryPoint="ad0f8994-ee17-41a6-bb8a-0d4f10c74b54" platform="psn">
+			<master addr="ps-login-1.wowslegends.com:20020"/>
+            <master addr="ps-login-2.wowslegends.com:20020"/>
+		</host>
+        </dev>
+        <cert>
+            <host alias="navypsships" csis="https://csis-ps.wowslegends.com/csis/navypsshipps/" transport="dtls" authmEntryPoint="ad0f8994-ee17-41a6-bb8a-0d4f10c74b54" platform="psn">
+			<master addr="ps-login-1.wowslegends.com:20020"/>
+            <master addr="ps-login-2.wowslegends.com:20020"/>
+		</host>
+        </cert>
+        <live>
+            <host alias="navypsships" csis="https://csis-ps.wowslegends.com/csis/navypsshipps/" transport="dtls" authmEntryPoint="ad0f8994-ee17-41a6-bb8a-0d4f10c74b54" platform="psn">
+			<master addr="ps-login-1.wowslegends.com:20020"/>
+            <master addr="ps-login-2.wowslegends.com:20020"/>
+		</host>
+        </live>
+    </server>
+</scripts_config.xml>

@@ -1,0 +1,44 @@
+<scripts_config.xml>
+
+    <authmEntryPoint> ad0f8994-ee17-41a6-bb8a-0d4f10c74b54 </authmEntryPoint>
+
+    <server>
+
+        <dev>
+
+            <host alias="st_ps" csis="https://csis-stlg.wowslegends.com/csis/navyxstlg/" transport="dtls" authmEntryPoint="ad0f8994-ee17-41a6-bb8a-0d4f10c74b54" platform="psn">
+
+			<master addr="stlg-login-1.wowslegends.com:20020"/>
+
+            <master addr="stlg-login-2.wowslegends.com:20020"/>
+		</host>
+
+        </dev>
+
+        <cert>
+
+            <host alias="st_ps" csis="https://csis-stlg.wowslegends.com/csis/navyxstlg/" transport="dtls" authmEntryPoint="ad0f8994-ee17-41a6-bb8a-0d4f10c74b54" platform="psn">
+
+			<master addr="stlg-login-1.wowslegends.com:20020"/>
+
+            <master addr="stlg-login-2.wowslegends.com:20020"/>
+
+		</host>
+
+        </cert>
+
+        <live>
+
+            <host alias="st_ps" csis="https://csis-stlg.wowslegends.com/csis/navyxstlg/" transport="dtls" authmEntryPoint="ad0f8994-ee17-41a6-bb8a-0d4f10c74b54" platform="psn">
+
+			<master addr="stlg-login-1.wowslegends.com:20020"/>
+
+            <master addr="stlg-login-2.wowslegends.com:20020"/>
+
+		</host>
+
+        </live>
+
+    </server>
+
+</scripts_config.xml>

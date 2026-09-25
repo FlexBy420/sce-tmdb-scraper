@@ -1,0 +1,5 @@
+ - Categorize fotografias e altere o modo de visualização de acordo com cada tipo de fotografia
+ - Sincronize os ficheiros MPF/MPO com o XMB™
+ - Reduza o tempo necessário para o arranque e a importação de fotografias
+ - Rode as fotografias 90 graus
+ - Visualize imagens com vários ângulos a 3D

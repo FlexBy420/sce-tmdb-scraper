@@ -1,0 +1,5 @@
+ - Categorise photos and switch display for each photo type
+ - Synchronise with MPF/MPO files in XMB™
+ - Reduce time required for start-up and photo import
+ - Rotate photos by 90 degrees
+ - Viewing multi-angle images in 3D

@@ -1,0 +1,630 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01229_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "You Don't Know Jack",
+  "trophyTitleDetail": "Trophies for You Don't Know Jack",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/6BCB813980991099371427EB4D56A8E11FA095C9.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 42,
+    "silver": 15,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "You Don't Know Jack",
+      "trophyGroupDetail": "Trophies for You Don't Know Jack",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/6BCB813980991099371427EB4D56A8E11FA095C9.PNG",
+      "definedTrophies": {
+        "bronze": 26,
+        "silver": 11,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "JACK Pack",
+      "trophyGroupDetail": "Trophies for JACK Pack",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/19998449A4194626142CE8D154AC5D84B18E6161.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "JACK Pack 2: The Best of the Webshow",
+      "trophyGroupDetail": "Trophies for JACK Pack 2: The Best of the Webshow",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/66493BBE47922CB0AE0368E30CD83B77E35E1622.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "JACK Pack 3",
+      "trophyGroupDetail": "Trophies for JACK Pack 3",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/A1AD5E9CCCA8A601E052CDC290CE2174D7C0BEBE.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "JACK Pack 4",
+      "trophyGroupDetail": "Trophies for JACK Pack 4",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/CB1BC6ED5385CC1DCD674E04F946A795F8237A9C.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "We Knew You Could Do It",
+      "trophyDetail": "Collect all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/A6AB848F9A4C4513DB753F44530C53F9763589A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Birth Certificate",
+      "trophyDetail": "Create a Contestant",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/6F1D3FBDDB737E90AA6226533A0C54F050164130.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's Just More of This",
+      "trophyDetail": "Finish an episode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/1EFF3EFBA03B4A0DF639AA029A1A90FF104C2C06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vidiot Savant",
+      "trophyDetail": "Get every question right in an episode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/7F76CE383A5CBE8FD1C32279518A34DA4976FB82.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beast Master",
+      "trophyDetail": "Get 10 animal questions correct.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/FE3C6B9FEEC633A26B9EF0CF8901D834532D42BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Film In Your Brain",
+      "trophyDetail": "Get 10 movie questions correct.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/74680213C6465620FA01FC5DD87AFCDC228BFEEA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Phatty",
+      "trophyDetail": "Get 10 food questions correct.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/985027F83F85F49976D0205B261DEFCE446954CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Living in the Past",
+      "trophyDetail": "Get 10 history questions correct.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/161DB551A7361C38AAF9FA4473C69DC8CD821C92.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Unicorn",
+      "trophyDetail": "Achieve the highest gamer rating.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/6AE3F94F41FEA3E0A6CCD42085A175A9B11034B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "One Teat Short of An Udder",
+      "trophyDetail": "Achieve the second highest rating.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/69CE8A77F15D2FCDB4ADD4BD3262914A88D3DF45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mouth-Breather",
+      "trophyDetail": "Achieve the third highest rating",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/38173351536E5ECB68EA779C1B93C74A1BCE6785.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "100,000aire!",
+      "trophyDetail": "Earn $100,000 lifetime",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/A73132DFD9941BC27CBE3766F17D863E9C59C81E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "500,000aire!",
+      "trophyDetail": "Earn $500,000 lifetime.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/B10693C3927B777D9AE18DEE23FDD5A5FCD98742.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "1,000,000aire!",
+      "trophyDetail": "Earn $1,000,000 lifetime points",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/ED8014C218BC13236BD55689338FD94486DC9DD2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DisOrDat Participation Award",
+      "trophyDetail": "Complete DisOrDat in 30 seconds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/9DADF6D513CBF8553FA9250A59CCE929CE6150CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DisOrDat Destroyer",
+      "trophyDetail": "Answer all 7 DisOrDat items correctly",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/C573051F930FAB2274E0796C928B4277D5251D48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "DisOrDash",
+      "trophyDetail": "Ace a DisOrDat in under 10 seconds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/B8CAB5BFEFFD613BC5E7988168A58AB1CE68217B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Jack Attack Dog",
+      "trophyDetail": "Get all 7 Jack Attack questions correct in a multiplayer game without messing up",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/54DCFDA4D4185997310A60D29135C12AAEBB93CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Taking it from Behind",
+      "trophyDetail": "Come in from behind to win during the Jack Attack",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/361FAB76AE995E5B66CFAA04FEE2BBF0440B1981.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Back Taxes",
+      "trophyDetail": "Win all prizes in Episodes 1-73",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/9BD72EE1B27EC40C5F4D8D08E66531902602961F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Button Banger",
+      "trophyDetail": "Get a multiple choice question right in the first 2 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/A121C446E3A35983B32A5AEB8725C96BA569BE97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Smelt the Roses",
+      "trophyDetail": "Get a multiple choice question right in the last 1 second.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/7B1F0A1730A12BDA2C8E2679362BFB39B8267C5B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Menage-a-Quatre",
+      "trophyDetail": "Play a 4-player game online",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/6A8F863904DCBBE1C55BB26C80F102B793A64D37.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My First Time",
+      "trophyDetail": "Screw someone for the first time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/4B838825CB53D42F13A4C55709A4C61CB85DBC8D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Virtual Virgin",
+      "trophyDetail": "Answer correctly after being screwed 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/A8D4C8D4842B6B5F93F4378D9D14C8A5CC87F8C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enscrewsiast",
+      "trophyDetail": "Screw 50 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/576F57D208B72DD078C78878E8E01DC9C9A5F55E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Game's Half Full",
+      "trophyDetail": "Play Episodes 1-36",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/DAA59AF846FE970ABA8E9B642058F596A1340250.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Game's Half Empty",
+      "trophyDetail": "Play Episodes 1-37",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/7FBC78F3DB4BDBC7B6F57CFE75FD6D6E73055D20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Perfect Attendance",
+      "trophyDetail": "Play Episodes 1-73",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/497DF1046B8CCDC8891C27D67A2E60C03E676865.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slack Attack",
+      "trophyDetail": "Get -$1 million on a Jack Attack.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/31FCAC04B4B7CD2D3B6E8B9D9C623ED377B58F35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Beat a Winner",
+      "trophyDetail": "Beat someone with a rating of Unicorn in an online game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/8EF7098F81C7A25C51D0F55EA5E91B4C77C8F79F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lose to a Loser",
+      "trophyDetail": "Lose an online game to someone with a rating at or below Dullard.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/D490039361193D979FE39A5EEDC440F8A936725D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Always a Bridesmaid",
+      "trophyDetail": "Come in second place 5 times in online games",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/CECF578770B290F6F41744B4B932BF41021DA9E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Social Outcast",
+      "trophyDetail": "Finish 5 single player games on Friday or Saturday nights.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/F447AD1E8DF85B79B0F4E4CAB5AEA09F3410EB25.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Turncoat",
+      "trophyDetail": "Play on July 4th instead of celebrating America",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/C5C545E2A1BB87B80C205EE5630B8380BFBC484B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quick-Draw McDumbass",
+      "trophyDetail": "Choose the wrong answer within the first 3 seconds 10 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/B7EDA43B000DB0A3AF0C28CA41E79DF99327E276.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Consolation Trophy",
+      "trophyDetail": "Play 5 hours without getting a single trophy.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/6D469DC6AEA63E9017215A75957CA689417E863A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Genius for a Day",
+      "trophyDetail": "Score at least $30,000 above your average.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/4B5EFE804FFFFA9F06992FF9C88AD4D182BA1992.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Overconsumer",
+      "trophyDetail": "Listen to all commercials after one episode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/D551E36167E8F7A627D428E6E5FF4D2C7A0356FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Discovered Gauntlet of Fire",
+      "trophyDetail": "Find the very important gauntlet of fire",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/70B6267A1059A367BD92CE8F5927A15800D6E7F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Great Crowd",
+      "trophyDetail": "Laugh at an easy joke",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/A301926834950F2482BB6993AD463ED4C2E1162B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "JACK Wrack",
+      "trophyDetail": "Play all episodes in JACK Pack",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/BEB4554E656D2B58806A14DB968DE4D77744CD66.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Map Dancer",
+      "trophyDetail": "Get 3 geography questions correct in JACK Pack",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/DAEDA8FBF03449D62ACE0D399D5245C20402352D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lit Twit",
+      "trophyDetail": "Get 3 literature questions correct in JACK Pack",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/254A86BD59CB5BCDFA0FACA2A1E59CCA4BFCF6C7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boob Tuber",
+      "trophyDetail": "Get 3 TV questions correct in JACK Pack",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/D0A78521C1BB8288E90E792F69C2FA92595E35E3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Incurable Hoarder",
+      "trophyDetail": "Collect all 10 prizes in JACK Pack",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/ABAFC384B08E3C7751F58B7440AC8C3E0A9F1389.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "JACK Smack",
+      "trophyDetail": "Play all episodes in JACK Pack 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/ADDBD3E15D115904F2330A2F49CC511006AA0796.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Super Know-va",
+      "trophyDetail": "Get 3 astrology questions correct in JACK Pack 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/93C5B2CCDA1FAFFF1D2C9A0CF8C2726D34002456.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "B Sharp",
+      "trophyDetail": "Get 3 music questions correct in JACK Pack 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/FA73083219965FCEF1792CB4D5AF812AD5BD2EC5.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Math Head",
+      "trophyDetail": "Get 3 math questions correct in JACK Pack 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/AC2523D76FBD1FA705C631A16AAEEB8C5DDCFD77.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nest Egghead",
+      "trophyDetail": "Collect all 10 prizes in JACK Pack 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/FBC662301CB9CA10256DD8416A85945C2C9B7EB2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "JACK Crack",
+      "trophyDetail": "Play all episodes in JACK Pack 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/F65DE853D5793A07665999793326EAE4FC1E5FFE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wizard of Balls",
+      "trophyDetail": "Get 3 sports questions correct in JACK Pack 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/EFA1843A3D2DA40DBCEA5C56E0A3F0CD107E6753.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Past Perfect",
+      "trophyDetail": "Get 3 history questions correct in JACK Pack 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/107125516BD7D951A278D420823B7D437CEC7D4B.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sci Fly",
+      "trophyDetail": "Get 3 science questions correct in JACK Pack 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/2D244FA5A562DCD59468B6C1594F381DC6EC0594.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Steaming Stockpile",
+      "trophyDetail": "Collect all 10 prizes in JACK Pack 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/E94E4EB0715C5E9DE67A45A6FDDBEDA5518B5FAE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "JACK Sack",
+      "trophyDetail": "Play all episodes in JACK Pack 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/3D5BCCDD7D6E0DACF4B17EF5433BCED2FF09C846.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cock of the Wok",
+      "trophyDetail": "Get 3 food questions correct in JACK Pack 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/4C828D9BBCD3BA39FF319437E94F5F61E8778542.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hot Butter",
+      "trophyDetail": "Get 3 movie questions correct in JACK Pack 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/5486C279290C50B1F49995B423C0FB256DE2CF44.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Animal Husband",
+      "trophyDetail": "Get 3 animal questions correct in JACK Pack 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/960E14F3AAD285D915A22C632E2D7C7BC57B94EB.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Overprize Load",
+      "trophyDetail": "Collect all 10 prizes in JACK Pack 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/30B32FA9FFC8E4ADDCAC86E2065E1DAC833B83B0.PNG",
+      "trophyGroupId": "004"
+    }
+  ],
+  "totalItemCount": 61
+}

@@ -1,0 +1,2 @@
+Aktualisierungsinformation
+  ・Fehler behoben.

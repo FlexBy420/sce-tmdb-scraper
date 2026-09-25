@@ -1,0 +1,663 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR00160_00",
+  "trophySetVersion": "01.10",
+  "trophyTitleName": "LittleBigPlanet™",
+  "trophyTitleDetail": "Spielen, kreativ sein, teilen",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/618335118495DB7BB706D3477EB7C4F86D0629A6.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 54,
+    "silver": 12,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "LittleBigPlanet™",
+      "trophyGroupDetail": "Spielen, kreativ sein, teilen",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/618335118495DB7BB706D3477EB7C4F86D0629A6.PNG",
+      "definedTrophies": {
+        "bronze": 54,
+        "silver": 12,
+        "gold": 3,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "100 % abgeschlossen",
+      "trophyDetail": "Erlange alle LittleBigPlanet™-Trophäen, um diese Platin-Trophäe freizuschalten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/7CEBBF51CFF811EDCBD664BEEF1CAACC46A2F406.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Die Gärten",
+      "trophyDetail": "Schließe alle Gärten-Levels ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/A94B10971C0E6E581298DBA0497971C7E00E57DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Die Savanne",
+      "trophyDetail": "Schließe alle Savanne-Levels ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/FCF1EA74A118A0D1C08A2091950313ADF3FE3A35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Die Hochzeit",
+      "trophyDetail": "Schließe alle Hochzeit-Levels ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/24DA053F2A26F24BEEBCAB92D295F17C0704B92C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Die Canyons",
+      "trophyDetail": "Schließe alle Canyons-Levels ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/1E4912B0E4AF1C0E18900212B8AE9BD05FAC4008.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Die Metropole",
+      "trophyDetail": "Schließe alle Metropole-Levels ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/80E8082A6C06E344B9C6F8A04A95ED1EBA17BDD4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Die Inseln",
+      "trophyDetail": "Schließe alle Inseln-Levels ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/3AB857769C35B15C77775F90B15E1F2DC2A65E44.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Die Tempel",
+      "trophyDetail": "Schließe alle Tempel-Levels ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/93C5C8377A521508EF65848390077C5D97C96469.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diplomschöpfer",
+      "trophyDetail": "Schließe alle Training-Levels ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/F581145E6A3AF901BB853069B06A39F102AF75C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Künstler",
+      "trophyDetail": "Platziere einen Sticker.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/1A31A50B5F8C4BE169A0E6287D48AFB5EE7825DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Innenausstatter",
+      "trophyDetail": "Schmücke die Zentrale mit 10 Stickern oder Dekos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/AA311F8D0A04DF34B830A5911D7273012A8D7BE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sinn für Mode",
+      "trophyDetail": "Wähle ein Kostüm für deine Sack-Figur mit mindestens einem Objekt am Kopf, einem Objekt am Körper und einem Material.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/236A4FEFA1708A867409AD81CE547C5ADA6143CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Trendsetter",
+      "trophyDetail": "Platziere einen Sticker oder eine Deko auf der Sack-Figur eines anderen Spielers.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/B870D12C9E2DD7178721A6C0C7013537F0F00FF8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sammler",
+      "trophyDetail": "Sammle 25 % aller Preisblasen in den Geschichte-Levels.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/AE7F39C4E3C6B3C94460633D418A72AC4C156F46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fleißige Biene",
+      "trophyDetail": "Sammle 50 % aller Preisblasen in den Geschichte-Levels.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/043B20183384531A2BBB59CC98AAD0645646C868.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schatzsucher",
+      "trophyDetail": "Sammle 75 % aller Preisblasen in den Geschichte-Levels.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/5A7D1CE293036EBFB0E0AFF404C6BECF01FD3475.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "2-fach-Punkte-Mulitplikator!",
+      "trophyDetail": "Erziele einen 2-fach-Punkte-Mulitplikator.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/6DE421E2E31DF46516A8FE6935082E89D583CA19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "8-fach-Punkte-Mulitplikator!",
+      "trophyDetail": "Erziele einen 8-fach-Punkte-Mulitplikator.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/F90BEAAE8F00CC5E4E78F7A49C79D901934F890A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hirnsammler ",
+      "trophyDetail": "Erledige in allen Levels insgesamt 100 Kreaturen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/35D016B614DA74B9B44C78F58CEC2059890BAE58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Geheim-Stickerer",
+      "trophyDetail": "Spiele das Rennen in „Erste Schritte“ frei.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/1B9D1AB51934CE9AB75E2EC4DF20B53E957F948B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unglaubliche Geschwindigkeit!",
+      "trophyDetail": "Reise mit unglaublicher Geschwindigkeit.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/23CF2C57B078C0E4C8FBB3D2239737340D35F219.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unglaubliche Höhe!",
+      "trophyDetail": "Reise zu einer unglaublichen Höhe.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/C175BB2209B035893B419540D68F71781FA18D7C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Flug-Sack",
+      "trophyDetail": "Halte dich 8 Sekunden oder länger in der Luft.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/EFE277600570A5096BD771C21B96C83A129D342E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Freundschaftsspiel",
+      "trophyDetail": "Schließe einen Level mit mehr als einem Spieler ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/9BB79750017542D53169A63D090247E1E044CA3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Partylöwe",
+      "trophyDetail": "Schließe online einen Level mit 3 anderen Spielern ab, die sich auf deiner Freundesliste befinden.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/93B129967662CC72E333BFFB6353CEB7795316F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "V.I.P.",
+      "trophyDetail": "Schließe online einen Level mit 3 anderen Spielern ab, die sich nicht auf deiner Freundesliste befinden.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/E666345DCF83B5749142756C9BCE6A66D1845D5C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Klassenbester",
+      "trophyDetail": "Gewinne ein Spiel für 4 Spieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/FDE1A061030F3DC40B9EC504FA70E2D16295EE32.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reisender",
+      "trophyDetail": "Schließe einen Community-Level ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/9DBB6107D0A98BB408876AEE49BDC86E4B12DDA4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ERSTER!",
+      "trophyDetail": "Sei einer der ersten zehn Spieler, die einen Community-Level abschließen konnten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/C22D5A95463EC15F02479860D3AB012EB4804CFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sturkopf",
+      "trophyDetail": "Versieh einen Community-Level mit einem Tag.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/3285037CA9E4F27CD4E4061C1575B3AB206DD07A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nachbarschaftswache",
+      "trophyDetail": "Versieh 5 Community-Level mit einem Herz.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/2388081FC91363BE63F788CE75F1FC00C163AE3D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Netzwerker",
+      "trophyDetail": "Versieh 3 Autoren mit einem Herz.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/B5A0C10519D7017F971FF6815DB1356565690B8F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Redselig",
+      "trophyDetail": "Veröffentliche einen Kommentar über einen Community-Level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/97638495AD8415E4A389A416F86167199594B402.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schöpfer",
+      "trophyDetail": "Erschaffe und speichere einen Level mit einem zu mehr als 30 % gefüllten Thermometer.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/AF06A72C2281D0D6E79A56BD9F71F4CC0FC78D72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Team-Schöpfer",
+      "trophyDetail": "Erschaffe und speichere einen Level mit mehr als einem Spieler mit einem zu mehr als 30 % gefüllten Thermometer.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/78E62F7A419CD0467702C08B4EEBCC7EFB48CD0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Herausgeber",
+      "trophyDetail": "Veröffentliche einen Level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/D737DB44953D23E6E668F59A953BCDAE2162BEEE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seht, was ich geschaffen habe!",
+      "trophyDetail": "Ein von dir veröffentlichter Level wurde von 5 oder mehr Personen gespielt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/615BB4FE7DF2F0FF11E3BC6A9AB820E7DD14D01B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nur ein Anfang",
+      "trophyDetail": "Schließe alle grundlegenden Geschichte-Levels ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/2CDC4FFA05918435446B68B53C1F5DA69B215880.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "20-fach-Punkte-Mulitplikator!",
+      "trophyDetail": "Erziele einen 20-fach-Punkte-Mulitplikator.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/B8990855A4852B4618C0F681DCE12164698D0C14.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rekord",
+      "trophyDetail": "Sammle in allen Levels, die du gespielt hast, insgesamt 1.000.000 Punkte.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/EE773A664AA53CBF1B103B65B774EC7E108CC0D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Schatzmeister",
+      "trophyDetail": "Sammle alle Preisblasen in den Geschichte-Levels.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/C43C0831860F05C74936699778FB3DF20995325F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dr. Frankenstein",
+      "trophyDetail": "Erschaffe eine lebende Kreatur mit mindestens 2 Augen, 2 Beinen oder Rädern und einem Gehirn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/4FE27527653DC8A77615657A33C603811E88BF84.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Publikumsliebling",
+      "trophyDetail": "Ein von dir veröffentlichter Level wurde von 50 oder mehr Personen gespielt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/23D27D558CBF20D433ECF28F8601A5685F49BE05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Im siebten Himmel",
+      "trophyDetail": "Ein von dir veröffentlichter Level wurde von 10 oder mehr Personen mit einem Herz versehen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/9ACF778DBA70600EACB38665CCE7ABE5C4A38A78.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Berühmtheit",
+      "trophyDetail": "Du wurdest als Spieler von 5 oder mehr Personen mit einem Herz versehen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/FA0552F8C417449A8235EB07569F7854A662F885.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Spielen",
+      "trophyDetail": "Schließe alle Geschichte-Levels ab, ohne zu sterben – ausgenommen jene, die nur enden, wenn du stirbst.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/8CF6920B4501511E174A42A2F0D67383E966148E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Kreativ",
+      "trophyDetail": "Die Levels, die du veröffentlicht hast, wurden von 50 oder mehr Personen mit Herzen versehen und du wurdest von 30 oder mehr Personen mit Herzen versehen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/1AE1F7A3846CBCA9F04668B977B16E8A33B0A09C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Teilen",
+      "trophyDetail": "Spiele 150 Community-Levels, versieh 50 Community-Levels mit einem Tag und 10 Community-Levels mit einem Herz.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/0AE724C04FD8FEAFC233915FD55F6A10E0975EA4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schnellfeuer-Künstler",
+      "trophyDetail": "Feuere 40 Paintballs in weniger als 5 Sekunden.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/1FB3BB9A8C360EA3BFB8231E1174BC6720E08BDD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rex-Vernichter",
+      "trophyDetail": "Vernichte den Endgegner Metal Gear REX.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/762C8CD20213D2408A1DAE987FC3739CE6ECD366.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glanzleistung im 3. und 4. Akt",
+      "trophyDetail": "Liefere in Akt 3: „Die Mission“ und Akt 4: „Die Levelfabrik“ Glanzleistungen ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/4034EF80A1C8C17497E792EE108340E35F87CCCD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glanzleistung im 5. Akt",
+      "trophyDetail": "Liefere in Akt 5: „Der Boss“ eine Glanzleistung ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/819FAEEF9776EF73048C8C281CB8F4C3715DE726.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Paintball-Orgie",
+      "trophyDetail": "Feuere 5.000 Paintballs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/10651631C6D09724DC5C536D619E9C74849333FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Virtueller Überlebenskünstler",
+      "trophyDetail": "Erziele 3.750 Punkte beim VR-Überlebenstraining.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/15758C4808CFA388F9DBFD7025ED9E2D52C7D42F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamantensucher",
+      "trophyDetail": "Zerstöre die 5 versteckten Diamanten in Akt 4: „Die Levelfabrik“.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/7A102B6487FC3D46B0DEB1FA053A9CBCF9C8CEC0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Schneller Rex-Vernichter",
+      "trophyDetail": "Vernichte den Endgegner Metal Gear REX in weniger als 2 Minuten und 30 Sekunden.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/D003636DDD0E0C7394B7DFBA554C61A729C768A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sparmaler",
+      "trophyDetail": "Schließe Akt 3: „Die Mission“ mit weniger als 125 gefeuerten Paintballs ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/0B865D6B22C8C0D8142134504BA3A0038063E84D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "METAL GEAR SOLID®-Schatzsucher",
+      "trophyDetail": "Sammle alle „METAL GEAR SOLID®“-Preisblasen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/C0CD404FA7B51E9FA8BF8A51E91B836BAF026BB5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Malen und teilen",
+      "trophyDetail": "Veröffentliche einen Level mit dem „METAL GEAR SOLID®“-Objekt „Malinator“.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/F9F858D3223B871579F4F3E9C38426C1B9FA4695.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Taucherkrankheit",
+      "trophyDetail": "Erziele 7.000 Punkte bei der Überlebens-Herausforderung \"Schatztauchen\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/ED4232B359E7A2D9941092EFC02DC4FF78ABB920.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"PIRATES OF THE CARIBBEAN\"-Schatzmeister",
+      "trophyDetail": "Sammle alle \"PIRATES OF THE CARIBBEAN\"-Preisblasen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/5C6D0C21E645D9045FE96545A485A5157B492C53.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monstertöter",
+      "trophyDetail": "Vernichte den KRAKEN.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/F543823792372DF462CDEFDF666EB66D51B39AA8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glanzleistung: Port Royal",
+      "trophyDetail": "Glanzleistung: Port Royal",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/128FB7603E4F2A4B5E9E81A232443FBFD306C0C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glanzleistung: Piratenstadt",
+      "trophyDetail": "Glanzleistung: Piratenstadt",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/2AFCB6F3AECCBE57A48EECA796F866EE6B890549.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glanzleistung: Die Fregatte",
+      "trophyDetail": "Glanzleistung: Die Fregatte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/35CB23B591CEDD8B747BBB5FCE1C7B14A06BD272.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glanzleistung: Verfluchte Bucht",
+      "trophyDetail": "Glanzleistung: Verfluchte Bucht",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/431382C7CC0436342BEE512BAA226930E9A4C5CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glanzleistung: Der Kraken!!!",
+      "trophyDetail": "Glanzleistung: Der Kraken!!!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/ADA544B86C8F8F7E425299B770CCD03783A71238.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zufluss",
+      "trophyDetail": "Veröffentliche einen Level mit WASSER.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/60E8F6E90DD53F0B783ABDAABEFBF9EA81F88262.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wasserratte",
+      "trophyDetail": "Schließe 20 Community-Levels mit WASSER ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/8DECB717F3C510CD3D3EA3BDD9705D72197D382F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "HMS Interceptor",
+      "trophyDetail": "Schließe das Rennen im Level \"Verfluchte Bucht\" mit mind. 4.000 übrigen Punkten auf der Uhr ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/1114B327DDA6BA532F9B67E5685D9F8A7F6216CA.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 70
+}

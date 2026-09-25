@@ -1,0 +1,663 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01512_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "Dragon Age II",
+  "trophyTitleDetail": "Dragon Age II",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/6E64428D82CF7CC763C937F5BBA5E9E608C6F79A.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 43,
+    "silver": 21,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Dragon Age II",
+      "trophyGroupDetail": "Dragon Age II",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/6E64428D82CF7CC763C937F5BBA5E9E608C6F79A.PNG",
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 15,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "El príncipe exiliado",
+      "trophyGroupDetail": "El príncipe exiliado",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/78A4BCFF977CB41DBB64FFB804966B68D0A293D6.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Legacy",
+      "trophyGroupDetail": "Legacy",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/6CECAC4F3E93EB1D9179AE29F8E3D8734536565B.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "La marca de la asesina",
+      "trophyGroupDetail": "La marca de la asesina",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/4C648B5835FFC2E76F7043DF0C90D96C9B170751.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "La recompensa definitiva",
+      "trophyDetail": "Has completado todos los trofeos de Bronce, Plata y Oro.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/4D423C526E791EC253274C09AE757A7AE055493A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Frío como la piedra",
+      "trophyDetail": "Has derrotado al espectro de roca en la expedición a los Caminos de las Profundidades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/0B7CD93F97A8ADD37277A480ACA7A09090933C7C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rey de la colina",
+      "trophyDetail": "Has derrotado al arishok.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/BADA4CA429B8A9CC288ABB070CF45711315208C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Conquistador",
+      "trophyDetail": "Has derrotado a Meredith, caballero comandante de los templarios de Kirkwall.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/4462294EE7ADC5CBD26C4CD2B7964B66BC583404.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Talentoso",
+      "trophyDetail": "Has mejorado un hechizo o un talento.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/BA84128AA63C2F7AB26F657F0C14BB99F1FF595E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pelea en equipo",
+      "trophyDetail": "Has utilizado el trabajo en equipo para realizar una combinación entre clases.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/2EC9665DC4EC9524209DD89881B1802283A1664C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Esa cosa tiene patas",
+      "trophyDetail": "Has encontrado y matado a un varterral.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/07DC24118D0753DE9434DE372A3510BF99ECE948.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Matadragones",
+      "trophyDetail": "Has encontrado y matado a un dragón celestial.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/4D3038A990D14AE28DE88CC1D8CF83E3DD2DCF5D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exorcista",
+      "trophyDetail": "Has encontrado y matado al imperecedero Xebenkeck.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/CA6A3B3AB32DEA5A49835252AEA9CB8C9A50038B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Matademonios",
+      "trophyDetail": "Has encontrado y matado a Hybris, un antiguo demonio.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/4328E772C0BD8B2CB0B8511E9217F2CCFFD30297.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maestro de armas",
+      "trophyDetail": "Has dominado el estilo con un arma.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/93E46F0F49722B05E114A73C70BF88E0C2626AA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Imparable",
+      "trophyDetail": "Has completado un año en Kirkwall sin que hayan dejado inconsciente a ningún miembro del grupo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/B8CED9B7891540B3D17494FBBEC70F81972D227C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Artesano",
+      "trophyDetail": "Has conseguido tu primera receta.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/172BAFCA257E2A51DE93AF07385DB3ECCF6297F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Financiero",
+      "trophyDetail": "Te has convertido en socio de la expedición a los Caminos de las Profundidades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/50A6AB70A28A688857FFBFE924AA1BEDF1B2D87D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Entregado",
+      "trophyDetail": "Has llegado a nivel 10.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/31FBCF69790186EF7B209C1FC4FA6741A5681887.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un amigo en apuros",
+      "trophyDetail": "Has mejorado la armadura de uno de los miembros de tu grupo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/A4B937C7F9DD80A0ECF45897DF3AC07E4AD52C09.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Encantador",
+      "trophyDetail": "Has encantado un objeto.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/93F21939548B920103F1DA83C600266383FE2FED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Maestro artesano",
+      "trophyDetail": "Has elaborado todos los objetos de un solo árbol de fabricación.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/FDA67017E53D130FD86845FBBF444AFF7AE67E19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Magnate",
+      "trophyDetail": "Has tenido 100 soberanos o más en la bolsa.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/B2935F239DB4D8F5230F0E2CCD5C25FA2FED889E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "El mayor éxito",
+      "trophyDetail": "Te has convertido en el vizconde de Kirkwall.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/FDB9A83295AD998BE5244D4FDEF74533330C0B95.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Especializado",
+      "trophyDetail": "Has cogido dos especializaciones de clase.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/1DEB4A740669088921780A8D541D1EE106C1B6D8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Te cubro la espalda",
+      "trophyDetail": "Has mejorado completamente la armadura de uno de los miembros de tu grupo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/C88680916C888D32D0E8EACB18BF49C72EE56888.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legendario",
+      "trophyDetail": "Has llegado a nivel 20.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/48122CD04E44E10C8B4209B91F2859F5CA18F431.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inmigrante",
+      "trophyDetail": "Te has hecho residente de Kirkwall.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/EB99D79E21869050A26E213BF5CFC46E8C6B62D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Morador de las Profundidades",
+      "trophyDetail": "Has explorado los Caminos de las Profundidades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/EBBFAF689BD352E1B98B6FF6473FAAA7577B74CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Derechos de cuna",
+      "trophyDetail": "Has expulsado a los esclavistas de la mansión de tus antepasados.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/FBDECFFEB1C86AC373842EB2DBD38DE94D8A8F89.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cae la oscuridad",
+      "trophyDetail": "Has cambiado el mapa de día a de noche.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/BCB491D7063CFE1BBEDAF28ACE2FDD57646A30CC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explorador",
+      "trophyDetail": "Has salido de Kirkwall para explorar las zonas más alejadas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/954C0D7B8FECE5DC2A191C0F33FC8E32CB4E0413.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Espeleólogo",
+      "trophyDetail": "Has visitado 10 cuevas en Kirkwall y el área circundante.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/E331117C236B3C5BCC0ABD637C1FEB6D708A1259.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Éxodo en masa",
+      "trophyDetail": "Has llegado a Kirkwall con cada clase de personaje siguiendo varias rutas de juego.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/60C5D026031598E588EF33DA74353844E5CB57CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Entendido",
+      "trophyDetail": "Has desbloqueado 100 entradas del códice.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/03716AB8421C5E6D8EF7A603D90BAD09FD3D01EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cazador de tesoros",
+      "trophyDetail": "Has abierto 50 cofres.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/18D8EBC70ABC496609A26392D38BE2496D6F51FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Proveedor",
+      "trophyDetail": "Has encontrado todas las variedades de recursos de fabricación.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/BCA0F14D8785D8A735DD1394D50974712C0BEB4E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Arqueólogo",
+      "trophyDetail": "Durante cada año en Kirkwall, has descubierto 3 mensajes secretos de la Banda de los Tres.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/5C6A5818CFA683135E269DD9CDA26EA1C8CCB3CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Una historia dentro de otra",
+      "trophyDetail": "Has escuchado a Varric empezar su historia sobre el Campeón de Kirkwall.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/159680EE2B27136BDB7823BA797A946A73D3C4E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lleno absoluto",
+      "trophyDetail": "Has reclutado a cuatro miembros para tu grupo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/B9A4958A85D94EECEC877722C8E56B184AA0E110.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amigos importantes",
+      "trophyDetail": "Has conocido a Elthina, a Dumar, a Meredith y a Orsino.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/2EF6497AF6B4F4CDE7CC4400574F7C1B2FFC5C04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alma generosa",
+      "trophyDetail": "Le has hecho un regalo a uno de los miembros de tu grupo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/18594A8783E21ED81DE03DB08264CC24491355B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coqueteo",
+      "trophyDetail": "Has flirteado con uno de los miembros de tu grupo e iniciado un romance.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/076C02F0D1E616B1CB9D10B378E779DE9F61C561.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amigo",
+      "trophyDetail": "Te has ganado la amistad de uno de los miembros de tu grupo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/FE090CC6A8E79F79EE5CF8283F60A540D4DBF7D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rival",
+      "trophyDetail": "Te has ganado la rivalidad de uno de los miembros de tu grupo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/2EAB9E4E14299C6CD3D0639F9BD9EAB5C97F696B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Romántico",
+      "trophyDetail": "Has completado un romance con uno de los miembros de tu grupo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/C791F790F56F538D8BDFC87E1459E5A36B39B836.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Historiador de la Capilla",
+      "trophyDetail": "Has encontrado los cuatro capítulos de \"Historia de la Capilla\", del hermano Genitivi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/3F9E480C2422D8FBB59C17D09033F5686B889520.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Un rival digno",
+      "trophyDetail": "Te has ganado el respeto del arishok.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/690ED2638C4F1019FD184C7EDECA06D038DBCFF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Los genios se parecen",
+      "trophyDetail": "Te has ganado la amistad o la rivalidad de cuatro miembros del grupo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/DC7757D5251D647A49462760202968E6380B6703.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Campeón de Kirkwall",
+      "trophyDetail": "Has completado Dragon Age II.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/50C5C3A8DC5F44CA127D0DF815B88E3A3E135207.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mercenario",
+      "trophyDetail": "Te has aliado con los mercenarios al llegar a Kirkwall.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/0F2CFBD7C12217A2B83CD1C09C12516FC380A42B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contrabandista",
+      "trophyDetail": "Te has aliado con los contrabandistas al llegar a Kirkwall.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/DB494761C5AC723DEA7E619BCD7B33F28445D840.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Defensor arcano",
+      "trophyDetail": "Te has aliado con los magos cinco veces.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/1DCB5655DC69339FE255BDAB31AE1DB9BE9A99C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Cazador de magos",
+      "trophyDetail": "Te has aliado con los templarios cinco veces.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/B38544B1D7FEDB7C3A7629B2387C76BA9D572949.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Épico",
+      "trophyDetail": "Completaste 2 veces Dragon Age II, o 1 vez con una partida guardada importada de Dragon Age: Origins.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/350F12846BE1FCCA2AA7265ACE205AE933A80E41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Venganza",
+      "trophyDetail": "Te has enfrentado al culpable del asesinato de la familia Vael. (Descarga de contenido \"El príncipe exiliado\")",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/D6E2430449775125C8E61B504207FEB9BD5F32BD.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capa y espada",
+      "trophyDetail": "Te has reunido en secreto con el agente de la Divina. (Descarga de contenido \"El príncipe exiliado\")",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/076E460709C70A22EAA2D1788CF99C7B2963386D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Represalia",
+      "trophyDetail": "Te has encargado de los mercenarios que asesinaron a la familia Vael. (Descarga de contenido \"El príncipe exiliado\")",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/C5F69345758C1C67D8222F131D2A48DE1236B664.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La lealtad del príncipe",
+      "trophyDetail": "Te has ganado la amistad o la enemistad de Sebastian. (Descarga de contenido \"El príncipe exiliado\")",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/3D3A32B4DCECD329E7243FD3202D602D19CA410C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Recuerdo",
+      "trophyDetail": "Le has dado a Sebastian una reliquia familiar. (Descarga de contenido \"El príncipe exiliado\")",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/0CF6E6847F43DD555D9EE7B981610815E760FA13.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Conductor",
+      "trophyDetail": "Has derrotado a un antiguo mal en las montañas Vimmark. (Descarga de contenido \"Legacy\")",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/27A47AEB7E1166C0BE94CEABB20BC363E18831B2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Safari por las Profundidades",
+      "trophyDetail": "Has matado a 1 genlock, 1 genlock alfa, 1 hurlock alfa, 1 bronto y 1 predador en las Vimmark. (Descarga de contenido \"Legacy\")",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/33C048663BCDC91D9FB0A6221418E5544660D884.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legado familiar",
+      "trophyDetail": "Has aplicado tres efectos a la llave de Hawke. (Descarga de contenido \"Legacy\")",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/E6A463907C8FF311FB6B9DBAC14835FAC6259F1B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Salida familiar",
+      "trophyDetail": "Has completado la misión principal en las montañas Vimmark con Bethany o con Carver en el grupo. (Descarga de contenido \"Legacy\")",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/88F57F545DC47298BFBEFA1B39BFAACE32D4B8A2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Limpiatorres",
+      "trophyDetail": "Has completado todas las misiones secundarias en la torre prisión de las montañas Vimmark. (Descarga de contenido \"Legacy\")",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/E382249F3B868BBA2C68197BE025A6EE8039D0C9.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un nuevo día",
+      "trophyDetail": "Tallis se ha unido al grupo. (Descarga de contenido \"La marca de la asesina\").",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/9F52EA8E2350D30C0C4387426736622B1DA12938.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Persiguiendo a la presa",
+      "trophyDetail": "Has atraído y matado a un guiverno alfa en las inmediaciones del castillo Haine. (Descarga de contenido \"La marca de la asesina\").",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/3D54E981CAC5A4B212458144D21394CD2B8193B3.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Una contundente sutileza",
+      "trophyDetail": "Has eludido la seguridad de las cámaras del castillo Haine. (Descarga de contenido \"La marca de la asesina\").",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/A963F58E1098D85E6D426B7D642C77D8F3F44E24.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "La captura",
+      "trophyDetail": "Has desactivado las trampas de fuego en las cámaras del castillo Haine. (Descarga de contenido \"La marca de la asesina\").",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/CA98D8246B0FC42D3A803F61252AD564CDBF40D3.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "La marca de la asesina",
+      "trophyDetail": "Has derrotado al duque Próspero con o sin Tallis. (Descarga de contenido \"La marca de la asesina\").",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/C3DF7676CE0FE34EC34C3F6D2F489D9811C8399A.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 66
+}

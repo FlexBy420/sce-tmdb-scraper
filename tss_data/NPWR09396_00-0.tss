@@ -1,0 +1,141 @@
+#gmServer = egs.dcvr.online.scee.com
+#betaServer = beta.egs.dcvr.online.scee.com
+<< Config >>
+fa_egsConnection 100 100
+gs_retrospectiveGhosts false
+egs_allowPSPlus false
+telem_destinationRoot /exchange/exchange.event/evo.driveclub.event
+telem_enabledMessages <ALL>, -OverDrive -EGSUsage, -ErrorVerbose, -Success, -AutoTest, -MemoryUsage, -RoomEvent, -TrophyAchieveVerbose, -CustomHeaderVerbose, -SuccessVoiceChat, -SuccessAgeRestrictions, -SuccessBridgeService, -SuccessCommerce, -SuccessConnectService, -SuccessFaceBook, -SuccessGetFriendTask, -SuccessLiveUsersService, -SuccessLocalUsersService, -SuccessProfileDialogService, -SuccessTrophy, -SuccessWebAPIPushEventService, -SuccessVerbose
+telem_messageServer prod.homemq.online.scee.com
+telem_password veHoapuRgKSo
+telem_port 10086
+telem_username dc_prod_ps4
+telem_virtualHost dc_prod
+fa_storeCatalog 100 100
+fa_christmas_snow 0 0
+nozomi_brd_sep 150
+nozomi_brd_actPP 1000
+nozomi_brd_act 6
+nozomi_brd_minrun 14000
+nzi_brd_soft 1
+nzi_join_vc 1
+OTG_Login_Type auth
+OTG_Domain evos-prod.
+OTG_Default_TimeoutMS 30000
+OTG_Service_Enabled dcvrproduction
+OTG_Service_LBPost dcvrproduction
+OTG_Service_LBRead dcvrproduction
+OTG_Service_FaceOffs dcvrproduction
+OTG_Service_AccRead dcvrproduction
+OTG_Service_AccPost dcvrproduction
+OTG_Service_AccEGSOff dcvrproduction
+OTG_Service_stats dcvrproduction
+OTG_Service_statsWrite dcvrproduction
+OTG_ErrorTimeout_200 0
+OTG_ErrorTimeout_400 0
+OTG_ErrorTimeout_404 0
+OTG_ErrorTimeout_503 300000
+OTG_ErrorTimeout_504 300000
+OTG_ErrorTimeout_500 300000
+OTGCHALLENGE_LIST_REFRESH_SECONDS 120,120,120,120,300,300,300,300
+OTGCHALLENGE_BOARD_READSIZE 50,50,50,50,50,50,50,50
+OTGCHALLENGE_BOARD_MAXSIZE 400,400,50,50,50,50,50,50
+OTGCHALLENGE_COMMUNITYSIZE_REFRESH_SECONDS 900
+OTGCHALLENGE_EXPIRERY_CHECK_REFRESH_SECONDS 30
+OTGCHALLENGE_COMMUNITY_BOARDS_MAX 5
+OTGCHALLENGE_MAX_CREATE_FORWARDS_PER_DAY 50
+OTGCHALLENGE_COMMUNITY_MIN_EXPIRERY_TIME 300
+OTGCHALLENGE_COMMUNITY_PLAYER_COMPARITORS 10,10, 0,0
+OTGCHALLENGE_COMMUNITY_CLUB_COMPARITORS 10,10, 0,0
+otg_telemetry_enabled false
+wwsgaTelemetry_Enable false
+wwsgaTelemetry_Url1st https://driveclubvr.api.wwsga.me/games/
+wwsgaTelemetry_GameId d015378d-2c0b-47fc-8a72-94f7017dd5ae
+wwsgaTelemetry_Url2nd /telemetry
+wwsgaTelemetry_ApiKey fc4036ce-497c-4e38-8f34-3481583bb09c
+wwsgaTelemetry_Secret 008dfd41231a34b73516b3d0d431de4a
+wwsgaTelemetry_Schema v1.0
+wwsgaTelemetry_UAgent DCVR/1.00
+wwsgaTelemetry_Mask32 ffffffff
+wwsgaTelemetry_MsgString0 [wws], HACKYHACKYHACKHACK, <ALL>, -OverDrive -EGSUsage, -ErrorVerbose, -Success, -AutoTest, -MemoryUsage, -RoomEvent, -TrophyAchieveVerbose, -CustomHeaderVerbose, -SuccessVoiceChat, -SuccessAgeRestrictions, -SuccessBridgeService, -SuccessCommerce, -SuccessConnectService, -SuccessFaceBook, -SuccessGetFriendTask, -SuccessLiveUsersService, -SuccessLocalUsersService, -SuccessProfileDialogService, -SuccessTrophy, -SuccessWebAPIPushEventService, -SuccessVerbose
+fa_telemetryFilter0 00000000 00000000
+wwsgaTelemetry_MsgString1 [wws], HACKYHACKYHACKHACK, <NONE>, +OverDrive
+fa_telemetryFilter1 ffff0fff ffff0fff
+sprint_canada_road_point_03_n show
+sprint_canada_road_point_03_r show
+sprint_chile_road_point_01_n show
+sprint_chile_road_point_01_r show
+sprint_india_road_point_02_n show
+sprint_india_road_point_02_r show
+sprint_japan_road_point_02_n show
+sprint_japan_road_point_02_r show
+sprint_norway_road_point_01_n show
+sprint_norway_road_point_01_r show
+sprint_uk_road_point_01_n show
+sprint_uk_road_point_01_r show
+sprint_chile_road_point_04_n show
+sprint_chile_road_point_04_r show
+sprint_india_road_point_01_n show
+sprint_india_road_point_01_r show
+sprint_canada_road_point_01_n show
+sprint_canada_road_point_01_r show
+sprint_japan_road_point_01_n show
+sprint_japan_road_point_01_r show
+sprint_norway_road_point_03_n show
+sprint_norway_road_point_03_r show
+sprint_uk_road_point_02_n show
+sprint_uk_road_point_02_r show
+sprint_india_road_circuit_02_n show
+sprint_india_road_circuit_02_r show
+sprint_chile_dlc_road_circuit_01_n show
+sprint_chile_dlc_road_circuit_01_r show
+sprint_canada_road_circuit_01_n show
+sprint_canada_road_circuit_01_r show
+sprint_japan_road_circuit_01_n show
+sprint_japan_road_circuit_01_r show
+sprint_norway_road_circuit_01_n show
+sprint_norway_road_circuit_01_r show
+sprint_uk_road_circuit_02_n show
+sprint_uk_road_circuit_02_r show
+sprint_india_road_circuit_01_n show
+sprint_india_road_circuit_01_r show
+sprint_chile_road_circuit_01_n show
+sprint_chile_road_circuit_01_r show
+sprint_canada_dlc_road_circuit_03_n show
+sprint_canada_dlc_road_circuit_03_r show
+sprint_japan_road_circuit_02_n show
+sprint_japan_road_circuit_02_r show
+sprint_norway_road_circuit_02_n show
+sprint_norway_road_circuit_02_r show
+sprint_uk_road_circuit_01_n show
+sprint_uk_road_circuit_01_r show
+sprint_india_dlc_road_circuit_03_n show
+sprint_india_dlc_road_circuit_03_r show
+sprint_chile_road_circuit_02_n show
+sprint_chile_road_circuit_02_r show
+sprint_canada_road_circuit_02_n show
+sprint_canada_road_circuit_02_r show
+sprint_japan_dlc_road_circuit_03_n show
+sprint_japan_dlc_road_circuit_03_r show
+sprint_norway_dlc_road_circuit_03_n show
+sprint_norway_dlc_road_circuit_03_r show
+sprint_uk_dlc_road_circuit_03_n show
+sprint_uk_dlc_road_circuit_03_r show
+sprint_canada_race_track_v1 show
+sprint_canada_race_track_v2 show
+sprint_canada_race_track_v3 show
+sprint_chile_race_track_v1 show
+sprint_chile_race_track_v2 show
+sprint_chile_race_track_v3 show
+sprint_india_race_track_v1 show
+sprint_india_race_track_v2 show
+sprint_india_race_track_v3 show
+sprint_japan_race_track_01_v1 show
+sprint_japan_race_track_01_v2 show
+sprint_japan_race_track_01_v3 show
+sprint_norway_race_track_01_v1 show
+sprint_norway_race_track_01_v2 show
+sprint_norway_race_track_01_v3 show
+sprint_uk_race_track_v1 show
+sprint_uk_race_track_v2 show
+sprint_uk_race_track_v3 show

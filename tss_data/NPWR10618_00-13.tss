@@ -1,0 +1,101 @@
+{
+	"leaderboard" : "LB2016FE1",
+	"track" : "melbourne",
+	"driver" : "daniel_ricciardo",
+	"eventTODStart" : 0,
+	"weatherSeed" : 150,
+	"weather" : ["clear", "overcast", "clear", "overcast"],
+	"raceLength" : "25_percent",
+	"season" : 2016,
+	"grid" : [6, 0, 1, 2, 3, 7, 8, 4, 17, 16, 5, 9, 12, 13, 21, 15, 20, 14, 18, 11, 10, 19],
+	"valid" : false,
+	"visible" : true,
+	"descriptions" : {
+	
+		"english" : "An action packed start at the 2016 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX sees the unfortunate Daniel Ricciardo in the gravel trap and running last. Can the local hero turn his fortunes around and take a superb race win for the Red Bull Racing team?",
+		"english-us" : "english-us event description",
+		"french" : "Après un incident au début du 2016 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX, Daniel Ricciardo est dernier. L'emportera-t-il après une remontée fantastique ?",
+		"italian" : "Una partenza ricca d’azione al 2016 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX vede lo sfortunato Daniel Ricciardo finire sulla ghiaia e in ultima posizione. L’eroe locale saprà fare buon viso a cattivo gioco e aggiudicarsi una vittoria per la Red Bull?",
+		"german" : "Nach einem rasanten Start beim 2016 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX landete Pechvogel Daniel Ricciardo im Kies und auf dem letzten Platz. Kann der Lokalmatador das Blatt noch wenden und Red Bull einen fulminanten Sieg bescheren?",
+		"spanish" : "Un comienzo lleno de acción en el 2016 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX ve a un desafortunado Daniel Ricciardo en la gravilla y en última posición. ¿Podrá el héroe local cambiar su suerte y lograr una gran victoria para Red Bull Racing?",
+		"japanese" : "事故とともに始まった2016 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIXでは、ダニエル・リチャルドが最下位になってしまった。果たして彼は挽回して勝つことができるのか？",
+		"tchinese" : "tchinese event description",
+		"schinese" : "在FORMULA 1 ROLEX 澳大利亚大奖赛 2016比赛中，经历了早期事故的Daniel Ricciardo发现自己排名倒数。他能恢复赶超并夺取胜利吗？",
+		"russian" : "В результате неудачного старта на 2016 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX Даниэль Риккардо оказался на последнем месте. Сможет ли он добиться победы?",
+		"polish" : "Po emocjonującym starcie do wyścigu 2016 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX Daniel Ricciardo wypada z toru i spada na ostatnie miejsce. Czy lokalny bohater potrafi odwrócić losy wyścigu i odnieść wspaniałe zwycięstwo dla ekipy Red Bull Racing?",
+		"portuguese" : "portuguese event description",
+		"brazilian" : "Início cheio de ação no 2016 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX, com o azarado Daniel Ricciardo caindo na brita e ficando em último. Será que o herói local muda sua sorte e leva uma maravilhosa vitória para a equipe da Red Bull Racing?",
+		"french-ca" : "Après un incident au début du 2016 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX, Daniel Ricciardo est dernier. L'emportera-t-il après une remontée fantastique ?",
+		"spanish-us" : "Un comienzo lleno de acción en el 2016 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX ve a un desafortunado Daniel Ricciardo en la gravilla y en última posición. ¿Podrá el héroe local cambiar su suerte y lograr una gran victoria para Red Bull Racing?",
+		"worstcase" : "worstcase event description"
+	},
+	"strictRules" : false,
+	"drivers" : [{
+			"name" : "carlos_sainz-jr",
+			"tyreAllocation" : "Softer"
+		}, {
+			"name" : "daniil_kvyat",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "daniel_ricciardo",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "esteban_gutierrez",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "fernando_alonso",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "felipe_massa",
+			"tyreAllocation" : "Softer"
+		}, {
+			"name" : "felipe_nasr",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "jenson_button",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "jolyon_palmer",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "kimi_raikkonen",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "lewis_hamilton",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "marcus_ericsson",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "max_verstappen",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "nico_hulkenberg",
+			"tyreAllocation" : "Softer"
+		}, {
+			"name" : "nico_rosberg",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "kevin_magnussen",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "pascal_wehrlein",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "romain_grosjean",
+			"tyreAllocation" : "Harder"
+		}, {
+			"name" : "sebastian_vettel",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "sergio_perez",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "valtteri_bottas",
+			"tyreAllocation" : "Balanced"
+		}, {
+			"name" : "rio_haryanto",
+			"tyreAllocation" : "Balanced"
+		}
+	]
+}

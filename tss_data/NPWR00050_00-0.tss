@@ -1,0 +1,132 @@
+<XML>
+  <VERSION>07/06/2011 15:11:01</VERSION>
+  <token_env_map>
+    <entitlement env="cbmgmt" screen_content_root="http://homeps3-content.online.scee.com:10010/core/cds/CMGMT_49B03EFC-5FC1-43F7-A3B5-6DE27DDAAECF/">EP9000-NPEA00013_00-TEST55</entitlement>
+    <entitlement env="coreqa" screen_content_root="http://homeps3-content.online.scee.com:10010/core/cds/CMGMT_49B03EFC-5FC1-43F7-A3B5-6DE27DDAAECF/">EP9000-NPEA00013_00-TEST49</entitlement>
+  </token_env_map>
+  <SHA1 file="Environments/SceneList.xml" digest="822741EAAED54627E88B3A70A6C915E2711F2F97" />
+  <SHA1 file="Objects/ObjectCatalogue.bar" digest="08CEA81085BF85A26697C0DEE5172BB1B3A26923" />
+  <SHA1 file="Objects/ObjectCatalogue_5_SCEE.hcdb" digest="bc09714d8d8a3c1db628f1ad95b1786e12ff932d"/>
+  <SHA1 file="Objects/ObjectCatalogue_5_SCEA.hcdb" digest="8da4ee34ab0bf8c95ccd2d86c52c84b93008e3dc"/>
+  <SHA1 file="Objects/ObjectCatalogue_5_SCEJ.hcdb" digest="4e4848a5a4ac6387e9f2cabcb43b5d4f06018db1"/>
+  <SHA1 file="Objects/ObjectCatalogue_5_SCEAsia.hcdb" digest="65b13265d6b2e4fef7423d77994aa0ff47281e2b"/>
+  <objects>
+    <prepared_database/>
+  </objects>
+  <SHA1 file="Inventory/DefaultInventory.bar" digest="74347FC4FA4E9A2C3C23FCD5C3FCE6FF600E5565" />
+  <SHA1 file="Localisation/DynamicLocalisation.xml" digest="7E88A07D748A928BC2839CC0C1523B84D074FEA4" />
+  <SecureContentRoot>https://secure.$(env).homeps3.online.scee.com/</SecureContentRoot>
+  <datacapture>
+    <url mode="1">https://hdc.$(env).homeps3.online.scee.com:10061/dataloaderweb/queue</url>
+  </datacapture>
+  <AdminObjectId>B0824A08-34054866-91573614-3D2DF37C</AdminObjectId>
+  <maxserviceids>60</maxserviceids>
+  <commerce>
+    <secure_commerce_points />
+  </commerce>
+  <global>
+    <mode SCEA="3" SCEJ="3" SCEE="3" SCEAsia="3">0</mode>
+    <mode SCEA="1" SCEJ="1" SCEE="0" SCEAsia="1">1</mode>
+  </global>
+  <agerestrictions>
+    <age region="sceasia">0</age>
+    <age region="scej">0</age>
+    <age region="scee">16</age>
+    <age region="scea">13</age>
+    <age region="scek">0</age>
+  </agerestrictions>
+  <REGIONINFO>
+    <INSTANCE_TYPES>
+      <TYPE name="EU" />
+      <TYPE name="US" />
+      <TYPE name="Japan" />
+      <TYPE name="Asia" />
+    </INSTANCE_TYPES>
+    <REGION_TYPES>
+      <!-- 32 max entries -->
+      <TYPE name="EU-GB" territory="SCEE" instance="EU">en-GB</TYPE>
+      <TYPE name="EU-France" territory="SCEE" instance="EU">fr-FR</TYPE>
+      <TYPE name="EU-Italy" territory="SCEE" instance="EU">it-IT</TYPE>
+      <TYPE name="EU-Germany" territory="SCEE" instance="EU">de-DE</TYPE>
+      <TYPE name="EU-Spain" territory="SCEE" instance="EU">es-ES</TYPE>
+      <TYPE name="US" territory="SCEA" instance="US">en-US</TYPE>
+      <TYPE name="Asia-Japan" territory="SCEJ" instance="Japan">ja-JP</TYPE>
+      <TYPE name="Asia-Korea" territory="SCEAsia" instance="Asia">ko-KR</TYPE>
+      <TYPE name="Asia-Taiwan" territory="SCEAsia" instance="Asia">zh-TW</TYPE>
+      <TYPE name="Asia-HongKong" territory="SCEAsia" instance="Asia">zh-HK</TYPE>
+      <TYPE name="Asia-Singapore" territory="SCEAsia" instance="Asia">en-SG</TYPE>
+      <TYPE name="Asia-Indonesia" territory="SCEAsia" instance="Asia">en-ID</TYPE>
+      <TYPE name="Asia-Malaysia" territory="SCEAsia" instance="Asia">en-MY</TYPE>
+      <TYPE name="Asia-Thailand" territory="SCEAsia" instance="Asia">en-TH</TYPE>
+    </REGION_TYPES>
+    <REGION_MAP>
+      <!-- 64 max entries -->
+      <!-- SCEJ -->
+      <MAP code="ja-JP" loc="3">Asia-Japan</MAP>
+      <!-- SCEA -->
+      <MAP code="en-US" loc="2">US</MAP>
+      <MAP code="en-CA" loc="2">US</MAP>
+      <MAP code="fr-CA" loc="2">US</MAP>
+      <!-- SCEE -->
+      <MAP code="en-GB" loc="1">EU-GB</MAP>
+      <MAP code="en-IE" loc="1">EU-GB</MAP>
+      <MAP code="fr-BE" loc="1">EU-France</MAP>
+      <MAP code="nl-BE" loc="1">EU-GB</MAP>
+      <MAP code="fr-LU" loc="1">EU-France</MAP>
+      <MAP code="de-LU" loc="1">EU-Germany</MAP>
+      <MAP code="nl-NL" loc="1">EU-GB</MAP>
+      <MAP code="fr-FR" loc="1">EU-France</MAP>
+      <MAP code="de-DE" loc="1">EU-Germany</MAP>
+      <MAP code="de-AT" loc="1">EU-Germany</MAP>
+      <MAP code="de-CH" loc="1">EU-Germany</MAP>
+      <MAP code="fr-CH" loc="1">EU-France</MAP>
+      <MAP code="it-CH" loc="1">EU-Italy</MAP>
+      <MAP code="it-IT" loc="1">EU-Italy</MAP>
+      <MAP code="pt-PT" loc="1">EU-GB</MAP>
+      <MAP code="en-DK" loc="1">EU-GB</MAP>
+      <MAP code="en-FI" loc="1">EU-GB</MAP>
+      <MAP code="en-NO" loc="1">EU-GB</MAP>
+      <MAP code="en-SE" loc="1">EU-GB</MAP>
+      <MAP code="en-AU" loc="1">EU-GB</MAP>
+      <MAP code="en-NZ" loc="1">EU-GB</MAP>
+      <MAP code="es-ES" loc="1">EU-Spain</MAP>
+      <MAP code="ru-RU" loc="1">EU-GB</MAP>
+      <MAP code="en-AE" loc="1">EU-GB</MAP>
+      <MAP code="en-ZA" loc="1">EU-GB</MAP>
+      <MAP code="en-CZ" loc="1">EU-GB</MAP>
+      <MAP code="en-SA" loc="1">EU-GB</MAP>
+      <MAP code="en-PL" loc="1">EU-GB</MAP>
+      <MAP code="en-GR" loc="1">EU-GB</MAP>
+      <!-- SCEAsia -->
+      <MAP code="en-HK" loc="3">Asia-HongKong</MAP>
+      <MAP code="zh-HK" loc="3">Asia-HongKong</MAP>
+      <MAP code="en-TW" loc="3">Asia-Taiwan</MAP>
+      <MAP code="zh-TW" loc="3">Asia-Taiwan</MAP>
+      <MAP code="en-SG" loc="3">Asia-Singapore</MAP>
+      <MAP code="ko-KR" loc="3">Asia-Korea</MAP>
+      <MAP code="en-ID" loc="3">Asia-Indonesia</MAP>
+      <MAP code="en-MY" loc="3">Asia-Malaysia</MAP>
+      <MAP code="en-TH" loc="3">Asia-Thailand</MAP>
+    </REGION_MAP>
+    <LOCALISATIONS>
+      <!-- 32 max entries -->
+      <REF language="*-ID">en-SG</REF>
+      <REF language="*-MY">en-SG</REF>
+      <REF language="*-TH">en-SG</REF>
+      <REF language="en-HK">en-SG</REF>
+      <REF language="*-HK">zh-HK</REF>
+      <REF language="en-TW">en-SG</REF>
+      <REF language="*-TW">zh-TW</REF>
+      <REF language="*-SG">en-SG</REF>
+      <REF language="en-US">en-US</REF>
+      <REF language="en-CA">en-US</REF>
+      <REF language="en-*">en-GB</REF>
+      <REF language="fr-*">fr-FR</REF>
+      <REF language="it-*">it-IT</REF>
+      <REF language="de-*">de-DE</REF>
+      <REF language="es-*">es-ES</REF>
+      <REF language="ja-*">ja-JP</REF>
+      <REF language="ko-*">ko-KR</REF>
+    </LOCALISATIONS>
+  </REGIONINFO>
+</XML>

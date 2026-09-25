@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.01">
+    <![CDATA[
+    -Fixed a slow but constant memory leak which would cause a crash after around 3 hours.
+    -Fixed a crash which would occur when restarting a map, if the game was launched while signed out of PSN.
+    -Fixed crash when joining a friends session through your friends list in the dashboard, if that session was created via 'keep searching'.
+    -Some improvements to overall stability.
+    -Fixed Leaderboards failing to show entries, and record them, after playing several levels.
+    -Fixed bug allowing you to select a 'couch multiplayer' saved games when creating or joining a 'player match'. Only 'couch multiplayer' allows saving and loading.
+    -No longer possible to add hotset players in 'player match' games, the square button was still bound although the button was not visible.
+    -Signing out of PSN during gameplay now triggers appropriate messages and ends the game for you, rather than requiring you to manually exit the game.
+    -Fixed issue causing the primary local player to unnecessarily leave/abandon the game when a secondary local player signs out of PSN.    
+    -Losing connection to the game session no longer counts as a victory (no trophy awarded) for the player being disconnected.    
+    ]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[
+    -Fixed not being able to see beyond the first page in leaderboards.
+    -Fixed issue allowing games with more than two players to sometimes start with the armies/teams out of sync.
+    -Fixed some matches not having turn time limits, if they were created through 'keep searching'.    
+    ]]>
+  </changes>  
+</changeinfo>

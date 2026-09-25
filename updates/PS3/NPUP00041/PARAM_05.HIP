@@ -1,0 +1,5 @@
+ - Classificazione delle foto in categorie e modifica della visualizzazione per ogni tipo di foto
+ - Sincronizzazione con file di tipo MPF/MPO nel menu XMB™
+ - Riduzione dei tempi di avvio e importazione delle foto
+ - Rotazione delle foto di 90 gradi
+ - Visualizzazione 3D delle immagini da diverse angolazioni

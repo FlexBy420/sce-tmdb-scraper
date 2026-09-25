@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+ <changes app_ver="01.04">
+  <![CDATA[
+   The following changes have been made:
+   <ul>
+	<li>Added 7 new language locales! (French, Spanish, German, Russian, Brazilian Portuguese, Simplified Chinese, and Japanese). </li>
+	<li>Updated Trophy Set to be localized for the above languages.</li>
+	<li>Added a new Language Settings screen to the Title Screen (auto shown if never seen before).</li>
+	<li>Added horizontal text scrolling to several menus.</li>
+	<li>Fixed a bug where healing from items used before using a Warp Shard would not be applied.</li>
+	<li>Adjusted UI spacing of wide buttons glyphs in text.</li>
+	<li>Updated the credits to include the Localization team.</li>
+	<li>Added 2 new Passwords to the game to allow improved Speed Running experiences.</li>
+	<li>Fixed a bug where the Spotlight SFX sound could continue to play after defeating the Demon Boss.</li>
+	<li>Fixed an issue where you could lock the Demon Boss out of its first usage of its critical attack.</li>
+	<li>Fixed a bug where opening a Max HP/Aura/Sand chest could reset your HP/Aura/Sand to a previous state.</li>
+	<li>Changed the START button to now completely exit from menus.</li>
+	<li>Added a new item to the Merchant Crow shop under certain circumstances.</li>
+	<li>Added new items that increase Familiar experience and experience gain.</li>
+	<li>Lowered Familiar level up exp requirements.</li>
+	<li>Improved framerate during a certain boss battle.</li>
+	<li>Fixed a bug where Junk Crushers would be invisible if unseen before frozen.</li>
+	<li>Fixed a bug where Reinforcing an Orb would reset your HP/MP to the values you had the last time you Paused.</li>
+	<li>Fixed a bug where level 1 clears weren't being saved properly.</li>
+	<li>Buffed a few healing items.</li>
+	<li>Added a cutscene to remind players to use the Timespinner.</li>
+	<li>Added a new "Dropped Item" for a quest item, in addition to the original method to get it.</li>
+   </ul>
+ ]]>
+</changes>
+ <changes app_ver="01.03">
+  <![CDATA[
+   The following changes have been made:
+   <ul>
+	<li>Optimized memory management greatly (large decrease in hitches from garbage collection)</li>
+	<li>Adjusted text in a collectable Letter.</li>
+   </ul>
+ ]]>
+</changes>
+<changes app_ver="01.02">
+  <![CDATA[
+   The following changes have been made:
+   <ul>
+	<li>Fixed a crash caused by the Moon Orb hitting too many enemies at once.</li>
+	<li>Fixed a crash caused by Mushroom Towers being hit by friendly fire.</li>
+	<li>Fixed a crash caused by raising Orb Level too high. It is now capped at 999.</li>
+
+	<li>Fixed a bug where Continuing after a Game-Over would not reset your explored map.</li>
+	<li>Fixed a bug where the player would not be teleported to the correct spot for a certain quest in certain situations.</li>
+	<li>Fixed a bug with "forever run" enemies where they could get stuck in walls.</li>
+	<li>Fixed a bug with "forever run" enemies where they could get stuck in doorways</li>
+	<li>Fixed a bug where the Lab Turret tracks would stop rendering if dead and you went out of view</li>
+	<li>Fixed a bug where switching out a specific Orb mid-attack left behind a damage area briefly.</li>
+	<li>Fixed a bug where the Familiar would be invisible after a quest cutscene</li>
+	<li>Fixed a bug where level 1 clears weren't being saved.</li>
+
+	<li>Fixed an issue where NG+ would clear KS Backer Familiar Skin relics.</li>
+
+	<li>Fixed a few visual environment mistakes.</li>
+	<li>Fixed a visual bug in the Orb Shop where the "Better Arrow" would overlap the Orb level</li>
+	<li>Fixed several text typos.</li>
+
+	<li>Adjusted the Fire Passive to be capable of killing enemies (it would not reduce them past 1 HP before).</li>
+	<li>Adjusted the Orb Shop's Reinforce display stats to always show improvement, even if numbers did not visibly change.</li>
+	<li>Adjusted the spawn probablity logic around a certain foe encounter</li>
+	<li>Adjusted collision properties of the Gun Orb.</li>
+	<li>Adjusted the background parralax for a certain cutscene</li>
+	<li>Adjusted controls for jumping down from ledge grabbing.</li>
+	<li>Adjusted Chucklefish logo</li>
+	<li>Adjusted stats on a few enemies.</li>
+
+	<li>Added text scrolling for player stats that were too long</li>
+	<li>Added "Dropped Items" to help people find their way in a couple locations.</li>
+	<li>Added glowing floor prompts to two story interactable objects.</li>
+	<li>Added FNA logo to credits</li>
+	<li>Added a few new SFX</li>
+	<li>Added an additional costume for Lunais.</li>
+	<li>Added a Yellow Dot to the Map in a particular room.</li>
+	<li>Added color fade oscillation for Map Markers in the Map Screen (helps with Markers cover map)</li>
+
+	<li>Sorted the large Kickstarter Backer section alphabetically</li>
+	<li>Entering a NG+ game no longer clears the "Game Cleared" flag- allowing for infinite NG+ resets.</li>
+	<li>Reduced the power of several healing items.</li>
+	<li>Optimized Conveyor Belts to be more efficient (improves fps)</li>
+	<li>Optimized Donut Floors to be more efficient (improves fps)</li>
+	<li>Optimized memory management (improves hitches from garbage collection)</li>
+   </ul>
+ ]]>
+</changes>
+ <changes app_ver="01.01">
+  <![CDATA[
+   Fixed an issue where the Relic "Jewelry Box" referred to the L2/R2 buttons instead of the SELECT button.
+ ]]>
+</changes>
+</changeinfo>

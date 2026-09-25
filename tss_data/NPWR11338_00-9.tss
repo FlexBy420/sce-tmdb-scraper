@@ -1,0 +1,33 @@
+{
+	"endpoints":
+	[
+		{
+			"environment": "dev",
+			"hydraUrl": "https://int-api.wbagora.com",
+			"hydraAPIKey": "89d698bbbc5b4d97acbfe2f1a8059b14",
+			"hydraClientID": "cbd2b292-830b-4ba9-835c-3aa846242ab0",
+			"eventEndpoint": "https://dev-event.wbplay.com:443/pachinko/v1/event"
+		},
+		{
+			"environment": "prod",
+			"hydraUrl": "https://pachinko-api.wbagora.com",
+			"hydraAPIKey": "076be038839744359070f7fbf2dad13f",
+			"hydraClientID": "cbd2b292-830b-4ba9-835c-3aa846242ab0",
+			"eventEndpoint": "https://prod-event.wbplay.com:443/pachinko/v1/event"
+		},
+		{
+			"environment": "qa",
+			"hydraUrl": "https://pachinko-api.wbagora.com",
+			"hydraAPIKey": "747632b608dd46228dd918ce3be2df71",
+			"hydraClientID": "cbd2b292-830b-4ba9-835c-3aa846242ab0",
+			"eventEndpoint": "https://qa-event.wbplay.com:443/pachinko/v1/event"
+		},
+		{
+			"environment": "cert",
+			"hydraUrl": "https://pachinko-api.wbagora.com",
+			"hydraAPIKey": "8ac1e9b3563141b9bc2630e6c3315dd6",
+			"hydraClientID": "cbd2b292-830b-4ba9-835c-3aa846242ab0",
+			"eventEndpoint": "https://cert-event.wbplay.com:443/pachinko/v1/event"
+		}
+	]
+}

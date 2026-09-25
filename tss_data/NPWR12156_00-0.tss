@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TSS>
+	<CUSA06867_00>
+		<Store>
+			<!-- ストアつなぎ込み情報 -->
+			<Product default="FINALFANTASYXV00">
+			</Product>
+			<ServiceLabel default="1">
+			</ServiceLabel>
+		</Store>
+		<!-- 曲の選択制限解放の指定 -->
+		<Unlock>
+			<!-- 3段階の開放タイミングが存在　12/20,1/4,2/1 -->
+			<Time default="636177564000000000;636190524000000000;636214716000000000">
+			</Time>
+			<!-- 3段階分の開放曲を指定　1回目（リリース時）,2回目33～63番,3回目64～96番 -->
+			<No default="1-32;33-63;64-96">
+			</No>
+		</Unlock>
+	</CUSA06867_00>
+	<CUSA07060_00>
+		<Store>
+			<!-- ストアつなぎ込み情報 -->
+			<Product default="FINALFANTASYXV00">
+			</Product>
+			<ServiceLabel default="1">
+			</ServiceLabel>
+		</Store>
+		<!-- 曲の選択制限解放の指定 -->
+		<Unlock>
+			<!-- 3段階の開放タイミングが存在　12/20,1/4,2/1 -->
+			<Time default="636177564000000000;636190524000000000;636214716000000000">
+			</Time>
+			<!-- 3段階分の開放曲を指定　1回目（リリース時）,2回目33～63番,3回目64～96番 -->
+			<No default="1-32;33-63;64-96">
+			</No>
+		</Unlock>
+	</CUSA07060_00>
+</TSS>

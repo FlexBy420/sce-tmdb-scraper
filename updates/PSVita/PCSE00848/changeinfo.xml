@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.04">
+    <![CDATA[
+	<ul>
+	<li>Added new netcode options</li>
+	<li>Host's language now shows on Multiplayer Search Results</li>
+	<li>New selection menu for Rankings</li>
+	<li>Added "Top" and "Me" to Rankings view</li>
+	<li>Now makes a sound when someone joins your hosted room</li>
+	<li>Support touch screen</li>
+	<li>Cosmetic UI fixes</li>
+	<li>Adjusted game margins</li>
+	<li>Added ability to Clear control mappings under Controls Options</li>
+	<li>Scrolling through menus now wraps</li>
+	</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.03">
+    <![CDATA[
+	<ul>
+    <li>Game could become unresponsive due to system messages interrupting game play</li>
+    <li>When Player 2 wins an online game, it is now tallied under the correct character.</li>
+    <li>Fixed problem in "wins" board that would limit it to near 127 wins.</li>
+    <li>Fixed occasional problem joining a match if you summoned Help first</li>
+    <li>Stopped game from occasionally starting instead of showing attract mode at launch</li>
+    <li>Improvements in error messaging</li>
+    <li>Stopped in-progress saves from interfering with online multiplayer sessions or viewing of rankings</li>
+    <li>Fixed typos</li>
+    <li>"Connection Lost" could appear while screen is faded.</li>
+    <li>Improve input lag for local and online play</li>
+    <li>Updated Japanese translation of Akari's Akarineiri moves</li>
+    <li>Fixed issues when switching between ad hoc and online play</li>
+	</ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[
+	<ul>
+    <li>Fixed freeze in burning stage</li>
+    <li>Fixed heat ripple effect in burning stage</li>
+    <li>Added option to turn off Flicker Filter</li>
+    <li>Allow Vs. to change Mask Mode from Game Options temporarily</li>
+    <li>Allow ○ button to be used to Continue</li>
+    <li>Fixed typo in move list</li>
+    </ul>
+    ]]>
+  </changes>
+  <changes app_ver="01.01">
+    <![CDATA[
+	<ul>
+    <li>Remove superfluous offline save messages</li>
+    <li>Fix error reporting when corrupt save data is detected</li>
+    <li>Add “Quit” to online multiplayer pause menu to give a way out when opponent stalls on Player Select</li>
+    <li>Correct behaviour if user pauses online multiplayer game after match finishes</li>
+    <li>Fix connectivity errors that can happen after a host leaves a room that a guest has just joined</li>
+    <li>Correct trophy requirements</li>
+    <li>Now pauses online game at the end of match while menu is up</li>
+    <li>Text fixes</li>
+	</ul>
+    ]]>
+  </changes>
+</changeinfo>
