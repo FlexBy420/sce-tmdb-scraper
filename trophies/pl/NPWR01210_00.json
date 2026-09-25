@@ -1,0 +1,792 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01210_00",
+  "trophySetVersion": "01.07",
+  "trophyTitleName": "LittleBigPlanet™2",
+  "trophyTitleDetail": "Graj, Twórz, Dziel się",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/0FB28B2DF4941EB43CD54C58B557DB6945013451.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 60,
+    "silver": 12,
+    "gold": 6,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "LittleBigPlanet™2",
+      "trophyGroupDetail": "Graj, Twórz, Dziel się",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/0FB28B2DF4941EB43CD54C58B557DB6945013451.PNG",
+      "definedTrophies": {
+        "bronze": 36,
+        "silver": 7,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "LittleBigPlanet™2: Pakiet Move",
+      "trophyGroupDetail": "Trofea dla LittleBigPlanet™2: Pakiet Move",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/08E5B43FDB4832A15C8C7F297B9402F17B4591DB.PNG",
+      "definedTrophies": {
+        "bronze": 9,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "LittleBigPlanet™2: The Muppets DLC",
+      "trophyGroupDetail": "Trofea dla LittleBigPlanet™2: The Muppets DLC",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/33AF3DE91226BE3732C3411E41265A880CF37F18.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "LittleBigPlanet™2: Cross-Controller DLC",
+      "trophyGroupDetail": "Trofea do LittleBigPlanet™2: Cross-Controller DLC",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/9613C26C40C2336E57AA724EE6B9047DB0EA6167.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Pakiet poziomów LittleBigPlanet™2: DC Comics™ Premium",
+      "trophyGroupDetail": "Trofea dla pakietu poziomów LittleBigPlanet™2: DC Comics™ Premium",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/EC7B6D7A658FA7AF96180FE3FEFA08445F096F53.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Ukończone w 100%",
+      "trophyDetail": "Zdobądź wszystkie trofea LittleBigPlanet™2, aby odblokować to platynowe trofeum",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/68FBA94704EAE17CB8097A51A5C79AB8516782C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ukończ Kryjówkę Da Vinci",
+      "trophyDetail": "Ukończ główną ścieżkę w Kryjówce Da Vinci",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/7FEC5E1082500AE8B893B3EC2397D4D6B8CC818A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ukończ Laboratorium Wiktorii",
+      "trophyDetail": "Ukończ główną ścieżkę w Laboratorium Wiktorii",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/1DEE1156C01822EC428961D2AA9BC485748D65D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ukończ Fabrykę Lepszego Jutra",
+      "trophyDetail": "Ukończ główną ścieżkę w Fabryce Lepszego Jutra",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/A06BB8BDD3C3925B03A6D5142E10DB9B3A4BB024.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ukończ Avalonię",
+      "trophyDetail": "Ukończ główną ścieżkę w Avalonii",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/823286515F7293B5FA2DC74ED6600E5BA362D82C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ukończ Azyl Ewy dla Mentalnie Innych",
+      "trophyDetail": "Ukończ główną ścieżkę w Azylu Ewy dla Mentalnie Innych",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/6D8097B11CBFAAC012953668674CCF3087AAE1B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ukończ tryb opowieści",
+      "trophyDetail": "Ukończ główną ścieżkę w trybie opowieści",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/3F4296E1346603941CCBD2859BDB432FC3AA7B09.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "As trybu opowieści",
+      "trophyDetail": "Wymaksuj wszystkie poziomy trybu opowieści",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/09E7AE309545777A748FCEC4C976CEC1D25BF0BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "As nad asy",
+      "trophyDetail": "Wymaksuj 10 różnych poziomów trybu opowieści pod rząd",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/AC1D2DE4DB17491E0799491FB5A90542BFD2907E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kolekcjoner nagród",
+      "trophyDetail": "Zbierz 50% baniek z nagrodami w trybie opowieści",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/68EEEB4082CAF1971B70C4859475A75BE61CFB9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 zwycięstw w rywalizacji",
+      "trophyDetail": "Zwycięż na 10 poziomach rywalizacji w trybie opowieści przeciw co najmniej 1 graczowi offline",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/BEB3D6815EA126276F3312EA67F171B9D01049F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mnożnik x5",
+      "trophyDetail": "Uzyskaj mnożnik x5 na poziome trybu opowieści",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/4B43805B03297DB78165160353EA0D2DC4EBE021.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mnożnik x10",
+      "trophyDetail": "Uzyskaj mnożnik x10 na poziome trybu opowieści",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/613FEDED54BCD1656759F8CBED9B4C4CFE604DF0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Górne 50% tabeli wyników",
+      "trophyDetail": "Uplasuj się w górnych 50% graczy na sieciowej tabeli wyników na poziomie trybu opowieści",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/416D5A2A5B2DB11DEC015A8E5209B38F9C74A10B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Górne 25% tabeli wyników",
+      "trophyDetail": "Uplasuj się w górnych 25% graczy na sieciowej tabeli wyników na poziomie trybu opowieści",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/C1E22C620E332EE182B57BCEE1B895B0F7E9A1B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pogromca potworów",
+      "trophyDetail": "Zabij 20 potworów na poziomach trybu opowieści",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/15BBC3EA9BFB11932C7E54F45655BCEE00FC8DBB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Specjalista od reinkarnacji",
+      "trophyDetail": "Zgiń 20 razy na jednym poziome trybu opowieści",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/FA85A7C6E8BB740C114440FE5EE3AC483B89500A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "25 w ciemno",
+      "trophyDetail": "Zagraj na 25 losowych poziomach z innymi graczami, nie opuszczając ich zaraz po rozpoczęciu!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/7739D31E68DA940565DBCEE9C36D03011B78B1CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rozegraj 25 poziomów społeczności",
+      "trophyDetail": "Zagraj na 25 unikalnych poziomach społeczności w trybie współpracy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/FCF5702D06C370118A27D5B4C156838D676BDC65.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rozegraj 75 poziomów społeczności",
+      "trophyDetail": "Zagraj na 75 unikalnych poziomach społeczności w trybie współpracy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/032FC0A84FD60F7C3843FDFB5F40740F1881061E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Całkiem nieźle",
+      "trophyDetail": "Uplasuj się w górnych 25% graczy na tabelach wyników na 5 poziomach społeczności (co najmniej 50 graczy musi być już klasyfikowanych)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/326CB078A64986156F953600882DA9B0195FBF04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rozegraj 5 poziomów rywalizacji",
+      "trophyDetail": "Zagraj na 5 unikalnych poziomach rywalizacji od społeczności",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/550D96BD941BED31B51AA2F879930A8B16654EFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "25 wygranych rywalizacji",
+      "trophyDetail": "Zwycięż na 25 sieciowych poziomach trybu rywalizacji przeciw co najmniej 1 graczowi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/24F586B025285CA9399D06B3332784640EDDAEA0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pilny z Ciebie gracz, Ziom",
+      "trophyDetail": "Przez 5 godzin graj na poziomach społeczności",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/D3376416423F71206D5AC5974CF125CE76CB71E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Jedna gra dziennie utrzyma Cię w zdrowiu",
+      "trophyDetail": "Graj w LittleBigPlanet™2 w każdym dniu tygodnia",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/28FA00F855C994680973BED6D1134E91736FC877.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Po co komu śniadanie?",
+      "trophyDetail": "Zagraj w LittleBigPlanet™2 przed 9:00",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/8A772DC6920EE8A37E16BC0EB01F0503CF839FD2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jeszcze tylko jeden poziom, mamo!",
+      "trophyDetail": "Zagraj w  LittleBigPlanet™2 po 21:00",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/269AEF802EF63880E6427E6100C1EF65223FF582.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Połączyła nas kotwiczka",
+      "trophyDetail": "Łancuch 4 graczy połączonych kotwiczkami",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/FABCAAE5FBBA9E402ED2EBAE9E3EB14DBE73AEC2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Turbo Plaskacz",
+      "trophyDetail": "Uderz więcej niż jednego gracza w tym samym momencie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/F04245886CE410CFAB90A44D283876B9987DE534.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Modniś",
+      "trophyDetail": "Zmień swój strój",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/C925FC3F6E3924F40CD40C2B017DC2D2F4993651.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 minut tworzenia",
+      "trophyDetail": "Spędź 10 aktywnych minut w trybie tworzenia",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/E6491AAF513EEEC3A46D0EEEE633DDA0D1179A88.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "1440 minut tworzenia",
+      "trophyDetail": "Spędź 24 aktywne godziny w trybie tworzenia",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/450ACE995871DBB50286F2186473B0A18A1B2A11.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wspomaganie społeczności",
+      "trophyDetail": "Opublikuj poziom",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/20388E48FB86CDB9ED55371089081DE31565DE57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "50 unikalnych graczy",
+      "trophyDetail": "Na opublikowanym przez Ciebie poziomie zagrało 50 unikalnych graczy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/5846B5B4E2DB3F7BF2CB57027D69583F266245BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Długi okres publikacji",
+      "trophyDetail": "Stworzony przez Ciebie poziom był publikowany przez 7 dni",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/31F26DB75DF6A11FC133AD7B95ECD3840CC08F74.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Twoja własna historia",
+      "trophyDetail": "Użyj Łącznika poziomu, aby połączyć dwa opublikowane przez Ciebie poziomy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/D411EE06EDB1C51FF169E3CBF3BF158BA8B374D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Własna odznaka",
+      "trophyDetail": "Stwórz własną odznakę dla Twojego poziomu ze zdjęcia z PlayStation®Eye lub zdjęcia zrobionego w grze.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/C2555C196FBD6271AF8122BB8D1DC4DC793FA2E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Podejmij me wyzwanie",
+      "trophyDetail": "Opublikuj poziom rywalizacji",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/468FF1D75432CDDE5D15405780B76901B6B98E8B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prymus",
+      "trophyDetail": "Obejrzałeś wszystkie samouczki! Masz tu nagrodę dla prymusa. Piątka z plusem.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/09F8177E8E2D8B4D8CF2AA4CA997719D972B2EE4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "40x Hurra",
+      "trophyDetail": "Oceń pozytywnie 40 poziomów społeczności",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/D00824F904657B381DF964244749D89FEB894287.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "160x Hurra",
+      "trophyDetail": "Oceń pozytywnie 160 poziomów społeczności",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/CB6075233F52919733C9BA9DAA0051980CCE63C1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Recenzent",
+      "trophyDetail": "Napisz recenzję",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/9D513AE017E9348C2C962438809829D7116CAE1E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Paparazzi",
+      "trophyDetail": "Opublikuj zdjęcie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/1F828E1C771DAED337927265C9CB1ABD1199533F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aktywnie głosujący 5",
+      "trophyDetail": "Oceń 5 nowych poziomów społeczności (mniej niż 10 zagrań)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/35FD443D4C8426E0CAFE564680062C418AC8752F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Aktywnie głosujący 50",
+      "trophyDetail": "Oceń 50 nowych poziomów społeczności (mniej niż 10 zagrań)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/A02D1D3863AE9A554D62654823CB16526858E950.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stare śmieci",
+      "trophyDetail": "Zagraj na poziomie twojej \"Niedawnej aktywności\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/FC449DA5CBCE3EBDF5B769F257D1F5E87BCD2953.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mistrz kolekcjonerstwa",
+      "trophyDetail": "Zbierz 100% baniek z nagrodami w trybie opowieści",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/0E5975E85D0D2238466D271F2E2A5BD092EF45D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gorliwy zbieracz",
+      "trophyDetail": "Zbierz 100% baniek z nagrodami w  LittleBigPlanet™2: Pakiet Move",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/7D5631E6EF361DFC377165707C9B4E29B9EE7B9B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nieprzeciętny",
+      "trophyDetail": "Ukończ 100% wszystkich poziomów fabularnych w  LittleBigPlanet™2: Pakiet Move",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/5DA0CF0A9A05C2090B3381EC1B6AF5921FD27EFC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mistrz ruchu",
+      "trophyDetail": "Ukończ 25 poziomów społeczności, w których wymagany jest kontroler ruchu",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/49651CE182DB38A77E8843410F17BCF16C327563.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dyplom z twórczości",
+      "trophyDetail": "Ukończ wszystkie samouczki w  LittleBigPlanet™2: Pakiet Move",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/BDD89C32AE4CEE530EAF38A96EA61F50A55B5BD4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ślusarz",
+      "trophyDetail": "Odblokuj wszystkie minigry w  LittleBigPlanet™2: Pakiet Move",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/E75BF35B9AF937E04941CF8ACB97F0F65E72CD29.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Poczuj, jak rusza się Ziemia",
+      "trophyDetail": "Opublikuj poziom z kontrolerem ruchu na Ziemi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/C49B5D37F4AFC65E97126C67B2A770B921851407.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Daj mu wycisk",
+      "trophyDetail": "Zniszcz bossa w grze Tylko desery",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/35CBCD1BC12D85D21827ACDA1567332E69F02EE1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oko na piłkę",
+      "trophyDetail": "Ukończ Opowieść o Claudzie, polnej myszy nie upuszczając piłki",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/67C0396F208B26E7FC321E5E4549D6FB55A832DC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jakoś się toczy",
+      "trophyDetail": "Ukończ grę Fastfood bez utraty piłki",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/70FD337C6B80F8B8D204004345D8681C33112E2C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Autoportret",
+      "trophyDetail": "Użyj obrazka jako awataru",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/E7D948562453C533BD236582E165736D655F736A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Droga do sukcesu",
+      "trophyDetail": "Użyj Rejestratora ruchu do nagrania ruchu",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/FB0A65A3947D81235FECFDACB33444B99E828E12.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Brawa na stojąco!",
+      "trophyDetail": "Wymaksuj wszystkie 5 Poziomów Opowieści",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/70E279B82B33DEA392B21EC23B87EEB5099EEC61.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Beaker może wszystko",
+      "trophyDetail": "Ukończ \"Laboratorium Mapetów!\", korzystając z mniej niż 40 beakerów",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/3411096A87F66146F5C9988FC5577B97A5FD34EE.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kapitan Świń-ard",
+      "trophyDetail": "Zdobądź 4000 lub więcej punktów w \"Świniach w windzie(w kosmosie)!\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/E341BFB843BD3BB051F2D091F291BF50D8CA2D9E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Na szczycie!",
+      "trophyDetail": "Zdobądź 2500 lub więcej punktów w \"Mięsie armatnim!\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/12282E94BA66BD809693C19195AAC1EC6B26338D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wirtuozeria Mapetów",
+      "trophyDetail": "Ukończ tryb fabularny zestawu Mapetów",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/C79834F3D20C157FC3739548AB0211CF50C51262.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trzymajmy się razem",
+      "trophyDetail": "Rozegraj 5 poziomów społecznościowych, zawierających Przyciągożel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/5A83B45411EF30C2892A1E031E69DEA93286219D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tańce na suficie",
+      "trophyDetail": "Wędrując po ścianach i suficie pokonaj 17,5 metra",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/DBF7E1886883E71117D955446BA5E6DE24B7D010.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ostatnia granica",
+      "trophyDetail": "Zostań asem wszystkich poziomów Cross-Controller",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/7CFBE29766FB815DC7EDC19E877ACCB1D34618F2.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Łowca nagród",
+      "trophyDetail": "Zdobądź wszystkie bańki z nagrodami w trybie opowieści",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/231A559186EBFAFF67FC74772F05A52CBC291BB0.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "W kosmosie...",
+      "trophyDetail": "Przejdź opowieść z pakietu Cross-Controller",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/EB5F0325D6EBB4C3E37E48393FEFB4F78A094CBD.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Astrofizyk",
+      "trophyDetail": "Przejdź wszystkie samouczki pakietu Cross-Controller",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/BF0265D1C02862D373B34C792DA709D19E5E808C.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Niezidentyfikowany Obiekt Pierzasty ",
+      "trophyDetail": "Wyhoduj i złap 10 złotych kurczaków w Drobiowej panice",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/9051408325516DF6DC0A45213FA3BAF213F5FCC8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nie mów mi o szansach",
+      "trophyDetail": "Wykonaj idealny kurs w Kosmicznej wirówce",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/F2C9CA1DA8D4583846856D62ACC3825848B7864D.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tunele Jeffriesa",
+      "trophyDetail": "Rozegraj 5 poziomów społeczności Cross-Controller",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/CC3531EFB649A32A2924DE9DF42E67D59E5148EF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Tylko dla orłów",
+      "trophyDetail": "Zostań asem wszystkich poziomów trybu opowieści w pakiecie specjalnych poziomów DC Comics™.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/FCE8B29BAD9F20C93FBFF714AE24E46D4FC86BD3.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Najwspanialsza peleryna",
+      "trophyDetail": "Utrzymaj się w powietrzu w „Pelerynie bohatera” przez 15 s.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/0007F6CE9C857858265F7AA892E2E2E2C2DA25C4.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I będzie mu łyso...",
+      "trophyDetail": "Pokonaj Lexa Luthora.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/420BF776978A53D1DADD4FD7CD3A86C933D812E9.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Najprzedniejszy bohater",
+      "trophyDetail": "W minigrze Wyścig bohaterów zdobądź mnożnik punktów o wartości min. 70.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/061973D2F12CC260EFE0EC97B84771D448268C99.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Liga Znajomków",
+      "trophyDetail": "Rozegraj dowolny poziom w pakiecie specjalnych poziomów DC Comics™ z przynajmniej jednym znajomym.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/F5BAC9B9BD7E6D654C6AB0E2159E78EA7DCCD2EE.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Superkolekcjoner",
+      "trophyDetail": "Zbierz 100% baniek z nagrodami w pakiecie specjalnych poziomów DC Comics™.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/3D51BEA6B2B497B5BCC688F20D73FBADB778A241.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cóż za gracja!",
+      "trophyDetail": "Wykonaj 10 ścianoskoków bez dotykania podłoża.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/F460E511B2E6989877240D2CE9364ECD92ABB647.PNG",
+      "trophyGroupId": "004"
+    }
+  ],
+  "totalItemCount": 79
+}

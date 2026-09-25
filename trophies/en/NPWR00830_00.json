@@ -1,0 +1,594 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR00830_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "RAGE®",
+  "trophyTitleDetail": "RAGE® Trophy Set",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/8E53DD313250C6EF5970AA6AF62EEA3257A1623D.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 47,
+    "silver": 11,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "RAGE®",
+      "trophyGroupDetail": "RAGE® Trophy Set",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/8E53DD313250C6EF5970AA6AF62EEA3257A1623D.PNG",
+      "definedTrophies": {
+        "bronze": 38,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "RAGE® The Scorchers",
+      "trophyGroupDetail": "RAGE® The Scorchers Trophy Set",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/96A5822C44B274F86E75B4D02086C3B714B2C609.PNG",
+      "definedTrophies": {
+        "bronze": 9,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Master of the Wastelands",
+      "trophyDetail": "Earn all 50 Trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/6BA035BFFBA57D35C09C612F91C78F6283AC4D6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arts and Crafts",
+      "trophyDetail": "Construct 10 Engineering Items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/D2D55E77D6B390F13035CBBAD9738D750BDAD034.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tinkerer",
+      "trophyDetail": "Construct 50 Engineering Items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/B8871BA1246F618CFCEF4B637EEA9AEF29AF53A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Passive Aggressive",
+      "trophyDetail": "Get 3 kills with a single Sentry Bot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/5F5446E51A5F4308FC1256267106DFDDC23581E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Three Birds, One Bomb Car",
+      "trophyDetail": "Kill 3 Enemies with one RC Bomb Car",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/4AF2F02009AEC3882602634173F20DE7A98540EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Keep 'Em Coming",
+      "trophyDetail": "Get 5 kills with one deployed Sentry Turret",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/BDE5F91AC4BFFC3A6C31F08DBEF223FEA5909810.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mechanocide",
+      "trophyDetail": "Kill 100 Enemies with Sentry Bots, Sentry Turrets, or RC Bomb Cars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/B0F54D471CB74B8B8B0C9F16D130D1FB0ABB7C3B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jetpacker",
+      "trophyDetail": "Kill an Authority Enforcer during Jetpack descent",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/EC408AC2BE0DAE6A0EB18BFDB9D34CA396BA0E2F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silent But Deadly",
+      "trophyDetail": "Stealth kill 10 Enemies with the Striker Crossbow",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/A08C0B255A79DD65C81736C4A45A4B2447D1799E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hat Trick",
+      "trophyDetail": "Kill at least 3 Enemies with a single Mind Controlled Enemy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/F38F253DA8BB9401B467DC1A04035D4D5AAF8F61.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Decapathon",
+      "trophyDetail": "Get 10 Headshot kills with the Wingstick",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/E7C80F8B0870719B784D111D3D8244DFA7035B59.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Open Minded",
+      "trophyDetail": "Get 10 Headshot kills with the Sniper Rifle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/563BB46FCC7426B468FAFCCB055EFDAFE393768C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jumper",
+      "trophyDetail": "Perform all 18 Vehicle Jumps",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/60A70EA13E6233EC91F620F3307CA6706B7F8D97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gotta Have 'Em All",
+      "trophyDetail": "Collect all Playing Cards on one play-through",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/8C13AA852F8C3592AB54519EA82FAFA9879ECDBC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Chef",
+      "trophyDetail": "Collect all Recipes and Schematics in one play-through",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/6EC071CF77CFBB71086BEDFCA8E3C70D837D3EE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hardest Deck",
+      "trophyDetail": "Beat Teague's hardest Deck",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/02D0EC82EE166D87AC8E2FA3608451342EFCC68F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "JACKPOT!",
+      "trophyDetail": "Roll 4 Targets in the first round of Tombstones",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/406EB9791B1649836F5836E24FCEE625BAC82054.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just a Flesh Wound",
+      "trophyDetail": "Complete the final round of 5 Finger Filet",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/21F9979A8E208554306049ACB967D9290B0FCF4B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deliverance",
+      "trophyDetail": "Complete the final round of Strum",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/7325871B2E8958F16B269D397B68A0ACC2B33D21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Minigamer",
+      "trophyDetail": "Win all Minigames",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/193876AEE86744FF72A8BD3DF2FEC880AD07893D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lead Foot",
+      "trophyDetail": "Win a Race in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/E3BC944E328E052AB68F594C6FC862797568D2D8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rage Cup",
+      "trophyDetail": "Win all Races in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/6382D379ADCB4E017A57585AE3628A3FDFEA7911.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demolition Man",
+      "trophyDetail": "Destroy 100 Enemy Cars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/790A09B53A7876C8EFBF7C049EB6E92A8AA0EA23.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's Good!",
+      "trophyDetail": "Score each of the 3 Field Goals from the ATV",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/5978C8B4B9E64F33DE62FBE1C3F934B3FE51B068.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Roadkill",
+      "trophyDetail": "Run over 10 Mutants",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/9062D952D4A34BB243368E6F4099215B8AE2BE2D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ghost Buster",
+      "trophyDetail": "Complete Ghost Hideout in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/D851A71883FFA2FDBCDF7E1C79F6F827B03CFAF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Waste Management",
+      "trophyDetail": "Complete Wasted Garage in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/20AB5BD068E710541FB0A9735AA5EEA4A1EFC618.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gladiator",
+      "trophyDetail": "Complete Mutant Bash TV in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/36A6935A5E2264E4B00546375876FD4D0CB9066D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's Alive!",
+      "trophyDetail": "Complete Dead City in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/53681E58E7116ACD6C45012BC8FC43DF89365B0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wellness Plan",
+      "trophyDetail": "Complete The Well in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/07D8206FD9B6D8D2049F19F1BAF7126EAC404016.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Debunked",
+      "trophyDetail": "Complete Shrouded Bunker in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/997C468F8CA9649F1150C243DB2FF7484E15C73E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ytiC daeD",
+      "trophyDetail": "Complete Dead City Reverse in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/25BF528205473D721EEC4AF58D59504E8EBDE311.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jail Break",
+      "trophyDetail": "Complete Authority Prison in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/7E99F74C8903653BBB1B2BEF0A7EFA4D61256701.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vault Assault",
+      "trophyDetail": "Complete Gearhead Vault in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/92A19F17CFB89D731CDED2A88AB61EC1C4E870FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power Struggle",
+      "trophyDetail": "Complete Power Plant in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/F9C0B141D995304C2990FF10F48FCDEB3E70AF65.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Decrypted",
+      "trophyDetail": "Complete Jackal Canyon in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/DE109A0566785920587F96C13579D2D42EDE5C58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mutie Blues",
+      "trophyDetail": "Complete Blue Line Station in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/CC867944995CEEA5F1E18DFDE1AEB1065E08CB58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bringin' Home the Bacon",
+      "trophyDetail": "Earn 750 Dollars in one episode of Bash TV in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/9B606ADB0B0EC48AA432A28D67029A5A44572EE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mr. Oddjob",
+      "trophyDetail": "Complete 5 Job Board Quests in one play-through",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/C1E163BD61BBA06CF54C4D2A21CCF7F8CA1AEF9F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dev Graffiti",
+      "trophyDetail": "Find the secret Developer Graffiti Room",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/CCB4CB5FD11FF44F785D24FE8E09AF7D644523AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hey, not too rough",
+      "trophyDetail": "Finish the Campaign on any difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/1AB88A27739A3D364F6001714A6502538B61B5D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hurt me plenty",
+      "trophyDetail": "Finish the Campaign on at least Normal difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/6D58149B90DEE550417BC7A9C03D8AB522A0B972.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ultra-violence",
+      "trophyDetail": "Finish the Campaign on at least Hard difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/33860EEC092BEAB394923D87FB7DA9F183A69D55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "RAGE Nightmare",
+      "trophyDetail": "Finish the Campaign on Nightmare difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/EF2281D8B32652870DE37BCB64EDEEE7AF0905E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Obsessive Compulsive",
+      "trophyDetail": "Reach 100% Completion in the Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/8E913F90E98083CB458B3891D9D24C398B06AD49.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Legend Begins...",
+      "trophyDetail": "Complete a Legend of the Wasteland",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/F33935EF720287BE2BC55866ED9F3AD3BCA900D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Anthology",
+      "trophyDetail": "Complete all Legends of the Wasteland",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/32CAD6E34E7EB6C66F0CE66676EDC22AACBF83D8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A True Legend",
+      "trophyDetail": "Complete a Legend of the Wasteland on Nightmare difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/ABFFDB099FCF138C95C805AAB12677E753425261.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Room for Sidekicks",
+      "trophyDetail": "Complete a Legend of the Wasteland without any player(s) becoming incapacitated",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/35EE1499250256C91A268B0DA06F278DBE52480A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fresh Meat",
+      "trophyDetail": "Complete a public Road RAGE match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/8074E991D07682C1958F388015EFEDB1CA701C23.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "MVP",
+      "trophyDetail": "Get first place in a public Road RAGE match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/F76919DE3D41C1C1035A73711B4EAB326244C218.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Night Terrors",
+      "trophyDetail": "Finish the Campaign on Ultra Nightmare difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/65A4E8706C5FF4111A7FBDA7D517CD5784869F1A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cavernous Stumble",
+      "trophyDetail": "Complete Hagar Caves in The Scorchers job path",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/0B813E57CC1FC62CE423C02FB4DEED54825DFE91.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Plans Refined",
+      "trophyDetail": "Complete Refinery in The Scorchers job path",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/44166689201CD3D7D34F7C96701B1026F08EBEE4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thrash Canyon",
+      "trophyDetail": "Complete Bash Canyon in The Scorchers job path",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/3A75B31051883BA850C348AEB1C62F8B5175B44F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fired Up!",
+      "trophyDetail": "Complete Scorcher Base in the The Scorchers job path",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/E2F7D8AF192FA7F2754ADB74D632640DC974A154.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucky Charms",
+      "trophyDetail": "Bet and win on Green in the Roly-Poly minigame",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/5C82D2C722A804531017C72A0DBC2C8FD9919E43.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Foursome",
+      "trophyDetail": "Win with a Four of a Kind in the Video Poker minigame",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/EC243FADBFEF3B87FC95C4190F7DE43FDDE7BD7B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wall Hack",
+      "trophyDetail": "Kill 2 enemies with one Railgun Slug shot through a wall",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/3DB48AACE77EC8FFB1B99EE8AA8DAAA83D26A42B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rebar Pie",
+      "trophyDetail": "Pin an enemy to a surface with a Rebar ammo shot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/FB141B22ABD33D9D12E092CBFD6765B0E4289CF4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rite of Passage",
+      "trophyDetail": "Complete Wellspring Tunnels in The Scorchers job path",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/0CF69461BDF8627922056760A69DCCA39DCD7AE8.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 61
+}

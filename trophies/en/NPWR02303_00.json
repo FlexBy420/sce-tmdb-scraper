@@ -1,0 +1,414 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR02303_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "PAYDAY: The Heist",
+  "trophyTitleDetail": "PAYDAY: The Heist",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/1A5FDDDFD26EF5CD1E10455870CE81C2A19345E9.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 22,
+    "silver": 12,
+    "gold": 6,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "PAYDAY: The Heist",
+      "trophyGroupDetail": "PAYDAY: The Heist",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/1A5FDDDFD26EF5CD1E10455870CE81C2A19345E9.PNG",
+      "definedTrophies": {
+        "bronze": 18,
+        "silver": 11,
+        "gold": 5,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "WOLF PACK",
+      "trophyGroupDetail": "WOLF PACK",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/DDFF23CAF1F900B85395B447F517547731D3E2B7.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "OVERKILL",
+      "trophyDetail": "Do it all.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/13DB83B23978ABA58F9401055C973589E9A8E674.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diplomatic",
+      "trophyDetail": "Perform a hostage trade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/58AB10568D270A50115AE0A9903F8A41968CE63A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eagle eyes",
+      "trophyDetail": "Point out a special enemy using the \"shout out\" command.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/F6F6D10EDC0E4F00283D17DBDAD404A51E540B6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cheney?",
+      "trophyDetail": "Defeat a Bulldozer with a shotgun.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/C40ADC24477FA0133D350AA0934E4B81D190B1CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Intimidating",
+      "trophyDetail": "Get a Heavy SWAT to give up.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/E13542B5D1A4BA481C4B36D6223F210EB692423E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Left for dead",
+      "trophyDetail": "Finish a heist in custody while all your team mates are alive. (4 teammates).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/5564CE51E4D5A0E92E8229AED1D051F100D48E15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Last man standing",
+      "trophyDetail": "Beat a heist after having been the only one alive. (4 teammates).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/58C64E9B11BD90552AB8BB46FEC4BE0887032595.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blood in, blood out",
+      "trophyDetail": "Trade all the butchers in SLAUGHTERHOUSE. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/6990D659DD4BC902FBE32647BB6D38EF3D3A0869.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dodge this!",
+      "trophyDetail": "Beat a heist on normal difficulty or above, having killed a Bulldozer without taking damage from any Bulldozer. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/A92E8D357D244AF7B8C48F446239AE0ECA897657.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A bridge too far!",
+      "trophyDetail": "Complete the GREEN BRIDGE on hard or OVERKILL difficulty. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/6889E32645BE248A46E7912733FC7A436ABCFA12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "But how?",
+      "trophyDetail": "Get the armored car to drop without shooting at it in SLAUGHTERHOUSE. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/A25FAD3CE2EAB407126713A952645ECD77A094AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Windowlicker",
+      "trophyDetail": "Defeat a law enforcer planting C4 in FIRST WORLD BANK on hard difficulty or above. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/71A00B22B20DD2FAECA55AE5D329A5B3A0987C38.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Civil disobedience",
+      "trophyDetail": "Defeat 100 law enforcers in a single heist.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/73F3E1D7FA9FC6EE5B275DDD916AFF2F612CA573.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Are there more than two?",
+      "trophyDetail": "Find ten money bundles in PANIC ROOM.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/21891530F0F7CC5953CEDCD63E3656918BCD3823.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Darkness",
+      "trophyDetail": "On GREEN BRIDGE, destroy all the lights in the main scaffolding tower. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/A8D58B029D48AF12B715F559F76C6802F6EBEEA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You can run but you can't hide",
+      "trophyDetail": "In PANIC ROOM, take the key from Chavez within the first 45 seconds of starting the mission. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/83BF0E34822B83AC4B7C156D28119D5AA6F4101A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shinobi",
+      "trophyDetail": "Bypassing all 3 consoles before raising the alarm, beat DIAMOND HEIST on hard or OVERKILL difficulty. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/B410B03AA52901982C9770EB822298BACE7030E2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I ain't afraid no more",
+      "trophyDetail": "Gain a level in the Assault tree during an assault.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/22B98766CBD20799CCC84FCC680953FA1A612000.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crack-bang",
+      "trophyDetail": "Gain a level in the Sharpshooter tree with your last kill being a Sniper.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/5E14D89F217A4C7CD049D73E7A421C406B6487FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lay on hands",
+      "trophyDetail": "Gain a level in the Support tree while reviving a teammate.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/8E7260FEFCEDDA036AA40411379E66C6590E016B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Are those the blue ones?",
+      "trophyDetail": "Steal all the sapphires in DIAMOND HEIST on hard or OVERKILL difficulty. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/89BC64CB9157141ECBABD7BF1D16805078244142.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gold digger",
+      "trophyDetail": "Beat SLAUGHTERHOUSE within 15 minutes, taking all the gold. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/962FADA897B0EFE3F183F45CCA46D2F8F3201AAC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stand together",
+      "trophyDetail": "Beat HEAT STREET on normal difficulty or above without anyone getting downed. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/1AC5EAFB4DB879E48AF88A51E4D916D68A78EE35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Quick draw",
+      "trophyDetail": "In PANIC ROOM, kill all armed thugs in and around the apartment building within 60 seconds of you and your crew drawing your weapons. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/C005D9A5F1EF39B9610F09F0BD33F2632E988569.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "No photos",
+      "trophyDetail": "Destroy all the cameras in FIRST WORLD BANK within 10 seconds of drawing your weapons. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/E2AA2737F16236B4DF384682D0D509764BEA1B0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hot lava",
+      "trophyDetail": "Don't let any law enforcers reach the graffiti on the center of the roof in PANIC ROOM from the SECURE THE ROOF objective until the ESCAPE objective on hard or OVERKILL difficulty. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/E6FB56377022FB9FBB3B8D87E88801A41C9688C1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Federal crime",
+      "trophyDetail": "Defeat 25 FBI agents in a row.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/D7763AF39C8A0BC6E9FC7715227D431DEF5CC33B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "One shot, one kill - repeat",
+      "trophyDetail": "Get 30 kills using 30 shots, using only the M308 Rifle.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/6E3A9BB074E374685B8750BF0CA90AF666E6D5F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bomb man",
+      "trophyDetail": "In DIAMOND HEIST, defeat all twelve Patrol Guards using only trip mines. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/3BD94EE99D4F15860BE87F9446D5A80B426D2D01.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Are you ready yet?",
+      "trophyDetail": "In DIAMOND HEIST, get Bain to come back for you at least 7 times on hard or OVERKILL difficulty. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/7A235075E8488C724EA7DEAE96461C8517703E1B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Easy street",
+      "trophyDetail": "Beat HEAT STREET on OVERKILL difficulty, with your group accuracy being at 60% or higher. To complete this challenge, everyone in your crew will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/BB280D8770C8CA062AE42E73D28D9EF3FB9D6F40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "I pushed the button and lived!",
+      "trophyDetail": "In DIAMOND HEIST, get the big diamond and escape on OVERKILL difficulty with you and all your team mates alive. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/5FA4A05699F9B32B1368AE9BBE63CB207EB67C87.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Noob herder",
+      "trophyDetail": "Beat any heist on OVERKILL difficulty with three other players who are all using the Noob Lube perk. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/51F05A4A9D32477D76995AA2FFC3A38F0A3DE011.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Don't lose face",
+      "trophyDetail": "Beat all heists on OVERKILL difficulty without anyone getting traded from custody. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/A50F2E3D0CDA9207B78A5D8B4EA7A174BC48D15C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "PAYDAY",
+      "trophyDetail": "Aquire one billion dollars in total cash. One. BILLION. Dollars.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/A8DE2BC610AFD8308AA38211D78013D978524F67.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crowd Control",
+      "trophyDetail": "Beat COUNTERFEIT without letting any hostage escape or die. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/F7A16D2487B83C8726514A67A583A69DEEBDE2BC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Detective Gadget",
+      "trophyDetail": "Beat any heist using the STRYK Pistol, AK Rifle, GL40 Grenade Launcher, Toolkit upgrade, Sentry Gun equipment and Big Game Hunters crew bonus. To complete this challenge, you will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/E43FD843014CA19CE904CD70B6747B7EB40940ED.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quick hands",
+      "trophyDetail": "On COUNTERFEIT, manage to defuse all C4 charges.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/501F93E4A08FB6B17F058F344BA6B983E43560CF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Saviour",
+      "trophyDetail": "On UNDERCOVER, place 20 planks by yourself on windows, vents or fences.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/2677E20BA55D9FF58E56AF8E035A21D45C63EB85.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Blow-out",
+      "trophyDetail": "Beat UNDERCOVER with everyone in the crew only using the GL40. To complete this challenge, everyone in your crew will have to have played the heist from the start. Using melee does not count towards this challenge!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/0E3C2EDB2862A9F09868631D428F24EB3FA851BE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Pacifist",
+      "trophyDetail": "Beat COUNTERFEIT on hard difficulty or above without killing any law enforcers or civilians. To complete this challenge, everyone in your crew will have to have played the heist from the start.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/DDAAED975BAFB58884632AC39574B4D4F8585EFC.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 41
+}

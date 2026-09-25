@@ -1,0 +1,798 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01478_00",
+  "trophySetVersion": "01.05",
+  "trophyTitleName": "BioShock Infinite",
+  "trophyTitleDetail": "BioShock Infinite Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/DEF5791FB8CC86CFAD8F32AD3FE2BEC8D3BADA93.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 55,
+    "silver": 24,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "BioShock Infinite",
+      "trophyGroupDetail": "BioShock Infinite Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/DEF5791FB8CC86CFAD8F32AD3FE2BEC8D3BADA93.PNG",
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 15,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Clash in the Clouds",
+      "trophyGroupDetail": "Trophies for the Clash in the Clouds Additional Content",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/CFA56C6301E62D76CD92A8C0D50CAF353BB89ED1.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Burial at Sea - Episode 1",
+      "trophyGroupDetail": "Trophies for the Burial at Sea - Episode 1 Additional Content",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/9542C899929F0B5B64989512CF3C9A9137C573C4.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Burial at Sea - Episode 2",
+      "trophyGroupDetail": "Trophies for the Burial at Sea - Episode 2\n Additional Content",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/74B95294209605CEB828E3A76518B4539B6E5B33.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Columbia",
+      "trophyDetail": "Acquire all other trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/4A1DC43B94942A3CE815C355F5081C653D38F6A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Written in the Clouds",
+      "trophyDetail": "In the Main Campaign, completed Lighthouse.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/8FA89255682654CEC51E3C33059A1962933049DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to Monument Island",
+      "trophyDetail": "Reached Monument Island.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/A3EEF3C25A7472991A581C00C083659EA81C9767.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Shock Tactics",
+      "trophyDetail": "Retrieved Shock Jockey.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/A6B0F2F9335A03B5ECFBFF207BD5839B5E9F0633.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "First Class Ticket",
+      "trophyDetail": "In the Main Campaign, boarded The First Lady.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/5AB5989A105A27C470578E03FC0CE0E6046803BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Armed Revolt",
+      "trophyDetail": "Assisted the gunsmith.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/4EBBC16B20C7DDE251DB56499B741534EA4A31AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Working Class Hero",
+      "trophyDetail": "In the Main Campaign, completed the Factory.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/3B2C06052F9188F3094207869F68D62A1D2A6E60.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Blood in the Streets",
+      "trophyDetail": "Completed Emporia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/2828C74DF6639942CEF335A7DA6A6924FEB67DCF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Higher Learning",
+      "trophyDetail": "Completed Comstock House.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/ED25AFBE591A6985AF2B4CE1CF6C0BDC97B5B196.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Bird or The Cage",
+      "trophyDetail": "Completed The Hand of the Prophet.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/3C2970DAB34859564B9F5FC128A7CE6A2CFB6B69.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tin Soldier",
+      "trophyDetail": "Completed the Main Campaign on Easy difficulty or above.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/D25FB8C2A2938C4C0310CB8DE264422DA85DE60D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Saw the Elephant",
+      "trophyDetail": "Completed the Main Campaign on Normal difficulty or above.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/DCF5110CEA68547886639E413FE1B2AAC2A3B97D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stone Cold Pinkerton",
+      "trophyDetail": "Completed the Main Campaign on Hard difficulty or above.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/9E6A306724B650B9FE2AE7E113645342634F7F2A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Auld Lang Syne",
+      "trophyDetail": "Completed the Main Campaign on 1999 Mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/CC633CAA9C0DA2C80B03F5389FA90BC15E3496B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Should Auld Acquaintance...",
+      "trophyDetail": "Unlocked 1999 Mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/D13004BF63CDD708D9B00F61DE68C2060149B46D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Industrial Accident",
+      "trophyDetail": "In the Main Campaign, killed 20 enemies with a Sky-Hook Execution.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/ECEE637AEDDCD39CD4841F95C2F22EDD6A3031F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aerial Assassin",
+      "trophyDetail": "In the Main Campaign, killed 20 enemies with a Sky-Line Strike.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/691F9B97B03287C3E8B80AE3BFF7FE13F6E655D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Real Pistol",
+      "trophyDetail": "In the Main Campaign, killed 25 enemies with the Broadsider Pistol.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/2D6BF75791AC9897C63EE402F6083C86AB6AC75F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Passionately Reciprocated",
+      "trophyDetail": "In the Main Campaign, killed 150 enemies with the Founder Triple R Machine Gun or Vox Repeater.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/726C7DBEFE74E91EA33E7FBF90E75E90F8C1A713.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Street Sweeper",
+      "trophyDetail": "In the Main Campaign, killed 50 enemies with the Founder China Broom Shotgun or Vox Heater.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/99FA750939AC0A2FD1121EBB75AD09002FEF163B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Game Hunter",
+      "trophyDetail": "In the Main Campaign, killed 100 enemies with the Founder Huntsman Carbine or Vox Burstgun.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/7D9E247738712CC9F80265F19A80AA2F487A3FB5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Loose Cannon",
+      "trophyDetail": "In the Main Campaign, killed 25 enemies with the Paddywhacker Hand Cannon.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/E74E0B95871F2E19F45D628C5CE1EA04C43B92FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On a Clear Day...",
+      "trophyDetail": "In the Main Campaign, killed 30 enemies with the Bird's Eye Sniper Rifle.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/7C9E65BEA2AF06828F4884E134602C8B7B502AF0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Here Little Piggy",
+      "trophyDetail": "In the Main Campaign, killed 30 enemies with the Founder Pig Volley Gun or Vox Hail Fire.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/88EDC67C9B1F531888EACA921DE9F554FF3B64AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Pyrotechnics",
+      "trophyDetail": "In the Main Campaign, killed 20 enemies with the Barnstormer RPG.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/8099180FF6F991C531041409EC6ACDDB90B7A118.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seasoned to Taste",
+      "trophyDetail": "In the Main Campaign, killed 30 enemies with the Peppermill Crank Gun.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/5818043D542D5FCDD45583B2A769CDD7B70D1290.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Well Rounded",
+      "trophyDetail": "In the Main Campaign, used all 8 Vigors against enemies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/80FA831F4E5489FEB1DBC402E74D229B25EE58DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vigorous Opposition",
+      "trophyDetail": "In the Main Campaign, killed 75 enemies either with a Vigor or while the enemy is under the effects of a Vigor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/3B38276A3ACF94C82FBD43ED9C4584702C2A06DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "More for Your Money",
+      "trophyDetail": "In the Main Campaign, lured 3 enemies into a single Vigor trap 5 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/38B53E84F76F602FDC3A0D647C073E3E614F1743.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Combination Shock",
+      "trophyDetail": "In the Main Campaign, performed all 8 of the Vigor combinations.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/87E714D67D13FD3506F8DFC3665A54C5B55C8578.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mind Over Matter",
+      "trophyDetail": "In the Main Campaign, killed 20 enemies using Possessed machines.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/77900A911E4FF234F626FAA616F05F28467F3BD3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tear 'em a New One",
+      "trophyDetail": "In the Main Campaign, opened 30 Tears.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/C270E31D4080FC48013365F2DBE9D5C24C62C82E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Strange Bedfellows",
+      "trophyDetail": "In the Main Campaign, killed 20 enemies using allies brought in through a Tear.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/8B18B291504B13D83DC291212C939A3BC7C22792.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On the Fly",
+      "trophyDetail": "In the Main Campaign, killed 30 enemies while riding a Sky-Line.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/AF651DCF78DACC92E09C1C8E02B9A6F0D0DE3602.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bolt From the Blue",
+      "trophyDetail": "In the Main Campaign, killed 5 enemies with a headshot while riding a Sky-Line.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/3F9B2616FEF464F77C6B196FB5A1239A2415F0CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hazard Pay",
+      "trophyDetail": "In the Main Campaign, killed 10 enemies by utilizing environmental hazards.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/4FCCAC59BCD65EA0FAFA2927B90A24EF91104950.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bon Voyage",
+      "trophyDetail": "In the Main Campaign, killed 20 enemies by knocking them off Columbia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/0A7059D1689B48DADDCD86FBA6300AEF7A166C4C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Skeet Shoot",
+      "trophyDetail": "In the Main Campaign, killed 5 enemies while they are falling.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/2C77B419AC0671CD8A82DF70DA22E5B44FACEEC8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lost Weekend",
+      "trophyDetail": "In the Main Campaign, killed 5 enemies while you are drunk.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/DCD24486EA6CD928F38D6FDF853936B388C3379D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "David & Goliath",
+      "trophyDetail": "In the Main Campaign, killed 20 \"Heavy Hitter\" enemies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/FF2CFB5D940118D7D933B586EBAAA1782A11533C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heartbreaker",
+      "trophyDetail": "In the Main Campaign, killed a Handyman by only shooting his heart.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/E86578F23CBAA28E8A1FD1E46CD40151511121E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dress for Success",
+      "trophyDetail": "In the Main Campaign, equipped a piece of Gear in all four slots.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/B9DB05C21CC41588A978BA244B99C41ED1B82994.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kitted Out",
+      "trophyDetail": "In the Main Campaign, fully upgraded one weapon and one Vigor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/9F63BAF6FBAA8DCA38382372E349548D1EEE275F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Raising the Bar",
+      "trophyDetail": "In the Main Campaign, upgraded one attribute (Health, Shield, or Salts) to its maximum level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/4A2873BDE889266F8D08367184574411DEFC7ADD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infused with Greatness",
+      "trophyDetail": "In the Main Campaign, collected every Infusion upgrade in a single game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/36AC740C67B92CF5710F6837D55919B33B037D5C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sightseer",
+      "trophyDetail": "In the Main Campaign, used all telescopes and Kinetoscopes in the game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/CF1C43461AD8626C0E2663BC42E92DF95DA77014.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Roguish Type",
+      "trophyDetail": "In the Main Campaign, used Elizabeth to pick 30 locks.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/E2ABD603F9F3B7A9811BDA34AA850F01D2647E8D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Eavesdropper",
+      "trophyDetail": "In the Main Campaign, collected every Voxophone.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/4171C0D70284DC6A41F04794AAB085F3243DD425.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grand Largesse",
+      "trophyDetail": "In the Main Campaign, spent $10,000 at the vending machines of Columbia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/B8272350605F4E9C5012C203126D50C977D2D8F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Coins in the Cushion",
+      "trophyDetail": "In the Main Campaign, looted 200 containers.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/9C41A5704BB062F2CD2B95C0CCEE0D93B38CA59A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Scavenger Hunt",
+      "trophyDetail": "Completed the Main Campaign in 1999 Mode without purchasing anything from a Dollar Bill machine.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/BAEECDDF6F7BD1C8678A62BBAA638F35DF1AD878.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Friendly Skies",
+      "trophyDetail": "Defeated all waves in The OPS Zeal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/1299133826A7FF34495DEF6E25FB6CAE0DE9D3A1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Duke or Dimwit?",
+      "trophyDetail": "Defeated all waves in Duke and Dimwit Theater.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/061DB45DF25D18AD706288E6AEE4AAE2B348B3E1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rooftop Ruffian",
+      "trophyDetail": "Defeated all waves in Raven's Dome.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/6150B583F26A6353571A71EAF8DF3AE3BE5AED5B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hand of the Prophet",
+      "trophyDetail": "Defeated all waves in Emporia Arcade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/D3080AB5A9F0E0AB7D5BFB396578E28EFE52A27E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Museum Curator",
+      "trophyDetail": "In CitC, unlocked all Gallery items.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/FF036845784478BC41A7398335F7B42BD9189500.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sergeant-at-Arms",
+      "trophyDetail": "In CitC, got a kill with each weapon and vigor (except Bucking Bronco).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/6987821650FDD17CF88D3B853885EDD622AAFB2A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rope-a-Dope",
+      "trophyDetail": "In CitC, knocked an enemy off the city with Undertow, then rescued him, then knocked him off again.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/33A4BB188B38B26B014D4B2BB1CA1A9A55697185.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Ol' One-Two",
+      "trophyDetail": "In CitC, used all eight different vigor combos to deliver the killing blow on an enemy.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/BCF5335AD9D649009B2FB10EB3F48F081F948058.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Missile Defense System",
+      "trophyDetail": "In CitC, killed an enemy with splash damage by shooting a rocket out of the air.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/3666E27EACF3062B2F9958510EA6961E6B95269E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Blue Ribbon Champ",
+      "trophyDetail": "In CitC, completed all Blue Ribbon Challenges.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/F1F1210CB45993A907320B516F42958D46AF8997.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Down in the Briney",
+      "trophyDetail": "Took a Bathysphere ride in Burial at Sea - Episode 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/26E39378859BBA2B897DBCFD6D1D4253A07A5199.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Burial at Sea",
+      "trophyDetail": "Completed Burial at Sea - Episode 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/A77A5F22CC33988ECE470E1DB74C42EA8CB5A797.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Audio Enthusiast",
+      "trophyDetail": "Collected all Audio Diaries in Burial at Sea - Episode 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/02DDA4EA4FF4A2421F753130DC1017CA8D4C69E9.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fully Equipped",
+      "trophyDetail": "Purchased any two upgrades for Old Man Winter or Radar Range in Burial at Sea - Episode 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/41ABF9DDF21F3920643938B65637078FC9D0BBC3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Confirmed Luddite",
+      "trophyDetail": "Destroyed ten Turrets in Burial at Sea - Episode 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/2B05EBC682ADD345905075CDFE789040215A0B91.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cook and Serve",
+      "trophyDetail": "Made 5 enemies explode with the Radar Range in Burial at Sea - Episode 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/F4A3151A71A98148E89FE2C8E75ED39325627BF2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Chain Reaction",
+      "trophyDetail": "Damaged fifteen foes with an exploding enemy, using the Radar Range in Burial at Sea - Episode 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/3F2C8FD564277A321090945E22E3AF18DAC02097.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Break the Ice",
+      "trophyDetail": "Shattered 5 enemies who had been frozen with Old Man Winter in Burial at Sea - Episode 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/DC4304EAC8C15026616DBFB6070141639B046F83.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Snowball Effect",
+      "trophyDetail": "Froze 2 enemies with the same Old Man Winter trap in Burial at Sea - Episode 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/4AB898545719F5477FBC7FB3140BB32CF955EB4D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Going Places",
+      "trophyDetail": "Rode the tram in Burial at Sea - Episode 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/3AA040D582B222B0E8E7948AF5023635BECBE483.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Up and Running",
+      "trophyDetail": "Repaired the machine in Suchong's lab in Burial at Sea - Episode 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/F4B964063E4AE31E8F4C7556EAE0E8EDF58FA865.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mein Hair",
+      "trophyDetail": "Delivered the hair sample in Burial at Sea - Episode 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/BC24162A1EF17AFC609C9EC1D6BCC49EDE8C7649.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Paid in Full",
+      "trophyDetail": "Completed Burial at Sea - Episode 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/7A711149312382A3E319DE337C1801F2ACEFBC2A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Whole Story",
+      "trophyDetail": "Collected all Audio Diaries and Voxophones in Burial at Sea - Episode 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/4E47D9A4748F64C7A3A6FBEFB4D912DEBD529C3B.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Taffer's Delight",
+      "trophyDetail": "Completed Burial at Sea - Episode 2 in 1998 mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/7F740CE10B0073E3D2FEED26E3626D313E9310D7.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Making Some Noise",
+      "trophyDetail": "Gained five noisemakers through lockpicking.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/6C9D67EADD23211D4FE4333C7588E236CBCC05E3.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Twofer",
+      "trophyDetail": "Knocked out two or more enemies using the same Gas Bolt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/C2D944AA32B557484F751481194FC9C8594C575C.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glutton for Punishment",
+      "trophyDetail": "Used Ironsides to collect 20 rounds of ammo or more in Burial at Sea - Episode 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/4602FDCA5C4E3A386775C07E345CED6DC05C8A2A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dead Drop",
+      "trophyDetail": "On three occasions, knocked out an enemy after silently dropping off a Freight Hook. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/8E471F1BC68CB92D7F1850AD77051B22D7F1D1F4.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Never Saw It Coming",
+      "trophyDetail": "While invisible, used Peeping Tom to knock out 15 enemies with a melee attack.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/25E7E60C3ED138238D99FDFBA1429EE136E88F42.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 81
+}

@@ -1,0 +1,612 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01392_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "Duke Nukem Forever",
+  "trophyTitleDetail": "Trophäen für Duke Nukem Forever",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/23EC681F1F58833C411312F81AFBC7AE4C35AEE2.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 50,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Duke Nukem Forever",
+      "trophyGroupDetail": "Trophäen für Duke Nukem Forever",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/23EC681F1F58833C411312F81AFBC7AE4C35AEE2.PNG",
+      "definedTrophies": {
+        "bronze": 38,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Trophäen der Inhalte zum Herunterladen",
+      "trophyGroupDetail": "Trophäen der Inhalte zum Herunterladen",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/B7870FE9B939FBCA8D06A3A19F41C0F9C8478496.PNG",
+      "definedTrophies": {
+        "bronze": 12,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Retter des Universums",
+      "trophyDetail": "Du hast sie alle!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/69B7997D95164748B09092DE18887341088094C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ausrottung",
+      "trophyDetail": "Erledige 50 Aliens",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/E578B29849CECEE9B543377B5FD614D8CE78EF5C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vernichtung",
+      "trophyDetail": "Erledige 100 Aliens",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/02209BA0085691840C35B40D85F9A18D04AFC7A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nukleare Zerstörung",
+      "trophyDetail": "Erledige 250 Aliens",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/69DEAA29F98110A5D4EAA8930D324513ED299604.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Auf die Birne",
+      "trophyDetail": "Erledige 30 Aliens durch Kopftreffer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/8B5A11DE6A47DA772A4652CA6E0F93479DD79C20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stampf-Hammer",
+      "trophyDetail": "Stampfe 12 Aliens platt",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/73F3471DEDFA102D0E94F9B224FA247522096B02.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Richter und Henker",
+      "trophyDetail": "Exekutiere 20 Aliens",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/D39EF65FE0A1B79D35926CB4602CBB3E5B4CF52A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fallensteller",
+      "trophyDetail": "Erledige 10 Aliens mit Kontaktminen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/9C3A726222DE74969841BC32E0B795DD66614836.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frieren Sie wohl!",
+      "trophyDetail": "Erledige 15 gefrorene Aliens",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/5A6589DEA62DA41A62B1E77C9008CFA8B5006A0E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gewalt auf der Straße",
+      "trophyDetail": "Erledige 15 Aliens mit dem Monstertruck",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/061C115119FAEBEEC9D10142A2DD1B3C1637FFDE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Matschgabel",
+      "trophyDetail": "Erledige 6 Aliens mit dem Stapler",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/9389E6F5F33996A70B3CD39D0927BA051FAD07DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Verdammt nützlich",
+      "trophyDetail": "Erledige 10 Aliens mit herumliegenden Explosivstoffen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/9F9351C6C57DD9AD378E49FAB2F98B9706779615.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Luftnummer",
+      "trophyDetail": "Erledige 10 Aliens mit geworfenen Objekten",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/4DE00AE5C4A30BF58CA9758047844D36712C4C7D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Duke sauer, Duke hauen!",
+      "trophyDetail": "Erledige 15 Aliens durch Nahkampfattacken, während du auf Steroiden bist",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/4FDC2332D9EF9432C46042E22E23C96D3F05F57B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mampf",
+      "trophyDetail": "Iss während der Einzelspieler-Kampagne 10 Nahrungsmittel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/2F9C6A7D124C6B002F28CF40FA3514203FC75423.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dreifach-Naturkatastrophe",
+      "trophyDetail": "Erledige 3 Aliens gleichzeitig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/A11B0522824FEA14DA342464A37A79D6D6899191.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ganzkörpermassage",
+      "trophyDetail": "Lass dich 10 Mal niederschlagen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/2E90FBB11A8B68704B8037043310578355365458.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kacke-Dieb",
+      "trophyDetail": "Finde und stiehl ein Stück Scheiße",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/BFC578CD31B48B42B185F5A1BCAADBF7B72E403F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ich brauch 'n Handtuch",
+      "trophyDetail": "Lass dich von 10 Pregnator-Bomben treffen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/F0909F1700EA52F4A1B25A7C8D4FFD5F5F1187C7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Baron von Nukem",
+      "trophyDetail": "Schieße 20 Alien-Jäger ab",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/2FC9E33D49927C465FBA66AEFBF4F1DEB94EA277.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Warteschleife",
+      "trophyDetail": "Höre dir sämtliche Telefon-Nachrichten an",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/57E206AB11C342D4CE4B4CC562A8F221BEC8FEE1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blechkopf",
+      "trophyDetail": "Finde alle 3 Helme in der Einzelspieler-Kampagne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/9FFBC4C22612960C76842DE3DEB4EC7FB609E1E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Partyfreak",
+      "trophyDetail": "Trinke sämtliche Biere im Strip Club",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/41FA2922CB8A56E2A8896164F1885249E52D4BE8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fischphobiker",
+      "trophyDetail": "Erlege sämtliche Katzenfische im Unterwasser-Level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/D8E01C934DA8EBC1FA3287854D8F7659C5FCDADC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zeichner",
+      "trophyDetail": "Kritzle etwas auf das Whiteboard in der Einzelspieler-Kampagne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/391DCD4BB3C28873974EB89D09F7978ABBDFE1A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ich brauch 'n Date",
+      "trophyDetail": "Schlage jede Seite eines Kalenders in der Einzelspieler-Kampagne auf",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/158D611474316C5EC752F3D540FFDE90879C4A72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Klebriges Bömbchen",
+      "trophyDetail": "Hefte eine Kontaktmine an ein lebendes Alien",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/B083C93E6751B035B25F8602103C7A2C05D36434.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Große Knarren, große Schiffe",
+      "trophyDetail": "Jage 5 Kampf- oder Versorgungsschiffe in die Luft",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/C67D1635791F727A48F78396E0D89712768C821C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Air-Duke",
+      "trophyDetail": "Gewinne im Strip Club ein Airhockey-Spiel mit 7:0",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/6ADC9CC2C9E649687AB4E690B4C0BEF69A20935C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Eier aus Stahl",
+      "trophyDetail": "Hol beim Flippern in der Einzelspieler-Kampagne 1.000.000 Punkte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/DB16A38A9B384180356472C74E38154D58895BFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ein Fläschchen Gekicher",
+      "trophyDetail": "Trinke ein Bier in der Einzelspieler-Kampagne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/38A60B13317DD0353BEAFB6B3AFE5D7ACDB1F08B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frühstück für Helden",
+      "trophyDetail": "Nimm Steroide in der Einzelspieler-Kampagne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/804553F890966BD403AE55F67D8C53647548A8F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Er hat ein Hologram!",
+      "trophyDetail": "Verwende einen Holoduke in der Einzelspieler-Kampagne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/B64CF2EF0ABF319438E58193840B165622812BB8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Betäubungsmittelabhängiger",
+      "trophyDetail": "Trinke in der Einzelspieler-Kampagne Bier, während du auf Steroiden bist - oder umgekehrt",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/E384B1E5EF8A7A23D82BE011F4CD99ABE39ADFEC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ich bin durch und durch Mann",
+      "trophyDetail": "Entdecke sämtliche Ego-Auszeichnungen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/45E1DC01ED3EA8422D7B8B0D6573E83D70A0DB41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Revolverheld",
+      "trophyDetail": "Trage die goldene Pistole während der gesamten Einzelspieler-Kampagne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/2CAD428826C3A20ECEA487DF6D7122929F5341B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sonntag, schwarzer Sonntag",
+      "trophyDetail": "Schieße das Luftschiff über dem Stadion ab",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/EA431E66514534AF4894EBFC5254DFDA16CA8DCB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Keiner steht auf Heulsusen",
+      "trophyDetail": "Hau den Schauspieler bei der Talkshow um",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/F1B63C6B049226454021A0A56191F8F555632206.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mächtig viel Prügel",
+      "trophyDetail": "Gewinne im Strip Club bei \"Alien-Abtreibung\" ein Spiel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/07EC26BF1367F6879ECBD7FA84E3C7BE7E347FA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Freundschaftsfass",
+      "trophyDetail": "Öffne die geheime Kammer am Ende von \"Staplerfahrer Duke\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/45886AF238D5A3504361980A3FF3DEFEFB24CA78.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Einäugiger Freak",
+      "trophyDetail": "Besiege den Zykloiden",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/7F82EF04B5BAA1D27F34D197356D09A0B24D3DEA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gruben-Champion",
+      "trophyDetail": "Besiege den Battlelord in Las Vegas!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/887E470958D8D52DDD689F1446198D6DF1CBE10D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nicht übel für'n Mensch",
+      "trophyDetail": "Besiege die Alien-Königin",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/0F6127288D8C3D971834CE479C22F60688AD69FE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Verdammt guter Kampf",
+      "trophyDetail": "Besiege den Battlelord auf dem Hoover-Damm!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/A2E9CA87313402CF090D2453782663FBC8DC6A6F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Oktamäßig",
+      "trophyDetail": "Besiege den Oktakönig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/A3D1C1AE354CEFD98D2BDC3827A6458FDBE863C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Den Jürgen würgen",
+      "trophyDetail": "Besiege den Egel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/DE8FC62A22470C01B03B8BBF6876224F1BA27571.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kinderspiel",
+      "trophyDetail": "Absolviere die Einzelspieler-Kampagne auf Schwierigkeitsgrad Locker",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/2351F318B3919C233B0F5FF02B49FFD9FC36F8EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lass es rocken",
+      "trophyDetail": "Absolviere die Einzelspieler-Kampagne auf Schwierigkeitsgrad Mittel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/BC090121D518033363C369C33B696BDC8D99BB88.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hol dir 'ne Packung",
+      "trophyDetail": "Absolviere die Einzelspieler-Kampagne auf Schwierigkeitsgrad Schwer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/27878402040E283CAAE07D4BE5CF8CB8A7C4D36F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Verdammt, bin ich gut",
+      "trophyDetail": "Absolviere die Einzelspieler-Kampagne auf Schwierigkeitsgrad Verrückt",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/17A1743AAF9A65380581F8DBF2FA3EE4C6C25C50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Besonderer Dank",
+      "trophyDetail": "Sieh dir die gesamten Credits an",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/2D02AFF376D8F34D92FA9BB4681D57FC5FB8E528.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aufblasmeister",
+      "trophyDetail": "Erldedige 10 mit dem Expander getroffene Feinde durch eine Nahkampfattacke",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/FF0EF423D9B5F0EC8159D6F410630488A24D9B22.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dreisam",
+      "trophyDetail": "Erledige innerhalb von 3 Sekunden 3 Feinde mit dem Imprägnator",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/88C297FC73DF18A676A9E2AA809070F7C36936D5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Passiv aggressiv",
+      "trophyDetail": "Lasse 20 Feinde von jemand anderem erledigen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/D467A1B4AC38DAB47420EC6CCD0E445A6BF6D93A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blutrotes Mondfahrzeug",
+      "trophyDetail": "Erledige 30 Feinde mit dem Mondfahrzeug",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/CFF1657E8DBEE60955C34ACAFB440B494878B5F2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dr. Flipper",
+      "trophyDetail": "Erziele 1.000.000 Punkte am Scientits-Flipper",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/A1A16A0DDD5C5C752E8A332C42F1A7F68438842B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vertrauliches Gespräch",
+      "trophyDetail": "Erledige Doktor Proton",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/05A4CE62870846C6D2DCE88007ECFD8DD26C405A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hedonist, nicht Misogyn",
+      "trophyDetail": "Finde und verschmähe das Videospiel in dem man Frauen schlagen kann",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/7CEACC8E7B7BD733580CF8CCB4686C1098DCB5A4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Noch ein Kinderspiel",
+      "trophyDetail": "Absolviere die Kampagne von Der Doktor, der mich klonte auf Schwierigkeitsgrad Locker",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/FF330B7FA41681D363BD2DD2AE36623BB3A2EBC7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lass rocken",
+      "trophyDetail": "Absolviere die Kampagne von Der Doktor, der mich klonte auf Schwierigkeitsgrad Mittel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/3BB6EBA110A1B11BAF3644851356FD22EDDB85D6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hol dir noch 'ne Packung",
+      "trophyDetail": "Absolviere die Kampagne von Der Doktor, der mich klonte auf Schwierigkeitsgrad Schwer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/783D15E28378245462547B7AC9B29175D002F6DA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Verdammt, bin ich gut",
+      "trophyDetail": "Absolviere die Kampagne von Der Doktor, der mich klonte auf Schwierigkeitsgrad Verrückt",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/5664A992106CF26F0C587DF0E979F3A3BC7843C8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Durch und durch Mann - Wieder!",
+      "trophyDetail": "Entdecke sämtliche Ego-Auszeichnungen in der Kampagne von Der Doktor, der mich klonte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/39F7071A757679AC24910A040F267239BB2C6107.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 63
+}

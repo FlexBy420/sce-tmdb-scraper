@@ -1,0 +1,837 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR02031_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "LittleBigPlanet™ PlayStation®Vita",
+  "trophyTitleDetail": "Играйте, создавайте, делитесь",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/38867C9C54927D068BCA736C98B65B0D8432F39C.PNG",
+  "trophyTitlePlatform": "PSVITA",
+  "definedTrophies": {
+    "bronze": 62,
+    "silver": 17,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "LittleBigPlanet™ PlayStation®Vita",
+      "trophyGroupDetail": "Играйте, создавайте, делитесь",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/38867C9C54927D068BCA736C98B65B0D8432F39C.PNG",
+      "definedTrophies": {
+        "bronze": 36,
+        "silver": 7,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Геройская пробежка",
+      "trophyGroupDetail": "Геройская пробежка",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/678D0DFDBB9096038B84E6317B5A7D9CDDB72F18.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Avengers: Ultimate Escape",
+      "trophyGroupDetail": "Avengers: Ultimate Escape",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/213E965D579B52230D19584D5A904A012811573F.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Щ.И.Т.: Перехватчик",
+      "trophyGroupDetail": "Щ.И.Т.: Перехватчик",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/046FF458FDDFFB792982E79B09DB772761EA9129.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Набор премиальных уровней LittleBigPlanet™ PS Vita: Герои DC Comics™",
+      "trophyGroupDetail": "Призы для набора премиальных уровней LittleBigPlanet™ PS Vita: Герои DC Comics™",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/3A61C1E599B25F766BB49A3F93337190DB1F9111.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Платиновый клуб",
+      "trophyDetail": "Заработать все призы LittleBigPlanet™ PlayStation®Vita. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/EAB7B34791163BA29101B3A9A452F7C20B8FDA92.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Герой Ла-Марионетты",
+      "trophyDetail": "Пройти основные уровни Ла-Марионетты.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/3DF21DBEC1671977937BB772F9043BC6F804590A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Герой Страны поломок",
+      "trophyDetail": "Пройти основные уровни Страны поломок.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/837DA6A1584C3CEEF433BD5C66DD975E49AAA28B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Герой Джекпот-сити",
+      "trophyDetail": "Пройти основные уровни Джекпот-сити.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/F1144E502C45D1DD79A1FFC4EC602EF18E4BB9B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Герой Долины аттракционов",
+      "trophyDetail": "Пройти основные уровни Долины аттракционов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/9F04B1DBD60A663795AD80F3F00786E71EFE1867.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Герой Мрачного особняка",
+      "trophyDetail": "Пройти основные уровни Мрачного особняка.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/A3559FFD9CF71DA4F0CC4C6A070CB3E0D95F22F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Герой сюжетных уровней",
+      "trophyDetail": "Пройти все основные сюжетные уровни.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/0EC48BE2FF1F7666BB0A55D114A07A58E39A322E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Безупречное прохождение сюжета",
+      "trophyDetail": "Безупречно пройти все основные сюжетные уровни.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/03755138243AE46044922B315C2D85E89F7B8978.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "В погоне за лучшими",
+      "trophyDetail": "Завершить 10 сюжетных эпизодов подряд, ни разу не погибнув.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/4E71B1868059A7583864DC29316F8AF66A1F1E58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Коллекционер призов",
+      "trophyDetail": "Найти и собрать 50% призовых шариков на сюжетных уровнях.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/0AD9F15EF004C244C0D1D7ECB24FB3EB023CFB29.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Декоратор",
+      "trophyDetail": "Разместить в ракете 10 наклеек или украшений.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/E65426FFD6BCC25F7C64321CDAE893FACAF75D72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Множитель x5",
+      "trophyDetail": "Набрать множитель x5 на сюжетном уровне.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/FEC7EDEE5E1AD8FAC40534742AC351F2BA0EF126.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Множитель x10",
+      "trophyDetail": "Набрать множитель x10 на сюжетном уровне.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/1E1FAB7A4E3766245A74214AE54B9CF871DB2151.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "50% в таблице рекордов",
+      "trophyDetail": "Занять место среди первых 50% игроков в таблице рекордов сюжетного уровня, насчитывающей более 50 записей.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/8E9E80202097218F263EE29BBFBF412AA8B3F2B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "25% в таблице рекордов",
+      "trophyDetail": "Занять место среди первых 25% игроков в таблице рекордов сюжетного уровня, насчитывающей более 50 записей.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/6CDF05C3590180364B569DDFDF2CA79062C63837.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Турист",
+      "trophyDetail": "Пройти уровень сообщества.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/2A7B1D70F19053BC9B3373CFB172BBFC53601D56.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Жизнь в тягость",
+      "trophyDetail": "20 раз умереть на одном сюжетном уровне.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/F10D73EADC5497052F2D96DBA2D864FF114EB7F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лидер среди равных",
+      "trophyDetail": "Победить в игре на 4 игроков.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/48102CA0B7676AA9C9144E25D2C06FD773C17715.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Вместе веселей",
+      "trophyDetail": "Пройти уровень в компании как минимум двух игроков.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/4376D1E0004B8B606372C0785F7B24089C97D29F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Пройти 75 уровней совместной игры",
+      "trophyDetail": "Пройти не менее 75 уникальных совместных игр сообщества.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/7A178B9E8FE702AA05C9AA124C420BE9E3E03CDC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Пианист-пионер",
+      "trophyDetail": "Извлечь из пианино в Ла-Марионетте ноты до, ре, ми.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/493FD738795F9A33F08B541C48309D67F3B2E620.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Вставь монетку",
+      "trophyDetail": "Получить все достижения в одной игре Аркады.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/747C5A55F3A1B12C2323AD7DB272BA8CA19358EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Победы в сетевых соревнованиях - 25",
+      "trophyDetail": "Победить в 25 соревновательных уровнях сообщества как минимум с одним игроком, помимо тебя.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/E94BC25030B58CAC2A99878A021F26EF05BBCCCA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Идет на рекорд",
+      "trophyDetail": "Набрать в общей сложности \n1 000 000 очков, сыграв в \nсюжетные уровни.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/2078B805974C44B053E682CBF922E4897C8F8280.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "С умом потраченное время",
+      "trophyDetail": "Сыграть в LittleBigPlanet™ PlayStation®Vita в каждый из дней недели. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/4E04026C3EEFA96E41643BF59403665A38F9BA32.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "В очередь",
+      "trophyDetail": "Сыграйте в эпизоде, добавленном в вашу очередь.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/F5A4F8F45D968FB05A0AF96C69D2C4141476090A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мозоль на пальце",
+      "trophyDetail": "Щелкнуть по 1000 макушек в игре \"По макушке\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/EF774DD5CCB64D985DC890F1E4D0F4DD65DB615F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Один-один-один-один",
+      "trophyDetail": "Сыграть в LittleBigPlanet™ PlayStation®Vita в одиннадцать минут двенадцатого.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/F09E353A3EE54C1DC5953025295C873DDA5F7C06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Начинающий режиссер",
+      "trophyDetail": "Опубликовать уровень с видеороликом.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/7D7E46CDE846875EB7FE2A61021DC3DE5D0BF131.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Жертва моды",
+      "trophyDetail": "Сменить костюм.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/18C55AA208553EE5A13F917E556EC37434616CE8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Творческая искра",
+      "trophyDetail": "Продуктивно провести 10 мин в режиме создания.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/98DFDB4C4AE574236C29852D19AFBB60228EDA5B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Займись чем-нибудь полезным",
+      "trophyDetail": "Продуктивно провести 1440 мин в режиме создания.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/0FE0FB46256CAFB56345B54D887030CD7F2430DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Всем и каждому",
+      "trophyDetail": "Опубликовать уровень.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/4DEBBEB6E8EBED4B4A53C15A2DBE07169F1D69CC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Всего разных игроков - 50",
+      "trophyDetail": "В опубликованный вами уровень должны сыграть 50 разных игроков.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/097B4E8718C2CCA16168D2E0DE79EFE214A711AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Заботливый вандал",
+      "trophyDetail": "Разместить наклейку или украшение на тряпичном человечке другого игрока.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/103C9D8BC6514F507253CB22DBD21CEC6F5C4EE0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Балансировка",
+      "trophyDetail": "Касанием поднять какой-нибудь объект в воздух так, чтобы стоящий на нем тряпичный человечек не свалился.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/88AD54A9B95D015F9A2510633E0215B11293831F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Значок за пять секунд",
+      "trophyDetail": "Опубликовать уровень со значком, созданным из снимка игрового экрана или фотографии, снятой на камеру.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/1270768729E41AA39F250B193545D737D44F7562.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Комплекс бога",
+      "trophyDetail": "Повернуть любую планету на 720 градусов одним движением пальца.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/950273F7F6D5C55C22BE1826CD7E2EF1EF493B0E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Всезнайка",
+      "trophyDetail": "Просмотреть все обучающие видеоролики.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/5A69F27433E8AD300CAF4AEE07AD18FF47E01633.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "40 радуются!",
+      "trophyDetail": "Не менее 40 уровней сообщества должны получить ваш положительный отзыв.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/7AE77246A9B9CAC102F157D8606AD268C42D1B61.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Чемпион Аркады",
+      "trophyDetail": "Получить все достижения в каждой игре Аркады.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/407684F294D0EE75B57DC43C4D4DB1D85BCF531A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Критиковать все умеют",
+      "trophyDetail": "Опубликовать обзор уровня.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/7704A67A0207F78CE510EDB6F51E53488BFF9E2B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Импульсивный фотограф",
+      "trophyDetail": "Опубликовать фотографию.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/45742ECB231FEE1EA38BCE9FECE0D988512C6EB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Диджей",
+      "trophyDetail": "Повернуть любую пластинку в Джекпот-сити.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/1A827288E10E15C0EE68A733AF0F56E94503E008.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Множитель x15",
+      "trophyDetail": "Набрать множитель x15 на сюжетном уровне.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/AED9372EEAF95926852F82F9A2A367C1ED418ABF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Восходящая звезда",
+      "trophyDetail": "Собрать 50% наград умельца на сюжетных уровнях.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/049AED413AB2D1591E1744363F0E7CE11D7852FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Клептомания",
+      "trophyDetail": "Найти и собрать 100% призовых шариков на сюжетных уровнях.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/DE3D45C847F81DC0F6865A51BC99C214698D963D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Новобранец",
+      "trophyDetail": "Получить доступ к первому герою",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/CEBD0C005BBAD55D5FC32B8FC7C834E10EBAA536.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первые шаги",
+      "trophyDetail": "Завершить первую пробежку",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/7C7E7259EACE372CAFA4D583FC23E5712D7B602A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"Хилый Бог!\"",
+      "trophyDetail": "Победить врага",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/232EB4D24BC790C7910E9F0BE707FC41D46F99B9.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"Зададим жару!\"",
+      "trophyDetail": "Уничтожить 5 врагов за одну пробежку!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/620EEFC5EB19418AF76D5474E6A4B8D1CB606AF8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Общий сбор!",
+      "trophyDetail": "Получить доступ ко всем героям",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/DC9C3433C79EBA28E4933D2E97CCDC4D008FF034.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mарафон Marvel",
+      "trophyDetail": "Преодолеть 2000 м за одну пробежку!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/6BDF4B420BD67539FEB6CD48249A6433FF8CA5A1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Суперсолдат",
+      "trophyDetail": "Достигнуть ранга 20",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/B6D8308637EE881CDA21728D393B568B900F8BF7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Богаче, чем Старк",
+      "trophyDetail": "Собрать 20 000 монет Marvel за одну пробежку!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/C72E13D717738831B0EEC645E2DAC6817E93CFCD.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Могучие Герои",
+      "trophyDetail": "Используй каждого героя хотя бы раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/6A12203AAA234CB5FA82416B07252829D7BCD1BB.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Универсальный сборщик",
+      "trophyDetail": "Купить все в Геройской пробежке!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/BF56A10CC0FEB58D716C0F0B2C5DD65E2B064A5B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мститель",
+      "trophyDetail": "Сложи одну головоломку",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/3053615BCFD6868E4B782E97F9BBF8FB59200EEF.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Халка к бою!",
+      "trophyDetail": "Разбей Халком 4 ящика подряд",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/ADDEC7848F3ACB76E1C6F8E7B4460FBACA35EC9D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Игрок",
+      "trophyDetail": "Игрок сыграл за всех четверых персонажей",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/A54523F91D2208469FF5571788FCF412430C6DC1.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Не пропусти ни единого выпуска",
+      "trophyDetail": "Приобрети все товары в Хранилище",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/2861F8F12B6C74B4371A01FFA8D8DECFF61CFDC0.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Все на борту",
+      "trophyDetail": "Приобрети все 3 дополнительные главы",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/95A5A906AB03F7DE4DCE2195F184A674DDDFC3C8.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мстители снова вместе!",
+      "trophyDetail": "Сложи одну головоломку на 4 персонажей",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/037306BE86D259D1DD942C014E5CCCBC700FA255.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первое издание",
+      "trophyDetail": "Пройди одну главу",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/02C1F4097532614EA67EE41A4E58BC5FF9FE044C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Бестселлер",
+      "trophyDetail": "Получи 5000 монет Marvel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/63600A4F6AF845922450885E00BC2A169B495833.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Коллекционное издание",
+      "trophyDetail": "Сложи одну головоломку на 1 персонажа",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/5C3B587FB094010021F49B5098F93B9A1F0C705B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Месть свершилась!",
+      "trophyDetail": "Выберись из Комплекса!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/FF234B950ACDFA1C887803A4C3896F389072933C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Оружие Икс",
+      "trophyDetail": "Получить 5-кратный множитель",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/627D496736090FB93968AAF386CBC247519D5565.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Тебе лучше меня не злить",
+      "trophyDetail": "Попасть одновременно по 3 врагам любым оружием",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/F7DB9FDC26C9694AEDC44B98D6DB122FA09343C9.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Соколиный глаз",
+      "trophyDetail": "Убито 5 врагов за 5 секунд",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/A5A09B01DDCF09C55F10E19833F60C026163BC01.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Магнат-миллиардер",
+      "trophyDetail": "Набрать 200 монет Marvel на одном уровне",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/FBC15D04B48B9EFB3F1A4DB457388F58990E35EC.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Опасность предотвращена",
+      "trophyDetail": "Завершить основную кампанию",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/6776B255C2D426F7A0497FBEF8005AAFE2C69E22.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Не ведающий страха",
+      "trophyDetail": "Заработать в любом режиме 800 очков, не использовав ни разу свое основное оружие",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/739989223279FBB5302BB6C86C712E936F5657FF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Непобедимый Железный человек",
+      "trophyDetail": "Заработать 500 очков в любом режиме, не понеся никакого урона",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/2AE3CB726B3A09C72E32B38366A88CDC69771544.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "В своей сфере я - лучший…",
+      "trophyDetail": "Заработать 3000 очков в режиме \"Перчатка\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/7A89FABEE30F67E5B3B35695D732BAB4BA13A490.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Машина смерти!",
+      "trophyDetail": "Приобретены все улучшения для корабля",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/2106AC3400BE3C73990F489D5F8C663BBB444807.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Агент Щ.И.Т.",
+      "trophyDetail": "Завоевать все золотые медали в кампании",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/A256BF2099736149516A4981352DD13903678DC2.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ас Лиги справедливости",
+      "trophyDetail": "Безупречно пройти все сюжетные уровни в премиальном наборе уровней \"Герои DC Comics™\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/F04342E9664E418D0E6A729BD8A47E764BB899BC.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Плащ супермена",
+      "trophyDetail": "Оставаться в воздухе с помощью плаща героя в течение 5 сек.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/11A99B2380A251F3D937081EEED17310D05DDED3.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Плюнь на лысину",
+      "trophyDetail": "Победить Лекса Лютора.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/9A7219B8F0B8376E2610B4F08CE516AEB5DDCE76.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Дружеская лига",
+      "trophyDetail": "Сыграть в любой уровень премиального набора уровней \"Герои DC Comics™\" с одним или несколькими друзьями.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/71C022EED5135776C72027D0DD2F9F4FAA324A2A.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Коллекционер",
+      "trophyDetail": "Собрать 100% призовых шариков в премиальном наборе уровней \"Герои DC Comics™\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/D4F7E1F832298F2684BA57E02C0C75570B19BF79.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Творец плаща",
+      "trophyDetail": "Опубликовать уровень с плащом героя.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/1673087AF6D6663477D170513A78B2F8605DC73C.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Зеленая сила",
+      "trophyDetail": "Включить все материалы Зеленого Фонаря из премиального набора уровней \"Герои DC Comics™\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/49AB1B1889E7F9AA4D95AF20CAC9B20263ADADAD.PNG",
+      "trophyGroupId": "004"
+    }
+  ],
+  "totalItemCount": 84
+}

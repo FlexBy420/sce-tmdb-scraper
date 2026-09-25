@@ -1,0 +1,585 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR00855_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "Warhammer 40,000: Space Marine",
+  "trophyTitleDetail": "Trophées Warhammer 40,000: Space Marine",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/572561374062410041944731D5223C56F652EFC2.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 48,
+    "silver": 8,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Warhammer 40,000: Space Marine",
+      "trophyGroupDetail": "Trophées Warhammer 40,000: Space Marine",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/572561374062410041944731D5223C56F652EFC2.PNG",
+      "definedTrophies": {
+        "bronze": 42,
+        "silver": 5,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Warhammer 40,000: Space Marine DLC 2",
+      "trophyGroupDetail": "Warhammer 40,000: Space Marine DLC 2",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/5D690C3DCDE212F97AED61F6199ADC014C15E68C.PNG",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Collection de trophées terminée",
+      "trophyDetail": "Collectionner tous les trophées Warhammer 40,000: Space Marine.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/47AC86949B0A51B4759B73D7A6FB2C60F52EA497.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La force des justes",
+      "trophyDetail": "Tuer 100 ennemis.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/D55E471F60BDEA04CF4D63E52628839AE6327794.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le sang doit couler",
+      "trophyDetail": "Tuer 500 ennemis en utilisant des armes de corps à corps.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/38E573A206C46AD3D43596754710375D0291EDEA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ange de la mort",
+      "trophyDetail": "Tuer 500 ennemis en utilisant des armes à distance.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/5C16A66538DAC792B822EE2C6AE5E5C25E4569E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Une mort violente",
+      "trophyDetail": "Tuer 2 500 ennemis.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/4F6340AE736F7A3B812B5282322E8F55F217B232.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Puissance de tir",
+      "trophyDetail": "Tuer 250 ennemis en utilisant des armes exotiques.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/ECC5D77F4C52E519B9CB47DAB4703BB64A5BC7E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Plus ils sont gros...",
+      "trophyDetail": "Tuer 25 Nob Orks.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/B52AB2AADCADD689ECA55C9BA54F9D7AEDF37E83.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pas si costaud",
+      "trophyDetail": "Tuer 10 Blind’Boyz.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/D8434EA009854A4491B1308AB2127A0F9473BC6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mort aux hérétiques",
+      "trophyDetail": "Tuer 50 Space Marines du Chaos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/24DD83683EC80099C772D7CE1A5019DD3F130496.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "C'est une boucherie",
+      "trophyDetail": "Tuer 75 ennemis avec des Exécutions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/D20EF74D37FE8FA3EB6D0543E14018574E4BCFF0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "En pleine tête",
+      "trophyDetail": "Infliger 100 tirs à la tête.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/355FBA1A5916F2E058975F273CC825360EC5A9A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Maître du meurtre parfait",
+      "trophyDetail": "Infliger 250 tirs à la tête.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/D71F3D8691B865CAD72960E6BE08E5B48F734BBA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Terrible choc",
+      "trophyDetail": "Tuer 150 ennemis avec une charge puissante.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/5937323DD4D8F03D025A2232EBD97419238F0A2F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Attention la tête",
+      "trophyDetail": "Tuer 25 ennemis avec un Pilon.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/C716D5A21D5B623BF7BA77BF4FF0ACF9C3FBF143.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le tireur d'élite de l'Empereur",
+      "trophyDetail": "Tuer 10 ennemis d'affilée avec une seule activation Fureur à distance.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/938217A24472E324E34957A42156249D4E98BAA3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Subis mon courroux",
+      "trophyDetail": "Tuer 250 ennemis avec des attaques Fureur au corps à corps.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/E9F120632480E7A3C5213F6453ED7EBC2F720E4F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'Empereur nous garde !",
+      "trophyDetail": "Terminer la partie 1 du jeu en mode Difficile en une seule session, sans mourir ou redémarrer.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/8FDEDFDFEFE5F55DEEE9CCE84D7D7A132E5ABCE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Quelle puissance !",
+      "trophyDetail": "Terminer le jeu entier en Difficile.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/8AE6AE4E138F3D1D7666A7CEFCE5C09858B32A4E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nob à terre",
+      "trophyDetail": "Remporter 10 combats contre le Nob Ork.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/F67576686311DCC8302C2F5F0C14E7CD2EA29416.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rayon d'explosion",
+      "trophyDetail": "Multi frag : 5 ennemis avec une grenade frag.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/6646CD90100E3DBC1609D7949A0B4686DD42BA53.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tueur redoutable",
+      "trophyDetail": "Multi frag : 2 ennemis avec un tir de bolter modèle Stalker.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/B8EF12022EC89C46019E02AE67EB9D7084A8391C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chaîne de la mort",
+      "trophyDetail": "Multi frag : tuer 10 ennemis en faisant exploser 5 munitions de canon vengeur d'affilée.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/305C7F1C67E9922C473280697AF9258ECDF93DCB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maître de l'épée et du flingue",
+      "trophyDetail": "Terminer un chapitre de la campagne solo avec uniquement le pistolet bolter et l'Épée tronçonneuse.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/7ABD9D24144B6F26EC35DF511D61D318F97149C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brûlés vifs",
+      "trophyDetail": "Terminer un chapitre de la campagne solo en utilisant uniquement les armes plasma.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/C7C600BF1A98B7961E697CBD82FDDA888BD238FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Force brutale... déployée.",
+      "trophyDetail": "Terminer un chapitre de la campagne solo avec uniquement le canon vengeur et la hache énergétique.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/A789D62B1E7F10CC374C4F71A440BFB572B0CC2C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Finesse et Fureur",
+      "trophyDetail": "Terminer un chapitre de la campagne solo avec uniquement le bolter Stalker et l'Épée tronçonneuse.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/B1634A25CD14CD45D4456A1983290D6CF2891CDB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Escouade de Commandement",
+      "trophyDetail": "Former une alliance avec vos frères Space Marines.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/66229F2E75F7854A38C83D3DA8480ADDF74A68C7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dans la brèche",
+      "trophyDetail": "Rendez-vous jusqu'à l'endroit où la roquette a explosé.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/E6C3EE0E42CDBFCC798388D54FD14ADFF3ED00F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Faites taire le canon",
+      "trophyDetail": "Détruire le canon orbital.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/93581DFC3CE071036AC92DA1B0EC9D923D6BFC5C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chasse au trésor",
+      "trophyDetail": "Récupérer la source d'énergie.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/219BA7581D010B0974DBF8D0DB22383BBC1B531D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tentons le coup",
+      "trophyDetail": "Lancer le Fléau psychique.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/B12EBD7CE424352D121EF2E08E17691D9FFF182E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "J'en ai marre de toi",
+      "trophyDetail": "Tuer le Big Boss Grimskull une bonne fois pour toutes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/2DA0286120C5735D6D83F574DD5F390309AFF461.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Marteau de l'Imperium",
+      "trophyDetail": "Utiliser l'Invictus pour détruire la flèche orbitale.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/5E0D649E3B4ED887FE3B82FE6CD5D198E127E3F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "À la fin de toutes choses",
+      "trophyDetail": "Tuer le prince démoniaque Nemeroth.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/3003A4FA01AA20027350815A738F536AFD173F96.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lexicanum",
+      "trophyDetail": "Collecter 10 Servo-crânes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/4077ACDE691A1EEA91FEC8F9D0BCF65B8845B280.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Bibliothécaire de Macragge",
+      "trophyDetail": "Collecter tous les Servo-crânes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/1BBE57E228BFEB4335E813F22F6C5C4E511FB947.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frère de combat",
+      "trophyDetail": "Atteindre le niveau 10 avec un personnage multijoueur.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/5184268C586651119964B7EDC0F9FB5F504E2951.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vétéran",
+      "trophyDetail": "Atteindre le niveau 20 avec un personnage multijoueur.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/07C0C2D1EFD444A726E69198A94DC4C5F7F25FD5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capitaine",
+      "trophyDetail": "Atteindre le niveau 30 avec un personnage multijoueur.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/A1255203435EF48C5DC419DDDBDFF77B665EFE4B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Maître du Chapitre",
+      "trophyDetail": "Atteindre le niveau 40 avec un personnage multijoueur.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/34BCB2ACC6EE03BD81214F4CC901225C49E30D21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guerrier du jour et de la nuit",
+      "trophyDetail": "Jouer 10 parties multijoueur en tant que Space Marine et 10 comme Space Marine du Chaos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/EA6893FDFB17AED70FC9EB0D1A19F8D590E8EE9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Caméléon",
+      "trophyDetail": "Jouer dans chaque classe en Multijoueur.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/062E18597BE72106AEDDA0B8D35A9531B6856361.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Homme à tout faire",
+      "trophyDetail": "Jouer 10 parties multijoueur en utilisant toutes les classes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/ED7B30E27A03CDCE16AEFF56D766B668D41C6144.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maître d'armes",
+      "trophyDetail": "Réussir 5 défis armes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/09DBA8AA9954C2A8502ACBCEDDA54A8AC50D00ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gardien de l'armurerie",
+      "trophyDetail": "Réussir tous les défis armes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/3F73E9DA065456612B0D58A648E1D16DBBEF6C08.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'armure de la gloire",
+      "trophyDetail": "Réussir 10 défis Armure.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/64AD7CD5DE9E3BB37B1CCDB1E0FFFF949ADE41B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Défenseur",
+      "trophyDetail": "Tuer 25 adversaires qui capturent votre point de contrôle dans Conquête de zone.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/CB0263191D90199DE1FFCF792FAB303372782928.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dévastation !",
+      "trophyDetail": "Obtenir 10 fois plus d'ennemis tués que de morts dans une seule partie d'Annihilation.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/6A70D7842E2B4F39BD34038B18AD2E28813FC6C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Main de maître",
+      "trophyDetail": "Personnaliser entièrement un personnage Space Marine et un Space Marine du Chaos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/89889ECF8F74E992FB3E5445B2087E113493C8EE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Redescends sur Terre",
+      "trophyDetail": "Tuer 50 Marines d'assaut/Rapaces en plein ciel.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/0B33602A728004CAB778BFF4C65EF6BF067CBB78.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Vrai fils de l'Empereur",
+      "trophyDetail": "Tuer 40 000 ennemis dans le jeu (tous les modes de jeu confondus).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/870A1C18BDC2ACF91F30A48FFD6420CDD4349F7A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mort au faux Empereur",
+      "trophyDetail": "Terminer l'arène 1 de l'Invasion du Chaos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/65F0393B62CAA4BE8B4B6BC99AF008CE3B76D0A6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Du sang pour le Dieu du Sang",
+      "trophyDetail": "Terminer l'arène 2 de l'Invasion du Chaos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/6128A6E87F291EB60D1DC48E5ECA7B10DF56F961.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Des crânes pour le Trône",
+      "trophyDetail": "Terminer l'arène 3 de l'Invasion du Chaos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/CB46F0548206F0C58DFBA4961D2DB0E665B43A20.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Que la galaxie s'embrase",
+      "trophyDetail": "Terminer la mission Invasion du Chaos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/8397FB17F94667574A8F947CC6E69BF18EDA8F63.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Que le Paradis saigne",
+      "trophyDetail": "Battre la vague bonus de l'Invasion du Chaos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/5448EF04B38D89401258C86D7A4636C349B5F592.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Parcimonie",
+      "trophyDetail": "Terminer une arène de l'Invasion du Chaos sans aucun mort dans votre équipe.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/8A113A8F9CD50FD245271E83A013AE0C75D0FB40.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tuer pour le plaisir",
+      "trophyDetail": "Terminer 3 défis dans une arène de l'Invasion du Chaos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/EB19637A8CD103FE1B1AAF76B0767C751CD08EA2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gloire aux Dieux Noirs !",
+      "trophyDetail": "Obtenir un score par équipe supérieur à 270 000 dans la mission Invasion du Chaos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/D0E3E6076880EC71450B61405D9121F578F129BC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hérétique",
+      "trophyDetail": "Terminer une partie en coop publique dans la mission Invasion du Chaos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/C4ACC379C8AA913DB2763F8ECB9B969432385186.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 60
+}

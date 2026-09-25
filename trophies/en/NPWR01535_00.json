@@ -1,0 +1,447 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01535_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "NHL® 12 Trophies",
+  "trophyTitleDetail": "Trophies for NHL® 12",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/EA2EAAF90F572F45377F9A43AC8D12E8B28C5378.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 29,
+    "silver": 14,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "NHL® 12 Trophies",
+      "trophyGroupDetail": "Trophies for NHL® 12",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/EA2EAAF90F572F45377F9A43AC8D12E8B28C5378.PNG",
+      "definedTrophies": {
+        "bronze": 29,
+        "silver": 14,
+        "gold": 2,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Raise Your Banner '12",
+      "trophyDetail": "Acquire all of the Bronze, Silver and Gold trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/7302854B249AC67779465EA48AF69B510FE54664.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Every Man",
+      "trophyDetail": "Play as every skater position while completing EA SPORTS™ Hockey League matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/B3370B9E20FA1B8237BAD367D908BC031901F7C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Taking Shots",
+      "trophyDetail": "Play as the goalie while completing an EA SPORTS™ Hockey League match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/C2AD9570C1B32A2916E23E4EFFA0AB224FED93D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "EASHL™ Playoffs",
+      "trophyDetail": "Be a member of an EA SPORTS™ Hockey League team when they participate in a monthly playoff",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/C6460B8532853936F5A5C32A97C0F644AF7B19E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "EASHL™ Rookie",
+      "trophyDetail": "Achieve Rookie 1 status for your online Pro",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/7E1FB26431F8B2995396BFECB0A5D0647256DA79.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "EASHL™ Pro",
+      "trophyDetail": "Achieve Pro 1 status for your online Pro",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/A616F2E31AF286BA31D9EB0A80618EEF833A2B70.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "EASHL™ Legend",
+      "trophyDetail": "Achieve Legend 1 status for your online Pro",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/2EBAF3466D9153408F1AD19CD9B5292F69A26D9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Versus Rookie",
+      "trophyDetail": "Reach level 5 of online Versus",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/94DBE4865354B5CC090FC0FCB5F1E049659B1C99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Versus Pro",
+      "trophyDetail": "Reach level 10 of online Versus",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/5CD6D94082188101AE0033052B2FB71F15DBBF8C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Versus Legend",
+      "trophyDetail": "Reach level 25 of online Versus",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/3D224FF1B303700899E06A92DDBD3AB4324DFC2C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Russian Rocket",
+      "trophyDetail": "Score a goal after completing a skate-to-stick deke in a Ranked Online Shootout match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/D305B4EA2F655116FD5291862EDF0D372CCF5558.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "High Flying",
+      "trophyDetail": "Score a goal after completing a jump deke in a Ranked Online Shootout match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/4BC1382609904D4B0EB1CE92F7004006D7692AA8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Happy 20th EA SPORTS™!",
+      "trophyDetail": "Play & get 20 goals in a Be A Pro CHL season with a created Pro to celebrate 20 years of EA SPORTS™",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/67D85F7F2A8593708C03A31295AE660814CB0C64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Memorial Cup",
+      "trophyDetail": "Play and win the Memorial Cup in Be A Pro with a created Pro",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/EF80634BF2300C98FF8FA32C64C6D440E0478521.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Top Prospect",
+      "trophyDetail": "Qualify for and complete the CHL Top Prospects game in Be A Pro with a created Pro",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/A74AA6E346191E14AB0AAA3EE2194EE73C9B39C7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le Magnifique",
+      "trophyDetail": "Earn 8 points in a single NHL Be A Pro playoff game with a created Pro on Pro difficulty or higher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/1D7072CEC0C44CDC7997A738FCD333CEBE7DD716.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Magnificent Mario",
+      "trophyDetail": "Score goals 5 different ways in a NHL Be A Pro game with a created Pro on Pro difficulty or higher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/9EACE313C7CC0554E8CE52F35A68B17FCA696F5B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Unlucky for Some",
+      "trophyDetail": "Score 14 shorthanded goals in a NHL Be A Pro season with a created Pro on Pro difficulty or higher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/CDA89C020B5861BEA949CE08CC7D50D194641B5F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "PP Powerhouse",
+      "trophyDetail": "Have 30 PP goals in 2 different NHL Be A Pro seasons with a created Pro on Pro difficulty or higher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/C706115FE6533CA62FF6BAFC033F92481EC14E57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "One Great Season",
+      "trophyDetail": "Earn 216 NHL career points in a single Be A Pro season with a created Pro on at least Pro difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/B522AB158896C4367F80BA1911430109E2B5E03C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Great One",
+      "trophyDetail": "Score 93 goals in a single NHL Be A Pro season with a created Pro on Pro difficulty or higher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/638EAD9779239E42271EB3FE83DE3D6C51E4E886.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "One Great Career",
+      "trophyDetail": "Earn 2,858 NHL career points in Be A Pro with a created Pro on Pro difficulty or higher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/E812F978A451D2537ABEE61F1028AC3C7A8EBFCE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Comeback Kid",
+      "trophyDetail": "Have three 8 point games in a NHL Be A Pro career with a created Pro on Pro difficulty or higher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/8DC11DF634B8649406C0743093A46F9F958C854A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "From the Office",
+      "trophyDetail": "Have 7 assists in a single NHL Be A Pro game with a created Pro on Pro difficulty or higher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/D9FC27C14A3149385DF7437AD7787C394E8074CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mr. Hockey",
+      "trophyDetail": "Complete a Gordie Howe Hat Trick (Goal/Assist/Fight) in a Be A Pro NHL game with a created Pro",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/CEA882B7FB84FB043FA063BB157AF66B7E9BE6F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Superstar",
+      "trophyDetail": "Have 4 five goal games in a NHL Be A Pro career with a created Pro on Pro difficulty or higher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/158CF9624E97B36D0E234D8CB85E0CFCC53183D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Magnificently Great",
+      "trophyDetail": "Score 4 goals in one period of a NHL Be A Pro game as a created Pro on Pro difficulty or higher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/F11610CF3E01FF5487CDDC910BE0533955606A54.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Raise the Cup",
+      "trophyDetail": "Play and win the Stanley Cup in Be A Pro with a created Pro",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/1F2938B0020CFA3E9E02A98A69165BAD64EA7E33.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legend Player",
+      "trophyDetail": "Play and win any NHL player trophy in Be A Pro with a created Pro",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/AA4C826691918B0CF975302B804551D7E4D4E89D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legend GM",
+      "trophyDetail": "Achieve Legendary GM Status",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/241F11C2215EA45DEDA96CC9B07DE32A489A737B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On Bended Knee",
+      "trophyDetail": "Score with a one knee one timer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/E511636A484D29475072883DD1F6A3EB14C93244.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Smash Hit",
+      "trophyDetail": "Break a pane of glass with a hit on a CPU player",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/E6297E01B3927A97B6767747B1829A4E493F2860.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of the Crease",
+      "trophyDetail": "Win a goalie versus goalie fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/5D4CC18CAE2BDC3ADF2F3746CC0ABCDBBBB63C81.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Benched!",
+      "trophyDetail": "Check an opposing player into the benches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/E417DABF4355DC4A9E5785C6001ADE5E154F9248.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lost His Lid",
+      "trophyDetail": "Knock the helmet off an opposing player's head",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/DF1A29C33CD67A86B125455FB4438311FD21C351.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hats Off To You",
+      "trophyDetail": "Be the player that scores 3 goals consecutively in an EA SPORTS™ Hockey League match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/08023F84DDD3EA970867A6C21B7348CF85BBA448.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "EASHL™ Hero",
+      "trophyDetail": "Score the OT winner in an EA Sports™ Hockey League match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/4F3B1F0630FCBD702C9ACC540B260E80BAE339CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "EAUHL 24/7 Victory",
+      "trophyDetail": "Win a match against a downloaded Hockey Ultimate Team",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/0E3EBCAA3E66ABD635810C90DA2EF74A0354819A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Team Doctor",
+      "trophyDetail": "Use a Healing card to heal an injured player in Hockey Ultimate Team",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/6D50BD0C13DB07CC5A9A1EB063A99FF08CF42B97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amateur Contender",
+      "trophyDetail": "Qualify for a Hockey Ultimate Team Amateur monthly playoff tournament",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/13C9A4737FC575C43513ED19F0C7A673AC7C5330.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pro Contender",
+      "trophyDetail": "Qualify for a Hockey Ultimate Team Pro monthly playoff tournament",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/CF78C2AFE67E5ABAE553FB224027B05D6D6D7096.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Elite Contender",
+      "trophyDetail": "Qualify for a Hockey Ultimate Team Elite monthly playoff tournament",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/A926D8E8EEAC3AB41289278F0FDD4D601A6372A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "HUT Playoff Winner",
+      "trophyDetail": "Win any Hockey Ultimate Team monthly playoff tournament",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/90DC2F2EFA36F500B9FBD34E287B6099DDE6FE3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Past Their Potential",
+      "trophyDetail": "Train a player past their potential",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/275DCF893977A4457F54256C8B7C43A6D0B184F1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Complete Set",
+      "trophyDetail": "Collect all player, jersey and logo cards for any team in the Collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/C8B152CA8EC66372D178AF37D91EE3DF2AF825F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Winter Classic",
+      "trophyDetail": "Complete a NHL® Winter Classic Match with PIT versus WSH",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/58C89B37A4EBADF5C0E3EA6DFCB8E930B13F126E.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 46
+}

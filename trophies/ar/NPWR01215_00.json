@@ -1,0 +1,576 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01215_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Star Wars: The Force Unleashed II",
+  "trophyTitleDetail": "Trophies for Star Wars: The Force Unleashed II",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/D128ECC3852E5EC5F04333A302E5C99FCE0510CC.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 49,
+    "silver": 5,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Star Wars: The Force Unleashed II",
+      "trophyGroupDetail": "Trophies for Star Wars: The Force Unleashed II",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/D128ECC3852E5EC5F04333A302E5C99FCE0510CC.PNG",
+      "definedTrophies": {
+        "bronze": 42,
+        "silver": 5,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "The Battle of Endor",
+      "trophyGroupDetail": "Trophies for The Battle of Endor",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/1C89ACBD2382DD713EA0C2D87E595F7A806F66EE.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 0,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": true,
+      "trophyType": "platinum",
+      "trophyName": "Earn all other trophies",
+      "trophyDetail": "Earn all other trophies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/AC2E83103E1BF8DA4043828B73696A409B0583B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Escape from Kamino",
+      "trophyDetail": "Escape Kamino in Vader's TIE Advanced.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/91C4D854631F13502F85985C87D7C0156B518C3D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Nemesis in Flames",
+      "trophyDetail": "Destroy the Gunship.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/79D43E7D2D03C48890CE6C3648115DC9A27879C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bring Down the Giant",
+      "trophyDetail": "Defeat the Gorog.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/4D2157184EF50EE49D2B7601FBF9A65881D7041A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Exterminator",
+      "trophyDetail": "Defeat the Terror Walker.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/C4F0FFFFDC4E402786A0AB812CCD03D8BADA3261.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Crack the Sky",
+      "trophyDetail": "Destroy the Star Destroyer.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/1E9DD27452B1B69E88A23392FAD93B692DCB54B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Meeting of the Jedi",
+      "trophyDetail": "Reunite with Kota.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/3A9AB2C3D3585556738C3A10B08FA8B81833EF06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Betrayed By Rage",
+      "trophyDetail": "Complete the game and choose the Dark Side ending.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/A398ADA57D115F9BF8754CF9DA17D8B8689B299A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Padawan",
+      "trophyDetail": "Complete the game on Easy difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/526B2E4713021BC8F10D5A66A7022E9CD6269D13.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Jedi Master",
+      "trophyDetail": "Complete the game on Hard difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/FB54830A2D8E0CE9422CC1919AC1EDABAC10F1A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Measure of Mercy",
+      "trophyDetail": "Complete the game and choose the Light Side ending.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/93DACD53C960BC01E809EA7EE3EE5E5E1F05E8B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Jedi Knight",
+      "trophyDetail": "Complete the game on Medium difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/7508F706DD9A8071CFDC262FB07439F8747AEA4F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Jedi Grand Master",
+      "trophyDetail": "Complete the game on Unleashed difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/D06CF36A90B29FBD25F6EBACEDDA7BD95CD4C69E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amplified",
+      "trophyDetail": "Kill 10 enemies with the lightning towers.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/BC925AAB4947928C1BA19272CBF0822FFCC88418.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kamfetti",
+      "trophyDetail": "Kill 5 enemies with the fans on Kamino.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/4BF6D3CADE24FD2DA613CC4DD60EE67AA1FF3184.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Imperial Painball",
+      "trophyDetail": "Throw 10 enemies into the Kamino generators.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/24FCAC884914361EBBEEBFCE26B83418ACF567AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Droid Rage",
+      "trophyDetail": "Control the Terror Walker and destroy all the Terror Biodroids.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/46C0E6EA7F03928623B7928534D4F905E1CF1CEA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strike!",
+      "trophyDetail": "Kill three enemies with a single ‘bowling’ ball.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/DC678891F0DEC9B6FFAEE65C9D382D653ED05B2A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shattered",
+      "trophyDetail": "Shatter 10 enemies frozen in carbonite.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/D6AAF83B4F452BD5D51467E8021BB89E22640C94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Break the Bank",
+      "trophyDetail": "Smash up 10 game machines.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/7F11E2D465E936058E34056F58EEC069A7FDF8F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Valet",
+      "trophyDetail": "Use Vader's TIE Advanced to destroy the AT-MP.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/1CCFE7D2FC3D405E0B57CDC73D0A940A53D2A72D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stay On Target...",
+      "trophyDetail": "Get to the falling Gorog without crashing into any debris.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/4D47A6A70865438E3047A1DA8B4348A129CC9F18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Disaster",
+      "trophyDetail": "Break all of the coolant tanks aboard the Salvation without dying.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/EBEBBDD72C366A37BD2529E74ECBFA4D8B657D87.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jan Stakross Trophy of Excellence",
+      "trophyDetail": "Destroy 12 lightning pylons on the Kamino dive.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/93CBFD21F4E5DD0D4974DA0AEDC287937F1EE1D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jedi Bomb Squad",
+      "trophyDetail": "Remove all of the Terror Spider Bombs on the Salvation.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/FB6BCD58C26E5041B22B8511D7EB9D23EE35C512.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "“No match for a good blaster at your side, kid.”",
+      "trophyDetail": "Kill 10 enemies using the turbolasers on the Kamino Drill Grounds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/FCE9DCFDA40780AD349D221E8945BC8C39FCD0FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Top of the World",
+      "trophyDetail": "Reach the top of the Spire without falling once.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/1C08AA275007CB759E3824B6E83630C56A35EB90.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Champion",
+      "trophyDetail": "Complete the first ten challenges with at least a Gold medal in each.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/BF66D9369F1A6A6D92E11999FEA52202C0F6B9F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rookie",
+      "trophyDetail": "Complete the first ten challenges with at least a Bronze medal in each.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/8F6C6247BC4FDE524598408776D95E87CFC1625E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Challenger",
+      "trophyDetail": "Complete one challenge and receive at least a Bronze medal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/B26D313922D0FA5F8F439F2D68B3243300750573.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hat Trick",
+      "trophyDetail": "Get a Gold medal on any 3 challenges.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/E119C116F251CF2256DBBA1CEB10222CDE69F9A7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Platinum",
+      "trophyDetail": "Get a Platinum medal on any challenge.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/C0E933AAB6C88C6C564EC103E8554608A691BA58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Competitor",
+      "trophyDetail": "Get a Silver medal on any 5 challenges.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/8BE710E6A60F9F5CF5AA095063B3F1F557C8833E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unleashed",
+      "trophyDetail": "Activate Force Fury 10 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/5CD68D8CD438B45CFF65AFB371A431051C26B1FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enjoy The Trip See You Next Fall",
+      "trophyDetail": "Cause 50 enemies to fall to their deaths.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/1325BE78D55336D44FDA0583BD32EB17EF306ECF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maxed Out",
+      "trophyDetail": "Upgrade all Force Powers to Rank 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/AB3AE8648D0AEF8F225002F8898793CA6FD52EE4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Use the Force, Luke",
+      "trophyDetail": "Complete any combat level using only Force Powers.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/4A74A98BE26B9B875FB447183F50167C546FA147.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucky Streak",
+      "trophyDetail": "Defeat 300 consecutive enemies without dying.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/2DFB7896D86BFEFB03439FE65FCCE387DC7AFFFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sky Killer",
+      "trophyDetail": "Destroy 15 TIE Fighters.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/34C8249CDEC4BA3997716344BCFD963300342B3D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arachnophobia",
+      "trophyDetail": "Destroy 200 Terror Spider Droids.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/CEB751975D37EDCC784855F3931525F1B4A47CE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It Burns!",
+      "trophyDetail": "Disintegrate 15 enemies by throwing them into red force fields.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/4A9710DC74AE33A97A896ADE382E09DF76D0B11D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pied Piper",
+      "trophyDetail": "Entice 10 Stormtroopers to leap to their deaths with Mind Trick.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/FEC6C38310E69DC20F9999B6595E481B14A6A53A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Holocron Hunter",
+      "trophyDetail": "Find every holocron.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/525A5C0B76D62ABEAF0BDCE5BCE382B784425E0C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Poor Bob",
+      "trophyDetail": "Force Grip a Stormtrooper, impale him with a lightsaber, zap him with Force Lightning, then throw him into an object.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/224A9AA5133164245BD09F530D4486C9CD5F1DC7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Return to Sender",
+      "trophyDetail": "Kill an AT-MP by gripping its own missiles and throwing them back.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/4E4461278B95283F5447E2A69B3223F7E2D9AFD5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Up, Up and Away",
+      "trophyDetail": "Overload 20 Jumptrooper jet packs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/BFB8EA38BCA6BFEE37DB0849D4E13851234D5510.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Passive Aggressive",
+      "trophyDetail": "Parry and counter 10 melee attacks.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/AF404BEC3B0836E045B171BBCBDD61CD83EF3468.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Awww Yeah...",
+      "trophyDetail": "Perform every combat move in the game (excluding combos that require Rank 3 Saber).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/6D7BF898A4DD8BEBBBB32E2A855EB4B099865077.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To the Face!",
+      "trophyDetail": "Reflect 20 missiles back at AT-MPs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/360137726E2B5B4C2A64E929815B6446339A2F12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Specialist",
+      "trophyDetail": "Upgrade one Power to Rank 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/DC5CA314E8AA744B4C9F49AEC41AD612C1DC8E8E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fully Charged",
+      "trophyDetail": "Use an entire bar of Force Power on a Lightning attack.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/ECD0AA2EC9C89BA07F9A2DC75D589F7150FC4FD1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Yub Yub",
+      "trophyDetail": "Complete the level defeating 20 Ewoks or more.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/1778EFFEA134A54B2E294BC7BC507357FAF696C6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Returning the favor",
+      "trophyDetail": "Defeat a grenadier with his own grenade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/90CABBB426F56DDEF1377F33F1FCE441D135F976.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One with the Force",
+      "trophyDetail": "Complete Endor without dying.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/6D26B121BE9037F3C4AE98242D026E1677BE742C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sith Kicker",
+      "trophyDetail": "Drop kick 10 Ewoks.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/91BCE3C33AAF0B05D6E159BD140B2C789F614ACE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Holocron Hunter",
+      "trophyDetail": "Find all the holocrons in Endor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/6DDF734349865AE4D18C1C54147C8FF76D7FBF43.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Never Tell me the Odds",
+      "trophyDetail": "Complete Endor on UNLEASHED difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/DE3E2EE2C2D5AA94FE026E43DF54F2E080389DDB.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Victory!",
+      "trophyDetail": "Complete Endor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/059078BF0D90D77AB641377994BB8C57485487FA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Don’t let the Wookiee win",
+      "trophyDetail": "Defeat Han and Chewie.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/968EDD19EAABC5AA2506BCEB954B87F484743666.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 59
+}

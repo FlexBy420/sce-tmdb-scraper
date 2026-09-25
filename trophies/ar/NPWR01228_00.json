@@ -1,0 +1,201 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01228_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "TestYourself",
+  "trophyTitleDetail": "\"TestYourself\" game trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/B9C45A4C8C65CC757790973C5E04157FFFF148EF.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 9,
+    "silver": 6,
+    "gold": 1,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "TestYourself",
+      "trophyGroupDetail": "\"TestYourself\" game trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/B9C45A4C8C65CC757790973C5E04157FFFF148EF.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 5,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Memory Trophies",
+      "trophyGroupDetail": "Memory Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/2FDCF16751975DD55AFA82D36E2A367776FC5107.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Attention Trophies",
+      "trophyGroupDetail": "Attention Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/2E35C9C8524165255D506B3AA8F6BC34C46B747F.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "True friend",
+      "trophyDetail": "Describe yourself in social test so that your assessment matches your friend’s opinion",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/9D2E1033D86788FA266CE788B3BA2D12DCB4F6A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Psychologist",
+      "trophyDetail": "Assess 10 friends in social test ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/C1DC1654B6E513D7A7D3EFCFEF1675DA741D78F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Self-known",
+      "trophyDetail": "Request at least 10 assessments from your friends in social test",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/39DB1F769ADFE8684E98465D6F6DD2BFEB0CE56A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nerves of Steel ",
+      "trophyDetail": "Get your characteristic in Nervous System section",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/E0A31CF94F369CD2B1D38D9485D0BA62607F6D1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brain Maniac",
+      "trophyDetail": "Get your characteristic in Intelligence section",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/33BC793B0902C18E539377258B054045156443C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Racer",
+      "trophyDetail": "Outlast at least for 20 seconds in Brownian single player game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/7C3125F167456E02E7FC050307CBA581A2D0EF9F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Solved in 300 seconds",
+      "trophyDetail": "Complete the Intelligence test in 300 seconds without mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/55A7973349D55E503BF53D6D8D08CE00C493FD1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nice Start",
+      "trophyDetail": "Complete any test",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/4F1A9E192928162978A643370BEDC3CF4D991822.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quick learner",
+      "trophyDetail": "Improve any test’s result 10 times in a row throughout the day (in single player Training Mode)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/1CF2586B3B8F358DB334DEC3815434AEF49E5F13.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Ironfinger",
+      "trophyDetail": "More than 500 hits in a Tapping test in one single player game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/6FCD7BBBD7671B26AA3A7DF29C3DF6701BD18ACB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Kamikaze",
+      "trophyDetail": "Outlast for less than 3.1 seconds in Brownian single player game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/A5970667E70D1125E41BA747483A8DE31605BA97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Total Recall",
+      "trophyDetail": "Get your characteristic in Memory section",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/76AC1E0D03FD106F398DCE3AF8615D265E37A79C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lord of the Flies",
+      "trophyDetail": "Complete 8 mazes in a row without losing a life in single player game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/27AD532A7713AFC8261D39B062EF7CBD47C55BC7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Adventure of the Dancing Men ",
+      "trophyDetail": "Memorize 50 icons in a single walkthrough in single player Express Memory test",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/B6FC111107E84B10D3DBCBE32A4528A39D5113C1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sharpshooter",
+      "trophyDetail": "Complete Matrix test in 5 minutes in single player game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/0A13F17A981ADF4E5491E6E6B098AF069228C149.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Concentration",
+      "trophyDetail": "Get your characteristic in Attention section",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/DB31033084B8008332CD9F7A0C084B2C11D81B82.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 16
+}

@@ -1,0 +1,726 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01006_00",
+  "trophySetVersion": "01.04",
+  "trophyTitleName": "Battlefield: Bad Company™ 2",
+  "trophyTitleDetail": "Battlefield: Bad Company™ 2",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/79067CE1A81469FF80F51E60CC3BB3B643CDD510.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 58,
+    "silver": 12,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Battlefield: Bad Company™ 2",
+      "trophyGroupDetail": "Battlefield: Bad Company™ 2",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/79067CE1A81469FF80F51E60CC3BB3B643CDD510.PNG",
+      "definedTrophies": {
+        "bronze": 41,
+        "silver": 7,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "SPECACT",
+      "trophyGroupDetail": "-",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/33457686321BF7B25B9C942A52C8FD3B764BD613.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "OFFENSIVE",
+      "trophyGroupDetail": "-",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/DF496AE2A3F662595796C8F445F944EE3FA104CA.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "VIETNAM",
+      "trophyGroupDetail": "-",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/F5674DDAF61C3A351558D3259DA6768FC70ECABE.PNG",
+      "definedTrophies": {
+        "bronze": 9,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Élite de la Bad Company",
+      "trophyDetail": "Obtenir tous les trophées de campagne et en ligne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/1F62D4ADFC2AB87B547CB7E1F3EED52EE0AF3EB6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Je t'avais dit qu'on le ferait !",
+      "trophyDetail": "Campagne : terminer la mission \"Opération Aurore\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/E8CADF358428DABB1C0A495D2582F99DF21D69D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La retraite attendra !",
+      "trophyDetail": "Campagne : terminer la mission \"Guerre froide\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/BA875194A4963529F945B4A4634E69380A30B88C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "C'est mauvais pour mon karma !",
+      "trophyDetail": "Campagne : terminer la mission \"Au coeur des Ténèbres\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/DECC842DDD176F7395515339837955529975716A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Toutes vos données ?",
+      "trophyDetail": "Campagne : terminer la mission \"À contre-courant\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/430916052839781D6F121D88E8DAD6CDE272245E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Récupérer un véhicule",
+      "trophyDetail": "Campagne : terminer la mission \"Piratage spatial\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/3CA67917404C4F2F668193232539D7876ACBD961.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alors, c'est décidé.",
+      "trophyDetail": "Campagne : terminer la mission \"Tempête de neige\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/9E247EED0F9AF3920B28D91FAA259D25B57CBFCE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On n'est pas là pour s'amuser.",
+      "trophyDetail": "Campagne : terminer la mission \"Heavy metal\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/3F43DAA534374B00C1C56E27D79B7877F4C973D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ghost Rider, toujours à l'heure.",
+      "trophyDetail": "Campagne : terminer la mission \"Cible prioritaire\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/4CBC4E917792FAA00FC2E7AA04F95CD5EB0EBEBE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sierra Foxtrot 1079",
+      "trophyDetail": "Campagne : terminer la mission \"Sangre del Toro\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/FEC639C5C21AFF6DF435CA88F959FF69DE78A011.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Encore merci pour les clopes.",
+      "trophyDetail": "Campagne : terminer la mission \"On abandonne personne\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/136A33C3616C24F3B5CB1246DAC6B9B17218E4B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Des pom-pom girls peu farouches.",
+      "trophyDetail": "Campagne : terminer la mission \"Zero Dark Thirty\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/F7956691F6550B82053013E04B9E1B02FF345CA4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Il suffit d'allumer la lumière.",
+      "trophyDetail": "Campagne : terminer la mission \"Multiplicateur de force\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/F969B4A2868DC7EB4F46654E057786FFCA1B2EA3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "PS : L'invasion est annulée.",
+      "trophyDetail": "Campagne : terminer la mission \"Mission aéroportée\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/15E4D2C81C2C59A62B47C36532D7FCF3B48EC12E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "C'est pénible d'avoir raison.",
+      "trophyDetail": "Campagne : terminer la mission \"Mission aéroportée\" en mode Difficile",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/2F5DF627F81D1A8C0A0D45F3B449CCB293BB4F68.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Des jolies pétoires !",
+      "trophyDetail": "Campagne : trouver 5 armes à collectionner",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/67E8C8050C471243ACE2C5B0AE84E400CF9C77AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pan-pan",
+      "trophyDetail": "Campagne : trouver 15 armes à collectionner",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/980390478C688582453E720FA4C10111CB66FB0C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Retour vers le passé",
+      "trophyDetail": "Campagne : détruire 1 relais satellite",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/2E684306B6DFAA7040A301BA3FB95C14FEBA4099.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Difficulté à communiquer",
+      "trophyDetail": "Campagne : détruire 15 relais satellite",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/987A636866EA795E95E8D3FDB9BA8AD65571E83D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Trou noir",
+      "trophyDetail": "Campagne : détruire 22 relais satellite",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/B7AACAAF66B50F5E96C3AC9356C5EC4A2D2BB25A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lame fatale",
+      "trophyDetail": "Campagne : tuer 10 ennemis à l'arme de mêlée",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/197706C77A7D38392E22D3569BCA1C8722F834B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Taxi !",
+      "trophyDetail": "Campagne : parcourir 5 km dans n'importe quel véhicule terrestre",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/147EBAB7A878CA04BE60A93BBBEA41F2CBAD4676.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Destruction",
+      "trophyDetail": "Campagne : détruire 100 objets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/748A0EEA085951BA6CC36E11CF53BABAB57FF59A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Destruction 2, le retour",
+      "trophyDetail": "Campagne : détruire 1 000 objets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/94B342BC48E18F8D21CB9A4E9DA90FFB9C26E2CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Démolition",
+      "trophyDetail": "Campagne : détruire 1 bâtiment",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/79CBCEC4C727A12DAA9611A8C8CE29F5AC15E613.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Démolition 2, le retour",
+      "trophyDetail": "Campagne : détruire 50 bâtiments",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/7A6A4DF172029C3D852E13E8C02D6F9DD7767DED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Obsédé du fusil d'assaut",
+      "trophyDetail": "Campagne : abattre 50 ennemis au fusil d'assaut",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/A7097DCD9CC2E27924E655BA1E465D555314C405.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Excité du pistolet-mitrailleur",
+      "trophyDetail": "Campagne : abattre 50 ennemis au pistolet-mitrailleur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/20312FB888A11CDA007DF006A10BFD5C62BA946D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dingo du fusil-mitrailleur",
+      "trophyDetail": "Campagne : abattre 50 ennemis au fusil-mitrailleur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/F1B50013B183541D4380C9EE785609A489A28B13.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cinglé du fusil de précision",
+      "trophyDetail": "Campagne : abattre 50 ennemis au fusil de précision",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/7727451B2D1924168FEC6B64E01DDCE2B54C5408.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Toqué du fusil à pompe",
+      "trophyDetail": "Campagne : abattre 50 ennemis au fusil à pompe",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/A1E739E8F9F5A80652D7EDEDBCA4590FF397BF6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert multijoueur",
+      "trophyDetail": "Jeu en ligne : atteindre le grade 10 (Sergent I)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/96B48846F4EC10794EFF6835B1EF58518CBE6D8E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "La crème du multijoueur",
+      "trophyDetail": "Jeu en ligne : atteindre le grade 22 (Adjudant I)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/8C1C5F1FF04AD876E0C4B10231C054C392F74E16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert en assaut",
+      "trophyDetail": "Jeu en ligne : débloquer 3 armes du kit d'assaut",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/3C84BE204381C026CB113444F3E0437E35692878.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert ingénieur",
+      "trophyDetail": "Jeu en ligne : débloquer 3 armes du kit d'ingénieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/7E1A65FE1670C9DD557294835C174981B7D47AAA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert médical",
+      "trophyDetail": "Jeu en ligne : débloquer 3 armes du kit de médecin",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/F5033FF5A700B38ACCA71A2771747792CAE76931.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert en reconnaissance",
+      "trophyDetail": "Jeu en ligne : débloquer 3 armes du kit d'éclaireur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/7DDE4102804CF79BEE86E64F151FFFC350454CFD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Expert de Battlefield",
+      "trophyDetail": "Jeu en ligne : débloquer tous les véhicules ou tous les éléments d'un kit d'équipement",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/0004BC71C2C3E253092CA2EACBF7D48078C925D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "15 minutes de gloire",
+      "trophyDetail": "Jeu en ligne : jouer 15 minutes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/F86CDF5F317CB9DDB1DA2DB8FD24634A96023EE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mission... accomplie.",
+      "trophyDetail": "Jeu en ligne : faire une victime au couteau, au M-60 et au RPG-7 dans une manche",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/F27A259CA89613B5BD87EE956AA35D6C69728A75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pistolero",
+      "trophyDetail": "Jeu en ligne : abattre 5 ennemis avec chacune des armes de poing du jeu",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/423320394879BE1B2440FA8CD5B67299F27C4F2A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La mort vient d'en haut",
+      "trophyDetail": "Jeu en ligne : percuter un ennemi avec un hélicoptère",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/67893B2817A2A1CCEA59192986B8308CA0A87D60.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tu quoque, mi fili?",
+      "trophyDetail": "Jeu en ligne : tuer 5 amis au couteau",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/803EC933BE7014959FC427A35F363473B398C733.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le Démolisseur",
+      "trophyDetail": "Jeu en ligne : faire 20 victimes à l'explosif",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/460D65278DB28AA4A4AC927BD40F4826201FD5A7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bon guide",
+      "trophyDetail": "Jeu en ligne : détruire un hélicoptère ennemi au lance-roquette fixe",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/6ECC5DA3C663D69F9B943E242DB05B4E1494849D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le dentiste",
+      "trophyDetail": "Jeu en ligne : réussir un tir fatal en pleine tête avec l'outil de réparation",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/A9ABA749F9F931F97CFFB69D8B1509E0004D4213.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tout gagné !",
+      "trophyDetail": "Jeu en ligne : remporter une manche dans chaque mode de jeu en ligne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/0FA3E76580F43CB51B552C4110AFA7978B3627AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Joueur d'escouade",
+      "trophyDetail": "Jeu en ligne : obtenir le badge d'escouade en or 5 fois",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/C1FF6D569937E3A1872371148586E8A14174DBE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Renfort au combat",
+      "trophyDetail": "Jeu en ligne : effectuer 10 réparations, réapprov., guérisons, réanimations et détections de mines",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/7D9EAC668E54399BC2FA77EE4F143ABAFD7DCE3C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Penchant pour les décorations",
+      "trophyDetail": "Jeu en ligne : obtenir 10 décorations uniques",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/133008A234623C48748EA64F9A2C5BC22EB82D54.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Obsession pour les décorations",
+      "trophyDetail": "Jeu en ligne : obtenir 50 décorations uniques",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/AFC5BE5866D3DA1383C4250B276643973D63F0B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Assaut FS élite",
+      "trophyDetail": "Obtenir toutes les récompenses Assaut FS",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/5ED6540A1740D304AD6B56721905683A834530C4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ingénieur FS élite",
+      "trophyDetail": "Obtenir toutes les récompenses Ingénieur FS",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/90B7C1877C7B92ABBEE96BBBF958A584A3C61C9B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Médecin FS élite",
+      "trophyDetail": "Obtenir toutes les récompenses Médecin FS",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/431A5A7A2EC71767054C310E292E50070286744A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Éclaireur FS élite",
+      "trophyDetail": "Obtenir toutes les récompenses Éclaireur FS",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/512160F790891D72E17602A300F866D679312EBD.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Valparaiso conquise",
+      "trophyDetail": "Terminez la carte Valparaiso en mode Offensive (tout niveau de difficulté)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/86F07F8A311B51B1DC4D5F26C996A3FD718FE975.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vétéran de Valparaiso",
+      "trophyDetail": "Terminez la carte Valparaiso en mode Offensive (difficulté extrême)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/471912AC037CF45C3D7FD18A63FAA92F46E99725.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Isla Inocentes conquise",
+      "trophyDetail": "Terminez la carte Isla Inocentes en mode Offensive (tout niveau de difficulté)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/A1268C44B567FE4278F32FA41CB808D93BDB0A76.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vétéran Isla Inocentes",
+      "trophyDetail": "Terminez la carte Isla Inocentes en mode Offensive (difficulté extrême)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/E5D43FDFFC818937EE54820DFFF11411508D0641.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Désert d'Atacama conquis",
+      "trophyDetail": "Terminez la carte Désert d'Atacama en mode Offensive (tout niveau de difficulté)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/E98C0FB2E2361FEB634611A580578254359434E3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vétéran du Désert d'Atacama",
+      "trophyDetail": "Terminez la carte Désert d'Atacama en mode Offensive (difficulté extrême)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/0416CCEB5C46B3565B1E7818EB58914CED4F5007.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Baie de Nelson conquise",
+      "trophyDetail": "Terminez la carte Baie de Nelson en mode Offensive (tout niveau de difficulté)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/E39F0675B11921F7C6145D1EE801619A7119BE08.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vétéran de la Baie de Nelson",
+      "trophyDetail": "Terminez la carte Baie de Nelson en mode Offensive (difficulté extrême)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/1D8FF68B7AE1C61A14D2B47C74B047AF648DA141.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'union fait la force",
+      "trophyDetail": "Remporter une manche en mode Ruée ou Conquête sur chacune des quatre cartes Vietnam",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/39E0F723C7A472196EF2D49B91EF77530EB2DAD3.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Toute arme a son bon côté",
+      "trophyDetail": "Obtenir des étoiles d'argent pour toutes les armes principales de Vietnam",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/2A672D992B1672AC3322A490EF06DD0980D85380.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Extase de l'or",
+      "trophyDetail": "Obtenir des étoiles d'or pour toutes les armes principales de Vietnam",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/5FF22B2022CCCBAEB051FDEFE06EA36089768384.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fléau mécanique",
+      "trophyDetail": "Faire une victime avec chaque véhicule de Vietnam",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/DFF8C484A30C5A3E4F49CA394CD87C28AC3C712C.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chauffard irascible",
+      "trophyDetail": "Faire 100 victimes avec des chars de Vietnam",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/7D351FC2AEAA98B262EF67B2174DE27019A0AE87.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chevauchée des valkyries",
+      "trophyDetail": "Faire 50 victimes aux commandes d'un hélicoptère Huey (UH-1)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/716206926AD1D8B7B36243F3C3B03739F8ACA708.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le silence est d'or",
+      "trophyDetail": "Détruire un haut-parleur de propagande d'Hannoi Hannah",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/0D7AC6E4C389B431E05358E56B414C4790294521.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grosses boules de feu",
+      "trophyDetail": "Faire 20 victimes au lance-flammes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/B95006F72499418097B16B35F42E4CD703F4BDC8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le talent ne ment pas",
+      "trophyDetail": "Finir premier du classement sur n'importe quelle carte de Vietnam",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/E09F3298B768A422B0B764D8E9BEBF046D919A09.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Deuxième service",
+      "trophyDetail": "Obtenir la décoration \"Meilleure escouade\" sur l'Opération Hastings",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/D2A82F2F466582D95FA071DA9BB57FEDB9A2D85C.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 73
+}

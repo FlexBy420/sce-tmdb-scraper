@@ -1,0 +1,798 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR01767_00",
+  "trophySetVersion": "01.05",
+  "trophyTitleName": "Dishonored",
+  "trophyTitleDetail": "Dishonored",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/D2CF00A1930B4555764F96B1AD282A4A65737F7B.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 64,
+    "silver": 13,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Dishonored",
+      "trophyGroupDetail": "Dishonored",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/D2CF00A1930B4555764F96B1AD282A4A65737F7B.PNG",
+      "definedTrophies": {
+        "bronze": 42,
+        "silver": 5,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Dunwall City Trials",
+      "trophyGroupDetail": "Dunwall City Trials",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/062FF592DB9C216E8AED7DB21EFA863B8F074E9D.PNG",
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "The Knife of Dunwall",
+      "trophyGroupDetail": "The Knife of Dunwall",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/357AAFF588A66A44301736FE32C39FA18E73A202.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "The Brigmore Witches",
+      "trophyGroupDetail": "The Brigmore Witches",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/DCD72F7E8F8DE07643A4FA446A28AF73DA5FC4CF.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Платиновые клинки и темные углы",
+      "trophyDetail": "Весь Дануолл у ваших ног, вы получили все призы.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/FFE44A8A01CB028AB761FA65D0412C52E6D87C5A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Вор",
+      "trophyDetail": "Вы украли из чужих карманов вещи стоимостью в 200 монет.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/5486BD9C47F142BDFB55352B4020BBCA937229ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Многогранный талант",
+      "trophyDetail": "Вы убивали врагов каждым видом оружия и всеми боевыми механизмами.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/B9474839C2FFFCB4A01051068CB483A5154347D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Призрак",
+      "trophyDetail": "Вы выполнили все задания после пролога, не поднимая тревоги и убивая только ключевых жертв.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/24E57E91D8CE5CDDFDE3A419586EDBBB6E73C8E7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Тень",
+      "trophyDetail": "Вы выполнили все задания после пролога, не поднимая тревоги.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/E2EB2980AFF6DB6EDC83C62D48D7D83148CB00B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "По большей части плоть и сталь",
+      "trophyDetail": "Вы прошли игру, не приобретая сверхъестественных способностей и улучшений, кроме \"Переноса\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/89A2997E5DC38D5ECF581B791866B7C68FFAB5AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Стена искр",
+      "trophyDetail": "Вы убили врага с помощью стены света.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/2B91023F1677EF520E292371504EA3A595FB25A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Проказник",
+      "trophyDetail": "Вы убили 10 ничего не подозревающих врагов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/4703FB0D5BAB6C1F54305BA23BDF3DB39CA5FCC4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Привидение",
+      "trophyDetail": "Вы выполнили задание после побега из тюрьмы, не поднимая тревоги и убив менее 5 персонажей.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/6DBF976D4E785E8CC1695B4D6D9BD1A45CABB1B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Безликий",
+      "trophyDetail": "После побега из тюрьмы Колдридж вы выполнили задание, не поднимая тревоги.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/E07F5D1A8AA1E27D7F8AA0DED743BC44810F32AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Манипулятор",
+      "trophyDetail": "Вы заставили пятерых убивать их собственных союзников.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/FF524DE6DA961592067E19A174AC4902F9AB1143.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Стальной дождь",
+      "trophyDetail": "Вы расправились с 5 персонажами с помощью \"Убийства в падении\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/9BCDDF53FA58A531157CDB9F02EB2FBB2BFB9EE4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Хирург",
+      "trophyDetail": "Вы прошли игру от первого задания до Моста Колдуин, убив менее 10 персонажей.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/B5A501B82C49B892C8143A191D440EB77B32803E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Чистые руки",
+      "trophyDetail": "Вы прошли игру, никого не убив.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/C101452CEAA08BCEA0364FAF0F0BEBF5E101DB27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Неосторожный",
+      "trophyDetail": "Вы стали причиной 5 непреднамеренных самоубийств.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/A302241D64115D8EA03138C0113C81450176F687.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Жилец",
+      "trophyDetail": "В течение 3 минут вы находились в чужих телах больше половины времени.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/42A1C546A1BFBD77773DDEC101EB1501B502A670.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Осиное гнездо",
+      "trophyDetail": "Вы убили из арбалета 4 врагов быстрее чем за 1 секунду.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/A29AEAFFEAC4DE00182EF7CC2EB6AA7EE2A195CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Скорость тьмы",
+      "trophyDetail": "Вы преодолели 30 метров менее чем за 1 секунду.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/75EDDD7662C90DA0DB47CE2B351AFF02805A0888.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ураган",
+      "trophyDetail": "Вы убили 6 противников менее чем за 1 секунду.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/ECED7CD29785989A996FB5895E784A0470DD8EDB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Торговец хаосом",
+      "trophyDetail": "Вы приобрели 15 улучшений для снаряжения.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/9FFDB9600533BCF96AE49A00073DAD0682B2BE74.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Галерист",
+      "trophyDetail": "Вы собрали все картины Соколова.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/5640779232E163A71830737E5DE3C7DDE541553F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Оккультист",
+      "trophyDetail": "Вы собрали 10 костяных амулетов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/4989BA3B4FC72A79BFA975F99D81BD9008B5A417.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Эскапист",
+      "trophyDetail": "После тюрьмы Колдридж вы ушли сразу от 5 преследователей, не убивая их и не покидая карту.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/D08E337650DA1D315241645DF79E7D2152CC7FC5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Чистильщик",
+      "trophyDetail": "Вы сразились с 5 врагами одновременно и убили всех.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/9C6AEA53337B26DBC58B22A12D4721215D260824.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Опозоренный",
+      "trophyDetail": "Вы сбежали из тюрьмы Колдридж.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/53788DD610ED56997D74E8AF68A481BBE7241534.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Анафема",
+      "trophyDetail": "Вы устранили верховного смотрителя Кемпбелла.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/1CC3B579B40061EEE710B331E905C8872F5435EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Детский сад",
+      "trophyDetail": "Вы нашли Эмили Колдуин, наследницу престола.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/FF7AB5D30B9C4E84E328C4745CFEC8318B4F48C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Гений и безумец",
+      "trophyDetail": "Вы похитили королевского лекаря Антона Соколова.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/B969E91634AA143D5434474B0EC11FCB1CD0A3DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Цареубийца",
+      "trophyDetail": "Вы убили лорда-регента Хайрема Берроуза.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/AE3BB688DE9B33EBA81C10F513730B47150F83BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Политсамоубийца",
+      "trophyDetail": "Вы поведали людям о преступлениях лорда-регента и добились его падения.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/D3BDB2F52DDD4808017A4203A224B851C50690ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мое!",
+      "trophyDetail": "Вы вернули свои вещи. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/7F7F51957E8064FC75410B550F06B78C01384E96.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Итог",
+      "trophyDetail": "Вы прошли игру.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/3CCEFD5AB173B6142B3380F5A05638E95463DF26.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Дануолл в хаосе",
+      "trophyDetail": "Вы прошли игру при высоком уровне тревоги.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/9FBA0FC642F1EB6294D478446D2FA8920AA95936.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Сумерки",
+      "trophyDetail": "Вы прошли игру при низком уровне тревоги.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/89DC99C3F29955358FFCA35AF539A653C066888E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Исчезновение",
+      "trophyDetail": "Вы сбежали из тюрьмы и выбрались из подземелий.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/C421CA34FEF9636570137C5840A6CC067D156B04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Дамский угодник",
+      "trophyDetail": "Вы выполнили все задания Старой Ветоши.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/148DEC071CF7D5E007DCBE42F623CC9F0B50F4C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Уличный заговор",
+      "trophyDetail": "Вы выполнили все задания Слекджова.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/F05EDE582C94704A30686216C852B82B91A548B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Воровское искусство",
+      "trophyDetail": "Вы добыли для Слекджова код от сейфа торговца картинами.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/8F97EE49DB8959B4687E12A55E8F3642BBDE2C13.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Несчастный случай",
+      "trophyDetail": "Вы убили Моргана Пендлтона паром.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/7C3CF357C1898011CF072F3CE0AC35574C45277E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Хорошие манеры",
+      "trophyDetail": "Вы выполнили задание в поместье Бойлов, не испортив прием. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/CCDA4A46D7EACDF82D20CD55CE47C96E9665AC19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Король мира",
+      "trophyDetail": "Вы забрались на самый верх Моста Колдуин.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/0F18AA44850367C1E59F94A78DAFB38BC877AF1B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Телохранитель",
+      "trophyDetail": "Вы защитили капитана Джеффа Карноу, дядю Каллисты.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/19709C5A514D96073EAF3905063D526E50CD416A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Милосердие",
+      "trophyDetail": "Вы пощадили Дауда.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/A43CC5F2F4F042A04E4FDAEDBDE76A41A7D6257D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Туши свет",
+      "trophyDetail": "Вы отключили не менее 5 систем безопасности на острове Кингспарроу.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/2ACAA1208778704B98939E2A50C0EDCD88FDCCD6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Да здравствует императрица",
+      "trophyDetail": "Вы спасли императрицу Эмили Колдуин.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/1915E8A37B4FE65347C87B0217A70283691176FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Изощренность",
+      "trophyDetail": "Вы избавились ото всех основных жертв обходными способами.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/6C49E5DA597EA3482638E743FC8C601478687413.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Пищевая цепь",
+      "trophyDetail": "Вы убили убийцу.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/D48CF03EAE1F52D0F2C0E55C7560D365EA81FC6C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Без дыхания",
+      "trophyDetail": "Вы вселились в рыбу.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/405AC593A2CF410497C1CD94A17A803CA8D669C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Мерзкий лаз",
+      "trophyDetail": "Вы использовали крысиный ход.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/0E81D3810ACD5CF9AA7BCF611E5B4FB229C2A2C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Вернуть отправителю",
+      "trophyDetail": "Вы схватили гранату с зажженным запалом и бросили обратно, убив ею нападавшего.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/C84236C7512297615CD42D05B0242FB42A73A16A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Большой мальчик",
+      "trophyDetail": "Вы убили толлбоя одним только клинком.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/8304C172A183973C21CB5229BA06E82DBE8C1E30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Раскаяние миссис Пилсен",
+      "trophyDetail": "Вы нашли спрятанную куклу Эмили в каждом из 10 заданий.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/3B8FBCD71ABCE7776164B6ED1F462ED90F491BB4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Созвездие",
+      "trophyDetail": "Вы прошли все испытания среднего и экспертного режима, заслужив за них рейтинг в 3 звездочки.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/C50A6704354692E44431DAE357D59FACCA83A883.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Всех своими руками",
+      "trophyDetail": "Вы уничтожили своими руками 13 групп противников в задании \"Драка в подворотне\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/58F2423DB847F2F68727496C048B67DC2413C9FF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Убийца против машины",
+      "trophyDetail": "Вы завершили задание \"Пробежка\" раньше, чем поезд прибудет на станцию.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/E091CB34FD5787F4D76E062291C3D64EC3AB9D2B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Собиратель редкостей",
+      "trophyDetail": "Вы собрали все фигурки в задании \"Взломщик\" в экспертном режиме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/E3CF7529F2BAEA84AE15B22822A92290CA4620B6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Долгий путь вниз",
+      "trophyDetail": "Вы совершили убийство в падении с высоты как минимум 150 метров в задании \"Каскад смертей\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/F919F871BD8ECD44CF67DB0725118C0443ABAF59.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Охотник за головами",
+      "trophyDetail": "Вы прошли задание \"Побег ассасина\" со 100 % точностью, используя только выстрелы в голову.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/D9827C4239AC1D52000419A70851A41EDE007B5B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сорвиголова",
+      "trophyDetail": "В задании \"Костры\" вы выполнили все особые комбинации прыжков за 1 раунд.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/1B649FD8408CF158E163F6E6609492930B760976.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Все естественно",
+      "trophyDetail": "Вы завершили задание \"Таинственный враг\", не использовав сверхъестественные способности.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/3D53BA4BA72BFE332D266E6B6E0B1B9A1B33AF8E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Планирование времени",
+      "trophyDetail": "Вы победили все группы врагов в заданиях \"Серийное убийство\" или \"Смертоносный изгиб времени\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/5112DA5F2B1F4D0938248F4984C28C2DDD0B7DC6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Просто бизнес",
+      "trophyDetail": "Вы получили нужные сведения на бойне Ротвильда.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/0B405AACD8B879CF05D3A92F0CCC3A3D2C2079FA.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Кусочки мозаики",
+      "trophyDetail": "Вы получили данные о Далиле Копперспун от Талии Тимш.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/E16C3F55B7AC5948E438405B26293DB8CA262EEE.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Хорошие связи",
+      "trophyDetail": "Вы приобрели все услуги в дополнении The Knife of Dunwall.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/0988E3BB40706385F64CD0BC6A502A1311E85C30.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Без сожалений",
+      "trophyDetail": "Вы прошли дополнение The Knife of Dunwall при высоком уровне хаоса.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/70F3F6186B110BB6C69DD585B104EBD6BC537487.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Тропа искупления",
+      "trophyDetail": "Вы прошли дополнение The Knife of Dunwall при низком уровне хаоса.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/56E72C0DA5C05A84FBEF25F9CA910B72545A24E2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Без шороха",
+      "trophyDetail": "Вы прошли дополнение The Knife of Dunwall, не поднимая тревоги.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/8FB1D1AF4822A38401250060B5A1AA36AC5A07C5.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Чистые руки",
+      "trophyDetail": "Вы прошли дополнение The Knife of Dunwall, никого не убив.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/F26B195048375D85E43E29DEBCCE840C3C73A9CD.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Клочки по закоулочкам",
+      "trophyDetail": "Вы присоединили разрядную мину к крысе и взорвали ее.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/6DBED9931655D83D20F4B795B28FD597247BB70F.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Послание свыше",
+      "trophyDetail": "Вы провели убийство в падении со статуи императрицы  в The Knife of Dunwall.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/C6517077B3B1CCB527F28DE134E5563339E84314.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Каменное сердце",
+      "trophyDetail": "Вы поговорили со статуей Далилы Копперспун в поместье Тимш",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/D8C359F06EE151A06A517E1FBEF51A492FB79B38.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Прощальный аккорд",
+      "trophyDetail": "Вы убили (или попытались убить) Корво Аттано.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/B82A81950CD1DD09EE3301D9CF242F1FC13B858D.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Побег",
+      "trophyDetail": "Вы вытащили Лиззи Страйд из тюрьмы Колдридж.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/E9DF5C36013A38B8F98755276F6763F16B122C08.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Банды Дануолла",
+      "trophyDetail": "Вы починили \"Ундину\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/DE494427EA7C1D1ED138C16538F5F0946AD4C419.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ты - мне, я - тебе",
+      "trophyDetail": "Вы купили не менее 8 услуг в дополнении The Brigmore Witches.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/A9D0BF2E958871A691D8641E6D5C7605F5DFAE87.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Все пошло прахом",
+      "trophyDetail": "Вы прошли дополнение The Brigmore Witches при высоком уровне хаоса.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/248205348D5DFD4236C3777C2459FB2BAD2A4482.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Перерождение",
+      "trophyDetail": "Вы прошли дополнение The Brigmore Witches при низком уровне хаоса.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/5C20423FF09FB7C4E2B700E7F2DC022369514D7A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Молчание - золото",
+      "trophyDetail": "Вы прошли дополнение The Brigmore Witches, не подняв тревоги.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/6DEACDB3C4A40E604108AA5644AB4C28A1DEFCF8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Чистейшие руки",
+      "trophyDetail": "Вы прошли дополнение The Brigmore Witches, никого не убив.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/DE55C2C0FB77081A1602F6A173545D0EFF9DF6B9.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Билет в новую жизнь",
+      "trophyDetail": "Вы выжили в дополнении The Brigmore Witches при низком уровне хаоса и накопили 10 тысяч монет.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/E3D5D4C904FEBF8327DD7A19E46F9937091443AA.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Живой щит",
+      "trophyDetail": "Вы использовали в качестве щита врага, поднятого притягиванием.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/980D55FA8CF4DF7C2B06C667EE283A498BAC72D6.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 81
+}
