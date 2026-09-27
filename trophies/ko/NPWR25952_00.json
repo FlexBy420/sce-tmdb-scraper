@@ -1,0 +1,456 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR25952_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "Fury Unleashed",
+  "trophyTitleDetail": "The trophy set of Fury Unleashed",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/6996EA27A16A995E02949A52C109F6BED88AB14A.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 30,
+    "silver": 14,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Fury Unleashed",
+      "trophyGroupDetail": "The trophy set of Fury Unleashed",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/6996EA27A16A995E02949A52C109F6BED88AB14A.PNG",
+      "definedTrophies": {
+        "bronze": 30,
+        "silver": 14,
+        "gold": 2,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "완벽주의자",
+      "trophyDetail": "다른 트로피를 모두 획득하십시오",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/BA83DBB8DA4AF341347223EAFA0B3097B844B74F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "신속 공격",
+      "trophyDetail": "5초 안에 보스 사살",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/E73748C2EEC23EB40DD385179A67DAA8E4309A14.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "산뜻한 출발",
+      "trophyDetail": "빠른 이동을 사용 않고 HP를 꽉 채운 상태로 챕터 완료",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/29CBA9ED1560DAAED4CD813DE692D5503EC3F3EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "훌륭한 콤보",
+      "trophyDetail": "50 콤보 기록",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/5994F503382B364353D327986C38A5320F7393BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "대미지 딜러",
+      "trophyDetail": "10000 대미지 이상 기록",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/F325BB239146C69B3E67D782A778C3FDD977BCE0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "약간 무섭게",
+      "trophyDetail": "보스 3명 사살\n(이지 모드에서 달성 가능)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/3F64FE2D8479E0C512C887121648C91809004146.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "멀티 킬러",
+      "trophyDetail": "100회의 멀티 킬 수행",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/27185E47862D6055AC0105490932C25DF594AE00.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "나이스 원",
+      "trophyDetail": "총알 한 발로 적 3명 사살",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/0D9789356065ADD6331106CD1346AF127A86D4D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "평화주의자",
+      "trophyDetail": "빠른 이동을 사용해 적을 죽이지 않고 챕터 완료",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/74F90C8A9917C596763A92BF7796FF477165D323.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "행복한 평화주의자",
+      "trophyDetail": "적을 죽이지 않고, 빠른 이동을 사용하지 않으며 \n대미지를 입지 않은 상태로 챕터 완료",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/33A0AF9EE39B9C4FE388012C50AF972019EFE8BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "파워 업",
+      "trophyDetail": "잉크 50,000 수집\n(이지 모드에서 달성 가능)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/092BB237436AC6B32EA977F5EBDCB4524F4AF20F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "굿 런",
+      "trophyDetail": "한 판에서 잉크 5,000 수집",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/9329D02BF453BD53295F4979BA61995BF8B1A5FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "세 줄 요약 좀",
+      "trophyDetail": "30초 안에 챕터 완료",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/FDB914247F829CFC6A0574CA3DB1E752F2BA2AD8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "척탄병",
+      "trophyDetail": "한 런에서 수류탄으로 50명 사살",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/5C569D8D9C4EED22E8681E3FEF6D979D9C7D777C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "버킷 리스트",
+      "trophyDetail": "모든 보스 사살\n(이지 모드에서 달성 가능)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/0A8A0E416AE090F82D2607FFFD2C9A49DFDD20C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "플로리스 빅터",
+      "trophyDetail": "대미지를 입지 않고 보스 10명 사살",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/FA2803538613686A26C42FDB593A8E782B3FE7B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "더블 플로리스",
+      "trophyDetail": "대미지를 입지 않고 보스 2명 연속 사살",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/3EF2D756E890D1532608C1D46B1CD1DB549F7E63.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "배관공 스타일",
+      "trophyDetail": "한 런에서 스톰핑으로 30명 사살",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/CBD9813C961B83B05282321FA04FF754468A49C1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "중독",
+      "trophyDetail": "동시에 포션 3개의 영향 받음",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/F2541D1140FC6A8629EFD990857B92BA372E60DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "하늘에서 죽음이 빗발친다",
+      "trophyDetail": "땅에 닿지 않고 적 5명 사살",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/630F86816BBC3853E9909927C4561824AB2CF4AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "완전 무장",
+      "trophyDetail": "모든 유형의 방어구 아이템 수집\n(이지 모드에서 달성 가능)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/1B8FC54F7A804C96F08835E4BAE734CDE9AB7F72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "기사회생",
+      "trophyDetail": "10%에서 90%로 체력 회복",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/C807B08957FF3DA8EB6E1622C7C28A1EEC71BCA1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "배럴 폭발",
+      "trophyDetail": "배럴 폭발 한번으로 적 3명 사살",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/D1464ABAD384FB9A38E6A6EC6CE22E7011E09A50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "환상의 콤보",
+      "trophyDetail": "100 콤보 기록",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/8CF801583D478165F6DE75A569510D755117DF3F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "영광의 콤보",
+      "trophyDetail": "200 콤보 기록",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/6B916F1511A740B76E7179A946B93C3673954BB3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "타락한 신 격퇴",
+      "trophyDetail": "타락한 신 사살\n(이지 모드에서 달성 가능)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/36050942D2D566219283ED82E8CFFAE986167A05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "사슬에 메인 신 격퇴",
+      "trophyDetail": "사슬에 메인 신 사살\n(이지 모드에서 달성 가능)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/59D27404C74FBC42C6AD74BD1A85A4B720FB65E2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "뱀의 신 격퇴",
+      "trophyDetail": "뱀의 신 사살\n(이지 모드에서 달성 가능)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/FF7B11948405AA1922AEC1CB3482A638914CB426.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "하늘 요새 격퇴",
+      "trophyDetail": "하늘 요새 파괴\n(이지 모드에서 달성 가능)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/D0B7047269BCD2B4764056D33D9C09A887019467.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "워 메크 격퇴",
+      "trophyDetail": "워 메크 파괴\n(이지 모드에서 달성 가능)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/404EFD99DBA09125F85752A7D89CF35E66D6C959.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "메가 쉘 격퇴",
+      "trophyDetail": "메가 쉘을 파괴\n(이지 모드에서 달성 가능)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/4DEE0D6BC1DBAB71C2C9D09606FEA971738F1025.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "멋진 콤보",
+      "trophyDetail": "10 콤보 기록",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/A1A80BA708C12B271792BBDE5FD11470DDA8B041.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "엄청난 콤보",
+      "trophyDetail": "20 콤보 기록",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/C0E2562DDF41F4F6B4B7BA3E637BC8CDC3EDB5B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "근접 공격 마스터",
+      "trophyDetail": "한 런에서 근접 공격으로 20명 사살",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/62488C521BB5DB025DE062265BD892F0A914895B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "근접 공격 그랜드마스터",
+      "trophyDetail": "한 런에서 근접 공격으로 50명 사살",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/07F388979BC78A4DBDF63B0D43C986AE840BAB88.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "근접 공격 아크마스터",
+      "trophyDetail": "한 런에서 근접 공격으로 100명 사살",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/66EE8B43B4FC308BC586ABF0EE1C31F95ECA4E60.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "하이브 퀸 격퇴",
+      "trophyDetail": "하이브 퀸 사살\n(이지 모드에서 달성 가능)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/E792EF943FB7483D385D0EA90F632D5F171CF3E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "침략 사령관 격퇴",
+      "trophyDetail": "침략 사령관 사살\n(이지 모드에서 달성 가능)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/61644BC19B3862A4637B18F8942B409CC8016A3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "도시 파괴자 격퇴",
+      "trophyDetail": "도시 파괴자 파괴\n(이지 모드에서 달성 가능)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/6E6AA38DA329771E0637C818966065A08FF430C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "중급 퓨리 언리쉬드",
+      "trophyDetail": "임의의 게임 모드로 게임 클리어",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/BDC23D7D93D74AAC05A09E84A7350AEA78C6F946.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "퓨리 언리쉬드",
+      "trophyDetail": "하드 게임 모드로 게임 클리어",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/E6227A71A7EC1680593B901A68B476A9D5848AE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "인크레더블 퓨리 언리쉬드",
+      "trophyDetail": "인크레더블 게임 모드로 게임 클리어",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/ACBE9A10BE542C72FFC1BBDBAD594FB8F52CE64F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "레전더리 퓨리 언리쉬드",
+      "trophyDetail": "레전더리 게임 모드로 게임 클리어",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/7CA71D3E5A1DB45CCB42C984CE9AEAECCCF2E8E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "퍼펙트 콤보",
+      "trophyDetail": "첫 번째 만화책에서 시작하여 하나의 콤보로 게임 클리어",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/45EA77DCEE0EC22A9D75CE0AF914C38A93106C6C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "굉장한 콤보",
+      "trophyDetail": "500 콤보 기록",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/257E7DB78ECF68FD93CC33CDA6EF29A64A92C543.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "주의 돌리기",
+      "trophyDetail": "30보다 높은 콤보로 보스 사살",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/20656BF078E8556343DD37CF54D54BE7DAE8A5A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "컬렉터",
+      "trophyDetail": "잠금 해제 가능한 모든 아이템 잠금 해제",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25952_00_00D749BDE2F98326F1494C991ACBF3002EA0F63359/4051A6E48E32ADD3D3A796953109822FC0677462.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 47
+}

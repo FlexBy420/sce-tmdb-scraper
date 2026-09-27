@@ -1,0 +1,632 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR26434_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "地平线 西之绝境",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/e973eb5d-2f3f-4842-9db6-d21ed1c8902b.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 53,
+    "silver": 7,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "地平线 西之绝境",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/e973eb5d-2f3f-4842-9db6-d21ed1c8902b.png",
+      "definedTrophies": {
+        "bronze": 50,
+        "silver": 7,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "新游戏+",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/1e37dad4-5e39-4a19-8c05-1c377621935f.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "获得所有奖杯",
+      "trophyDetail": "获得《地平线 西之绝境》的所有奖杯。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/d4075b0e-2a10-47bf-8d8d-74bf5de46793.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "达到20级",
+      "trophyDetail": "玩家等级达到20级。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/06d7def2-ae9a-48cf-9279-2b08102d52e0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "达到30级",
+      "trophyDetail": "玩家等级达到30级。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/ef86e6d7-e93f-4d20-9af0-cfaf2fe30e81.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "达到50级",
+      "trophyDetail": "玩家等级达到50级。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/c83ca5aa-6179-41ff-8e5b-5f65b709cc60.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "到达丹特",
+      "trophyDetail": "抵达丹特，以寻求进入西方禁地的通行权。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/22335f59-92df-409a-9490-9a4ddfa141b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "确保通往大使会议的通道安全",
+      "trophyDetail": "清出通往大使会议的道路并重新打开丹特。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/c858f2da-9720-4787-beb5-e29a7840265a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "参加大使会议",
+      "trophyDetail": "在大使会议的伏击中幸存下来，并获得进入西方禁地的通行权。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/a35097be-0a0c-4b7f-9b04-668f199bab65.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "建立基地",
+      "trophyDetail": "确保行动基地的安全并重新启动盖亚。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/192577f9-11ca-4b43-9bf6-7f336f196038.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "找回以太",
+      "trophyDetail": "守护库尔拉特并找回以太。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/4cf51e7d-0b43-4692-aa28-0a380dc5507b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "找回波塞冬",
+      "trophyDetail": "抽干拉斯维加斯并找回波塞冬。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/f3b111d1-f30f-4788-b58e-7a17ec98edac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "找回得墨忒耳",
+      "trophyDetail": "遇到昆恩族并找回得墨忒耳。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/41bd377f-dccb-49e3-bf4d-dc8a42c66e87.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "救回贝塔",
+      "trophyDetail": "跟随贝塔的求救信号，将她带回基地。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/f2f177c8-3324-4f8b-b7b8-8fbbc63a7bd9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "揭秘法罗的命运",
+      "trophyDetail": "在底比斯幸存下来并与昆恩族成为朋友。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/6364f1c4-fbb8-418b-927f-f040109eafbd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "乘着特纳克之翼飞行",
+      "trophyDetail": "飞入战场并打败雷加拉。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/4bc5c668-04e0-4fe2-91a4-77026a85798e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "发现涅墨西斯",
+      "trophyDetail": "结束天顶人威胁并发现涅墨西斯。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/dba551ce-943d-4df3-ab7f-a419fb77fc56.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "选择沙漠指挥官",
+      "trophyDetail": "帮助德拉卡和雅拉并选择更好的候选人。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/2e142052-cccc-46f9-84de-3156a20a51f7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "拯救丹特",
+      "trophyDetail": "解决困扰丹特的所有麻烦。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/99a6e089-31dc-4206-8e1d-d0189cbbfb98.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "协助克塔罗",
+      "trophyDetail": "帮助克塔罗打造和测试机械手臂。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/b11259d8-13e9-4434-9f46-cf481fb2ced1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "治愈大地之神",
+      "trophyDetail": "帮助卓重新启动大地之神来拯救素歌之域。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/b1bc0e6d-ddf2-4963-81f4-50bdab4e8728.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "找回阿尔瓦的数据",
+      "trophyDetail": "帮助阿尔瓦取回数据来帮助昆恩族。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/4d04f947-dcc8-4474-b333-168eca1b7daf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "超控第一只长颈兽",
+      "trophyDetail": "爬到长颈兽的头上，并获取它的信息。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/865790a2-e5dc-4993-88f0-6dde6f287f52.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "超控所有长颈兽",
+      "trophyDetail": "爬到所有长颈兽的头上，并获取它们的信息。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/6117e41d-171f-4bc9-b382-6bf90534a6cc.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "完成第一个叛军营地",
+      "trophyDetail": "完成1个叛军营地的关键目标。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/0bd08205-9ab2-4a05-8c44-a8f28d8245fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "打败阿塞拉",
+      "trophyDetail": "调查所有叛军营地，并帮助艾伦德打败阿塞拉。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/05989a94-8923-40aa-bb4e-3526d2ecfdbd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "超控第一个核心",
+      "trophyDetail": "到达大坩埚核心，并获得其中的信息。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/c61d1ec9-1987-43ed-9ef1-7900c4dfd5a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "超控所有核心",
+      "trophyDetail": "进入所有大坩埚的核心，并获得其中的信息。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/ef664b14-4da7-4e2b-8d26-d8ed589db736.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "在一个狩猎场中，赢得3个勋带",
+      "trophyDetail": "在一个狩猎场的3项试炼中，皆赢得至少一个四分之一勋带。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/bf163c72-71e0-4bee-9663-ac259ed5d592.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "在所有狩猎场中，皆赢得3个勋带",
+      "trophyDetail": "在所有狩猎场的3项试炼中，皆赢得至少一个四分之一勋带。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/265f10a8-30eb-4df9-bb78-8d828cfdfa99.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "12"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "消灭所有采集机器",
+      "trophyDetail": "所有类型的采集机器都至少要干掉一只。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/22512fa5-6f6f-4cca-8f66-753df6410fb4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "18"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "消灭所有侦察机器",
+      "trophyDetail": "所有类型的侦察机器都至少要干掉一只。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/a8ce00ad-173e-4cbf-9548-a5f55b5dc155.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "消灭所有战斗机器",
+      "trophyDetail": "所有类型的战斗机器都至少要干掉一只。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/9bfc7639-c778-43f2-b349-259fbb8af323.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "13"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "消灭所有运输机器",
+      "trophyDetail": "所有类型的运输机器都至少要干掉一只。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/b3107a3d-fb3b-4988-b32d-32766c15a0c6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "骑乘所有常规坐骑",
+      "trophyDetail": "骑乘过冲锋兽、刚背兽和猛爪兽。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/cf077a7c-7dc1-40ed-807e-b060a466a501.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "扫描所有类型的机器",
+      "trophyDetail": "遇到所有类型机器，并用全息眼镜扫描。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/47b6b6eb-3bef-4837-b59e-7f3a1aa25384.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "43"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "完成一次远距滑翔",
+      "trophyDetail": "持续滑翔60秒。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/3d8fcd74-a187-46e4-8f50-f7bce5be0471.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "完成2个飞行骑乘任务",
+      "trophyDetail": "完成2项需要飞行坐骑的任务。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/bbb9d814-59a6-4182-8620-d74ac4b555e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "赢得2个骑乘赛挑战",
+      "trophyDetail": "在两个不同的骑乘赛挑战中赢得第一名。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/634d1e06-0076-4d49-bb46-a378c06cb16c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "完成一组资源回收合同",
+      "trophyDetail": "完成一名资源回收承包商的所有合同。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/80a75fd8-7e63-4577-96ec-cd6b03dfedba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "清理4个叛军岗哨",
+      "trophyDetail": "击败4个叛军岗哨的首领，并从中找回军籍牌。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/053a2dae-1590-4223-9009-b4e57ed29ac5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "完成3个遗物遗迹",
+      "trophyDetail": "发现并完成3个遗物遗迹。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/c0ef5ad9-323e-4a91-9fff-c5f82cc48e47.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "完成竞技场挑战",
+      "trophyDetail": "完成一组竞技场挑战。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/fba0d5cb-2a17-4e26-92f0-65bab5bc5a2f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "击败机器斗棋挑战者",
+      "trophyDetail": "对抗2个不同的机器斗棋挑战者并取得一场胜利。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/fc4e3e78-19ba-4aa8-be2a-25b24a2d5b02.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "获得全部武器类别",
+      "trophyDetail": "每个武器类别的武器至少获得1件。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/6e2b11d0-d5bf-4e79-a45f-cdc815307e37.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "9"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "使用所有元素状态",
+      "trophyDetail": "每种元素状态至少在敌人身上施加1次。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/c78fddde-b14b-4014-883d-198df3431ac0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "完成3套近战连击",
+      "trophyDetail": "成功施展3种不同的可解锁近战连击。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/069968ff-f340-491b-85fd-fd23d3456637.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "潜行击溃10台机器",
+      "trophyDetail": "潜行击溃10台机器。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/23ba8912-df66-42b1-8fde-b77d35f4cffb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "撕下100个组件",
+      "trophyDetail": "从机器身上拆下100件组件。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/46069564-3856-4e7e-a3ec-04c48ccd43d9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "拾取5种重型武器",
+      "trophyDetail": "拾取5种不同的重型武器。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/b63a7836-66b7-4fca-8e75-bed5fc6c7c62.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "超控10种机器",
+      "trophyDetail": "解锁10种不同的机器超控并执行超控。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/f67147f4-e078-46f1-a468-fb2d3fc580cf.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "打败持久者",
+      "trophyDetail": "打败特纳克近战大师\"持久者\"。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/753ba80a-4dc4-4179-a18b-475469b8c3bc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "完全升级一项勇气激增",
+      "trophyDetail": "将勇气激增升到顶级。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/e29a3c5b-743e-4ccb-92cb-843341518992.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "升级3件武器",
+      "trophyDetail": "完全升级3件武器。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/f6b79c86-16c9-4070-b528-ee84376134fa.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "升级3件装束",
+      "trophyDetail": "完全升级3件装束。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/55fe12b6-6738-4b6a-ac09-868422390c81.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "升级所有类型的袋子",
+      "trophyDetail": "将食物袋、药剂袋、资源袋、陷阱袋和任意弹药袋至少升级一次。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/544e6151-c5a2-4a80-b677-2f1ff3bce50d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "使用线圈强化武器",
+      "trophyDetail": "配备一件配有2个线圈的武器（任意级别）。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/83d57704-cd3d-47b0-a717-c973290f8bd3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "解锁3种武器技巧",
+      "trophyDetail": "为3个不同的武器类别解锁武器技巧。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/7f6e891c-3875-4d91-a83e-9c072c137a86.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "习得技能树所有技能",
+      "trophyDetail": "习得一个技能树上的全部可选技能。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/b912296d-4b30-4c2d-8189-77e67473948f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "找回5种不同的收藏品",
+      "trophyDetail": "完成1个勘测无人机、1个黑盒子、1个遗物遗迹、1个观景点和1个信号塔。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/3a40e2d2-8939-4dde-b8d8-78800ffcdf03.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "使用染料花",
+      "trophyDetail": "使用染料花解锁并使用一种新染料。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/02341c62-65f7-4e86-8412-96a4bbf82347.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "完成了新游戏+",
+      "trophyDetail": "以任意难度完成了新游戏+。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/b557bce8-6c45-407b-b2fc-d7db418d24e9.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "完成了超难难度",
+      "trophyDetail": "以超难难度完成了新游戏或新游戏+。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/8dbbd157-c4b1-4e62-9705-81ca34ee60a8.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "获得了所有新游戏+奖励",
+      "trophyDetail": "获得了所有新游戏+武器、染料和面部彩绘。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26434_00/fab9c738-02c4-450b-a53a-c22c765ef5c5.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "17"
+    }
+  ],
+  "totalItemCount": 62
+}

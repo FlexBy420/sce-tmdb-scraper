@@ -1,0 +1,515 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR24740_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Ghostbusters: Spirits Unleashed",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/181d019f-0574-4ed0-8ff1-c410157c8e2e.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 40,
+    "silver": 9,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Ghostbusters: Spirits Unleashed",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/181d019f-0574-4ed0-8ff1-c410157c8e2e.png",
+      "definedTrophies": {
+        "bronze": 40,
+        "silver": 9,
+        "gold": 2,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Buster leggendario",
+      "trophyDetail": "Guadagna tutti gli altri trofei",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/dfa15143-45d8-4f48-9b9b-f7db3d8ef11b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Distruttore di Brecce",
+      "trophyDetail": "Aiuta a distruggere 30 Brecce",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/663d79b6-401f-4a38-b96b-dc2bca01c1b2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cercatore di Brecce",
+      "trophyDetail": "Scopri 50 Brecce",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/a216a7e5-2732-4982-a504-a4ac60defbff.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legioni",
+      "trophyDetail": "Cattura 1 Fantasma per ognuna delle 5 categorie",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/1b793f2d-46c6-4ff2-a2f0-8f25b93f728b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ghostbuster in addestramento",
+      "trophyDetail": "Cattura 25 Fantasmi",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/8f5759c2-de15-4bfa-a3e8-584963a3dd5f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cattura in solitaria",
+      "trophyDetail": "Cattura un Fantasma senza i tuoi compagni",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/345968c4-5233-46a1-a778-f42580f99b0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pesti fastidiose",
+      "trophyDetail": "Distruggi 100 scagnozzi",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/3641a7eb-da2f-4df5-abcf-a238bb2a14dd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ops",
+      "trophyDetail": "Distruggi un oggetto molto costoso",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/518a4fa2-16b3-4c67-9f36-38e9faa28992.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La migliore delle assicurazioni",
+      "trophyDetail": "Termina un lavoro con il luogo completamente devastato",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/ea16858b-cc5b-4b1a-ad8f-a67d752fad22.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spericolato",
+      "trophyDetail": "Accumula 100.000 dollari di danni materiali in un lavoro",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/11b613b3-c251-4284-ae2d-81ab40a83a6c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100000"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Responsabilità",
+      "trophyDetail": "Accumula 1.000.000 di dollari di danni materiali in Carriera",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/daccf5d4-d660-4f8a-a98c-46c22352d9d0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000000"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Catastrofe",
+      "trophyDetail": "Accumula 5.000.000 di dollari di danni materiali in Carriera",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/a253fa31-551c-4b5f-9cf3-bd10b7c8e417.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5000000"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sul filo del rasoio",
+      "trophyDetail": "Cattura un Fantasma a meno di 30 secondi dal termine della partita",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/49765761-cb6e-4395-9da8-b491876c09ea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Efficienza meticolosa",
+      "trophyDetail": "Acchiappa un Fantasma accumulando meno di 1.000 dollari di danni materiali",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/048cf4c3-ccbb-4af6-90a8-6230e9eb2350.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lavoro di squadra",
+      "trophyDetail": "Forma un aggancio da 4 e trascina un Fantasma in una trappola",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/a4abd9e4-5553-4559-b866-7e98c6cfb0d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Terapia",
+      "trophyDetail": "Calma 100 cittadini spaventati",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/edeac3cc-2086-439d-b1ba-df58959f2c41.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scoperta",
+      "trophyDetail": "Calma 100 cittadini spaventati",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/a7b77d76-928b-4b5d-a9ef-8aa422c0821c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avanzamento",
+      "trophyDetail": "Aggiungi un potenziamento a un'attrezzatura",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/8bff114c-c2ab-4212-8198-9abf99dc4ec9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Massima potenza",
+      "trophyDetail": "Aggiungi un potenziamento a tutti gli slot di un'attrezzatura",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/c705d885-7214-4e22-ace4-d201d030b7c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Micofilia",
+      "trophyDetail": "Raccogli tutte le spore, le muffe e i funghi di un luogo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/ba8f51ac-0b53-4455-b15e-f0aa79fce46a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Rimozione rapida Brecce",
+      "trophyDetail": "Distruggi tutte le Brecce fantasma entro 5 minuti dall'inizio della partita",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/335f8e8b-38cb-474e-b24e-5bd9d202d0bf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Abile",
+      "trophyDetail": "Porta un'attrezzatura al livello massimo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/6444c4f9-5f84-4a44-b02a-1bcac66de7e7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Instancabile",
+      "trophyDetail": "Completa un lavoro in ogni luogo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/805b1336-43ad-4504-8cbb-cee5d85c9e20.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eccoti qua!",
+      "trophyDetail": "Stana un Fantasma nascosto con un'esplosione PKE",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/1b473373-f04c-4dff-9b04-8de7cff970b6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Storditore",
+      "trophyDetail": "Stordisci un Fantasma con un'esplosione PKE 25 volte",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/635f341c-769e-4125-8994-37a3a03b61ac.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collezionista",
+      "trophyDetail": "Trova tutti i ritagli segreti di un luogo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/6c1236bd-b05a-42e5-8c85-e35a98c13c49.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mastro collezionista",
+      "trophyDetail": "Trova tutti i ritagli segreti di ogni luogo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/80bfdb3a-adba-4201-b170-3abfd4008781.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Benvenuto nella squadra",
+      "trophyDetail": "Sblocca tutti gli elementi della storia",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/5996d432-6b15-4828-bb3d-7060adf20fa7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Colleziono spore, muffe e funghi",
+      "trophyDetail": "Raccogli 500 spore, muffe e funghi",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/b5ad885c-de12-4089-a388-c755da99c605.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Non mi servono",
+      "trophyDetail": "Vinci una partita dopo aver fatto esplodere tutte e 3 le tue brecce",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/9cf6f278-6fd8-4933-a41d-81ba77fb083c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lavoretto extra",
+      "trophyDetail": "Completa con successo un contratto",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/5a078e49-5cd4-4ad5-9f70-98c3c41f1bb2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dose giornaliera",
+      "trophyDetail": "Completa una sfida giornaliera",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/50158969-9dbf-45f6-983a-93432ef70b50.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Espansione vaporosa",
+      "trophyDetail": "Sblocca una variante di una classe di Fantasma",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/fc756d50-eaca-4f3f-abaa-fa1dcb673c9c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Entità ectoplasmatica",
+      "trophyDetail": "Infesta completamente un luogo senza farti mai catturare",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/0f630a2e-1452-42fe-8d96-42f07b8cd429.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Artista della fuga",
+      "trophyDetail": "Liberati dall'aggancio di 4 Ghostbuster",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/247e2730-249b-4ea0-924c-786600de9e5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Terrificante",
+      "trophyDetail": "Terrorizza 5 cittadini entro 10 secondi",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/8c56cf6f-7c07-409b-9ad4-ff96259a5a30.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Difesa suprema",
+      "trophyDetail": "Abbatti tutti e 4 i Ghostbuster con un'abilità suprema 5 volte",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/1d20bccd-55d2-4a22-b48d-3cc37fbec88d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diavolo",
+      "trophyDetail": "Sabota gli zaini protonici di un'intera squadra di Ghostbuster in una partita",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/682694a5-87e3-49a5-9888-b6439cc00c55.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ciliegina sulla torta",
+      "trophyDetail": "Attraversa un Ghostbuster per ricoprirlo totalmente di ectoplasma",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/5c8dcd7f-e72b-4b28-bf25-61a4cfb263ea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Specialista di Fantasmi",
+      "trophyDetail": "Raggiungi il livello massimo in una classe di Fantasmi",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/c3035b20-b81e-4221-b7bf-12426241779d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Indietro",
+      "trophyDetail": "Abbatti un Ghostbuster mentre rianima un altro Ghostbuster",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/a7cc6a66-4630-4763-8596-eaae1ad7b484.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Evocatore",
+      "trophyDetail": "Evoca 100 scagnozzi",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/fb10cc18-0089-441d-9b03-6102182b2507.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Animazione",
+      "trophyDetail": "Infesta 50 oggetti in una sola partita",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/40c94d72-e4c4-481a-a642-68fc7ab82ffc.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sorpresa!",
+      "trophyDetail": "Sbuca da una parete e abbatti un Ghostbuster entro 10 secondi",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/cd85074b-9580-4c38-b14b-cc6159a3f3c6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Il prodigio di Tobin",
+      "trophyDetail": "Infesta completamente 10 luoghi",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/297f04a5-2cec-4e5e-b8d9-3a921ea36601.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tutti in fila",
+      "trophyDetail": "Attraversa tutti e 4 i Ghostbuster entro 3 secondi",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/a4b3411c-91e1-4e69-b269-379b0bad4695.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pan per focaccia",
+      "trophyDetail": "Spezza un aggancio e abbatti il Ghostbuster che ti aveva agganciato entro 10 secondi",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/7836e146-de40-4eb0-b22d-fa466e5dd833.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un aiutino",
+      "trophyDetail": "Terrorizza 50 cittadini con gli scagnozzi",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/97736347-23cd-4e06-b2e1-fd02cacbce76.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rivalità",
+      "trophyDetail": "Abbatti lo stesso Ghostbuster 5 volte in una sola partita",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/da67b375-a100-4a84-9bf4-0e14280eb983.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Asso",
+      "trophyDetail": "Raggiungi il livello profilo 50",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/200d5aff-7cfc-4947-b258-9bfb19e02ac7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vetrate fragili",
+      "trophyDetail": "Distruggi 150 vetrate",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/3a8a039d-3dde-40f9-80eb-b95661ff8557.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "150"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elegante",
+      "trophyDetail": "Equipaggia un oggetto estetico sbloccato per il tuo Ghostbuster",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24740_00/8321a0ee-6169-4d32-b3ce-4bd3aed675f1.png",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 52
+}

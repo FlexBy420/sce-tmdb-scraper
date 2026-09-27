@@ -1,0 +1,910 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR27198_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Wo Long: Fallen Dynasty",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/75c0cc18-47f0-476f-8d5e-a3ea97bce4c6.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 77,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Wo Long: Fallen Dynasty",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/75c0cc18-47f0-476f-8d5e-a3ea97bce4c6.png",
+      "definedTrophies": {
+        "bronze": 38,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Wo Long: Fallen Dynasty — битва Чжунъюань",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/8dc76ef2-2833-4e04-a585-8919cee7a568.png",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Wo Long: Fallen Dynasty — Завоевание Цзяндуна",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/f5bc912c-a6d6-40dc-8fd1-4f58b696de2d.png",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Wo Long: Fallen Dynasty — Переворот в Цзинсяне",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/3f82bb9c-6115-42e6-8082-4465e84da917.png",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Во Лун",
+      "trophyDetail": "Получить все призы.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/0fdb9b8c-5d1c-43eb-a294-89184e38e5c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "В пятнадцать лет я ушел в армию",
+      "trophyDetail": "Вы достигли 15 уровня.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/acdcaa7a-8b61-4dab-b4de-c460f88b7507.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "В восемьдесят я вернулся",
+      "trophyDetail": "Вы достигли 80 уровня.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/4c440d91-d918-424a-b96a-359289ad59c4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "80"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Начало пути",
+      "trophyDetail": "Вы проснулись от смертельного сна, услышав голос Юноши с завязанными глазами.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/27406313-6d1c-46d2-ab2c-f1f3529789e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Обет Доблестного",
+      "trophyDetail": "Вы принесли клятву Чжао Юню.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/7c1e51c5-3b51-4473-9121-f5fa1f1b89dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Воля Верного",
+      "trophyDetail": "Вы принесли клятву Гуань Юю и Чжан Фэю.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/58668f82-c1b1-41ab-b7f5-be706cfcd02f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Амбиции Тигра ",
+      "trophyDetail": "Вы принесли клятву Сунь Цзяню.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/0137bc71-1a94-4150-aac9-4e43e4eb1585.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Страж мира",
+      "trophyDetail": "Вы принесли клятву Цзо Цы.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/3190942b-3ee2-41fc-a881-a83b1c2155ea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Пробуждение беспринципного героя",
+      "trophyDetail": "Вы принесли клятву Цао Цао.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/9c768c44-76bf-493c-9242-4dac3526f0da.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Самый сильный из людей",
+      "trophyDetail": "Вы отразили нападение войск Люя Бу.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/2bd659c6-f285-4534-a719-429b6f56c550.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Путь, указанный звездами",
+      "trophyDetail": "Вы принесли клятву госпоже Чжэнь.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/5cfa4099-e564-4dcc-8f5e-d284f76f179a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Наследование",
+      "trophyDetail": "Вы принесли клятву Сунь Цэ и Сунь Цуаню.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/21ff78f2-fc59-44f4-9d00-13de6a13aa79.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Семейные узы",
+      "trophyDetail": "Вы принесли клятву Хонг Цзин.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/17629b2b-be26-4b15-89f6-905f46541fd2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Двое стойких",
+      "trophyDetail": "Вы принесли клятву Сяхоу Дуню и Сяхоу Юаню.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/739dae23-943c-4c95-b97b-112041f92a24.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Бесстрашный воин",
+      "trophyDetail": "Вы принесли клятву Чжан Ляо.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/e73816ff-7bbf-4a9f-b417-fd67503bd76f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Вверенное наследие",
+      "trophyDetail": "Вы принесли клятву Люй Бу.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/b0d77653-a00b-4b55-9e6e-655b342d17c7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Устремление и дружелюбие",
+      "trophyDetail": "Вы принесли клятву Лю Бэю.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/cb75ea2c-742e-441a-b6de-c08295951c00.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Мечты о единстве",
+      "trophyDetail": "Вы принесли клятву Юань Шао.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/7c66dca1-5c3e-489f-8c19-4a01a9d05647.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Уничтожитель зла",
+      "trophyDetail": "Вы одолели Юй Цзи.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/236d6651-8585-4f0a-a7a4-9281fd579fd3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Открытые глаза",
+      "trophyDetail": "Вы выслушали решение Юноши с завязанными глазами.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/1afc8198-f583-40e3-9aa1-001012a87ca1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Закаленный в боях",
+      "trophyDetail": "Вы победили на 15 дополнительных полях боя.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/fcb7bb24-a9d5-4086-b683-a1b0aae92aa9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Охота на великого оленя",
+      "trophyDetail": "Вы победили на всех основных и дополнительных полях боя.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/4d5412f3-fb48-45f0-9ba8-853fc270ffcd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "46"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ремесленник",
+      "trophyDetail": "Вы улучшили свой первый элемент экипировки.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/3138fc6b-2350-4429-b96d-3d28c91569e8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Острый клинок",
+      "trophyDetail": "Вы максимально улучшили оружие.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/73c398c1-bca4-4b15-9065-04e91a134c21.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "9"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Высшая степень твердости",
+      "trophyDetail": "Вы максимально улучшили элемент доспехов.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/c59f0116-39b5-40db-b00c-83bd5cf9a6fb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "9"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Не все то золото",
+      "trophyDetail": "Вы вставили первый драгоценный камень в кузнице.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/9dba94c9-9a77-4867-9517-1e882a7a453d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Украшательство",
+      "trophyDetail": "Украсить первый предмет в кузнице.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/1b259f5c-998e-4890-befb-c5ba58b4c2be.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Начинающий волшебник",
+      "trophyDetail": "Вы изучили первое заклинание.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/b44dd431-92a3-4ee0-acb6-b0b1d7ce9f67.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Опытный волшебник",
+      "trophyDetail": "Вы изучили все заклинания.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/39460f3f-5770-4d2d-876b-1673e17b8515.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "70"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первая ступень",
+      "trophyDetail": "Вы выполнили первое взаимодействие с пятью ступенями.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/7c738538-d544-441e-9ba8-7b3ecc1a1be9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Неудержимый",
+      "trophyDetail": "Вы впервые подняли ранг боевого духа до 20.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/4388e791-3627-45d5-926f-a0cf34f13cc5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Безмерная храбрость",
+      "trophyDetail": "Вы впервые получили усиление от побратима.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/51e37076-1495-40a2-9ed5-056b6738add3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Большой сбор",
+      "trophyDetail": "Вы объединили силы со всеми доступными воинами.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/515fbbeb-40d2-49ec-94c7-ae037109d7f1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "17"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Фантастическая форма",
+      "trophyDetail": "Получен полный набор на 4★: оружие ближнего боя, оружие дальнего боя, аксессуары, 4 доспеха.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/dcdc5fe8-711c-41a4-9578-bb5e45cd0657.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Котлы и зелья",
+      "trophyDetail": "Вы усилили лечебное зелье Дракона до максимальной емкости и эффективности.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/bdce22fd-1b36-4a94-9ce5-2ec1b2b6f134.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "22"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Начитанность",
+      "trophyDetail": "Вы собрали все скрижали.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/016f6c13-78c0-4898-8146-66dd118043b2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "31"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Гордо реет флаг",
+      "trophyDetail": "Вы подняли первый боевой флаг.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/b3e49355-ad22-42c9-b80e-f7cfb0279703.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Выше знамена!",
+      "trophyDetail": "Вы подняли все боевые флаги.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/0205c07e-3e6c-477d-a962-ff77a4bbd1e7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "145"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Какой симпатичный!",
+      "trophyDetail": "Вы покормили первого Шитешу.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/0f7b2ef4-4520-4fc9-ab5f-9d1b12b1c58a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Какие славные!",
+      "trophyDetail": "Вы покормили всех Шитешу.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/f569767f-fbf2-4691-b0d5-6c8efff014bd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "23"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Быстрая реакция",
+      "trophyDetail": "Вы успешно отразили 10 критических ударов.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/127dbf40-e9e1-4e3c-8ec7-a957f0331f2a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Моменты уязвимости",
+      "trophyDetail": "Вы нанесли 50 смертельных ударов.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/623b5af9-03c9-499d-b869-ac6af75de21e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Бок о бок",
+      "trophyDetail": "Вы победили вместе со спутником на 10 полях боя.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/896a0fdd-2c92-4638-ac57-8a433d47b8ef.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Око за око",
+      "trophyDetail": "Вы отразили вторжение 10 раз.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/4473223f-f110-4676-9de5-cecd5f4344b2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Справедливость",
+      "trophyDetail": "Вы свершили месть 10 раз.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/1f1efd6c-1aee-4d3d-80b8-bdb5cb493341.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "К оружию!",
+      "trophyDetail": "Вы использовали 10 Печатей Тигра.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/12a518d3-db51-462f-85a7-65b6e407e03f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Герои восстанут",
+      "trophyDetail": "Вы победили Селуна в задании «Века, обращенные в пепел».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/ee2b0066-338e-4b61-a966-f8f40900d87b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Борьба с ересью",
+      "trophyDetail": "Вы победили всех колдунов в задании «Долина стенающих духов».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/f5e10836-bdff-4239-83ae-1baf36429ac3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Неотступное правосудие",
+      "trophyDetail": "Вы спасли плененных отшельников в задании «Падение продажного евнуха».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/9bc7e71f-e1b7-4593-b496-7d3e8a4172b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Натянутая тетива",
+      "trophyDetail": "Вы уничтожили 5 врагов баллистой в задании «Битва при перевале Хулаогуань».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/b407b5df-92cd-46dd-a2c1-4dcd37e04c99.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Восхождение",
+      "trophyDetail": "Вы собрали для кого нужно максимальное количество оболочек золотой цикады.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/5f925b82-b1dc-42c3-81c7-b19bd3336c54.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Образец грубой силы",
+      "trophyDetail": "Вы устранили непонимание у Су Чу.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/d218a919-c04f-44a8-956d-79f9d83e8e4b.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Час продвижения",
+      "trophyDetail": "Вы усмирили восстание Желтых Тюрбанов в провинции Цин.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/a4b41edd-b666-4138-a6ba-7718b699b012.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Смерть Элая",
+      "trophyDetail": "Вы принесли клятву Дянь Вэю.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/9cbc92a7-b8a9-4a45-8d84-828f6a945daa.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Честный Тигр",
+      "trophyDetail": "Вы испытали Су Чу на пригодность к роли последователя Дянь Вэя.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/98fdf66e-a236-482e-92c9-401a7bdeab7e.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Иллюзии тайпинского движения",
+      "trophyDetail": "Вы уничтожили призраков лидеров Желтых Тюрбанов.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/44c9b719-6bfa-4123-a813-a665e156c005.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Потрясающий тактик",
+      "trophyDetail": "Вы прошли 5 главных и дополнительных полей боев в Битве Чжунъюань.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/de64e99f-ced5-43bd-8ff7-417d87274268.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Беспринципный герой",
+      "trophyDetail": "Вы прошли все главные и дополнительные поля боев в Битве Чжунъюань.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/a34d011b-4865-43a3-aada-b797b626f937.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Первый боец Чжунъюаня",
+      "trophyDetail": "Вы подняли все боевые флаги в Битве Чжунъюань.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/a1473d9c-2d8e-47fb-b35a-4860aaed75a2.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "23"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Не думай, чувствуй",
+      "trophyDetail": "Вы победили 100 врагов, орудуя кастетами.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/80ec9bd4-dc87-47a2-be52-ceea487687ac.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Погоня за ветром",
+      "trophyDetail": "Вы впервые призвали Фэйляня.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/462660e8-6afa-4985-8950-24c6739747ea.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "То всей Поднебесной сердца покорим!",
+      "trophyDetail": "Вы принесли клятву всем новым союзникам в Битве Чжунъюань.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/7c3b3252-f060-40b4-ba2a-fc9623f72ec6.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Любитель Шитешу",
+      "trophyDetail": "Вы покормили всех Шитешу в Битве Чжунъюань.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/1aa8d63a-a808-408a-ab03-714b19e56526.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Берегись огня!",
+      "trophyDetail": "Вы поразили 3 врагов взрывом одного горшка с маслом в городе Юань.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/00994824-e1c4-4ce2-8b70-182471aabbea.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Суши весла!",
+      "trophyDetail": "Вы отразили нападение Ган Нина.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/58ccbf4b-d7f6-4a06-ac24-ffe52c88a9be.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Наточить меч",
+      "trophyDetail": "Вы скрестили мечи с Тайши Цы.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/6ddbeba1-ec98-48f9-810e-63e34bf7c6cb.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Устремления храбрых",
+      "trophyDetail": "Вы принесли клятву Тайши Цы.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/dc58adb3-ad60-487a-8bde-e706e544e224.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Рев тигра",
+      "trophyDetail": "Вы одолели Ян Байху.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/07ec6eea-af54-40bb-a506-21d583b42570.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Синие глаза, рыжая борода",
+      "trophyDetail": "Вы выслушали решение Сунь Цуаня.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/9d392840-16c1-4c4c-89c7-555b402fe857.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Наследник крови Тигра",
+      "trophyDetail": "Вы прошли все главные и дополнительные поля боев в Завоевании Цзяндуна.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/b956c51b-87f5-409c-b112-c6757f9c43fe.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Достижение владыки",
+      "trophyDetail": "Вы подняли все боевые флаги в Завоевании Цзяндуна.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/74650c89-d2bd-44ca-a45f-dc1504d6d954.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "29"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Искусство меча",
+      "trophyDetail": "Вы победили 100 врагов, орудуя длинными мечами.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/0ba26afb-7168-4f0c-a78f-50fd0deaede0.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Полет Кунпэна",
+      "trophyDetail": "Вы впервые призвали Кунпэна.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/bbcbbb66-458a-499c-96b2-5887fb52f390.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Подчиненные Тигра",
+      "trophyDetail": "Вы принесли клятву всем новым союзникам в Завоевании Цзяндуна.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/4ea2cc75-d6f5-4c95-9dd7-bc55c59cf111.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ни дня без Шитешу",
+      "trophyDetail": "Вы покормили всех Шитешу в Завоевании Цзяндуна.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/4a079c4a-37ad-42d2-9548-92bce4a61d76.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "7"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Атака брандерами",
+      "trophyDetail": "Вы потопили все вражеские корабли брандерами в «Наступающей тьме».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/ad1b3f9b-4335-47d0-8180-fa0e86c6a624.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Бдительный тигр",
+      "trophyDetail": "Вы победили 5 врагов, скрываясь в траве в Холмах Шеньтинлин.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/4b8b5b6e-84a9-4445-aaec-d7a1677ed661.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Энергия молодости",
+      "trophyDetail": "Вы сразились бок о бок с Гуань Пином.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/6ba5ca9b-b353-4065-9382-e1c268c65cc9.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Покинутый мечник",
+      "trophyDetail": "Вы доказали свою доблесть Даньфу.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/dcf95964-beed-4d5b-85ce-c1c76bd4f9c9.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Сгнившие кости в склепе",
+      "trophyDetail": "Вы одолели Юань Шу.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/ac832075-7101-4c48-b51a-1982c3fbc329.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Непослушная девочка",
+      "trophyDetail": "Вы уберегли госпожу Ми от вредных привычек.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/4a7b16ce-8cd2-45c8-9760-226d3cb90c4f.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Выдающийся воин",
+      "trophyDetail": "Вы одержали победу в дуэли с Гуань Юем.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/321477e6-74b9-4615-b962-721fe803566e.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Доброжелательный господин",
+      "trophyDetail": "Вы прошли все главные и дополнительные поля боев в Перевороте в Цзинсяне.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/68f2295a-5f2b-4e04-949b-b70aa3ecfdb8.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "12"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Покровитель провинции Цзин",
+      "trophyDetail": "Вы подняли все боевые флаги в Перевороте в Цзинсяне.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/76657a1e-f04e-41cf-a428-a30a6849d9a0.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "29"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Небесный хлыст",
+      "trophyDetail": "Вы победили 100 врагов, орудуя хлыстами.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/7f0df194-9fab-478d-96cf-bf323e69aa33.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Стремительный подъем",
+      "trophyDetail": "Вы впервые призвали Чэнхуана.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/d256f6ae-78bf-48ef-a4d3-31466a386294.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Герои в сборе",
+      "trophyDetail": "Вы принесли клятву всем новым союзникам в Перевороте в Цзинсяне.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/dc68a487-da0b-4b85-99d1-cc24d0b4e5f8.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Я люблю Шитешу!",
+      "trophyDetail": "Вы покормили всех Шитешу в Перевороте в Цзинсяне.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/35569f05-168e-4ce1-a3cf-59f91ee35dd6.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "8"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Предвестие войны",
+      "trophyDetail": "Вы одолели всех солдатов-креветок, загрязняющих воду в «Одинокой деревне на берегу».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/a6079147-15e5-4eb0-9a75-7bbb377043e1.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 89,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Тучи расходятся",
+      "trophyDetail": "Вы уничтожили все резонирующие кристаллы в «Восставшем императоре демонов».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27198_00/ad272f71-de62-4a0b-9d4a-52f2c40ec28e.png",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 90
+}

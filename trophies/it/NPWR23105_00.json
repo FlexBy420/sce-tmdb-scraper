@@ -1,0 +1,534 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR23105_00",
+  "trophySetVersion": "01.18",
+  "trophyTitleName": "World of Tanks",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/6eee7810-291d-47c6-a2e7-c50cfc41ddff.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 16,
+    "silver": 31,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "World of Tanks",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/6eee7810-291d-47c6-a2e7-c50cfc41ddff.png",
+      "definedTrophies": {
+        "bronze": 10,
+        "silver": 18,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "La Madrepatria",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/ecc3949f-1f05-419e-9ffc-014232b9fe22.png",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 5,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Peso massimo",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/5557288d-ff2d-4322-8cfa-6c8eb20988ee.png",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Eroi dei carri",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/fae6aec8-1e73-4207-abee-9a4279d49a76.png",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Vittorioso",
+      "trophyDetail": "Colleziona tutti i trofei del gioco base.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/e301c2ea-f9df-4394-a629-fb55dca1af7a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Americano assoluto",
+      "trophyDetail": "Ricerca un carro armato americano di livello X.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/2a907afd-46a1-491c-8cb9-23a6635dc696.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Tedesco assoluto",
+      "trophyDetail": "Ricerca un carro armato tedesco di livello X.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/611be264-1c67-4de3-92ee-bf781c25d2e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Sovietico assoluto",
+      "trophyDetail": "Ricerca un carro armato sovietico di livello X.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/0e9edd68-48d3-4d2e-aaea-0ab1361242d3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Leggendario",
+      "trophyDetail": "Ricerca un carro di livello VII.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/3d056f6a-3e94-4078-bbe1-eaf893a42d1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Guerra",
+      "trophyDetail": "Distruggi 500 carri. Solo multigiocatore.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/1f960cb6-0e26-48c6-b40e-ad0d537d5470.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Asso",
+      "trophyDetail": "Distruggi più veicoli nemici di qualunque altro giocatore della tua squadra (almeno 6). Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/bbef2689-50fa-4008-8da4-16cf6fe12785.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Davide e Golia",
+      "trophyDetail": "Distruggi un carro superiore di almeno due livelli al tuo. Solo modalità Seconda Guerra Mondiale.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/0620d67d-9278-4500-9aa2-c3e6e0a7dfa9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "'Murica",
+      "trophyDetail": "Distruggi 4 carri nemici con un carro americano in una sola partita. Solo multigiocatore.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/8b75518e-1784-4857-b300-2f0362894bc1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "L'ora del Reno",
+      "trophyDetail": "Distruggi 4 carri nemici con un carro tedesco in una sola partita. Solo multigiocatore.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/6e5182bc-4598-4367-838e-727f0859002c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Per la madre Russia",
+      "trophyDetail": "Distruggi 4 carri nemici con un carro sovietico in una sola partita. Solo multigiocatore.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/a06a31ae-9e8e-43f7-b77f-1d1631815492.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Esercito di un solo uomo",
+      "trophyDetail": "Ottieni più del doppio dell'Exp del 2° miglior giocatore della tua squadra, bonus esclusi. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/e34ac0b8-478a-4c62-b9ba-374dfb0c5fb3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sono Superman",
+      "trophyDetail": "Blocca danni pari almeno al doppio dell'integrità del tuo corazzato. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/4a7b08f9-362e-46ac-9ab2-12adbf5d3516.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fenomeno",
+      "trophyDetail": "Ottieni il Distintivo di Maestria Fenomeno e sopravvivi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/f91085ce-3cf1-4cf1-8bc9-ae69a828801b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Muro d'acciaio",
+      "trophyDetail": "Blocca più danni fra la tua squadra e sopravvivi a minimo 11 colpi per 1.000 HP potenziali. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/bc53d418-4830-43d5-adff-9eeb9a8ea5b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nessun graffio sulla carrozzeria",
+      "trophyDetail": "Concludi una partita con salute al 100% e danno potenziale subito pari almeno a 1000. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/1413e7bd-6ee0-4284-9184-29266a70fd2b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cecchino",
+      "trophyDetail": "Metti a segno almeno 85% dei colpi, su 10 o più, con danno potenziale di almeno 1.000 HP. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/c99c3427-afb2-474f-8805-e0d58e6ef1ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ranger",
+      "trophyDetail": "Distruggi tutti i carri leggeri nemici durante una partita (almeno 3). Solo multigiocatore.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/d09087e7-7592-42e5-8b56-eb9b87a5785e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Carrista perfetto",
+      "trophyDetail": "Addestra completamente un Comandante, massimizzando le abilità in tutti gli spazi.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/f6884c0a-0ce8-44f6-b3d7-86d904264f7c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Invasore",
+      "trophyDetail": "Cattura la base nemica accumulando il massimo numero di punti (almeno 80) per 3 volte. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/f4e94d67-18bb-4b0c-a86c-9f6d5409ec2b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Difensore",
+      "trophyDetail": "Riduci di 70 punti o più la cattura dei nemici nella tua base, 3 volte. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/b4d85d1c-daa3-4994-8f15-4c8b767f6c0b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fermo lì",
+      "trophyDetail": "Immobilizza 100 nemici distruggendo i loro cingoli. Solo multigiocatore.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/d72334c3-b80e-441c-b7ab-334f906009b2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Medio",
+      "trophyDetail": "Ricerca un carro di livello V.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/c6b64be6-8378-4d27-8d45-ca82ec3e91ca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capitano dei leggeri",
+      "trophyDetail": "Gioca 100 partite come carro leggero. Solo multigiocatore.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/cfa9429d-dbff-4ddb-a719-b5b44e502c3a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capitano dei medi",
+      "trophyDetail": "Gioca 100 partite come carro medio. Solo multigiocatore.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/6893b5db-84f4-469c-b50b-0d2517643695.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capitano dei pesanti",
+      "trophyDetail": "Gioca 100 partite come carro pesante. Solo multigiocatore.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/d82271ba-4a7a-4b5e-90e5-db675b4b1a53.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capitano dei cacciacarri",
+      "trophyDetail": "Gioca 100 partite come cacciacarri. Solo multigiocatore.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/7c97ac2a-1556-428b-8a91-272a34e43b35.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capitano d'artiglieria",
+      "trophyDetail": "Gioca 100 partite come artiglieria. Solo multigiocatore.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/62db7990-fbda-4961-a5de-605dd25522fe.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Abilità di comando",
+      "trophyDetail": "Ottieni un secondo spazio per abilità con un Comandante.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/19c39666-ae51-4220-a863-f34d54da1c64.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Catena di comando",
+      "trophyDetail": "Ottieni un totale di 240.000 Exp del Comandante tra tutti quelli che possiedi.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/4d2d8bc0-932e-4581-bded-3c5422be37c5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Giocatore esperto",
+      "trophyDetail": "Completa 8 Sfide stagionali.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/dbed2c0d-6ce4-4477-8862-f45e20ccb5fe.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All'altezza della sfida",
+      "trophyDetail": "Vinci quattro partite differenti su Terreni di Prova.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/7e56dc27-997d-4633-8290-7bf537e6216e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Per Sua Maestà",
+      "trophyDetail": "Distruggi 4 corazzati nemici in una sola partita, utilizzando un carro armato britannico. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/c72b7cc4-f5a5-4885-83e0-8f81bf3d0ce1.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mostrare i muscoli",
+      "trophyDetail": "Vinci, sopravvivi e causa il maggior numero di danni in una Distruzione di squadra. Solo MG.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/c0ecad5e-f3d5-4aab-957f-cb8d514f205d.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fammi vedere i soldi",
+      "trophyDetail": "Guadagna almeno 100.000 Argento in una singola battaglia (guadagni lordi) e sopravvivi.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/d1087aae-38f2-4bd5-a534-c02f65bfab71.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Servizio impeccabile",
+      "trophyDetail": "Ottieni un quinto spazio per abilità con un Comandante.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/4b92455c-1d6a-46e7-8a6e-082597f289c7.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Veterano al timone",
+      "trophyDetail": "Distruggi 3 o più carri nemici giocando con un Comandante Elite e sopravvivi. Solo multigiocatore.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/65e53e4b-86d4-4b70-a21f-91890db7105f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Non in casa mia!",
+      "trophyDetail": "Distruggi 2 carri nemici che stanno catturando una base alleata. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/c9d9b87d-4335-48aa-9158-030e5488902d.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nel mio mirino",
+      "trophyDetail": "Distruggi un carro non avvistato (invisibile). Solo MG.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/adb8fa26-4683-4d36-9985-8e7c71f0d365.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Un dio tra gli uomini",
+      "trophyDetail": "Sopravvivi per un minuto mentre sei avvistato quando sei l'ultimo membro della tua squadra. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/42d44c08-5ccb-4deb-a991-0f3dcc986e95.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pronto per ogni evenienza",
+      "trophyDetail": "Gioca in ogni tipo di ambientazione con una mimetica equipaggiata. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/f2774ccd-71c5-4b28-96f4-35128d1c5a56.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chiama il tiro",
+      "trophyDetail": "Richiedi il fuoco sul bersaglio e fallo distruggere da un alleato entro 30 secondi. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/c5f62713-f124-48e0-a0d1-638cdf8666bd.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prepararsi alla guerra",
+      "trophyDetail": "Entra in battaglia con 3 tipi di equipaggiamento sul carro. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/f604df58-99f8-4b75-b943-581c692c3321.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Primo della classe",
+      "trophyDetail": "Ottieni l'esperienza più alta della tua squadra e sopravvivi. Solo MG.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/326d279b-4233-4a3d-9e6d-d1401eedaa53.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Resta al mio fianco",
+      "trophyDetail": "Sopravvivi e vinci la battaglia con uno o più membri del plotone. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/2a1c63c6-e7a1-45f6-88ba-d4dc1b3bc5d8.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Amici e nemici",
+      "trophyDetail": "Facendo parte di un plotone, distruggi un carro nemico che fa parte di un plotone. Solo MG.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/9ef13405-a97c-4540-8375-53bb4e559335.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Guerra mondiale",
+      "trophyDetail": "Distruggi 1000 carri armati in multigiocatore.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/baf66ae7-1793-4835-b7af-c991011fefe6.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vive la France",
+      "trophyDetail": "Distruggi 4 carri armati nemici in una sola partita multigiocatore usando un carro armato francese.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/0db404d8-f0ab-486e-94cf-0f3bfff6281f.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Alta qualità",
+      "trophyDetail": "Ricerca un veicolo livello X di ogni classe.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/e65b84b1-4302-47e3-b285-569e6ec4eb5c.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Occhi aperti",
+      "trophyDetail": "Ottieni almeno 15 nastrini di assistenza per avvistamento durante una battaglia multigiocatore.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/75a4440b-10a6-4256-a386-6e91e51d160c.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dieci su dieci",
+      "trophyDetail": "Vinci e sopravvivi a dieci battaglie con un livello X.\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23105_00/78a0e3c2-cb5b-4077-8813-4ba273d355e7.png",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 51
+}

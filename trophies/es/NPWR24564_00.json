@@ -1,0 +1,506 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR24564_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Evergate",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/e981003a-22e2-4934-b78d-1a810f9c46f3.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 43,
+    "silver": 4,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Evergate",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/e981003a-22e2-4934-b78d-1a810f9c46f3.png",
+      "definedTrophies": {
+        "bronze": 43,
+        "silver": 4,
+        "gold": 3,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Evergate",
+      "trophyDetail": "Consigue todos los demás trofeos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/743b824b-e82f-4c43-bca9-e9e7ff2afb04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aprendiz",
+      "trophyDetail": "Obtén tu primer artefacto",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/92c3986f-dd3d-4bdf-af1e-27fd78e7a5b6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bibliotecario",
+      "trophyDetail": "Obtén un artefacto de cada libro",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/ac5dc50f-bea2-4692-af1f-e9bcadf5d5c6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Coleccionista maestro",
+      "trophyDetail": "Obtén todos los artefactos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/d8c0bd5e-b897-4359-8444-8a22b0753cbb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Renacido",
+      "trophyDetail": "Completa tu viaje y comienza una nueva vida atravesando el Portal de Nunca Jamás.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/a04ee122-e95d-40b1-8f5d-b88f425ecd43.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Guardián",
+      "trophyDetail": "Protege la panícula vital de las pesadillas.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/7581a797-8ab2-428a-8dfa-27b01046920c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Descenso predestinado",
+      "trophyDetail": "Adquiere esencia de cristal en el Portal 7 del submundo antes de que el vacío rompa cualquier cristal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/1c5845aa-8b35-4d41-89e2-bf9e037a2930.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "12"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Esencia de la Luna",
+      "trophyDetail": "Obtén todas las esencias de tiempo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/acc2b6c0-894d-4ed7-b910-eaebfd85af1d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "70"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Esencia del Cristal",
+      "trophyDetail": "Obtén todas las esencias cristalinas.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/12bef4cb-43b5-4b3e-a39e-cd0535d1ba98.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "70"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Purista",
+      "trophyDetail": "Completa todos los libros sin usar artefactos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/32642fb4-a4eb-4f0a-a775-6e49bf10f0bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Victoria impecable",
+      "trophyDetail": "Completa el juego sin morir. ¡Pero puedes resetear!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/0232e19e-b7ed-4982-98e6-48e10fa1b936.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Experto en equipamiento",
+      "trophyDetail": "Demuestra tu dominio con cada artefacto.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/ce0f6370-b2b9-4c48-9fb2-6904289758a3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Recuerda",
+      "trophyDetail": "Experimenta todos los recuerdos de principio a fin.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/cb834e62-d48b-4e55-ba37-a57e7053e29f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bendición ágil",
+      "trophyDetail": "Desbloquea el impulso espiritual.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/b79fba49-d288-4bca-8067-ade8cb9dac32.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inquisitivo",
+      "trophyDetail": "Habla con todos los buscadores acerca de su pasado.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/c8f20db9-a8ae-4dee-a634-4f5f66be6012.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "12"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Esencia de la Flora",
+      "trophyDetail": "Adquiere todas las esencias de pétalos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/22254abb-c929-4748-a8d5-65413eb55033.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "70"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Doble deber",
+      "trophyDetail": "Gana la esencia completa de cristal en cualquier nivel usando el artefacto Recuerdo Olvidado.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/228c96f8-78b0-4afb-9c6f-e9fdef216ff2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Seguir adelante!",
+      "trophyDetail": "Aterriza sobre la espalda de un caribú. No obstante, pueden ser un poco tímidos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/49a05d0e-67f5-4e17-a089-3d10d7454900.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Ups!",
+      "trophyDetail": "¡Ya superaste el nivel! ¿Qué salió mal?",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/5720518c-21af-4b37-8d70-dc2343aedb5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Procrastinar",
+      "trophyDetail": "Deja de saltar de un lado a otro, ¡la reencarnación te espera!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/f53c25b4-5160-4a8a-9d5d-cc46d61e23c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ignición afín",
+      "trophyDetail": "Tu alma gemela no aprecia que te prendan fuego.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/ce9c7445-cac2-4a63-aa36-05ba5b5792c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alma infantil",
+      "trophyDetail": "El Guardián de la Arboleda puede asegurar que te entretienes fácilmente…",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/ee949c2a-4a59-45b8-9809-1642e5183f77.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guardián caído",
+      "trophyDetail": "Esto es embarazoso… Has muerto tras proteger la panícula vital.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/e7e2e406-7d74-43c5-82d4-c4dba96bb10f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vacilante",
+      "trophyDetail": "Conéctate a mi con tu Ignealma. ¿A qué estás esperando?",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/9166d71c-389b-4cd6-8913-2c0cb1c0ecb4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un duro comienzo",
+      "trophyDetail": "Nadie dijo que este viaje fuese a ser fácil.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/5bbe037b-1741-4ba5-8e4e-b5d8d306c955.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Espíritu centenario",
+      "trophyDetail": "Ki murió y se recompuso desde el Origen 100 veces.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/7710730a-5bac-4228-bfd9-504a81cb917e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Más duro que una roca",
+      "trophyDetail": "Haz la plataforma más grande posible.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/64c872c8-e173-4b2d-a7f9-22b6f203d0e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Brisa veloz",
+      "trophyDetail": "Supera el juego en menos de 2 horas.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/49f18d23-37f6-4e93-9bb9-d1aa3f85b66c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "A la llama",
+      "trophyDetail": "Supera el juego en menos de 1 hora.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/b9f103bb-d6c5-4c4e-adf1-d35ce8936148.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No parpadees",
+      "trophyDetail": "Alcanza 5 Portales en menos de 3 segundos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/bf263988-e473-456e-ae23-6b2e88053930.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Atleta decidido",
+      "trophyDetail": "Alcanza 50 Portales en menos de 5 segundos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/986ac658-dbb5-47a5-8a1d-325084bc8939.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trofeo de jade",
+      "trophyDetail": "Llega a todos los portales de forma consecutiva en cualquier libro de China sin morir. ¡Resetear está permitido!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/a897a7cc-893f-4f8e-90bf-7fa3bd237190.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trofeo de escarcha",
+      "trophyDetail": "Llega a todos los portales de forma consecutiva en cualquier libro de Alaska sin morir. ¡Resetear está permitido!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/da91e124-a613-4428-8663-bb6cf4ff9972.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trofeo de hierro",
+      "trophyDetail": "Llega a todos los portales de forma consecutiva en cualquier libro de Inglaterra sin morir. ¡Resetear está permitido!\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/b262a16a-fa14-4f61-8ea3-3a6ee4c97450.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trofeo de neón",
+      "trophyDetail": "Llega a todos los portales de forma consecutiva en cualquier libro de Nueva York sin morir. ¡Resetear está permitido!\n",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/e7125af0-32f8-42aa-8d5d-168c461f22c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explorador inocente",
+      "trophyDetail": "Alcanza las 10 flores azules.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/0e1eaa1d-fdd2-41ff-bac0-322647e414ca.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Al máximo de energía",
+      "trophyDetail": "Ten 5 células de salto al mismo tiempo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/bf3c1174-48d1-4e5d-abc6-de7d007a3e46.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Caer con estilo",
+      "trophyDetail": "Llega a 5 puertas sin tocar el suelo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/306d74cb-2214-4ade-b1e4-c23ad557cf22.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sin cristal, sin problema",
+      "trophyDetail": "Llega a 10 puertas sin romper un cristal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/1de1273f-2d4c-42e4-a80f-3bc06012816d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conectado a tierra",
+      "trophyDetail": "Alcanza 5 puertas sin saltar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/fc966a66-893e-4937-9103-6e41cce8f398.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fuego rápido",
+      "trophyDetail": "Completa el juego solo usando fuego instantáneo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/05ecfd3b-1188-4627-bdbc-f3b46acd98a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tormenta perfecta",
+      "trophyDetail": "Supera el libro de la Tormenta sin morir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/ae60f91c-7507-4db3-bb4b-6842e140f89d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aguanta como sea",
+      "trophyDetail": "Pasa 20 segundos seguidos en el aire.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/4cd8b109-bb56-4189-8711-45f80fc70c95.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Abajo con el hombre",
+      "trophyDetail": "Destruye un dron con otro dron.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/733b38d3-56eb-44e1-9bf1-cdb1f724eea5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfeccionista",
+      "trophyDetail": "Recoge todas las esencias en un mismo intento en 10 portales.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/abdcd5e5-47a7-4ed7-9c5b-e28cb78a8569.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alcanzando los altos cielos",
+      "trophyDetail": "Lánzate lo más alto posible en el Portal 3 del Jardín de los Secretos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/6b025c9b-8284-4e13-bf17-5970c8ad85ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Atajo de muro de piedra",
+      "trophyDetail": "Salta sobre el pilar central para tomar un atajo al Portal 7 de Los Bosques Tenebrosos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/1cba3561-504d-4039-a93c-f19761d8f432.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Solo un disparo",
+      "trophyDetail": "Llega a cualquier Portal usando la Ignealma solo una vez.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/f51c738a-09ba-481a-8ee7-ff186d940e1e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Primera nevada",
+      "trophyDetail": "Supera el Portal 6 de la Tormenta de Nieve antes de que termine la primera nevada.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/6a5d1929-ffdb-40c5-91b3-a2f4b5344ee7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Escape frugal",
+      "trophyDetail": "Supera el Portal 5 del Cielo Teñido con seis cristales o menos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/cb0b74d6-495d-46a8-822a-7a202493c051.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sin opción",
+      "trophyDetail": "Completa el Portal 1 del Submundo usando solo cristales de impulso y sin artefactos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/4e67129a-a9a4-46f3-ad18-ef331bbbb645.png",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 51
+}

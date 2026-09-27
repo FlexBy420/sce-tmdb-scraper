@@ -1,0 +1,756 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR23490_00",
+  "trophySetVersion": "01.05",
+  "trophyTitleName": "Surviving the Aftermath",
+  "trophyTitleDetail": "Surviving the Aftermath",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/F85096EDA2B839BBCE0685471CE1181B66F0A2B9.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 54,
+    "silver": 15,
+    "gold": 5,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Surviving the Aftermath",
+      "trophyGroupDetail": "Surviving the Aftermath",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/F85096EDA2B839BBCE0685471CE1181B66F0A2B9.PNG",
+      "definedTrophies": {
+        "bronze": 46,
+        "silver": 6,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Surviving the Aftermath",
+      "trophyGroupDetail": "Surviving the Aftermath",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/0503237B256810DC933138E062F3BDA5030EA2DA.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 5,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "New Alliances",
+      "trophyGroupDetail": "New Alliances",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/407B4E18D22CE63755ECA32A57CD2C5E005F1D98.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Shattered Hope",
+      "trophyGroupDetail": "Shattered Hope",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/AE3D78B99B8F78C6AA9C14C467E692F8B45473F2.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Rebirth",
+      "trophyGroupDetail": "Rebirth",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/DAEBF280717CE9283F5D98AE571B41206C2CEFF8.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Покоритель апокалипсиса",
+      "trophyDetail": "Заработать все остальные достижения",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/A35C06BCA31F592B359471381627999FE084A3FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лидер",
+      "trophyDetail": "Увеличить население до 20",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/764E7200636B6A2186CE9A3F9AF6FCF74C52490A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Старейшина",
+      "trophyDetail": "Увеличить население до 50",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/E210A403D9378ADC5AD8E2A31DE4AD6EE8E8F221.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Великий вождь",
+      "trophyDetail": "Увеличить население до 100",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/4852C72FFCF2B1065FC632356F074244D184D472.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Любитель катастроф",
+      "trophyDetail": "Пережить за одну игру 5 катастроф",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/BA7E4A297C0B7238B0CC5566749207979A4F329B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Знаток катастроф",
+      "trophyDetail": "Пережить за одну игру 15 катастроф",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/CBB92104976F209DB8430C91606A74D8FC2C780F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Эксперт по катастрофам",
+      "trophyDetail": "Пережить за одну игру 30 катастроф",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/E4BD3CE64A7C81D61A542A160FDCF0C05EA8610E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Остаться в живых",
+      "trophyDetail": "Выжить в течение 50 дней",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/0949A83C83148C6192C7799135B5C76CF82D175F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Отчаянный псих",
+      "trophyDetail": "Выжить в течение 100 дней",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/63F7E2D82A4AF83CF5B5A4E7CF6ED8D8683BC8F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Последний герой",
+      "trophyDetail": "Выжить в течение 365 дней",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/C7C7572DEC3038C8B615915C3C679429DD56348A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Знакомый",
+      "trophyDetail": "Заработать 500 ед. репутации",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/CD728F109E9E9EC1B24A00EA98055E7156F16F51.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Приятель",
+      "trophyDetail": "Заработать 2000 ед. репутации",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/2F8816E3FE9FB14E847F9621252850BDDC2A5F92.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Настоящий друг",
+      "trophyDetail": "Заработать 5000 ед. репутации",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/09FC08CA9DB58A2DB409E646E3D605F5AD2B6F31.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Путешественник",
+      "trophyDetail": "Открыть 1 сектор",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/074F336ABD1D722C7C88B638585392F46DE7DFAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первооткрыватель",
+      "trophyDetail": "Открыть 10 секторов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/AA2E304B2D36193C8D0469DE0EAB8A279A6E11F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Легендарный исследователь",
+      "trophyDetail": "Открыть 15 секторов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/EA779C2EAE3FCD7B8BBC34073C57AE27EF7918E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первые шаги",
+      "trophyDetail": "Выполнить 1 задание",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/66ED338CFB2609A0ECC3A1B89DC1E8110CE98AFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Авантюрист",
+      "trophyDetail": "Выполнить 5 заданий",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/3B9B1D48ECFF9CA80DE7B978D4179BBEE23220BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Легендарный искатель приключений",
+      "trophyDetail": "Выполнить 20 заданий",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/89A00F48F720B75F0B958AC7CF89A961A9FB3EC9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Знахарь",
+      "trophyDetail": "Вылечить 10 колонистов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/AC2FC7136CF2A0BE8BB079BA367B6F11A4EA5E6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Известный врачеватель",
+      "trophyDetail": "Вылечить 50 колонистов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/C833942E852C5B045F8B5827A24ACD9B0C06B7A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Великий целитель",
+      "trophyDetail": "Вылечить 100 колонистов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/1671A13E47A96162F2CFF19F252E23E8795BAE23.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первый шаг",
+      "trophyDetail": "Поселить первых колонистов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/3FD3C34E73CEAFBD7167E28E41E59CE0BF9444FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Новые возможности",
+      "trophyDetail": "Обнаружить общину",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/ED3768672332E73C0AC7B0B786709B69DFB35D28.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Иди ты в баню!",
+      "trophyDetail": "Построить баню",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/5259DC9046F60845FE1834E559C2C32A0E5C5FDE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Уборщик",
+      "trophyDetail": "Убрать первую свалку с отходами",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/9F75428350C948DF0617A67CF3CB49849561A08E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Крупная добыча",
+      "trophyDetail": "Убить песчаного червя",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/7029BE22E197C72968E0482099541044E6CD8E08.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Электрик",
+      "trophyDetail": "Наладить производство энергии",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/22FE416166FB354925D2D6643A5B8D7756EB2C88.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Купец",
+      "trophyDetail": "Купить и продать разных товаров на 1000 ед. серебра",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/6219F25BE4A56ADB06903E6A71BCC3B6F65DB5AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Торговец",
+      "trophyDetail": "Купить и продать разных товаров на 10 000 ед. серебра",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/40106CE1D3013ED1BA6C5BB170975788E75BEE59.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Магнат",
+      "trophyDetail": "Купить и продать разных товаров на 30 000 ед. серебра",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/9AA2F74B73FADDD75C38293AB546B12AEA4E016A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Скотовод",
+      "trophyDetail": "Держать на ранчо одновременно 4 вида животных",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/D92F50E11B30757738B43EC14E9CD371A17F7D72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Склизко, но питательно",
+      "trophyDetail": "Держать на личиночных фермах одновременно 4 вида насекомых",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/30CF73EF9B5653F013F13F13C6662136ACF640F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Вокруг света",
+      "trophyDetail": "Создать аванпосты в 5 разных климатических зонах",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/C54ED8F428AD9F1782A3486D25AEF8BF7576C19D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Замерзшие озера",
+      "trophyDetail": "Поймать рыбу из хижины рыбака во время снежной бури.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/917C5EBA829266D9C4C4D9EE250CE518F65EC511.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Война никогда не меняется",
+      "trophyDetail": "Разгромить 10 бандитских лагерей",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/E246E1632E54317FC96E7238C1C86EDF807D7598.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Роскошная жизнь",
+      "trophyDetail": "Увеличить население до 300 и построить дома и двухэтажные дома для 300 колонистов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/4A24ABD2CCB3FA8376BC6D826CF462FF0065D39A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Расширение влияния",
+      "trophyDetail": "Довести количество аванпостов до 10",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/E7B3FB28777A685C8753F77699E85894FC590DDC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Начинающий изобретатель",
+      "trophyDetail": "Открыть за одну игру 10 технологий",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/8AEE8403C5B08A1248372B551DC450715BC98E61.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Главный технолог",
+      "trophyDetail": "Открыть за одну игру 80 технологий",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/97D58C22434F37F7F686F517F25ADAA1B9DE7768.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Хлеб и зрелища",
+      "trophyDetail": "Построить пекарню и 5 видов развлекательных строений",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/E7FE9BED21F3C30407358B69CD8D53504880F329.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Новый рай",
+      "trophyDetail": "Одновременно выращивать 8 видов растений",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/66EB85B085CE26B270EB7FBD401D9562BD65C690.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Дипломат",
+      "trophyDetail": "Заработать максимально положительную репутацию у 5 общин",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/A11D39D47797A743E09745D0DFA851CD6C1FA7C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Готов ко всему",
+      "trophyDetail": "Иметь в запасе по 100 ед. одежды и инструментов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/68CD2FD759BF024AD56ADA3AF0B9B0BD1735A91B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Игры и развлечения",
+      "trophyDetail": "Построить 5 игровых автоматов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/0A40127F0EE9FC694DD02A27AAE79B039AEC292D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Руками не трогать!",
+      "trophyDetail": "Использовать одновременно 3 автоэкстрактора",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/52A58EE23AAC3EC104A4BEE738F4AA4405D941EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Что упало — то пропало",
+      "trophyDetail": "Собрать трофеи на 50 участках карты мира",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/B237BB3ABEBAA1299326F8EEBF5DCCA56E618D0E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Гостинцы",
+      "trophyDetail": "Специалист возвращается в колонию с 4 видами ресурсов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/D6F90834F30121744316EB116072440594F61CC9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Фэн-шуй",
+      "trophyDetail": "Создать 15 видов украшений",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/D0DF74EEFE657705764F05796B2C6D83ED552B7C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Наставник",
+      "trophyDetail": "Одновременно обучать 50 колонистов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/2F5AE04EED99F6B3E1E7B649D8D111CAA5B64359.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Книжный червь",
+      "trophyDetail": "Одновременно обучать 100 колонистов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/5AF09AE004294007CC529914C41E4A99CF22B717.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Похороны под открытым небом",
+      "trophyDetail": "Оставить труп незахороненным",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/23E34E8CD26ABED7D3C3B280491C6A87988463BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Пристальный взгляд",
+      "trophyDetail": "Использовать фоторежим",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/799B773661AAE5F734D03C6B17E5FB23D7CF5554.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "На всю катушку",
+      "trophyDetail": "Построить 30 источников энергии",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/BC56CB0506C55BA4AF768CEC17CFF4DBB8C3ED57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Высший класс",
+      "trophyDetail": "Построить 10 видов улучшенных зданий",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/1EA59DDDC66B1925A930ECE8C25A4522BA47BFFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Судный день отменяется",
+      "trophyDetail": "Завершить Проект Бункера судного дня",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/5B313D174E7CAAC00C3F0C9C09A4C92D3C68F663.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Чух-чух!",
+      "trophyDetail": "Спастись от суровой зимы, починив поезд в Бегстве от холода",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/5EB5C23378154C73AB7995071F9C80BA4CDE14A6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Зазимовать",
+      "trophyDetail": "Выжить в условиях бесконечной зимы в течение 100 дней",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/02CAEFB836CC5E6C5408A57D6373FC371146201A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Подогнан по фигуре",
+      "trophyDetail": "Выжить в течение 100 дней, играя в свою игру",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/5EF40516C210C06CB6AC730D85943763AA7323A1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Персонализированные катастрофы",
+      "trophyDetail": "Выжить в течение 100 дней, играя в свою игру со сложностью 250% и выше",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/00345AC057DD8B8AC46DF78BBEFC19B4C6B03BAF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Под прикрытием",
+      "trophyDetail": "Завершить все четыре секретные миссии",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/28C0EC6041487DFE2E0A49C93F34B97D6E9AD307.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лучшие друзья навсегда",
+      "trophyDetail": "Заключить союз с общиной",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/6EF92A03FC0AD8C2B510C6C8D059CE897DF63DAB.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Бинарное мировоззрение",
+      "trophyDetail": "Одновременно управлять 2 общинами с наибольшей репутацией и 2 общинами с наименьшей репутацией",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/BB04F28918FB4AF3C352D2B352A064D582B8AAE2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Дипломатические покои",
+      "trophyDetail": "Построить четыре посольства одновременно",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/766F48150BB263D4A29A0E30EFFF4CB53BB38A8A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Динамический дуэт",
+      "trophyDetail": "Создать федерацию с одной общиной",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/F991EABF604CFBBD0B51F269CDC3084D85B4B498.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Федерация навсегда",
+      "trophyDetail": "Создать федерацию",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/51CFA4160F42BFA43A5F6331629AE9E690AFEB66.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Герой пустоши",
+      "trophyDetail": "Выполните задание «Разбитая луна»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/37FF3DD8A653A247BCD4A8E081960D4A0FB847CE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Злобный босс",
+      "trophyDetail": "Сверхурочные x 100 зданий",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/E425389E7DA618B4E403AFFEE88B79BA5D5AC585.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Маяк надежды",
+      "trophyDetail": "Проведите специальный пир",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/AE969387E5F0056A488848FB73BBAA973E3E4267.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Защита вышки",
+      "trophyDetail": "Построить пять сторожевых постов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/C1A08A7DFB9E0E55B241B5F67138A71F643E6F23.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Древесина!",
+      "trophyDetail": "Срубить 100 заразных деревьев",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/A872AA5AD278E9C499B772EE5CE64DFAABFD53DF.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Борьба с вредителями",
+      "trophyDetail": "Убить 40 заразных животных",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/8D2F3409349806E8EF16700DEF781DE1BE87B29F.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Корень проблемы",
+      "trophyDetail": "Уничтожить корень заразы",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/D401C80314C9FE85AF3800F9EB0A78667EF4D86B.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Возрождение",
+      "trophyDetail": "Завершить задание «Возрождение»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/E7CBA8EFD38A7DF56197FE609133CC052C7DA13C.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Постапокалиптический рай",
+      "trophyDetail": "Преобразовать почву на всей карте",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23490_00_0081E87DE406A62C775CE10E5853CAFE6D46A9935A/F5CF91E1C4365EDF9E07E6B4C0BD8F026CCBCCCF.PNG",
+      "trophyGroupId": "004"
+    }
+  ],
+  "totalItemCount": 75
+}

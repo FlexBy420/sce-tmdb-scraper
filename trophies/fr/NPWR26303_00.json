@@ -1,0 +1,558 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR26303_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Autobahn Police Simulator 3",
+  "trophyTitleDetail": "Trophées du jeu",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/D3428ED90EA0915514D1F13CAAFBE93C37FBE847.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 46,
+    "silver": 7,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Autobahn Police Simulator 3",
+      "trophyGroupDetail": "Trophées du jeu",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/D3428ED90EA0915514D1F13CAAFBE93C37FBE847.PNG",
+      "definedTrophies": {
+        "bronze": 37,
+        "silver": 5,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Off-Road",
+      "trophyGroupDetail": "Off-Road",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/BD8FC3F1D9F8C8D602CC31C9450D3282F34CBB36.PNG",
+      "definedTrophies": {
+        "bronze": 9,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Légende de l'autoroute",
+      "trophyDetail": "Vous avez rendu les rues plus sûres par tous les moyens possibles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/EA331214C283DDD6B30EE3D02A3DE9D2CD4EE60F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Coin-coin !",
+      "trophyDetail": "Vous avez trouvé et saisi les 20 canards en plastique.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/A62B26BA5C9F0F61E17457063427D0FF40B84FA2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Photographe",
+      "trophyDetail": "Vous avez trouvé et photographié les 15 points d'intérêt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/A073257FDF3042C1B3C1064AAB9B5AA0D20EF9DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Meeeuh !",
+      "trophyDetail": "Vous avez caressé 5 vaches.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/3D2CE62CC4BCA0AD7F864B3D3BCE6165C2354A71.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Petite virée",
+      "trophyDetail": "Vous avez roulé 300 kilomètres.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/EF9A7D5CEC1DC3B9DA5E6AD60A0B0150ECF51609.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "La sécurité avant tout",
+      "trophyDetail": "Vous avez placé 100 cônes de signalisation.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/190E2A781A299CF575AA97C04C017F95B9201ED1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Permis de conduire",
+      "trophyDetail": "Vous avez pris une leçon de conduite.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/9D4A47818A951CD351CD6D17DB7B352C3F6D738A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Licence de tir",
+      "trophyDetail": "Vous avez participé à une séance de tir.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/304F5101BF7F7F5A5F61F68F10810274F4707DB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Empathie",
+      "trophyDetail": "Vous avez utilisé Empathie à 5 reprises",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/2C5CFD404CB819C38283E60292299D08688907C1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Autorité",
+      "trophyDetail": "Vous avez utilisé Autorité à 5 reprises",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/C6D815144A7FF5C0B855E3D6CB0A3656F84A94D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explorateur",
+      "trophyDetail": "Vous avez déverrouillé tous les points de déplacement rapide.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/292D6F2FA87E2A3A0D433D9809C9CEFF0CAF4CEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Autophile",
+      "trophyDetail": "Vous avez déverrouillé toutes les voitures dans l'arbre des technologies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/B4A00328E190E827E6AF99465E8E747F0E6C54E9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Vengeance",
+      "trophyDetail": "Vous avez arrêté les pilotes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/7246E36958B1BCA3C27C84444D6601674A5C43B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cellules pleines",
+      "trophyDetail": "Vous avez arrêté 20 personnes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/705A3AE3DBF81605A288C4E88126EA996199DE05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ça va coûter un bras",
+      "trophyDetail": "Vous avez détruit votre voiture à 3 reprises.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/B7A4185E5BF5CACAE153C8FCD9D3638BBFA6885B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ambiance explosive",
+      "trophyDetail": "Vous avez terminé la mission « Tic-tac ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/36331D672994225DCADF83C51C7D057015C459A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stop !",
+      "trophyDetail": "Vous avez effectué un contrôle routier.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/8019C8FF137C56C7948114CE61D797D72DD5AD98.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Sergent",
+      "trophyDetail": "Vous avez obtenu le grade de sergent.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/5499906C5E4B9078AF326BC860FE840670FB829E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Marche arrière",
+      "trophyDetail": "Vous avez roulé 5 kilomètres en marche arrière.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/474B10DCCD82183AC5330AF7500E0C4B34CB84D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gâchette facile",
+      "trophyDetail": "Vous avez utilisé une arme à feu à 50 reprises.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/5859DCC19C83023050E1BE5BB7D85B3FAD272C56.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Le petit oiseau va sortir !",
+      "trophyDetail": "Vous avez pris une photo de Stefan.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/E7D53B8544EA7CC6C27F7CD70C7A18506C837B7E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contrôle technique",
+      "trophyDetail": "Vous avez déverrouillé toutes les améliorations du garage.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/6122F73E0D0FEC90CEF64BC30985199C6B712F9D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ceinture noire",
+      "trophyDetail": "Vous avez déverrouillé toutes les améliorations de combat.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/9B13DD7D98E3DFAEAE9986DDB5EDE21C54FF5261.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Charismatique",
+      "trophyDetail": "Vous avez déverrouillé toutes les améliorations de personnage.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/F19260B84CBB582BA1F7E59C1691A584A687F0EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Commère",
+      "trophyDetail": "Vous avez discuté avec vos collègues à 10 reprises.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/71A430AF42689C8CC6E06CCAF407495E21B8F29D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cowboy",
+      "trophyDetail": "Vous avez ramené toutes les vaches à temps.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/E41B388F0CE83A99E166EACAE86AB8EDDBEF7F1A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Comme dans un film",
+      "trophyDetail": "Vous avez terminé la mission « Infiltration »",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/2AA00B7B10CA31D4A2B479FC9F0C4620783B4D7D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Atchoum !",
+      "trophyDetail": "Vous avez terminé la mission « Incontrôlable ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/630E234E8D92B0C48355D008D0D19757C690ECFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Situation explosive",
+      "trophyDetail": "Vous avez sauvé tout le monde lors de la mission « Risque d'explosion ! ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/F1641AC215316F79BCA17063D07D91B6ED02E155.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Vol à main armée",
+      "trophyDetail": "Vous avez terminé la mission « Hold-up ! ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/61151CB8F2115EC35840D57143C7A38B17CF0222.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pouvoir de persuasion",
+      "trophyDetail": "Vous avez terminé la mission « Sous surveillance ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/E758C633D1A1178779D20F7A0B35FD0E46007241.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cascadeur",
+      "trophyDetail": "Vous avez terminé la mission « Rapide comme l'éclair ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/4C8BAA9450FB0E342F917ED18BF0D118B71910B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Je te tiens !",
+      "trophyDetail": "Vous avez terminé la mission « Coup monté ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/857F318B6642238186484D37AE7F209EC3C284D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Marée noire",
+      "trophyDetail": "Vous avez terminé la mission « Sol glissant ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/27CEDF21298ABB8E958716AC850064AF11AE7FCA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ménage de printemps",
+      "trophyDetail": "Vous avez nettoyé les rues à 10 reprises.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/EA37A0DD281A97AA2820E26AA9482C791A7BB022.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Registre des accidents",
+      "trophyDetail": "Vous avez traité 10 accidents.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/6D93F1B5FED2D19930DAD1B320A7F5A7CCBB1E94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dans les mailles du filet",
+      "trophyDetail": "Vous avez terminé 10 courses-poursuites.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/FD3171D5C4399071B93A56678E2249CA72BD8324.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Attendez, arrêtez-vous !",
+      "trophyDetail": "Vous avez participé à 10 barrages policiers.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/76A470CAC365A59EF27C354F4BED84671E087C5D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Vérification de routine",
+      "trophyDetail": "Vous avez inspecté 10 bornes d'appel.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/DE8ECCFB0754DD509942BBA64C49EAC4DB1B60BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Collectionneur de trophées",
+      "trophyDetail": "Vous avez effectué toutes les missions spéciales.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/ED9F879A95BF9C92ADCCF7D8C55E4977623E40C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rapace",
+      "trophyDetail": "Vous avez volé un corbeau.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/71B5B4E338B74091FB533C788A97F2EFBF932256.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Garçon de courses",
+      "trophyDetail": "Vous avez fait toutes les commissions pour vos collègues.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/F7F7F5EF764F1BF65EEA3C817EAE09E6B4CAE31B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Abandonnés",
+      "trophyDetail": "Vous avez récupéré 15 triangles de présignalisation oubliés.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/5E23FFB34A4653482764CE971B98E189B54CAA7C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Un donut s'il vous plaît",
+      "trophyDetail": "Vous avez acheté des donuts dans tous les endroits possibles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/37D61CAE29E7084CBFD6C79AF94B658F40BEEBC4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ouaf !",
+      "trophyDetail": "Vous avez caressé 5 chiens.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/769C37BC21092341020C924A1F955E50BDAEC277.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Le Tout-Puissant",
+      "trophyDetail": "Vous avez rejoint une secte d'adorateurs de canards en plastique. Respect.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/D241ACC6F86AACDC9F3A09E1FF05744D28FC103D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Serpents voleurs",
+      "trophyDetail": "Vous avez réussi la première mission de la campagne « Serpents voleurs ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/846BB561C9D6E7B40C64D14E5DCEE36A0D439D71.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Œil de lynx",
+      "trophyDetail": "Vous avez correctement identifié tous les tags de gang du premier coup.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/95221C99BE2873C6BC2A78D346FF4A96479542E9.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le meilleur ami de l'homme",
+      "trophyDetail": "Vous avez réussi votre première mission avec la brigade canine.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/E73C9B5F1BF6B1379BA44F71A2D3F2C21314BD44.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fantôme",
+      "trophyDetail": "Vous avez infiltré la scierie discrètement et avez éliminé tous les ennemis avant qu'ils ne s'en rendent compte.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/DD94033A63878BD4E1D3F875ED68941A96ACC523.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Serpents en cage",
+      "trophyDetail": "Vous avez terminé la campagne « Serpents voleurs ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/6C9BB9C212099680E52504B49C3D30B77488C037.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Surprise !",
+      "trophyDetail": "Vous avez organisé une fête surprise réussie pour votre partenaire ! Il a bien mérité sa promotion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/EDD5539DB08B20ECCF904E4F8BAABCA31D0F7F3B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Performances dignes d'un Oscar",
+      "trophyDetail": "Vous avez prouvé à votre partenaire qu'il n'avait aucune raison de se méfier de vous en accomplissant des performances extraordinaires.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/DC6A04C58630018CEF04D66DE02500304145B3AD.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Une oreille attentive",
+      "trophyDetail": "Vous avez mémorisé les donuts préférés de Stefan et l'avez fait sourire.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/99D0F2785AFC4C18C684D87E6DC878CD9781C2E6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chien de garde",
+      "trophyDetail": "Vous avez réussi 5 missions avec votre brigade canine.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/98B3F1D668F0200B90E1D2C3E1A155F29C0773DE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hors piste",
+      "trophyDetail": "Vous avez réussi 5 courses-poursuites avec le véhicule tout terrain sur un terrain accidenté.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/DCF3286846E833CED66E37EC43D48888B298145B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Porte-bonheur",
+      "trophyDetail": "Vous avez érigé 10 cairns.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR26303_00_002129256E9D0651C11FB2CA454A5FC395740D7FE9/96BC83CFACA6FF43AE22540751CA274EB296965B.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 57
+}

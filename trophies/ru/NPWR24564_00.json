@@ -1,0 +1,506 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR24564_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Evergate",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/e981003a-22e2-4934-b78d-1a810f9c46f3.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 43,
+    "silver": 4,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Evergate",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/e981003a-22e2-4934-b78d-1a810f9c46f3.png",
+      "definedTrophies": {
+        "bronze": 43,
+        "silver": 4,
+        "gold": 3,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Evergate",
+      "trophyDetail": "Получить все прочие трофеи.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/743b824b-e82f-4c43-bca9-e9e7ff2afb04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Подмастерье",
+      "trophyDetail": "Добудьте свой первый артефакт.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/92c3986f-dd3d-4bdf-af1e-27fd78e7a5b6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Библиотекарь",
+      "trophyDetail": "Добудьте по одному артефакту из каждой книги.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/ac5dc50f-bea2-4692-af1f-e9bcadf5d5c6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Опытный коллекционер",
+      "trophyDetail": "Добудьте все артефакты.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/d8c0bd5e-b897-4359-8444-8a22b0753cbb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Рожденный заново",
+      "trophyDetail": "Завершите путешествие и начните жизнь заново, пройдя через Врата Вечности.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/a04ee122-e95d-40b1-8f5d-b88f425ecd43.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Страж",
+      "trophyDetail": "Защитите Цветозлак от Кошмаров.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/7581a797-8ab2-428a-8dfa-27b01046920c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Обреченный десант",
+      "trophyDetail": "Добудьте эссенцию кристаллов за Седьмыми Вратами Подземного края, прежде чем пустота разобьет хотя бы один кристалл.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/1c5845aa-8b35-4d41-89e2-bf9e037a2930.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "12"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Эссенция Луны",
+      "trophyDetail": "Добудьте все эссенции времени.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/acc2b6c0-894d-4ed7-b910-eaebfd85af1d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "70"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Эссенция Кристалла",
+      "trophyDetail": "Добудьте все эссенции кристаллов.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/12bef4cb-43b5-4b3e-a39e-cd0535d1ba98.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "70"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Пурист",
+      "trophyDetail": "Пройдите все книги, не пользуясь артефактами.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/32642fb4-a4eb-4f0a-a775-6e49bf10f0bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Чистая победа",
+      "trophyDetail": "Пройдите всю игру, ни разу не погибнув. Разрешается перезапуск уровней.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/0232e19e-b7ed-4982-98e6-48e10fa1b936.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Совершенная техника",
+      "trophyDetail": "Продемонстрируйте совершенное владение каждым из артефактов.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/ce0f6370-b2b9-4c48-9fb2-6904289758a3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Вспомнить всё",
+      "trophyDetail": "Посмотрите все фрагменты воспоминаний до самого конца.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/cb834e62-d48b-4e55-ba37-a57e7053e29f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Дар ловкости",
+      "trophyDetail": "Откройте Рывок духа.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/b79fba49-d288-4bca-8067-ade8cb9dac32.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Любопытство – не порок",
+      "trophyDetail": "Поговорите со всеми Искателями об их прошлом.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/c8f20db9-a8ae-4dee-a634-4f5f66be6012.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "12"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Эссенция Флоры",
+      "trophyDetail": "Добудьте все эссенции лепестков.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/22254abb-c929-4748-a8d5-65413eb55033.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "70"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Двойная смена",
+      "trophyDetail": "Добудьте полный набор эссенций кристаллов на любом уровне с помощью артефакта Забытые воспоминания.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/228c96f8-78b0-4afb-9c6f-e9fdef216ff2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Наездник",
+      "trophyDetail": "Запрыгните на спину карибу. Учтите: этих животных бывает легко спугнуть.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/49a05d0e-67f5-4e17-a089-3d10d7454900.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Упс!",
+      "trophyDetail": "Вы уже прошли этот уровень! Что же пошло не так?",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/5720518c-21af-4b37-8d70-dc2343aedb5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Прокрастинатор",
+      "trophyDetail": "Довольно уже прыгать взад-вперед, вас ожидает реинкарнация!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/f53c25b4-5160-4a8a-9d5d-cc46d61e23c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Возгорание ближних",
+      "trophyDetail": "Вашей родственной душе не нравится, когда ее поджигают.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/ce9c7445-cac2-4a63-aa36-05ba5b5792c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Душа младенца",
+      "trophyDetail": "Теперь Смотритель понимает, как легко вы увлекаетесь...",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/ee949c2a-4a59-45b8-9809-1642e5183f77.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Павший страж",
+      "trophyDetail": "Неловко получилось... Вы погибли, защищая Цветозлак.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/e7e2e406-7d74-43c5-82d4-c4dba96bb10f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Бремя сомнений",
+      "trophyDetail": "Соединитесь со мной Пламенем души! Чего же вы ждете?",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/9166d71c-389b-4cd6-8913-2c0cb1c0ecb4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Неудачное начало",
+      "trophyDetail": "Никто и не говорил, что путешествие будет легким.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/5bbe037b-1741-4ba5-8e4e-b5d8d306c955.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Стократное возрождение",
+      "trophyDetail": "Ки погибла и возродилась из Источника 100 раз.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/7710730a-5bac-4228-bfd9-504a81cb917e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Надежная опора",
+      "trophyDetail": "Создайте самую большую платформу.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/64c872c8-e173-4b2d-a7f9-22b6f203d0e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Юркий дух",
+      "trophyDetail": "Пройдите игру меньше чем за 2 часа.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/49f18d23-37f6-4e93-9bb9-d1aa3f85b66c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "В ударе",
+      "trophyDetail": "Пройдите игру меньше чем за 1 час.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/b9f103bb-d6c5-4c4e-adf1-d35ce8936148.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Не моргая",
+      "trophyDetail": "Достигните 5 Врат меньше чем за 3 секунды.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/bf263988-e473-456e-ae23-6b2e88053930.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Неутомимый атлет",
+      "trophyDetail": "Достигните 50 Врат меньше чем за 5 секунд.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/986ac658-dbb5-47a5-8a1d-325084bc8939.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Нефритовый трофей",
+      "trophyDetail": "Достигните всех Врат по очереди в любой книге о Китае, не погибнув. Разрешается перезапуск уровня.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/a897a7cc-893f-4f8e-90bf-7fa3bd237190.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Морозный трофей",
+      "trophyDetail": "Достигните всех Врат по очереди в любой книге об Аляске, не погибнув. Разрешается перезапуск уровня.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/da91e124-a613-4428-8663-bb6cf4ff9972.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Железный трофей",
+      "trophyDetail": "Достигните всех Врат по очереди в любой книге об Англии, не погибнув. Разрешается перезапуск уровня.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/b262a16a-fa14-4f61-8ea3-3a6ee4c97450.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Неоновый трофей",
+      "trophyDetail": "Достигните всех Врат по очереди в любой книге о Нью-Йорке, не погибнув. Разрешается перезапуск уровня.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/e7125af0-32f8-42aa-8d5d-168c461f22c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Невинный следопыт",
+      "trophyDetail": "Найдите 10 синих цветков.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/0e1eaa1d-fdd2-41ff-bac0-322647e414ca.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Полон энергии",
+      "trophyDetail": "Доведите число кристаллов зарядки прыжка до 5.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/bf3c1174-48d1-4e5d-abc6-de7d007a3e46.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Стильное падение",
+      "trophyDetail": "Достигните 5 любых Врат, не коснувшись земли.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/306d74cb-2214-4ade-b1e4-c23ad557cf22.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ноль кристаллов, ноль проблем.",
+      "trophyDetail": "Достигните 10 любых Врат, не разбив ни одного кристалла.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/1de1273f-2d4c-42e4-a80f-3bc06012816d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Заземление",
+      "trophyDetail": "Достигните 5 любых Врат, не пользуясь прыжком.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/fc966a66-893e-4937-9103-6e41cce8f398.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Молниеносный",
+      "trophyDetail": "Пройдите игру, пользуясь только Мгновенным огнем.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/05ecfd3b-1188-4627-bdbc-f3b46acd98a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Идеальный шторм",
+      "trophyDetail": "Пройдите книгу о Грозе, не погибнув.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/ae60f91c-7507-4db3-bb4b-6842e140f89d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Антигравитация",
+      "trophyDetail": "Продержитесь в воздухе 20 секунд подряд.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/4cd8b109-bb56-4189-8711-45f80fc70c95.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Клин клином",
+      "trophyDetail": "Уничтожьте беспилотник другим беспилотником.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/733b38d3-56eb-44e1-9bf1-cdb1f724eea5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Перфекционист",
+      "trophyDetail": "Соберите с одной попытки все эссенции за 10 Вратами.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/abdcd5e5-47a7-4ed7-9c5b-e28cb78a8569.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Взлетев до небес",
+      "trophyDetail": "Наберите как можно большую высоту за Третьими Вратами в Тайном Саду.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/6b025c9b-8284-4e13-bf17-5970c8ad85ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Срезка у каменной стены",
+      "trophyDetail": "Перепрыгните через центральную колонну, чтобы срезать путь к Седьмым Вратам в Темнолесье.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/1cba3561-504d-4039-a93c-f19761d8f432.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "С одного выстрела",
+      "trophyDetail": "Достигните любых Врат, воспользовавшись Пламенем души только один раз.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/f51c738a-09ba-481a-8ee7-ff186d940e1e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первый снегопад",
+      "trophyDetail": "Пройдите Шестые Врата Метелицы, прежде чем закончится первый снегопад.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/6a5d1929-ffdb-40c5-91b3-a2f4b5344ee7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Экономный побег",
+      "trophyDetail": "Пройдите Пятые Врата Падающего небосвода, использовав не более шести кристаллов.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/cb0b74d6-495d-46a8-822a-7a202493c051.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Выбора нет",
+      "trophyDetail": "Пройдите Первые Врата Подземного края без артефактов, пользуясь только ускоряющими кристаллами.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24564_00/4e67129a-a9a4-46f3-ad18-ef331bbbb645.png",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 51
+}

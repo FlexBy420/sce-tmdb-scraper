@@ -1,0 +1,414 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR23728_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Nobody Saves the World",
+  "trophyTitleDetail": "Nobody Saves the World - Trophées",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/05CF6A7DC96643056A36D8EB45B149CF5A722659.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 23,
+    "silver": 12,
+    "gold": 5,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Nobody Saves the World",
+      "trophyGroupDetail": "Nobody Saves the World - Trophées",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/05CF6A7DC96643056A36D8EB45B149CF5A722659.PNG",
+      "definedTrophies": {
+        "bronze": 20,
+        "silver": 8,
+        "gold": 5,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Frozen Hearth",
+      "trophyGroupDetail": "Frozen Hearth - Trophées",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/765F06B9D9C894F14CA91F2A057C96ED188CD5DA.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Personne a sauvé le monde",
+      "trophyDetail": "Obtenez tous les trophées du jeu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/C66B0E85230B589D46CE6D72EB61050808B78A66.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Château d'haut",
+      "trophyDetail": "Terminez le donjon légendaire du Haut château.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/67E46F81CB14FA5C3F6893BEA10B4A081E88CEFD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cryptographe",
+      "trophyDetail": "Terminez le donjon légendaire des Catacombes de la reine sorcière.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/14E737CE213A8C577ED61457399220FADB7DA122.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vous pourriez l'éteindre et le rallumer ?",
+      "trophyDetail": "Terminez le donjon légendaire du Robot antique.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/27BCB7394CD8EF7C6C6297A0DAD07CD598B28347.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Espionnage industriel",
+      "trophyDetail": "Terminez le donjon légendaire de la Corporation secrète.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/7674342A258B29E098D1A1E547B8D38192979AB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Abracadabralcazar",
+      "trophyDetail": "Terminez le donjon légendaire de l'Alcazar du seigneur draconique.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/C8B0471882F62B3A56F913840E6FE0E34F6F0DC3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le donjonage pour les nuls",
+      "trophyDetail": "Échappez-vous de la cave de Nostramagus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/BC66EFEB17F20B90CF55495A644A850D13AB7A72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nostramagus a disparu !",
+      "trophyDetail": "Trouvez Nostramagus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/2CE24920D1D9981080684463E66408B049953072.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Forteresse volante",
+      "trophyDetail": "Faites la connaissance d'Astrolabus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/2EFA90120C36D2D766545E854BFD95EAC66FB806.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Développement personnel",
+      "trophyDetail": "Triomphez de la Calamité.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/C1FED2100D197F56C094A761246E05FB37842C71.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Contemplez ma vraie forme et tremblez !",
+      "trophyDetail": "Déverrouillez la forme draconique.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/25F1E8FF7097DEE9C4C15FA93FEC398FF0B8B66F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "S comme Super",
+      "trophyDetail": "Améliorez une forme au maximum.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/5B5EDDC1B08230478B79D71ECC72FBB76493395E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Supermagicien",
+      "trophyDetail": "Améliorez toutes les formes au maximum.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/1D149BB1BE0C48C3F3F0223EBF76E5D4BA0ECD94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La première d'une longue série",
+      "trophyDetail": "Améliorez une compétence.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/DDA2BE5CCAE3DC6C580B6E27B794EC66AC131B19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "C'est le moment de spammer",
+      "trophyDetail": "Améliorez une compétence au maximum.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/CBA3C1FDA74C7C279DCD4651CB022A61B430C7BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Au sommet",
+      "trophyDetail": "Améliorez toutes les compétences d'une forme au maximum.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/8C91F2D76C637A157EEA6B94981C7C9661D03AAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Écuyer",
+      "trophyDetail": "Rejoignez la guilde des chevaliers.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/BFE2D864AEA961681FA88BE02E80CC8B434BD9E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Grand maître chevalier",
+      "trophyDetail": "Atteignez le rang de Grand maître chevalier au sein de la guilde des chevaliers.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/77B5136A3A8D9753F355EB653DAB2001E25C95DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Acolyte agréé",
+      "trophyDetail": "Devenez Acolyte de la nouvelle Guilde Officielle des Magiciens, Mages et Érudits.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/768D4D5006C2DE585A21BF69700E7497B7D486A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Grand mestre",
+      "trophyDetail": "Atteignez le rang de Grand mestre de la nouvelle G.O.M.M.E.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/A0AD50FB90C7F237D15EDEDF0716D4E33E30D71A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Péon",
+      "trophyDetail": "Rejoignez la guilde des voleurs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/16CB39BC54D881745F8727A8CE579E49B43A246D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Maître fraudeur",
+      "trophyDetail": "Obtenez le titre de Maître fraudeur au sein de la guilde des voleurs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/990E0D06CB720962A6A1A03BAD0EB306ACFDABD2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La grande forme",
+      "trophyDetail": "Personnalisez une forme pour la première fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/22702BD3EAEB19CB5E9B00AB013236E9275939A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Passif-iste",
+      "trophyDetail": "Équipez une même forme de quatre compétences passives simultanément.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/1A50EB5670A39EFC7BC45EDD608A525C14D564DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shopping",
+      "trophyDetail": "Achetez un article dans la boutique.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/D44CAB3D1BA1BF49ECA33965867B7DF8BB5EC226.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "J'en prendrai un de chaque !",
+      "trophyDetail": "Possédez un exemplaire de chaque objet de la boutique du jeu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/0BE70FF600504C9B86FBC478D0C970894187559C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Féeriquement sympa",
+      "trophyDetail": "Trouvez 5 fées",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/86F7343C3B311705AB2487C03BB86138A687ED46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Coucou les fées",
+      "trophyDetail": "Trouvez la dernière fée de mana",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/AA7C219EA9BC8507E880FE242E064F76030A1766.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amour équestre",
+      "trophyDetail": "Vivez le grand amour.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/C3E0CA04ECFD2B19A39EC7F098176B07EC026F1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cactagone",
+      "trophyDetail": "Trouvez le trésor au-delà de la Goulée.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/864D9E2BF747B5BBD299567C0E8ACBB696C9D2E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On change la une, coco !",
+      "trophyDetail": "Lancez-vous dans le journalisme.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/8BECA752706DE6497931EA73181B98CB40DD521D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Que la lumière soit",
+      "trophyDetail": "Illuminez complètement les Souterrains obscurs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/F3D413BDA1A81B445964786148AEBE3CCE87E107.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ça veut dire quoi, \"#@$%&!\" ?",
+      "trophyDetail": "Apprenez la langue des dauphins.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/BBD501F9CC4C8D61BB4A635BF552A01A627B8ECF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Un monde si beau que je l'ai sauvé 2 fois",
+      "trophyDetail": "Triomphez de la Calamité en NP+",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/716B982FC1B74E6C698836E1AD123D36D2811CCE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Il faut une tourelle ici !",
+      "trophyDetail": "Déverrouiller la forme de Mécano",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/2E259639CC2998B33BE18A2721FAE96FD0AAC0CA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dard-dard",
+      "trophyDetail": "Déverrouiller la forme d'Abeille tueuse",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/828C2816D750F053054573A5F6DC344F521ED0DC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "L'Être véritable",
+      "trophyDetail": "Obtenir le titre d'Être véritable",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/C3510AAB6711C73CA92ECEAC3A464D54571CD57A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Boulot terminé !",
+      "trophyDetail": "Atteindre le rang S avec le Mécano",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/94DD944FE7B27FC2BF7DFE956F6F66D510E18829.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "La reine des abeilles",
+      "trophyDetail": "Atteindre le rang S avec l'Abeille tueuse",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/15FB064B6AC9F3009CE29D79DA26BB37C000AF6A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Esprit des cendres",
+      "trophyDetail": "Invoquer Lavalerie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/5BFE7F19343149D4A34EA2525C1A8FFBB9D3D4A3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pas besoin d'alchimie",
+      "trophyDetail": "Gagner 36 médailles du Colisée et parler aux Visages chicaneurs",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR23728_00_006CFC036C11640C930369CE9125AC50504B699C1F/81DD68EE321A7BAB711C1460F2781B36D2CC981D.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 41
+}

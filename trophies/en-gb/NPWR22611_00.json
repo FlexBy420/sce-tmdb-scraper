@@ -1,0 +1,665 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR22611_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Alan Wake Remastered",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/dc7ba6aa-76f3-4fee-bc2e-80db0b19844b.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 59,
+    "silver": 5,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Alan Wake Remastered",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/dc7ba6aa-76f3-4fee-bc2e-80db0b19844b.png",
+      "definedTrophies": {
+        "bronze": 42,
+        "silver": 5,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "The Signal",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/50af82bf-7883-4902-b177-f38d96b0d776.png",
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "The Writer\n",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/ce2767a4-b0eb-4486-8b82-f9ed94ecc980.png",
+      "definedTrophies": {
+        "bronze": 9,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Trophy",
+      "trophyDetail": "Unlocked when all trophies collected.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/bf3b446c-312a-4b25-a8c7-7dfa95f304f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Follow the Light",
+      "trophyDetail": "You were enlightened by a dream.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/15da3738-fa7f-4d76-8c31-eead239eb4c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nordic Walking",
+      "trophyDetail": "Unlike Stucky, you enjoy incontestable health benefits. Namely, you're not dead.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/315757fa-d133-4cf4-90f7-4fa7acfdb8e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bright Falls' Finest",
+      "trophyDetail": "You finally managed to make that phone call.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/72d6b529-8d82-47eb-9e13-3fd5fd68f8fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boob Tube",
+      "trophyDetail": "You checked out some important messages.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/7e586bf2-9a87-4621-a9f3-9082248724a2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Under a Thin Layer of Skin",
+      "trophyDetail": "You disobeyed the park ranger's instructions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/f2f30f8b-f890-44ff-ba04-71f9496e91b1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Park Ranger",
+      "trophyDetail": "You survived Elderwood National Park.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/c616d3cb-a22a-44a4-9cfc-6f897e6eb4c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heavy Metal",
+      "trophyDetail": "You destroyed the bulldozer.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/85e4fd3d-a0f4-45a6-acda-835b0175e411.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iron Horse",
+      "trophyDetail": "You made the train engine run out of steam.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/bdd8d44a-2982-4c51-972e-4d3fafb6f7a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wheels Within Wheels",
+      "trophyDetail": "You found the kidnapper, but what he had to say wasn't what you wanted to hear.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/ca9840d5-6285-44d0-b784-5e20b92bb49a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Medical Opinions",
+      "trophyDetail": "You listened to Hartman's recordings.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/582d337e-a0e1-4a45-9c77-edc61b72685f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Child of the Elder God",
+      "trophyDetail": "You shone a light upon this night of otherworldly fiends.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/25b74106-d6eb-481b-932e-771382d293ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perchance to Dream",
+      "trophyDetail": "Oh, so THAT'S what happened.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/a36484ab-ae80-469f-bb85-3e6b4785dc99.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drink 'Em Both Up",
+      "trophyDetail": "You drank 'em bot' up.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/554d97e3-ee9e-4b8f-8b85-b99183e069bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gatekeeper",
+      "trophyDetail": "Truly, you are the master of floodgates.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/58a7093b-9e3e-45fa-bdc0-b3536a6fc632.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Lady of the Light",
+      "trophyDetail": "Cynthia Weaver has taken you to the Well-Lit Room.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/4299c6d9-2908-449f-832a-4d2ffd39ff6e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tornado Wrangler",
+      "trophyDetail": "You calmed the fury of the storm.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/cadb505a-c469-48af-b995-5e4da5b27a96.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Departure",
+      "trophyDetail": "You completed the game on Normal difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/784b8b4d-8be9-4793-ba26-32b49add392f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hardboiled Writer",
+      "trophyDetail": "You completed the game on Hard difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/28fcd635-658c-4385-a3ee-220ebd87cf16.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alan, Wake Up",
+      "trophyDetail": "You completed the game on Nightmare difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/813d9024-d109-4086-8af9-cd48ff532b74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "If It Flies, It Burns",
+      "trophyDetail": "Not a bird lover, are you?",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/8decbabb-34fc-4406-9ee3-49acab141aff.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "They're Heeeeeere!",
+      "trophyDetail": "You have destroyed 20 poltergeist objects.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/16d882bd-4d9f-4ae6-b984-5c686cfa61f7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Six-Gun Scribe",
+      "trophyDetail": "You capped 100 Taken with the revolver.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/3e85c3a1-bfe7-47be-a9b2-c2b325bddfe9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Taken Season",
+      "trophyDetail": "You have dropped 50 Taken with the hunting rifle.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/4f8dd201-b167-4203-af33-5298220fe8e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's Not Just a Typewriter Brand",
+      "trophyDetail": "QWERTY? DVORAK? 50 Taken know it's neither.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/7cdc6a88-653d-418d-bff4-55e2af9cf5ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What Light Through Yonder Window",
+      "trophyDetail": "It is the east, and the flaregun is the sun to 50 Taken.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/2230d6ee-660d-4c3a-9c59-eba1ce28843e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thunder and Lightning",
+      "trophyDetail": "50 Taken have felt your fury. Also, your flashbangs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/8c0f9ab1-d1ca-49b7-915a-73397f4dd788.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collateral Carnage",
+      "trophyDetail": "20 Taken have been drowned, electrocuted, or dispatched by some other indirect means.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/cd8256c5-e383-48a0-a8c1-78c0010c03a3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Come One, Come All",
+      "trophyDetail": "You wiped out four Taken with a single flare.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/016e93dc-cb15-4995-8242-a694959cc2b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sound and Fury",
+      "trophyDetail": "You blasted four Taken into ashes with a single flashbang.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/376126c3-ef66-470e-8348-0ca29bef1cda.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Two For the Price of One",
+      "trophyDetail": "You took out two Taken with a single barrel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/b707fc81-ff49-4ea9-94a6-7c09df862d27.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back! Back, I Say!",
+      "trophyDetail": "You bought yourself some breathing time with a flare.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/99aa8c7c-5d5e-453b-a669-03d807f10cb0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Float Like a Butterfly",
+      "trophyDetail": "You avoided getting hit -- with style!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/d6945e66-7a3a-4bf3-beef-6f3d99fd49d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Missed by a Mile",
+      "trophyDetail": "You managed a slow-motion dodge 20 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/e765d6a4-2f92-493b-bc25-7f10a3049278.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Energized!",
+      "trophyDetail": "You changed batteries 100 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/b463b9c2-79f3-4cf1-b90f-53bae9e67ad9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let There Be Light",
+      "trophyDetail": "You have restored power.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/ca97628f-8097-443c-ac8b-1e738ae2d631.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carny",
+      "trophyDetail": "You have heartlessly knocked over five defenseless can pyramids.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/d985fcd7-e73d-49a1-bd26-d84fa11258b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meet the Deadline",
+      "trophyDetail": "You made it all the way to the Cauldron Lake lookout in under 30 minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/10623a5c-9b58-44cd-b10b-25bea2cbfa1a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "An Idyllic Small Town",
+      "trophyDetail": "You fought your way through the streets of Bright Falls without getting killed.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/1a12e224-16bc-4948-9bd2-e2d4ac48105b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gunless Wonder",
+      "trophyDetail": "You managed to make it all the way from the dam to Cauldron Lake without firing a single bullet.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/027b9038-2208-40c0-8dbc-655bbd45403f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Right of Way",
+      "trophyDetail": "You have peeled 15 Taken off your bumper.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/1017106a-3250-4283-96ac-f57a02597812.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Finders Keepers",
+      "trophyDetail": "You have discovered five of the hidden chests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/5d2623ed-e9d1-4e76-8643-a90fd2556f73.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Every Nook and Cranny",
+      "trophyDetail": "You have discovered all of the hidden chests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/cd0ef333-fc7c-4647-b869-528142e811e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Paging Mr. Wake",
+      "trophyDetail": "You have discovered 25 manuscript pages.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/985424a4-8078-4d6f-908b-ea97826682d3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Picking Up After Yourself",
+      "trophyDetail": "You have found every manuscript page in Normal mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/199fa37f-0583-4272-994f-b9c4874e93c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Collector's Edition",
+      "trophyDetail": "You have found every manuscript page in the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/cf330be2-5773-4ef7-b422-fe75e765f5f5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Damn Good Cup of Coffee",
+      "trophyDetail": "You have found 25 coffee thermoses.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/7cf369f5-ebdd-4d50-b795-0d2e10d5b119.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hypercaffeinated",
+      "trophyDetail": "You have discovered every thermos of coffee.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/039710f1-8681-47b2-b51e-7d01a9a9385f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "KBF-FM",
+      "trophyDetail": "You haven't missed a single radio show.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/9e0ebbf2-161c-4105-84cb-27e082d1e73b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Couch Potato",
+      "trophyDetail": "You have watched every single TV show on offer.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/b402b3d3-91e9-4a43-ae9c-45d308afbe1e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Bright Falls Aficionado",
+      "trophyDetail": "You have examined every sign and point of interest in the Bright Falls area.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/d4cb529d-3da9-47c0-aa1a-c95b8ad9f7f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Friend in Need",
+      "trophyDetail": "You found Barry, or at least the next best thing.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/a3aff997-ab99-4514-a421-45661aaa95ef.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Friend Indeed",
+      "trophyDetail": "You found the point of contact with Thomas Zane.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/4f95c0f5-4941-4bc5-8207-5b95815d8977.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fast and Furious",
+      "trophyDetail": "You defeated the horror at the sawmill in less than 1 minute and 30 seconds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/a71bd4f7-1c0f-4353-9714-fb0d14bdf414.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Words Will Never Harm You",
+      "trophyDetail": "You made every furnace cough up its fiery death goodies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/8e04e0a6-4776-4d7a-8ae1-205be95a3ecb.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Run-On Sentence",
+      "trophyDetail": "You made it through The Signal in one glorious go.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/3a99d679-1123-43a8-8cd4-a3559434ae4d.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "License Revoked",
+      "trophyDetail": "You completed The Signal without ever entering a vehicle.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/0e7bc536-8311-49cd-82a2-f66eccadad0f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tick Tock",
+      "trophyDetail": "You found the 10 hidden alarm clocks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/12df2f0c-5479-473f-86e9-e8a3617115ff.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cardboard Companions",
+      "trophyDetail": "You found all of your cardboard buddies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/3d461bff-bfc6-4b39-96d0-f76c341c9b3d.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ding!",
+      "trophyDetail": "You took a little elevator ride.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/f8c31d58-9129-4ee6-94ef-9e4659f8ef0f.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kill Your Darlings",
+      "trophyDetail": "You put your imagination in its place.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/2ea78423-3535-4c46-a1fd-930290e4d7e4.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Go Gentle Into That Good Light",
+      "trophyDetail": "Make it through the approach to the lighthouse without firing a weapon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/2bebf484-a944-40c8-b36b-e84033090aad.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Punctuation",
+      "trophyDetail": "You made it through The Writer in one dazzling dash.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/52fb5854-6f01-4331-9a64-f19e1683495a.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iron Will",
+      "trophyDetail": "You faced your own demons and gave no ground to them.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/97a4be2a-82fd-4251-83e6-cb8de7242f18.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Whirlwind",
+      "trophyDetail": "You made short work of the tornado.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/1105a251-1069-4931-95dd-0f13d81f89bb.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Licensed Properties",
+      "trophyDetail": "You collected all 10 Night Springs video games.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/787624f4-4cc8-48c4-a535-08c3ab118565.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Creative Space",
+      "trophyDetail": "You took a weird detour through your imagination.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/030b91ca-1b11-4f80-ad2e-1f594a7f2492.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heartbreaker",
+      "trophyDetail": "You heard what \"Alice\" had to say.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22611_00/08a4f71d-5bbf-447c-b854-63de58c2735a.png",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 68
+}

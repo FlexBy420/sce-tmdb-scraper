@@ -1,0 +1,481 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR23774_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Hades",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/149accbb-b2cc-4816-8579-7e8419c04e90.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 40,
+    "silver": 7,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Hades",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/149accbb-b2cc-4816-8579-7e8419c04e90.png",
+      "definedTrophies": {
+        "bronze": 40,
+        "silver": 7,
+        "gold": 2,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "God of Blood",
+      "trophyDetail": "Earn all other Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/e5d0b0a7-231a-418b-9438-52ef3b332a2b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Escaped Tartarus",
+      "trophyDetail": "Clear Tartarus",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/94bed16d-5f0c-42f5-9909-ea87a4cf4653.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Escaped Asphodel",
+      "trophyDetail": "Clear Asphodel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/902f1695-caf3-4add-80f5-9a9dfe6d6806.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Escaped Elysium",
+      "trophyDetail": "Clear Elysium",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/b784141f-9d75-43b5-ae91-3a68e2587898.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Champion of Elysium",
+      "trophyDetail": "Clear Elysium with the 'Extreme Measures' Condition",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/116dc6cb-518f-4877-bd34-c351184e8062.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hold the Onions",
+      "trophyDetail": "Clear an Infernal Gate without taking damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/d98b535e-c883-445d-9cbd-5ace3e537a36.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Is There No Escape?",
+      "trophyDetail": "Clear an escape attempt",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/0d7b4285-d648-41d9-8a0a-bf566342db45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weapon of Fate",
+      "trophyDetail": "Clear an escape attempt with a hidden Weapon Aspect",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/060ca832-d341-4fd6-9bea-d43d83fc204f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "To Charon's Credit",
+      "trophyDetail": "Earn a Loyalty Card",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/22015d64-db54-4f94-bd1c-ba584922a774.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Useless Trinket",
+      "trophyDetail": "Earn the first of Skelly's prizes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/7ea40929-83be-45d1-b364-3462ab5f5a12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Skelly's Last Lamentations",
+      "trophyDetail": "Earn the second of Skelly's prizes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/596d0f09-bc58-4b82-a30d-36a42d6ff43d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Something From Everyone",
+      "trophyDetail": "Unlock each standard Keepsake",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/a863c111-1c24-40cd-8915-17027de4601f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Friends Forever",
+      "trophyDetail": "Max-rank each standard Keepsake",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/887ec1c1-b1e4-4be3-892f-349bdb3430fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rare Collectible",
+      "trophyDetail": "Equip a Chthonic Companion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/d4a22640-1256-46f4-a229-cb531b636695.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complete Set",
+      "trophyDetail": "Earn all Chthonic Companions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/517f3dbd-ed72-4ddb-8cbe-a61abf947143.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blood Bound",
+      "trophyDetail": "Max any Weapon Aspect",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/754e00b3-ea5b-48a6-9f62-529c529a20f1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Infernal Arms",
+      "trophyDetail": "Unlock all Weapon Aspects",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/82e4cc8a-74ab-4cf4-980a-cfcc534f5b1c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blessed by the Gods",
+      "trophyDetail": "Choose 100 different Olympian Boon effects",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/cd214a0c-9bb2-4fde-b1a4-c0c1f8b41da1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thanks, But No Thanks",
+      "trophyDetail": "Purge a Legendary Boon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/8e0db08e-d3fb-4b51-965f-3e966607169c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tools of the Architect",
+      "trophyDetail": "Choose 50 different Daedalus Hammer enchantments",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/9852e669-1c1b-401f-b4de-2237a8e3ec97.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arms Collector",
+      "trophyDetail": "Unlock each of the Infernal Arms",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/335b1e22-b929-4449-8a5f-b869c60350be.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grown Close",
+      "trophyDetail": "Forge a bond with any character",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/35a4204f-7ec3-440a-a01a-623a3ec56fdf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Well Versed",
+      "trophyDetail": "Fully Unlock the Olympians' Codex entries",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/b2d9b237-bb06-45b6-b8db-540ba5dfbc95.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Day-or-Night Trader",
+      "trophyDetail": "Trade 20 times with the Wretched Broker",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/6b036086-d32f-4dab-a4df-0c4535567f5f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Home Makeover",
+      "trophyDetail": "Pay for 50 jobs from the House Contractor",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/adc1d4eb-93ba-4bb3-bc48-47c0924f56d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Had to Happen",
+      "trophyDetail": "Fulfill any 15 Prophecies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/274a9692-ed33-44cf-942c-d4e906453e52.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "River Denizens",
+      "trophyDetail": "Catch a fish from each region",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/821b3361-47dc-4ecb-af0b-6a72c3900a59.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Urge to Sing",
+      "trophyDetail": "Compel Orpheus to sing again",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/a8a48bde-53bc-45e1-8a20-a248004fcf1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nyx's Mirror",
+      "trophyDetail": "Have at least one rank in each Mirror of Night Talent",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/8ec3ad13-ebf3-4ccc-8cac-aaead7dc7206.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Night and Darkness",
+      "trophyDetail": "Fulfill the 'Night and Darkness' Prophecy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/e5e41638-0544-4941-8565-8f09c32f0942.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chthonic Colleagues",
+      "trophyDetail": "Fulfill the 'Chthonic Colleagues' Prophecy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/b0086287-fc54-44c7-ba83-f9cc963566fd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "War-God's Bloodlust",
+      "trophyDetail": "Fulfill the 'War-God's Bloodlust' Prophecy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/53b67728-ed0e-495d-9dd2-ab216cbc48d0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "End to Torment",
+      "trophyDetail": "Fulfill the 'End to Torment' Prophecy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/c7a6975d-7491-4818-aef0-0904e67efc0b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Musician and Muse",
+      "trophyDetail": "Fulfill the 'Musician and Muse' Prophecy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/64b966fd-ea95-4e95-85d5-4db953d7a14c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Divided by Death",
+      "trophyDetail": "Fulfill the 'Divided by Death' Prophecy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/0151c5d7-d10c-4b21-bfd2-529aaa232120.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dark Reflections",
+      "trophyDetail": "Fulfill the 'Dark Reflections' Prophecy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/0e3a6ed4-0793-4801-991f-588c54ba6cab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Harsh Conditions",
+      "trophyDetail": "Fulfill the 'Harsh Conditions' Prophecy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/cd0a2896-a4d5-44ae-8fee-c7ddcaef3bdc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master of Arms",
+      "trophyDetail": "Fulfill the 'Master of Arms' Prophecy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/969b8228-185e-47fb-982e-fa528b0b01d9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slashed Benefits",
+      "trophyDetail": "Fulfill the 'Slashed Benefits' Prophecy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/523fe2a0-5cf8-4c8b-8c63-cac2002b4aa9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back to Work",
+      "trophyDetail": "Earn access to and enter the Administrative Chamber",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/d361b80d-20c0-40a1-9bd7-59fccdf06a3a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Family Secret",
+      "trophyDetail": "Complete the main quest in the story",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/49221fbb-5f44-41c1-95e3-217a3d41aaaf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One for the Ages",
+      "trophyDetail": "Reach the epilogue of the story",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/5bb2b412-67cb-441d-9aae-674a07bcdaa9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Well Stocked",
+      "trophyDetail": "Buy 9 'Well of Charon' items in one escape attempt",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/a830bfe1-1c35-48e6-951a-9af99742a4d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thorn of Thanatos",
+      "trophyDetail": "Get 30% bonus damage with the Pierced Butterfly",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/fb2016d8-7553-4f3c-8329-5ab067ebc7f7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Haste of Hermes",
+      "trophyDetail": "Get 20% dodge chance with the Lambent Plume",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/3473ab81-f2b8-44c8-b3e4-81a2a45fcca3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Death Dealer",
+      "trophyDetail": "Beat Thanatos by 15 kills or more",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/7710e538-dff9-4c34-95f6-37e60ba713c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Friends in High Places",
+      "trophyDetail": "Use Greater Call to invoke an Olympian's aid",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/9db86fc8-5b42-4b9d-8557-4bbacd248176.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bad Call",
+      "trophyDetail": "Use an Olympian's Greater Call against them in a Trial",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/9cddc15e-2336-40f2-a24c-4bea2943e766.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Skelly Slayer",
+      "trophyDetail": "Slay Skelly 15 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/23128da2-2915-4164-bde7-4ad611f0aa34.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Three-Headed Boy",
+      "trophyDetail": "Pet Cerberus 10 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23774_00/c97d65d0-db0f-4381-9638-ca09bc886717.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 50
+}

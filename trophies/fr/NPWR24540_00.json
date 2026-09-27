@@ -1,0 +1,519 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR24540_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Brewmaster Trophies",
+  "trophyTitleDetail": "The Unlockable Trophies for Brewmaster",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/D51B698DC5F5E25C0648C64C63D88D2FA9B9D4D4.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 44,
+    "silver": 7,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Brewmaster Trophies",
+      "trophyGroupDetail": "The Unlockable Trophies for Brewmaster",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/D51B698DC5F5E25C0648C64C63D88D2FA9B9D4D4.PNG",
+      "definedTrophies": {
+        "bronze": 44,
+        "silver": 7,
+        "gold": 2,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Maître de brassage",
+      "trophyDetail": "Obtenez tous les autres trophées",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/E2E6096F0BBF063A2F8631361E0FDAE99EEA328C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brasseur à temps partiel",
+      "trophyDetail": "Terminez une tâche",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/30FD7EFE8BA40882192FAD9486CA88A34F4E8234.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pas moût du genou ",
+      "trophyDetail": "Terminez 25 tâches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/1320FF64A071B6D1E24AC41E0901C140B40E15D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Brasseur pro",
+      "trophyDetail": "Terminez 50 tâches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/C4E0A89CB5A54F4DB2C9F7195A80992F73B9EAD0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ça se corse",
+      "trophyDetail": "Terminez une tâche corsée ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/B02F04164562357154253051B333D58B5389DC22.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'art et la manière",
+      "trophyDetail": "Terminez une tâche très difficile ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/5F23A13B59AE867F0062AA4A1A267C1281FC7C6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Preums !",
+      "trophyDetail": "Remportez un concours",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/580AA024F3CFB1F97A6DBACB7B22FF63AA84077E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Il me faut une salle à trophées",
+      "trophyDetail": "Remportez tous les concours du jeu",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/DFF180DD39B38A30CE4FD39D5F2F95BE59C2E47E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bête de concours",
+      "trophyDetail": "Remportez un concours très difficile",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/4B570056D221CF7F91357D401DF4B5BC01810553.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Maître",
+      "trophyDetail": "Atteignez le niveau de maîtrise maximum",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/229CB686E4D07C09B8AF055E67C8B3C1F919F6A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "À vous de brasser !",
+      "trophyDetail": "Terminez le scénario de Jeff",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/57E6D0B04A3936957329E12652BE33C760F56264.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brasseur héroïque",
+      "trophyDetail": "Terminez le scénario de Rosa",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/F67ABB8DBDDAEA9862FEBA0099E8B6EACC537BB5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Créativité",
+      "trophyDetail": "Terminez le scénario de Pat",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/38225B9176F2858249D7989EE151632ECA24A860.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bière au seigle",
+      "trophyDetail": "Terminez le scénario de Meï",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/D05370317116B393343A074A4EFAD0DF8E9955AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tu savais ?",
+      "trophyDetail": "Terminez le scénario de Kristoff",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/2B309422AC9A7898D067F4B60EDFE49F6F623894.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "L'histoire d'un brasseur",
+      "trophyDetail": "Terminez le scénario",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/8336448AD4D493B3456DFFD47C1D92ADEB279F6F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brasser local",
+      "trophyDetail": "Débloquez la première brasserie locale",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/19944940EEF321BC4BD63A16C5A7607C7A51153F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aux abois",
+      "trophyDetail": "Débloquez la deuxième brasserie locale",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/8F48DCF627B3DCF85BA55889F14ED1C86FF3A1C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'écolo",
+      "trophyDetail": "Débloquez la troisième brasserie locale",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/EEAED1770578F4579ABC9A4E8B9C191D8CBCC11B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'escalade",
+      "trophyDetail": "Débloquez la quatrième brasserie locale",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/F53968FBC7ADB62659AD519815D23D874425461D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Affaires à faire",
+      "trophyDetail": "Débloquez un créneau commercial",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/57B5FAA450CFBD3A54AA8A508359160FD24F4FF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Partenariat",
+      "trophyDetail": "Atteignez la réputation maximale auprès d'une brasserie locale",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/41CF69D44C4CE11B7B72002E6ACF48489E03A3FE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Héros local",
+      "trophyDetail": "Atteignez la réputation maximale auprès de toutes les brasseries locales",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/B0D0EF301CAF08E49CFE83262D8F607684E74A74.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Incritiquable",
+      "trophyDetail": "Recevez une appréciation publique d'au moins 4,5 pour une bière sur le marché",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/4D3354A687A35C9B95EFC2D3CDA502317DAC94AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Imaginez la bouteille",
+      "trophyDetail": "Obtenez une capsule géante  ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/234E207E1251AD0196BE7A61A54EB53B5063B7F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Magnifique",
+      "trophyDetail": "Obtenez au moins 10 aimants de frigo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/1E59E190F409419F0BD2D40DE182AC86035F9115.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avalanche de houblon",
+      "trophyDetail": "Obtenez au moins 50 variétés de houblon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/35DC8FAB0F80B1EDC7A8BE568D5F1D9D00E9D526.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Culture de levure ",
+      "trophyDetail": "Obtenez au moins 30 variétés de levure",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/BBBC74EB10F79147974D35689A94FD455EF7106E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grenier à céréales",
+      "trophyDetail": "Obtenez au moins 50 variétés de céréales",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/3767D9B9CB368CB251C18DDFBEC9B03C6C784A9D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bonne conformité",
+      "trophyDetail": "Arrivez à une conformité de style d'au moins 80 % pour n'importe quel style de bière",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/821F592FDDAC1BA0FEBDEADBDB2A1D3A54D225F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conformité assurée",
+      "trophyDetail": "Arrivez à une conformité de style d'au moins 90 % pour n'importe quel style de bière",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/36B175365F395BA5F9382E64AF947DD80E860F8B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Conformité parfaite",
+      "trophyDetail": "Arrivez à une conformité de style de 100 % pour n'importe quel style de bière",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/7C022F2287402A38D1B6423542EFDF2F7D9DA1CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spécialiste",
+      "trophyDetail": "Arrivez à une conformité de style d'au moins 90 % pour une bière de spécialité",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/CFF542DB2E1A54B554040D6EF3E1D96BB109D27B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Catégorique",
+      "trophyDetail": "Brassez au moins une bière de chaque catégorie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/691517DE6755C825BF235965C106ED7F562006AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stylé",
+      "trophyDetail": "Brassez au moins 20 styles de bière différents",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/A43BBEBA8019ACDCAB8F88992D6A2C12556FB5B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "La somme de toutes les bières ",
+      "trophyDetail": "Brassez au moins 50 styles de bière différents",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/027A0FD7C67CE2E98A5ABA940E894303DE53E485.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Facile à boire",
+      "trophyDetail": "Brassez une bière ayant un degré d'alcool inférieur à 2 %",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/75D0EF33613368AAB69324908D7CEC1CA73EB08A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fortiche",
+      "trophyDetail": "Brassez une bière ayant un degré d'alcool d'au moins 6 %",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/D696FF11BD37E263A47D8F7D7D7C0E0137825D75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forte",
+      "trophyDetail": "Brassez une bière ayant un degré d'alcool d'au moins 10 %",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/0AA4CADDC5441A86C746684D57459BEAD4693F5E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Super forte",
+      "trophyDetail": "Brassez une bière ayant un degré d'alcool d'au moins 15 %",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/8891B39B6202475A219954C7F57622244AEE5199.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La 99",
+      "trophyDetail": "Brassez une bière ayant un degré d'alcool de 9,99 %",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/F65682464EA39105BB0DC717AD6294C96D75CC06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'amer qu'on voit danser",
+      "trophyDetail": "Brassez une bière ayant au moins 50 IBU",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/52DA69C9033D68A9E26418FD0DB405FA4E0FDA7F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "C'est pas l'homme qui prend l'amer",
+      "trophyDetail": "Brassez une bière ayant au moins 100 IBU",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/175B63867AFDF63FF4B858A0AE22EACCD0AB9F6F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pétillante",
+      "trophyDetail": "Brassez une bière ayant une carbonatation supérieure à 4 volumes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/68B1EBB41091801EE73E67401C3941CBDA2222EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Comme de l'eau de roche",
+      "trophyDetail": "Brassez une bière brillamment claire",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/5963F87E32B367E2D56B3EC28A41390C060EEDFD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Comme à travers une pelle",
+      "trophyDetail": "Brassez une bière extrêmement brumeuse",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/45A4D8FF3EC9295FBFCBB4B30CF7AD3C2418DE45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bière de qualité",
+      "trophyDetail": "Brassez une bière ayant une contamination inférieure à 10 %",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/4B658091FCBEACA2FE3C9D7F852A430610986896.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bière immaculée",
+      "trophyDetail": "Brassez une bière ayant une contamination inférieure à 5 %",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/D43F08559DC28F0A50904B54A9686C14CB6EAEDD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mauvais lot",
+      "trophyDetail": "Brassez une bière ayant une contamination égale ou supérieure à 20 %",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/F935EA2A1A79FE2D1EBA0FFD0A90499618B60EAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mettre les moyens",
+      "trophyDetail": "Brassez un lot moyen de bière",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/2DB46D82BA05B830C02C8D36D7B9F3E63743F0F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voir grand",
+      "trophyDetail": "Brassez un grand lot de bière",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/F3F5342C2183BDDB288A46414708CE0C702C94E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Transparence",
+      "trophyDetail": "Brassez une bière ayant une SRM inférieure à 5",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/E88DB09344D995FD9D70D66E94BAAAFB057F5969.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Brasseur à domicile",
+      "trophyDetail": "Brassez votre première bière",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/68441DBBF6F262432656DD2FC34654AFF83B59A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Empâtage",
+      "trophyDetail": "Brassez une bière tout grain",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24540_00_003BBD3581C88E53C80214857C33E1C0FE48BF1E43/6EE9A5BA7C6FA1777A980DD64DA283E2A44A3016.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 54
+}

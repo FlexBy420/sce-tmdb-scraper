@@ -1,0 +1,87 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR22805_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Survival",
+  "trophyTitleDetail": "Survival Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22805_00_00F0DDA1E2308A8168FD16A16BFCEAAE4B0D7D5407/BEF5C3F0F60B63FA0DBEA52C001765894F4BBAB1.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 1,
+    "silver": 3,
+    "gold": 2,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Survival",
+      "trophyGroupDetail": "Survival Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22805_00_00F0DDA1E2308A8168FD16A16BFCEAAE4B0D7D5407/BEF5C3F0F60B63FA0DBEA52C001765894F4BBAB1.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 3,
+        "gold": 2,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Died",
+      "trophyDetail": "Die",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22805_00_00F0DDA1E2308A8168FD16A16BFCEAAE4B0D7D5407/C0E4332CB349865F4AD1D3AF5F3BE026155CB610.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hunter",
+      "trophyDetail": "Hunt 10 animals",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22805_00_00F0DDA1E2308A8168FD16A16BFCEAAE4B0D7D5407/29DB3682E47D39E64C3869E0B2E00E015DC8458D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ultimate Hunter",
+      "trophyDetail": "Hunt 50 animals",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22805_00_00F0DDA1E2308A8168FD16A16BFCEAAE4B0D7D5407/BD9CF0AC6C02AC2B53B968B05EBFA2D26C840160.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Still alive",
+      "trophyDetail": "Survived 1 day",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22805_00_00F0DDA1E2308A8168FD16A16BFCEAAE4B0D7D5407/21563645325CCF2D6F1FC0D46E2FC9C2E1E9693C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Survivor",
+      "trophyDetail": "Survived 7 days",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22805_00_00F0DDA1E2308A8168FD16A16BFCEAAE4B0D7D5407/C8F7821AA7AD10F3D0C1F0E377CA57B9C103D4EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ultimate Survivor",
+      "trophyDetail": "Survived 30 days",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22805_00_00F0DDA1E2308A8168FD16A16BFCEAAE4B0D7D5407/D57BD75148DBA17A83CA1E09C09117EE6B58F65D.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 6
+}

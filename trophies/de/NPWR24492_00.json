@@ -1,0 +1,633 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR24492_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "SpellForce III Reforced",
+  "trophyTitleDetail": "The trophy set for SpellForce 3 base game",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/DC578BFBFDD919B47E2091EA96DCD9692C986599.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 52,
+    "silver": 7,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "SpellForce III Reforced",
+      "trophyGroupDetail": "The trophy set for SpellForce 3 base game",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/DC578BFBFDD919B47E2091EA96DCD9692C986599.PNG",
+      "definedTrophies": {
+        "bronze": 36,
+        "silver": 5,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Soul Harvest",
+      "trophyGroupDetail": "The trophy set for the Soul Harvest DLC",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/E51D71C2FCAC9B2FE01E87D9D645FE9FF5F4D986.PNG",
+      "definedTrophies": {
+        "bronze": 11,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Fallen God",
+      "trophyGroupDetail": "The trophy set for the Fallen God DLC",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/268CC64B77111054469FC37CEE9C786DC79C12F7.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Trophy",
+      "trophyDetail": "All Trophies obtained!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/388BE9536899B23D23293AFADCE888A1FBF04F97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ritualist",
+      "trophyDetail": "Das Mentalisten-Ritual von Aonirs Klinge abgeschlossen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/EF043D53D737A9B9FE6ED71737B272EBBA6141F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Kreis der Freunde",
+      "trophyDetail": "Alle möglichen Begleiter angeheuert.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/0BEA91F5372FC7AF4C7602B9BCC5C76E1F6AB30A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Uralte Kreaturen",
+      "trophyDetail": "Die Beschwörung von Titanen erlernt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/D513294DDC705CD48319D3319860B69DC10A6C2F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Entfesselungskünstler",
+      "trophyDetail": "Bei der Flucht aus der Grauschanze alle Gefangenen befreit.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/951CD1779244F7342E6AD7C98BE2E9D93E1C1214.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lange lebe der Gottkönig",
+      "trophyDetail": "Dem Gottkönig Tribut gezollt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/C3E5EFF3636EAFE1F56CDF68FCE9D2C221212E6C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Am Ende doch das Kind eines Verräters",
+      "trophyDetail": "Liannon abgeschlossen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/FBAF735EAE89F476BDFF12C603CBA0E69BCF739F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Eine großzügige Seele",
+      "trophyDetail": "Auf die Bitte nach Hilfe mehr als das Minimum gegeben.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/34D23B62C1D244E87F8AE9C43316A15193055672.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drachenflüsterer",
+      "trophyDetail": "Du hast eine Aufgabe für den Älteren Drachen erfüllt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/B69920DAC2F40C08054309D9FA36D5A0C2AEBC3F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alte Fehden",
+      "trophyDetail": "Sich um Alistair gekümmert.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/B2C2310AFDD7226F79902123528F214746F68282.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gefängnisausbruch",
+      "trophyDetail": "Der Graufschanze mit einem neuen Verbündeten entkommen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/B9717A854029111776E289E8756C16856A0B7F73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eine neue Hoffnung",
+      "trophyDetail": "Allen Flüchtlingen von Farlornsheim geholfen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/ADC6DC84C40DB0654AE537F2CF42F4263684B1D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gnadenlos",
+      "trophyDetail": "Sich bei Aonirs Klinge mit den Totenmännern zusammengeschlossen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/57738A39B32BFC4E693D6CEDF5CE15D6A9DDFAD1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Nostalgisch",
+      "trophyDetail": "Sich bei Aonirs Klinge mit den Eisenfalken zusammengeschlossen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/E582085ADE71B4BA0BC9FE2D2B110483CBA8DF82.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Herr von Mulandir",
+      "trophyDetail": "Mulandir als deine Basis beansprucht.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/573D29D8797FBA9B4338CF5A44E63C88623D1E9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Das Auge der Geschichte ruht auf dir",
+      "trophyDetail": "Das Schicksal von Nortander liegt in deiner Hand.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/021E6AA83F9ED6FE84299D1ECFD4DCC299192B59.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kleine Schritte",
+      "trophyDetail": "Erste neue Stufe erhalten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/3C23D999FEC80A7F5CF6A4942624E0C47AA95B7E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reise ohne Wiederkehr",
+      "trophyDetail": "In der Kampagne Heldengruppen-Stufe 20 erreicht.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/469C630F508C77A76C904C65C5C5B1C69CBC2A6B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bereit für den Zirkel",
+      "trophyDetail": "Das Maximum der Heldengruppen-Stufe in der Kampagne erreicht.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/10638AC86D25563714CA338D1115BEF095B9E800.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Staatsfeind Nummer eins",
+      "trophyDetail": "Die nortandische Armee in der Wildnis von Iskander besiegt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/5B4B9BE9EDD27E45FCBA886704145D368F6C400D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vergessener Friede",
+      "trophyDetail": "Die menschliche Armee freigeschaltet und maximal aufgebessert.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/19F0647603D4FDA351E22BE77035C332084EE8A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weine nicht, Schwester Wald",
+      "trophyDetail": "Die elfische Armee freigeschaltet und maximal aufgebessert.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/91871E92F7239BF9267156B6B70E2A430B3CE813.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zarachs Auferstehung",
+      "trophyDetail": "Die orkische Armee freigeschaltet und maximal aufgebessert.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/C8AA057394246CAAB8A71E3C5817DA27F21513B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Shaikan",
+      "trophyDetail": "Den Älteren Drachen erschlagen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/5650CD06AB19B36B607A2A424B916D15BB893154.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Plänkler",
+      "trophyDetail": "Einen menschlichen Gegner im PvP geschlagen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/C68CD7905417046A55C6F6B623F2874DA3390F3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zusammen sind wir besser",
+      "trophyDetail": "Die Kampagne zusammen mit einem Freund gespielt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/CDA96D816273E473AB9F6B6696698BF9882A276E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Plage der Arbeiterklasse",
+      "trophyDetail": "Lass die Arbeiter in Ruhe!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/A21CFF4470C330956C63E17739326A4B0635ED86.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Drücke F, um Respekt zu erweisen",
+      "trophyDetail": "Wenn nur das echte Leben auch so einfach wäre.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/BA3FF9019A2B80F2BE9481A46FF0390EAC122D34.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Passt wie angegossen",
+      "trophyDetail": "Diese Gefängniskleidung steht dir!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/A66C5C07AFA50A80D2DE6D701AD7974FE0B30F6C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Übung macht den Meister",
+      "trophyDetail": "Ein Übungs-Scharmützel gegen die KI gespielt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/B6301D9A75393A0FBF624BF6A66AF8251A05B801.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Nur eine Fleischwunde",
+      "trophyDetail": "Dein Avatar ist gestorben.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/BCAF5F11EFB7CDA09B8CE9F95658FAD8A61CCED6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Zwergische Kunstfertigkeit",
+      "trophyDetail": "Isgrimms Rüstung vollständig aufgebessert.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/282167A236E67E770F22BBE4C9C8F9AF1589362E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Arachnophob",
+      "trophyDetail": "Du wurdest von einer winzigen Spinne getötet. Ziemlich beeindruckend.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/A06B5B5ECF2E2BA5F79A3D7728A1E8DD21B3D4F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Kommandant von Farlornsheim",
+      "trophyDetail": "Die Orks bei Farlornsheim ohne weitere Einheiten besiegt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/403AD7BF8AFFB131DE9F4C6BD159655C7E1AE758.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Das Ende",
+      "trophyDetail": "Die Kampagne von SpellForce III abgeschlossen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/A446914FE82D0D248570FA734231437330DA5730.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kommandant",
+      "trophyDetail": "Die Treue der menschlichen Verbündeten gewonnen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/ED3A25F29B4905CA5DFDA82A4D6E065BE9D5D869.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seher",
+      "trophyDetail": "Die Treue der Morhir-Elfen gewonnen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/FF2E0D7172DB2D85453768FB17CA23E4BC59A439.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Häuptling",
+      "trophyDetail": "Die Treue der Feuerzähmer-Orks gewonnen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/8F7BA36D2E23B91797919ECDEAF736F3C433E3B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Retter der Theresienwiese",
+      "trophyDetail": "Ihr habt die Schlacht um die Theresienwiese gewonnen und der Unzucht auf dem Oktoberfest ein Ende gesetzt!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/7501D00C8145B9D8720782D096EC11E11E1A8947.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wetteifernder Troll",
+      "trophyDetail": "Gewinne mit Trollen in einem Ranked Match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/DDCBE94C9E4526D1E95DE1B4461D3EECF9BDDCD1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kopf an Kopf",
+      "trophyDetail": "Schließe ein beliebiges Ranked Match ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/7EB519B21FF7FAEB7F173D9EEA2229D33890D186.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mugwas Wächter",
+      "trophyDetail": "Beschwöre Mugwas Kalb.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/0995B95FCBF798352B80A34BFD16DA65FA5FE4A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vogelzüchter",
+      "trophyDetail": "Erzeuge jede Art von Eisenschnabel mindestens ein Mal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/5A1AAB1125EE04E1062B069CA34C870AF0B09876.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kriegsbringer",
+      "trophyDetail": "Bilde erfolgreich einen Kriegsbringer aus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/980E900882F5BC27A80E617617763F56412146E2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Anpassungsfähiger Anwerber",
+      "trophyDetail": "Wandle eine Trolleinheit um, indem du sie an eine anderer Schule schickst.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/2A2774B778E3FAF77A297D1EB1B75498F5DCEDEC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lehnschwerter",
+      "trophyDetail": "Heuert einen neuen Söldner an.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/CB1483C50936DEB13161A1FBF7035286C984BCC8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zum Wohl!",
+      "trophyDetail": "Betrinkt Euch mit Yria.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/325C1BFEA9BCFC4C293627715CB9D3C4D213698F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ein ungünstiges Tête-à-tête",
+      "trophyDetail": "Das erste Mal Ausgehen kann die Nerven belasten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/5256E72EA5229A76FAAF85C05032FBB64F5E446F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ein neuer Anfang",
+      "trophyDetail": "Nutzt einen Trank, um Eure Fertigkeiten und Attribute zurückzusetzen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/A1D7B0323A28BD9CDCB0150B27E9468DA7ADD5EE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Geisterjäger",
+      "trophyDetail": "Vernichtet alle rachsüchtigen Geister",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/48F4F725696EEBEFFF6585D0387585449B7B0BF2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diversität",
+      "trophyDetail": "Habt alle möglichen Begleiter wenigstens einmal in Eurer Gruppe.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/CCA0C5A02B872663BD3D2EF6CE1F096E97928250.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Zirkelmagus",
+      "trophyDetail": "Schließt die Soul Harvest - Kampagne auf dem Schwierigekeitsgrad Zirkelmagus ab, ohne die Schwierigkeit auch nur einmal zu senken.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/A4775841AEE4516FC486AD662EC6E51E53EA6C96.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Introspektive",
+      "trophyDetail": "Schließt den ersten Traum ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/4DAE07AD6D279ACB2BBEEE2986990C1BBFBC0DE0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Schatzjäger",
+      "trophyDetail": "Öffnet das Kombinationsschloss einer Schatzkiste im Windwaller Vorland.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/B52AAD13F3D4A90080012A4F0DFD4722E0CC52FB.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diplomat",
+      "trophyDetail": "Entschärft eine angespannte Situation mit nichts weiter als Worten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/8B4D3A406D6C86F62EC5DFA0932D20AE39332DB1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soldat",
+      "trophyDetail": "Tötet Feinde in der Kampagne.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/2E722FEFBAAB7D397BB395FD13844C7027743ADE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rätselmeister",
+      "trophyDetail": "Löst ein uraltes Rätsel.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/33D14FC3BD82359F03C1A4CBEA687F996CD0BCB1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Zirkeltroll",
+      "trophyDetail": "Schließe die Fallen God-Kampagne auf der Schwierigkeitsstufe Zirkelmagier ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/5287F2F7AEB040E3157C1EBE803EED4D624B7F6D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ein neues Du",
+      "trophyDetail": "Verwende einen Trank des Neuen Anfangs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/59EE8135F81233E2061122E629DF277D12FD23FF.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bastler",
+      "trophyDetail": "Stelle 50 Gegenstände her.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/081B02861FFE473B1123187CF68ECCEF0199C00D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trollgelehrter",
+      "trophyDetail": "Sammle alle hybernischen Schriften.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/76E0F4B9B89CEA8076A75522FA67C5790131398B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Die Bedürfnisse vieler",
+      "trophyDetail": "Schließe die Fallen God-Kampagne mit dem Stamm ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/AD9769C59CE338BEC73F589819CD01DED404039B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Der Weg teilt sich",
+      "trophyDetail": "Schließe die Fallen God-Kampagne ohne den Stamm ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/1AE9D8CFD697FCFDDD71B0F57E5C9B27F7AE6C54.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Noag verwirrt!",
+      "trophyDetail": "Löse das Mosaik-Rätsel.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24492_00_00EFDC4B3475BE0CA7153B513324EB26443F417496/5820702E01E2DEB35C56EED32ED75B6ED31E3ED4.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 64
+}

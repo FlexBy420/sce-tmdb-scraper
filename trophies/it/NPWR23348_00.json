@@ -1,0 +1,733 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR23348_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Deep Rock Galactic",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/7e6ac98c-8cfd-4226-8d6a-338f901d4988.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 54,
+    "silver": 11,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Deep Rock Galactic",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/7e6ac98c-8cfd-4226-8d6a-338f901d4988.png",
+      "definedTrophies": {
+        "bronze": 40,
+        "silver": 6,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Immersioni Profonde",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/a76ea011-8c84-4e66-bd72-01c9295424b8.png",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Missioni",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/5af6226a-d3a4-4847-88db-fc5a76b7842e.png",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Il Bar Abyss",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/35bd7c4d-f9fc-4282-8205-208a4471f181.png",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "L'impiegato preferito della direzione",
+      "trophyDetail": "Colleziona tutti gli altri trofei Deep Rock Galactic",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/c39a14a8-d27f-49ff-94c0-e8b3969614b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Novellino barbuto approvato",
+      "trophyDetail": "Completa il tuo primo incarico.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/1fb1783e-cf2c-4f0e-92f4-2db7e1511556.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cavalcatore di barili",
+      "trophyDetail": "Cavalca un barile nella stazione spaziale per tre secondi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/261545a9-d0b7-4480-bded-3208a9a1837b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A-Team",
+      "trophyDetail": "Grazie a delle mosse da maestro, hai messo un barile in ogni sedile della Capsula da sbarco. Ben fatto?",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/6a55d6ca-6724-45ba-8d2b-c14a358db17c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Tempo ben speso",
+      "trophyDetail": "Hai messo tutti i barili sulla Stazione spaziale dentro la Capsula da sbarco. La Direzione è disperata.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/4efe4891-3b69-4937-bfd9-0a0d4c93176d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Oggetti estranei nella zona di lancio",
+      "trophyDetail": "Hai calciato tutti i barili dentro la zona di lancio. È colpa vostra se il Controllo Missione beve.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/314141ec-8fcd-4867-a537-8e14be1d6803.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Autocontrollo",
+      "trophyDetail": "Gioca 10 missioni di fila senza prendere a calci neanche un barile sulla Stazione spaziale.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/54c1b91f-6006-4f42-976f-2a9d0cfaa60c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ora abbiamo un BET-C",
+      "trophyDetail": "Sconfiggi e ripara un BET-C.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/36266a53-34b6-4be1-a6e0-2c84cda86581.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ti mando al creatore, Detonatore!",
+      "trophyDetail": "Partecipa all'uccisione di 20 Detonatori Rinforzati.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/8cbb7b17-dbc8-4a2e-8fa1-9aab5f0919f1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gioielliere",
+      "trophyDetail": "Raccogli 10 Gemmaspre.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/e5d0da54-9e7c-4430-bf3f-bec32b8cf96c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cercatore d'oro",
+      "trophyDetail": "Raccogli 20 blocchi d'oro compresso.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/859b5525-e54b-4479-97ff-484c42f431fe.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cosa sono questi cosi?",
+      "trophyDetail": "Hai raccolto 5 artefatti alieni misteriosi. Sono caldi al tatto e puzzano leggermente di... asfalto?",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/4f513d8a-cee2-428a-9b00-701db37e8537.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avanti, Silver - Andiamo!",
+      "trophyDetail": "Cavalca Molly per 15 secondi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/d0ee3b23-f3ff-41bb-b62a-4e6539967041.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contadino",
+      "trophyDetail": "Sali sopra un Estrattore di silicati per 30 secondi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/d9413504-4c5a-4880-9504-dee5f927583f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mi piace stare qua sotto",
+      "trophyDetail": "Sei stato in una missione per un'ora o più.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/daade1c5-ab49-434a-85e5-93e9d76ddfa4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3600"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Minatore",
+      "trophyDetail": "Completa la tua prima missione.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/d92933a3-eea4-4704-a0a7-8c435985bd4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Minatore esperto",
+      "trophyDetail": "Completa 100 missioni.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/cb019be7-4a0f-44f0-a9a0-fdebf7abba65.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Minatore leggendario",
+      "trophyDetail": "Completa 500 missioni.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/83ef6d8e-c38e-47d9-acb7-947d9ceaf4c9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mettiti alla prova",
+      "trophyDetail": "Sopravvivi ad una missione, giocando dall'inizio alla fine, a difficoltà \\Pericolo 3\\.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/e9689f31-3cf8-4598-93e7-e84ec85d9aa5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prestazione costante",
+      "trophyDetail": "Completa con successo tre missioni di fila, dall'inizio alla fine, a difficoltà \\Pericolo 3\\.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/18f518a0-8dd7-4c85-a513-b76feca1981a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pellaccia",
+      "trophyDetail": "Sopravvivi ad una missione, giocando dall'inizio alla fine, a difficoltà \\Pericolo 4\\.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/7110e4e6-2c53-4d1d-8067-e7b11ee85c2e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Impiegato del mese",
+      "trophyDetail": "Completa con successo quattro missioni di fila, dall'inizio alla fine, a difficoltà \\Pericolo 4\\.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/c6881660-6c68-4199-a665-8b3ebf216610.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Letale",
+      "trophyDetail": "Completa con successo una missione, dall'inizio alla fine, a difficoltà \\Pericolo 5\\.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/3d31f324-f806-4060-9dd8-a2b98386b2a1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Duro come la roccia",
+      "trophyDetail": "Completa con successo cinque missioni di fila, dall'inizio alla fine, a difficoltà \\Pericolo 5\\.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/9dc39333-2e82-4ef9-80ab-f6b55f8259c5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dai del tuo meglio",
+      "trophyDetail": "Completa con successo una missione, dall'inizio alla fine, a difficoltà \\Pericolo 3\\; nessun nano dev'essere abbattuto ne chiamare rifornimenti.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/595f2332-b5a9-46bb-9cec-c22330ac2064.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Come una macchina ben oliata",
+      "trophyDetail": "Completa con successo una missione, dall'inizio alla fine, a difficoltà \\Pericolo 4\\; nessun nano dev'essere abbattuto ne chiamare rifornimenti.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/092feb73-bd97-49ee-8950-9272f2248e14.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Karl ne sarebbe fiero",
+      "trophyDetail": "Completa con successo una missione, dall'inizio alla fine, a difficoltà \\Pericolo 5\\; nessun nano dev'essere abbattuto ne chiamare rifornimenti.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/e2fa27ce-a100-4c69-bcba-043141a33f43.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spazzino mutato",
+      "trophyDetail": "Completa con successo 20 missioni, dall'inizio alla fine, con degli avvisi di \\Attenzione!\\.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/2a3137bc-8fec-4df3-994d-47a0752778cd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Questa è la mia squadra",
+      "trophyDetail": "Hai ospitato e completato con successo 50 missioni di squadra dall'inizio alla fine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/805a4c91-5f9a-4d3c-9ff7-6b02a8143835.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buon pastore",
+      "trophyDetail": "Completa con successo 25 missioni insieme ad 1 giocatore con almeno 10 ranghi meno di te.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/34168776-d462-4343-b063-3d4e53556a6b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lupo solitario",
+      "trophyDetail": "Hai completato 10 missioni solitarie. Impressionante.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/da275bce-62bc-411f-87b5-d7dabb17b504.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La Direzione approva",
+      "trophyDetail": "Completa 25 traguardi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/01c90346-15ac-45c0-b27b-f51745b799d5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mi sento abile",
+      "trophyDetail": "Sblocca 10 nodi abilità.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/6fa83968-55f9-4577-97d8-d91c2335149b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un nano importante",
+      "trophyDetail": "Promuovi un nano qualsiasi almeno una volta.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/8a2ee1b9-6296-46f6-bf78-a4ac7fb3f1fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arrampicatore aziendale",
+      "trophyDetail": "Promuovi due nani qualsiasi almeno una volta.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/3d9212ae-cdb8-4959-babe-ca1ce57d0d60.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tripletta",
+      "trophyDetail": "Promuovi tre nani qualsiasi almeno una volta.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/af1be94e-3f0f-4266-a809-846c97be0804.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Squadra promossa",
+      "trophyDetail": "Promuovi tutti e quattro i nani almeno una volta.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/135366b0-37fa-466a-904a-05e266c71d0e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Impiegato d'argento",
+      "trophyDetail": "Guadagna una promozione d'argento.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/9b3af2c4-d2eb-45b6-9956-9bf3ce468913.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Impiegato d'oro",
+      "trophyDetail": "Guadagna una promozione d'oro.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/a8e20333-d552-402d-831d-a33453bd5da0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Squadra professionista",
+      "trophyDetail": "Guadagna una promozione d'argento con tutti e quattro i nani.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/a7e7ee85-94a0-4697-991e-10529fef4cab.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Squadra leggendaria",
+      "trophyDetail": "Guadagna una promozione d'oro con tutti e quattro i nani.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/36d7e4d8-dcd7-4cba-a7a3-617bed2b888f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Esplorando le mie opzioni",
+      "trophyDetail": "Hai sbloccato una nuova arma primaria e secondaria per lo stesso personaggio.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/0c1ea516-5278-461e-8bd5-3d908d0fe185.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "All'avanguardia",
+      "trophyDetail": "Hai comprato una Mod per ogni slot di ogni oggetto migliorabile dal Terminale Attrezzatura, per un solo personaggio.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/a7faabdc-2da3-4237-8252-4055e1333af4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Robotica avanzata",
+      "trophyDetail": "Hai comprato una Mod per ogni slot di Bosco.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/b53d9dbc-7d61-44a1-8617-edd1401e43c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Omaccione baffuto",
+      "trophyDetail": "Compra 5 baffi per un personaggio.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/36e4ff0d-35ab-4dc3-aace-e4685cb23365.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rinnovo completo",
+      "trophyDetail": "Personalizza ogni slot cosmetico di un personaggio.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/7e6cb0ae-34c9-49b8-b015-207f49165204.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Colpiscili dove fa male",
+      "trophyDetail": "Hai colpito 1000 punti deboli. Impressionante.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/4910fcdb-70fc-4fa5-b90f-42a127b32600.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Bosco, sei il migliore",
+      "trophyDetail": "Hai completato 100 missioni solitarie. Davvero impressionante.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/a2c7dfcc-b158-45d7-87a2-c08557d1cc03.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Auto di gruppo",
+      "trophyDetail": "Sali sopra un Estrattore di silicati con altri tre nani e uccidete cinque nemici ciascuno senza scendere.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/4d9c4d8f-a122-4e81-ad95-1d84572964af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le prestazioni contano",
+      "trophyDetail": "Completa 10 traguardi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/458eb6f3-431c-4974-b325-3e984d8fbebe.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Andando in profondità",
+      "trophyDetail": "Completa un'immersione profonda.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/572eabf9-c0d5-418b-b3db-02ee95e6a7f6.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Speleologo elite",
+      "trophyDetail": "Completa un'immersione profonda elite.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/a0511132-4d61-4cda-a643-2b5a66200ff5.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Immersione veloce",
+      "trophyDetail": "Completa un'immersione profonda qualsiasi in meno di 45 minuti.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/401ca3d1-55ce-4ac6-86ee-1da0540797b4.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Speleologo veterano",
+      "trophyDetail": "Completa 5 immersioni profonde qualsiasi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/d7e3fe2c-a4d2-4304-ab65-39f6c3100d40.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Riparatore di Mini",
+      "trophyDetail": "Ripara 50 Mini M.U.L.E.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/1959e510-d801-4921-b379-8a830e3b7140.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Caccia grossa",
+      "trophyDetail": "Partecipa all'uccisione di 40 Corazzati.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/a9e214cc-9760-40ae-bc41-c202cd33d1e8.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "40"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Disinfestazione",
+      "trophyDetail": "Partecipa all'uccisione di due Corazzati entro 5 minuti a difficoltà \\Pericolo 3\\ o superiore.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/64b3e8e1-2576-496e-97d4-2194d7fefc3a.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Solo un'altra caccia agli insetti",
+      "trophyDetail": "Partecipa all'uccisione di due Corazzati entro 30 secondi a difficoltà \\Pericolo 3\\ o superiore.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/950e072a-0a9a-4a78-8299-c916d05e57e9.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trivella e spara",
+      "trophyDetail": "Sali sopra il Drilldozer con altri tre nani e uccidete 15 nemici ciascuno senza scendere.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/99f27f45-2815-490e-b8bb-5468a5f82bbb.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Montagna russa",
+      "trophyDetail": "Scivola su una tubatura per 120 secondi senza fermarti.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/b033c27c-4757-4364-95c5-38b87fa6c911.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "120"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Situazione complicata",
+      "trophyDetail": "Eri l'ultimo nano rimasto in vita, senza munizioni per l'arma primaria e secondaria, mentre un Corazzato si stava avvicinando. Alcuni giorni dovresti",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/c6959af8-fa77-4c30-83bb-b61c4cddb600.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Esca designata",
+      "trophyDetail": "Sei stato il membro della squadra che ha subito la maggior parte dei danni da un Corazzato.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/e7c5b1bf-a998-4dfb-8fa3-64faefef9df9.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Se solo mi pagassero per questo...",
+      "trophyDetail": "Nel gioco del Canestro dei barili, raggiungi un punteggio di 3000 o più in meno di 100 calci.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/75ab1cc4-b49a-4e4f-85f1-cd5661184a73.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "3000"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Non è così che si gioca a questo gioco",
+      "trophyDetail": "La spazzatura va nel cestino, non nell'intricato macchinario del Canestro dei barili!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/37e92c36-11dc-43af-abd5-cdf5e8565314.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Premio Darwin",
+      "trophyDetail": "Ti sei sacrificato nel canestro dei barili mentre eri ubriaco.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/b2cc563c-50ce-490f-ac5d-7c94397d26f2.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Piedi impazziti",
+      "trophyDetail": "Hai passato un'ora o più muovendo la tua \\miniera d'oro\\.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/1153b1d5-0f26-4513-b745-7c582814c83b.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "3600"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Spendaccione",
+      "trophyDetail": "Che giocatore di squadra. Hai pagato 25 giri al Bar Abyss.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/10f4a4fc-ca68-4c1d-8d2c-c2c600ce92d8.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Festaiolo!",
+      "trophyDetail": "Hai fatto baldoria con della buona musica e una squadra al completo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/a90630dc-77c9-466b-a48d-d5e192bfb802.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Calciatore di barili",
+      "trophyDetail": "Che precisione. Hai calciato 10 barili dentro il canestro senza mancare neanche un colpo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/1783cf64-cbee-4b67-a35f-12e8685c258f.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "DJ",
+      "trophyDetail": "Riproduci 25 canzoni dal jukebox. (le canzoni non vanno interrotte)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23348_00/5bb8e74e-154a-445b-a8a1-864d05973122.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "25"
+    }
+  ],
+  "totalItemCount": 70
+}
