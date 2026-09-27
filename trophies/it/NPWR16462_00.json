@@ -1,0 +1,762 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR16462_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Ticket to Ride - USA e France",
+  "trophyTitleDetail": "Trofei per le mappe USA e France",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/AE79BEEC07F60CC9885E8365FCB59E045AD7590A.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 18,
+    "silver": 35,
+    "gold": 15,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Ticket to Ride - USA e France",
+      "trophyGroupDetail": "Trofei per le mappe USA e France",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/AE79BEEC07F60CC9885E8365FCB59E045AD7590A.PNG",
+      "definedTrophies": {
+        "bronze": 10,
+        "silver": 10,
+        "gold": 6,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "USA 1910",
+      "trophyGroupDetail": "Trofei per le varianti 1910 della mappa USA",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/B25E18A36E015617368393A475B359CF70FD4CA5.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Legendary Asia",
+      "trophyGroupDetail": "Trofei per la mappa Legendary Asia",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/425D0FCFB4E28B38DF04FD035D46481B59989D38.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Switzerland",
+      "trophyGroupDetail": "Trofei per la mappa Switzerland",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/6F1590A6376D9D7C62EB55C1B16D9A6E8D6E431D.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "India",
+      "trophyGroupDetail": "Trofei per la mappa India",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/96C111589E764AAD5C28B195A05389DED4561B4D.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Nordic Countries",
+      "trophyGroupDetail": "Trofei per la mappa Nordic Countries",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/AB07C72881EA47A5086B5C5C2C6844E4F450AA06.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "006",
+      "trophyGroupName": "Pennsylvania",
+      "trophyGroupDetail": "Trofei per la mappa Pennsylvania",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/F5175257DD78AAFC0A13874BA48D085933B7CCB1.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "007",
+      "trophyGroupName": "Germany",
+      "trophyGroupDetail": "Trofei per la mappa Germany",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/AA650FDC3387A73C4FEB8A5B49B525F45C5BEFA0.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "008",
+      "trophyGroupName": "United Kingdom",
+      "trophyGroupDetail": "Trofei per la mappa United Kingdom",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/31BFA17588F1888F1863857A87F05506A30FF30D.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "009",
+      "trophyGroupName": "Europe & Europa 1912",
+      "trophyGroupDetail": "Trofei per la mappa Europa e le sue varianti Europa 1912",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/02A912748D6730F961EC41EB7FE7699B01EC1B57.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Magnate ferroviario",
+      "trophyDetail": "Sblocci tutti i trofei sulle mappe USA e France. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/50F30151806CFE6DAC1BB42C0863DF32ADEC9C08.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Manometro 80",
+      "trophyDetail": "Ottieni un punteggio di 80+. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/C18D07127FA0E276DB2388F5568C59A4A0122B99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Manometro 120",
+      "trophyDetail": "Ottieni un punteggio di 120+. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/C9CA51746A8C35D785A6FDF2F5F3E10B6F2F49E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Manometro 160",
+      "trophyDetail": "Ottieni un punteggio di 160+. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/0AA6FECAAF6821D6E0D4485F6E00E2A0AEDEC030.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Manometro 200",
+      "trophyDetail": "Ottieni un punteggio di 200+. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/26EB86254A943EF9DE0A2B77367592ADF9BC1A85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Manometro 240",
+      "trophyDetail": "Ottieni un punteggio di 240+. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/64A1A0BD1B1C14A217D85491A7CE1DEE90C0FFB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "3 Biglietti obliterati",
+      "trophyDetail": "3 completati. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/34375DB1947C97281FDAC853D38D7D58584EB392.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "6 Biglietti obliterati",
+      "trophyDetail": "6 completati. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/9BBDD557768DC661096EF1EA9185D0FC90163F67.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "9 Biglietti obliterati",
+      "trophyDetail": "9 completati. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/F321935BBBA92454A53B8D3619D3FEFEAB935E0C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "12 Biglietti obliterati",
+      "trophyDetail": "12 completati. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/CA57E07C989AF29A65E8D927E9F7D7ED501D7B24.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "15 Biglietti obliterati",
+      "trophyDetail": "15 completati. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/8C66EBC969259E4E63EDB3437681A85828B0A600.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Esplosivo",
+      "trophyDetail": "Vinci senza che i tuoi avversari completino Biglietti. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/C457D84F3D082B7E289FB0D2B4301CD5D8C69A3F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seconda classe",
+      "trophyDetail": "Vinci senza mai avere più di 10 carte Treno in mano. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/6F1A0A8573116C9F5CC7AFCFEBDEBA56E22770B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Draisina",
+      "trophyDetail": "Vinci senza usare locomotive. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/ABB66CB8D4FC85B6EBB2F8AC434E688A52C12AD9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Intercontinentale",
+      "trophyDetail": "Vinci con una linea continua di 45 treni. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/80B6CE92A43203F59F4812C743B994D0EFB75246.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vagabondo",
+      "trophyDetail": "Vinci senza completare Biglietti. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/034A0DE6935DA8900020DCDF117679453DF02E3D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Intreccio",
+      "trophyDetail": "Vinci senza usare linee da 1 o 2 spazi. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/3B3F876F87A9303D1100DEA1366DDC81265F5E23.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "4 x Vanderbot",
+      "trophyDetail": "Vinci contro 4 Vanderbot Jr. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/C59CBAA5FD3B69803FF54BDB11A3802A1084F1F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Trasporto carbone",
+      "trophyDetail": "Vinci dopo aver preso il controllo di tutte le linee nere. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/401BAE7D7332140BA2E5F39522CC80850A1347B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Giocatore di poker",
+      "trophyDetail": "Vinci dopo aver preso il controllo di tutte le linee da 5 spazi. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/6A38B66905A8AE86CF3CCD14947536F12A6EDF5B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Vecchi film",
+      "trophyDetail": "Vinci controllando solo linee grigie. (Mappa USA e Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/FF9C5D1369F7B8855163A5464A716EADED3B0A3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I cento giorni",
+      "trophyDetail": "Segui le orme di Napoleone nel suo ritorno dall'esilio sull'isola d'Elba e collega Corse, Nice, Grenoble, Lyon e Paris in quest'ordine. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/668563F13AC3E774A28185F9040D12EA527960B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unione europea",
+      "trophyDetail": "Vinci collegando tutti i paesi, tranne la Suisse. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/7459804069549A3016875E53BB81AEAC7BD93D8B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1, 2, 3!",
+      "trophyDetail": "Vinci assumendo il controllo solo delle linee di lunghezza 1, 2 o 3. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/7CEEB93F34D34A8D452EC407DA475B0E1774CEBE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Il Vallo atlantico",
+      "trophyDetail": "Vinci assumendo il controllo di tutte le linee costiere che collegano le città della Manica e dell'Oceano Atlantico. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/5DC4B3D48655B39E7FF0A79FC82C29EE90283CB3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Blu, bianco e rosso",
+      "trophyDetail": "Costruisci i binari delle linee triple tra Marseille e Paris con i colori della bandiera francese. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/F5D3AF50790A3D28C77B548FF4DC3978FFA8E84D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Impressionismo",
+      "trophyDetail": "Costruisci ognuno degli 8 binari di lunghezza 5 in un colore diverso. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/76FAB522EFAA25CFD29C8325B079D133A262A47C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prime linee",
+      "trophyDetail": "Vinci usando solo i cinque Biglietti iniziali nella variante Mega. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/0735636DACBBB649DB416FEFF8B027A58F241014.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Viaggiatore urbano",
+      "trophyDetail": "Vinci collegando tutte e sette le grandi città nella variante Grandi Città. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/260188B4A6DF5F4487C2B693FC30247133245C7A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Imprenditore modesto",
+      "trophyDetail": "Vinci senza usare i 2 bonus nella variante Mega. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/6F683E8B1BF984CF447C4F70C4F603878EC5BA62.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Manometro 300",
+      "trophyDetail": "Ottieni un punteggio di 300+ nella variante Mega. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/6FF49914A62E6CCF659D7432DB3014DA2A8B928B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Manometro 400",
+      "trophyDetail": "Ottieni un punteggio di 400+ nella variante Mega. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/F2DED2B23B1C19D0502468A3638B4DFFF2460A8F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lascia o raddoppia",
+      "trophyDetail": "Vinci controllando solo doppie linee. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/0FEF220DB5986E529F37DC6CE84E71C998F05F65.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Eremita montano",
+      "trophyDetail": "Vinci controllando solo linee Montagna. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/1FC4BDE780D5B60EA5DE3EFC255680D242CE22B4.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cavallo mongolo",
+      "trophyDetail": "Vinci entro un massimo di 24 turni. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/6F45B0429D6B86FD340E4C3F6C5F21C035577F0C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Marco Polo",
+      "trophyDetail": "Vinci col bonus Esploratore Asiatico collegando 22 città. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/121ECFDBCCCE7FE7B77EA9D0691C6A193F6073F2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Corno alpino",
+      "trophyDetail": "Vinci senza completare Biglietti da paese a paese o da città a paese. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/E04EA60A0079A53A4E33CE325004A2FA0C7069CE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Obliteratore",
+      "trophyDetail": "Vinci una partita con il mazzo dei Biglietti vuoto alla fine. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/A81B488B30757802FB1636F0BC3ECF86504DE458.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Esportatore di cioccolata",
+      "trophyDetail": "Vinci collegando tutti e quattro i paesi circostanti. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/9CD83CB676D0A3D5730B01D54C631E78BBF58B0D.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Espresso dei Laghi",
+      "trophyDetail": "Vinci collegando tutti i grandi laghi svizzeri: Geneve or Lausanne, Neuchatel, Interlaken, Zurich, Lugano, Locarno, Kreuzlingen. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/CC54B0B00B93C965E6E92E4C2BA9F4D0D3B35AD0.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Pendolare valligiano",
+      "trophyDetail": "Vinci senza controllare linee Galleria. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/5F81DC7F7BC0C82CA33DD0CE9563E464BD7B7975.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fachiro",
+      "trophyDetail": "Vinci senza bonus Mandala. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/2B7ADE270FD4E23B6A2C1B2580D1EE4F06F0CF65.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mano di Kali",
+      "trophyDetail": "Vinci e impedisci a tutti gli avversari di ottenere bonus Mandala. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/D1ABF4804DA66359493E4BCEF34D2CD07C7D6A73.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tour dell'Impero anglo-indiano",
+      "trophyDetail": "Vinci connettendo Delhi, Calcutta, Madras e Bombay con un unico Mandala. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/9F0C7C39F4152304A947CAAE455F0B8B46779FBD.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Maragià dei Mandala",
+      "trophyDetail": "Vinci con il bonus da 5 Mandala. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/7B634AE064B6EBDC74EE7D0E916186BCC245AE27.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sulle tracce di Babbo Natale",
+      "trophyDetail": "Vinci con la linea Murmansk/Lieksa. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/CD2ACBDE3C2F731B912A5C6A8F03008397645675.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Circolo polare",
+      "trophyDetail": "Vinci collegando le 7 città a nord del Circolo polare artico: Narvik, Kiruna, Rovaniemi, Tromso, Kirkenes, Murmansk, Honningsvag. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/B3F88991C6A6D4BD1442A7B3527606E9134ED267.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Espresso artico",
+      "trophyDetail": "Collega Arhus e Honningsvag con 24 treni e vinci. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/EA249EEC303DB9CA40A6A458224030911417C0A0.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Piedi per terra",
+      "trophyDetail": "Vinci senza usare traghetti. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/1B22B28D1B16794C3AE0B6D77D2DB647D6CA67D9.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Forestiero",
+      "trophyDetail": "Vinci senza Quote Azionistiche della Pennsylvania Railroad in partite da 2. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/9520898F4D06F7D418328BA9090AFF2B24DA5F95.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Chi primo arriva",
+      "trophyDetail": "Vinci con almeno tre Quote Azionistiche maggioritarie. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/46A44474E736CC8F7D395AEE6E3973B81AF52682.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Terzetto",
+      "trophyDetail": "Vinci con Quote Azionistiche di queste tre compagnie: Erie Lackawanna Railway, Baltimore & Ohio Railroad, Pennsylvania Railroad. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/18F23F214D1DE2C1F00DB0D61328B9B771822137.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Mani in pasta",
+      "trophyDetail": "Vinci con almeno una Quota Azionistica di ogni compagnia. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/E24E328F58FEE856F717829F38550DEBF71A9FF1.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Intercity",
+      "trophyDetail": "Vinci completando solo Biglietti brevi. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/CB45FE4D9CACB696CB9ED0FA7C8B67966003AA93.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Superpendolare",
+      "trophyDetail": "Vinci completando solo Biglietti lunghi. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/4DBDF4F0010CD125F731CDEFAC4E7FC78E2D25F0.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "L'Oro del Reno",
+      "trophyDetail": "Vinci collegando Svizzera, Freiburg, Karlsruhe, Mainz, Düsseldorf e Olanda in 15 turni. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/63B1F513E61E7200B29A3FB757F46A983DAEA5C4.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Berlinese",
+      "trophyDetail": "Vinci collegando Berlin ai cinque paesi circostanti. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/170C8F61EA2F310B9AA49334EBB085AB2A2EA2CF.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Business Angel",
+      "trophyDetail": "Vinci ottenendo la tecnologia Boiler Lagging prima di assumere il controllo della tua prima linea. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/ABAF65C6C8A6F9DE93E917F43C0CC925632AC73D.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Francia - Galles",
+      "trophyDetail": "Vinci una partita collegando la Francia e il Galles (qualsiasi città). (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/AF33C97CAE5ED4EAD568C43B381F40FFB5D80FE7.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Titanic",
+      "trophyDetail": "Vinci una partita controllando la linea Southampton-New York senza acquistare la tecnologia Propellers. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/84E55930D9F7C61491D2C347C4DE381889B70EED.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "London Calling",
+      "trophyDetail": "Vinci controllando tutte le linee per Londra. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/5B0CEE25D64F899456FA9F7744CE54974B07AAF6.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Adoro i rossi",
+      "trophyDetail": "Vinci collegando solo città di Irlanda e Scozia. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/A119C8C424D88551C9F35941734014D908D005E2.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "She's got a Ticket to Ride",
+      "trophyDetail": "Vinci collegando Liverpool, Londra e New York nell'ordine indicato. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/F89A22DC328D030BA09D376D3E594BB6B0B7C4DB.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treno dei Romanov",
+      "trophyDetail": "Vinci con una linea che collega le 11 città dell'Impero Russo: Petrograd, Riga, Wilno, Warszawa, Smolensk, Moskva, Kyiv, Kharkov, Rostov, Sevastopol, Sochi. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/EC357CA5D3B333E71896F01A418A60FA14C08359.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In diagonale",
+      "trophyDetail": "Vinci collegando Cadiz e Petrograd o Edinburgh ed Erzurum. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/0517EA8BECB798B2FF9B9FCB2B193393212151B3.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mare e sole",
+      "trophyDetail": "Vinci collegando Cadiz, Barcelona, Marseille, Roma e Palermo. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/115FE5894A48DA1DA61DF8F68FEC076B65930C02.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Orient Express",
+      "trophyDetail": "Vinci con una linea che collega London, Paris, München, Wien, Budapest, Bucuresti e Constantinople. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/1A75DA4B71D38E1B781CAEF65EA68FB0891ABA70.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "La talpa",
+      "trophyDetail": "Vinci usando almeno 23 treni nelle gallerie. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/49776026414CD02D91C169F8D08DF3EB04B27F99.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Esploratore del Baltico",
+      "trophyDetail": "Vinci con una linea lunga da 45 treni che attraversa una galleria da 8 spazi. (Solo giocatore singolo)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16462_00_002313249938FD42C9570D74E8F2BB02610AAF6CB8/1D66043BEECD52D7E63F5D16CDA299159982AC27.PNG",
+      "trophyGroupId": "009"
+    }
+  ],
+  "totalItemCount": 69
+}

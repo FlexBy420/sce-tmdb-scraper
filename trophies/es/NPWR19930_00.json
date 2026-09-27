@@ -1,0 +1,438 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR19930_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "KINGDOM HEARTS Melody of Memory",
+  "trophyTitleDetail": "Trofeos de KINGDOM HEARTS Melody of Memory",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/3EAB32D4E6C6A1B06A96DDBE035C0E4C04F29252.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 30,
+    "silver": 11,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "KINGDOM HEARTS Melody of Memory",
+      "trophyGroupDetail": "Trofeos de KINGDOM HEARTS Melody of Memory",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/3EAB32D4E6C6A1B06A96DDBE035C0E4C04F29252.PNG",
+      "definedTrophies": {
+        "bronze": 30,
+        "silver": 11,
+        "gold": 3,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Maestro de Melody of Memory",
+      "trophyDetail": "Obtén todos los trofeos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/863F15668B5DE8809F756B05AE662F0118CCDB49.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Aventurero empedernido",
+      "trophyDetail": "Completa todas las canciones de un mundo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/65608CBB61CA894A75DE98618A67031FD0035F52.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cara a cara con el enemigo",
+      "trophyDetail": "Completa un combate contra un jefe.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/24FAE7C91AFDE3AA60C007B369D81B6426D31664.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tonos conectados",
+      "trophyDetail": "Completa una canción sin cometer ningún fallo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/D965D29064DDCE40B8D70662E50C8ABE5B1B09D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Preludio del combate",
+      "trophyDetail": "Gana un combate contra la CPU.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/33598771CBEA03287CC05C79C61978F3CC6BF184.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Caminos divergentes",
+      "trophyDetail": "Juega con cada equipo al menos una vez.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/FECDBC9226E38D6B21A469B4EC7B75D77D5F2D51.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Coleccionista de recuerdos",
+      "trophyDetail": "Desbloquea todas las secuencias del Archivo de historias.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/1F80CF219B7CCB3DF63771F5C01DD67FD3365BC0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Final de la melodía",
+      "trophyDetail": "Completa el juego y ve el final.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/A14C763F7EA5328724523DF844ED140194367206.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Jugador principiante",
+      "trophyDetail": "Completa 50 canciones en la dificultad Principiante.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/39941D342A7BB98DB013B6C04FE93E550FC73D17.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Jugador normal",
+      "trophyDetail": "Completa 50 canciones en la dificultad Normal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/7F876B1D74B0CD782E51E5D189AF89B5009247FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Jugador experto",
+      "trophyDetail": "Completa 50 canciones en la dificultad Experto.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/80E21ED670405816260E8C52A9D7DE254354580A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Principiante impecable",
+      "trophyDetail": "Completa 50 canciones sin cometer ningún fallo en la dificultad Principiante.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/6F54D985D132C3C2B039558135AD0E70D524093F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Jugador impecable",
+      "trophyDetail": "Completa 50 canciones sin cometer ningún fallo en la dificultad Normal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/132C12617419182DE293CBB2FBE4DF306657E245.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Experto impecable",
+      "trophyDetail": "Completa 50 canciones sin cometer ningún fallo en la dificultad Experto.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/04B842ED70F1AE841DB632785E35310E6D2FFD5E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Destructor",
+      "trophyDetail": "Derrota a 10.000 enemigos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/691C8269148B1F78BCF5709F83C24A7D613D1ADD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Arrasador",
+      "trophyDetail": "Derrota a 50.000 enemigos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/F052665B8CABE9C3A42D3AE026F57BCE842F6B9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Exterminador",
+      "trophyDetail": "Derrota a 100.000 enemigos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/FDBB0CD7E59D9802AF953D166EC86AB02FC8B13D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Amasador de puntos",
+      "trophyDetail": "Consigue una puntuación total de 500.000.000.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/3A9E2D121B0F8E8AE4D52040C9E967E808A045BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Acaparador de puntos",
+      "trophyDetail": "Consigue una puntuación total de 2.000.000.000.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/F7A69315708FE286DC5D9D72D3C70CBB1547F112.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A todo ritmo",
+      "trophyDetail": "Consigue 50.000 puntos de ritmo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/5522845773DD2B80B07FAB1F3E8E70B85D926D6F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Canción favorita",
+      "trophyDetail": "Juega al mismo nivel musical 10 veces.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/E7D4676353A86076A59A825AF1B17318B31E250A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Maestro de los objetos",
+      "trophyDetail": "Utiliza 100 objetos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/14D3AFA54202A5D35E1C8F63BDCA0ABB5EA3E226.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cazatesoros",
+      "trophyDetail": "Encuentra 100 cofres del tesoro.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/4E4171A0D157144C2959B33658565E351406551C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Recogeobjetos",
+      "trophyDetail": "Recoge 10.000 objetos en los niveles musicales.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/F5A61AFD67B3A6E1488F176E13C91C0E8AEBF21E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Melodía incesante",
+      "trophyDetail": "Juega a 100 niveles musicales.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/B5D1762CED9D3830104B12B5E078DA027079D1C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lazos estrechos",
+      "trophyDetail": "Golpea 100 esferas de aliados.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/8B94C734B1B3A3D78B8E8624D2D225296EA8BEAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Maestro artesano",
+      "trophyDetail": "Fabrica 100 objetos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/4D824C13C0BFC28693FF5030AE2191C38343AC3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Maestro moguri",
+      "trophyDetail": "Consigue que el moguri alcance el mayor nivel.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/B63B9F44721F52432FAB46A9B6D6E5BD6A44FC2B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Soldado legendario",
+      "trophyDetail": "Derrota a la CPU 20 veces.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/D69611C89C8654BF7000051918111F852DB41C45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Platino reluciente",
+      "trophyDetail": "Alcanza el rango de platino 1 en los combates contra la CPU.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/ECE225C87DB425F58F95E707D414D3A9741A8569.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Amplia experiencia",
+      "trophyDetail": "Consigue 2000 EXP o más en una canción.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/67DC1A08E9BFD883DCBA8F1B901FBC5A0A4A5A28.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Malabarista de enemigos",
+      "trophyDetail": "Ataca al mismo enemigo 19 veces o más en una canción.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/9E8BAAB3CDC6BD800112809E94C4A7A44EDEE53B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Planeador ambicioso",
+      "trophyDetail": "Planea durante un minuto o más en un combate estándar.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/AAFCE10EDBF2853D2C80F14452481FDBF0E83D68.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Junto al rey",
+      "trophyDetail": "Lucha junto al rey Mickey durante una hora.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/08071CA365043B5E0015B77DF8372ED55C7803EE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Técnico",
+      "trophyDetail": "Completa las cinco canciones del día sin cometer ningún fallo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/B1536184CB657DC5879A5A8A10791BC0B68CCB64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mercenario",
+      "trophyDetail": "Completa las misiones de 10 mundos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/3027F0C52D69E24B3FA8A0605D4CBD1D57FD3E64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "En la cima",
+      "trophyDetail": "Alcanza el nivel superior con el equipo clásico.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/3F501618CC894771FC3D5A7A72ADE9BDFCCF1245.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Apertura del portal",
+      "trophyDetail": "Completa todas las canciones de 10 mundos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/EBC7A941885A34B63DEDCF2DF1CF431724D1BA93.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Por buen camino",
+      "trophyDetail": "Completa todas las canciones de 30 mundos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/FAF8D72323C35D07FC90A846D042FC69BCF152BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Se hizo la luz",
+      "trophyDetail": "Completa todas las canciones de 50 mundos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/97CFDE993EEA4B562A710099AAD1BD1AADB6D0CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Turista internacional",
+      "trophyDetail": "Completa todas las canciones en todos los mundos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/9800DF592FD5169D931AFACD730944542744B7EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Maestro principiante",
+      "trophyDetail": "Completa todas las canciones en la dificultad Principiante.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/1D75189076787009D58F2A3D8535AD768E2C4263.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Maestro normal",
+      "trophyDetail": "Completa todas las canciones en la dificultad Normal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/4BE8FCF21514A6177873B9EEA252EE218330C4AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Maestro experto",
+      "trophyDetail": "Completa todas las canciones en la dificultad Experto.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/CB606E336E07F8F3246EA14BFDBEB444CF152F0A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Melómano",
+      "trophyDetail": "Juega todas las canciones.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19930_00_002930F52F6E4DCEFCA2970422B87B1727F1770D71/951CC99A08E71848AFD94E1FE5E7CC9C852074E2.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 45
+}

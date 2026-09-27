@@ -1,0 +1,87 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR21614_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Air Hockey",
+  "trophyTitleDetail": "Air Hockey Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21614_00_006C589A64CA2CFB8634CABC165AA4B43611E97B4D/B623D7831C5324EE8E5DF7C3B50BBD65A8CDA0A3.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 3,
+    "silver": 0,
+    "gold": 3,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Air Hockey",
+      "trophyGroupDetail": "Air Hockey Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21614_00_006C589A64CA2CFB8634CABC165AA4B43611E97B4D/B623D7831C5324EE8E5DF7C3B50BBD65A8CDA0A3.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 3,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Win",
+      "trophyDetail": "Win",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21614_00_006C589A64CA2CFB8634CABC165AA4B43611E97B4D/2331C0CCC95F957931ADCFAB250CCF9D4502533F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lose",
+      "trophyDetail": "Lose",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21614_00_006C589A64CA2CFB8634CABC165AA4B43611E97B4D/8F01D03B0BE61A33B4D26D049F0149BD8F725FAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Perfect Match",
+      "trophyDetail": "Win with the  opponent’s  score being 0",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21614_00_006C589A64CA2CFB8634CABC165AA4B43611E97B4D/8E1CF2501CEFFEC1D32E2B303A418764703306E2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ZERO",
+      "trophyDetail": "Lose with your score being 0",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21614_00_006C589A64CA2CFB8634CABC165AA4B43611E97B4D/DF4B6BAF38CAD637C48D7AECBE52A42A6819F51E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Unbeatable",
+      "trophyDetail": "Win three consecutive matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21614_00_006C589A64CA2CFB8634CABC165AA4B43611E97B4D/EBDCABAE794D619CA018ED3DEA1EC77E7F8BD8D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Destroyed",
+      "trophyDetail": "Lose three consecutive matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21614_00_006C589A64CA2CFB8634CABC165AA4B43611E97B4D/2470E5D133A9CD96144348140D11CD5601D52A49.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 6
+}

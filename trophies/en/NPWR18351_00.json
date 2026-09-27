@@ -1,0 +1,573 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR18351_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Faeria",
+  "trophyTitleDetail": "Faeria Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/977158F7F5F2B3F4D0E829D93834AFE87E920FED.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 42,
+    "silver": 11,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Faeria",
+      "trophyGroupDetail": "Faeria Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/977158F7F5F2B3F4D0E829D93834AFE87E920FED.PNG",
+      "definedTrophies": {
+        "bronze": 41,
+        "silver": 8,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Fall of Everlife",
+      "trophyGroupDetail": "Fall of Everlife Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/73C63E1C81DC4F57EE1B2F0A8B9CE38BE1819363.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Resurgence",
+      "trophyGroupDetail": "Resurgence Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/EE55ABFDA01372A207B96922CDE74693484AE288.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Elements",
+      "trophyGroupDetail": "Elements Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/C6D02C49401163E8DF1457C34699CBD69C87D765.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Faeria Completionist",
+      "trophyDetail": "Earn all Faeira Trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/70F478ED7A60BAA6E3A8A723F35705F7B52F613C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Classic Collection",
+      "trophyDetail": "Collect all cards in Classic Faeria.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/D19AD70D89FAEA5501A4B161D17D4F8D08333A39.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to Faeria!",
+      "trophyDetail": "Complete the introduction missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/892360EB5CC4F9297B4C0167C7FF9D743DD9914C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mission complete",
+      "trophyDetail": "Complete a Mission Pack.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/B8A2CF5A64EA5138D10C6D9CFF5C9BF38511469F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mission master",
+      "trophyDetail": "Complete all classic Mission Packs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/2378E73D1E1616F89E71F39C67C01D8BD543D093.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That's Wild",
+      "trophyDetail": "Complete 10 Wild Mission Packs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/E08B676C0BFE9ECFDD50FA0C01CB99D93904C872.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Puzzle Master",
+      "trophyDetail": "Complete all puzzles in Classic Faeria.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/6FCB9E936FF1308B936C9F71CE1E0263036928A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Like a Boss",
+      "trophyDetail": "Defeat King Yaknus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/8009BCA9B6B4AFC3F98A5690CE4EB8B3AE56BA08.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Who's the Boss?",
+      "trophyDetail": "Defeat 6 World bosses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/7FD45F0985068CDEEE293BA59F9F99CB37331BEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "You're the Boss",
+      "trophyDetail": "Defeat all World Bosses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/AD8419697483A9D77602B984E42F5A157DB0D386.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Encounter with Ulani",
+      "trophyDetail": "Complete all missions in Ulani’s Realm.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/91A4308F51AB1944389AFF38C3788A9A9251A051.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wisplight Fallen",
+      "trophyDetail": "Complete all missions in Wisplight Falls.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/EC75DB51E1B1FD52EB3C1D38E0E9DC535839B114.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yo ho",
+      "trophyDetail": "Complete all missions in Pirate’s Aerie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/B9F93D8E57F98C926D0D818BE2F5200CDFC2B7B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secret of Everlife",
+      "trophyDetail": "Complete all missions in Gaea’s Navel.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/DDFBAFA22B1C3CD74F911394DF9372B1F70EEFC3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contender",
+      "trophyDetail": "Win 10 games in Ranked or Casual.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/99C336271D274039E4FAE2F8863BF93D1ACBAA15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "OTK",
+      "trophyDetail": "Deal 20 or more damage to the enemy god in one turn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/C2B27C934163520465B90A7C5A9C1C911E0C646E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bargain",
+      "trophyDetail": "Reduce the Faeria cost of cards in your hand by 50 Faeria in one game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/C9D95AF8DD14F5354D52F58DDC879D435B8F09DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sadist",
+      "trophyDetail": "Deal 20 damage to yourself in one game, and win.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/DD785B0320227B05E9383888F8D62749E360D588.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burn",
+      "trophyDetail": "Win a game without attacking your opponent’s orb.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/65964A2AFCC9BA33B1160B494C1E175082A0D7FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Death from above",
+      "trophyDetail": "Kill your opponent with a Ranged creature.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/3A18584B05B5C6E9FBFD259888F5BF3313D37907.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Armageddon",
+      "trophyDetail": "Destroy 5 creatures with one Meteor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/B5467E1714892F73E181ECECB27F0F893DAB3B2B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "!egg",
+      "trophyDetail": "Hatch a 10 or higher cost creature from the Egg of Wonders.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/6E0FBFC0B74DEE77C09AF1F9506FEA1027B3BEB7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "By design",
+      "trophyDetail": "Kill a Dragon using Sharra.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/F4CD25E9E0981CD3B70D837797878FE75EC074D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Go the distance",
+      "trophyDetail": "Win a game with fatigue damage.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/5FFB07ECFD986F3AC68EB4BDD13FDBF025F2B39E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "For the swarm",
+      "trophyDetail": "Summon 20 Swarming Carassius in a single turn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/BB3B0A357523FFF4F16E822F376083EA19E82657.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jelly?",
+      "trophyDetail": "Have Istanu regenerate 5 times in one game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/23CEE7D083D7728E05D9C8031955F52E6D6AEEF6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Genuine Grandeur",
+      "trophyDetail": "Play a 20/20 Illusion of Grandeur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/12F111DCAD1801F44C5B2A774362BA49148A1D56.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nice moves, keep it up",
+      "trophyDetail": "Move the same creature 3 times in one turn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/E0F70513D029633B453ECB3239DB10ED259D2261.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Living the dream",
+      "trophyDetail": "Play Aurora’s Dream and win a PvP game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/05CCBEB4599A4FB072DAD0B11C0B1DEF93AF13AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oblivion awaits",
+      "trophyDetail": "Kill your opponent with Ostregoth in a PvP game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/4849EDECFCF978712740E69563C4CD4A332555E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Highlander",
+      "trophyDetail": "Win 10 games with a deck containing no more than 1 copy of each card.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/43CB4F2DB3723FFD2C22B51C48407EF77885B41C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Strategist",
+      "trophyDetail": "Reach Rank 15 in constructed.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/5AE9AE40076CFA1108E05E75BC6B066BD1A04012.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breaching the Gates",
+      "trophyDetail": "Complete 1 run of Pandora.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/BABFE1948367513EE5C412D4DD798EB85BF419E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Storming the Gates",
+      "trophyDetail": "Complete 10 runs of Pandora.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/559095B6B70C0B69B00F627B233B3226890C67B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gatekeeper",
+      "trophyDetail": "Complete 30 runs of Pandora.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/384FFEB5B568D86076CDE3E0D20C9D43E6C767DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Flawless Victory",
+      "trophyDetail": "Complete a Pandora run with six wins and no losses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/44AF9EBF212E6132858215D33CECEFE2F3FD1705.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Skilled Adventurer",
+      "trophyDetail": "Complete 5 Daily Quests.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/282D738B80760A5C2CADD52D0D80EB9D59509A96.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Adventurer",
+      "trophyDetail": "Complete 25 Daily Quests.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/29D10429BC6C5B7DB9E64F9466C65460269D626D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Grandmaster Adventurer",
+      "trophyDetail": "Complete 100 Daily Quests.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/B42A2E5AEEDFEA7D0E40E2FA8E0CD079B8E7CB96.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slaying",
+      "trophyDetail": "Destroy 50 creatures.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/3F7855360486E98E375B799D37DB35728D59B989.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slaughter",
+      "trophyDetail": "Destroy 250 creatures.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/87E582F24FD6DB1F8A7004F90C7C1E039753778B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Genocide",
+      "trophyDetail": "Destroy 1000 creatures.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/9E048BC5996F138736AE047D82B7A9CE22482B6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To the Face",
+      "trophyDetail": "Deal 100 damage to enemy gods.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/B23B15775426B30293DA9232A858C633F34CC09F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Smorc",
+      "trophyDetail": "Deal 1000 damage to enemy gods.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/068DC479247F4BA0DEC99E4DF65BAD0E6813621D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Face is the Place",
+      "trophyDetail": "Deal 5000 damage to enemy gods.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/1B028C4CB458B23A5923F12AA26A261A5D82C4C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deep blue",
+      "trophyDetail": "Play 250 Blue Cards.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/5C1B4D71E9B1FF543BDC512E533132011BE80C2E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flourishing",
+      "trophyDetail": "Play 250 Green Cards.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/196E6771BECC3EDD82FAE73FE2D92F1E70772A0B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conflagration",
+      "trophyDetail": "Play 250 Red Cards.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/A1F24DA21E04AA9BC6BE2453F526D21E05AED230.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sand, it gets everywhere",
+      "trophyDetail": "Play 250 Yellow Cards.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/294CD91F69481C80D260CD05E497EAB9509EBFD7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The stories were true",
+      "trophyDetail": "Play 250 Legendary cards.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/FC3B94E7C990D913A67FDED513B90F68AA9D39A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dragon Slayer",
+      "trophyDetail": "Beat 5 Dragons in the Dragon's Lair.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/EF989F54AED11E9A9395F0DC2CBE2EDBFC2392CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "High End Raiding",
+      "trophyDetail": "Beat 50 Dragons in the Dragon's Lair.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/297A7B1FF1FEF66DA53A6A1325E35DAADADC5938.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fall of Everlife Collection",
+      "trophyDetail": "Collect all cards from the Fall of Everlife.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/14C7ACC6F1D7866A67DC116A6337012C820B9BFB.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nothing is safe",
+      "trophyDetail": "Corrupt 5 times in a game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/4A3E6CCFCE2161AC0074CDAF0EC095E9A4E18649.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Resurgence Collection",
+      "trophyDetail": "Collect all cards from Resurgence.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/5B9257B36EB71551B9D368A7F67ECE71D4315A52.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Puzzle Elementalist",
+      "trophyDetail": "Complete all puzzles in the Elements Puzzle Pack.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18351_00_00B4BB20C4515123654C194D836F1085A3A0F8A780/0EF422E1AD544529AD84887F1230EACFCAB0F46B.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 56
+}

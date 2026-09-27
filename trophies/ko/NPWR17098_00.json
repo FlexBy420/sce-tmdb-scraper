@@ -1,0 +1,330 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR17098_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "RPGMAKER MV",
+  "trophyTitleDetail": "RPGMAKER MV",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/4A25024C42AD29AAA0C0FBBEDE21AB68238D6B9E.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 16,
+    "silver": 11,
+    "gold": 5,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "RPGMAKER MV",
+      "trophyGroupDetail": "RPGMAKER MV",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/4A25024C42AD29AAA0C0FBBEDE21AB68238D6B9E.PNG",
+      "definedTrophies": {
+        "bronze": 16,
+        "silver": 11,
+        "gold": 5,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "만들기 상급자",
+      "trophyDetail": "트로피를 모두 획득한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/17BD776F163959629E34B99B99585451861B3139.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "만들기 초보자",
+      "trophyDetail": "새 프로젝트에서 생성 된 프로젝트 데이터 저장",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/F60C73A651D89E7CE1CB3658F3711BD6350533C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "게임 초보자",
+      "trophyDetail": "게임을 1개 플레이한다.(자신의 작품 또는 다른 유저의 작품)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/830473F44D2546AD60C37D6B95C238224F2D2D0B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "랜드 메이커",
+      "trophyDetail": "지도 칩을 총 1000번 설치한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/F86398E10C2EFF0AE5EDE93B543030FF3325864D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "랜드 크리에이터",
+      "trophyDetail": "지도 칩을 총 10000번 설치한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/E7A1EDC84A2CB11D4E1362FE3242FC25C049656F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "이벤트 메이커",
+      "trophyDetail": "이벤트를 총 20개 설치한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/03A735EA28C11D44677621BB9D10D91B541DBA31.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "이벤트 크리에이터",
+      "trophyDetail": "이벤트를 총 100개 설치한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/E7D2111E236920B0399D834194A65116D2D57EE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "캐릭터 메이커",
+      "trophyDetail": "캐릭터 제너레이터로 캐릭터를 총 20명 생성한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/2D35590D014F5039FB64C8A7C7D67D9C5B399B3F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "캐릭터 크리에이터",
+      "trophyDetail": "캐릭터 제너레이터로 캐릭터를 총 50명 생성한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/7C0B129477D9484133315024235133EB39EA8F0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "캐릭터 마스터",
+      "trophyDetail": "캐릭터 제너레이터로 캐릭터를 총 100명 생성한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/AFB64F3EAC4F4BC567BEEDB865F29CCB63035D0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "지도 메이커",
+      "trophyDetail": "지도를 총 2장 생성한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/0E937F2686D31CC1DD5FF01C0DB075293A2117ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "지도 크리에이터",
+      "trophyDetail": "지도를 총 10장 생성한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/3420E31A8E35C6093ED276FFFC91DEE670E2D9C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "지도 마스터",
+      "trophyDetail": "지도를 총 50장 생성한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/E4555DA271769C0434E945F78DFA3E4B4C78A4D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "에너미 메이커",
+      "trophyDetail": "적을 총 20명 설정한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/3BAAD2AEE009A6B14A69D77BF4EBF8D4DF2427E2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "에너미 크리에이터",
+      "trophyDetail": "적을 총 50명 설정한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/AC04F4E82BF2577DFEF675F772BE1E995E5C530D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "에너미 마스터",
+      "trophyDetail": "적을 총 100명 설정한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/0AC2D98B1BFFFE3E92ED495C5E69C7E63EDC944E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "표현자",
+      "trophyDetail": "총 플레이 시간이 10시간에 도달한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/265D423E3C92B506FC4261290CF33DBC2F5B1D9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "창조자",
+      "trophyDetail": "총 플레이 시간이 50시간에 도달한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/FEF276CE1DE2583809C524D1EDB19394BC647F73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "무기장인",
+      "trophyDetail": "무기를 총 20개 설정하였다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/7FB07ECD74C2FFBC0BD9225CEC869FCA4B8DC3E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "웨폰 스미스",
+      "trophyDetail": "무기를 총 100개 설정하였다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/F5EBFAFB49F15352CC31CE8415B862F4061A9415.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "방어구 장인",
+      "trophyDetail": "방어구를 총 20개 설정하였다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/3009E0F8BADBE8DE3F9ADA788618578C82C60252.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "아머러",
+      "trophyDetail": "방어구를 총 100개 설정하였다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/8888176FAFD027A232D9E33FAB9AD97AF5FDF99B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "크래프트맨",
+      "trophyDetail": "직업을 총 10개 설정하였다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/779D62936C0F4688C469D570A347F7B48A5229F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "마이스터",
+      "trophyDetail": "직업을 총 50개 설정하였다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/65451701888A098DF45B31B8EE9A577BCB31F1BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "스킬 장인",
+      "trophyDetail": "스킬을 총 10개 설정하였다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/2F7596E5C027EC2FE9EE9C4DC469E4F278B752FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "스킬 마스터",
+      "trophyDetail": "스킬을 총 100개 설정하였다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/F1B6DBDEA68A64E924B7F02172433413BCBB8505.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "아이템 장인",
+      "trophyDetail": "아이템을 총 10개 설정하였다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/90FA0DCFB4BF7ED9D356B32B9F9CC52736B42FA5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "알케미스트",
+      "trophyDetail": "아이템을 총 100개 설정하였다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/9048213BF700FAE4C826315F4FF9F5EEC442D5AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "랜드 마스터",
+      "trophyDetail": "지도 칩을 총 50000번 설치한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/820627018331086280AECA5BBF141BEF79285201.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "이동하는 사람",
+      "trophyDetail": "지도 이동을 100번 설정한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/71688EDE7D22A487A951BC0CEC7BAE41D2B6029C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "색채의 달인",
+      "trophyDetail": "색 변경을 100번 한다.(에너미, 지도 칩)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/8CE70F914AE9048A6D9DF985C8FEBFA0230B9626.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "음향의 달인",
+      "trophyDetail": "BGM 변경을 50번 설정한다.(전투 BGM, 탈 것 BGM 포함)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/4E157E978698C6E3E5DF12C567BD8480FCC92DBB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "이벤트 마스터",
+      "trophyDetail": "이벤트를 총 1000개 설치한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17098_00_004808A8141F521DAAC1934DC74464903FDD9783E1/BC2C21CEC5B7227D9EDC6F7628E573A47A1E38D2.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 33
+}

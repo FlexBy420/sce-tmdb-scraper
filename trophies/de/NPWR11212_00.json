@@ -1,0 +1,753 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR11212_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Skyrim",
+  "trophyTitleDetail": "Skyrim",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/94632DC94B8A022E93AA226EB55A42AE63F69F13.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 54,
+    "silver": 20,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Skyrim",
+      "trophyGroupDetail": "Skyrim",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/94632DC94B8A022E93AA226EB55A42AE63F69F13.PNG",
+      "definedTrophies": {
+        "bronze": 35,
+        "silver": 14,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Dawnguard",
+      "trophyGroupDetail": "Dawnguard",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/E7732DA704EC4287A601059BA7A104CB9F7BBA42.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Hearthfire",
+      "trophyGroupDetail": "Hearthfire",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/F374BA96860EFC1C1D2275158E96FB26528488FC.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Dragonborn",
+      "trophyGroupDetail": "Dragonborn",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/0E1784E8E89C0A0EA5C35E05DE0EDC1B31D37291.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platin-Trophäe",
+      "trophyDetail": "Sammeln Sie alle 50 anderen Trophäen, um diese Trophäe zu erhalten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/105544FCE7570B4DEFE345871E8AAD1CDCA7A4F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Entfesselt",
+      "trophyDetail": "Schließe \"Entfesselt\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/60B19A20396917D51398C73833B277D5214F45E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ödsturzhügelgrab",
+      "trophyDetail": "Schließe \"Ödsturzhügelgrab\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/163A2FA30A269C46C396306EF01391CF56861FA1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Der Weg der Stimme",
+      "trophyDetail": "Schließe \"Der Weg der Stimme\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/E427843FE2E9C7E9A568CD324F8986EE789D60CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diplomatische Immunität",
+      "trophyDetail": "Schließe \"Diplomatische Immunität\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/B367B78DC95E7A4F77415349358196904F2AB571.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alduins Mauer",
+      "trophyDetail": "Schließe \"Alduins Mauer\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/028292332B3093FF885FB23F1AC9AD35FF66012D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Das Wissen der Alten",
+      "trophyDetail": "Schließe \"Das Wissen der Alten\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/A776EB47B477F6A1A9CC1BDADB6FE8A8462423F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Der Gefallene",
+      "trophyDetail": "Schließe \"Der Gefallene\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/8EAB94ADC1BCA1CD7561392971F22964000716C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Drachentöter",
+      "trophyDetail": "Schließe \"Drachentöter\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/479785C949CFB5EBA3A97C3889F110200C4B3377.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zu den Waffen",
+      "trophyDetail": "Tritt den Gefährten bei.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/6A1603BADE651CAB91ABE162EC7E37C380C7820F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blutschwur",
+      "trophyDetail": "Werde Mitglied des Zirkels.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/90B7BC7D72A1A2F7773AC2C5126B8F39A8CDE237.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Zu Ehren der Toten",
+      "trophyDetail": "Schließe \"Zu Ehren der Toten\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/A0B546183D99105D1064FD489A0FE4DE1998D9DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Torwächter",
+      "trophyDetail": "Tritt der Akademie von Winterfeste bei.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/B9C98A8F22AD7C1E71D771E4215FDCFEF73FA1FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enthüllung des Ungesehenen",
+      "trophyDetail": "Schließe \"Enthüllung des Ungesehenen\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/043E130C38D19C4917E9039E13A10F58F740A5A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Das Auge von Magnus",
+      "trophyDetail": "Schließe \"Das Auge von Magnus\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/3DD9134E1FF3648B1C948086F0C0560185E83BA1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Geschäft ist Geschäft",
+      "trophyDetail": "Tritt der Diebesgilde bei.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/46C20A579F13C2D1BE50B89193730B1E196174BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Die Rückkehr der Finsternis",
+      "trophyDetail": "Schließe \"Die Rückkehr der Finsternis\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/5C9E68304E1EA698DAED85766670A1B59C2087CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Eins mit den Schatten",
+      "trophyDetail": "Verhilf der Diebesgilde wieder zu altem Glanz.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/F1537B61986E59257677775ADC8313CA3884DEBA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wer solche Freunde hat ...",
+      "trophyDetail": "Tritt der Dunklen Bruderschaft bei.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/B240BDB81E262F516FDA7981AEE0542495AB7C22.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bis dass der Tod euch scheidet",
+      "trophyDetail": "Schließe \"Bis dass der Tod euch scheidet\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/7C6CD5EA7CD83E35D2779FD6701C24BB1DB918D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Heil Sithis!",
+      "trophyDetail": "Schließe \"Heil Sithis!\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/FFCE0E0BACEE88B45D50CF174E0E6236137DB525.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Parteiisch",
+      "trophyDetail": "Tritt den Sturmmänteln oder der kaiserlichen Armee bei.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/43EAC4C62ADC098335D0ABC7DF559475800AD8DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kriegsheld",
+      "trophyDetail": "Erobere Festung Sonnwacht oder Festung Grünwall.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/13D6AD777E0913BA35E743B796AA2CF2CFC36044.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Held von Himmelsrand",
+      "trophyDetail": "Erobere Einsamkeit oder Windhelm.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/89CC5084C3D24ED6AF3C914D7A75B58C570F7F12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Auf Seitenwegen",
+      "trophyDetail": "Schließe 10 Nebenquests ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/2473F1E3519CF7E5BB96E88B639D5FBDE8200B3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Held des Volkes",
+      "trophyDetail": "Schließe 50 sonstige Ziele ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/A4C30CD2642A47ED423D851BB8B2CF191B1433CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Harte Arbeit",
+      "trophyDetail": "Hacke Holz, baue Erz ab und koche Essen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/C1BEBB6446EEE743784AD38613D492C9339239F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Langfinger",
+      "trophyDetail": "Knacke 50 Schlösser und stiehl aus 50 Taschen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/075DB113AFAA7A12E6A432F22F2A8A03AEB302DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schlangenzunge",
+      "trophyDetail": "Überrede, besteche und schüchtere jemanden erfolgreich ein.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/2986499AD4E57BC038DB9666B38A21DB6875AF69.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gesegnet",
+      "trophyDetail": "Wähle den Segen eines Findlings aus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/B61C07CF920F7979D9D2DEFF466792079A1036FE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Findlinge",
+      "trophyDetail": "Finde 13 Findlinge.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/2AE1FC359D75510F2C8C6B6B6F594A565CBD9D19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bürger",
+      "trophyDetail": "Kaufe ein Haus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/55FCE7413FDB85FE5F55CDCDEFE9D5EA810E2B57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Steckbrieflich gesucht",
+      "trophyDetail": "Brich aus dem Gefängnis aus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/4DFF11ADECB9FF5F1E888B68AC5C229C18D638CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ab in die Flitterwochen",
+      "trophyDetail": "Heirate jemanden.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/8C80198719248A5A0906FEE83C196D61301BBE83.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kunst kommt von Können",
+      "trophyDetail": "Stelle einen geschmiedeten Gegenstand, einen verzauberten Gegenstand und einen Zaubertrank her.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/CC0E0A4273C3140D682DE1ED8DA1F5742EA8ED0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schwerverbrecher",
+      "trophyDetail": "Kopfgeld von 1.000 Goldstücken in allen neun Fürstentümern.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/EFDE89CEB2DB2FB15445342C7083A38E469D6AB1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Goldhamster",
+      "trophyDetail": "Besitze 100.000 Goldstücke.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/EB0CFB128A6DC837726DFFB2B10B6DA8B7B65BDE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Höhlenforscher",
+      "trophyDetail": "Schließe 50 Dungeons ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/FE869140741C84E469C6D7FD578CEDAE3D35EBB2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Meisterlich",
+      "trophyDetail": "Erhöhe eine Fertigkeit auf 100.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/8B96C69C59958590730A2A2090C9D693B65CA88E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Weltenbummler",
+      "trophyDetail": "Entdecke 100 Orte.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/CA7F930D3F11D7087656EA1A85926FBFEB1ABF32.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Leseratte",
+      "trophyDetail": "Lies 50 Lehrbücher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/E23D03513D9A519A9B9E923F6D39A8691EBA84A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jäger und Sammler",
+      "trophyDetail": "Erbeute ein daedrisches Artefakt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/5A0EB27C595ACF06ECA424E02917D0B5FFE1B73B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Schnapp' sie dir alle",
+      "trophyDetail": "Sammle 15 daedrische Artefakte.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/B176A5EBF3AF8BCD5AB0F4A56B89C5D6F10B5C77.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drachenseele",
+      "trophyDetail": "Nimm eine Drachenseele in dir auf.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/D948CB87C9522CBA45BBB5AC4D578BD9867EF3EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drachenjäger",
+      "trophyDetail": "Nimm 20 Drachenseelen in dir auf.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/A3EEC5842629CF270441B0E3390831246D8D293B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Worte der Macht",
+      "trophyDetail": "Lerne alle drei Worte eines Schreis.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/9EC09E764E8E2C50D504761E67B6A46CAAFEFEAF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Meister des Thu'um",
+      "trophyDetail": "Lerne 20 Schreie.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/99DE733571F018859B8C5061ECB7A43578809501.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lehrling",
+      "trophyDetail": "Erreiche Stufe 5.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/0838299B242C68A9087AD086DF68E439693B76BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept",
+      "trophyDetail": "Erreiche Stufe 10.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/05F93C8D40F1CBC02E070171F78479B442DE5E6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Experte",
+      "trophyDetail": "Erreiche Stufe 25.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/E0EC63E60D4BF17E5EC45732042152E00597D082.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Meister",
+      "trophyDetail": "Erreiche Stufe 50.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/2FEBA0D05A524B1B6D32993FDD5C2C0349DB44CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Erwachen",
+      "trophyDetail": "Schließe \"Erwachen\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/03BBC06D872E4313427E470A80D3C35CAB3CCBFE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jenseits des Todes",
+      "trophyDetail": "Schließe \"Jenseits des Todes\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/0480756A6C0C1F1D3A764F9D7285BE32B477F865.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ein vertrautes Urteil",
+      "trophyDetail": "Schließe \"Ein vertrautes Urteil\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/082BA49FB9B2D2719A02D5A2008A1AE95DC9D57B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Verloren in der Vergangenheit",
+      "trophyDetail": "Schließe \"Verloren in der Vergangenheit\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/ECDC811C8DBC90CBCBB2C9BB3789F03CD07296DF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seelenreißer",
+      "trophyDetail": "Lerne alle drei Worte von ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/75C8DFB6650940E9DD0A29A6B42B4781FC7CCD4B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Auriels Bogen",
+      "trophyDetail": "Setze die spezielle Kraft von Auriels Bogen ein.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/5D1CC0FEBB88CD2C74653C734AA8B17B1C8C4366.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meisterwerwolf",
+      "trophyDetail": "Erlange 11 Werwolftalente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/58C4FCE2BF440DE10786107B5BD7D8AB513A1694.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meistervampir",
+      "trophyDetail": "Erlange 11 Vampirtalente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/997D3FB194EB8BF4D8BD7A865804B0062F72D35E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ein neues Ich",
+      "trophyDetail": "Lasse dein Gesicht verändern.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/6DDD63E9083F2C59F3624CFEE1D44410115AF428.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legende",
+      "trophyDetail": "Besiege einen legendären Drachen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/713EEED51024C9236DBF02C32703B43BEDD1B3E3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elterlicher Stolz",
+      "trophyDetail": "Adoptiere ein Kind.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/7EAFCC16AD1220C4C6B59CE4B326010095100555.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Landbesitzer",
+      "trophyDetail": "Kaufe ein Grundstück.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/311CCFA05FED9326DA49F341085C3991D0D4E14B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Architekt",
+      "trophyDetail": "Baue ein Haus mit drei Gebäudeflügeln.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/8A5165D7075667A7EB5D473B085BDB1F555885E7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Großgrundbesitzer",
+      "trophyDetail": "Kaufe drei Grundstücke.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/E8DFDEBB8EDCB3554D83D5BE44F4C7CDB6C04989.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meisterarchitekt",
+      "trophyDetail": "Baue drei Häuser.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/A16A7D516FD50999984F2F9B768FD8EA9C7D289B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fremdling",
+      "trophyDetail": "Triff auf Solstheim ein.\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/2EBB8DBE5BEBD33F3CECC5FCF322BECBC3152AAE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Der Tempel von Miraak",
+      "trophyDetail": "Schließe \"Der Tempel von Miraak\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/4351518A2FE7C1530341C394B3D33A8C3D14D7E1.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Der Weg des Wissens",
+      "trophyDetail": "Schließe \"Der Weg des Wissens\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/51917286FFA705B1EAD42AEF48FD834B9C2692A9.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Auf dem Gipfel von Apocrypha",
+      "trophyDetail": "Schließe \"Auf dem Gipfel von Apocrypha\" ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/F5C513A601AA737D6253073A3C43D1B82E2092D7.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Drachenform",
+      "trophyDetail": "Lerne alle drei Worte der Drachenform.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/5D90A8DCC8739A6C41955BC4378E4EFB9F97252A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Verborgenes Wissen",
+      "trophyDetail": "Lernen die Geheimnisse von fünf Schwarzen Büchern kennen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/A82312C347498ED1B417BB6C77241BD42BA504F2.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stalhrimhandwerker",
+      "trophyDetail": "Stelle einen Gegenstand aus Stalhrim her.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/A186B0B8939FB5D2DE3995C13DAF7CCC577BBFF6.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drachenreiter",
+      "trophyDetail": "Zähme und reite fünf Drachen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/82831071C537123A880D2E44D151B76041FAD3AD.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rabenfels-Eigentümer",
+      "trophyDetail": "Besitze ein Haus in Rabenfels.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/A2FB102B3E354C7E63F7AD3A4E7380F56C7C6DA7.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Solstheim-Entdecker",
+      "trophyDetail": "Entdecke 30 Orte auf der Insel Solstheim.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/BADFE48488A961EF55E566B6019E99F05F7A0ADB.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 76
+}

@@ -1,0 +1,411 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR09839_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "One Tap Hero",
+  "trophyTitleDetail": "One Tap Heroのトロフィー",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/81E82DA59612D4A4643A9849C90BAC54BD1CCEEB.PNG",
+  "trophyTitlePlatform": "PSVITA",
+  "definedTrophies": {
+    "bronze": 33,
+    "silver": 4,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "One Tap Hero",
+      "trophyGroupDetail": "One Tap Heroのトロフィー",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/81E82DA59612D4A4643A9849C90BAC54BD1CCEEB.PNG",
+      "definedTrophies": {
+        "bronze": 33,
+        "silver": 4,
+        "gold": 4,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "トロフィーマスター",
+      "trophyDetail": "全てのトロフィーをゲット",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/DE6776C2A9B2D0512BAFA3BD9950EF00264D3F43.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "見習い",
+      "trophyDetail": "累計スコア15000点達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/4EFFCD34373BF9DF9E03A566030C1F0A527759AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "初心者",
+      "trophyDetail": "累計スコア30000点達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/E08B115DA57E56C5954C7F17DB9D159772913A65.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "アマチュア選手",
+      "trophyDetail": "累計スコア50000点達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/7DF2B57F4D5DADBC1AE724240440F0895FCC5D42.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "プロ選手",
+      "trophyDetail": "累計スコア75000点達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/4EDDB070730437A2BD662E7995514A13DD8EBFF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "専門家",
+      "trophyDetail": "累計スコア105000点達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/A306FA292FD0D1BD289D892F43121E40C5B9919D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "エキスパート",
+      "trophyDetail": "累計スコア145000点達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/9750887BFC010EC35160C8BCA746A5738C839553.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "預金",
+      "trophyDetail": "2000枚のコインをゲットする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/2FF2EFE905F1CB1202A3034A60C48907E9A5B5B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "第1歩",
+      "trophyDetail": "ワールド 1の全てのレベルをクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/229D58CD5862EB6F76EE392E8EDD9A65D93A51E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "コミュニティ守護者",
+      "trophyDetail": "ワールド 1の全てのレベルをパフェクドクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/A3772984446A318BB25ABE563B32E9853DBF63B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "兼職探検家",
+      "trophyDetail": "ワールド 1の全てのエクストラレベルをパフェクドクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/FE3F241B892CB5C18F64540D27C6A7081687002A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "天空の城観光客",
+      "trophyDetail": "ワールド 2の全てのレベルをクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/7810EAD57D5C43BFB05308D50C479AEC0429DB7B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "天空の統治者",
+      "trophyDetail": "ワールド 2の全てのレベルをパフェクドクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/459809742CF94E7B63438A48DBDC5286F7855444.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "空中の覇者",
+      "trophyDetail": "ワールド 2の全てのエクストラレベルをパフェクドクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/3F31DECDBCDA4CD3ED432AD9B312C311CA399EC3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "野外狩猟",
+      "trophyDetail": "ワールド 3の全てのレベルをクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/D66C04B2D351689FD503FCCA636D066F4F254F28.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "インディアナムーズ",
+      "trophyDetail": "ワールド 3の全てのレベルをパフェクドクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/281ED7CE4044E6F97872371E3EF2751539DF14FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "荒野で見失う",
+      "trophyDetail": "ワールド 3の全てのエクストラレベルをパフェクドクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/45A2EF458B118D909E4917EE679F3EA3CFFC2D0C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "赤ずきんと狼",
+      "trophyDetail": "ワールド 4の全てのレベルをクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/C74A7BA0FEB608018C334166C330E5F9E15CDA96.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "本当の祖母",
+      "trophyDetail": "ワールド 4の全てのレベルをパフェクドクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/D3CA900B8715A3215DB869A04D51298CC805BC33.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "シャドーマスター",
+      "trophyDetail": "ワールド 4の全てのエクストラレベルをパフェクドクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/AD36BE48B56BBF7E47B33D80613ED98494B8A9D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "新年おめでとう！",
+      "trophyDetail": "ワールド 5の全てのレベルをクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/4B0A4BE76B1A60BE198118B334B4952C787C0660.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "お年玉くださいよ",
+      "trophyDetail": "ワールド 5の全てのレベルをパフェクドクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/D07C9507C141DD3820E4FBB9E83E709168EA07B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "私は金持ち",
+      "trophyDetail": "スーパーマンスーツをゲットする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/01C644EC6094FFE6E087C9AD75EC1CE1D7998D5A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "考古学者",
+      "trophyDetail": "鍵を初めてゲットする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/561C9000D76E39F0E3F4A8616D984E9A7E410422.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "もう裸で走り回らない",
+      "trophyDetail": "初めてのスーツをゲットする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/2853F8B24A3FCC58D743B938E62AA9E498020426.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "買い物中毒",
+      "trophyDetail": "全てのゲットする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/63A1DED3606CDCC51B74B1E359453E3884BCEB5F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ココナッツ島大好き",
+      "trophyDetail": "クレジットを最後まで見る",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/3FA6AF733180BE23292819073F70389E1A437326.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ファーストブラッド",
+      "trophyDetail": "赤いリンゴが死ぬ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/CCF77E3907AD78D5E2B45321601498DA728A4277.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "T-800",
+      "trophyDetail": "短時間で５人以上の敵を倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/77649DA28855954427CBBADA2D1174B026D28406.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "体がちょっと赤い",
+      "trophyDetail": "初めて赤いリンゴに殺される",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/1FC14FEFBCE140E26288EDB51480165A70DAEE87.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1000通りの死に方",
+      "trophyDetail": "死亡回数は1000回達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/E79BAF97D3BF141C63841CAC9E50E15226E8FD8E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "あきらめない",
+      "trophyDetail": "一つのレベルで５０回以上死亡",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/4CD1636A6969E5B7532F9C6562435DA788A1A201.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "潜行者",
+      "trophyDetail": "１分間何もしない",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/FBB41C165D105CA0CE24507C9EE2BFADA7409316.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ローリングストーンズ",
+      "trophyDetail": "ローリングストーンを４秒間押し続ける",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/3176F7FD5E429BD6DC3A45929CB2B7880A81CCBC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "スプリング　フェスティバル",
+      "trophyDetail": "一つのスプリングを利用して、10回のジャンプを達成する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/3E00CC413A59CBF10DA3E4700FF4427EA4C0B683.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "墓碑",
+      "trophyDetail": "ハンマーに１００回以上殺される",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/3BD7ECF0B116051069FFAB403B1CDBA9703ACB81.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ワンタップヒーロー",
+      "trophyDetail": "１回でパフェクドクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/A0236E7C605A323DFA94C1ACBFA96F7846CF3C8B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "観光客",
+      "trophyDetail": "移動プラットフォームで１５秒間立ち続ける",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/DFEDF7AFBBE46534252BD0A9A53553F1280EC246.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "就寝時間です",
+      "trophyDetail": "1回のプレイ時間は２時間を超える",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/DE651402A2409B566DCAA1253EF8738AC4C1E0F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "今何時？",
+      "trophyDetail": "合計プレイ時間は１時間を超える",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/26D9F58149609ACA35C72E11554208B2B82A1F41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "抜け出せない",
+      "trophyDetail": "合計プレイ時間は３時間を超える",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/3EC8FBC4B6F3F2EFA987F2CCFBF752ACE56BB8EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "目まい",
+      "trophyDetail": "ワールド１レベル２５で、ステージの回転数は４２回を超える",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/B4798814C2A14764DF532B757E2AE397011C7991.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 42
+}

@@ -1,0 +1,576 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR10494_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Marvel Ultimate Alliance",
+  "trophyTitleDetail": "Marvel Ultimate Alliance Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/BA4E24CD032E8E0E1EAEF9D3014C6FFB1E4138A7.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 40,
+    "silver": 17,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Marvel Ultimate Alliance",
+      "trophyGroupDetail": "Marvel Ultimate Alliance Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/BA4E24CD032E8E0E1EAEF9D3014C6FFB1E4138A7.PNG",
+      "definedTrophies": {
+        "bronze": 29,
+        "silver": 16,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Expansion of Marvel Ultimate Alliance",
+      "trophyGroupDetail": "Marvel Ultimate Alliance DLC Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/37F9691C5A28AB53775C59F4A87B304F0830C70B.PNG",
+      "definedTrophies": {
+        "bronze": 11,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Award",
+      "trophyDetail": "Obtain all other trophies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/2B3E2C06D10750FB72570ACD2FFCC58E7328425C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mandarin's Downfall",
+      "trophyDetail": "The evil Mandarin was crushed by the forces of good.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/55E012058BC257D13AA4FECDBE03002C616A1CFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mephisto's Defeat",
+      "trophyDetail": "Mephisto was struck down.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/1F69BFCA903F3A1C521D63C9DAC6C869C1B80EFD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Trickster",
+      "trophyDetail": "Loki was defeated.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/D28D26FBA76C85B596C8FD71F2DDB9C6EC626098.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Power Cosmic",
+      "trophyDetail": "The mighty Galactus was toppled.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/60F681B5DBFBE99A44C8337CB014F20E4027674C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Doomed Ending",
+      "trophyDetail": "Dr. Doom was utterly defeated.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/E4FA07945E929F049424A723BCD50B2D5D29AE1E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scarlet Swashbuckler",
+      "trophyDetail": "Daredevil was unlocked as a playable hero.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/01434310FBA28981C02B7877BFCEFA665774AD91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wakandan Royalty",
+      "trophyDetail": "Black Panther was unlocked as a playable hero.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/0481236FBD0769C60FF71226EA35F9311949A0F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Agent of S.H.I.E.L.D.",
+      "trophyDetail": "Nick Fury was unlocked as a playable hero.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/51978906F84AE70E57D128AAD587D1A1002F744B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Surfs Up",
+      "trophyDetail": "Silver Surfer was unlocked as a playable hero.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/AF40AC79243DD27A26D74BC23F7A2AB166BCDC4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dragon Slayer",
+      "trophyDetail": "Fin Fang Foom was defeated.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/A3074A6CE1E5A4672EDC024F16E3968AD611A680.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Blue Screen of Death",
+      "trophyDetail": "M.O.D.O.K was defeated.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/CEB1C1252E2B456EC7E6AE2BCFB312E011AE66C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Underwater Battle",
+      "trophyDetail": "Tigershark and Attuma were defeated.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/CBAB4752F6D56E763D265C6AD33E91C99164510D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Swimming with the Fish",
+      "trophyDetail": "The mighty Kraken was defeated.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/C74C6D2345EC331E0B54C6BAFB82EDD1B75165E2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Defeated Grey Gargoyle",
+      "trophyDetail": "Grey Gargoyle was defeated.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/9864A5CF87722E8C97D7A72A371B2783C9C4F040.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Game Over",
+      "trophyDetail": "Arcade was defeated.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/243934E2B8C76CEFBDC02B5C82BAF21ADFD23210.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Son of a Devil",
+      "trophyDetail": "Blackheart was defeated.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/F1924000FE7EDC8308C487A762FCF9B376C314A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Executioner's Blade",
+      "trophyDetail": "Executioner and Enchantress were defeated.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/8456EEC8B65A2300560C92DEEFE18929F9246CE1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Giant Relief",
+      "trophyDetail": "Ymir fell to the forces of good.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/091AD314204F3CFEF808D25046748AEEC796458E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Warrior's Path",
+      "trophyDetail": "Gladiator was defeated.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/48E90DE23E6A5043443CC4846B6E5F113BA7822C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Deathbird's Defeat",
+      "trophyDetail": "Deathbird was crushed.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/5A15285F4803F600EC6EA124EC9C20C58A4B47A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Titanic Victory",
+      "trophyDetail": "Titannus was defeated.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/07A4779B54B3B15A611B4C82D9A55413C9320372.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Golden Age of Comics",
+      "trophyDetail": "Attained gold on all comic missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/11E248E9F6FD9642AFF28271422E120504C70F45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Ultimate Super Hero",
+      "trophyDetail": "Defeated 4000 enemies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/AA617DAAC335AE5C35E9C4BDCBB121AA6ECA1426.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Marvel Geek",
+      "trophyDetail": "Answered 15 Trivia questions correctly.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/FEC5AECA9D68395E72AB2DFA44A654D2A359A92C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Comic God",
+      "trophyDetail": "Answered 20 Trivia Questions Correctly In A Row.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/0F1EF1EECA0B57DA9EA31A4CDD02F955F31448E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Marvel Master",
+      "trophyDetail": "Answered 150 Trivia questions correctly.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/57D7860EE5B2983F69BD6B29EA5F0DB05469866D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "I have a friend",
+      "trophyDetail": "Completed a level with at least 1 other player.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/9506DB8A2D0A148588228F6DD518E587B7120AC2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Super Hero Team",
+      "trophyDetail": "Completed 25 levels with at least 1 other player.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/5817347E400CEC8F6BD229E993FFBE1F29AB82AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Excelsior!",
+      "trophyDetail": "Beat Marvel Ultimate Alliance in Hard Mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/F78E14364CFE09DE82C9F4620F8D4757CC3FDB93.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fall to Death",
+      "trophyDetail": "Threw 5 Enemies off a ledge.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/A79F0137267D87BA9DAB0FC37A20477D781B51C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Scared of Heights",
+      "trophyDetail": "Threw 50 Enemies off a ledge.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/DE490D2EB22183F28397775C8026BE9F555E80F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Widowmaker",
+      "trophyDetail": "Threw 500 enemies off a ledge.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/7E35102343C6AD27858A0AF4747D9D6ABAEBCDA6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Battle Tested",
+      "trophyDetail": "Won 1 Arcade Mode Level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/784CBB95BFD03E17C9496579719F68116D7B0BBA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Battle Hardened",
+      "trophyDetail": "Won 20 Arcade Mode Levels.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/95C3BA2A4D7B58517BFF0D889AEB56C6AD1FF868.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Teh Mast3r",
+      "trophyDetail": "Won 15 Arcade Mode levels consecutively.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/D0A2423E7BA362BC6FA7E89B4923AFAF521BA677.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mad Skillz",
+      "trophyDetail": "Win 3 Arcade levels consecutively.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/CDE5B6A2DA72433286FC25E8E0A2B8F4AB4718DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Destroyer",
+      "trophyDetail": "Won 100 Arcade Mode Levels.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/C3093F28FAE2633253C50DC7A0707D200B981D5C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Teamwork",
+      "trophyDetail": "Completed 1 level with 3 other players.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/F2B3269E0260E91218C049EFA6E28C263E687AA2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ultimate Team Alliance",
+      "trophyDetail": "Completed 25 levels with 3 other players.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/BA4CADEE0C19BCED9F2E2254188F55F87206BCD8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fledging superhero",
+      "trophyDetail": "Defeated 10 Enemies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/DEE0248EB09056344E02535D777879A5CBA07929.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Legendary Superhero",
+      "trophyDetail": "Defeated 100 Enemies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/3614CA33BBC20587E71BA4E402424A5EE1E206ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pugilist",
+      "trophyDetail": "Performed 5 Finishing Moves.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/C71B9371145C416E2BD26862EE0B65D4B05DC6A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Melee Master",
+      "trophyDetail": "Performed 50 Finishing Moves.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/A721B840C9ACAA703BF1A562436F54B50C7E2F23.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Touch of Death",
+      "trophyDetail": "Performed 200 Finishing Moves.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/B5E3A55ACDD960E77F81DD70BF3E6E77DFE49AFD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Good Samaritan",
+      "trophyDetail": "Completed Skrull Cityscape level without defeating a single enemy.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/A93204520036CA0AB3C902A60D0E3CA7226E60C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dressed for Success",
+      "trophyDetail": "Unlocked ALL outfits for EVERY hero.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/9539FFE1671201FE830F6E405894A9F08283D3A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gamma Garb",
+      "trophyDetail": "Unlocked all the outfits for the Hulk.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/40C2FC7C758679208712F97F6E3242E108753F9E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Archer Apparel",
+      "trophyDetail": "Unlocked all the outfits for Hawkeye.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/533F23E53798EA0C5CB1FE87F11744A925E0C79A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Optic Outfits",
+      "trophyDetail": "Unlocked all the outfits for Cyclops.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/7144D7A4F87302D2045662C1BD2B5AB2BF302848.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Teleport Threads",
+      "trophyDetail": "Unlocked all the outfits for Nightcrawler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/E7095BC3CCB26BAE763D6EB57B12BB975BE02F49.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mutant Love",
+      "trophyDetail": "Cyclops has spoken with Jean.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/D51AD74BA967A8349F782B09B191BD85F7430287.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Doom's Duds",
+      "trophyDetail": "Unlocked all the outfits for Doom.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/57753991FB28FF95F28FAA0885BAB24A2729C8D7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Magnetic Regalia",
+      "trophyDetail": "Unlocked all the outfits for Magneto.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/C225CF882AB2587E2E776D2C7B3D82966D772576.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Symbiote Skins",
+      "trophyDetail": "Unlocked all the outfits for Venom.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/1DC87BC005131BAE1088F0E4E415E54FC936FDCF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Creed's Cloth",
+      "trophyDetail": "Unlocked all the outfits for Sabretooth.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/E1164BEBFC2BE3CC751130055D003B781C94CE37.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Doppelgänger",
+      "trophyDetail": "Doom has spoken with himself.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/764C2799107B38D5C455D6719AA0CC7E36B6A13E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrong Claws",
+      "trophyDetail": "Sabretooth has been mistaken for Wolverine.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/73D9DAC05AFB6C5DE6D60E3BA1098091A115D876.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fleeting Allies",
+      "trophyDetail": "Magneto has spoken to Xavier.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/AEA12E1D942C579446FBE6B23353BDA527E40ED5.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 59
+}

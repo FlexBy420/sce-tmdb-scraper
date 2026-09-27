@@ -1,0 +1,87 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR21528_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Table Tennis",
+  "trophyTitleDetail": "Table Tennis Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21528_00_008FC4C52BAEB3F1BA9093E1AC303E67C09C95B443/C58EE225A0DAD96C1F35BC94A225573A763776D6.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 3,
+    "silver": 0,
+    "gold": 3,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Table Tennis",
+      "trophyGroupDetail": "Table Tennis Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21528_00_008FC4C52BAEB3F1BA9093E1AC303E67C09C95B443/C58EE225A0DAD96C1F35BC94A225573A763776D6.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 3,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Win",
+      "trophyDetail": "Win",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21528_00_008FC4C52BAEB3F1BA9093E1AC303E67C09C95B443/551B135006A6EAB49FF5FC3781A3F79F7233A04F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lose",
+      "trophyDetail": "Lose",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21528_00_008FC4C52BAEB3F1BA9093E1AC303E67C09C95B443/505583C6CA29A5EEC2A96A4A7DC53A4DEBC6848B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Perfect Match",
+      "trophyDetail": "Win with the  opponent’s  score being 0",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21528_00_008FC4C52BAEB3F1BA9093E1AC303E67C09C95B443/52655D387CEA54A5128BC325088762143598A7DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ZERO",
+      "trophyDetail": "Lose with your score being 0",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21528_00_008FC4C52BAEB3F1BA9093E1AC303E67C09C95B443/594A6F92B0B443FDDCA87A0C687D097B43A43D01.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Unbeatable",
+      "trophyDetail": "Win three consecutive matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21528_00_008FC4C52BAEB3F1BA9093E1AC303E67C09C95B443/858CD5BE718FA0A27BFBD7EF8059A1EB7E376044.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Destroyed",
+      "trophyDetail": "Lose three consecutive matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21528_00_008FC4C52BAEB3F1BA9093E1AC303E67C09C95B443/768E07CECB28E6BD8B8ADA8477167A262EC8B374.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 6
+}

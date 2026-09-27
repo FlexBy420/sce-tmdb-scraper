@@ -1,0 +1,456 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR07942_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Ratchet & Clank™",
+  "trophyTitleDetail": "Conjunto de troféus para Ratchet & Clank™.",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/0A529D9F4EA9446B6946C0CDC64C5DD853DC79D8.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 30,
+    "silver": 14,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Ratchet & Clank™",
+      "trophyGroupDetail": "Conjunto de troféus para Ratchet & Clank™.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/0A529D9F4EA9446B6946C0CDC64C5DD853DC79D8.PNG",
+      "definedTrophies": {
+        "bronze": 30,
+        "silver": 14,
+        "gold": 2,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "O herói dos heróis",
+      "trophyDetail": "Obtém todos os troféus de Ratchet & Clank.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/99F85106BE5EA7924D0131F15C48C3BCC5D1DB0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "O fim do princípio",
+      "trophyDetail": "Derrota o Dr. Nefarious no Desplanetizador.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/08947605DB692E006AC00912BEFCB1BB6A464C18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Supernegociante",
+      "trophyDetail": "Completa todos os conjuntos de holocartões.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/D932890E656B3C542D29EF96DC897F87FC611670.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Desafiador",
+      "trophyDetail": "Acaba o jogo no Modo Desafio.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/F5AE9B45E9056EC6DC97D52E974A877054AB973F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Explorador derradeiro",
+      "trophyDetail": "Apanha todos os parafusos de ouro.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/1059DDDE980B9707F8ECDE30B03CAD42AE40BE2A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Arsenal completo",
+      "trophyDetail": "Obtém todas as armas do jogo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/9E6F51C0442A1CBE148683858B18D523868909A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mestre da guerra",
+      "trophyDetail": "Melhora todas as armas até ao nível máximo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/77FCA3BD74DDE06375350095A3D72F9059F8444E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Isto chega aos onze",
+      "trophyDetail": "Desbloqueia todas as modificações para todas as armas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/3F00DB36F35BD8F50BB5D60FC8B169DB430DF162.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sr. Catita",
+      "trophyDetail": "Melhora a saúde do Ratchet até ao nível máximo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/6223A3F876AC2A27BBF4FAFAF1CB35D8EA4B2FB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tecnológico",
+      "trophyDetail": "Obtém todas as engenhocas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/E30FAC5C645615A392F52558E97850AFE4443270.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Abby Normal",
+      "trophyDetail": "Apanha todos os cérebros de telepatáculo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/A19303F4CD99ED1120855F2CB5E32A43EE5B82A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vai depressa, Ratchet, vai!",
+      "trophyDetail": "Ganha a taça de ouro em Rilgar e em Kalebo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/66FA3EDD4FBA7059F2D5763345E9A186D1102B54.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Arrombador de cofres",
+      "trophyDetail": "Completa todos os quebra-cabeças do trespassador sem utilizares o autopirateamento.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/491E690DD23334F17501A21C41908C2BB10F9593.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Potencial no máximo",
+      "trophyDetail": "Melhora uma arma até ao nível máximo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/EB8F1DB5B8B23124F7C7F0226101E777CF425A72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Treino básico",
+      "trophyDetail": "Conclui as provas de admissão dos Rangers em Veldin.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/E30368063BA1236D8A19A13A86FA31FA134CFFE6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "O pequeno robô que podia",
+      "trophyDetail": "Foge do Victor em Quartu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/3FAF1EDD065C84CE6C798F674A83EE5328815BB5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "O salvador",
+      "trophyDetail": "Salva o presidente e o Canalizador em Novalis.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/F210B4F60C39CF719075D667B750B84C6BDAFE41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Em direção às corridas",
+      "trophyDetail": "Salva o Skidd e o agente dele em Aridia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/B8FC2A84B7C399C9F581B7A3620A0A75E00D315D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bem-vindo aos Rangers",
+      "trophyDetail": "Torna-te um Ranger em Kerwan.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/139154B93E1ABEE06D03D0FA463D1005ECB29E35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "E o prémio é... ser jantar de tubarão da areia!",
+      "trophyDetail": "Ganha a taça de bronze de paira-skate em Rilgar.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/31A68B0B0C81F2D69B2E49C05E2A58513A0A9B31.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Quem é uma linda baralhabesta?",
+      "trophyDetail": "Derrota a baralhabesta em Nebula G34.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/6AF19A8FD0D49EE5878C76DE4406F5FEA861E1B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Miooooooolos",
+      "trophyDetail": "Apanha 30 cérebros para o cientista blarguiano em Gaspar.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/544FA872E35B626B85D82B45C5ED0FEAE85B3EAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Abati a tua nave de guerra",
+      "trophyDetail": "Abate as naves de guerra blarguianas em Batalia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/50872504698C5CBB8F4DE80687A01C42F6FB6C2E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Valores da família Zurkon",
+      "trophyDetail": "Derrota a Sra. Zurkon em Quartu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/0A856AEC6356AA80BFF64FDB329888E8275F7685.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mergulhar!",
+      "trophyDetail": "Abate as hidroceifeiras em Pokitaru.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/36848ACBFF1C6505FA439BEFE562E3263F9A5464.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Óxido feroz",
+      "trophyDetail": "Derrota o Victor em Phoenix.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/E1A203EC47A20284D63CE29DF72AAA4F2E599635.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Radical",
+      "trophyDetail": "Ganha a taça de bronze de paira-skate em Kalebo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/354C72279B58660101EC091033EC1798B4BC419F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mudança de posição",
+      "trophyDetail": "Derrota o Capitão Qwark no desplanetizador.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/4AACE72CE3DDD49B8DB8F0BBA1923460F631963E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mais rápido que um ameboide acelera",
+      "trophyDetail": "Termina a taça de ouro de paira-skate em Rilgar em menos de 1:35.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/48D08F8960F10117ACD6F3E8B2D66F68F0D92306.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Trovão de Kalebo",
+      "trophyDetail": "Termina a taça de ouro de paira-skate em Kalebo em menos de 2:05.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/F5870704C6CF97E329133BCAC8D937A00CC3A4CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gladiador de Kerwan",
+      "trophyDetail": "Termina a pista de fitness em Kerwan em menos de 70 segundos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/7345189F5B406F5CCDB659CFD911C2145D5C6D97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Clank esmagador",
+      "trophyDetail": "Esmaga cinco gadgebots no esmagador em Quartu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/D89DBEF95842665264D58C529E03401DAFC07F62.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sensação profunda",
+      "trophyDetail": "Atira um construtobô para a areia movediça de Aridia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/ADA9E7203486B969F74EC904094DBB85AB3AF35D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Odeio candeeiros",
+      "trophyDetail": "Parte todos os candeeiros de Aleero.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/EB284B6C6A36EAC44795C7C4DF951CEE2BDDD445.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Não é o meu trabalho",
+      "trophyDetail": "Permite que os exterminobôs matem 35 ameboides em Rilgar.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/8D818AFAB52F6C3E90DC3D6A6F58D09E33C72795.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Artilheiro principal",
+      "trophyDetail": "Derrota 40 inimigos enquanto viajas de jetpack por Gaspar.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/EDA9CA59CBF05B19D3D58F7B3D66FE05F7101616.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Quando as ovelhas aprenderem a voar",
+      "trophyDetail": "Utiliza a Transformação Ovelhense para transformar um Piloto de Helicóptero Blarguiano.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/0FA4A412D5F3ABCA074B0CF2610AA78B97AF7F76.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "De robôs de guerra a sucata",
+      "trophyDetail": "Destrói 10 robôs de guerra inativos dentro da fábrica de Quartu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/CB2B6F5C913AC510008B17F188D487EFA37B74C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Os tubarões são os piores",
+      "trophyDetail": "Sê comido por um tubarão no oceano de Pokitaru.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/DB6F8A3EA774156DC7585DDC45E5AACD939F84C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Assassínio de caráter",
+      "trophyDetail": "Destrói todas as maquetes de planetas que estão no gabinete do Drek.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/1F30889269C7ACF78F84904F68CF63ECA05B6DBC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Et tu, Copernicus?",
+      "trophyDetail": "Encontra a sala de estar do Qwark no Desplanetizador.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/942F5443B7296F7A848EE4D688386E7957844AEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lombax preguiçoso",
+      "trophyDetail": "Anda em todas as passadeiras rolantes de Kalebo sem te mexeres.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/0DF6D09A4CBBA0011DBCD4AB12F2BB7D97F9A79D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dança da morte",
+      "trophyDetail": "Usa a ritmo-bola em todos os tipos de inimigos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/2D61C24633CD7E0513F9E1BA32E68D37DC5F4451.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Comerciante em formação",
+      "trophyDetail": "Completa o teu primeiro conjunto the holocartões.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/AF21A78FFF0B206648B45F5B56346C0887A61E80.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Modificador",
+      "trophyDetail": "Completa a tua primeira modificação de arma de raritanium.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/967885DE80EA4A484228E06E51F21CA8876D1CE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ca-tching!",
+      "trophyDetail": "Alcança o multiplicador de parafusos máximo no Modo Desafio.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/F9F17169C4421B846CFC2C61082EAA105A70B206.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Subir na vida",
+      "trophyDetail": "Troca um conjunto de holocartões repetido por um novo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/0789C1599A68247D5F39AC04BA6A3C8AD6EF98D0.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 47
+}

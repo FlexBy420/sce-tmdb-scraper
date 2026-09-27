@@ -1,0 +1,630 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR20532_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Quest Hunter",
+  "trophyTitleDetail": "Трофеи",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/C196F409866F1D41C46DA66FBBCACF6B5B3283F0.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 57,
+    "silver": 5,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Quest Hunter",
+      "trophyGroupDetail": "Трофеи",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/C196F409866F1D41C46DA66FBBCACF6B5B3283F0.PNG",
+      "definedTrophies": {
+        "bronze": 55,
+        "silver": 4,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Strangewood",
+      "trophyGroupDetail": "Strangewood - сюжетное дополнение для Quest Hunter",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/8982EB33B7651705171B126D90CF2578936BCABC.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Великий кладокопатель",
+      "trophyDetail": "Платиновый трофей",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/B38D53D724C102908A8B87612ED2D4D27552FC1B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Выживший",
+      "trophyDetail": "Пройти туториал",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/1925B0CC7D1F0B15E777FC385CF9B081AE4C2831.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первый друг",
+      "trophyDetail": "Найти плотника",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/D89D1458F3542D2486AC8871DA436F2B1F1D7E36.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Второй друг",
+      "trophyDetail": "Найти кузнеца",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/26DFC75995D68C3C72C4E3B51C3ADCAB456D57A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первое подземелье",
+      "trophyDetail": "Открыть подземелье",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/251AEDEEECBA58DB2F46B7B1D6E59D27FA2B1FB1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Костяная пещера",
+      "trophyDetail": "Найти Костяную пещеру",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/6E82508F301B5915E1CE02CC324C80D144EFCF0A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лагерь Гоблинов",
+      "trophyDetail": "Найти лагерь Гоблинов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/CC37D9CBAD6D28CD54AB363FF09203A6A543E130.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Кладбище",
+      "trophyDetail": "Найти Кладбище",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/31CAB1CD2FF0D2582DC1DF39A215D5E44E13F5C7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лагерь Красных",
+      "trophyDetail": "Найти лагерь Красных",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/98DA6AD86880E9FCA4E3F3C3B047A5A4664A130F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Плохие новости",
+      "trophyDetail": "Найти потерянного брата",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/C1EDB35B8E3CB370DBBADFE870C5EBE5F5DAE4AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Строитель",
+      "trophyDetail": "Построить дом",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/E995F63E49B9BC4277E8FFA736419BC845712F55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Тайна мертвых",
+      "trophyDetail": "Украсть артифакт Мертвых",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/06DD91171E1028BE2CE23AF6EF6351E0790783E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Спаситель принцесс",
+      "trophyDetail": "Спасти дочь мясника",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/ADF9015D970CDE018E82DD5D458E472D8FAEAD10.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Победитель гоблинов",
+      "trophyDetail": "Убить Шамана гоблинов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/5A818C562AE533B97B3DE3A2F8EC3A71C2AAA61E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Защитник",
+      "trophyDetail": "Защитить лагерь от Красных",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/D275EB678147827D30338BA51078697B1877DC21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Кладбищенские тайны",
+      "trophyDetail": "Разобраться с Могильщиком",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/92023EF86FD2648642620FBBA24712574E77FDC8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Победитель Красных",
+      "trophyDetail": "Убить Босса Красных",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/0D6797F8E9C9D780D3AE6CEFFECC28EB4BF45391.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "На стороне врага",
+      "trophyDetail": "Выполнить задание бандитов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/F4C9B7F6C821B881C22B52B20A2F444DEC03F396.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Зоркий глаз",
+      "trophyDetail": "Найти 10 секретов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/9BD46C76477E77BCCF450B31DCFCFBE0855159CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Охотник за сокровищами",
+      "trophyDetail": "Выкопать клад 10 раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/FC36621E8D4CD7A0AFED6769B4A10D8039AF7AA8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Любитель сундуков",
+      "trophyDetail": "Открыть 10 сундуков",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/DB28D2EAC63D54623176484A07398EB5B442E49C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Обжора",
+      "trophyDetail": "Скушать 20 ягод лечилок",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/F45325952D63386CB5C3DE325999F7734AE2FE2D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Подрывник",
+      "trophyDetail": "Взорвать 10 объектов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/EE1439B8DB7718D0F6174946F32CE946E63DE07A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Подрывник со стажем",
+      "trophyDetail": "Взорвать 100 объектов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/16FA9A4412FB0DD1EAB207E2FDB1B7D3A3361572.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Экстремал",
+      "trophyDetail": "Упасть в пропасть",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/7378614D63EF5F6DF0721D0A2B1B4CF81F60BDF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Дровосек",
+      "trophyDetail": "Сломать 50 деревьев",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/D3B4495D540871F088EE6D5BB4D8FEC0BF699022.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Древоненавистник",
+      "trophyDetail": "Сломать 100 деревьев",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/0955646AC6537969A962E3E1F47ACFF770700F57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Каменная Дробилка",
+      "trophyDetail": "Сломать 50 камней",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/515DD8160BD3C33DC670AB80C8705FF050B2C3E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Эпическая Каменная Дробилка",
+      "trophyDetail": "Сломать 500 камней",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/FA7D01B4CB119A92E83FB08F93E11ED917FD519C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сборщик лута",
+      "trophyDetail": "Сломать 50 коробок и бочек",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/303B3CD361BA595DF93BA944EED8EAE49BC3DCBB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первый Голем",
+      "trophyDetail": "Убить Каменного Голема",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/0AA2CD5EA70D60258D2559FEB793319D9373133B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Истребитель Големов",
+      "trophyDetail": "Убить 10 Каменных Големов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/36499AA7A5EA3C1CA7E94459CD0E0633F11BAD73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первый Золотой Скелет",
+      "trophyDetail": "Убить Золотого Скелета",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/EB828998F7142C894EFEF191048D39826ECBA6DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Истребитель Скелетов",
+      "trophyDetail": "Убить 10 Золотых Скелетов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/F35A3BDBD6EB71AD4D8A93C16155D9D1196846FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Враг Гоблинов",
+      "trophyDetail": "Убить 3-x Шаманов Гоблинов в подземельях",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/02943FBA485FFABDA0CD4B236FBA29712EAE4350.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ветеран Столкновения на Кладбище",
+      "trophyDetail": "Пережить 9 волн в Столкновении на Кладбище",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/2A039427F097FE28AF750047A8D3214B3189E49E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Паладин",
+      "trophyDetail": "Убить 10 зомби",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/058033CFEA83A55712914A5BED17EB7CCF2AF852.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Гроза нежити",
+      "trophyDetail": "Убить 50 зомби",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/EEEBE3F124A07F2FAFFD328FFB1B4EC14C8EAA23.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Враг природы",
+      "trophyDetail": "Убить 5 сорняков",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/211C9F8D1EEEE554A2EB4A2056BC568380D19A19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Истребитель сорняков",
+      "trophyDetail": "Убить 20 сорняков",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/EBE8F16E6A945116048AA13186F27325FB58E329.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Знаток древностей",
+      "trophyDetail": "Открыть Древнейшие Ворота",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/CCBB79707DA6F1F9295379A985A008CB99996345.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Тыквенный король",
+      "trophyDetail": "Спасти тыквы торговца",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/42E32376E02CA1792A64AF47ECE59F9EA16F1943.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Настоящий Детектив",
+      "trophyDetail": "Убийство в охотничьей хижине",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/A8085E72926856122BA3F40AD8FDBE4FB5ADA179.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Кладбищенские тайны 2",
+      "trophyDetail": "Еще раз разобраться с Могильщиком",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/A0A2C0695195845645342544C38FDD417F0E6753.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Очиститель Жуткого Колодца",
+      "trophyDetail": "Очистить Жуткий Колодец",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/66C82DFA4C43AD6BA13A46100D4F18603CB7567D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Король галлюцинаций",
+      "trophyDetail": "Найти дорогое древко для лопаты",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/A01E834C2E3BDBA92A3F4B34C5BF6BC02CBC0359.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Победитель рандома",
+      "trophyDetail": "Пройти Древний Лабиринт",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/487255F858D07C319AC2F866E02B29871207082C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Темные делишки",
+      "trophyDetail": "Связаться с ворами",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/E07E26512ACBDC307BD36F8295AB39E5EE2BB5CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Охотник за головами",
+      "trophyDetail": "Выследить беглого преступника",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/0AD20489EF5412565217308502B086237D34A19C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Гроза болот",
+      "trophyDetail": "Разобраться с Болотным Чудищем",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/DA1D5A91A98FC0094825F258858A7FD8F7394EBB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Вор",
+      "trophyDetail": "Ограбить хижину",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/0A4D755BBA4C337CF84DE2993A511482C8B7A98A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Капитан",
+      "trophyDetail": "Построить Летучий Корабль",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/B2CDE57FBAA9621AF7418BD5642A136539901BDF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Новый друг",
+      "trophyDetail": "Спасти королевского кузнеца",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/09AD77617A4A87071B072CFE27B6AB57AF3FB1B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "В замке как дома",
+      "trophyDetail": "Разобраться с Лордом Болотных Земель",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/8CD544F61DCFDC51C9E844EE970DE712BCEAFB11.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Главный на кладбище",
+      "trophyDetail": "Победа на северном кладбище",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/79CD02F94320570EFD5060644D78DD36E54D2CB9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Великий спаситель",
+      "trophyDetail": "Спасти принцессу",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/C9EC8725C821044B6748F2B4055F95DDF37CC735.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Да будет свет!",
+      "trophyDetail": "Вернуть похищенное солнце",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/FB71AC7657CA02C9ADA6ECA98F46E0351327E218.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Самый важный трофей",
+      "trophyDetail": "Победить главного злодея",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/9EFD0367B244B0877AC9D832655D9BA8A40920B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Истребитель слизней",
+      "trophyDetail": "Убить 50 слизней",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/00712723E457B164E303E52F8080C85E96C69E64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Истребитель леших",
+      "trophyDetail": "Убить 30 леших",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/EA1CB81EAB8D4B6D2C649AF3BFFFBEEAC9E00F6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Охотник на лосей",
+      "trophyDetail": "Убить 50 лосей",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/866E48C18AFB3F1309AF9B89E14A08DD681A0FD9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Знаменитый уфолог",
+      "trophyDetail": "Установить контакт",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/383DA95002C80032F0B2E1A1CE249F3052294C49.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Победитель Боссов",
+      "trophyDetail": "Победить большого каменного Босса",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/D36A232A7EF2917B51408606450AB2F1F2428598.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Защитник деревни",
+      "trophyDetail": "Защитить деревню",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/EA334978937A47251B050064F6E5A311EF7B52A4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Победитель Озверения",
+      "trophyDetail": "Разобраться с Озверением",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20532_00_0074C4D8C388EC86617CA6590DF0E3033BC93DEC73/7D5AC7373716F72BB28362749552373BB7DA90B4.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 65
+}

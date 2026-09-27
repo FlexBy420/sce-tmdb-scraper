@@ -1,0 +1,492 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR12903_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Friday the 13: The Game",
+  "trophyTitleDetail": "Collecter les 50 trophées.",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/760BF3137990954E985CCEBE324CE4CE6ED26131.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 42,
+    "silver": 6,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Friday the 13: The Game",
+      "trophyGroupDetail": "Collecter les 50 trophées.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/760BF3137990954E985CCEBE324CE4CE6ED26131.PNG",
+      "definedTrophies": {
+        "bronze": 42,
+        "silver": 6,
+        "gold": 2,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Franchise de tueur",
+      "trophyDetail": "Collecter les 50 trophées.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/E24206F24460BE22C6D804585A74A567BD6744A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Colonie de vacances",
+      "trophyDetail": "Jouer dans 1 match multijoueur en incarnant un moniteur.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/116A69F89E93B1C49EE4906469481D65C8607685.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moniteur de camp",
+      "trophyDetail": "Jouer dans 500 matchs multijoueur en incarnant un moniteur.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/49C305E519504728BC68F6795543A3EB03016A65.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Moniteur en chef",
+      "trophyDetail": "Jouer dans 1 000 matchs multijoueur en incarnant un moniteur.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/F0A1468F1C43EFF63411865D8D1445C9C8192EE0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On est le vendredi 13",
+      "trophyDetail": "Jouer dans 1 match multijoueur en incarnant Jason.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/7730565A312894C037BC311D695ED68DBAABBB14.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La suite",
+      "trophyDetail": "Jouez dans 500 matchs multijoueur en incarnant Jason",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/E7F1EBFDE076E5D9C4E57A4E9FB8B71047726C9F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Le dernier chapitre",
+      "trophyDetail": "Jouer dans 1 000 matchs multijoueur en incarnant Jason.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/F8874E67DD46F271C3B9496F17C2295E96E12E9A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Générique de fin",
+      "trophyDetail": "Tuer Jason.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/6A5F4C2AA1541DB00E8201B087E117B57F88B779.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Premier sang",
+      "trophyDetail": "Tuer 1 moniteur.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/169525CF56E1240F81C641D9AB305371371EB9D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mon chiffre porte-bonheur",
+      "trophyDetail": "Tuer 13 moniteurs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/98877CECBAD57597C987C967CAC63DAB1E7CC5A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jason va en enfer ",
+      "trophyDetail": "Tuer 666 moniteurs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/3DAB5AC616D9BAD81B8DD9D3C9067234C257D6FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tuez-les tous",
+      "trophyDetail": "Tuer 1 313 moniteurs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/AE9E38816AD6522185B3ECE98DB1130E41BB245A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Condamnés, vous êtes tous condamnés !",
+      "trophyDetail": "Tuer les 7 moniteurs en un seul match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/08081843B35496633C08188304C6DD86F525CC5A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Faire bonne mesure",
+      "trophyDetail": "Tuer les 7 moniteurs et Tommy Jarvis en un seul match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/04A35F8FA8B4C40AACE20005067198B8783FF71A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bon à tout, bon à Jason",
+      "trophyDetail": "Jouer dans un match multijoueur en incarnant chaque Jason.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/EDCD31BD45A6FDEB0D6F46677E30DBF1915DFC2D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Super fan",
+      "trophyDetail": "Jouer dans un match multijoueur en incarnant chaque moniteur.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/F3290C170AED9AEA880628A9B25F1FC1A64F4141.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mécano",
+      "trophyDetail": "Effectuer 100 réparations de voiture",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/C7F7B0E7A20F0E7A41C0EEC7FBDF15326440BCCC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Charpentier de bateau",
+      "trophyDetail": "Effectuer 100 réparations de bateau",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/283BB16278A59BCEF03C0F08902A7BA24A8AD45F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jockey de choc",
+      "trophyDetail": "Effectuer 100 réparations électriques et de cabines téléphoniques.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/124744B74475C8ED893B4303C5AC5C44729C4170.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Opérateur",
+      "trophyDetail": "Appeler la police 13 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/80A4B1DB790F4EC39E53C5549265E220E1DF32BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Disc jockey",
+      "trophyDetail": "Appelez Tommy Jarvis 13 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/D817F5270E018ACEF8E1E5E2FFA2FC07DE27702E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chauffeur du vendredi",
+      "trophyDetail": "S’échapper avec la voiture en tant que pilote.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/02021E273C2DC9773FAE8CE0B82421C1F1E5DBD3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "En route",
+      "trophyDetail": "S’échapper avec la voiture en tant que passager 13 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/9475FB00FBBBAAD3114B4EBEF0ED848494DCBFB8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Je suis sur un bateau.",
+      "trophyDetail": "S’échapper avec un bateau en tant que passager 13 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/BD884ADCB23362CA9DA17C626D305A55D5D3E7B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oui mon capitaine",
+      "trophyDetail": "S’échapper avec un bateau en tant que pilote.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/75942003E70035A4FA2FDDE707BB9853B35D2000.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "C’est un piège !",
+      "trophyDetail": "Piéger Jason avec un piège à ours 13 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/617B6D034E04F546EE355243F501C82EE22B23A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voilàààààà Tommy !",
+      "trophyDetail": "Incarnez Tommy Jarvis 13 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/54EB939887344938D15933B2952A75F1F5C08951.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "C’est un bon garçon",
+      "trophyDetail": "Étourdir Jason avec le pull de Pamela 13 fois",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/482844197DF4A1C64CE4E8288E642F818F55F3A7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Poupée vaudou",
+      "trophyDetail": "Frapper les moniteurs avec des couteaux de jet 13 fois",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/573572E59F6D10DCD3B04369FF48AA968D03B422.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Am stram gram",
+      "trophyDetail": "Réussir à piéger un moniteur 13 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/E59BADD42FD33AE1B30C046B07F66E2134D85584.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Il est revenu",
+      "trophyDetail": "Se faire tuer par Jason.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/E56F6771346E2A8423C3E3A10D0E56875DAA0016.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vous mourez souvent",
+      "trophyDetail": "Se faire tuer par Jason 100 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/44E3805CAAC0C0A330505868FFFABBDE76534DDB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Embouteillage",
+      "trophyDetail": "Arrêter la voiture 13 fois en jouant Jason.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/72BBCE295F983C4C3E85DA797475C97C058625F1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Policiers du lac de cristal",
+      "trophyDetail": "Échapper à la police 13 fois",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/86894795C7C8E334E135BA746B796C09EBD8C19B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tir de fusée",
+      "trophyDetail": "Frapper Jason avec une fusée éclairante 13 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/2866F34F1EE48121ACB9933FA8E0D29053036B76.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rupture, claquage, explosion",
+      "trophyDetail": "Assommer Jason avec des pétards 13 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/55154BA408088ECD1708BFE43D9CAAC5226E28E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sortir de prison",
+      "trophyDetail": "S’échapper d’une prise avec un couteau de poche 13 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/3E6F9763D27757460063289DF2C4EB9A9392C156.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Affrontement",
+      "trophyDetail": "Retirer le masque de Jason 13 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/AE74BBC9DCFE7D28CB485B392C429B1F91588D10.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "De nouveaux fils",
+      "trophyDetail": "Enfiler le pull de Pamela",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/61F758B816C9954C02C2352A7991999DD1FB4E96.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gardien de but",
+      "trophyDetail": "Ramasser le masque de Jason",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/DF60DA1726A1AA17A0E178A544C6B3757003B6ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cette porte ne se ferme pas",
+      "trophyDetail": "Réaliser un meurtre en écrasant votre victime contre une porte.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/7B6A1FAFB54F8160A1D35FCD47C33BD32490751B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cette porte ne s’ouvre pas",
+      "trophyDetail": "Briser 100 portes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/8D6FC2E8585AAA825EC27E36DE9ADF10DB8110D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Windows 99",
+      "trophyDetail": "Sauter à travers 99 fenêtres fermées.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/01F1E85CDDAFF1768D2158660402ECA1222FC0C1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un classique",
+      "trophyDetail": "Réalisez un meurtre avec un sac de couchage.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/C7F520D366D3B3D078921D7DF306B34F36811F5C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cuisiner avec Jason Vorhees",
+      "trophyDetail": "Réaliser un meurtre par le feu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/AD83515DFF80AFD75265CF2D4F6F06884D49CD80.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Smash Bros ",
+      "trophyDetail": "Frappez Jason avec une batte 100 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/871E4FC6E820D6BF0DEB1A9DC84A09B4A56E9A1D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "J’ai besoin d’un médecin !",
+      "trophyDetail": "Utiliser un spray de premiers secours 100 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/627F2414D1D80DCC525328236E7D36BB4417186F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voici mon bâton qui fait « boum » !",
+      "trophyDetail": "Tirer sur Jason avec le fusil à pompe 13 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/032B5FB6B3183FD8823A602C427541AA8233357C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Séparons-nous",
+      "trophyDetail": "Réalisez un meurtre par démembrement.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/9C7F92309177F5060507659E660E4DD73A7097AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Chad est une enflure",
+      "trophyDetail": "S’échapper dans la voiture ou le bateau seul tandis alors qu’un autre moniteur est toujours en vie.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/8BC8883020EF907B0B0240D1B8862EDA5CC08F94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Un doctorat en meurtre",
+      "trophyDetail": "Mettez en pratique toutes les méthodes de meurtre du jeu au moins une fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/9DA38AF2224CF149A21EBA27E499D9078EDCB98A.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 51
+}

@@ -1,0 +1,687 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR10017_00",
+  "trophySetVersion": "01.23",
+  "trophyTitleName": "World of Tanks",
+  "trophyTitleDetail": "Das Trophäenset für das Basisspiel.",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/9C9E7571B35939EC37B43D036846AE79BF74E8B6.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 24,
+    "silver": 38,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "World of Tanks",
+      "trophyGroupDetail": "Das Trophäenset für das Basisspiel.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/9C9E7571B35939EC37B43D036846AE79BF74E8B6.PNG",
+      "definedTrophies": {
+        "bronze": 10,
+        "silver": 18,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Das Vaterland",
+      "trophyGroupDetail": "Trophäensatz für das Update „Das Vaterland“.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/EBD3A92DFAC63CF1E7C1568DD6F4230A5208D158.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 5,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Schwergewicht",
+      "trophyGroupDetail": "Trophäensatz für das Update „Schwergewicht“.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/135B68F884391A8DCFEF41CDE265EF83DDE21B54.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Panzerhelden",
+      "trophyGroupDetail": "Trophäensatz für das Update „Panzerhelden“.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/FB9A5A4BD7CAEE4DDE8A50710D1EC779E0AEE2CA.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Kriegsgeschichten",
+      "trophyGroupDetail": "Trophäenset für das Update „Kriegsgeschichten“.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/06D720006F40B99DDEAE965B036E77D458951F36.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Söldner",
+      "trophyGroupDetail": "Trophäenset für das Update „Söldner“.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/ED21AD71313FE05510B5576A90F7A1FA18CDF3EF.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Siegreich",
+      "trophyDetail": "Sammeln Sie alle Trophäen im Basisspiel.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/A0D68968FF30AA1447B527E0F5BBCEA75783288D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Amerikaner durch und durch",
+      "trophyDetail": "Erforschen Sie einen amerikanischen Panzer der Stufe X.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/D3C313F4766F270E263ED42B93D2647DBB1BC4CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Deutscher durch und durch",
+      "trophyDetail": "Erforschen Sie einen deutschen Panzer der Stufe X.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/3B3085616F285E00F6DB65773EFC630C8082F702.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Sowjet durch und durch",
+      "trophyDetail": "Erforschen Sie einen sowjetischen Panzer der Stufe X.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/796B1EB91C757F042448126BB33421E7D6852688.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legendär",
+      "trophyDetail": "Erforschen Sie einen Panzer der Stufe VII.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/5815883C63EBAE0BBB45D7DE12A9EE1BB804DE9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Krieg",
+      "trophyDetail": "Zerstören Sie 500 Panzer. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/5593AACBE0CEC22A17D266D2A4530516952B5802.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Superschütze",
+      "trophyDetail": "Zerstören Sie im Gefecht mehr gegnerische Fahrzeuge als jeder andere Spieler Ihres Teams (min. 6). Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/28524B2055A73EF04DF8FB98A8ED36D4543AE974.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "David und Goliath",
+      "trophyDetail": "Einen Panzer zerstören, der mindestens zwei Stufen höher als der eigene war. Nur WWII-Modus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/CD62E8A92D3A2945E5D091431AA7998524BBEEF7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Murica",
+      "trophyDetail": "Zerstören Sie mit einem amerikanischen Panzer 4 gegnerische Panzer in einer Partie. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/C339EFC39A846000281AEC3859576FECE39609E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Siegfried",
+      "trophyDetail": "Zerstören Sie mit einem deutschen Panzer 4 gegnerische Panzer in einer Partie. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/02306EFD535ABA8D4666303C7EF77ECE8EACCC0E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Für Mütterchen Russland",
+      "trophyDetail": "Zerstören Sie mit einem sowjetischen Panzer 4 gegnerische Panzer in einer Partie. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/29012B2163BCFC1D28E829F07497BEE2B0D738F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Einmannarmee",
+      "trophyDetail": "Verdienen Sie doppelt so viele EP wie der zweitbeste Spieler Ihres Teams, vor Boni. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/8447C605AECD2C3E401CCD314797E6C1E128FA38.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ich bin ein Supermann",
+      "trophyDetail": "Wehren Sie mehr als doppelt so viel Schaden ab, als Ihr Panzer SP hat. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/E670BC69FB202AE6514916F1D094317BA307CCCC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Panzerass",
+      "trophyDetail": "Verdienen Sie das Überlegenheitsabzeichen Panzerass.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/82C8B8BE2113B9633A6CB076D9EAFF7305EB2C59.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stahlwand",
+      "trophyDetail": "Wehren Sie nach Überleben von 11+ Treffern mit 1000 pot. SP mehr Schaden als Ihr Team ab. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/42E44F942581DA44EE8C5E76975EC280B1D639B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nur keine Kratzer",
+      "trophyDetail": "Schließen Sie eine Partie mit 100 % Gesundheit ab, wobei Sie min. 1000 pot. Schaden erlitten haben. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/82C91837BB29088AB1E8100BC97021E336E363CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Schütze",
+      "trophyDetail": "Erzielen Sie mit min. 10 Schuss eine Trefferquote von min. 85 % und min. 1000 pot. Schaden. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/9C3306C49A7669CD48210815FD23B9D2D0FC8536.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ranger",
+      "trophyDetail": "Zerstören Sie in einer Partie alle gegnerischen leichten Panzer (mindestens 3). Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/F1D8BB18F0DD8F46BB07F6CD6E1631A49853CF54.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vorteilhafte Panzer",
+      "trophyDetail": "Bilden Sie alle Fertigkeitenplätze eines Kommandanten vollständig aus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/AE63202CCF2CBBA2DC14533062C9369C8B4D1A15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Eroberer",
+      "trophyDetail": "Erobern Sie dreimal die maximale Anzahl an Eroberungspunkten (mindestens 80). Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/1AE8157BD3154BD2E42ABABD2B31F2E07F4AF0DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Defender",
+      "trophyDetail": "Verringern Sie dreimal die gegnerischen Eroberungspunkte einer verbündeten Basis um mindestens 70. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/61528B849E3F02214BA7A2CEC1545A1D0EED809E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Genau da, wo ich dich haben will",
+      "trophyDetail": "Machen Sie 100 Gegner durch Zerstören ihrer Ketten bewegungsunfähig. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/B66066FAB2F029525010935C592EECFEAD48B5F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Medium",
+      "trophyDetail": "Erforschen Sie einen Panzer der Stufe V.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/699A20BB8027843FF456FB37E3739776A52A4C83.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Leichter Hauptmann",
+      "trophyDetail": "Spielen Sie 100 Gefechte mit leichten Panzern. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/9FB2A03B29E8543CA83D7D82BA9642380FD10336.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mittlerer Hauptmann",
+      "trophyDetail": "Spielen Sie 100 Gefechte mit mittleren Panzern. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/ECBA419C8577C54935097DD784FF61F5C96C0EA6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schwerer Hauptmann",
+      "trophyDetail": "Spielen Sie 100 Gefechte mit schwerern Panzern. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/CFFD263645FFC6E41455DFE3BC2F886451D9C682.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jagdpanzer-Hauptmann",
+      "trophyDetail": "Spielen Sie 100 Gefechte mit Jagdpanzern. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/CE5E2F0F6D5DC17D9CEE20370C409C1E8DA3B221.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Artillerie-Hauptmann",
+      "trophyDetail": "Spielen Sie 100 Gefechte mit Artillerien. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/1424A346FEE288C6246754D7D30BA1C69E7B60CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Qualifizierter Kommandant",
+      "trophyDetail": "Verdienen Sie den zweiten Fertigkeitenplatz eines Kommandanten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/AFDFF26B2057D3F0CEE7035A9A9CA95F42A8CF28.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Befehlskette",
+      "trophyDetail": "Verdienen Sie mit allen Ihren Kommandanten insgesamt 240 000 Kommandanten-EP.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/2FB34D0C8E490E4EBA4DBEE8FA3FF526087A639A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Saisonspieler",
+      "trophyDetail": "Schließen Sie 8 Saison-Operationen ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/82FC2516392223F4649DADE6736C93017D86D26A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Der Herausforderung gewachsen",
+      "trophyDetail": "Gehören Sie in 4 Partien dem Siegerteam an.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/0BF1D25C649C47D3CDA71597561B5A1BA299FF28.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Für Ihre Majestät",
+      "trophyDetail": "Zerstören Sie mit einem britischen Panzer 4 gegnerische Panzer in einer Partie. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/1FE08AEEC0F0E9FBD131EFCDFA5E2ECFF9910436.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schläger",
+      "trophyDetail": "Verursachen Sie den meisten Schaden in einem Teamzerstörungsspiel und überleben Sie. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/DAB0FC6559E49ED1D2374B3462D04F71AB3F5125.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Führ mich zum Schotter",
+      "trophyDetail": "Verdienen Sie in einer Partie mindestens 100 000 Silber (ohne Ops) und überleben Sie.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/585FE207E46A8F66EE8485823D78FAA57E756B3B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hervorragende Dienste",
+      "trophyDetail": "Verdienen Sie den fünften Fertigkeitenplatz eines Kommandanten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/A4CD34B9C8407CD74D1325BAB15EF106497639E3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Veteran am Steuer",
+      "trophyDetail": "Mit einem Elite-Kommandanten 3 feindliche Panzer in einer Partie zerstören und überleben. Nur MP.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/8C7C491A14374FBB4AF08FBF8457293A66F1D88A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nicht in MEINEM Haus!",
+      "trophyDetail": "Zerstören Sie 2 gegnerische Panzer bei der Eroberung einer verbündeten Basis. Nur Mehrspieler",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/E4287243E0EB54DDFF1C8F644E8B81474556BC20.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In meinem Visier",
+      "trophyDetail": "Zerstören Sie einen nicht entdeckten (unsichtbaren) Panzer. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/6F678BED4A378ABDAB531E77505FD8D583F70C4E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ein Gott unter Menschen",
+      "trophyDetail": "Überleben Sie als letztes Mitglied Ihres Teams länger als eine Minute, während Sie entdeckt sind. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/435D8442D1F99117FA993F06215FEF53F0FE54FC.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kleider machen Leute",
+      "trophyDetail": "Rüsten Sie Tarnungen für jede Umgebung aus. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/5C4B0BFC753F5CB20AA472F21936E1ABE5A862D7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mit Ansage",
+      "trophyDetail": "Fordern Sie Feuer auf ein Ziel an und lassen Sie es innerhalb von 30 Sekunden von einem Verbündeten zerstören. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/98BC5F8FBB64137B17F89F0C274E77503F461D35.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kriegsvorbereitung",
+      "trophyDetail": "Spielen Sie ein Gefecht mit 3 Zubehörtypen ausgerüstet. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/05AE1223F6840E01C5FC1152CBA935ED51064A05.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bester Spieler",
+      "trophyDetail": "Erringen Sie die meisten EP Ihres Teams und überleben Sie. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/25390D5A3C40D437296B3254BADD1FE2323AC858.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Verlass dich auf mich",
+      "trophyDetail": "Gewinnen und überleben Sie ein Gefecht zusammen mit einem oder mehreren Zugkameraden. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/D2DB5F55BFE5802F319B4752B3F2C9755EE3D02D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Freunde und Feinde",
+      "trophyDetail": "Zerstören Sie in einem Zug einen gegnerischen Panzer, der sich in einem Zug befindet. Nur Mehrspieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/3C49A7135FEA6AFC9B6CD0C6990E99EEEE4D8994.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Weltkrieg",
+      "trophyDetail": "Zerstören Sie 1000 Panzer im Mehrspielermodus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/1E374A5FE58426C9BD3631466FD42BDF1464BC73.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vive la France",
+      "trophyDetail": "Zerstören Sie mit einem französischen Panzer 4 gegnerische Panzer in einem Mehrspielergefecht.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/B4C7B8DCEE94194D00563334E6B9AECF6021AC80.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Erste Klasse",
+      "trophyDetail": "Erforschen Sie von jeder Klasse ein Stufe-X-Fahrzeug.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/D913B4AD9CC0EBE4C41B3F5B07898FC3B87990EF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Augen auf",
+      "trophyDetail": "Verdienen Sie mindestens 15 Aufklärungsunterstützer-Bänder in einem Mehrspielergefecht.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/564A34F25879BC6AC4F989158F9A76A56191C89E.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Die Liga der außergewöhnlichen Gentlemen",
+      "trophyDetail": "Spielen Sie fünf Gewertete Gefechte.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/324409F7C0570BD58B9E9397096765FE8BAA43DF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zehn mal Zehn",
+      "trophyDetail": "Gewinnen und überleben Sie zehn Gefechte mit einem Stufe-X-Fahrzeug.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/350643E5DC30B43CF7F177A972D0064E79C41DFF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beginn der Reise",
+      "trophyDetail": "Schließen Sie ein Kapitel einer Geschichte erfolgreich ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/BF28B2298F55DEEB75271099839DEE4B6C04A386.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Geschichten über Ketten",
+      "trophyDetail": "Schließen Sie alle Kapitel einer Geschichte mit verschiedenen Panzern ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/2BF06EEF64779169CE7F24F7B2377E3B79FA7AA2.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Geschichtenerzähler",
+      "trophyDetail": "Schließen Sie alle Kapitel einer Geschichte erfolgreich ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/8A84F94C2E81E2792FDAA5C8627F8FCC56037AB1.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Meister der Geschichten",
+      "trophyDetail": "Schließen Sie alle Kapitel der vier Geschichten erfolgreich ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/B6D5DF6F19AC3FAC9DC11AA2FC2E7D30B1A26121.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gemeinsam sind wir stark",
+      "trophyDetail": "Schließen Sie ein Kapitel einer Geschichte zusammen mit einem anderen Spieler ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/891D497F5086E380C50F7CA808E59AC76FBA7AA5.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stargast!",
+      "trophyDetail": "Schließen Sie ein Kapitel einer Geschichte mit einem anderen Stufe-X-Panzer ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/16AE6EE21738CDB6D760A24D5810C76FEA55B63C.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Der Scheck ist unterwegs",
+      "trophyDetail": "Schließen Sie den ersten Abschnitt eines Söldnervertrags ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/42581EC0071633E7F1E949158F43C4B96A69E8AD.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Auftragskiller",
+      "trophyDetail": "Schließen Sie einen Söldnervertrag ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/1DDA28245FE89BAAA39CA24D34B4B43E33CCDA0F.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Harte Hunde",
+      "trophyDetail": "Gewinnen Sie 5 Mehrspielergefechte in einem Zug, der nur aus Söldnerpanzern besteht.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/92894D261AE5953F2798B543865188518C3C82AE.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Zorn des Söldners",
+      "trophyDetail": "Gewinnen Sie 100 Mehrspielergefechte in Söldnerpanzern.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/49F2829C3372E2F27D43842C72593191C9C44AAB.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Söldnermeisterschaft",
+      "trophyDetail": "Verdienen Sie ein Überlegenheitsabzeichen Klasse I oder höher in einem Söldnerpanzer.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/1F01241524A1188AADFF2C05D985F314468EDF85.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Einen Ruf aufbauen",
+      "trophyDetail": "Verdienen Sie Erfolgsmarkierungen mit einem Söldnerpanzer ab Stufe V.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/0898AA19504181D83FBBB9C5E39CB4495C49505D.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Berufskiller",
+      "trophyDetail": "Zerstören Sie mit einem Söldnerpanzer 50 Gegner in Mehrspielergefechten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/4B2B186050BC6BCD45724131C3388F06EC3A3D9E.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zahltag",
+      "trophyDetail": "Schließen Sie die Kriegsgeschichte „Der Diebstahl“ erfolgreich ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/42B6BF5A905E7C465B48B6460E890BF8AF9B9DCA.PNG",
+      "trophyGroupId": "005"
+    }
+  ],
+  "totalItemCount": 66
+}

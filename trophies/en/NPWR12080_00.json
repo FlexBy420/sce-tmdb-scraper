@@ -1,0 +1,528 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR12080_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "The Longest Five Minutes",
+  "trophyTitleDetail": "This is \"The Longest Five Minutes\" trophy set.",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/4B9D45DC40BCE6F7E4F695A1DBFCB8C83C9BF49F.PNG",
+  "trophyTitlePlatform": "PSVITA",
+  "definedTrophies": {
+    "bronze": 50,
+    "silver": 2,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "The Longest Five Minutes",
+      "trophyGroupDetail": "This is \"The Longest Five Minutes\" trophy set.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/4B9D45DC40BCE6F7E4F695A1DBFCB8C83C9BF49F.PNG",
+      "definedTrophies": {
+        "bronze": 50,
+        "silver": 2,
+        "gold": 2,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Many Memories",
+      "trophyDetail": "Obtain all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/2FA7213D295AD1F16E37982E42069A6ABD1EAB16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Happily Ever After",
+      "trophyDetail": "Watch Haru live/Fuzz live Ending",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/BCC8EE3BF51F76DCC5838AC3D1C0710E3B6503BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Goddess's Hero",
+      "trophyDetail": "Watch Haru die/Fuzz live Ending",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/1022B922F33788314A4C5292645E12BE8B37A454.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "4 minutes 44 seconds",
+      "trophyDetail": "Watch Haru live/Fuzz die Ending",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/BB4A73418FAEE0F16C6DC0F6BB6CEE5C98C6BCB8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Album Complete",
+      "trophyDetail": "Complete all memories",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/03BB63718DBD73254706D6A987207823A73BB880.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Magic Scholar",
+      "trophyDetail": "RPG Lv. 5  Greet Chloe before departing.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/7FA45E313349AE8843D0E7446E8AA490B4F35361.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Item Store Boy",
+      "trophyDetail": "RPG Lv. 5  Greet Yanagi before departing.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/E2D06E09962B0C69D7322EF260B33B16BBC4E0E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Cowardly Ninja",
+      "trophyDetail": "RPG Lv. 5  Greet Kogure before departing.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/273A3673A1F49709F42F14545E135E0DCAEB488B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My First Adventure",
+      "trophyDetail": "RPG Lv. 7  Travel through the moss-covered cave.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/AF9E24992D0E6014A02AB5310E6F777CFBAAF7AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Troublesome Spear",
+      "trophyDetail": "RPG Lv. 7  Resolve the soldiers' argument.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/16CDE56339F40CD24D3A891718D2DF44C7077DC8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forgotten Sweets",
+      "trophyDetail": "RPG Lv. 7  Deliver something for the forgetful maid.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/CF3A47C3FAF5F9F41FFD013972006EA51C055B0C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cross the Sea",
+      "trophyDetail": "RPG Lv. 13  Cross the sea to reach Gastonbury.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/4E28967B1874604C2C4B0968FE4D30BB49365192.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deliveries Are Hard",
+      "trophyDetail": "RPG Lv. 13  Deliver lunch to the sailors at the port.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/ECBB85E3A0C04A31F2642C5AE0F0943E7A021FB1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rich Man's Hobby",
+      "trophyDetail": "RPG Lv. 13  Listen to the rich man's request.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/ED604C71AD25AB6D6DE427D8AB7B98FF3DDCA799.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "So Hot!",
+      "trophyDetail": "RPG Lv. 20  Go all the way through the Gates of Hell.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/10FAA0E538C7F4E86B6395E0BBBD700E8D84B19E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Love Drills",
+      "trophyDetail": "RPG Lv. 20  Get the worker a better drill.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/9A4A0FE36B2E71C6D6B0704B4CDAFDE2E65044D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All The Small Things",
+      "trophyDetail": "RPG Lv. 20  Look for the bunny girl's earring.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/EFB9AE668339C0537A54A15EC00350D9795F3208.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What A View",
+      "trophyDetail": "RPG Lv. 26　Handle the problem at Galactica Tower.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/1703081B8E2CC9A011329CAB86DEEA320944AD15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pro Shot",
+      "trophyDetail": "RPG Lv. 26　Obtain a high score at Naraca's Inn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/6D89B4B9BC8DAC37A51E21F74AC9A37B85C03425.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Birthday Suit",
+      "trophyDetail": "RPG Lv. 26　Help the man in the dressing room.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/2799A9E3AB6B3EE0187CCF366E2129E4F604C714.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "End the Quest",
+      "trophyDetail": "RPG Lv. 28　Arrive at Gastonbury.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/40B504545C0E04B5AB70E99793F9F362A1933DF3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gambling Addiction",
+      "trophyDetail": "RPG Lv. 28　Get five 7s on the slot machine.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/DC79E66B37A8FFE6968C51BC2173AC46C8C6605E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Courageous Lost Boy",
+      "trophyDetail": "RPG Lv. 28　Reunite the lost boy and his mother.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/DDE68600AD65D60F78DE912EC7B9D70D16D4EF02.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Whole Story",
+      "trophyDetail": "RPG Lv. 30　Report to the King.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/6E1F3CA030B26EDC72C5CC144728F956022E47E9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Escape Artist",
+      "trophyDetail": "RPG Lv. 34　Escape the prison.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/7229C20A8D4A67680F3AD6649EDE8174BABAC850.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Crash",
+      "trophyDetail": "RPG Lv. 34　Destroy all of the statues.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/0D0561544BD20DEF633CA272289801E1FCF348F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stardust",
+      "trophyDetail": "RPG Lv. 37　Leave Stardust Island.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/8F4DC8DFB3435E20848F286032A15694D4F7BE0E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Supportive Heart",
+      "trophyDetail": "RPG Lv. 37　Give the amulet to the dirty-looking man.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/C5F7AB612897D8D830169D4E3700FEC0BF8465BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Over the Rainbow",
+      "trophyDetail": "RPG Lv. 39　Cross the bridge.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/F8274635C11BB0F51667DEE156EA82082A1BAA74.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "View from the Top",
+      "trophyDetail": "RPG Lv. 43　Reach the summit of the mountain.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/F84ADE4166B232B2586FE9AB11960E94C3024C27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Modest Old Tale",
+      "trophyDetail": "RPG Lv. 43　Find the woman living on Mount Kuuretsu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/54FB3BDDB8197BEE3EE0CD8151F826E3CDA3201B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fan Service!",
+      "trophyDetail": "RPG Lv. 43  Give Agliana's autograph to the soldier.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/6B8DCECC3604AA5C8A60E84F7F26E40A7A019470.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Life on Wavering Water",
+      "trophyDetail": "RPG Lv. 47　Arrive at Tenmagahara.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/CA06730B71E8F7BAE618B1D34FB83AA453632B74.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Love Therapist",
+      "trophyDetail": "RPG Lv. 47　Listen to the boy's love troubles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/0EA3D1ED340A88CB5CDD15291E64FC77A8BCC3E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Heavenly Sanctuary",
+      "trophyDetail": "RPG Lv. 52　Arrive at the Goddess's Sanctuary.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/7C38A443C761CE3D91EDD649BAA83CEC6D5DFFDE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Light Pierces Dark",
+      "trophyDetail": "RPG Lv. 68　Pass through the Fog-infested corridor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/A91CA1A8CF99F422EDF9E5D071A569572F995686.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Entrusted to You",
+      "trophyDetail": "RPG Lv. 62　Grant Chloe's grandmother her final wish.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/AA050B715E048BEB436615320AF0F81A1544E4B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kojiro, Grounded",
+      "trophyDetail": "RPG Lv. 62　Help the fisherman with his problem.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/FA2C522956CFAA7097661F36BB4E33765DD93331.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quiz Master",
+      "trophyDetail": "RPG Lv. 62　Complete step one of Fancy Man's quiz.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/854BB4AF622F88E2E3955DBE8F0A56213AD6477B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Scarlet Medicine",
+      "trophyDetail": "RPG Lv. 64　Obtain Scarlet Shells from the beach.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/7F5C838308A5D3534154A4F3A05F2DF6890C0A48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zenigata",
+      "trophyDetail": "RPG Lv. 64　Capture the escaped prisoner.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/4075127ABAD3EA3F9BCEC2666DBD4F63CB9C2B8A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quiz King",
+      "trophyDetail": "RPG Lv. 64　Complete step two of Fancy Man's quiz.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/795466E9B2A12090A0F31ACC7A0321A7F20245EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dark Investigators",
+      "trophyDetail": "RPG Lv. 66　Investigate the mysterious tower.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/2D9D080879365F383161773705AD6603C6EDEFEA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unknown King",
+      "trophyDetail": "RPG Lv. 66　Obey the \"King\"'s orders.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/C3A3C4B6F7BD3B1142D33680ED595D033CD2B076.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quiz God",
+      "trophyDetail": "RPG Lv. 66　Complete step three of Fancy Man's quiz.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/CDB1B210D437256945F7655BC8DCCD958FBC1430.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Daydream Believer",
+      "trophyDetail": "RPG Lv. 57　Remember all that happened at the park.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/8792944A291E0A43AF425330245284C9E355FDD6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quick Reflexes",
+      "trophyDetail": "RPG Lv. 57　Get a high score at the attraction.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/B81DB64A1C85CA8C6820B805B8A5677D4E775867.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Acceptance Letter",
+      "trophyDetail": "RPG Lv. 4　Pass the Hero Selection Exam.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/89AEA42A543631659AA6D429D76855FC7AC52905.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Villagers' Wound",
+      "trophyDetail": "RPG Lv. 3　Remember what happened five years ago.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/D9271B17AA85B79C7E948E03192F74D60640BB85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "I'll Be Back",
+      "trophyDetail": "RPG Lv. 59　Help Flash stand back up.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/C80383532CB6261CCA5A44108C1F879EF5B22A1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voice of Reason",
+      "trophyDetail": "RPG Lv. 23　Don't peek into the women's bath.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/A267487D5E0177DBD3248138DE48FEB891AF5CA6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wash Yourself",
+      "trophyDetail": "RPG Lv. 23  Regent learns an important lesson.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/4DF59493FDEAF17DE01C20E85423D71FFB30A06D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ripped Page",
+      "trophyDetail": "RPG Lv. 29　Find Samir Esope's diary.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/D14963CFF5388E52A335122E35F56F49A7131F85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legendary Angel",
+      "trophyDetail": "RPG Lv. 29　Go shopping with Clover.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/91C183E14185858084630D1090AEB2C3A722B9B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rich Man, Poor Man",
+      "trophyDetail": "RPG Lv. 29　Find a place to stay for the night.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/F13391CC61322D852899C4EB7E265BF1035FBEC8.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 55
+}

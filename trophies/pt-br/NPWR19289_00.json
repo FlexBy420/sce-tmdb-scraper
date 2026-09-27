@@ -1,0 +1,306 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR19289_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "SABRE",
+  "trophyTitleDetail": "Conjunto de troféus de SABRE.",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/FBC90C1AD5A621E8DB94998607265A507A1F6776.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 10,
+    "silver": 12,
+    "gold": 6,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "SABRE",
+      "trophyGroupDetail": "Conjunto de troféus de SABRE.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/FBC90C1AD5A621E8DB94998607265A507A1F6776.PNG",
+      "definedTrophies": {
+        "bronze": 9,
+        "silver": 11,
+        "gold": 6,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Atualização Cross-play",
+      "trophyGroupDetail": "Habilita o Cross-play entre o sistema PlayStation®4 e PlayStation®VR e outras melhorias na jogabilidade.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/57C4F7ABA98AF24C4CEA7F02E6AE39E63EBDDD54.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Conhecimento é poder",
+      "trophyDetail": "Obtenha todos os troféus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/5D6C6CEE6ADAE3217E774A72BD6FCFB44B749459.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lutador e caçador da linha de frente",
+      "trophyDetail": "Conclua 5 partidas com Gatuno.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/5D85C639413E1A1EDD45C603160F2599538B86AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Interceptador furtivo com alta mobilidade",
+      "trophyDetail": "Conclua 5 partidas com Fantasma.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/2CEA5C65BA16E8C2E070147C3D208F410514DD80.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Destruidor poderoso e blindado",
+      "trophyDetail": "Conclua 5 partidas com Trovoada.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/850ED15A3AD76BB83DB5839528A7BB530DD94B41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Todos por um",
+      "trophyDetail": "Conclua 5 partidas de Cada um por si.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/9F90885356D3F07248D77DB7459E2F98A6811D93.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Um por todos",
+      "trophyDetail": "Conclua 100 partidas de Cada um por si.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/1E1B205694F1200E40FEE3AFAAC5BB8A3DFA718A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Superpredador",
+      "trophyDetail": "Vença 100 partidas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/2282A594734DC4781E1ACCB674809A21DDA5A744.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Catador",
+      "trophyDetail": "Destrua 50 SABRES.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/9450C3337F811E0EEF87FD7163BBD627F30AA128.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Caçador",
+      "trophyDetail": "Destrua 100 SABRES.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/8F099AB75DF690FAD2B0A30974C3615EEDF22A14.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Matador",
+      "trophyDetail": "Destrua 300 SABRES.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/B9CB1F5A3BB04967021D707ED46307D30BE2CD5E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Especialista em arma de plasma",
+      "trophyDetail": "Destrua 100 SABRE com armas de plasma.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/ACEDEAC5C3E8450B271D12F2BFC3CE10327F9CB3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Especialista em canhão de plasma",
+      "trophyDetail": "Destrua 100 SABRES com canhões de plasma.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/A77A459822B8D73B5643857C3A03BB210CC399E7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Especialista em lança-mísseis",
+      "trophyDetail": "Destrua 100 SABRES com lança-mísseis.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/BA7B2F33A6CC98C3D038E125505D67082931F386.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Especialista em canhão eletromagnético",
+      "trophyDetail": "Destrua 100 SABRES com canhões eletromagnéticos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/6F6B22295C0C0E6E1704191B2267266AEA3FC01B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ataque aéreo",
+      "trophyDetail": "Destrua 5 SABRES enquanto estiver no ar.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/9F82620C76EAFBD970401EEB13B5C50660E259C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Na mosca",
+      "trophyDetail": "Destrua 100 alvos com Aríete.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/88C04A94CCFC9CC66252964485589B5520884782.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Livre de encargos",
+      "trophyDetail": "Destrua o Trovoada quando ele tem o Aríete ativo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/FBBF0C3BDA41B3277E50FFECB7FDEA0D7EF367CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hum, o que será?",
+      "trophyDetail": "Abra 5 caixas de arma.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/817C9CBD3AAD50722EFADB29308967F279E9F49E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fora da caixa",
+      "trophyDetail": "Abra 50 caixas de arma.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/93E3F9B675E5B5162BDE09FF215CD91D7812FB6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Caixoteiro",
+      "trophyDetail": "Abra 100 caixas de arma.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/CB6D13FFF07651D137E4CF439E1EE9758D6E7066.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marsupial",
+      "trophyDetail": "Compre 4 espaços de inventário.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/4CE0856506BAA89FA985A4AB7EE07B5AC1D23466.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Burro de carga",
+      "trophyDetail": "Compre 12 espaços de inventário.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/2D37105B3646EA66A00C9DCDE98308FD93E626F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "É melhor usar",
+      "trophyDetail": "Desmonte 100 armas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/DB6201BA53482858C484034C80A267DCD5A3CCB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Agonizante",
+      "trophyDetail": "Desmonte 1 arma lendária.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/EB2FBEB466C6B4AF5CD242033558D1AC39C7F4F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arco-íris",
+      "trophyDetail": "Compre 3 cores.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/1A0F61B08DDD3D2553BAC6DB357BF8D225FD5214.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Caleidoscópio",
+      "trophyDetail": "Compre 50 cores.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/C43C3547C21093CD61EA87B557C985CC59BD71F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Dinheiro compra felicidade",
+      "trophyDetail": "Gaste 1.000.000 créditos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/424A02896F364A00528801E6542C803199E0EAEB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coletor",
+      "trophyDetail": "Acumule 33.300 créditos em coletas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/35504449830A9833A92AFD74E45572EE165363CE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Saqueador",
+      "trophyDetail": "Acumule 77.700 créditos em coletas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19289_00_0026884B849C15BC4F7A9A3789284DB6CF626078FA/FAB6E919BA704825A3D5ADD7E2CF8E10D42F8F12.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 29
+}

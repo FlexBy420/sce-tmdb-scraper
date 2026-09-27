@@ -1,0 +1,87 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR20825_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Sniper",
+  "trophyTitleDetail": "Sniper Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20825_00_00F18F88F87237CD7F8E7F497AA3A6E9069A165883/A0027941CEDE709658DB0B89F6059341B2325845.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 1,
+    "silver": 3,
+    "gold": 2,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Sniper",
+      "trophyGroupDetail": "Sniper Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20825_00_00F18F88F87237CD7F8E7F497AA3A6E9069A165883/A0027941CEDE709658DB0B89F6059341B2325845.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 3,
+        "gold": 2,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Assassin",
+      "trophyDetail": "Kill one enemy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20825_00_00F18F88F87237CD7F8E7F497AA3A6E9069A165883/96262AB878A15403ACD74195569FD9F2B3A01D00.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Die",
+      "trophyDetail": "Die",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20825_00_00F18F88F87237CD7F8E7F497AA3A6E9069A165883/2460ED34CC1DE3AF21474380524807A82B39BF68.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Times Out",
+      "trophyDetail": "Run out of time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20825_00_00F18F88F87237CD7F8E7F497AA3A6E9069A165883/1A047EE41AC0ECBB6974F97D8201EBB0371BDBEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "War zone",
+      "trophyDetail": "Complete first wave",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20825_00_00F18F88F87237CD7F8E7F497AA3A6E9069A165883/694EE548139A74412ECB05A33544744FD805F09F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Ultimate Assassin",
+      "trophyDetail": "Kill 10 Enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20825_00_00F18F88F87237CD7F8E7F497AA3A6E9069A165883/1892127761280149F26B798004BD4DAA0C56C329.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Ultimate war zone",
+      "trophyDetail": "Complete wave five",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20825_00_00F18F88F87237CD7F8E7F497AA3A6E9069A165883/25A0FEBFD641C366C2DFB0AEF5E47CA1F70F4828.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 6
+}

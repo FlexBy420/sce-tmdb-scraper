@@ -1,0 +1,624 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR04151_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "Batman™: Arkham Origins",
+  "trophyTitleDetail": "Batman™: Arkham Origins",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/C2C64F155490C3F7BBCD7024A9B69A17B8487C09.PNG",
+  "trophyTitlePlatform": "PS3,PSVITA",
+  "definedTrophies": {
+    "bronze": 48,
+    "silver": 12,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Batman™: Arkham Origins",
+      "trophyGroupDetail": "Batman™: Arkham Origins",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/C2C64F155490C3F7BBCD7024A9B69A17B8487C09.PNG",
+      "definedTrophies": {
+        "bronze": 39,
+        "silver": 9,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Iniziazione",
+      "trophyGroupDetail": "Iniziazione",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/3F476286159F7DAE46961EF0059138793BB74063.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Freddo, gelido cuore",
+      "trophyGroupDetail": "Freddo, gelido cuore",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/FCB05DDEE5347937AE77E1442B4A9FA3351798B6.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platino",
+      "trophyDetail": "Congratulazioni!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/C0352B546F881F15D8824DA6FE6D8696E59D4BDF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Città di assassini",
+      "trophyDetail": "Identifica gli assassini di Maschera Nera",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/9765B0712318A62238062C32E98A303C8000DF23.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Con un occhio aperto",
+      "trophyDetail": "Sconfiggi Deathstroke",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/A80C45CA059E82D25A42C87661FB664E25CEB004.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Nessuno di importante",
+      "trophyDetail": "Chi è Joker?",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/7707668E350ECA6BBF0A69C21FD305A83643B178.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tutti indossano una maschera",
+      "trophyDetail": "Trova Maschera Nera",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/B921A789D13F2584BDBBDBBD72B01CB9607FF5AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Una sola regola",
+      "trophyDetail": "Salva una vita",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/E661864646351B8BF360539316C60979D6D9F259.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Presto o tardi",
+      "trophyDetail": "Sconfiggi Joker",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/CA67BAA7924E483C2E336C050FC9EC98EAF14406.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fine delle trasmissioni",
+      "trophyDetail": "Disattiva un'intera rete di ripetitori",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/98842CC2225AAE26A084D0464EF566B6A14A6B0C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Controspionaggio",
+      "trophyDetail": "Decifra i Dati compromettenti",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/42F92EE7012EC5C2BA31E5B5A21E538B2B236287.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enigma risolto",
+      "trophyDetail": "Raccogli tutti gli oggetti Enigma",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/12514D68FDFB717183B18E2B438961A9C3362A0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Primo trofeo dell'Enigmista",
+      "trophyDetail": "Raccogli tutti gli oggetti collezionabili",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/9AF3ADB27CBAD9FAC4A55861B4E3CE62156B31B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fuori uno, ne restano altri",
+      "trophyDetail": "Completa un fascicolo Ricercato",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/58A1204D4B44B948D99B40DEFF1509706B287E71.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Innocenti e predatori",
+      "trophyDetail": "Cattura tutti gli assassini di Maschera Nera",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/EB61BFAFA54077F8A0CFDBE5FCAC57679B1A105E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vigilante ombra",
+      "trophyDetail": "Arriva al massimo livello del percorso Cavaliere Oscuro Vigilante ombra",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/1EB2201EC9A95EEED79E10ECBA6AD376542C01CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Protettore di Gotham",
+      "trophyDetail": "Arriva al massimo livello del percorso Cavaliere Oscuro Protettore di Gotham",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/ECA6EA45126465F47ED927E7FD597AEC6370DA46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Peggior incubo",
+      "trophyDetail": "Arriva al massimo livello del percorso Cavaliere Oscuro Peggior incubo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/A099F281BCD0677ED6AD347614E9323C21C12AAE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Il miglior detective del mondo",
+      "trophyDetail": "Arriva al massimo livello del percorso Cavaliere Oscuro Il più grande detective del mondo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/BCD0423C706F45DC0A1EE9E4EBE9C648B5C18D09.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "La leggenda del Cavaliere Oscuro",
+      "trophyDetail": "Completa tutte le sfide Cavaliere Oscuro",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/EF7893EB72569B6DEE8E29D318505E432FECDACA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sulla scena del crimine",
+      "trophyDetail": "Completa tutti i fascicoli",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/44E6904AEEE469E262D6E741D67AAAC19F469A9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lotta contro il crimine",
+      "trophyDetail": "Ferma 20 crimini in corso",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/3AF38614DA7870DDED83E49F5F2CB0ADF1854ED3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grazie, vecchio amico",
+      "trophyDetail": "Ascolta tutto quello che ha da dirti Alfred",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/0F0AB689547E7F460987F2C639ED1DC8533FA6E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Personal trainer",
+      "trophyDetail": "Ottieni tutte le medaglie delle mappe Addestramento lotta",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/E654717C361F31976BF17AD0B499C542C71628A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Perfezionista",
+      "trophyDetail": "Ottieni tutte le medaglie delle mappe Personalizzate in modalità Sfida",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/154B239FE7254F9BEB0892E5A0622C4C5F8BA727.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fatevi sotto",
+      "trophyDetail": "Acquisisci tutti gli upgrade",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/924743047E20B079AEC80DAE1A625625DB373F0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cinquanta non stop",
+      "trophyDetail": "Raggiungi una combo x50 nella storia principale",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/5C486920B3055B34F07C803AE98C10AD2666C560.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Qualcuno l'ha visto?",
+      "trophyDetail": "Completa un incontro Predatore senza farti individuare nella storia principale",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/C7CC58E862630FFE691389041153E5F7F01FA4E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cosa mi ha colpito?",
+      "trophyDetail": "Elimina 100 nemici che non sapevano della tua presenza nella storia principale",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/83FE996A4FFDA86742B530FAFFB88651279385F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cavalier silente",
+      "trophyDetail": "Completa un incontro Predatore usando solo KO silenziosi nella storia principale",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/3CB7DB47FD3527D330ECFB3755F446335FE9C9A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Da un punto all'altro",
+      "trophyDetail": "Plana attraverso il ponte senza toccare terra",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/2944CE615813CD06CE42DF7D4496675E793E6CC9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Giro del mondo",
+      "trophyDetail": "Usa il Batwing per viaggiare verso tutti i punti di Spostamento rapido",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/C40C031FF84FAFDCBE9D4E969E981C39E3C5217A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dimostrazione magistrale",
+      "trophyDetail": "Sconfiggi Shiva senza subire danni",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/04835172766EA5D585F553BDDCB06F811ABB0C59.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contrappunto",
+      "trophyDetail": "Sconfiggi Deathstroke senza sbagliare nemmeno un contrattacco",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/7DA5A2363171E4E10B7E75DF392BB7BB3AC2CE9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Uno di ciascuno",
+      "trophyDetail": "Usa tutti i gadget Concentrazione non-stop in una sola combo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/25BAA23FC23149D2E9944E4389DDEFF28D1885FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maratona in volo",
+      "trophyDetail": "Plana per un totale di 26 miglia nella storia principale",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/663B495517BCA78FA24313FCAFB291DC9CC81F5A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Medagliere",
+      "trophyDetail": "Ottieni ogni medaglia: mappe in class. originali modalità Sfida (con Batman)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/81B894FE09544D75D9CE6AF201425E929DF9367A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Olimpionico",
+      "trophyDetail": "Ottieni ogni medaglia: mappe Campagna originali modalità Sfida (con Batman)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/0232FCDA2BA8106C9B29849BD944A896C4327432.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voce del popolo",
+      "trophyDetail": "Scansiona 20 simboli di Anarky nella storia principale",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/5890EB6A4C0497D8B9CE1EBD1D0C7B237DBB84D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Strade pulite",
+      "trophyDetail": "Completa tutte le missioni Ricercato",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/AA89134B12AC5371FEAFCF059EEA9EAA1B2F9781.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Qualcosa in cui credere",
+      "trophyDetail": "Completa la Nuova partita +",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/2525BF10BBAD6643565D2041316EFA517D6CDD0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Io sono la notte",
+      "trophyDetail": "Finisci la modalità Io sono la notte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/516C1E674493609990A438BD51CC6BA6F8900B25.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Predatore perfetto",
+      "trophyDetail": "Elimina 6 élite diverse in un match, con 6 metodi diversi, come Batman o Robin in multigiocatore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/6E0A0B5C14413F06286CEC523421C7C0712C2737.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Da morire dal ridere",
+      "trophyDetail": "Raggiungi il livello massimo con la fazione di Joker in multigiocatore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/0A9D792B705E1F80DE90BF3991F44966FCAFB5D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La caduta del cavaliere",
+      "trophyDetail": "Raggiungi il livello massimo con la fazione di Bane in multigiocatore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/CF9BEAE9B32D00E3819B11EFFC55EBEB20ED5084.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le stelle di Gotham",
+      "trophyDetail": "Raggiungi il livello massimo complessivo in multigiocatore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/D19E5FB705CB53A4CAC671A8F3FF70BA606FA697.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un pugno di uomini",
+      "trophyDetail": "Uccidi un eroe per riportare indietro tutta la banda con 0 rinforzi in multigiocatore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/AA4C06685CC55888B120C3BC7E68C409F11DBF6F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Storie di Gotham",
+      "trophyDetail": "Vinci un assalto di ciascuna mappa con ciascuna fazione in multigiocatore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/523C0FE53B0D34521BD263753352A61FFADB6CEC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quattro a uno",
+      "trophyDetail": "Nei panni di un eroe, sconfiggi 4 élite entro 40 secondi senza attacchi in mischia in multigiocatore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/4160D42D66238A3C601E052E10C075383C4277D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Più di un semplice criminale",
+      "trophyDetail": "Guadagna 4000 XP in un solo match come criminale élite in multigiocatore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/ABB1F232216EDBED10627C87D9CF45B04DFA4D92.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arsenale da sballo",
+      "trophyDetail": "Esegui tutti gli upgrade di un'arma in multigiocatore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/58697ADA60031F925B220E1CF815FEB907002854.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Leggenda",
+      "trophyDetail": "Guadagna un livello di prestigio in multigiocatore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/D3EC0C4C92DAD75DEAD976EB894D1C2BC8A46596.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conosci il tuo nemico",
+      "trophyDetail": "Sconfiggi almeno una volta ciascun giocatore nemico in un match multigiocatore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/EB2DF117B46671FF42EC85806B24056403C003F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La vendetta di Bruce",
+      "trophyDetail": "Ottieni tutte le 72 medaglie sulle mappe in classifica di Arkham Origins (come Bruce Wayne)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/F1F83487587A2FCE21D1E9F5DAA366DA660EBA10.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Campagna Ninja",
+      "trophyDetail": "Ottieni tutte le 108 medaglie: Campagne originali di Arkham Origins (con Batman)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/58B014E0F430849FA958002BBC3A00693FA085B0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Salvate il signorino Wayne",
+      "trophyDetail": "Non farti colpire mentre giochi come Bruce Wayne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/41C4E23513B4B8325231BADF6DCE7FD708B4816D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Neve, neve e ancora neve",
+      "trophyDetail": "Ricevi la tuta XE per le condizioni estreme",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/FE317496AD1F970C9D3B546FC2AD78E62CECC052.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Trivello ma non mollo",
+      "trophyDetail": "Assembla lo scavatore crionucleare, la criotrivella",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/7457982B5B2D6906EBD7AEBD2AC1B4086B188AFB.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Adiós, amigos",
+      "trophyDetail": "Ferma Freeze e consegna Boyle alla giustizia",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/D1789BFE07B3C89E3DBC2F459E7CDF33C5605EC8.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Caccia al simbolo rosso",
+      "trophyDetail": "Trova tutti i simboli degli attivisti in Freddo, gelido cuore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/ADA619E7AF9016A42421569C7E9EA9104DDA32A9.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rompi il ghiaccio",
+      "trophyDetail": "Libera tutti i civili congelati nel ghiaccio criogenico",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/5CB5D588BD8FDE30F8F60BF6EF04C6F273DE6FF9.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Abbasso la rivoluzione",
+      "trophyDetail": "Ferma le operazioni criminali di Anarky a Gotham sud",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/13637F2A0A78CA6F2EB5032735A98DE62A23B2E2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tre sotto zero",
+      "trophyDetail": "Congela 3 nemici con un unico attacco",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/40243E440DD60D048781469A4AD85AD674FB8188.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stalat-tattica",
+      "trophyDetail": "Esegui KO su 2 nemici con un'unica stalattite",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/8311085AD3A5DFA82550C8E22E61BED2CC573723.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Grazie al gelo",
+      "trophyDetail": "Esegui 3 KO muro di ghiaccio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/05733909F835FF1269567E5D22852EE8DFC7F12F.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 63
+}

@@ -1,0 +1,492 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR20500_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Vanquish",
+  "trophyTitleDetail": "Vanquish",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/B18F2E97C1FDA41B5CB51D86843CD4B1C75F2EEC.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 42,
+    "silver": 5,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Vanquish",
+      "trophyGroupDetail": "Vanquish",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/B18F2E97C1FDA41B5CB51D86843CD4B1C75F2EEC.PNG",
+      "definedTrophies": {
+        "bronze": 42,
+        "silver": 5,
+        "gold": 3,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "모든 트로피를 획득했다",
+      "trophyDetail": "모든 트로피를 획득했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/B57597F52A5196B51AB18C1A2DC33D652F5AE41C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "어느 날의 DARPA",
+      "trophyDetail": "튜토리얼을 모두 클리어한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/5148408955ED8771C8F1F8A5D234022128086EC6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "스페이스 노르망디",
+      "trophyDetail": "Act.1 클리어",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/0BA3ED1EEAE53254FDC38C21B5E38D4D4FCBA066.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "그랜드 힐 공략 작전",
+      "trophyDetail": "Act.2 클리어",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/8884DE29BA8443610965858A476BA96B89073D35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "테베의 왕 '크레온'",
+      "trophyDetail": "Act.3 클리어",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/26980C2552C249A3CA27BD6892C69D553A59F48E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "내 방식",
+      "trophyDetail": "Act.4 클리어",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/0037C3F90BA9B1AE1557BCDA411680A9D12D4E09.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "임무 완료",
+      "trophyDetail": "Act.5 클리어",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/CB72A27AE5D17AC3FD0DDEA1376F3F82F9D47857.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "생환자",
+      "trophyDetail": "모든 Act 클리어",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/E96C753CCA2C1704048533ECAB2CAF8CB9CD4CD0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "스페이스 노르망디(HARD)",
+      "trophyDetail": "Act.1 클리어(난이도 HARD 이상)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/B4F820FB3CAF8B779DA4BB7EC0E927A6C5E6AD6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "그랜드 힐 공략 작전(HARD)",
+      "trophyDetail": "Act.2 클리어(난이도 HARD 이상)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/32A81996147DA26DE5EB44BF03540A16D9C8FCFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "테베의 왕 '크레온'(HARD)",
+      "trophyDetail": "Act.3 클리어(난이도 HARD 이상)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/C842A779FAAE55E244D9848475FB2FA98E0CC8F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "내 방식(HARD)",
+      "trophyDetail": "Act.4 클리어(난이도 HARD 이상)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/0D5C881B0926DFFA2DDD621B058A796DD906559E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "임무 완료(HARD)",
+      "trophyDetail": "Act.5 클리어(난이도 HARD 이상)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/88E66DBA9D7F223684EE785BA4A4333EA2945FD5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "ARS 마스터",
+      "trophyDetail": "모든 Act 클리어(난이도 HARD 이상)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/C7C30D652F53CFF61F62FDE212E51029F69D43BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "무기 수집가",
+      "trophyDetail": "모든 종류의 무기를 입수한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/EF20FCB0A0C9385B45C9FF8B2A90F379AF100634.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "레벨 어퍼",
+      "trophyDetail": "무기 1종류의 레벨을 최대로 올린다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/95107C8562792ADDAE448EEBB2FD8BF26AC06E8A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "죽느냐 사느냐",
+      "trophyDetail": "직접 AR모드를 발동하고 적을 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/370A19A0AA37894807AE5B235E8CE55C3443F1E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "동공 확장",
+      "trophyDetail": "직접 AR모드를 발동하고 적을 연속해서 3대 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/6F0E9FAD56553C4F214F88F79EDE7D426463AE62.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "인파이터",
+      "trophyDetail": "근접 공격으로 적을 10대 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/09C626B6B56D2ED55D60B048834AE28EBC915290.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "근육 만세",
+      "trophyDetail": "근접 공격으로 적을 100대 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/7A80F3E16C988C0655CAEF1BAEE508590481AAC7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "위생병",
+      "trophyDetail": "아군을 치료한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/43A65221F734670136D54C88E5F3ACAA643EAB58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "흰 슈트의 천사",
+      "trophyDetail": "아군 20명을 치료한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/B93437F2D3FE611509BEC1E46AC664AA4D8D1634.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "죽고자 하면?",
+      "trophyDetail": "대미지로 인해 발생한 AR모드 지속 중에 적을 연속해서 3대 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/9ECF6986D5A9415CF9A9C231BD22FB2089DC9159.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "치킨 레이스",
+      "trophyDetail": "오버히트를 일으키지 않고 부스트 게이지를 거의 끝까지 소모한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/F212FD786122933FF8E6C900AEAF5737FA625007.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "홈런",
+      "trophyDetail": "날아오는 미사일 또는 수류탄을 파괴한다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/F35E5674F75DB433DCE5A217CB0C73FBFD3EDFF0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "홈런의 신",
+      "trophyDetail": "날아오는 미사일 또는 수류탄을 10번 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/EDA5758169623E66A837DBFCAD22967086C40510.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "잔혹 행위",
+      "trophyDetail": "로마노프의 팔과 다리를 파괴하고, 근접 공격으로 마무리한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/26599C90EC150D6CA349DC1CC6817DBB02FE53DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "주먹이 운다",
+      "trophyDetail": "근접 공격으로 로마노프를 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/1B0081CE2B24219CB920D4E7B33495956D5A0FE3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "신의 주먹",
+      "trophyDetail": "근접 공격만으로 로마노프를 연속으로 2대 파괴한다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/00B551F4D8CED30D26FD4A9F169943EB7F235EC3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "트리플 킬",
+      "trophyDetail": "수류탄 1개로 3대의 적을 처치한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/B14621E35AF8DFF7057A4A5890361243D1FFAFCC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "홀인원",
+      "trophyDetail": "수류탄으로 시케인(바리케이드로 변신하는 로봇)을 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/F7C9682C2043AD2F9B863E801BA273DF87592D9D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "감전사",
+      "trophyDetail": "EMP 방출기의 효과로 움직이지 못하는 적을 10대 쓰러트린다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/9159F22A0E344204D047EFD54661372C1CCE8BF4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "일석이조",
+      "trophyDetail": "LFE 건으로 동시에 적을 2대 이상 쓰러트린다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/A41562DC497682E02773733D09814C7C818BB743.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "어디서 배운 거야?",
+      "trophyDetail": "로켓 런처의 폭발로 한 번에 적 3대를 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/EA19EC0BC2D96E4E84951CD71AC4AE279AA96834.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "눈부신 섬광",
+      "trophyDetail": "록 온 레이저로 한 번에 적 4대를 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/8B8155399DC2F3ED89E090A0AF7CDBE524633B07.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "문답무용",
+      "trophyDetail": "아르고스의 양팔, 머리, 등을 모두 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/A159156FE16D699D2AFA63114B031A4F07CFFA4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "날로 먹었다는 말은 하지 말도록",
+      "trophyDetail": "Act.2-2에서 수송기를 탈취한 후, 적을 모두 놓치지 않는다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/151A3E0FBB3DE8B2DC58CCE0235FFADDBBBB76E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "실패는 성공의 어머니",
+      "trophyDetail": "Act.2-3에서 이족보행 상태의 아르고스를 2대 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/1786EC5BAF360AC6571407FDD9462082758FFFE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "낙천주의자 보호 운동",
+      "trophyDetail": "Act.3-2 광장에서 콜로니를 건조한 팡글로스의 조각상을 지킨다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/83D0496F9B0842885DB31876FE61BB1A07F8CC2C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "모조리 파괴할 뿐이다!",
+      "trophyDetail": "Act.3-3에서 캐넌포 2대를 파괴하고 클리어한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/22BBCA66AA3CF42C5423D8433A0E77AD2C8CE98D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "낚시꾼 아저씨",
+      "trophyDetail": "Act.3-4에서 모노레일 탑승 중에 서치 라이트 및 적에게 발견되지 않고 통과한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/612FD358493018015EDA8269C8256971C4871823.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "뱀과 같이",
+      "trophyDetail": "Act.3-4에 출현하는 부유 터렛을 모두 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/9D238706B4BE6E44F08063EFDDA5D2D6F4C96A76.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "수호자",
+      "trophyDetail": "Act.3-5에서 아군 장갑차를 모두 지켜낸다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/BB8A42216362204D784E674A20A0ED53A55D6D48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "빨리 좀 해!",
+      "trophyDetail": "Act.3-7에서 크레온 정상부에서 적 수송기를 5대 이상 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/6F422D7EB945F8A03C4289F834D249D76F047997.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "군인이었으면 넌 영창이야!",
+      "trophyDetail": "Act.4-1에서 엘리베이터 작동 명령을 무시하고\n적의 지원 병력을 모두 처치한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/5CAA1366403DF2ECB1F38D7B869B44AA37C24CCB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "버저드 버저드",
+      "trophyDetail": "Act.5-1에서 버저드가 지상에 내려오기 전에 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/603F237C3DE109D740D5AAE3D3F0DE891DEFFCC7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "그래도 피우시겠습니까?",
+      "trophyDetail": "한 미션을 진행하면서 담배에 주의가 끌린 적을 10대 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/8025D5AEE8D00E823BD1E688C622F7A0332B0344.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "정든 내 친구",
+      "trophyDetail": "담배에 주의가 끌린 적을 연속으로 2대 파괴한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/75C17BFB603FFE202D178E47A5E65E543233C69C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "모든 발견은 최선이다.",
+      "trophyDetail": "콜로니 안에 있는 모든 팡글로스 상을 발견, 사격한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/0954DEE582E46F5BD4995505D8BBF4697E0A6784.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "택티컬 챌린지 상 수상!",
+      "trophyDetail": "VANQUISH 택티컬 챌린지를 모두 클리어한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/07977F5823C3A27410F7281DA2DBC28771500425.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Legend",
+      "trophyDetail": "난이도를 불문하고 한 번도 죽지 않고 클리어한다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20500_00_0008832D5039F7D9F8EA179457C1C47B0AC6AEF318/ABEABA0A73C09C12FF36ABEEB50500BA15AF1B59.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 51
+}

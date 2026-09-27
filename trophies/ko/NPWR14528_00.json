@@ -1,0 +1,648 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR14528_00",
+  "trophySetVersion": "01.05",
+  "trophyTitleName": "Moonlighter",
+  "trophyTitleDetail": "Moonlighter 용 트로피 세트",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/06F0ABE3A6AA26BCAD8EA2AD08E5E6B07D4E0731.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 53,
+    "silver": 12,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Moonlighter",
+      "trophyGroupDetail": "Moonlighter 용 트로피 세트",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/06F0ABE3A6AA26BCAD8EA2AD08E5E6B07D4E0731.PNG",
+      "definedTrophies": {
+        "bronze": 46,
+        "silver": 9,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Between Dimensions",
+      "trophyGroupDetail": "Moonlighter epilogue",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/FDF99CCA0704F2667FA98D619B7DFF0AD57DA471.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "100%",
+      "trophyDetail": "모든 도전과제 완료",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/6E4C62512A28CEBFBFEE522A338BC5E33090AECD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "왕위 찬탈!",
+      "trophyDetail": "골렘 왕 처치",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/68AEDB1EA4F0AB9E3CBCDDFC0EA3413E07CBB5F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "가지치기!",
+      "trophyDetail": "육식성 돌연변이 식물 처치",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/CF2821B31B5CAF389C742E7320AB66F82DF59771.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "뱀을 조심해!",
+      "trophyDetail": "나자 처치",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/AF122C915438F8784321A7755764E1C1428913F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "에너지 차단!",
+      "trophyDetail": "에너지 플럭스 처치",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/043EFDFD2D82F00FECB254DDB2474BEF12E0301A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "완벽한 골렘 왕",
+      "trophyDetail": "완벽한 골렘 왕",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/442B341DA7416D2B27B53FE5D27E6E3A4BA61AA4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "완벽한 육식성 돌연변이 식물",
+      "trophyDetail": "완벽한 육식성 돌연변이 식물",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/5760859D5B412CFAC8BAFC93C637A43278B2F0F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "완벽한 나자",
+      "trophyDetail": "완벽한 나자",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/CCB52370BBE6A6C7A21A0E6EB5D2B7C3DE84AB83.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "완벽한 에너지 플럭스",
+      "trophyDetail": "완벽한 에너지 플럭스",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/405EEBA89498F3EBCC692BF648A364A6D0154CA2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "고고학자",
+      "trophyDetail": "미친 피트의 노트 모두 읽기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/29A40E1A81E3F2A6A71D842FCEBA51F4CA25BA73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "빠르게 움직여!",
+      "trophyDetail": "10시간 안에 게임 완료",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/12B2A6F02502FDE520CBA717924A81DF96441CD6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "무기의 달인",
+      "trophyDetail": "모든 무기 제작",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/A2078ED2060A488159908FCAC98C5EAE590FC214.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "균형 잡힌 전사",
+      "trophyDetail": "모든 단검 제작",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/79AF2A215D61D23818F1B4F59B6A0D2F93C10B6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "중전사",
+      "trophyDetail": "모든 대검 제작",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/C034B27B2BB1B8F7383EEA11CB5615906A901325.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "광전사",
+      "trophyDetail": "모든 장갑 제작",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/910C80E502B8ECF95DA20262DAAF70DDACED6FEE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "관통 전사",
+      "trophyDetail": "모든 창 제작",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/3E97B080A107516D3040B178B08348D6A72A0CA2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "원거리 전사",
+      "trophyDetail": "모든 활 제작",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/FA3114821203D0D7C1EC7C31BDBDC8DC9265C608.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "청소부",
+      "trophyDetail": "빗자루로 모든 보스 처치 (마지막 타격)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/3D1AE950CDE42B1B12466784536CE686AC3D5CF6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "필경사",
+      "trophyDetail": "노트 모두 완료",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/B484ADA14617628C69F5D1606797BF687DA1FB63.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "야만인!",
+      "trophyDetail": "총 10,000마리의 적 처치",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/AB7F15C1D36D7379E3EC5C918AA854528BC0E9C7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "조심스러운 상인",
+      "trophyDetail": "40번 이하의 죽음으로 게임 완료",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/A4060B69C003F50B86294464319347E14ADE91CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "영웅인가 상인인가?",
+      "trophyDetail": "게임 완료하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/DD9C9CC2CFA817B1D495A8AA3DA145D53BE688B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "절약가",
+      "trophyDetail": "5,000 골드 이상 보유",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/557232EA4AFCCA3966DEB1D94AC6EAD79A2ECDB3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "절약가+",
+      "trophyDetail": "50,000 골드 이상 보유",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/AE7089E0014E588A4AFEC140B03596DD9F6BF6F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "절약가++",
+      "trophyDetail": "100,000 골드 이상 보유",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/AFFDD501510FD782C2F3805E97F6DA95E29B4434.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "탐욕",
+      "trophyDetail": "1,000,000 골드 이상 보유",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/5AF14C89A01C79F8C61DF278BD35F8479B1B254D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "첫 투자",
+      "trophyDetail": "상점을 두 번째 버전으로 업그레이드",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/F9FFD4B633151F7737D934855084BF84B7E5FB64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "확장",
+      "trophyDetail": "상점을 세 번째 버전으로 업그레이드",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/B228226D2A4068A073D03087755BD66FF44DDAD4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "사치",
+      "trophyDetail": "상점을 네 번째 버전으로 업그레이드",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/B7E2B9C75B016F08FB9F126120A1280FB4C54A42.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "대상점",
+      "trophyDetail": "상점을 마지막 버전으로 업그레이드",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/13F2C5D10C29E3A380E5F43B915E65C1B693B92D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "리노카의 부흥!",
+      "trophyDetail": "마을 게시판에서 모든 개량품 구매",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/40D2E86F4E91C2A5BBB7F56F049F79064F8F9BB6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "탐욕에는 대가가 따르는 법",
+      "trophyDetail": "인벤토리에 아이템이 가득한 상태로 사망",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/2B93195AAB0D56BD70E0A6442E891406D97638B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "물자를 보충해야...",
+      "trophyDetail": "보스방 전에서 엠블럼 사용",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/4ACA24C16AEF401098A5362CE0C56AD48480BEA8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "낭비하는 상인",
+      "trophyDetail": "소매상에서 10회 이상 구매하세요",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/72DFB93481A485A18FE6341E1B731D58F3876365.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "골렘의 침략자",
+      "trophyDetail": "골렘 던전의 세 번째 층에 10번 도착",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/67340BE3432A00CE57C205D2B3344CC03339CBD9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "숲의 침략자",
+      "trophyDetail": "숲 던전의 세 번째 층에 10번 도착",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/E5DF601B43268910EC1CE3A4E38C1C757529BA04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "사막의 침략자",
+      "trophyDetail": "사막 던전의 세 번째 층에 10번 도착",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/F621B7B5442DA6DB224318766C7DD72B7DCB3153.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "기술의 침략자",
+      "trophyDetail": "기술 던전의 세 번째 층에 10번 도착",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/0A7450C345B1BAA57C92546F7EF52F3BA0C0DB80.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "도둑을 잡으려면 도둑이 있어야지",
+      "trophyDetail": "은행가에게서 돈 5번 획득",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/A0E998270C3FA8102584DE87231996B95FBB7B6F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "장식 감각",
+      "trophyDetail": "장식 아이템 모두 구매",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/1A2C08EEFE8CAE4D4FCC3E79FBC3A7785B458072.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "호드 모드",
+      "trophyDetail": "웨이브 방에서 웨이브 3번 막기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/04785458E77D4AAA020DD3213F07B6FB5AB4171A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "비밀은 없다",
+      "trophyDetail": "비밀방 10번 찾기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/27E43B5D6FC54CFE771EC4D1F22DBD5A0B3A56E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "슬라임 보호 서비스",
+      "trophyDetail": "마녀의 슬라임 42번 타격",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/26F322FD3C39644E7E61E61B83BCBCCAC2A45EA1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "이게 나무에서 자란다고?!?",
+      "trophyDetail": "나무에서 돈 획득",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/4BF91D6D02DC9B84858D33FCCF8460C40D2AECED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "진짜?!?",
+      "trophyDetail": "나무에서 돈 100번 획득",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/156A61648A13675DBA66B84544D4CC91774AC924.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "체력 관리 시스템",
+      "trophyDetail": "물건을 부숴 물약 20번 획득",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/B8F0350BBA08A9C4FA6985685579E6231C3137B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "골렘을 향한 분노",
+      "trophyDetail": "골렘 적 1,000마리 처치",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/CE581F03D242E523A877137C89E8CF49C4742392.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "숲을 향한 분노",
+      "trophyDetail": "숲의 적 1,000마리 처치",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/1746A536741A92DCC531E58B64A7CC3ABB2D10CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "사막을 향한 분노",
+      "trophyDetail": "사막의 적 1,000마리 처치",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/58BEDB14EA45011DB12C643BEC4ADA69D25A2C49.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "기계를 향한 분노",
+      "trophyDetail": "기술 적 1,000마리 처치",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/CBEB27FB0C2CE7D8EDCB2CDCABAF878CA30CFDC5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "구충업자",
+      "trophyDetail": "벌레 100마리 처치",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/C3C86178C2309D65FBEDB52CC59C6CFDA03A806E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "산만한 상인",
+      "trophyDetail": "손님 20명을 상점 떠나게 하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/06C6B230ED6D92D78445EEF03402678B17BBE330.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "악독한 상인",
+      "trophyDetail": "아이템 20개 조금 비싸게 판매하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/D0637238818F7269DEA29440C095C1E1EB5F78C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "착한 상인",
+      "trophyDetail": "아이템 20개 적절한 가격에 판매하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/9FE278520100E1CB99D2FD1A89370678C0D48F3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "순진한 상인",
+      "trophyDetail": "아이템 40개 정말 싸게 판매하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/8F0FBEC87DC5448243AD772F9199EB93B3AC4119.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "사기꾼",
+      "trophyDetail": "굉장히 비싸다는 평가 60번 받기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/FDEF841F1CF48FEB61F5846E3797719D8CF4F343.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "특별한 장소",
+      "trophyDetail": "미친 피트의 특별한 장소에 도착",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/493E4F5E0BF26419B8A9CAF06A9F2ECCE9BC0EC6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "차원간 대장장이",
+      "trophyDetail": "첫 번째 ICT 무기 제작",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/49FA4581F69A2AFB11EC0460FEC12DADCBC3CD37.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "탐욕의 끝",
+      "trophyDetail": "새 포탈 보스 처치",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/86290B745A3221FA4B19B7626B294FBAD04E500C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "대가족",
+      "trophyDetail": "모든 DLC 동료 얻기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/B9D79C6FCA5A2F33E3B900167430D78F1BE09538.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "2층",
+      "trophyDetail": "엘리베이터를 만들어서 2층으로 가기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/8BCA324CB85DEB60581ECFE92540CB7A9D63E9D1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "4층",
+      "trophyDetail": "엘리베이터를 만들어서 4층으로 가기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/F6392B79426E3931197D62C35186D46F9245F3F1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "6층",
+      "trophyDetail": "엘리베이터를 만들어서 6층으로 가기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/9EE70D405E3ACA2162C26CB2147B79B3ED736A72.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "8층",
+      "trophyDetail": "엘리베이터를 만들어서 8층으로 가기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/98D56F56BF4B3AA581226628118157356A7BBCF7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "자기 계발",
+      "trophyDetail": "악마 윌 처치 ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/886332CECEE75F8BEAB2A34ED3F56DF11918A60E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "이상한 무기",
+      "trophyDetail": "첫 번째 속임수 무기 얻기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/993C96B13C00F1255F5A07C901C0E7634FA3469F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "속임수 무기 수집가",
+      "trophyDetail": "차원 감시자에게서 모든 속임수 무기 얻기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/55743D5E516EF6FE624E24DA3C3B03A715AABC89.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 67
+}

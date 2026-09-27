@@ -1,0 +1,49 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR20790_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "GemsTest",
+  "trophyTitleIconUrl": "",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 0,
+    "silver": 1,
+    "gold": 1,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "GemsTest",
+      "trophyGroupIconUrl": "",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "SampleTrophy0000",
+      "trophyDetail": "This is a sample trophy for 0000.",
+      "trophyIconUrl": "http://gst.prod.dl.playstation.net/gst/prod/trophy/default/images/ICON0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sample0001",
+      "trophyDetail": "This is a sample trophy for 0001.",
+      "trophyIconUrl": "http://gst.prod.dl.playstation.net/gst/prod/trophy/default/images/ICON0.png",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 2
+}

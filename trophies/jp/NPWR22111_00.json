@@ -1,0 +1,88 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR22111_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Trophy Set",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22111_00/d4743896-2f50-4163-ad7d-a09609c2b0c9.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 0,
+    "silver": 0,
+    "gold": 5,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Trophy Set",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22111_00/d4743896-2f50-4163-ad7d-a09609c2b0c9.png",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 0,
+        "gold": 4,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "追加トロフィーグループ",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22111_00/7eea2715-9ee8-4643-ba95-9fda00a0b03e.png",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 0,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "トロフィー１",
+      "trophyDetail": "トロフィー１",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22111_00/5f6397d7-282c-4ca0-9b29-d06ea1f24ad5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "トロフィー２",
+      "trophyDetail": "トロフィー２",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22111_00/e284a1d2-5e40-4e02-8e48-69bf34e91152.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "トロフィー３",
+      "trophyDetail": "トロフィー３",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22111_00/e53e9e62-6530-40c5-854e-bd381a941750.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "トロフィー４",
+      "trophyDetail": "トロフィー４",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22111_00/0aaddc32-cda2-412c-bdd1-283953f4659b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "e2e トロフィー 5 名",
+      "trophyDetail": "e2e トロフィー説明",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22111_00/156e5b2e-1ed1-4f3b-ad60-09f598ff482a.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "1"
+    }
+  ],
+  "totalItemCount": 5
+}

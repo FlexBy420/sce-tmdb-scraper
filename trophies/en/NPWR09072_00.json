@@ -1,0 +1,465 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR09072_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "THE KING OF FIGHTERS XIV",
+  "trophyTitleDetail": "THE KING OF FIGHTERS XIV",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/533A5768A1D6A1CEB9FF55B8239D9CCDF9A5F54F.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 35,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "THE KING OF FIGHTERS XIV",
+      "trophyGroupDetail": "THE KING OF FIGHTERS XIV",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/533A5768A1D6A1CEB9FF55B8239D9CCDF9A5F54F.PNG",
+      "definedTrophies": {
+        "bronze": 35,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "THE KING OF FIGHTERS",
+      "trophyDetail": "All trophies acquired.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/43B3C53D418C2E3B7B9B2C81FC73ED7FDCDC1CA2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aspirations",
+      "trophyDetail": "[TUTORIAL] Clear all subjects.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/3CACAD41D5A40AD8287C72986D9A74A156AABC73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Birth of a Legend",
+      "trophyDetail": "[STORY] Clear for the first time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/1BDB67BF7C4A54AC1DDEE6EC9956A9A19DACD1CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Living Legend",
+      "trophyDetail": "[STORY] Clear at computer level 5 with no continues.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/516AE3B7566C85D5738A58EF36371FC84CBCA22E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Onward to the Next Legend",
+      "trophyDetail": "[STORY] Clear using all teams (including boss and mid-boss).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/4A1F62DF0FF2A5673959194CEBB145C71474AE73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hmph... An expected outcome!",
+      "trophyDetail": "[STORY] Acquire rank S or above at the victory screen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/9862F6FB902F82282FD8DB5A74DD3068F78B31E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yay! Perfect!",
+      "trophyDetail": "[STORY] Acquire rank SS at the victory screen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/BE104965C49CB5FDDFF8C6B1FBC89D4E6DFE149A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power of the Champion",
+      "trophyDetail": "[STORY] Defeat the mid-boss.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/6DA4164002D2DDB6B24EBBA9BBD8A538FA4AF06B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sealed Power",
+      "trophyDetail": "[STORY] Defeat the final boss.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/F3C3CCD74F37FACACBC76754600A486098EE1DE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect winner!",
+      "trophyDetail": "Win 10 matches with a perfect.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/3C165423385CE566DC75FE4DD411C5565CB93107.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Straight to the finish!",
+      "trophyDetail": "Win 10 matches without losing a round.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/E9104C5A8B6E9DE62BAC58226ADCBE9A03BA1A43.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wow!",
+      "trophyDetail": "Perform 50 SUPER SPECIAL MOVES finishes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/F93FB59BCD8F6768A0FB2AF22E019FB8620D9AAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That settled it!",
+      "trophyDetail": "Perform 50 MAX SUPER SPECIAL MOVES finishes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/386882AD742006DEAC2AAF5B02C221AC1447072A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One hit! One kill!",
+      "trophyDetail": "Perform 50 CLIMAX SUPER SPECIAL MOVES finishes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/48C0E17E22C884BE1B3C5FBBAC29BDDDC2035965.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Combo Attacker",
+      "trophyDetail": "Perform 50 SUPER CANCELS.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/619B21C57D696236A8E55D2A8B6FD5241FBB5C53.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Graceful Attacker",
+      "trophyDetail": "Perform 50 ADVANCED CANCELS.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/03E132B8D7E08F879BF39B15F9A466068AA36891.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ferocious Offense",
+      "trophyDetail": "Perform 50 CLIMAX CANCELS.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/DF3C81F69698032C0F7204539C005B39FEEBA70D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weep! Scream! And DIE!",
+      "trophyDetail": "Perform 50 Rush attacks.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/5A73E4ACF0095CD896A8718D846D6AFA5D9CFA8E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Student",
+      "trophyDetail": "[TRAINING] Enter training mode for the first time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/D6077B73C920A6B11C446AFD2CFC41025C8035A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Title Collector",
+      "trophyDetail": "Unlock all titles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/192CC1CC769C0886D9B61B9B00E5F5811DD891D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Item Collector",
+      "trophyDetail": "Unlock all items.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/528D1D0DE1A9DAE69FF38A313E59A3E73DA51A17.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Welcome to My Museum",
+      "trophyDetail": "Unlock all gallery items.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/0C0B17B926A89EA59E8EE73E7B516CD22C28F06B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Synchronize your watches at 16:35.",
+      "trophyDetail": "[MISSION] Clear Time Attack for the first time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/B14C147BB57CCBD16EF8A595FD83647BCA5A5A1E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mission Complete!",
+      "trophyDetail": "[MISSION] Clear Time Attack within 4:00.00.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/7EE47B3BED37C4AD3A22B92D7A37ECF2EDB158CC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "When you look up at the moon, remember this.",
+      "trophyDetail": "[MISSION] Knock 1 person out in Survival.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/C92BF37EB2CE4C9EE8FFCCE84F81FC6F3CD0858F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mukuro, Lurking in the Moonlight",
+      "trophyDetail": "[MISSION] Knock 30 or more people out in Survival.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/270C573EE947AB6EA6667CDA7E3459A3A15C39E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You're tough, aren't you!",
+      "trophyDetail": "[MISSION] Clear 1 trial.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/8024DC714A47A5680777A0C24DA8E76184B77064.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Special talent agent!!",
+      "trophyDetail": "[MISSION] Clear 100 trials.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/83A654BBE79D86AD1AF23D57EEAE6692B892998B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "International KOF League Room Creation Board Member",
+      "trophyDetail": "Create 10 rooms.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/B1827C71A28AB3D2E6FA6B52C1543C9C75706EA1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Everybody's out to get me...",
+      "trophyDetail": "[FREE MATCH] Play SINGLE VS for the first time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/570F7AF0352D4120C04BE6526D54B85936DB11D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A BEAST OF PREY",
+      "trophyDetail": "[FREE MATCH] Play SINGLE VS 50 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/86637B9F7E4A8756E0A40DA0624F95E92DE14F1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I can handle this... by myself.",
+      "trophyDetail": "[FREE MATCH] Play SINGLE VS 100 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/D43B82B8AFCA24C4DB86FC9FA695F5E272871485.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Comrade",
+      "trophyDetail": "[FREE MATCH] Play PARTY VS for the first time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/907486B0A3898FF6E76926F533EB86603EB1F434.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reliable Being",
+      "trophyDetail": "[FREE MATCH] Play PARTY VS 50 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/1E155343CAC08B9A5F30C8652A46561D204A26E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Unshakable Trust",
+      "trophyDetail": "[FREE MATCH] Play PARTY VS 100 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/633B6B547AB9E9B9836CF576A4EF49BB7CA60199.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Teamwork",
+      "trophyDetail": "[FREE MATCH] Play TEAM VS for the first time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/E02C32AA665EBE27BB45B0208A264CBFAE12D661.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Here We Go, Partner",
+      "trophyDetail": "[FREE MATCH] Play TEAM VS 50 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/837C9475C7953F4811C2BFD38BEAF2B289AA11C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Old Bond",
+      "trophyDetail": "[FREE MATCH] Play TEAM VS 100 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/00EA21CDBC5CD674D51A5993FDFC92609E432D6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sweet Taste of Victory",
+      "trophyDetail": "[RANKED MATCH] Win for the first time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/E66AF20823D06075F1B4DF1A4F90DAEC145AAE89.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hey, Mr. #1 in Japan!",
+      "trophyDetail": "[RANKED MATCH] Win 50 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/F48419B98C08A70C07D579F1EFB0F31E37774D4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "No One Is Better Than Me",
+      "trophyDetail": "[RANKED MATCH] Win 100 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/D3A66043AF6A28B05D8E89B6FB0CFD3E75553CC2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full-Fledged",
+      "trophyDetail": "Reach Rank 11 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/121EDD27821E3896B6F96FAF500348B81FDB6D45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Peak Performance",
+      "trophyDetail": "[RANKED MATCH] Win 5 consecutive matches.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/E6279E8C974820548FA2AD3A19ECBB918F65B47D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Now... no one can stop me",
+      "trophyDetail": "[RANKED MATCH] Win 10 consecutive matches.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/A0CA7409008C8CD241A715673DA604C87D7B2A4B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kyokugen Style Dojo Online Branch",
+      "trophyDetail": "[ONLINE TRAINING] Train with another player.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/C8683BE0859A34294438527420A68CCEB48C24C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hehe, fired up?",
+      "trophyDetail": "[FIGHTING LIST] Receive your first FIGHT BONUS.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/92AFA3D6E789ADE09F1CD3DDCC305691C29F53A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arch-Rivals by Blood",
+      "trophyDetail": "Finish 10 versus battles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/A6A76FAA7BFE03CAFB0E3E9B391B5C4582C92CFA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Good Match",
+      "trophyDetail": "Share your first replay.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/593557CCB2A34569E4C60C7C4F23A87BFB8AC0B8.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 48
+}

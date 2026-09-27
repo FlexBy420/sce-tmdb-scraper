@@ -1,0 +1,69 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR21353_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Star99Trophies",
+  "trophyTitleDetail": "Trophies for Star99",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21353_00_00B0353D37AA8A89ED8488A71EB46E2D813F6DECA2/DB2AB7FCEB880C9198801CC451D2459C3ADDED92.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 0,
+    "silver": 1,
+    "gold": 3,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Star99Trophies",
+      "trophyGroupDetail": "Trophies for Star99",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21353_00_00B0353D37AA8A89ED8488A71EB46E2D813F6DECA2/DB2AB7FCEB880C9198801CC451D2459C3ADDED92.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 1,
+        "gold": 3,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Beat an Opponent",
+      "trophyDetail": "You destroyed an opponent in battle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21353_00_00B0353D37AA8A89ED8488A71EB46E2D813F6DECA2/BBC4DA56190BF7832855122696ED5FD1DBA4017E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Win 1 Match",
+      "trophyDetail": "Winner: You have won a match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21353_00_00B0353D37AA8A89ED8488A71EB46E2D813F6DECA2/37E83DB29ED25183029A78C5757109DCC6BBD1FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Win 5 Matches",
+      "trophyDetail": "Veteran: You have won 5 matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21353_00_00B0353D37AA8A89ED8488A71EB46E2D813F6DECA2/5E7A320318469B0A984F382F018F8A66933CDB4C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Win 25 Matches",
+      "trophyDetail": "Master: You have won 25 matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21353_00_00B0353D37AA8A89ED8488A71EB46E2D813F6DECA2/A9C9A598DAA94BE3425DAE0DDA80C9E2DBB4CA99.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 4
+}

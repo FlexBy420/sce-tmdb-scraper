@@ -1,0 +1,657 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR20246_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Ghostwire: Tokyo",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/a1cac1d2-1919-4764-b600-0045c536b54b.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 58,
+    "silver": 6,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Ghostwire: Tokyo",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/a1cac1d2-1919-4764-b600-0045c536b54b.png",
+      "definedTrophies": {
+        "bronze": 50,
+        "silver": 4,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Сюжетное обновление «Паутинка»",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/3c8f988a-3c68-461a-8439-ff4c13a6f963.png",
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Знаток потустороннего Токио",
+      "trophyDetail": "Собрать все призы.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/9ecd759e-f8d1-4f70-9624-cdf40b090b89.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Начало",
+      "trophyDetail": "Завершить главу 1.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/b7b5ee7a-b5fd-41eb-ba61-22700079da34.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Угроза",
+      "trophyDetail": "Завершить главу 2.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/ff285273-ac64-45d5-bde1-f1c76409f4c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Связь",
+      "trophyDetail": "Завершить главу 3.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/f4eae4ab-8226-432f-b1a7-01a68585babf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Искажение",
+      "trophyDetail": "Завершить главу 4.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/160ef03b-3589-4f2f-85ec-18fca20a267c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Разрыв",
+      "trophyDetail": "Завершить главу 5.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/9e03102c-6052-472f-b8b9-361cd766390e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Узы",
+      "trophyDetail": "Завершить главу 6.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/dacf7762-1ce9-425a-9eb2-dda4ed5c7eb6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Заключение",
+      "trophyDetail": "Завершить основной сюжет.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/55b06f32-c5b5-439b-8c2d-e7092940ee7e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Помощник",
+      "trophyDetail": "Передать 25% городских духов.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/1978c76c-6f55-4f0d-a917-97618f9aca5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Спаситель",
+      "trophyDetail": "Передать 50% городских духов.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/3e22d9b3-a17c-4a37-8c28-104403f8bc18.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Освободитель",
+      "trophyDetail": "Передать не менее 100% городских духов.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/6ced82f5-3d7a-489f-a419-82c1f43996b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Герой Сибуи",
+      "trophyDetail": "Завершить основной сюжет, передав не менее 100% городских духов.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/805544d3-bbc3-4e18-91a0-c806ccbe659e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Добрая душа",
+      "trophyDetail": "Выполнить побочное задание.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/8039aa5d-b2d5-48d5-9e96-77ea41d3afc4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Исполнитель желаний",
+      "trophyDetail": "Выполнить все побочные задания (без учёта контента обновления).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/ba04cb83-a62b-431e-83b5-9abce48d221f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Путь свободен",
+      "trophyDetail": "Очистить врата тории.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/fc9210eb-0d71-4907-b3bb-7229c7d7a4cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Избавитель",
+      "trophyDetail": "Очистить все врата тории (без учёта контента обновления).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/eaf2529e-f18e-4afe-9352-fdc9d16583ee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Искатель сокровищ",
+      "trophyDetail": "Добыть реликвию.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/ccaba33c-75a1-4654-8262-a7507e21c6da.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Коллекционер",
+      "trophyDetail": "Добыть все реликвии.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/20dc45f6-6e0a-49a7-ae8c-867b2e108149.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Тело и разум",
+      "trophyDetail": "Открыть все навыки духов (без учёта контента обновления).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/fc26454a-31e0-4685-9ce4-ac5953d9adf4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "На одной волне",
+      "trophyDetail": "Повысить уровень синергии как минимум до 50.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/e1b57e98-c0eb-420e-86ce-9cc9713612f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Гид по Сибуе",
+      "trophyDetail": "Найти все интересные места.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/bee3e50a-fbc1-4be1-abfb-16208b7f2947.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Эхо прошлого",
+      "trophyDetail": "Найти аудиожурнал.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/b242f85e-c06b-4df8-89da-427bcbcd0568.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Встреча с правдой",
+      "trophyDetail": "Найти все аудиожурналы.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/380dff92-67a8-4f0d-834c-b7081b5ede2f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Дар ёкая",
+      "trophyDetail": "Получить магатаму.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/0b8baf2a-1290-4934-8b85-13ef2f72f5e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Совместные усилия",
+      "trophyDetail": "Собрать не менее 40 разных магатам.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/b387c75f-af7f-4c42-8453-8a74937936fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Верующий",
+      "trophyDetail": "Помолиться у статуи Дзидзо.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/95323476-71ae-48a9-9f7e-7ff469d91866.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Паломник",
+      "trophyDetail": "Помолиться у всех статуй Дзидзо.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/ec27d3eb-68f2-400c-8ac4-701879026c3f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Следопыт",
+      "trophyDetail": "Найти всех потерявшихся тануки.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/61322c6a-c5dc-44a6-8b75-fa578fb5223a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Гурман",
+      "trophyDetail": "Найти все виды продуктов и напитков.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/5c9e7ab1-1e38-409c-b959-5fb69c5b0ba3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Диджей",
+      "trophyDetail": "Найти все музыкальные треки (без учёта контента обновления).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/ae4727b8-aaa7-4461-b704-314aee483096.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Законодатель моды",
+      "trophyDetail": "Найти все предметы одежды (без учёта дополнительного контента и контента обновления).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/d620d1e3-c05c-481f-962a-6445bd889d0d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Талисмания",
+      "trophyDetail": "Найти все талисманы (без учёта контента обновления).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/8b4b8d08-d2bf-43e2-ad3e-946a19e90003.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Нечеловеческая сила",
+      "trophyDetail": "Найти все чётки (без учёта контента обновления).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/15dd4fe1-c2f8-46f2-a3d3-6ec7279124b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Безграничная энергия",
+      "trophyDetail": "Собрать максимальное количество катасиро.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/482e163f-d223-4790-a73a-718232753c26.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Друг животных",
+      "trophyDetail": "Погладить животное.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/29d7d9fa-289d-4810-a213-fcb55ba77cdc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Фотограф-любитель",
+      "trophyDetail": "Воспользоваться фоторежимом.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/dd5ec090-55e4-46c2-b728-61db35a611ce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Надёжная защита",
+      "trophyDetail": "Успешно защитить не менее 3 непроницаемых кубов за один бой.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/37585dab-5fb3-4c4f-9ddf-0f7a5087ba71.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Всё будет хорошо",
+      "trophyDetail": "Достать омикудзи «Даикё».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/1513a8af-4103-4a43-9687-31380b3185e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Один в поле не воин",
+      "trophyDetail": "Воссоединиться с КК после разделяющего удара.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/d3024bc0-7207-485f-b249-9015c4936743.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Перепись",
+      "trophyDetail": "Победить не менее 1 Чужака каждого вида (без учёта контента обновления).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/02c22b55-89fa-4047-b05d-4a992ff04840.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Изгнание",
+      "trophyDetail": "Победить Чужака, вытащив его ядро.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/bf87040d-fa3e-4981-bfd3-b41d8f661f41.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Выдворение",
+      "trophyDetail": "Победить 50 Чужаков, вытащив их ядра.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/3434ad7d-77d4-4dfb-aed0-e6670ba8d5a8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Оптимизация",
+      "trophyDetail": "Победить не менее 5 Чужаков одновременно, вытащив их ядра.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/917a0df5-46da-438a-887a-df6a9e533757.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Накал страстей",
+      "trophyDetail": "Победить не менее 3 Чужаков одновременно, взорвав красный эфирный кристалл.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/037b584f-b63a-4690-8b1b-16d2920d535d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мёртвая тишина",
+      "trophyDetail": "Победить 200 Чужаков, выполнив быстрое изгнание.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/91d73bc9-a91d-4536-afa7-bedf64a33649.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Не плетением единым",
+      "trophyDetail": "Победить 50 Чужаков выстрелами из лука.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/e673e518-ebd5-4cf1-bea7-81609d5197c2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Между глаз",
+      "trophyDetail": "Победить 20 Чужаков выстрелами в голову.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/66be5f17-085e-42aa-a6ef-fc4e7e704693.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Снайпер",
+      "trophyDetail": "Победить Чужака выстрелом в голову с расстояния не менее 40 метров.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/19fe4901-63c8-4b98-b564-dbf3d5aab670.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ни с места",
+      "trophyDetail": "Победить 10 Чужаков, выполнив быстрое изгнание, пока действует талисман оглушения.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/3265a52b-89f6-4573-96a4-95cd1c2923b2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Засада",
+      "trophyDetail": "Победить 3 Чужаков, выполнив быстрое изгнание за кустами, созданными талисманом зарослей.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/33bf83b6-7344-425e-87b2-1797cd038446.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сезам, откройся",
+      "trophyDetail": "Победить 10 Чужаков, применив талисман обнажения ядер и вытащив их ядра.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/365b005d-7e0f-47ba-b502-f80aba199ab6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Безупречная защита",
+      "trophyDetail": "Поставить идеальный блок 30 раз.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/f36444af-068b-4717-bc7e-902a1687f644.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "В унисон",
+      "trophyDetail": "Войти в резонанс 10 раз.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/d1f25261-20cc-47b4-b71f-b4816758a722.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Я умею летать",
+      "trophyDetail": "Планировать не менее 10 секунд после притяжения.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/154d1453-3a89-4dfb-8db2-cf41169201ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Не время экономить",
+      "trophyDetail": "Потратить в общей сложности 1 000 000 мэика.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/e5d17acd-7360-4b07-9176-cef27cc55674.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000000"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Благотворитель",
+      "trophyDetail": "Положить в общей сложности 10 000 мэика в ящики для подношений.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/0a681ddd-5313-4405-8262-7c178804f955.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Созерцание луны",
+      "trophyDetail": "Смотреть на луну не менее 30 секунд.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/df7c2968-2fe2-45a6-b338-11ac5b1ba0d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Школьные страшилки",
+      "trophyDetail": "Выполнить все новые побочные задания в школе (сюжетное обновление «Паутинка»).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/9f716d93-ac05-466b-825a-4d218c0e3654.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Призрачная фотосессия",
+      "trophyDetail": "Выполнить все новые побочные задания с проклятыми снимками (сюжетное обновление «Паутинка»).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/463df971-51f6-40a6-aa8e-75e46fd301cc.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Свобода передвижения",
+      "trophyDetail": "Очистить все новые врата тории (сюжетное обновление «Паутинка»).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/87e7e680-9ab3-420c-89ac-da98b4fd69e2.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Учиться никогда не поздно",
+      "trophyDetail": "Открыть все новые навыки духов (сюжетное обновление «Паутинка»).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/9cc8258c-3348-451d-9cab-8bbbecb55df4.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Коллекционер талисманов",
+      "trophyDetail": "Найти все новые талисманы (сюжетное обновление «Паутинка»).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/05c78f0c-b203-4d4f-9cf2-d08dcc01d4fd.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Странная компания",
+      "trophyDetail": "Победить не менее 1 нового Чужака каждого вида (сюжетное обновление «Паутинка»).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/f7045ca8-f73a-45b2-a34b-8128e195957c.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Фигуркомания",
+      "trophyDetail": "Попытать удачу в автоматах с игрушками не менее 50 раз (сюжетное обновление «Паутинка»).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/1cc39d0f-eae8-465c-ab43-db5f681a39e4.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Взгляд из бездны",
+      "trophyDetail": "Пройти режим «Паутинка» до конца (сюжетное обновление «Паутинка»).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/a4c6a85c-1123-47cb-834a-4bc568edd946.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Лучший поставщик",
+      "trophyDetail": "Выполнить все поручения нэкоматы в режиме «Паутинка» (сюжетное обновление «Паутинка»).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/7b86b3ff-0b17-4a10-9ccd-84940dc527b5.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Добро пожаловать в Сибую",
+      "trophyDetail": "Получить хотя бы одну печать СИБУЯ♡ХАТИ.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/dbb534c4-cd73-4ba6-bafa-98ed88c6c3fd.png",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 67
+}

@@ -1,0 +1,648 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR16397_00",
+  "trophySetVersion": "01.05",
+  "trophyTitleName": "Moonlighter",
+  "trophyTitleDetail": "Trofeos de Moonlighter",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/31AB1143B485892302DD7CCC8EDDBD77520F7BD0.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 53,
+    "silver": 12,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Moonlighter",
+      "trophyGroupDetail": "Trofeos de Moonlighter",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/31AB1143B485892302DD7CCC8EDDBD77520F7BD0.PNG",
+      "definedTrophies": {
+        "bronze": 46,
+        "silver": 9,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Between Dimensions",
+      "trophyGroupDetail": "Moonlighter epilogue",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/3A2CA149163E66492E2195AC7625F7BBAFDA1DFA.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "100%",
+      "trophyDetail": "Completa todos los logros",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/BCF48E625FDCE2049D9AA00717B95FCFB63BAC70.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Derroca al Rey!",
+      "trophyDetail": "Derrota al Rey Golem",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/18DFD4C528D398C0C95165F504FAEAD091179F44.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Poda la planta!",
+      "trophyDetail": "Derrota a Carnivorous Mutae",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/BF20CB5962333F546FC38C5930664EC975E968F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Decapita a la Serpiente!",
+      "trophyDetail": "Derrota a Naja",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/B9A84C5768CDB78AFBC39643E190054974C8F2E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Desenchufa la energía!",
+      "trophyDetail": "Derrota al Flujo de Energía",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/1CB4E2D30D2766F7D5C6607C54F4F39A809301DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Perfect al Rey Gólem",
+      "trophyDetail": "Perfect al Rey Gólem",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/BD53A439236CF548AA5655E5722465831244FB06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Perfect al Carnivorous Mutae",
+      "trophyDetail": "Perfect al Carnivorous Mutae",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/BB3A7F6EFDCB7DB02ADD72BA6025F63234BEB429.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Perfect a Naja",
+      "trophyDetail": "Perfect a Naja",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/7C111E565AC84059371228A629C7026688C51FBB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Perfect al Flujo de Energía",
+      "trophyDetail": "Perfect al Flujo de Energía",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/994B6A1934F146D912686D84F3A17FD620031C74.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arqueólogo",
+      "trophyDetail": "Lee todas las notas de Crazy Pete",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/AE2E5FB49CACC086DEE0D408E24592D912678BD9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "¡Allé voy!",
+      "trophyDetail": "Termina el juego en menos de 10 horas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/8DEC722AF098A39889953DAB6809338FEFB21581.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Maestro de Armas",
+      "trophyDetail": "Forja todas las Armas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/5CB2F1C1F93CA5518472703136676BFF91E63C27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guerrero Equilibrado",
+      "trophyDetail": "Forja todas las Espadas Cortas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/308AF84CB0C3BB4F491212E1FE1528A78AB9E316.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guerrero Pesado",
+      "trophyDetail": "Forja todos los Espadones",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/29BF48D9473B64FC2143F423DE60E78AE969039E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guerrero Frenético",
+      "trophyDetail": "Forja todos los Guanteletes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/6C51EA37F784BE238E6B4E825DBBBB6F5CDD283E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guerrero Lacerante",
+      "trophyDetail": "Forja todas las Lanzas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/4DC53AC9EDECDCC4E9FBA3CE4A6CA844EE5EC507.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guerrero a Distancia",
+      "trophyDetail": "Forja todos los arcos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/A58AA2A1ED2DEF88B8AD049E8ECA734FECAC7FE5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Conserje",
+      "trophyDetail": "Mata a todos los Guardianes con la escoba (Último Golpe)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/0257978FD4586ED5CEE17802ADC83667AEE59AC9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Escriba",
+      "trophyDetail": "Completa el Cuaderno de Mercader",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/92573CA6DD848F01E3C0C964742FE4FCC35F709C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Salvaje!",
+      "trophyDetail": "Mata un total de 10000 enemigos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/CFF17D6F5EB6CBE77D95F30D8C59E69A46B0A3EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mercader Prudente",
+      "trophyDetail": "Terminar el juego con menos de 40 muertes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/440C0CE3B490E9210BFEDD40B27286D674041F45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "¿Héroe o Mercader?",
+      "trophyDetail": "Termina el Juego",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/EE3F0245464EF627B52D0A8CFB94AD9F489CCCE5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ahorrador",
+      "trophyDetail": "Lleva una cantidad de dinero superior a 5000",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/F01423AAEA31FE976844A93E47AD055F942A313D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ahorrador+",
+      "trophyDetail": "Lleva una cantidad de dinero superior a 50000",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/0EB1E8E17D4F41C5F9D89B4F901DC325AA77361C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ahorrador++",
+      "trophyDetail": "Lleva una cantidad de dinero superior a 100000",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/F592D69C857526AC2CF90BED3AF26E1114A49C27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Codicioso",
+      "trophyDetail": "Lleva una cantidad de dinero superior a 1000000",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/774764082FC0A727CD3A68AF4C911E5A55427B63.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Primera Inversión",
+      "trophyDetail": "Mejora tu tienda a la segunda versión",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/3A9019BE48EDD598C6E32777B7C0112DEB430D38.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expansión",
+      "trophyDetail": "Mejora tu tienda a la tercera versión",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/C159E44B8AEBCB605D97D832FF41C5A161B0A584.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lujo",
+      "trophyDetail": "Mejora tu tienda a la cuarta versión",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/6849EDA02AF61F79C23E2E65852B5F2FF1A519C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Emporio",
+      "trophyDetail": "Mejora tu tienda a la última versión",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/845C02BE6D92D55A2FDD457D9D4E9F1CC66A234C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "¡Alcalde de Rynoka!",
+      "trophyDetail": "Compra todas las mejoras en el Tablón de la Ciudad",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/218E80C81848B963CB6025397E0FA3E72F516FA3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "La avaricia rompe el saco",
+      "trophyDetail": "Muere con la mochila llena de objetos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/E962FD012BF993BB366913573E126E44365C0DD5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Voy a por refuerzos...",
+      "trophyDetail": "Usa el Catalizador en la habitación anterior a la del Guardián",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/36D08651F911F1F2AF04ACD444AB7BB64955DC76.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mercader Derrochador",
+      "trophyDetail": "Compra más de 10 veces en Le Retalier.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/426464B16D6CF0C48C2E564E0ADC64D17B45D8BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apasionado de la Gólem",
+      "trophyDetail": "Llega al tercer piso de la Mazmorra Gólem 10 veces",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/27611DB630E883AB46F440B2ADB3AAB24C401D79.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apasionado del Bosque",
+      "trophyDetail": "Llega al tercer piso de la Mazmorra Forestal 10 veces",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/36BD21FE481F38E18429B2BE6923125CFA5D916A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apasionado del Desierto",
+      "trophyDetail": "Llega al tercer piso de la Mazmorra Desértica 10 veces",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/186B655B24555774880D19CA234CF42745AA1B73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apasionado de la Tecnología",
+      "trophyDetail": "Llega al tercer piso de la Mazmorra Tecnológica 10 veces",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/B822CA983B25201EFD7988644ECC3826CF627F69.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quien roba a un ladrón...",
+      "trophyDetail": "Gana dinero utilizando al Banquero 5 veces",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/103E4C74C035F9ACE570E835A4A569A97A9B32D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mente Decorativa",
+      "trophyDetail": "Compra todos los objetos de decoración",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/6B1DB93431082D4B9C594F1F9865CD231B160D9D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Modo Horda",
+      "trophyDetail": "Supera cuatro oleadas de enemigos en la Sala de Oleadas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/32B9F360B1DAB21E2B39F8358BAB4665BC8D5D85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sin Secretos",
+      "trophyDetail": "Encuentra salas secretas 10 veces.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/67647A7289268711C64E06255F0FD395177856AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Servicio de Protección de Limos",
+      "trophyDetail": "Golpea al Limo de la bruja 42 veces",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/88AE5F35E430DFA8FFDC56B6DF7B5F5F3D420F15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "¿¡Crece en los árboles!?",
+      "trophyDetail": "Consigue oro de un arbol por primera vez",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/EA7446B240366A888FB58B386297910410B44B03.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "¿¡En serio!?",
+      "trophyDetail": "Consige oro de un árbol 100 veces",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/DAA9FA0D2C59108B9179C8D0E2FAC8EEFE990BF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sistema Sanitario",
+      "trophyDetail": "Consigue pociones de los rompibles 20 veces",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/B7249ADB72637D89B5E7EA706D5939799014BD3F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rabia contra los Gólems",
+      "trophyDetail": "Mata 1000 enemigos de la Mazmorra Gólem",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/5A2B363DD9B2D6520109671413CEBF6F0FDB32A7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rabia contra el Bosque",
+      "trophyDetail": "Mata 1000 enemigos del Bosque",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/7E4830A3BFB5D25A46BCBC6D0FCFEE86C61F9F8B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rabia contra el Desierto",
+      "trophyDetail": "Mata 1000 enemigos de la Mazmorra Desértica",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/B645959BCCE6539C1F1F24E6A5D22D5F72634A16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rage against the Machinery",
+      "trophyDetail": "Mata 1000 enemigos de la Mazmorra Tecnológica",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/C2478E705F300C3D87F81BEFC374EA44C6BFA8EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Exterminador",
+      "trophyDetail": "Mata 100 bichos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/D2B6D7D065061ED1F9EB9A0D60495709FB81E083.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mercader Distraído",
+      "trophyDetail": "Haz que 20 visitantes abandonen tu tienda",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/955E342FE20201307650603CB2AAC37D4EB77E48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mercader Malvado",
+      "trophyDetail": "Vende 20 objetos ligeramente caros",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/7C8D8E92E7F1096ED66A9347503EAFCF5A41240E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buen Mercader",
+      "trophyDetail": "Vende 20 objetos por el precio perfecto",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/93B2CDF0450093E19DE1B7530264A904130DCE82.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mercader Inocente",
+      "trophyDetail": "Vende 40 objetos muy baratos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/E145D7B86EFA932588013509BE41A8C49F7BBDA5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Estafador",
+      "trophyDetail": "Obtén 60 valoraciones caras en tu tienda",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/A490A8020E2FF0EB105C59B0D1D8FAEF031F252E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lugar Especial",
+      "trophyDetail": "Llega al lugar especial de Pete el Loco",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/80DFC512B000FACEDBDB032AB89134B2A9DFF8D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Herrero interdimensional",
+      "trophyDetail": "Forja tu primera arma TCI",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/E3CB4825DC18EFFD7D08AFA60DBB83347C9A7070.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Se acabó la avaricia",
+      "trophyDetail": "Vence al jefe del nuevo portal",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/39D26D28416AFEB4EEEDCF92DAA4152106A59CEE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Familia numerosa",
+      "trophyDetail": "Consigue a todos los compañeros del DLC",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/857668DEE5280E085DC9B688179581E509B3061D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Segundo piso",
+      "trophyDetail": "Construye el ascensor hasta el segundo piso",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/A4A0FD5A3CBF63344DDD8F83852CF5086DD31E13.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cuarto piso",
+      "trophyDetail": "Construye el ascensor hasta el cuarto piso",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/87A4CC504620DDEA0138E6CDF4D97A1E901A487B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sexto piso",
+      "trophyDetail": "Construye el ascensor hasta el sexto piso",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/A71DF0F20BCE1B861EA0E50B95F3FDBE9F2F6E3D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Octavo piso",
+      "trophyDetail": "Construye el ascensor hasta el octavo piso",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/57075F6FD6712DA2DAAFAC51BC06682655E254ED.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mejórate",
+      "trophyDetail": "Vence al Will Malvado",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/6C647EE366CF33A268C09534366F9F88514FCCAB.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Armas raras",
+      "trophyDetail": "Consigue tu primera Arma Trucada",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/C2F7CAAF5B25C9ABFDBAA59F79FD0FFEEB4387C2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Coleccionista de armas trucadas",
+      "trophyDetail": "Consigue todas las Armas Trucadas del Vigilante Dimensional",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16397_00_00E923556A900D1B68E8D4D2630C584D7D4F2810B4/DFF4CBFE0B8F5AE68FB7F19C66F24622219C5140.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 67
+}

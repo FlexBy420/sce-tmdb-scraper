@@ -1,0 +1,405 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR05818_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "Bloodborne",
+  "trophyTitleDetail": "Bloodborne Trophy Set",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/AE3477BA91121142BEB82AB2B7E2F8BAB9B3C17A.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 24,
+    "silver": 8,
+    "gold": 7,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Bloodborne",
+      "trophyGroupDetail": "Bloodborne Trophy Set",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/AE3477BA91121142BEB82AB2B7E2F8BAB9B3C17A.PNG",
+      "definedTrophies": {
+        "bronze": 20,
+        "silver": 7,
+        "gold": 6,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Bloodborne: The Old Hunters ",
+      "trophyGroupDetail": "Bloodborne: The Old Hunters Trophy Set",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/60ED2CAA02D2036AA67ED31A564B48171DB46748.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Bloodborne",
+      "trophyDetail": "All trophies acquired. Hats off!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/B201254EA5AB07FE42D25FF799A7AF9AE8274A6C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Yharnam Sunrise",
+      "trophyDetail": "You lived through the hunt, and saw another day.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/7E858ADC4B890F980B15EC53F5D6E0FB55DD24D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Honouring Wishes",
+      "trophyDetail": "Captivated by the moon presence,\nyou pledge to watch over the hunter's dream.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/6D41C821BD25E5AD59A130F0D8D0217094557FC6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Childhood's Beginning",
+      "trophyDetail": "You became an infant Great One,\nlifting humanity into its next childhood.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/B5D967D89CEE3369C5DA1FC9F99B2BBCAFC6612E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Yharnam, Pthumerian Queen",
+      "trophyDetail": "Defeat Yharnam, Blood Queen of the Old Labyrinth.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/FF0CE1611E5E751BA1B9E89B3B85F38BA120EECE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hunter's Essence",
+      "trophyDetail": "Acquire all hunter weapons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/CC5C66E4C1F89BC3DB8C4E5C3A8567472F7D20EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hunter's Craft",
+      "trophyDetail": "Acquire all special hunter tools.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/F34AA9C1EFAA94609521282F706BC57F6B0F0E76.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Weapon Master",
+      "trophyDetail": "Acquire a weapon of the highest level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/93C655661F8C3D787DD2BFBA411F1E307D22E8F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Blood Gem Master",
+      "trophyDetail": "Acquire an extremely precious blood gem.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/CF65FBCC347B74E297D695C36D2F81909766EC38.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rune Master",
+      "trophyDetail": "Acquire an extremely precious Caryll Rune.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/56728727C1C6DC6DB4DACA8DE7349CE4CE667D15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Cainhurst",
+      "trophyDetail": "Gain entry to Cainhurst, the lost and ruined castle.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/FDB2A3390151EBC448175FF43403BB17D961A9E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Choir",
+      "trophyDetail": "Gain entry to the realm of the Choir,\nthe high stratum of the Healing Church.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/5A3BBEC577A810048383227ED34B83F0B64055DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Source of the Dream",
+      "trophyDetail": "Discover the abandoned old workshop,\nthe source of the hunter's dream.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/46B3D125FE320C0E23B919EE15EF66994197F80E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Nightmare Lecture Building",
+      "trophyDetail": "Gain entry into the Byrgenwerth lecture building,\nthat drifts within the realm of nightmare.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/E55D566082BD14B50B1E18121C5A0599C3A612A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Father Gascoigne",
+      "trophyDetail": "Defeat the beast that once was Father Gascoigne.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/844044D8F98C4D2580650D005A8D5EFA10F40417.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Vicar Amelia",
+      "trophyDetail": "Defeat the beast that once was Vicar Amelia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/7A7C4F08E7D1E0E8D40BF120F519A70BF6658798.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Shadow of Yharnam",
+      "trophyDetail": "Defeat the Shadow of Yharnam.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/DB4781DD9DB128552872708F7B070FD2AB0C80C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rom, the Vacuous Spider",
+      "trophyDetail": "Defeat Great One: Rom, the Vacuous Spider.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/FECCD3C7F98D77CB33D4332457B3A5E5C9611466.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The One Reborn",
+      "trophyDetail": "Defeat the One Reborn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/2C76EBE9D00246720835C21E87BD88454689F484.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Micolash, Host of the Nightmare",
+      "trophyDetail": "Defeat Micolash, Host of the Nightmare.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/FA4956210F3873952C502B3C06EF9341667483FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mergo's Wet Nurse",
+      "trophyDetail": "Defeat Great One: Mergo's Wet Nurse.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/1C0CE60FF0EBD1A3EE45A2A94BE31C2024CFB384.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cleric Beast",
+      "trophyDetail": "Defeat Cleric Beast.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/1B133989650F40B1ED6EA34DD7D7A00B29629010.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Blood-starved Beast",
+      "trophyDetail": "Defeat Blood-starved Beast.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/2184C196EE05EFB7AB69B61F5B9590A97129DF91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Witch of Hemwick",
+      "trophyDetail": "Defeat the Witch of Hemwick.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/7E61727498A2E1EB3FF3F5EDEBBC1010E7A696C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Darkbeast Paarl",
+      "trophyDetail": "Defeat Darkbeast Paarl.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/364FE445252C70557BDCC98B8698C12AB8C535E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Amygdala",
+      "trophyDetail": "Defeat Great One: Amygdala.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/6FABD02BD8F836FA33CBE7D56EA1B891D1203729.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Martyr Logarius",
+      "trophyDetail": "Defeat Martyr Logarius.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/3740F737944C62B21F7BFD1C50133B060F646413.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Celestial Emissary",
+      "trophyDetail": "Defeat Great One: Celestial Emissary.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/311301AD9F4DA6EC49DE65D62CDAF9FB8F0FA8FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ebrietas, Daughter of the Cosmos",
+      "trophyDetail": "Defeat Great One: Ebrietas, Daughter of the Cosmos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/426A7E6023D0573AB99D7694657EB1EA7F20B368.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blood Gem Contact",
+      "trophyDetail": "Acquire a blood gem that imbues hunter weapons\nwith special strength.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/F8A95977917F971671FC4836017BBA12B6D5F3D8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rune Contact",
+      "trophyDetail": "Acquire a Caryll Rune that endows hunters with special strength.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/029B1AF5FFC310E2AE0EEF87CE8FD30E7BF0AD7F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chalice of Pthumeru",
+      "trophyDetail": "Acquire the Chalice of Pthumeru that seals the catacombs\nthat form a web deep below Yharnam.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/AAF01204F31FCBEBD6C0351944C373522A825205.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chalice of Ailing Loran",
+      "trophyDetail": "Acquire the Chalice of Ailing Loran that seals\nthe tragic land lost to the sands.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/233E8F1CADFCA21969B61D5E0B6773FB568DAF44.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chalice of Isz",
+      "trophyDetail": "Acquire the Great Chalice of Isz that seals\nthe home of the cosmic kin.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/391D7273AA0D8B2679FB5B8339BBCDB170587E29.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Old Hunter's Essence",
+      "trophyDetail": "Acquire all old hunter weapons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/0419FAD30357367E4A516403FCBDDE691F542DB6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Orphan of Kos",
+      "trophyDetail": "Defeat Great One: Orphan of Kos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/72489E8C5A9409ACE3BF71224A4710D53438A85F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ludwig, the Holy Blade",
+      "trophyDetail": "Defeat the beast that was once Ludwig, the Holy Blade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/47AC9BD0B2CF042D671438602BABA1422E865881.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lady Maria of the Astral Clocktower",
+      "trophyDetail": "Defeat Lady Maria of the Astral Clocktower.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/3816C1D8F74D3F16D4F90E888C8EDB83CB66B8DF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Living Failures",
+      "trophyDetail": "Defeat the failed attempts to become Great Ones.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/E4172A6E241F3E7C6F0F1AE6B1461131411174F0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Laurence, the First Vicar",
+      "trophyDetail": "Defeat the beast that was once Laurence, the First Vicar.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/74D8DE032F0C735CBBC8ED127A9C2EE197641F55.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 40
+}

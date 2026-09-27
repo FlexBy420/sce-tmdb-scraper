@@ -1,0 +1,519 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR10344_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Hard Reset Redux",
+  "trophyTitleDetail": "L'ensemble des trophées de Hard Reset Redux",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/A43D19E8EA960141ECD01701D98435562C7D0933.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 40,
+    "silver": 12,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Hard Reset Redux",
+      "trophyGroupDetail": "L'ensemble des trophées de Hard Reset Redux",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/A43D19E8EA960141ECD01701D98435562C7D0933.PNG",
+      "definedTrophies": {
+        "bronze": 40,
+        "silver": 12,
+        "gold": 1,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Chinese Farmer",
+      "trophyDetail": "Débloquer tous les Trophées.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/8F7360B1CC8B3149718A906529FF3721EADE7C7C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sergent",
+      "trophyDetail": "Terminer tous les niveaux Bezoar en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/46C124100910250B5A2AC4F491BC9EB58F8CA5E7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vagabond",
+      "trophyDetail": "Terminer les Terres mortes en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/2940545519FE1B0D2A0C59D08C47B302F117E950.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Résistant",
+      "trophyDetail": "Terminer tout autre niveau que le premier\\nsans mourir en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/45B23623FE579FB72922FCA40AFB5EEDF217BCC4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Recrue",
+      "trophyDetail": "Récupérer 10 barres N.A.N.O. pleines",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/3ECB64B607E062E90414C81AB0BC4B2FF2CCDE96.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bad Boy",
+      "trophyDetail": "Tuer 100 ennemis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/5622116C6349E62D13B690ACFDA398364D97E2CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vengeance",
+      "trophyDetail": "Tuer 20 ennemis en n'utilisant que les dégâts environnementaux",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/CF810AD3DA9936086E2FC47F5D8E41B18BA68B1D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vandale",
+      "trophyDetail": "Détruire 50 objets destructibles",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/0E61757B6558096FAF0FAB8AE0F05AB0287FDEF2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pyromane",
+      "trophyDetail": "Faire sauter 50 tonneaux explosifs",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/FC18679CB6FC23B98B06137541FC63533795B2FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Electrochocs",
+      "trophyDetail": "Faire sauter 30 cellules à fusion",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/7FF09370BD463EF0B1FB2A03CBD443C8047DFBDF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eclaireur",
+      "trophyDetail": "Trouver 5 secrets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/655AAE8BDA7CF7C6F9285518EE4CEBC32EEB112D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ingénieur",
+      "trophyDetail": "Acheter toutes les améliorations de l'arme CLN",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/AB14C685636A8DE43DF0AE080446B1CFEE7D8724.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Electricien",
+      "trophyDetail": "Acheter toutes les améliorations de l'arme N.R.G.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/7A9197D6280D600CED14BE06380621106A18DFD5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blindé",
+      "trophyDetail": "Acheter toutes les améliorations d'équipement",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/4C2AA020D9EB3274C814092728734F213837CE42.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Patient",
+      "trophyDetail": "Tuer un Grenadier Lourd en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/1482355A77072E8E1E78A245B791E806222B9A2F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Désinsectisation",
+      "trophyDetail": "Tuer un Scarabée Lourd en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/50E20A4C5219C2D0CFED4170D6D37E2327EFFE6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Agacé",
+      "trophyDetail": "Tuer 10 ennemis en 10 secondes en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/F2F7BE838DF01F515E42A9B9D99B44E5B2859283.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Joli tir",
+      "trophyDetail": "Tuer 5 ennemis en un coup en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/C6E08D1A4FD83866E1371CB07AD47A375A39C2FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monnaie de singe",
+      "trophyDetail": "Tuer un Gorille en 5 secondes en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/53D1214B8D1E350CE52E6C32C9A924ADC26B4EF1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fugitif",
+      "trophyDetail": "Détruire une Canonnière CLN en 5 secondes en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/251E71C253CAD3ECB0AE22D9ACA7AA7977D7B932.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Colonel",
+      "trophyDetail": "Terminer le jeu en mode Difficile ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/65E4135924641697FD8998B74BCE2873D9E7725A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explorateur",
+      "trophyDetail": "Terminer les Terres mortes en mode Difficile ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/37ABD0E730CF762BDD5604F579AE4FFCA0AD6659.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Invincible",
+      "trophyDetail": "Terminer tout autre niveau que le premier sans mourir en mode Difficile ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/72C694AEF224B29BB1CA3556C31955C2E56D844F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vétéran",
+      "trophyDetail": "Récupérer 20 barres N.A.N.O. pleines",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/629D452E123B2EB940E8B477D22706B6BD564ACE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tueur",
+      "trophyDetail": "Tuer 1000 ennemis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/4EA2BC3AF7D81068E0F81168811A2650765DCC92.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rétorsion",
+      "trophyDetail": "Tuer 200 ennemis en n'utilisant que les dégâts environnementaux",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/AE95AE38EF679B53328767106DBA2EDE61A0C4E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hooligan",
+      "trophyDetail": "Détruire 500 objets destructibles",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/78598E285938942C93798B2AC63912506FA9D39D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sioux",
+      "trophyDetail": "Trouver 25 secrets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/5B4DCE6BBE7C3569F21DC3E5F379C955CB523F67.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Furieux",
+      "trophyDetail": "Tuer 20 ennemis en 15 secondes en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/767287252AC3055FE83519404916147D483DA6A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Destruction",
+      "trophyDetail": "Tuer 10 ennemis en un coup en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/617E5976A5188E23F2D65EC685FEDFFC3164F011.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Peau de banane",
+      "trophyDetail": "Tuer 2 Gorilles en 20 secondes en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/C4938DB0782B6789648CBD999E1473B93BFABA2C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tueur de flics",
+      "trophyDetail": "Détruire 2 Canonnière CLN en 20 secondes en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/B6DD3202ACCCFF1ADDBEECECFFEDC5F7C8212666.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pigeon !",
+      "trophyDetail": "Utiliser le souffleur pour détruire les 20 Oiseaux-robots dans le niveau Broyeuse en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/F27B5BF90E6815068ADF4C058F0C1EFF6E12874E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mécanicien",
+      "trophyDetail": "Détruire le Caul-Dron en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/CBE6C7816093ECBB4BB4E3A6888EE0DB91B3CAE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Général",
+      "trophyDetail": "Terminer tous les niveaux Bezoar en mode Dément",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/55247F4F0E35625F98975F9856100EEC7FFBA2FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Conquérant",
+      "trophyDetail": "Terminer les Terres mortes en mode Dément",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/5C3D3F6D4CC08AF317CE6F098AAABD187826FC4F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Immortel",
+      "trophyDetail": "Terminer tout autre niveau que le premier\\nsans mourir en mode Dément",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/C098318B71A6E7F98AA11CD2D9205A67E0C728BD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Elite",
+      "trophyDetail": "Récupérer 41 barres N.A.N.O. pleines",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/B6940C6A82795D49F08F3F4D7C05ECAAB470CA95.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Grande faucheuse",
+      "trophyDetail": "Tuer 10000 ennemis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/C309D86A29C92B806C685491928D7D1E691BB51A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Azraël",
+      "trophyDetail": "Tuer 2000 ennemis en n'utilisant que les dégâts environnementaux",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/35B80A7028E8356F23741CFC5B41B351D339E137.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Barbare",
+      "trophyDetail": "Détruire 5000 objets destructibles",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/DD9A5114F94DC7846D899923576B6F74DEB2245A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Prophète",
+      "trophyDetail": "Trouver tous les secrets de Bezoar",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/FE85C79A500E8BCC7A2DE53F441294E3954D553A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Millionnaire",
+      "trophyDetail": "Trouver tous les secrets des Terres mortes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/BBBF46B8255892F3185F3519473905C426066C36.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enragé",
+      "trophyDetail": "Tuer 30 ennemis en 20 secondes en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/09AEA33D3ECD40234EADFACED991D32F2CCCA7B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Extermination",
+      "trophyDetail": "Tuer 20 ennemis en un coup en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/AB6E7D98D01488F8887016DA49A2B2169334CD0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Assez de désoeuvrement",
+      "trophyDetail": "Tuer un Grenadier Lourd en 30 secondes en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/2EC22DD8C117791E94F9CFBA91D75A1500F505F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tueur de blattes",
+      "trophyDetail": "Tuer un Scarabée Lourd en 20 secondes en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/E1D9E508C560CE41E9F41BF629CE948A8C44D45D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Chute de courant",
+      "trophyDetail": "Détruire l'Atlas en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/090B5EC781A4F7C9BC4133BEACE06204E280835C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Mission suicide",
+      "trophyDetail": "Détruire le constructeur 'Shrimp' en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/8C0EDF4E765D7D762F917032B3410F962685D726.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Déconstruction",
+      "trophyDetail": "Détruire le Gardien en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/C4BB6733634E6AB679D10E94ABEF99794E863891.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Big Brother vous regarde",
+      "trophyDetail": "Détruire 20 caméras de surveillance",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/F6509059EBCC5FE2EAAB540ADB3E3BA23256CC3C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Oeil de faucon",
+      "trophyDetail": "Descendre un zeppelin",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/022DCADBE0AF951D5B12C589C3CF25ACFE6FF336.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ecrasez-les tous !",
+      "trophyDetail": "Utiliser la presse hydraulique pour écraser les 9 Gorilles-robots dans le niveau Usine en mode Normal ou supérieur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/D5566F17BAAEEAB3DFE09E0F3F78091AC227D82C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Achille",
+      "trophyDetail": "Terminer les niveaux Bezoar et Terres mortes en mode Héroïque",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/572C60965F390EE08B2BFD04FCD8615733FEA83D.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 54
+}

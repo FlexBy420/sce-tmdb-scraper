@@ -1,0 +1,612 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR14211_00",
+  "trophySetVersion": "01.06",
+  "trophyTitleName": "MudRunner",
+  "trophyTitleDetail": "Trophy set for MudRunner",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/21A44D67B0425EB9DD500A75D1478D3698A24847.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 58,
+    "silver": 3,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "MudRunner",
+      "trophyGroupDetail": "Trophy set for MudRunner",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/21A44D67B0425EB9DD500A75D1478D3698A24847.PNG",
+      "definedTrophies": {
+        "bronze": 54,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "American Wilds",
+      "trophyGroupDetail": "American Wilds",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/C66AC89980CE615154970EE2FF418CE658160A2B.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Master Logger",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/2CD9F7348E7B59147E9A146B7FBFCA9058181D6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seashore",
+      "trophyDetail": "Complete the \"Seashore\" in Hardcore mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/46B769FBF938B2750E00DDA1BA6837896AD36A37.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explore Seashore",
+      "trophyDetail": "Reach all Watchpoints in the \"Seashore\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/0C132E683C20213D17C9FE0B23E3E295CAB750E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seashore Settler",
+      "trophyDetail": "Unlock all Garages in the \"Seashore\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/E09FE6848F69DFDAD1365D9141804E631D8D26B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Downhill",
+      "trophyDetail": "Complete the \"Downhill\" in Hardcore mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/0EF36D45F46436715E6BC2E02EE73ED5B3796229.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explore Downhill",
+      "trophyDetail": "Reach all Watchpoints in the \"Downhill\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/160CA01C63E0C3C96984A0079FEC0DCA41145AD6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Downhill Settler",
+      "trophyDetail": "Unlock all Garages in the \"Downhill\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/6EBBD07047F56A3E7F76A5AAE3ED7BAC7AD48DCB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Bog",
+      "trophyDetail": "Complete \"The Bog\" in Hardcore mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/46C9A4DC9B368134FC060F4E6EB7545FBA857B68.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explore The Bog",
+      "trophyDetail": "Reach all Watchpoints in \"The Bog\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/407092F40D3E6D9F9E01E7394EF72539EFEB7448.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Bog Settler",
+      "trophyDetail": "Unlock all Garages in \"The Bog\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/4653A28DCBFC9CE9E7269D9C7309AC89458742DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crossing",
+      "trophyDetail": "Complete the \"Crossing\" in Hardcore mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/15B71CC85ED0B9CEA4FD006C10FA7819C403809B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explore Crossing",
+      "trophyDetail": "Reach all Watchpoints in the \"Crossing\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/11A885D0F3B699383E1F4A6C49F994BAB60343FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crossing Settler",
+      "trophyDetail": "Unlock all Garages in the \"Crossing\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/0135F55B1FDBBDED08DD7F34B1A0C350A49AB67D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Island",
+      "trophyDetail": "Complete the \"Island\" in Hardcore mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/E6923264C58F9AC8F7A3BA08BA3A804E76C0C431.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explore Island",
+      "trophyDetail": "Reach all Watchpoints in the \"Island\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/515C9D431A5E9AF751BFD02A19C67CE7444C7DF4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Island Settler",
+      "trophyDetail": "Unlock all Garages in the \"Island\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/AFD3353E382B7DA720159EB486202C1658E615D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lumberjack",
+      "trophyDetail": "Knock down 100 trees",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/F5C5DDB3889C8E095E52CC7FFB2969B9E779052A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sisyphus",
+      "trophyDetail": "Drive with the parking brake engaged for 200 meters in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/0048108CBB7BAE0FF3C0B5E37534F27BF78CC30E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "David",
+      "trophyDetail": "Use winch in Pull mode to tow another vehicle for 50 meters in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/111EC478DBD7AEA5136D0221701FB31B3431F551.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stunt Driver",
+      "trophyDetail": "Make a quick 360 degree roll over the roof",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/6E4FE0C8444EA15A793DA72A7656120D6EC43FFE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Student Driver",
+      "trophyDetail": "Receive 500 or more damage points from a single impact",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/AB93620618BA4521D7E9895696A4739FF8A181AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eco-friendly",
+      "trophyDetail": "Burn 100 litres of fuel without releasing accelerator",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/1C89DB2F33D38B80E4E75A61B75BD905336A3372.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fisherman",
+      "trophyDetail": "Winch a disabled vehicle out of the water with another vehicle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/CCEC8C3254E017641F0A5B4FCE372D39F852FB3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blind Navigation",
+      "trophyDetail": "Finish a level without reaching any Watchpoints in Single Player mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/0A797FA4330A08BA44A44151FEA9103D3199F8C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Logger",
+      "trophyDetail": "If capsized while delivering load, pick and pack scattered logs back",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/E5EA838CB3D2041BD107B77559446BF15B038303.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Size Does Matter",
+      "trophyDetail": "Fill a particular Lumber Mill by delivering Long Logs only",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/5FCD51EFFE38E8E74B22BF3565739BFA8E273F73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Size Doesn't Matter",
+      "trophyDetail": "Fill a particular Lumber Mill by delivering Short Logs only",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/53CD98183CBD076CA1DF1DE7B8D0227A4FCC8ACD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Old Still Good",
+      "trophyDetail": "Fill a particular Lumber Mill by using Type B-130 only",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/B8F8C8BD0742214ADD7AFB6B00038A4B1B4E2602.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trophy-raid",
+      "trophyDetail": "Reach all Watchpoints on any level with the Type A-3151 vehicle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/E9FD6CF556996BBF318DEF4249D9DFF94B990F44.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mechanic",
+      "trophyDetail": "Repair other player trucks for 1000 points in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/7A392F010A453B224411B4B06476C71B20140FA5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Forester",
+      "trophyDetail": "Finish a level without using the Navigation map in Single Player mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/A7C0A0EE12EA66D1BC69EF085A558761E782AEE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diver",
+      "trophyDetail": "Drive through water so that your vehicle is submerged and then escape without the engine stalling",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/6F2B851F4995C0A44FFF17ECB994BD3D6949B152.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unstoppable",
+      "trophyDetail": "Load up a truck and drive to an Lumber Mill without releasing accelerator",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/07C884B5F5BA94EB979A68DB4AD3D7FF95C93F5F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Caravan",
+      "trophyDetail": "Load up two trucks and winch them together to reach Lumber Mill simultaneously",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/9AFC7D0B635F938CA8EE380790144D771B3F2BD1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "My Only Love",
+      "trophyDetail": "Finish a level using only one vehicle in Single Player mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/47B003C47ABB694AF731D642D590041BBBB6E859.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carrier",
+      "trophyDetail": "Load up Type A vehicle in the trunk of your truck and drive it for 200 meters in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/F7B6F59127D4B983E9D3AB7B5819CCAF4D33D942.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rescue Mission",
+      "trophyDetail": "More than 150 meters away from any Garage, tow a fully damaged truck to a Garage",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/1F71E8ABEA414E8D35153C0A5FA52C85EF80925A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drive Carefully",
+      "trophyDetail": "Deliver the load without receiving any damage and switching to other trucks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/D7CA9AFCBD80F8DEF2DF311DACC183926DFC668B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I Have All I Need",
+      "trophyDetail": "Finish a level without changing any vehicle addons in Single Player mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/01F9A921F353D500255D9BD7F8807F87A5803632.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Anthropologist",
+      "trophyDetail": "Find and visit 2 fluorescent flower meadows in the \"Downhill\" at night in one game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/266B0B00D2C5D2DFAEF9EE41D4E1777BEB4115B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fuel Tanker",
+      "trophyDetail": "Fill up other player's trucks with 1000 litres of fuel in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/8972E782A6799658D360B554B527B898A12A5AE0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Driver",
+      "trophyDetail": "Travel 100 kilometers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/5475D6572F5297AB3CE7506F38D540831A1BDA6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deluge",
+      "trophyDetail": "Complete the \"Deluge\" in Hardcore mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/A462C19C153723321A44EA111DE6212BDB7D7426.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explore Deluge",
+      "trophyDetail": "Reach all Watchpoints in the \"Deluge\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/46502C7C582B29AD48A7BC8C31B504FABA9E2C55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deluge Settler",
+      "trophyDetail": "Unlock all Garages in the \"Deluge\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/74C420AB000120DBAC96B036BB747A75EEB48729.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Climber",
+      "trophyDetail": "Reach the top of any 2 of 3 mountains in the \"Island\" in one game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/A62DEDEC9DE65A5CF2B84F6F65339D3EBCF1680B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mushroomer",
+      "trophyDetail": "Squelch 50 mushrooms in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/4F256A757345A3D23849118C2354638E1D79123B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Farmer",
+      "trophyDetail": "Squelch 50 pumpkins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/D7D623AE14B413B6C55DBE77F5094809E07793FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cooperation",
+      "trophyDetail": "Pass 5 log ownerships to other players",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/34A09BECBA6C52AEC6E167DC8D8F2BB03E4CA50B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "World Cruise",
+      "trophyDetail": "Get in Type A-968m and drive 400 meters or more away ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/2EF777CAD45B837D4C7609B75187B9E4EEA9C2D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Repair & Refuel",
+      "trophyDetail": "Complete all bonus objectives in the challenge \"Repair & Refuel\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/8EBE810D82D9BF572BC6A677A4DDE374152796C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Climb a Hill",
+      "trophyDetail": "Complete all bonus objectives in the challenge \"Climb a Hill\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/666218118BB73839519EBC44954EB2F398648CD7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Rig",
+      "trophyDetail": "Complete all bonus objectives in the challenge \"The Rig\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/A041A616D92D3DE748417DF8C4439642773BF76B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cross a River",
+      "trophyDetail": "Complete all bonus objectives in the challenge \"Cross a River\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/7473BF8913EA7FBEBE5C05602D3D84F698A15A38.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Visit Grandma",
+      "trophyDetail": "Complete all bonus objectives in the challenge \"Visit Grandma\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/EBC8BCABEB171BA7148F9FD817CFC82D8D5E70EE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Delivery Mission",
+      "trophyDetail": "Complete all bonus objectives in the challenge \"Delivery Mission\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/885FB1B83A6B0223EF293BBCC534626113E0D77B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Night Safari",
+      "trophyDetail": "Complete all bonus objectives in the challenge \"Night Safari\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/7F8A6B2FB09CD51BBF881031032112ED99AD8BFD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crane Operator",
+      "trophyDetail": "Complete all bonus objectives in the challenge \"Crane Operator\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/A4FAD7647ECFFA21F0D033A8794F5937BA04919A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Expedition",
+      "trophyDetail": "Complete all bonus objectives in the challenge \"The Expedition\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/0D9AFE0B6E499F6D4473C9D817AEC189BA055004.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Speed Racer",
+      "trophyDetail": "Reach speed of 40 km/h with a loaded truck",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/3B1F585CBFEAAB8A84CC47031B323444512D21D5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beautiful Tan",
+      "trophyDetail": "Travel 10 kilometers along the shorelines of American Wilds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/02879E0066F4C1140D7372AC4BEFB79633D2BB22.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crane Operator II",
+      "trophyDetail": "Complete all bonus objectives in the challenge \"Crane Operator II\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/C1C48B6B7A51E99FADD7A3D4F002FB9057CA9D0F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Freight-Ex",
+      "trophyDetail": "Complete all bonus objectives in the challenge \"Freight-Ex\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/F9DCA5B15A7DA44CF4C25E328175E066F5B69FDA.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 63
+}

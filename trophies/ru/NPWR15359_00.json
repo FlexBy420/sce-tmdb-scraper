@@ -1,0 +1,669 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR15359_00",
+  "trophySetVersion": "01.04",
+  "trophyTitleName": "Control",
+  "trophyTitleDetail": "Базовый набор призов игры",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/CA4CF82D2BDBC187FF50424C2BCCE6E88CD83DED.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 50,
+    "silver": 14,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Control",
+      "trophyGroupDetail": "Базовый набор призов игры",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/CA4CF82D2BDBC187FF50424C2BCCE6E88CD83DED.PNG",
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 9,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Призы за «Основание»",
+      "trophyGroupDetail": "Призы за «Основание»",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/9F0E45806E7FD0D667C9B9657AEF7898CE5BD35F.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Альт. мировые события",
+      "trophyGroupDetail": "Альт. мировые события",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/A3FCCAEDB5D23EC85F744C3AE64AFD2ECB89F197.PNG",
+      "definedTrophies": {
+        "bronze": 9,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Директор ФБК",
+      "trophyDetail": "Завершить все другие достижения.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/A4295FF723E3686573B3BA4D84D58420299E544E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Астральное конструирование",
+      "trophyDetail": "Сконструировать форму оружия или мод.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/E7DA12C8D7182844BFEA607D196448093333A92E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Нетабельное оружие",
+      "trophyDetail": "Улучшить любую форму оружия до Уровня 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/C41F246F4B2B553604717BF3D5688FBAE03AB086.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Карьерное развитие",
+      "trophyDetail": "Разблокировать все 3 ячейки персонального мода.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/B7D0D43BAF3E785F5711B81F3790513893B1F356.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Важность синергии",
+      "trophyDetail": "Завершить 5 побочных миссий.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/6278E20863715D8C51D7D54C2DDA9FCC0E197D97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Межведомственное сотрудничество",
+      "trophyDetail": "Завершить 10 побочных миссий.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/16851E6FF1A94EADDC94D57CE5A327EF232178D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Спецгруппа ФБК по урегулированию кризисов",
+      "trophyDetail": "Завершить 15 побочных миссий.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/288C6166B53004650332D9110D218D211D604162.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Параестественная коллекция",
+      "trophyDetail": "Собрать более 100.000 источника.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/E6A06AA99F7994094E2C53EBD088B28B7C307255.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Межпространственный защитник",
+      "trophyDetail": "Уничтожить 1000 Ииссов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/A170BB9EE3EB286E5BAA7FAC9C297BD0546E24B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Параутилит",
+      "trophyDetail": "Разблокировать 1 улучшение способности.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/B02946692F5C61775A82A2C63CD2BAB5334B9057.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Эксперт параутилит",
+      "trophyDetail": "Потратить 50 очков способности",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/C7F137A3A02F53450B0A7F817F952F594CDF62FE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Мастер параутилит",
+      "trophyDetail": "Потратить 100 очков способности",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/A288B8E4E95FAF803DC3E8ABBE05275E8485AACD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Выбери быть избранным",
+      "trophyDetail": "Завладеть табельным оружием.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/6B509E420E2267A7CDB938B701D88D2C5B783F9F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Параестественная мощь",
+      "trophyDetail": "Овладеть способностью «Запуск».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/9018856B1CAECB67F225E5F9ECE7EC28130CDE8F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ограниченный телекинез",
+      "trophyDetail": "Овладеть способностью «Щит».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/01229E7FDDFB8FB8834E9307ECABEACFDAF10177.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Неустойчивые позиции",
+      "trophyDetail": "Овладеть способностью «Уклонение».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/63A0E582C768D956BEB6C6267118BB1ED36CE3B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Психическое занятие",
+      "trophyDetail": "Овладеть способностью «Захват».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/3A1337A3E48BB936EF58D2EF5567DBF4F5F96B8D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Восходящая мысль",
+      "trophyDetail": "Овладеть способностью «Левитация».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/8A0ED5A6C18265499E5DB73B84C96628830A6B42.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ритуальное мышление",
+      "trophyDetail": "Зачистить 5 точек контроля.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/0CB558EC2FD250255406C8AAD73376740148F495.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ритуальная интуиция",
+      "trophyDetail": "Зачистить 10 точек контроля.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/86B5409A30131014F167324AC038323772F6BF45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Различая шаблоны",
+      "trophyDetail": "Зачистить 25 точек контроля.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/97CCCA7182B61AB5F932191AD3C3F710CB2E7F1E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Странная коллекция",
+      "trophyDetail": "Собрать 40 коллекционных предметов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/DAB63B6D2F3103B14C23912A176DE6B7DC113906.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Хранитель записей",
+      "trophyDetail": "Собрать 80 коллекционных предметов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/A737708D9FDC423087309FDE0B5374FDAC88AADD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Архивариус Бюро",
+      "trophyDetail": "Собрать 120 коллекционных предметов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/1F0911B972445CFE8397B7EF1D7C6E7D4A5DCD12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Возможны измененные проявления",
+      "trophyDetail": "Одолеть иссеДж.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/2617202616E9DDE640B59DCC49274E3B6F3F9985.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Агрессивный рост",
+      "trophyDetail": "Одолеть Плесень-1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/E10C69FBB2738CBDE8C9C374D8029E861D8A45DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Руководитель отдела по связям",
+      "trophyDetail": "Одолеть господина Томасси.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/A6129F18B3A64B886CF144BE3F26E8F79C7D3E66.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Живые архетипы",
+      "trophyDetail": "Одолеть Якорь.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/877E972B62AD26E055C1F01B89A6FCABB254E64B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Астральные феномены",
+      "trophyDetail": "Одолеть Формера.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/C9859052FCF4025ED87CEEE17266296666B5865A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Добро пожаловать в Старейший дом",
+      "trophyDetail": "Завершить миссию 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/95C9722F6FF7CED78F26A13A830635E0EC49059B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Неизвестный звонящий",
+      "trophyDetail": "Завершить миссию 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/EEA9874419C02290D0D99A1EA366B693CACE4E6F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Право Директора на ручное управление",
+      "trophyDetail": "Завершить миссию 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/CBE1E20121C7859D681187043BBEA36439F9F685.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Клуб старых друзей",
+      "trophyDetail": "Завершить миссию 4.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/9EBC744A65AF89353A5E1DBE0ABB94FF5D6DCD9C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Зона соприкосновения",
+      "trophyDetail": "Завершить миссию 5.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/0CB528A8D52BBC17F1C7AEB1DF0F6E925055677F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Мой брат хранитель",
+      "trophyDetail": "Завершить миссию 6.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/E12BEBB920DF2ED92825F938976CD12E0CBB0CF2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Лицо врага",
+      "trophyDetail": "Завершить миссию 7.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/122B29CAF65365995DE09D5693F94636200F2B21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Финское танго",
+      "trophyDetail": "Завершить миссию 8.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/98596A942A643646F2EE7DC9527CC19E31C56849.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Полярис",
+      "trophyDetail": "Завершить миссию 9.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/8DE5A7E36D71FA0745230D472C988FF0D71D23A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Взять контроль",
+      "trophyDetail": "Завершить миссию 10.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/8E824FE4D1512656125C5D55480E464C8AB9B94F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Когнитивный нарушитель",
+      "trophyDetail": "Подчинить 10 врагов с помощью способности «Захват».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/CEDAE228D51B81552A52864BD77259D10E207169.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Нестабильная материя",
+      "trophyDetail": "Убить 50 врагов с помощью способности «Запуск».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/828F47642300F9B9F3C730175E04B1BA2CAFD2E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Летучий мусор",
+      "trophyDetail": "Убить 10 врагов с помощью способности «Вспышка щита».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/D62B841F1B116DFD244BCB57B30A73B071FC9543.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Правильные рабочие процедуры",
+      "trophyDetail": "Использовать «Запуск», чтобы бросить гранату или ракету.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/9F3694FA7C9CBFBE9CA09B2E3E82A5FA6737A5FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Военные игры",
+      "trophyDetail": "Завершить 5 контрмер Совета.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/78BF61F212CD758A103BABD41C21E10AFDECCA5F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Астральный тактик",
+      "trophyDetail": "Завершить 25 контрмер Совета.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/4F890B86BD1F73696DFA5A1A598163663F9B5188.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первый на сцене",
+      "trophyDetail": "Завершить 1 уведомление Бюро.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/CB1134EAF7F7BC92E2965F7CB79E9A6126FC87CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Кризисное управление",
+      "trophyDetail": "Завершить 5 уведомлений Бюро.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/4E5AEAFE628B41362A96B244E947ED93FF8E3AFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "< Сделать/отменить >",
+      "trophyDetail": "Использовать формирование и разламывание 100 раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/F8050066528D1EAEAF5C337F3D5E6DCF86397400.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Недружелюбная рабочая среда",
+      "trophyDetail": "Убить 50 ускоренных Ииссами агентов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/99B3B58B33F9653BE0B56B7D79AC6DB669A74451.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Напролом",
+      "trophyDetail": "Убить 100 врагов прорывным щитом",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/F2A89610700A853544DD273CB1698ECEEF0B7838.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Расположение ниши",
+      "trophyDetail": "Найти все скрытые места в Основании",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/1E59320E292216B9DB143E2FC52A8C02447D16DC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Подземное исследование",
+      "trophyDetail": "Собрать все коллекционные предметы в Основании",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/BD06F9F8F6C05B443A83F9BCE962367815CB0735.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лояльный сотрудник",
+      "trophyDetail": "Размещенный рейнджер должен убить 5 врагов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/E432DCEED7CF5AEB22F982F090A5FDBA3AFAB603.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Один из нас",
+      "trophyDetail": "Собрать все статуэтки манэки-нэко",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/5636C73F07B71F27DE94378A241C2165652A0AE6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Звездное исполнение",
+      "trophyDetail": "Пройти доп. миссию: «Дж. Фейден, звезда \"Быстрой платформы\"»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/AF2401AA353C37B137E88012AF50489855B942B5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Астральная сантехника",
+      "trophyDetail": "Исследовать уборную в астральном измерении",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/F0B7A18DDA69E4D0445704F5EB4EC5A49E059981.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Крепкое основание",
+      "trophyDetail": "Пройти все миссии в Основании",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/857FDF91C6EE73C1D059EEA845B7E1F7BA0F86C7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Знакомые методы",
+      "trophyDetail": "Отбиться от Хартмана",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/AF0F581046CCFEF72D617C27DD0368D6C8057C0D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Старший расследователь",
+      "trophyDetail": "Обнаружить 80 % скрытых мест в Секторе расследований",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/FB233E487EBDEA52E24EDEFB3895BBA2D783373C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Охотник на торговые автоматы",
+      "trophyDetail": "Уничтожить измененный торговый автомат в 80 % случаев",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/A6BDD79F4F3265AC17462743E04BC17F0CF90801.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Третий вид",
+      "trophyDetail": "Победить Хартмана",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/A1F948284E99CCB005F801244035016037DFCAB2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Отдых на рабочем месте",
+      "trophyDetail": "Сыграть одну игру в аркадном режиме",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/5F40B75369E57A0F9980A871F6B73352C8C4811F.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Мощный выброс",
+      "trophyDetail": "Улучшить «Выброс» до максимального уровня",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/35BC1421E440A043EA71E02E5391CDBE682A640E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер выброса",
+      "trophyDetail": "Убить 50 врагов оружием в режиме «Выброс»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/ED1177732A6C7E649F397279A1707F177E4D44BF.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Возвышенный разум",
+      "trophyDetail": "Убить 25 летающих рейнджеров",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/178C3247154984E6CFE62441F72221FC06F7D370.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Тщательное расследование",
+      "trophyDetail": "Найти 80 % коллекционных предметов в Секторе расследований",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/00AE73B2C9A31E3CBAA65C10383DA1668033B9D5.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Прояви смекалку",
+      "trophyDetail": "В режиме оружия «Выброс» прикрепить гранату к объекту и метнуть во врага",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/C9B788EC2060E6907FD6943208E5F62886C9265F.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Множественные цели",
+      "trophyDetail": "Использовать «Мультиметание» для поражения 3 целей",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15359_00_00D751EBF01D244B855D6F6505F39472370226458A/8C66EED06FD7DBF86B4EAD692E58B9A9FB94C59D.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 68
+}

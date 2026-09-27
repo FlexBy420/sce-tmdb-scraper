@@ -1,0 +1,732 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR05403_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "Middle-earth: Shadow of Mordor",
+  "trophyTitleDetail": "The Trophy Set",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/D66987774E48791E93B33550080DCBA28077887F.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 56,
+    "silver": 17,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Middle-earth: Shadow of Mordor",
+      "trophyGroupDetail": "The Trophy Set",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/D66987774E48791E93B33550080DCBA28077887F.PNG",
+      "definedTrophies": {
+        "bronze": 36,
+        "silver": 14,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Lord of the Hunt",
+      "trophyGroupDetail": "Monsters of Mordor Trophy Set",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/83B175AD7D198589200A225F272D656C113BAD20.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "The Bright Lord",
+      "trophyGroupDetail": "The Celebrimbor Trophy Set",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/7FA4DB03702B8AC804F6F8E157937EC1E0F6EA0E.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Master of Mordor",
+      "trophyDetail": "One has walked in Mordor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/3F7093475C0E1B2DB059ACAD93315DA96ECC87F1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Will Obey",
+      "trophyDetail": "Make an uruk yours.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/236801362101AA1C3D3EF9FDFD762E5DC47F414F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Ratbag the Great and Powerful",
+      "trophyDetail": "Get Ratbag promoted to Warchief.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/8A0A58855A95E93DCC0851F50F1872A0742C36E9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Bright Master",
+      "trophyDetail": "Discover some of the Wraith's past.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/2E2DEE90BEDF8098CDD8BB20619E7B1AA3E27EF0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Gorthaur the Cruel",
+      "trophyDetail": "Destroy the Monument Gate and topple the statue of Sauron.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/86FED2B177DAF39C517C2338A18E426C041F92A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Hammer Falls",
+      "trophyDetail": "Kill The Hammer.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/9949FD4A3988A481DE9B21B985A49D5762121443.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Beyond Hope",
+      "trophyDetail": "Save Lithariel's life.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/2BAEF92A8DD1E87E56BBE5849AD73BFFFD4C344F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The White Wizard",
+      "trophyDetail": "Lift Lady Marwen's curse.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/349F4E80B65317B10154F0723BA3864F0777A75F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "For My Brother",
+      "trophyDetail": "Kill the Great White Graug.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/EB5CE592DEDC59CB5FD154194BC89E1A4FCC393F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Tower Crumbles",
+      "trophyDetail": "Kill The Tower.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/A2C42B913FBD42ECF1B6AF83745CF1A57C9C67C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "The Hand is Severed",
+      "trophyDetail": "Kill The Black Hand.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/05732C0FAEF54700C9D039426741012E433B74FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "To Rule them All",
+      "trophyDetail": "Witness the creation of The Rings of Power.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/7AD4CBEB813B181533E3FA977463E33D471A53D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Height of Despair",
+      "trophyDetail": "Use Strike From Above while at least 60 feet above your target.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/B50D1C7E42151EEF2F2EFBEA72D9FE98B31292B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burning Vengeance",
+      "trophyDetail": "Perform an Execution on a flaming Berserker.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/C3261FF10F2369D4CE0F0C46D0F7A2FD294324C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "And it Burns, Burns, Burns",
+      "trophyDetail": "Use the Detonate ability to burn 50 uruks.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/070600E0C45495F9C305967BCC54CE1AFE637A79.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iron of Death",
+      "trophyDetail": "Issue a Death Threat, and then successfully kill the target.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/910F24838C7C71D343AB7B021798685AB18CCED5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A New Master",
+      "trophyDetail": "Brand a Captain while in combat.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/B2820A8E9FF0F1587F7976FF1FA7BE49C62571DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Power in Numbers",
+      "trophyDetail": "Help a Captain survive a Recruitment Power Struggle, and then kill him and all his new recruits.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/F9DF431B902DAF4CE56A46D3AFF77478BE6BFDF0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Black Celebration",
+      "trophyDetail": "Poison a Captain at his own Feast.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/6D6E268DD22ADA8A82F5C4FE52A4DBD1A17FA73C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stinking Rebels",
+      "trophyDetail": "Brand 5 Bodyguards of a Warchief, turning them against him in combat.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/AB44245DEC1C4CB3AB07C59B5F40C80266165341.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Graug's Heel",
+      "trophyDetail": "Capitalize on a Warchief's Fear.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/2C36232F11E836C1BB84EF7CDF5BBE9C7F023E48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Divide and Conquer",
+      "trophyDetail": "Eliminate the bodyguards of two Warchiefs, then draw them out and kill them.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/EB5DAE640E079A77E7C31F5FE29B908A54B8EBDA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lord and Master",
+      "trophyDetail": "Brand all 5 Warchiefs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/AEBD8A2E464EFDBACACF53BFAEAEB2115E64ABA5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power Vacuum",
+      "trophyDetail": "Kill all 5 Warchiefs before any uruk take their place.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/D83DCA765B001DFBD70F99A84381DF0BE76AD6AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rise and Fall",
+      "trophyDetail": "After an uruk kills you to become a Captain, help him become a Warchief, then kill him.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/DAC4D925CC060D726AC3622EA85E1E09F7E36641.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Spirit of Mordor",
+      "trophyDetail": "Start a Riot by commanding a Warchief to attack another Warchief.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/220F7F44A650AF469A5F47DD0DBCEFA7B480DFC2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The White Rider",
+      "trophyDetail": "Liberate 30 slaves in 180 seconds while riding a caragor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/6F0D0692C6DC33AC2A1BC025C5B28F3666F4A62D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unleashed",
+      "trophyDetail": "Free 5 caragors from cages.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/63D8AA53E1E84438448403DDFD794222999B607D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jaws of Death",
+      "trophyDetail": "Attract caragors with bait 5 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/61711CB725019C106A6826B16180B278D00EF240.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fly you fools!",
+      "trophyDetail": "Make 20 uruks flee by dropping Morgai Fly nests.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/EFD2F81342C9FCC49F3AD3B8E321DA62D39F667C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Repaid in Blood",
+      "trophyDetail": "Complete a Vendetta Mission.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/4F66890D078E623D11D6BB1226DAD41733F652FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legend of Vengeance",
+      "trophyDetail": "Complete a Sword Mission and begin growing the legend of Urfael.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/93A8D45B5ABBD52CBFC55B6DF10536878A292664.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fire of Justice",
+      "trophyDetail": "Complete all Urfael Legend Missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/2D383903EB0C5CCDE2DF27F69E17064FF3B0B3AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legend of Shadow",
+      "trophyDetail": "Complete a Dagger Mission and begin growing the legend of Acharn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/BBC04AB0AD9948E0DFD20ED36A8BD265EBEC2054.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Last Shadow",
+      "trophyDetail": "Complete all Acharn Legend Missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/687DF073E439B3B997A8745B2A175387C483D2FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legend of the Maker",
+      "trophyDetail": "Complete a Bow Mission and begin growing the legend of Azkâr.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/BBF9ABE7DEFEFE11B7F58C86F69535F41DB4C242.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Maker's Bow",
+      "trophyDetail": "Complete all Azkâr Legend Missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/2603DB710DF086B7EFBD1E04937B28FF8EF20402.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Cold Light",
+      "trophyDetail": "Unlock 3 Sword Rune slots.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/8E8575CE1214846B3035E6EB6E92FCE8D87D084A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Paid in Blood",
+      "trophyDetail": "Unlock 4 Dagger Rune slots.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/D5F2664B7C76933A3795241885932C13A051A8E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strike True",
+      "trophyDetail": "Unlock 2 Bow Rune slots.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/AC3FF15D06DEFE2E9A543609D5624D0F7EF0BACC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Mighty Doom",
+      "trophyDetail": "Acquire a level 25 Rune.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/A0BF290DC268924E77057406C522F96E7A1A4F46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crowned with Living Light",
+      "trophyDetail": "Collect 50% of the Ithildin.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/1608EAD1AB957AD75C7322234B4B99C0B671DAFA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bearer of the Shining Lamp",
+      "trophyDetail": "Collect 100% of the Ithildin.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/685A5ACD1CECAB3F02531ACEF35187B1BB607EAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Paths of the Dead",
+      "trophyDetail": "Collect 25% of the Artifacts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/1277AA255B1117C883A52D668CB04AE3DD15A9DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Shadows of the Ancient Past",
+      "trophyDetail": "Collect 100% of the Artifacts and listen to their memories.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/1F8AC3E35D6FA12A624375DB974FC7DF81A1F0FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scout of the Morannon",
+      "trophyDetail": "Successfully complete a Survivalist Challenge.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/613092202263A8F3EB9EAD17B72DDF6C80666150.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ranger of Ithilien",
+      "trophyDetail": "Complete all Survivalist Challenges.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/4526E2C5222F8D404BAF84FD328354738BB2716F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Free Folk",
+      "trophyDetail": "Complete an Outcast Rescue Mission.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/49F35022FA072FB60D711F738B0C0B8E13ABE6EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Liberator",
+      "trophyDetail": "Complete all Outcast Rescue Missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/C48AD362A563356DC5D7BB5B768706D837A8157C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thrill of the Hunt",
+      "trophyDetail": "Successfully complete 4 Hunting Challenges.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/07E6CB9CF644333449F9A7B2F9F42982D3E43895.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master of the Wilds",
+      "trophyDetail": "Complete all Hunting Challenges.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/D7A90FD831AA730ACAE4FBB2D08C58846802D1E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Memories of Eregion",
+      "trophyDetail": "Activate all Forge Towers.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/1543B4048C25901F940B32DF6291BB3332EA9455.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Short Introduction",
+      "trophyDetail": "Begin a new hunt with Torvin.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/8EE400A7539120F943AD336115C3E7F490E16AEC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Most Dangerous Game",
+      "trophyDetail": "Defeat all the Beastmaster Warchiefs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/B48062D17C5BF5A0F807A979A7E8870B6E459B47.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jaws of Shadow",
+      "trophyDetail": "Complete 25 Caragath Stealth Kills.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/E75BA53C055823EFD890031FDADADEC1A8C5BB1B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wretched Retch",
+      "trophyDetail": "Use a Wretched Graug's Projectile Vomit on an Uruk Captain or Warchief.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/3741A92BFBA2DB8863F70111DD64471BFBE96898.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ghûls Gone Wild",
+      "trophyDetail": "Kill a Graug by dispatching your Ghûls on him.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/0C481FE40103E2A5173BF8243FD27E044782174D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rattle the Hive",
+      "trophyDetail": "Bait 10 Ghûl mounds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/C47B2658379B6C43AFB2CDC3201AC0FFDCF17A74.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "O Mother, Where Art Thou?",
+      "trophyDetail": "Have 20 Branded Ghûls at one time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/6F2B85E29BEE07161A693C84B9B0AB0EE46F66BA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Had To Put Him Down",
+      "trophyDetail": "Kill a Caragath with an Execution.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/5BE5353118416B785DB1313A22B671B668A32E77.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Flames Make It Go Faster",
+      "trophyDetail": "Activate the Blazing Steed.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/F8C9D5B65F12FE97DB3C4DE326431FB345ED185E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nom Nom Nom!",
+      "trophyDetail": "Eat a captain with a Wretched Graug.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/1BC2511E09048F4C1188E68223D5CDBD2A0A4A55.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hot Flashes",
+      "trophyDetail": "Catch a Ghûl Matron on fire during the Lord of the Hunt campaign.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/525BF6F34EE12B7FAA52842021722B4E3755C011.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Collector",
+      "trophyDetail": "Have a dominated Caragath, Wretched Graug and Spitter Ghûl simultaneously.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/40E0B6C0A36510F1A5D167F293457116F23E82B4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Hunt is my Mistress",
+      "trophyDetail": "Complete all objectives in the Test of the Wild.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/B5A0E0B337A33385806100467D4F5FCB5568BDAC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Betrayed",
+      "trophyDetail": "The One Ring has returned to it's Maker.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/0FF0F699B03D9CA909176BB5C1D3B21002FF5993.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Scouring of Mordor",
+      "trophyDetail": "Challenge the Dark Lord in Mordor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/44E1C103DEE9E1AF29E95FFFB35B09B00A974AED.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burning Shadow",
+      "trophyDetail": "Shadow Brand 20 Uruks.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/C782E639C2E598C29EEFC747025D3DB7F4E4540D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dominion",
+      "trophyDetail": "Wraith Flash Dominate 50 Uruks.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/8A43B2C49C3782D86C5367922BC08FFFDACACE77.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Battle Forged",
+      "trophyDetail": "Maximize the power of the Ring by completing all of the One Ring missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/EE5DD152DBA1E6BFA0001593DD112E0E60D3DF47.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "From Shadow to Shadow",
+      "trophyDetail": "Stealth Brand a Captain.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/84100E2BF919FA59B95C8213092BF8353DA4DD20.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Silver Fist",
+      "trophyDetail": "Brand 20 Uruks in 60 seconds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/7F21F7035A5FC92F72B804861BE55C28963374C9.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Eregion Reforged",
+      "trophyDetail": "Build all the Forge Towers in Udun.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/E0121638C6FECEE6DA30472625444738B910D70C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beyond Epic",
+      "trophyDetail": "Get a Level 30 Rune in Test of the Ring.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/3DC81A22D637AF09AADCC2E1134A29D9E021CF63.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lord of the Ring",
+      "trophyDetail": "Complete all objectives in the Test of The Ring.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/526581815B2B8BE324EC46AC09220763978291C4.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 75
+}

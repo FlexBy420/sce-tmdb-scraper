@@ -1,0 +1,87 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR21213_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Golf",
+  "trophyTitleDetail": "Golf Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21213_00_00C8C2D5A2E12F91544CC46BB8804C14C83781D40A/9827D03C97640E2DE2E622E43068C77475CAA306.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 1,
+    "silver": 3,
+    "gold": 2,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Golf",
+      "trophyGroupDetail": "Golf Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21213_00_00C8C2D5A2E12F91544CC46BB8804C14C83781D40A/9827D03C97640E2DE2E622E43068C77475CAA306.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 3,
+        "gold": 2,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Golf",
+      "trophyDetail": "Complete First Hole",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21213_00_00C8C2D5A2E12F91544CC46BB8804C14C83781D40A/E2A2BEC41E5AFBBAF9BCDA7CBDD70B3F74D0EEF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Match",
+      "trophyDetail": "Complete 1 player game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21213_00_00C8C2D5A2E12F91544CC46BB8804C14C83781D40A/F6CBF1664AEA41F38C0CA8AB71E78AF2EC2F04C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Friends",
+      "trophyDetail": "Complete 2 player game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21213_00_00C8C2D5A2E12F91544CC46BB8804C14C83781D40A/9C6A38814A7A53DF15B5F1914E4132D803784610.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Hole in three",
+      "trophyDetail": "Complete a Hole with 3 or less shots",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21213_00_00C8C2D5A2E12F91544CC46BB8804C14C83781D40A/5217252B10780C19B93180DAAB6A1399E4492486.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Hole in one",
+      "trophyDetail": "Complete a Hole on the first shot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21213_00_00C8C2D5A2E12F91544CC46BB8804C14C83781D40A/066B8C272C99BA3306896E3724945625ED3D655A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Hole in 15+",
+      "trophyDetail": "Complete a Hole with 15+ shots",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21213_00_00C8C2D5A2E12F91544CC46BB8804C14C83781D40A/7E707335B02E9D8F5DDDF6C80EDF6068A7652863.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 6
+}

@@ -1,0 +1,685 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR22080_00",
+  "trophySetVersion": "01.05",
+  "trophyTitleName": "Metro Exodus",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/6dbc9bf0-bec8-4632-b932-0506845ebdd3.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 57,
+    "silver": 6,
+    "gold": 5,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Metro Exodus",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/6dbc9bf0-bec8-4632-b932-0506845ebdd3.png",
+      "definedTrophies": {
+        "bronze": 40,
+        "silver": 6,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Nueva partida+",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/54944a0b-9426-40ac-be7f-7f62797300aa.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "The Two Colonels",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/1a1c2d2c-c1fb-4fdd-aa73-43b6a31a5da8.png",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 0,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Sam's Story",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/bf11ea9a-07e3-4828-acd3-b17a47add674.png",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 0,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Trofeo de platino",
+      "trophyDetail": "Consigue todos los Trofeos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/77895568-ea46-466a-932f-2b6c945a235c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Guardafrenos",
+      "trophyDetail": "Desacopla todos los vagones del tren en el nivel MOSCÚ.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/ae3d2cb1-68a6-4889-b0d9-9d1cd7c825bc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Éxodo",
+      "trophyDetail": "Completa el nivel MOSCÚ.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/ce84a47a-13b9-433c-b4cc-8a92c1be260f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aurora",
+      "trophyDetail": "Ponle nombre a la locomotora.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/384f6051-3ba6-4ba4-993d-f7ee24ade8c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Regata",
+      "trophyDetail": "Sube a un bote.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/461addb6-978d-4953-8ef1-d092f3af49a1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ferroviario",
+      "trophyDetail": "Súbete a la dresina.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/d2e1bcbc-42ac-475b-b70e-e3ca8cb373e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amigo de la tripulación",
+      "trophyDetail": "Encuentra la guitarra y el osito de peluche en el nivel EL VOLGA.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/d9d9c42a-8e8c-4e45-a05a-064d2f1399a1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pasajero viajero",
+      "trophyDetail": "Encuentra el vagón de pasajeros.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/12d77f40-d10a-4863-8c13-322f1225de43.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pescador",
+      "trophyDetail": "Mata al siluro.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/67158e28-b19a-4180-9bc2-6916c1e1de34.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Duke",
+      "trophyDetail": "Duke sobrevive.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/010778e0-4c2e-47d7-942e-61c01ee35e4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Baja el puente",
+      "trophyDetail": "Completa el nivel EL VOLGA.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/9ee7d0c4-7023-431f-82e3-31925b01d6d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Venganza justa",
+      "trophyDetail": "Mata a 90 caníbales.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/44a78a11-1f73-4a05-a3d9-06585bfb234d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cena arruinada",
+      "trophyDetail": "Completa el nivel YAMANTAU.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/78006490-187d-4d42-bb2b-2d0c33361355.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conductor",
+      "trophyDetail": "Conduce la Bukhanka.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/ed425ea1-b4f2-48f1-97d9-1ac449249d18.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Apocalipsis automovilístico",
+      "trophyDetail": "Mata a 50 monstruos con la Bukhanka.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/fc18f087-096d-44b2-b605-b65c28930db8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Montaña rusa",
+      "trophyDetail": "Usa el elevador de cangilones para llegar al oasis en el nivel EL MAR CASPIO.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/24017357-79f1-4d0b-9372-31636b52d730.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mapa de carretera completo",
+      "trophyDetail": "Encuentra los mapas en el laboratorio.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/0ddf36d1-ca01-4c31-b384-524cd27c7ced.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Damir",
+      "trophyDetail": "Damir se queda con la tripulación.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/add645a4-b51a-41c9-9f40-2e38b5b2f08b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nueva orden",
+      "trophyDetail": "Completa el nivel EL MAR CASPIO.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/5a0d1ec5-d041-43f3-b4e2-8f3f5da774e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Gor'ko!",
+      "trophyDetail": "Asiste a la boda en el nivel VERANO.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/ff281e2d-0312-4672-b832-f12ec385d834.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Descomunización",
+      "trophyDetail": "Destruye la estatua más grande frente al campamento de niños en el nivel LA TAIGA.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/05999c36-8436-44ef-b75a-5fea21365444.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Señor del Bosque",
+      "trophyDetail": "No cedas terreno ante el oso en el primer enfrentamiento.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/7b4a92da-ef26-49e2-a39b-e4c605b81c37.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cinco en punto",
+      "trophyDetail": "Asiste a la fiesta del té del almirante en el nivel LA TAIGA.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/328ab1c6-bff1-4fa1-9fff-fc7545ac03b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Niño del bosque",
+      "trophyDetail": "Completa el nivel LA TAIGA sin atacar a nadie y sin ser detectado.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/b91fd606-d8dc-41b1-9bce-78bdfebf9173.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Alyosha",
+      "trophyDetail": "Alyosha no resulta herido.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/4be0f32e-6408-4ae5-b5b7-ca1476fbce15.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Espada de Damocles",
+      "trophyDetail": "Completa el nivel LA TAIGA.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/a7b0a1dd-0f1b-448a-9ad2-08c409d6db18.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Putrefacción",
+      "trophyDetail": "Atraviesa el túnel putrefacto.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/fda2e9f9-fd0d-4041-a81c-12fa2486e6e8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Guía",
+      "trophyDetail": "Atraviesa el centro de investigación sin matar a ningún ciego en el nivel LA CIUDAD MUERTA.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/8d324049-3305-4e7a-8573-27561dc3cca9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Máxima potencia",
+      "trophyDetail": "Duke y Damir se quedan con la tripulación; Alyosha no resulta herido.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/491666a7-06f8-4125-8b31-b97ecf7b675c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Difícil",
+      "trophyDetail": "Completa el juego en Comando Difícil.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/56b58345-44de-451f-8724-3e493e2f62ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Viaje eterno",
+      "trophyDetail": "Salva a Anna pagando el precio más alto.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/fe3c99eb-3848-4397-8b7a-89e6b7edf06a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Tu destino",
+      "trophyDetail": "Asume el mando de la Orden.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/2dab04b1-685b-4a8a-832d-8d72b232560b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Profesional",
+      "trophyDetail": "Logra una baja con cada arma.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/286c5d28-0b93-4d35-a39e-1d2471e4a29e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Armero",
+      "trophyDetail": "Instala una modificación de cada categoría en una sola arma.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/7496a97f-93fb-48ed-a315-d30305826343.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Don Limpio",
+      "trophyDetail": "Usa 500 recursos químicos para limpiar las armas.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/952c1b27-0f81-48e6-8503-890df8334a7d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Manitas",
+      "trophyDetail": "Usa 500 recursos consumibles para fabricar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/98581c35-3c2e-4d66-92e5-629d059034e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vestido para triunfar",
+      "trophyDetail": "Encuentra todas las mejoras para el traje de Artyom.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/c2fab7ca-2f23-41c6-8275-3656cd65c8c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marciano",
+      "trophyDetail": "Arregla la máscara de gas.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/90388cce-38c4-4e78-b5a9-bd72e909e3bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Último aliento",
+      "trophyDetail": "Una vez se te agoten los filtros en una zona de peligro, fabrica uno nuevo mientras te asfixias.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/7704f0b4-c8a5-45df-9beb-855bd7d440bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Antibiótico",
+      "trophyDetail": "Mata a 300 mutantes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/72320940-94e8-4e79-9474-1c3bfe0b389f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A distancia",
+      "trophyDetail": "Mata a 50 enemigos desde larga distancia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/27ffb618-6e1c-491b-b274-5fbc691f493f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Francotirador silencioso",
+      "trophyDetail": "Mata a 30 enemigos con el Tikhar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/fdd1f4a0-0bb9-44c5-bd72-4ee44aa1adea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Robin Hood",
+      "trophyDetail": "Mata a 30 enemigos con una ballesta.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/8822d01b-c364-4de6-bbf0-d2fd888d21d3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cazador de cabezas",
+      "trophyDetail": "Mata a 300 enemigos humanos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/802751b8-8401-471f-89e2-52b4411f0766.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Saboteador",
+      "trophyDetail": "Mata cuerpo a cuerpo o aturde a 50 enemigos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/d4f994e0-a9db-4b6c-8c27-6fedf3ec9eef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Caleidoscopio",
+      "trophyDetail": "Mata 3 enemigos con la mira francotirador llevando máscara de gas y gafas de visión nocturna.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/19a8a935-da12-4a60-8bbb-f84046eccaa5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pájaro de fuego",
+      "trophyDetail": "Mata a un demonio con fuego.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/743b8d91-83a6-48ee-be65-e9d8b5ebe211.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bibliotecario",
+      "trophyDetail": "Encuentra las 70 páginas del cuaderno oculto.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/e93e6e38-8fac-4058-aeef-a179c3e79620.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fotos del viejo mundo",
+      "trophyDetail": "Encuentra las 21 postales.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/8bf51a54-9718-4205-82cd-35f79b9c6b3a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sintonízanos",
+      "trophyDetail": "Encuentra una canción en la radio.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/fd5c0903-c601-4bc3-97ac-c1e8d7d1b12a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Juguetero",
+      "trophyDetail": "Encuentra tres juguetes en modo Nueva partida+: el sol, el pez y el osito de peluche.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/f99ad5a7-8a9d-4a1a-bc2e-819d1a47f6f8.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mutación",
+      "trophyDetail": "Completa el juego en modo Nueva partida+ usando cualquier modificación.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/1a450376-3cc9-4f5b-8925-9d18f7e481e8.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hierro",
+      "trophyDetail": "Completa el juego en modo Hierro.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/8405bf54-d1ed-4ef8-bff8-b454a19c9dd7.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Año Nuevo",
+      "trophyDetail": "Celebra el Año Nuevo en el capítulo THE TWO COLONELS.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/440c216e-a2a2-462c-8390-559a1656d581.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deber y conciencia",
+      "trophyDetail": "Toma una elección moral en el capítulo THE TWO COLONELS.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/b33c1a48-68e2-46eb-ab89-be3f870dbcfb.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Padre e hijo",
+      "trophyDetail": "Aconseja a Kirill en el capítulo THE TWO COLONELS.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/474ea3e7-385c-4c77-845b-9955013a0c9e.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Coronel de verdad",
+      "trophyDetail": "Completa el capítulo THE TWO COLONELS.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/b4a1f6ac-6337-4f40-b29a-b906002bb438.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La imagen completa",
+      "trophyDetail": "Encuentra las 9 páginas del cuaderno oculto en el capítulo THE TWO COLONELS.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/b8fbf4df-650d-4cfa-bfa4-d180eec2d105.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Cuidado, pesa mucho!",
+      "trophyDetail": "Mata a 3 nosalis con un ataque cuerpo a cuerpo del lanzallamas en el capítulo THE TWO COLONELS.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/fc52dca4-d1eb-4ddb-b86a-9cc4f43a9a62.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Maestro del esquive",
+      "trophyDetail": "Esquiva todos los lanzamientos del Ciego en el capítulo THE TWO COLONELS.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/ccf7f97f-436d-4d35-9c5a-2f38b6622423.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Es solo un rasguño",
+      "trophyDetail": "Completa el capítulo THE TWO COLONELS sin usar botiquines en dificultad Normal o superior.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/0d9eb796-b163-4dfb-ab4d-03ada835f0ef.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cinéfilo",
+      "trophyDetail": "Organiza la proyección de un documental en el capítulo SAM'S STORY.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/353888f5-690f-491b-81b8-64306a03c329.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trampero",
+      "trophyDetail": "Monta las 5 trampas en el capítulo SAM'S STORY como te pide el capitán.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/aba15087-3274-4b0d-9e18-9b1ca32c0178.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Intocable",
+      "trophyDetail": "No mueras luchando contra el murciélago en el capítulo SAM'S STORY en dificultad normal o superior.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/333c5aed-00c8-4224-a10b-b307f633ceee.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "El último héroe",
+      "trophyDetail": "Completa el capítulo SAM'S STORY.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/b22730b2-ed10-49b6-9245-9f2391e64e7c.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Un hombre de principios",
+      "trophyDetail": "Completa el capítulo SAM'S STORY ganándote toda la confianza del capitán.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/feeb17f3-d19c-4889-9b68-3c81d5592f22.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Búho real",
+      "trophyDetail": "Encuentra todos los alijos de los Cazadores de la noche en SAM'S STORY.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/f13f58b7-5280-435a-8606-64d9b278e4c0.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Melómano",
+      "trophyDetail": "Reúne todas las melodías para la armónica en el capítulo SAM'S STORY.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/c7f305b7-d783-46f8-8e02-c9d0f53620ed.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Señor de la guerra",
+      "trophyDetail": "Reúne todas las mejoras del fusil Sammy y de la pistola Stallion en el capítulo SAM'S STORY.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22080_00/7bde75a5-1a01-4b84-9ceb-8d6305897d8b.png",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 69
+}

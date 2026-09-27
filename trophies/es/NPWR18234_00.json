@@ -1,0 +1,633 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR18234_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "Frostpunk",
+  "trophyTitleDetail": "Trofeos Frostpunk",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/BD5DCE8B89B94E239C9790AF23775536306ACF99.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 54,
+    "silver": 4,
+    "gold": 5,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Frostpunk",
+      "trophyGroupDetail": "Trofeos Frostpunk",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/BD5DCE8B89B94E239C9790AF23775536306ACF99.PNG",
+      "definedTrophies": {
+        "bronze": 28,
+        "silver": 4,
+        "gold": 5,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "El último otoño",
+      "trophyGroupDetail": "El último otoño",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/8A548BF46B9EF8A47943FDF68BBDC4A7E455850A.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Al límite",
+      "trophyGroupDetail": "Al límite",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/B8FA9960B827C49E10E98980ED94796BB1AB46F5.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "El capitán",
+      "trophyDetail": "Consigue todos los trofeos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/AF117D9F4ED31F8804925506C8054AA6BE1F3DF4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trabajo no cualificado",
+      "trophyDetail": "Completa cualquier escenario sin construir edificios a vapor o edificios avanzados.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/633546A31B540DA8D31E70A8060A0CD0FCA21CE5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Poder abrumador",
+      "trophyDetail": "Mejora al máximo un generador (potencia, alcance y sobrerrendimiento).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/91FB9EB2C7772E3424C8E03A20A610D7C0A28017.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Peor que en Londres",
+      "trophyDetail": "Completa una partida sin construir casas o barracones.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/7DB313A8832DE56AAEA6E1FB6EAA4CC409025E89.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mejor que en Londres",
+      "trophyDetail": "Completa una partida sin construir carpas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/8D26E59C8405DFBA696607F10689CF0E5BDB11FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Supereficiente",
+      "trophyDetail": "Ten un lugar de trabajo con una eficiencia superior al... [200 %].",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/A64F949D4C78D522248D7406EA0DACAA8DE90701.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carbonización",
+      "trophyDetail": "Completa una partida usando hornos de carbón vegetal como única fuente de producción de carbón.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/0D02D03EFAD4A7941C95179BDAAA6D1C39A03D44.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Satélites",
+      "trophyDetail": "Completa un escenario sin expandir el alcance del generador.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/6E0B50FCBF197B403BE7D7991CEC1660010235F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Calefacción central",
+      "trophyDetail": "Completa un escenario sin construir calderas de vapor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/8AF03FD26FC9A36049E35EA7E315E2BE882593B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Invocador de Shai-Hulud",
+      "trophyDetail": "Ten 4 tambores de extracción en funcionamiento al mismo tiempo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/778D92746F196FA25C992602E1F642CD4DEB53EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tierra prometida",
+      "trophyDetail": "Ten el nivel de esperanza al máximo y el nivel de descontento al mínimo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/327D5D31CAB12BCD7C0AB40B255A08D5B37B4A25.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La política no es lo tuyo",
+      "trophyDetail": "Cumple con todas las medidas prometidas en una partida.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/483AEB489182F94BC83EBBF95869C11A36AC124E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Líder",
+      "trophyDetail": "Completa el escenario Nuevo hogar.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/7F654BFB06C0284DE3929153DCC151B7F5ADAC7B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hombre de hierro (Nuevo hogar)",
+      "trophyDetail": "Completa el escenario Nuevo hogar en Difícil.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/3FD735D34A8CB8315B5777AC0069762237D3C5F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unidos",
+      "trophyDetail": "En el escenario Nuevo hogar, no dejes que nadie parta hacia Londres.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/27B4CEDDDA1C6CFB564D7FFBE8DB5B2F7FE7BA1A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Almas perdidas",
+      "trophyDetail": "En el escenario Nuevo hogar, rescata a todas las personas perdidas en Tierrahelada.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/D13EAAC0F4EA46F6D1CFD7BDB35CF2D153D92BEB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Sendero dorado",
+      "trophyDetail": "Completa el escenario Nuevo Hogar sin aprobar leyes severas y sin llevar a cabo medidas duras.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/F5EC91F85BC901CF5B74B4662EA3FC416F5B77A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "El salvador de hierro",
+      "trophyDetail": "Completa el escenario Nuevo hogar en Difícil sin sufrir muertes por frío, hambre, enfermedades o exceso de trabajo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/B767F0407B817E1B055CDD553EDDE0F1E13C3A30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ahora dejadme hablar a mí",
+      "trophyDetail": "Deja que los londinenses hablen y ten la última palabra.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/4B57628FD5AA87973CDE2EF6E2974D86E8194B8D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Refugiado",
+      "trophyDetail": "Completa el escenario de los Refugiados.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/0144964736F601B66F2EE821C6D1BD24B51C6783.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hombre de hierro (Refugiados)",
+      "trophyDetail": "Completa el escenario de los Refugiados en Difícil.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/5F6DE139CE8CB9640CB23F4BCB75FD3FFC37D021.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "La unión",
+      "trophyDetail": "Completa el escenario de los refugiados permitiendo la entrada de todos los lores y resolviendo el conflicto de clases.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/6275997E343500DA4409D1D7193755908C744EFE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tecnócrata",
+      "trophyDetail": "Completa el escenario de las Arcas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/F9BC1E9C0D21B7C52C707BEF453CE46F1D9F8473.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hombre de hierro (Arcas)",
+      "trophyDetail": "Completa el escenario de las Arcas en Difícil.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/1F484317B8FD31767CDCF8CB92A28DB83238803D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Todos salieron con vida",
+      "trophyDetail": "Completa el escenario de las Arcas salvando ambas ciudades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/68CA0CD36D625AEA83A79FD61F07456665C7EA75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Superviviente de Nuevo Hogar",
+      "trophyDetail": "Completa el escenario Nuevo Hogar en modo Superviviente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/EF77D5E6043C3596A061590FCA083121AE8FC3DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Superviviente de Refugiados",
+      "trophyDetail": "Completa el escenario Refugiados en modo Superviviente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/8DC9DDAF212339CC5ACCA544A7D72CD15FD0EA41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Superviviente de las Arcas.",
+      "trophyDetail": "Completa el escenario de las Arcas en modo Superviviente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/C20ADEF951B749CF3E3A28E5E6B39DBC88FD1856.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Acorazado a punto",
+      "trophyDetail": "Completa el escenario La caída de Invernia mejorando al máximo el acorazado y llenándolo de gente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/716A36CE2A496B55C3C1D4F827DCDC0D23C5D61F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hombre de Hierro (La caída de Invernia)",
+      "trophyDetail": "Completa el escenario La caída de invernia en Difícil.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/B238E406F0FC3931B29C1FEA990BBB6047007FA0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Superviviente de Invernia",
+      "trophyDetail": "Completa el escenario La caída de Invernia en modo Superviviente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/0100E1878459F93F88AD378BBE05BDFFB4F6F56B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Invernia",
+      "trophyDetail": "Completa el escenario La caída de Invernia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/83AC3B5F1311BA65B5CFCFBF2CF397C490216D0C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maestro archivista",
+      "trophyDetail": "Llena el archivo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/9BE1B6112101BF9DE600933B1FE14C706001EE0E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Desapacible",
+      "trophyDetail": "Pierde en modo Apacible.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/CCC15694568AE92551AF6887356332B676422C86.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Casas abarrotadas",
+      "trophyDetail": "Ten más de 700 habitantes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/6E5E3329A0D2A78B0E03B2BBB4FA75A52B26F868.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultramaratón (media)",
+      "trophyDetail": "Sobrevive 100 días en el modo Resistencia en dificultad Media o más.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/33314F609FA8333E23D2155D5E0C78461B3EB2FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultramaratón (difícil)",
+      "trophyDetail": "Sobrevive 100 días en el modo resistencia en Difícil o más.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/9D360F276E58851B14F15E42810BA74F78C93F3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultramaratón (extremo)",
+      "trophyDetail": "Sobrevive 100 días en el modo resistencia en dificultad Extrema.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/FA594A5861D40BC3CA62E7F30A50185ACCDF4686.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "En la orilla",
+      "trophyDetail": "Consigue tener 4 muelles avanzados y 12 puntos de carga activos al mismo tiempo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/FE6BC45B1211AF830A4D6289C8EB5F96858CF678.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ni bien, ni mal",
+      "trophyDetail": "Construye el generador en el escenario El último otoño sin empleados en recintos Seguros o Mortales",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/07148E16F795278C4A866BDB7A0F619EB080912D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mensajero de Dios",
+      "trophyDetail": "Utiliza la oficina de telégrafos 20 veces o más",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/A2F9E552EA983CA9207705FA5B72A9E228F56F58.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reducción de emisiones",
+      "trophyDetail": "Construye el generador en el escenario El último otoño utilizando edificios que no consuman carbón",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/632C98F5703126805757781A06DD7F3B95C5ABCB.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Along the Watchtower",
+      "trophyDetail": "Construye el generador en el escenario El último otoño haciendo que solo queden ingenieros y presos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/FE05BC7ABEB7B6B0046BBF24D64A7BA98B3C898A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Trabajadores, alzaos!",
+      "trophyDetail": "Construye el generador en el escenario El último otoño haciendo que solo queden trabajadores",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/46AE0D7B36C4F598E1863916DC598328F6DFCB77.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un buen padre de familia",
+      "trophyDetail": "Construye el generador en el escenario El último otoño sin que nadie muera",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/C32B223E906AEE5B54BEEAB67435CC4F6221017F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sin esfuerzos",
+      "trophyDetail": "Construye el generador en el escenario El último otoño sin usar turnos prolongados.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/ADB5FD8CB56992D92374D35658317BDA6A834FB4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Constructor",
+      "trophyDetail": "Construye el generador en el escenario El último otoño",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/B13685F3F222C63C85B43F4D399381BB3747F41E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Volveré a casa por Navidad",
+      "trophyDetail": "Construye el generador en el escenario El último otoño antes del último envío",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/D3446FC5C3CE39073EB931ED927051CA990EA20F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfeccionista",
+      "trophyDetail": "Construye el generador con todas las mejoras y sin fallos o averías",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/1F1AE43397E7491D785368370975258B72E83374.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iron Man (El último otoño)",
+      "trophyDetail": "Construye el generador en el escenario El último otoño en Difícil",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/F2EC7E06F109E46EB360B51CDB4874999B7816EA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "El último superviviente del otoño",
+      "trophyDetail": "Construye el generador en el escenario El último otoño en Modo Superviviente",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/47BA3D848E4210EB55A234B2A518823F3861C309.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Me siento afortunado",
+      "trophyDetail": "Elige siempre la decisión arriesgada en Tierrahelada en el escenario Al límite.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/C8EE95D3DC749F786A941E9B041133A06A275A80.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aquí Nueva Londres, cambio.",
+      "trophyDetail": "Contacta con Nueva Londres.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/FF4589EF5F6FC8BE5C3B9E5C578EBFDE485138A3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Imperdonable",
+      "trophyDetail": "Deja que Nueva Londres caiga en el escenario Al límite.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/E1EA8DC673845E06ABFAA1E54CEEAE76CCE9B3CA.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Estamos juntos en esto",
+      "trophyDetail": "Salva a Nueva Londres en el escenario Al límite.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/1EAB7F7DD901667673700A135D1A2278285FCAA1.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Todas tus bases conectan con nosotros",
+      "trophyDetail": "Construye todas las rutas seguras.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/6D3B60B8E1198F7F4C27FF837104C6594D78BE7A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Esclavista",
+      "trophyDetail": "Haz que todos los asentamientos desconfíen de ti.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/5366C2378ED75FD163671C431509BD7C9B830317.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Activista social",
+      "trophyDetail": "Haz que todos los asentamientos te sean leales.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/7FA3BDC463C770CF2B458B6305EC44F8DC78DF87.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guardián",
+      "trophyDetail": "Completa todas las mejoras en la Mina de los niños.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/3F0F884490CDEA0003E270D87BA02D502740D7A9.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defensor de los oprimidos",
+      "trophyDetail": "Completa todas las mejoras en el Campamento arruinado.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/39622E16F33BFD86EDF786D608F870F424E987A7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ecologista",
+      "trophyDetail": "Completa todas las mejoras en Hot Springs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/F3C92AEE52A29C367D719C547D8174620835D4DA.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contratista",
+      "trophyDetail": "Desarrolla todos los asentamientos al máximo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/EDDBCAC6EE89515E8AE2C5C6CFAEB69F517215CD.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hombre de hierro (Al límite)",
+      "trophyDetail": "Completa el escenario Al límite en Difícil.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/3E110C99CE513A2556A250E6C863E7A4EB421DA3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Supervivencia al límite",
+      "trophyDetail": "Completa el escenario Al límite en modo Superviviente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18234_00_00179CADBE515771BB3B09E476E47DEC809BCD4198/CCF71003FC45DB6AAC7B77774E075EEE4CF59E42.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 64
+}

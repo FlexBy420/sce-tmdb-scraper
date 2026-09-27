@@ -1,0 +1,315 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR13902_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Project Nimbus: Code Mirai Trophy",
+  "trophyTitleDetail": "Project Nimbus: Code Mirai",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/1F7149C348F01BF890A5235A79CB1707F7B0FB19.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 11,
+    "silver": 10,
+    "gold": 8,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Project Nimbus: Code Mirai Trophy",
+      "trophyGroupDetail": "Project Nimbus: Code Mirai",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/1F7149C348F01BF890A5235A79CB1707F7B0FB19.PNG",
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 8,
+        "gold": 7,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Project Nimbus: Rise Mirai Trophy",
+      "trophyGroupDetail": "Project Nimbus: Rise Mirai",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/6F1E82426310316F146FFE135B5081F596A1DCF5.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Above and Beyond",
+      "trophyDetail": "Completed all other trophies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/4A014E9649B1DDF5C6AE52119E0932EC76CC1DB5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pilot's License",
+      "trophyDetail": "Completed the Tutorial mission.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/D0A8CAA93E68D5882B02154DB18918D324558850.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "4th Generation Pilot",
+      "trophyDetail": "Completed all Act 1 missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/3A806ACD2E2807D72A86CBF1FF244ACD32CD84DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "At What Cost, Peace...",
+      "trophyDetail": "Completed all Act 2 missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/641EC06EE049B309AF6FA0908D502E1096A24915.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Safety's Still On",
+      "trophyDetail": "Completed a mission without firing any missiles (when flying a missile-equipped Battle Frame).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/5387D52717A5F61022C44DDD4DD03BA96EBB2F7F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Combat Rated",
+      "trophyDetail": "Defeated 100 enemy units.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/A2EF5E1AB34EBB9BC259C7F7F03185ACD004318D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ace Pilot",
+      "trophyDetail": "Defeated 1000 enemy units.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/2B36F5ED00C4D92D08285B7EBF4F12C0C10110B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Remote Operator",
+      "trophyDetail": "Used Funnels for the first time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/4C1D22BC44C3A4EEAF47558182AB0B972DDC2546.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to the Circus",
+      "trophyDetail": "Fired 1000 missiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/B712F6A8517925D3D0EAFF85FE7855A014FD1BF4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Fully Rated",
+      "trophyDetail": "Piloted every Battle Frame available.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/A3EC548964D9923CFA9DD2A39AF0020B3EB8B271.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stayin' Alive",
+      "trophyDetail": "Stayed alive in Survival Mode for 7 Waves.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/F97906936B5545AD7E4E8D9396C7D0381A1347EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "I Held A Party",
+      "trophyDetail": "Stayed alive in Survival Mode for 15 Waves.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/BAD281238C798CCBF00BD16BC7CAD5E57A206531.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Prepared For Nothing",
+      "trophyDetail": "Completed all Act 1 Missions on Prepare to Die.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/7025A36EE08BEF054D816BE947BC83E3D7165D45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "I Am Invincible",
+      "trophyDetail": "Completed all Act 2 Missions on Prepare to Die.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/78086849495B6AEFC0B541B4653290DFF1936476.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Cavalry Not Needed",
+      "trophyDetail": "Defeated all enemies before reinforcements arrived during “Red Comet.”",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/3F30F08B4684132DF25FACE051F6B9A0E48ED25F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "I Closed My Eyes",
+      "trophyDetail": "Used the Blade to deflect a missile.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/94A43BEB565C2C57A9B1B35FD487B51B06B66D7B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Steel Pigeons",
+      "trophyDetail": "Defeated all parachuters before they reached the ground during “Bird of Peace.”",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/A8D0BFC90B15200C1047B50AABFE360F19002883.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Secret Service Recruit",
+      "trophyDetail": "Prevented the Air Force One from taking any damage.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/58075780A9124B8500FB8D0DA197F95B71674EC6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Not A Clunker",
+      "trophyDetail": "Used the M1 Guardian and survived 5 waves in Survival Mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/8B2E0DDB4401877D678F431CA5ED2FEB29982D0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lay It On Me",
+      "trophyDetail": "Completed a mission using only the Blade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/7F40044ABA9B9D378DB7A6EB7A08342112D82327.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Archivist",
+      "trophyDetail": "Listened to all Audio Logs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/501D45BA9B35279F0350805820103AA5B1F3068D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "From Russia, with...",
+      "trophyDetail": "Defeated Yuliana.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/4A943A97371DE0DBB44016F2AF27C142F3CEA45E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Heartbreaker",
+      "trophyDetail": "Defeated Jennifer.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/7AA626490C0601E016D071159FBFD2E78EC8465B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Survived Judgment",
+      "trophyDetail": "Defeated Obana.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/5F881E282F8D60B1802AD96B525B1534993D20C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "United by Hope",
+      "trophyDetail": "Completed all Act 3 and Act 4 missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/EA1BB658DA8EB7C12F55BA591AFAAEC56B749C3D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "To Infinity…",
+      "trophyDetail": "Completed all Act 3 and Act 4 missions on Prepare to Die.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/A443868C2DE66206A7E49E3FB4AF4B36FB02FCF3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Guilt Trip",
+      "trophyDetail": "Find Andei's Mech in Comatose.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/99D1E6F3F0756DF80CFBD335F413B4181D0F7828.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Between the Dragon and his Wrath",
+      "trophyDetail": "Defeat Dragon's Eye before he finishes talking.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/E1AB32DDC8FF152885C6DE9FDF2E92CF82DC249E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Mind Over Metal",
+      "trophyDetail": "Defeat Norther on Prepare to Die.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/71D07CCB44604ECEDF42CD8BB1B7F6C295731367.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Revelation",
+      "trophyDetail": "Defeat the wave before Testament in 1:16.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/1EDFEBCF0DF7ECA5B6D151E433B9667527FAACCA.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 30
+}

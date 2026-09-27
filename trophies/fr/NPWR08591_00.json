@@ -1,0 +1,696 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR08591_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "Tropico 5",
+  "trophyTitleDetail": "Trophées de Tropico 5",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/1E23F1B95C379030CCF96DA2105CE35FB4119E6F.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 48,
+    "silver": 21,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Tropico 5",
+      "trophyGroupDetail": "Trophées de Tropico 5",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/1E23F1B95C379030CCF96DA2105CE35FB4119E6F.PNG",
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 15,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Tropic'eau",
+      "trophyGroupDetail": "Collection de trophées pour l'extension Waterborne",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/5FE5B78EA23C69275D58ED64E77E6137DE11CC07.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Espionnage",
+      "trophyGroupDetail": "Collection de trophées pour l'extension Espionage",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/3684F0507FC5E38E401A14888233D5F1314BA725.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Trophée platine de Tropico 5",
+      "trophyDetail": "Tous les autres trophées de Tropico 5 gagnés",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/676A37408DE3448A44D3777314D6B36A8038A2CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La dictature pour les nuls",
+      "trophyDetail": "Vous avez terminé tous les didacticiels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/113B4B34EF2C4A04EDE5EA67229DB229DF56ACE8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Une nouvelle aube",
+      "trophyDetail": "Vous avez terminé \"Une nouvelle ère\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/2977FBFD830D38E244FE7E3004FC8D38AC399510.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Jour 0",
+      "trophyDetail": "Vous avez terminé \"Jour Zéro\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/44FF195A86B0D73524A8015969DA18EF1821648B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Retour vers le passé",
+      "trophyDetail": "Vous avez terminé \"Retour vers le passé\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/203D49E0EE5EC8E9413C605423EA6278A0F53F2E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Léon doit mourir !",
+      "trophyDetail": "Vous avez terminé \"Léon doit mourir\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/4F41C311D28F72237EEFB21F0B8FDE563D815949.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Espoir",
+      "trophyDetail": "Vous avez terminé \"Espoir\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/2D4CD85C81202B9069B49910055A5C7381525922.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Esprit sportif",
+      "trophyDetail": "Vous avez terminé une partie en multijoueur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/1C228542E421A20F7B2E0685682743FEDC035DB1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le projet Beale",
+      "trophyDetail": "Vous avez remporté la victoire par les points dans une partie en multijoueur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/B1B6CB9B91C4CBA4216557126870A793A05E7E4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un tableau de monnaie",
+      "trophyDetail": "Vous avez remporté la victoire par l'argent dans une partie en multijoueur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/F38BC927473B42C1823F5D8599809C766C60998B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fana d'architecture",
+      "trophyDetail": "Vous avez remporté la victoire par la construction dans une partie en multijoueur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/00CBB177BC1FF166720442C458958AF075DD4F67.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quoi de neuf, dock",
+      "trophyDetail": "Vous avez relié un dock avec celui d'un autre joueur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/669CB38170DCBBDABF95BBDE52EB7024DDF05E87.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Connaît pas la crise",
+      "trophyDetail": "Vous avez produit et partagé 1000 MW d'électricité avec un autre joueur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/22A2BCFE9307F151E88B0CB1075585942730BCB1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Empire des mers",
+      "trophyDetail": "Vous avez possédé une flotte de 12 navires commerciaux",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/DD5C058D7EF495D479F3CB26DA0E05327B9E069F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Terrain miné",
+      "trophyDetail": "Vous avez extrait 100 000 unités de minerai et de charbon en une seule partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/667199EB760C4849378AACB81667CE83E1F3EE91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le quinze de Tropico",
+      "trophyDetail": "Vous aviez des directeurs dans plus de 15 bâtiments en une seule partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/FB9C6FDBC61B3A2EC5350BA9C37B24515985648E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Amis, sinon rien",
+      "trophyDetail": "Vous avez dépassé 90 en relations avec toutes les factions à l'époque moderne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/DBDD7CDB8D636189055D409816FA68D81B93C6D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Colonie éternelle",
+      "trophyDetail": "Vous avez dirigé pendant 100 mois en tant que gouverneur colonial",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/188734C0348672F2D65DF1FCF3E8AD2A412007D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Made in Tropico",
+      "trophyDetail": "Vous avez exporté 100 000 produits de luxe",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/9FA01BA3689D89F3D6331DD7560C34CD355F5FF4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Communauté agricole",
+      "trophyDetail": "Vous avez eu plus de 20 plantations, fermes hydroponiques, élevages int. et ranchs en une partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/9613B25263BA699C08C1CDB4B171FF99A1525C48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Foule des grands jours",
+      "trophyDetail": "Vous avez eu plus de 500 citoyens en une seule partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/1E14EC0057A793A95AC2920A2526E261CE5A4CAE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mégalopole",
+      "trophyDetail": "Vous avez construit 150 bâtiments en une seule partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/BC3799674A9DD63DD034378647D5C24FA77539FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pension de retraite",
+      "trophyDetail": "Vous avez placé plus de $$200 000 sur votre compte en Suisse",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/BEF0443027378533B9BB44B26D1585F80CC56A38.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le grand chemin",
+      "trophyDetail": "Vous avez construit plus de 2000 mètres de routes en une seule partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/F2722464503108B8868182285B9388DBC3102916.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Espoirs chinois",
+      "trophyDetail": "Vous avez ouvert avec succès 5 routes commerciales avec la Chine en une seule partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/0F263EB4A29AB7248B390F8458F262D43F98B44B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Etats-Unis de Tropico",
+      "trophyDetail": "Vous avez terminé une partie en ayant atteint 100 en relations avec les USA",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/2CF1D428C22D16AA9164FA377CE7356A7E9657F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mondialiste",
+      "trophyDetail": "Vous avez accueilli 5 puissances étrangères en même temps dans vos ambassades",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/A971CAF8E733F8843702C8143425671AC64B0E30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Destination de rêve",
+      "trophyDetail": "Vous avez eu des touristes plagistes, familiaux, cultivés, éco et aisés en même temps sur l'île",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/552D85DC335EA6F1ED9B9722AB230A00ED58D1E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tout le monde s'éclate",
+      "trophyDetail": "Vous avez gagné $50 000 de revenu annuel grâce aux bâtiments de divertissement",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/47491B795C69A4639252481146B0022943C9C7B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capitaine d'industrie",
+      "trophyDetail": "Vous avez possédé 10 bâtiments industriels différents en une seule partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/267139AC9ADCA09504E79C1E8BA98EDD12EA5A3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tout le monde il est beau",
+      "trophyDetail": "Vous avez dépassé 50 dans tous les types de satisfaction",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/6CC08D4CEECBD1F8B62368AB16049C146E0E23FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Septième ciel",
+      "trophyDetail": "Vous avez atteint un niveau de satisfaction générale de 77",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/B346416EE2B858E39BF3BA04EA6D5FE562237852.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Il fallait être gentil",
+      "trophyDetail": "Vous avez exécuté un chef rebelle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/6BEA5F3FD73D89DC5687F3C8497D40F7DFDD16F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Graissage de patte",
+      "trophyDetail": "Vous avez soudoyé un chef de faction",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/EC6B4A975A5C9117A46AA050703DA63D4302BCAC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Surdiplômé",
+      "trophyDetail": "Vous avez eu un membre de la dynastie dont l'une des compétences est de niveau 5",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/99A5445D8A52E8D9844AA70C947533F00B548539.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "De la suite dans les idées",
+      "trophyDetail": "Vous avez reconnu un nouvel héritier",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/D697CFEBD921AA342227D819326A618BBDF811A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Miroir, mon beau miroir",
+      "trophyDetail": "Vous avez changé l'apparence d'un membre de la dynastie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/EF44313979B8D2DBE157D03639D8AF0A765B9B3F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "C'est 7 !",
+      "trophyDetail": "Vous avez eu plus de 7 membres dans votre dynastie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/6D1C196560001F0F3408D42F657B9381F8CDBFAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'Histoire m'acquittera",
+      "trophyDetail": "Vous avez survécu à une attaque rebelle contre le palais",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/B55B5C9387BD29E8B6799707FF6461DDB3D8C257.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Qu'ils mangent de la brioche",
+      "trophyDetail": "Vous avez survécu à un soulèvement",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/78E855EAF8679CD9BE5FE276AFB3E716681E809D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Putsch ? Quel putsch ?",
+      "trophyDetail": "Vous avez survécu à un coup d'Etat militaire",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/18681D3A75F5A9B7654E717D3C4DB0F9CBD9EFFA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "La baie des cochons",
+      "trophyDetail": "Vous avez survécu à une invasion des USA",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/8150C87CB1A2138E0138AF34181A532E1752C120.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Armée de bonnes intentions",
+      "trophyDetail": "Vous avez possédé 5 bases militaires en une seule partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/BC8B88A6E5CA22A066C832E8FCD0BFF0CE1D135E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Garde à vous",
+      "trophyDetail": "Vous avez possédé 20 tours de garde en une seule partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/AD4DEEE3859F20779B19D0ECA973EBCFD57FF957.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rétrofuturisme",
+      "trophyDetail": "Vous avez atteint l'époque moderne avant l'année 1960",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/2C9D68F35634C68E1AEAA3B230F897E3415EF83F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pour la science",
+      "trophyDetail": "Vous avez découvert toutes les technologies au moins une fois avant 2005 en une seule partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/4F565520E5AC6618E6C5B151846078413B9934A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Principes fondamentaux",
+      "trophyDetail": "Vous avez modifié la Constitution plus de 6 fois en une seule partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/6085F6BC83E0B8E39D9007D3A54ABE06C7DAF8C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bureaucrate",
+      "trophyDetail": "Vous avez promulgué 20 décrets en une seule partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/41FBB0BA8166380CB365BA1333ACE713CFA3A9A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'important, c'est de...",
+      "trophyDetail": "Vous avez promulgué le décret \"Accueillir les Jeux\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/03A9531E07B171205E14021AC86425B0DE55AAE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Claustrophilie",
+      "trophyDetail": "Vous avez gagné une partie en mode Bac à sable sur une île rikiki",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/45EE99AFDCC557169D8CC8ABFCA647E749EDBD99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Une époque agitée",
+      "trophyDetail": "Vous avez gagné une partie en mode Bac à sable avec des désastres continuels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/2423F09D2AF7FAF9DF4D5090BDFF5A94BE2EBD41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La Perle noire",
+      "trophyDetail": "Vous avez terminé \"Chasse au trésor\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/8714409A2A1B9C65CA78964C150676D476EFF4ED.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La nouvelle vague",
+      "trophyDetail": "Vous avez terminé la campagne Tropic'eau",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/2CD9EADEE582D9365896A5634B9ABBFCA05E3910.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Herbivore",
+      "trophyDetail": "Vous avez battu Captain Plante lors du combat final",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/679BA7356BAB7BFE06713FBE0C67C3652E4F82B6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mon précieux",
+      "trophyDetail": "Vous avez terminé la campagne Tropic'eau avec la Perle noire en votre possession",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/5C0E941DF4185369D78305646F22DD6FAC35451E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Merci pour le poisson !",
+      "trophyDetail": "Vous avez possédé une flotte de 3 chalutiers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/84204FFCB35834FBB6104A95CB6D83085C1BBB98.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le Roi des perles",
+      "trophyDetail": "Vous avez possédé 3 parcs ostréicoles et 1 usine de joaillerie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/937B2CD2B943275845165C203C40EFCE524637E3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "C'est quoi, ce bouton rouge ?",
+      "trophyDetail": "Vous avez tiré des missiles avec un sous-marin nucléaire lors d'un combat contre un autre joueur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/203E2608AA3FEB47C80739A8905C50BE24B5D508.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ils flottent tous en bas",
+      "trophyDetail": "Vous avez possédé 10 appartements flottants et 0 bâtiment résidentiel sur la terre ferme (hors cahutes)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/B6734A9063910D9958D1354848F3A85D703074E0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A l'eau ?",
+      "trophyDetail": "Vous avez possédé 1 bâtiment Tropic'eau de chaque type en une partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/1D4EB5C59EF858BAD796BE0A341737494FE010A8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Paradis des expatriés",
+      "trophyDetail": "Vous avez accueilli 5 superpuissances dans des bureaux extraterritoriaux",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/5689E1D0CBB5700BD06D3E78CDC95EA226ADCA01.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le Toucan maltais",
+      "trophyDetail": "Vous avez terminé la mission 1",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/558CCADB48DAE27D2418199D2E919D87A326D120.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Presidente 007",
+      "trophyDetail": "Vous avez terminé la campagne Espionnage",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/928EEB1F1A23A3B3FB8A5AD24CC744A03478FEC7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le front silencieux",
+      "trophyDetail": "Vous avez effectué un sabotage en multijoueur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/4B7C597C18AEB58BEF27567552EA7D71FAEF1CEF.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tropicoleaks",
+      "trophyDetail": "Vous avez révélé des secrets de 2 superpuissances dans la même partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/39DF08B7CA76C694A31C1C42B5938C856BA43E72.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Contre-espionnage",
+      "trophyDetail": "Vous vous êtes occupé de 10 espions étrangers dans la même partie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/97DCA6F027FB4B2B9CFBB454A826F1FB5131A383.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Utopie inversée",
+      "trophyDetail": "Vous avez eu un ministère de l'information, un donjon et 10 points de contrôle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/4B24349AB39415AB0F561B23558682D8DACC2DBE.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Brother",
+      "trophyDetail": "Vous avez eu 5 dirigeables de la police",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/2C78CDD7BC04253F4134F4CD7D1B93EEC9253061.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bons baisers de Tropico",
+      "trophyDetail": "Vous avez eu 13 espions fidèles simultanément",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/C2AFE9517768CBD740A56281515705C44D75098A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Surpopulation carcérale",
+      "trophyDetail": "Vous avez eu 20 prisonniers dans les donjons et prisons supermax",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/F2CC8CABF021293D7C27D9989D1B7BEDF61053E3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drone de destruction massive",
+      "trophyDetail": "Vous avez éliminé 20 citoyens indésirables à l'aide de drones",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/1FB332CC23404D93AFEB570FAF8D1AC5A6F131AA.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 71
+}

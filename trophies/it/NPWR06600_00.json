@@ -1,0 +1,567 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR06600_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "Assassin's Creed® Unity",
+  "trophyTitleDetail": "Trofei di Assassin's Creed® Unity",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/DA1157CCDD3B5A79EECCFFD97A5730424460FA91.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 41,
+    "silver": 14,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Assassin's Creed® Unity",
+      "trophyGroupDetail": "Trofei di Assassin's Creed® Unity",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/DA1157CCDD3B5A79EECCFFD97A5730424460FA91.PNG",
+      "definedTrophies": {
+        "bronze": 36,
+        "silver": 13,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Assassin's Creed® Unity: Dead Kings",
+      "trophyGroupDetail": "Trofei di Assassin's Creed® Unity: Dead Kings",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/0EB1EEB1E549B5D74C61A70386747C71FF4F8779.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Maestro Assassino",
+      "trophyDetail": "Ottieni tutti i trofei.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/C573191849D30503EFCAC39BFAD56A5A78CE6DB8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tanto tempo fa",
+      "trophyDetail": "Completa il prologo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/C8F5835C4950228FF5B103BDAFB6545200B0BAFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Giovinezza a Versailles",
+      "trophyDetail": "Completa la sequenza 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/E2ED5053E141B7B52FA4D9287D46CD0A639255B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rinascita",
+      "trophyDetail": "Completa la sequenza 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/92FE7A18519795D2E961F109720135CD9044CABD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Primo sangue",
+      "trophyDetail": "Completa la sequenza 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/F0D95BF5F7561162151E2A2C4CCD8C8C5C079747.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "La Corte dei miracoli",
+      "trophyDetail": "Completa la sequenza 4.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/C8B3CE9AFA4AF7B871B00B94A38290E9DA427F7A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Le radici del male",
+      "trophyDetail": "Completa la sequenza 5.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/1B5A3028E9327370A601DF2E00B1790FA7689171.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Incontro segreto",
+      "trophyDetail": "Completa la sequenza 6.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/4AE63C40107D6135325E8781E4EBCBCF68C804F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mistero risolto",
+      "trophyDetail": "Completa la sequenza 7.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/56AD6CA4CEAA9F1F53791EF23110A3A4ADC69F3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Traccia insanguinata",
+      "trophyDetail": "Completa la sequenza 8.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/EC9EFC475CF141F0C0F2C856866786A4D910C127.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Verso l'indigenza",
+      "trophyDetail": "Completa la sequenza 9.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/11A49004614CB16D9C4B879E60CBFEE83E0E05CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Amore e dovere",
+      "trophyDetail": "Completa la sequenza 10.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/89AC72426581C650545FFA5F7EC58AE1A6CB7D3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A terra ma vivo",
+      "trophyDetail": "Completa la sequenza 11.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/6450086FCA84A196E3DC9A5AC96782D559FD88C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Sipario",
+      "trophyDetail": "Completa la sequenza 12.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/51BDA843FC2549DEABE75C575F945036E596E154.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Terra di nessuno",
+      "trophyDetail": "Completa tutte le missioni Frattura.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/526012F71617EE06FD1C0B2A8D01954579F2BB61.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Servono più dati",
+      "trophyDetail": "Ottieni dati bonus in 3 diverse fratture Helix.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/D3BDB91366CEC709796C5806102DC6FD9072F644.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Disgelo",
+      "trophyDetail": "Libera 10 Assassini intrappolati.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/06907497D4B0B7024909A2C1612C9CF216C50E95.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Una lama tra la folla",
+      "trophyDetail": "Assassina 100 nemici.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/B375D562A83E5F590C36FA829EBC415D82E074C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Voglio tutto",
+      "trophyDetail": "Completa tutte le sfide nelle missioni per giocatore singolo a Parigi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/6630984CB461E3E935D4CBFECA13B66CF6E6B0D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rete sociale",
+      "trophyDetail": "Restaura il tuo primo club.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/AE8F38E150E0533E14A26EAE4274E142B45B3B9F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Vita sociale",
+      "trophyDetail": "Restaura tutti i club e completa tutte le missioni club.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/42BA2D93810CE473AAC218D81516988A5CF08CB2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Caduto dal cielo",
+      "trophyDetail": "Esegui 10 assassinii in volo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/8FCFC1914B4B436D39A426882FF3D00EFF87CA4B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dal passato",
+      "trophyDetail": "Sblocca l'armatura medievale nel Café Théâtre.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/6C37EEB5C7DFFE1EEE640CA09E107C5DE84C6D44.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La banda della baguette",
+      "trophyDetail": "Completa una missione Coop a Parigi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/34E13995754A83DDBD105E0A204A9C13B6B97FD1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Superbia",
+      "trophyDetail": "Completa tutte le missioni di addestramento.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/A2C28DF6A7291B9EB5F93564BFDACA8728F03DC3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mano di velluto",
+      "trophyDetail": "Forza 20 scrigni.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/EDD3154C492624A981D74DB33E58416E095A09FE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Curiosità",
+      "trophyDetail": "Apri tutti gli scrigni a Parigi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/30373541C9215AB82EE4E51A97744BF03CE62B3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infaticabile",
+      "trophyDetail": "Completa tutte le missioni Coop e Furto a Parigi almeno una volta.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/CDE2FCB5EF57D0FDD9B0D98C939E67B00D25A3F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dovere e piacere",
+      "trophyDetail": "Guadagna 50.000 livre.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/F20CF07E5EE7751717979E8667F83B084C7A4FFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "E resta giù!",
+      "trophyDetail": "Esegui un'uccisione a terra.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/9489358157C7F785C75C7862899461DABD2B46F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Panorama",
+      "trophyDetail": "Sincronizza tutti i punti d'osservazione a Parigi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/2B6ACD65221D7F01E2AF6A0C14547A591B5BCF55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aiuto!",
+      "trophyDetail": "Completa 10 eventi folla.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/195B1822946A4C7516FE6B4C094AAD081DC91BD7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Giustizia è fatta",
+      "trophyDetail": "Risolvi un Omicidio misterioso a Parigi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/765AA9A75E9CFFE6E0B1660A16096BA637198D97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Versailles a setaccio",
+      "trophyDetail": "Completa Versailles al 100%.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/D72351C07094D0DEAB3AB35B019E84CA6CCC27AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Previsione accurata",
+      "trophyDetail": "Completa un Enigma di Nostradamus a Parigi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/FE4501449BAB8C4538B7E22123788B4DA20AB2C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tricolore",
+      "trophyDetail": "Raccogli tutte le coccarde.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/5436E4A6F3F7AA98CC42522BF290C96E2FF1D346.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Non mi serve",
+      "trophyDetail": "Lascia cadere 20 borse di monete per strada.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/5BEA2D7C7F4307D827384BB880AB8D5B1A1F5423.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Patrono delle arti",
+      "trophyDetail": "Assisti a una commedia nel Café Théâtre.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/6A73C460E28C0AD55DB6CE0D5AA17503F3AD780F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Condivisione",
+      "trophyDetail": "Ottieni tutte le ricompense in una missione Coop a Parigi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/C39C9E8397DC28655E928C5EFFEC6C2A6940841B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Al sicuro",
+      "trophyDetail": "Esegui tutte le missioni club in un quartiere.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/C01F50DEF42F06F41DE3C6273FD1B02D8AF2D56C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Camera con vista",
+      "trophyDetail": "Goditi la vista di Parigi dal balcone di Arno.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/7A082BF1E5A16F0061B2AE2974636B2A37EA6792.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infilati!",
+      "trophyDetail": "Uccidi 20 nemici con un'arma lunga.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/7ACE5349C57AC0080A6C082172327B019CD85A2E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tagliuzzati!",
+      "trophyDetail": "Uccidi 20 nemici con un'arma pesante.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/5AEC9985458516A029C91BD3B687F019B06B35E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Archistar",
+      "trophyDetail": "Completa tutti i restauri del Café Théâtre.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/31C2634E00E20F02CFCBF921168DCCB8DE23A7D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strozzato",
+      "trophyDetail": "Uccidi un nemico con il contrappeso di un montacarichi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/0C99005A5D2323588BF390C1337ACB10376E5115.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Morte apparente",
+      "trophyDetail": "Rianima un compagno in modalità cooperativa.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/DE767B4CD09562AF27F5550C87229CC8E6313A03.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cuore tenero",
+      "trophyDetail": "Stordisci 10 nemici senza ucciderli in una missione Coop.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/C6E70DDDE23D5566956B80D63886FE59452F2A01.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coreografia",
+      "trophyDetail": "Esegui 10 uccisioni sincronizzate.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/2291F286D49E4DB1B596924D383867E79B9F68B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Din don!",
+      "trophyDetail": "Sabota 5 campane d'allarme a Parigi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/09FBBBEB9D76398A6FAD676AA9FF03F5B5B49121.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Perché chiuderle?",
+      "trophyDetail": "Forza 5 porte.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/EC77860CC618CCF23BAF95C7A124B9D1F0D8576B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Abilissimo",
+      "trophyDetail": "Sblocca tutte le abilità.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/9F9858499B29D9457DF4B1C628189A8B52F7C7B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Frutto dell'Eden",
+      "trophyDetail": "Completa la sequenza 13.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/744F90FF96A4DC819318E730838C94F5F52CE8FD.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eroe di Franciade",
+      "trophyDetail": "Completa L'eredità di Suger e recupera l'Aquila di Suger.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/C49D474CF84DF44535497DE2939FEDE7DA5CD7A4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Liberatore",
+      "trophyDetail": "Libera ogni avamposto a Franciade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/0F20F2360482AA33E3E933B4048CB21F42B28A70.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Regno del Terrore",
+      "trophyDetail": "Uccidi 5 nemici insieme con un mortaio a ghigliottina.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/9548F7965AB2E4D3ACC18E471E9E438DFF03ADA3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eroe della libertà",
+      "trophyDetail": "Uccidi 15 capi dei saccheggiatori.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/01D22CD4AD7C1B49C96E3DD46DB71702FB4B6D80.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legami profondi",
+      "trophyDetail": "Ottieni il 100% di sincronizzazione in Dead Kings.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/776509CD940E8204CA8EE18D0C51BE4040669AF8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fraternità!",
+      "trophyDetail": "Completa la missione Furto e la missione Coop di Dead Kings almeno una volta.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06600_00_00AFD97060968F822BF934F9BA406EF41310E6D63F/3C73DA8598D4B8A1EA6AC54A7AEB351E9868A0F7.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 58
+}

@@ -1,0 +1,373 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR21908_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Hunting Simulator 2",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/8194e2fb-5893-4a7b-b1e8-94882ce4703f.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 23,
+    "silver": 10,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Hunting Simulator 2",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/8194e2fb-5893-4a7b-b1e8-94882ce4703f.png",
+      "definedTrophies": {
+        "bronze": 23,
+        "silver": 10,
+        "gold": 4,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Ultimate Hunter",
+      "trophyDetail": "Unlock all trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/07f5e97c-8e22-44b9-be33-3f0c1c38ce4b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just getting started",
+      "trophyDetail": "Claim your first animal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/c6505d48-ae3c-44fe-81d4-ac92dbbbb868.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Jet-setter",
+      "trophyDetail": "Claim 1 animal in each of the 3 regions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/5cf81ac2-1a39-483e-abd1-52176fcbb209.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "New territory",
+      "trophyDetail": "Claim 1 animal in every district in each region.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/b5afa494-ae64-4ea8-b9c8-5756335cc9d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Collector",
+      "trophyDetail": "Purchase every weapon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/dd8ec65b-f7df-47ba-a42d-35946b21fb3c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "One of everything",
+      "trophyDetail": "Purchase all gear at least once.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/0de01fb7-6d09-4273-8459-e7df53a155bc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meadow explorer",
+      "trophyDetail": "Find all Points of Interest in Pawnee Meadows.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/3ec8ac3a-27f7-4b2f-8727-8dda2b94016e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forest explorer",
+      "trophyDetail": "Find all Points of Interest in Roosevelt Forest.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/7ee6c435-476c-4084-ad70-99358b368e05.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marshland explorer",
+      "trophyDetail": "Find all Points of Interest in the Czechia Marshlands.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/89ac6746-2da1-41d9-8654-006b8127df65.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Romanian explorer",
+      "trophyDetail": "Find all Points of Interest in Harghita County.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/be5e7f8b-479b-478f-8d69-5e43f828d206.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Desert explorer",
+      "trophyDetail": "Find all Points of Interest in the Chihuahuan Desert.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/792da3ab-1b82-4a9a-a726-98167798f609.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bandera explorer",
+      "trophyDetail": "Find all Points of Interest in the Bandera Region.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/5bd51493-5fe3-4e08-89ed-b8d9101737e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Colorado cartographer",
+      "trophyDetail": "Find all Points of Interest in Colorado.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/8c7fe67d-9233-4a46-82d6-b235be7dd2d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Europe cartographer",
+      "trophyDetail": "Find all Points of Interest in Europe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/648bb12b-1e6d-4a2b-a2ac-73afdb6f7893.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Texas cartographer",
+      "trophyDetail": "Find all Points of Interest in Texas.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/104051a0-18a4-484c-abfc-9fe9a0385afb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Christopher Columbus",
+      "trophyDetail": "Find all Points of Interest in every region.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/6c2872c9-b87c-4b53-bba9-38bd12d3cd20.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Jack of all trades",
+      "trophyDetail": "Complete all competitions in the Shooting Range.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/36003ef7-56f4-4027-a2ad-8a0163f8efd3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eagle eye",
+      "trophyDetail": "Spot your first animal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/9ce3bfe4-3cf8-4ad4-b94c-92dfbfaa2282.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Investigator",
+      "trophyDetail": "Analyze your first track.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/713d93ae-8294-463f-b220-690db9b873ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Private Investigator",
+      "trophyDetail": "Analyze 100 tracks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/d1edbc96-6d4c-4251-950c-55491f4fb47d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Detective",
+      "trophyDetail": "Analyze 1,000 tracks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/b40df3d8-8cb4-4819-abb1-abd608ac4fc1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sherlock",
+      "trophyDetail": "Analyze 5,000 tracks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/71f2c956-a28b-449e-844c-c39d41010f2b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Good boy",
+      "trophyDetail": "Claim an animal after your dog has tracked it.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/3004d845-3e20-459f-843a-13aeca6e99e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fetch",
+      "trophyDetail": "Claim an animal after your dog has retrieved it.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/0c1fcd7d-97b5-4cc8-9596-73a38886fa8d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ain't nothing but a..",
+      "trophyDetail": "Claim an animal after your dog has tracked its blood.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/3f4d8241-25c6-40cb-b650-1fb24f98f345.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Good point",
+      "trophyDetail": "Claim an animal after your dog has pointed toward it.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/bd30398d-cffb-4d18-986e-9e60792e8924.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Training 101",
+      "trophyDetail": "Max out all three meters for one of the dogs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/84388f53-4f26-420c-93b5-3df3f67d6b3c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dog whisperer",
+      "trophyDetail": "Max out all three meters for every dog.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/600825c5-a9ec-4db4-8f04-b519b4104d0d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The waiting game",
+      "trophyDetail": "Spend an hour in a stand.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/b429e117-ba2c-4d3e-a11a-41cf738f82ca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stand hunter",
+      "trophyDetail": "Land a killing shot from a stand.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/463f4dc1-117f-4db5-bc12-7406938fc28d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Better than nothing",
+      "trophyDetail": "Claim a young animal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/337d2558-fa83-407c-832d-d356c78b7561.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A successful hunt",
+      "trophyDetail": "Claim an adult animal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/cc059c4f-c4e3-4ca5-86cf-991939b93eb4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That's a keeper",
+      "trophyDetail": "Claim a mature animal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/92f9a447-cf70-4cd5-a02d-3f92aed516d2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Predator",
+      "trophyDetail": "Claim one of every prey.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/5ae97c85-05d7-400c-b2ef-8fe2c3ad14cc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Apex predator",
+      "trophyDetail": "Claim one of every predator.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/7ff515dc-38ad-46fb-abe1-1fd87e27cc71.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The hunter",
+      "trophyDetail": "Claim one of every animal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/0c630626-6b2e-4993-b931-c976a041c03e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Two birds, one stone",
+      "trophyDetail": "Take out two waterfowl with one shot.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/8048881d-e893-4069-b58f-3ba356b27f1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Too cool for school",
+      "trophyDetail": "Spend an hour in the shooting range.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21908_00/f75efdcf-b95f-47f8-9866-4c38506be556.png",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 38
+}

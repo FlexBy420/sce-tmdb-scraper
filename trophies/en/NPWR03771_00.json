@@ -1,0 +1,696 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR03771_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "Angry Birds Trilogy",
+  "trophyTitleDetail": "Angry Birds Trilogy",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/1C193FFD2FD9ED55D91CFDD931AFDB6070056C81.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 53,
+    "silver": 15,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Angry Birds Trilogy",
+      "trophyGroupDetail": "Angry Birds Trilogy",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/1C193FFD2FD9ED55D91CFDD931AFDB6070056C81.PNG",
+      "definedTrophies": {
+        "bronze": 38,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Angry Birds Trilogy: Anger Management",
+      "trophyGroupDetail": "Angry Birds Trilogy: Anger Management",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/58ECFBF78A16122CC4D7A5A381959EEBB7FB3DAE.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Angry Birds Trilogy: Fowl Tempered",
+      "trophyGroupDetail": "Angry Birds Trilogy: Fowl Tempered",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/7D4849DF87B1D7DA45B471867627DE05AD7CAC6D.PNG",
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Angriest Birdiest",
+      "trophyDetail": "Get all Trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/465AFB90645439AD2EE62B8AC5CCD4AD153A6768.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Squeak",
+      "trophyDetail": "Smash a pig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/CA5516B19DAFDDFD2C05CE0FE7FBA32CB8F00B89.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sniper",
+      "trophyDetail": "Smash a distant pig with a direct hit",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/9491800A72D42A570C1DD3B6B258C0951DE2CB29.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bacon",
+      "trophyDetail": "Smash 1000 pigs",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/6EE9D143FE5FE1FAC35F843E129789455C9E7139.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stardust",
+      "trophyDetail": "Collect 500 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/2F38F2D296DA9244B11C2AA47738CCD2A82A5974.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You are a Star",
+      "trophyDetail": "Get 3 stars in any level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/4B02543EFA4BF75BD6E20AA55A36908C0F3325B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "You are a Superstar",
+      "trophyDetail": "Get 3 stars in all levels in an episode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/BC74549B78B60A3A08D764AF0F69E03EF7F868DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "You are Elvis",
+      "trophyDetail": "Get 3 stars in every single level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/755D0160E15C93F60EE5A758DC57F7B48CAF266A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tiny Eagle",
+      "trophyDetail": "Get 100% Eagle score in 5 levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/053EC14BDA3321D24072927E262269F099CC21FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mighty Eagle",
+      "trophyDetail": "Get 100% Eagle score in every single level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/FAD7CF6E05BB819DFAB12AECA274B25341145BA0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Poached Eggs",
+      "trophyDetail": "Complete Classic Episode 1 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/F9EDF4DF1AF1F4DA0300D126FE9C2CD38DA91926.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Mighty Hoax",
+      "trophyDetail": "Complete Classic Episode 2 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/A6BFB4E68C465BAE214563AF6FACB3DD40817B94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Danger Above",
+      "trophyDetail": "Complete Classic Episode 3 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/8EBC1EA0F77CD99A3A75608763A47CEABE43468B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed The Big Setup",
+      "trophyDetail": "Complete Classic Episode 4 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/651837A49FEF1F0013DFA169D43BFBB50DDDA33C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Ham'Em High",
+      "trophyDetail": "Complete Classic Episode 5 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/5C3575F1A59551AE3478DE39630100B27E57A74E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Mine and Dine",
+      "trophyDetail": "Complete Classic Episode 6 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/5892A2E73448BAE9D87FD978C5CDC0A237D525A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Trick or Treat",
+      "trophyDetail": "Complete Seasons Episode 1 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/1DB87304F345B2362966E3A420C5F401F4E561EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Season's Greedings",
+      "trophyDetail": "Complete Seasons Episode 2 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/4C04475CB87DD0E1027F033C7AE39BB20E13943A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Hogs and Kisses",
+      "trophyDetail": "Complete Seasons Episode 3 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/87E7170A4D5668E0189388EC739C3EC4702261A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Go Green, Get Lucky",
+      "trophyDetail": "Complete Seasons Episode 4 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/4608F9378782F79F0B55D67225FC4B12A526E62A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Easter Eggs",
+      "trophyDetail": "Complete Seasons Episode 5 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/9EF164FABEE8BBA71A38BA6F6C887C0503D0CE62.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Summer Pignic",
+      "trophyDetail": "Complete Seasons Episode 6 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/D7F73301CC10C57E9A2B391F9E1748CB7C4878F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Mooncake Festival",
+      "trophyDetail": "Complete Seasons Episode 7 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/92E4315E1A00F1FE4C71450C8AD0CBF7BD78B846.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Smugglers' Den",
+      "trophyDetail": "Complete Rio Episode 1 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/32B5663A3C011AA4E46879FB102A55561C16BB03.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Jungle Escape",
+      "trophyDetail": "Complete Rio Episode 2 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/9944142A5E93EF69E2E7CC489B479E6DCDFE05C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Beach Volley",
+      "trophyDetail": "Complete Rio Episode 3 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/A42EF713C05E03CF42EC425D5C0FFDDAE7497DB1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Carnival Upheaval",
+      "trophyDetail": "Complete Rio Episode 4 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/8EF2DBB0E42DDA9688A570FE707DF9620E6F66FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Airfield Chase",
+      "trophyDetail": "Complete Rio Episode 5 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/7CD053C13C7FFDD1EDF54B3BE331A44E9B5F92A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Smugglers' Plane",
+      "trophyDetail": "Complete Rio Episode 6 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/28175F1E77E4BA484033F14FC7C797270C3B177C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Worldwide Angry Bird",
+      "trophyDetail": "Complete all Episodes (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/408F39E97C09370542D9189C856615D42917C0A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Block Breaker",
+      "trophyDetail": "Smash 5000 blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/931DF80B7289F89F1B76D3F3AB9C7866C53D563F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Block Annihilator",
+      "trophyDetail": "Smash 100,000 blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/B2C89EF911C1322A2881AAD55B612A57578DAE62.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Woodpecker",
+      "trophyDetail": "Smash 5000 Wooden Blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/0F52C930C2DB7AD665FC46401DA9401D067DF0CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gravel Factory",
+      "trophyDetail": "Smash 5000 Stone Blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/B758CD72179BDF3CEA02B98F35FE5708E0E90940.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Icebreaker",
+      "trophyDetail": "Smash 5000 Ice Blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/CEC9342F36C9608EC92D4C79B2AD58770A420210.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pointastic",
+      "trophyDetail": "Get 10,000,000 total points",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/F766812918C1D7B7727D14D075E25EBF6B5F7D6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Egg Hunter",
+      "trophyDetail": "Unlock 5 Golden Egg levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/08724729654ED75644F84793CD6035010E62B77A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Egg Collector",
+      "trophyDetail": "Unlock all Golden Egg levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/BC5E7AD81EC8B969975F448E01A3261262CA2BF6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Egg Guru",
+      "trophyDetail": "Complete 10 Golden Egg levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/85EFE4FF93DACB2002F066C42E973F19D5712E9D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Egg Master",
+      "trophyDetail": "Complete all Golden Egg levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/CB3A0E0789FA80B7B8794788956E80843E96B9B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Splash of Flavor",
+      "trophyDetail": "Collect 10 Rio fruits",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/37D1D9B44B1D17C6C2CBAD6C1746E01749B7BADA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "River of Flavor",
+      "trophyDetail": "Collect all Rio fruits",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/AD9A7637C28BADEC7193F316E634C060FDACCA0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blockpocalypse",
+      "trophyDetail": "Smash 50 blocks with the first bird (before launching another bird)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/8697A9B6C063FEFC1A2D72222BE3957560D0E9A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Voyager",
+      "trophyDetail": "Launch 5000 birds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/712563205CA43CF827329B7C0E89B2FA48A67C45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Squawkward",
+      "trophyDetail": "Launch 10 birds backwards",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/BE76B8C27D51283687E22E8E851E6210D2DF4B7F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wright Flyer",
+      "trophyDetail": "Make a bird fly 200 meters",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/F95B79BE857BD5BB4B4A72D48DAAF72B51130A0B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spirit of St. Louis",
+      "trophyDetail": "Send birds flying 100 km",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/3F0D42EE74375CA84AF7632C59F7C35EEDBB7951.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hyperefficient",
+      "trophyDetail": "Finish a level with a single bird",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/8F090262D70ED95C308A0D37D3DC7F027DD30E69.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pig-friendly",
+      "trophyDetail": "Fail a level 10 consecutive times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/D9B0A13CFE4DCF54FFFCB1D7924427EF44ABA5D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Supper-Effective",
+      "trophyDetail": "Clear out a level completely (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/4373CBA3191A3E1173354BD83B704B09D4D2987F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scramble",
+      "trophyDetail": "Have 5 different birds in play at one time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/6F03F9C503128472A68A864F6FAAD8796F530EFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Birdday Party",
+      "trophyDetail": "Complete Classic Episode 7 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/E48A71435B958E2AC9D0868080AB344DA3FC614B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Ham'O'Ween",
+      "trophyDetail": "Complete Seasons Episode 8 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/41FB9898BFE2F1020DCEC2D67FFD91D2A803F488.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Wreck the Halls",
+      "trophyDetail": "Complete Seasons Episode 9 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/B90C3E0B107EE4B4ED824C73D781F888275A4734.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Year of the Dragon",
+      "trophyDetail": "Complete Seasons Episode 10 (without the Mighty Dragon)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/820E28EFA1F534819F2FDB89751B3EEC91BE3983.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Cherry Blossom",
+      "trophyDetail": "Complete Seasons Episode 11 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/29AE91688948E7F575B5637CA16F62A741EDE2A3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Piglantis",
+      "trophyDetail": "Complete Seasons Episode 12 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/E810213E4D58AAFCD36169D1FFBDF109C3A4CE5D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Star-Expander",
+      "trophyDetail": "Get 3 stars in every single level of Anger Management",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/A98C9F3FAC37F2D19DC32D13C4623B7DDB91A0AC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Eagle-Expander",
+      "trophyDetail": "Get 100% Eagle score in every single level of Anger Management",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/276110C434BD1ED7C91E17183C6EF6E199D8748C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Waterbird",
+      "trophyDetail": "Make 500 birds swim",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/1263D9720985D0AF37BEDC30BABE0369444B0C46.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mighty Dragon",
+      "trophyDetail": "Get 100% Dragon score in all levels of Seasons Episode 10",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/B83A96A53E834597C8CF986BD6327472E62FC409.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Bad Piggies",
+      "trophyDetail": "Complete Classic Episode 8 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/4C6044C298D94786B3ED21BDBA5FC33432D51E9A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Surf and Turf",
+      "trophyDetail": "Complete Classic Episode 9 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/9CEA3CC0FC5943E20D1C9E344D6A83C7BA7C3856.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Back to School",
+      "trophyDetail": "Complete Seasons Episode 13 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/318350FF5A7A89658A871CDD2AC87D28603EE5D8.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Haunted Hogs",
+      "trophyDetail": "Complete Seasons Episode 14 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/5A1CA1855BFC6F8260165465BCA7DEEDC5563714.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Winter Wonderham",
+      "trophyDetail": "Complete Seasons Episode 15 (without the Mighty Eagle)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/51D8730D6E42B36FD240BB1F0C9FA16FD54D87AA.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Star-Amplifier",
+      "trophyDetail": "Get 3 stars in every single level of Fowl Tempered",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/BEFF4A3C6565C32A7D59E4057CC92A9E4660D58B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Eagle-Amplifier",
+      "trophyDetail": "Get 100% Eagle score in every single level of Fowl Tempered",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/61742BC6DA578E00D5FE8B0B227FE317DEC9E255.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boo!",
+      "trophyDetail": "Smash 1000 Ghost Blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/838133AFCC79A13E65FBFDFF5BCCF2C9EF6541C0.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bubble Popper",
+      "trophyDetail": "Spawn 500 bubbles with Pink Bird",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/683D846B04921E232F1A002268617FA371369FB8.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Handyman",
+      "trophyDetail": "Collect all Golden Wrenches in Classic Episode 8",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/33740EE6D5156A3EE7FB5EF75F502AD48AEBDDBA.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 71
+}

@@ -1,0 +1,963 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR13822_00",
+  "trophySetVersion": "01.09",
+  "trophyTitleName": "Assassin's Creed® Odyssey",
+  "trophyTitleDetail": "Trofei di Assassin's Creed® Odyssey",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/DEE0D4E5A10A52EA06309E73E38FDA92B759C1DC.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 75,
+    "silver": 15,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Assassin's Creed® Odyssey",
+      "trophyGroupDetail": "Trofei di Assassin's Creed® Odyssey",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/DEE0D4E5A10A52EA06309E73E38FDA92B759C1DC.PNG",
+      "definedTrophies": {
+        "bronze": 38,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Assassin's Creed® Odyssey: Imprese addizionali",
+      "trophyGroupDetail": "Trofei per le Imprese addizionali di Assassin's Creed® Odyssey",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/DE90C64D5C594FDC867E358F19BB0876A3FC6277.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "L'eredità della Prima Lama: Episodio 1",
+      "trophyGroupDetail": "Set di trofei di Assassin's Creed® Odyssey: L'eredità della Prima Lama",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/18D874A2452A919404A1BF61A8AB4CBD92B1BCDD.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "L'eredità della Prima Lama: Episodio 2",
+      "trophyGroupDetail": "Set di trofei di Assassin's Creed® Odyssey: L'eredità della Prima Lama",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/C0C5048D009EBD9685054898655C4C971C7EFEE5.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "L'eredità della Prima Lama: Episodio 3",
+      "trophyGroupDetail": "Set di trofei di Assassin's Creed® Odyssey: L'eredità della Prima Lama",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/B025F897BAEC6ABDD3DE9CD5CE2BE79C2BA1A98F.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 0,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Il destino di Atlantide: Episodio 1",
+      "trophyGroupDetail": "Set di trofei di Assassin's Creed® Odyssey: Il destino di Atlantide",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/F1EA9FF6D9A0E20FB2978002531419852F7EFC0C.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "006",
+      "trophyGroupName": "Il destino di Atlantide: Episodio 2",
+      "trophyGroupDetail": "Set di trofei di Assassin's Creed® Odyssey: Il destino di Atlantide",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/7D4320EEA95D299DFB6D4C98A788459798FB5CFD.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "007",
+      "trophyGroupName": "Il destino di Atlantide: Episodio 3",
+      "trophyGroupDetail": "Set di trofei di Assassin's Creed® Odyssey: Il destino di Atlantide",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/894A0F6F91C7833A5DBF872380B07585B4995BEA.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Ciclo epico",
+      "trophyDetail": "Ottieni tutti i trofei.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/B5B878FE7C5CBEE4A4139DD84633B106B105EF85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Questa è Sparta!",
+      "trophyDetail": "Completa la battaglia dei 300.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/4A3C36EBE6C1854AA323054BCFAD74DC35A1E8AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "L'inizio di un'odissea",
+      "trophyDetail": "Completa l'episodio 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/01201C79A470ABD1098F2B97659CD4D09B0D6A2D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Errori del passato",
+      "trophyDetail": "Completa l'episodio 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/BAC48203F70EF9703D7CA688CE740FE08EA6E8DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Il male smascherato",
+      "trophyDetail": "Completa l'episodio 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/CBC2F28F0E8492C6F2B098230FAD6384BE4E4797.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Menti brillanti",
+      "trophyDetail": "Completa l'episodio 4.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/327C624CD277EEE3D1857FF9888D8558BECC93C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dalle ceneri",
+      "trophyDetail": "Completa l'episodio 5.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/048D6C1E88ABB1F1ADD19518D601BF9AE32E98B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Il crollo della democrazia",
+      "trophyDetail": "Completa l'episodio 6.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/ABE1BB368849685EF3E420B70346081B91AD23FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Nascita di una leggenda",
+      "trophyDetail": "Completa l'episodio 7.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/C37310EEA0FF80F0BCE90A36965A1D8C826A60E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "La riconquista di Atene",
+      "trophyDetail": "Completa l'episodio 8.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/DA784EAF85B12BFEBEF3ADB376DE016310B75B55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "La fine dell'odissea",
+      "trophyDetail": "Completa l'episodio 9 e l'epilogo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/5F71E90B1C46998E52792CEEE08D54E59BFA9576.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Erede di Poseidone",
+      "trophyDetail": "Completa tutti gli obiettivi dei luoghi subacquei.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/8E6FEF81862096398743630491F7A9F5FEB37349.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rendilo tuo",
+      "trophyDetail": "Incidi il tuo primo oggetto.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/6B1BA4B4052E3F63840648E927029E713DE5C99E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ora tu lavori per me",
+      "trophyDetail": "Recluta un PNG eccellente e assegnalo alla tua nave.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/F1B5B26E376D6EDE5AFA0DE01B83D549F2C80072.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Come luccica!",
+      "trophyDetail": "Ottieni ed equipaggia il tuo primo oggetto eccellente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/B2EE087DAE4A77345EB9101CDD397B829A5DD00B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Io sono leggenda",
+      "trophyDetail": "Equipaggia un'arma corpo a corpo eccellente e cinque parti d'armatura eccellenti.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/E4CF402924FF2E4F0F5C2B295B57D70E09D98ED2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Non vi siete divertiti?!?",
+      "trophyDetail": "Diventa campione dell'arena.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/67C58BF98468DDA3127FE27F3BAF23CE662CBDC8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Semidivinità",
+      "trophyDetail": "Raggiungi il livello 50.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/54B1FE2AAC070ED6F42DB1E63C20312DECDC54CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Potenza divina",
+      "trophyDetail": "Acquisisci un'abilità attiva di grado 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/4147D4521479C7A6BBDC353411DC579C18BB170C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Retaggio ripristinato",
+      "trophyDetail": "Potenzia la tua lancia fino al grado 6.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/3CFFCB3DF3BC9480CF14B676ACBB0B37241F331A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In cima alla catena alimentare",
+      "trophyDetail": "Diventa il mercenario di rango più elevato.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/5D474BB6100BE3632A23EA807B8AC107FFA31CD3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "La Setta rivelata",
+      "trophyDetail": "Sconfiggi tutti i membri della Setta di Cosmos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/227DE62BA3AA54F420A6925774839E49737BF97C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sguardo truce",
+      "trophyDetail": "Recupera l'occhio del Ciclope da una capra su Cefalonia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/1AA3EE57652980FC9C5C698685E50201BC461684.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Compare di Ermes",
+      "trophyDetail": "Scopri tutte le sottoregioni della Grecia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/C1C30480855A9ADD10A024040666450C90110135.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sei Perseo?",
+      "trophyDetail": "Sconfiggi Medusa.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/4BE1E3B8B66330ADFB861413F7936E7ABC0A4313.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Vittoria nel dedalo",
+      "trophyDetail": "Sconfiggi il Minotauro.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/6F01895141A0E90EDC934FA4347990F53867D886.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Non sei Nessuno",
+      "trophyDetail": "Sconfiggi il ciclope.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/ADAF764C73A5E654D3E489088F56445C70C57F16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Indovina indovinello",
+      "trophyDetail": "Supera in astuzia la Sfinge.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/969F6ACD830E9FDF163F252E55E8F85BB140942D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Signore dei mari",
+      "trophyDetail": "Potenzia l'Adrestia fino al livello eccellente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/C3B86CD1DEF52EF2C0DE76250A1A1952B4BCD003.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gli Argonauti",
+      "trophyDetail": "Riempi l'Adrestia di luogotenenti leggendari.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/62B0ABE8584FB4212560B2A0D454ACC33CE361D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Prescelto di Artemide",
+      "trophyDetail": "Completa le missioni delle Figlie di Artemide.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/220141095CF418556304E7A0BD938C0887B6C029.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tutti ci guadagnano!",
+      "trophyDetail": "Completa le missioni di Marco.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/F0F2BC1F92FC4A81FEA8796D463A462987A1BF00.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fate spazio, sono un dottore",
+      "trophyDetail": "Completa le missioni di Ippocrate.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/070E2D5A6701F74D5CC1551397B2A0C8B1EBA514.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Che bella la vita del bucanier",
+      "trophyDetail": "Completa le missioni di Xenia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/FE25C46D956407DC0E83A71C743BCB36CC8F02D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Punta all'oro",
+      "trophyDetail": "Completa le missioni delle Olimpiadi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/E6F6E49BD766F9C771D74DD322B77EBC8581395B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flagello dell'Egeo",
+      "trophyDetail": "Affonda la tua prima nave epica.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/6160F263B9A256A4E2376D56B83ACB92FFFC70C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sport violento",
+      "trophyDetail": "Sconfiggi un mercenario nell'arena.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/50559F9B1E342FAA32810F4CFEBFC6C68A778266.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Più bella e più superba che pria",
+      "trophyDetail": "Migliora l'Adrestia per la prima volta.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/1D3191BABD1D9FC5A660304C93EADF4457EDD748.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Il Credo della moda",
+      "trophyDetail": "Equipaggia un set armatura eccellente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/094C961EBFDE70B6EA61664C410FE0E452E0B3AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'abbraccio di Afrodite",
+      "trophyDetail": "Passa una notte con una tua conquista.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/BD769915762280E5519F832DF23301B98B05C548.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Via una testa…",
+      "trophyDetail": "Sconfiggi un gruppo di membri della Setta di Cosmos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/B8C6BED0214EEE4000376012C738DADFA0662CC6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Diritto di nascita",
+      "trophyDetail": "Scopri Atlantide e parla con Pitagora.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/8DEB1DE5492784C21F544818B6D279BF2CF4CC1C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Velocità smodata",
+      "trophyDetail": "Spezza in due una nave.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/3429C9BA646BE2BF231D3BC7D5603A45A579E381.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A me il potere",
+      "trophyDetail": "Esegui un attacco Ultra con ogni tipo di arma.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/45A9F79AC30CD9B790E30570BACB0F1C16125EDE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maestro della guerra",
+      "trophyDetail": "Uccidi il capo di qualsiasi regione con poche risorse, tranne la Megaride.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/06C1AED493CD76683B18FD0F2383C36151C9E800.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Allenamento da misthios",
+      "trophyDetail": "Completa 20 taglie, contratti di guerra o missioni navali delle bacheche.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/8A0CF302425CCC7916092D3182F0A42B7FB5A23E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "In giro per le isole",
+      "trophyDetail": "Completa 20 missioni sulle isole di Pefka, d'Ossidiana e di Abantis.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/8796C6659E378C4BA7B5C297301BE2B88559F8B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Famigerato",
+      "trophyDetail": "Ottieni una taglia di livello massimo sulla tua testa.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/2C779BD822F234D3ECAEEE4A5AF3668C4DDCA63C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eroismo a pagamento",
+      "trophyDetail": "Vinci la prima battaglia di conquista su terra (tranne quella in Megaride nel viaggio dell'eroe).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/E304EBBE36E9A6BC28D96AE9F43B9643F3C24E7A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "La furia delle amazzoni",
+      "trophyDetail": "Spezza una nave in due con un equipaggio composto da sole donne.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/410A5ADBEEFF9B384750312611BDB8886E3776F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Il tocco di Mida",
+      "trophyDetail": "Incidi un oggetto eccellente con una proprietà eccellente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/FE691ABA24A51463DE78CFE283FBB7BBCAD26830.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lo spettacolo deve continuare",
+      "trophyDetail": "Completa Lo spettacolo deve continuare.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/46E0C65854C76F5B97A74FCE5A2DE49171D076A4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Parafulmine",
+      "trophyDetail": "Sconfiggi Sterope il fulmine.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/B38289F08889C6DF4A25B4F63CEA894400740C79.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Intervento divino",
+      "trophyDetail": "Completa Intervento divino.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/E43D794846311481753F80675956A8790D570483.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Protezione vulcanica",
+      "trophyDetail": "Sconfiggi Arge il lampo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/1B70541A23B996296CFB005F89ED28DDA4535716.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'immagine della fede",
+      "trophyDetail": "Completa L'immagine della fede.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/F2FD39AB21FF1889CD99279FAA38C55032B19992.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le Figlie di Lalaia",
+      "trophyDetail": "Completa Le Figlie di Lalaia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/2657A409074EC63207D110A4A1D8DC80AA6E35FF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Il retaggio di una poetessa",
+      "trophyDetail": "Completa Il retaggio di una poetessa.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/1358EB4996533D8D05A5B3BF27BFD983EC1F98A2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Il triangolo no",
+      "trophyDetail": "Completa Il triangolo no",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/A6D95501AB05D28D9E7248735D3267335E2B7501.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un amico per cui morire",
+      "trophyDetail": "Completa Un amico per cui morire",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/9F539938602DD077A26FEF76759BB11D5EA667A6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'erede dei ricordi",
+      "trophyDetail": "Completa L'erede dei ricordi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/3F792C6F08A96D5DEF4C87EDFEA467F8228E8B55.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Una giornata molto lunga",
+      "trophyDetail": "Completa Una giornata molto lunga",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/74DB0F05F04FD8C6AA62AF00B4ED2BC37CBCE795.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ogni storia ha una fine",
+      "trophyDetail": "Completa Ogni storia ha una fine",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/1D2256EACBA215F474157CBEB528BF51406471B6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le vecchie fiamme non si spengono mai",
+      "trophyDetail": "Completa Le vecchie fiamme non si spengono mai",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/E4CA28B6E59A65FD87846074E01E7638E0C89CFE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Leone solitario",
+      "trophyDetail": "Uccidi il leone macedone.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/53D0C1BBA0552F8192964F4F494BF47E4E7FB2A9.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nessuna traccia",
+      "trophyDetail": "Uccidi 10 nemici usando l'abilità Velo mortale.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/DA590CDF54851CFE4748E52EAAAE9D333A304728.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "L'inizio del retaggio",
+      "trophyDetail": "Scopri la verità sul passato di Dario.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/9A1EEED5246BE9D0A870AF465D11399F57FEDD02.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oltre il limite",
+      "trophyDetail": "Concatena 4 assassinii rapidi con l'Orgoglio del leone.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/BA84866AEB6FDE22BBE4D4A07B94040D31149D9D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Predatore e preda",
+      "trophyDetail": "Uccidi tutti gli antichi dell'Ordine dei Cacciatori in Macedonia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/C531BE87DCC2A4BBDABE380475262942B8F12063.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pioggia di frecce",
+      "trophyDetail": "Uccidi 10 nemici usando l'abilità Raffiche rapide.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/6E3EF7647417C9D26259DCFA46C0B559277B0F32.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fuoco sull'acqua",
+      "trophyDetail": "Incendia 10 navi nemiche.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/2F0C27B1CE741CB56344AA5C6C628E91E22AED52.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Para e cura",
+      "trophyDetail": "Curati 10 volte eseguendo una parata con il Giudizio del leone.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/0864A3BD091BBFA9C3695CECAD406C2E4FDDC96E.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sangue di Leonida",
+      "trophyDetail": "Porta avanti la tua stirpe.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/F6423805202FA4D4BF2FE5B176BF149F80A726A7.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fermatempeste",
+      "trophyDetail": "Uccidi tutti gli antichi dell'Ordine della Tempesta in Acaia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/B8A66C0B07B0C08E80FDBB69412E9B5A507784B0.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vedere rosso",
+      "trophyDetail": "Uccidi 10 nemici usando l'abilità Furia della stirpe.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/BD0CDF285A5A7CF217DA1C3D442606A5B43537FA.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Inizi dolceamari",
+      "trophyDetail": "Salvaguarda la tua stirpe",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/402947A4E5AC79861BF95AA7F435C22AF79863CF.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tiri chirurgici",
+      "trophyDetail": "Curati eseguendo 10 uccisioni con colpi alla testa mentre il Messaggero dorato è equipaggiato.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/4E2E42EBB3140D0AE27BADBFAAD548DF13060F75.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Persona influente",
+      "trophyDetail": "Ottieni la Spada dei re",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/6E77F9776FEFD068BA866B273ADDB5090A804BBC.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Per amore della Persia",
+      "trophyDetail": "Uccidi tutti gli antichi dell'Ordine del Dominio in Messenia",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/03D598349111E4B2648886C6842DF2C87FC34138.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Basta sovrani",
+      "trophyDetail": "Uccidi tutte le sovrintendenti dell'Elisio.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/8757C3B159F3F66CFC1CF5D9F5E260D599AD3EE9.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sfida agli dèi",
+      "trophyDetail": "Ricorda chi sei.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/C49A0D09A2264C5FC535D4DE4DA4A0D5D8915942.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blasfemia",
+      "trophyDetail": "Distruggi tutti i tributi alla fanciulla di marmo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/51B6F9B6B4E82D605644A640F9608F66349843E5.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forze a raccolta",
+      "trophyDetail": "Ottieni tutte le Visioni del custode nell'episodio 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/8A6648D74CCBEE9B7D7F29E667945A32CBCF930B.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "La conquista",
+      "trophyDetail": "Conquista l'Elisio liberando gli umani delle 3 regioni principali.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/D0BD9908E2AA003566B808958CAC6BA89EF6EA87.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cattivo!",
+      "trophyDetail": "Sconfiggi Cerbero.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/10035FF5364F5999A860B18DFEF3283C0FEA8E94.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Custode dell'oltretomba",
+      "trophyDetail": "Chiudi tutte le fratture del Tartaro.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/23D704149FEE143853534C5815048D3416DDD0C1.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Immortale",
+      "trophyDetail": "Sconfiggi tutti i caduti.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/02591C161488E843E13AAC1E2A90FB33AA6105C0.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ancora più potenza",
+      "trophyDetail": "Ottieni tutte le Visioni del custode nell'episodio 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/DE25428FD3FE54A77878D2855CB89FFEE2C21D62.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Un vero sovrano",
+      "trophyDetail": "Spodesta il re.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/5011566AFB365E8382FDC8F6A1294758362674E9.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 89,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Con la vostra stessa moneta",
+      "trophyDetail": "Uccidi 10 soldati Isu con il potenziamento Benedizione di Crono.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/97463FA3980E2FDA794D48DD9FDB6809BD3240BD.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 90,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stirpe Isu",
+      "trophyDetail": "Riempi completamente la sequenza di conoscenza.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/488921CE6A9C42CB88117369E707388E96386209.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 91,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apprendista di Efesto",
+      "trophyDetail": "Forgia tre armi leggendarie.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/AED08AA7E9C3D80074CD6B559DA9D6247CA9E0D6.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 92,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Massima potenza",
+      "trophyDetail": "Ottieni tutte le Visioni del custode nell'episodio 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/790F8E9643540D0417E31F1FA168AB96F176C9F5.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 93,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "1 contro 100",
+      "trophyDetail": "Sconfiggi il centimano.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/1E8259EA97CD22BC6F34B57B4B62D32DD3F35CD3.PNG",
+      "trophyGroupId": "007"
+    }
+  ],
+  "totalItemCount": 94
+}

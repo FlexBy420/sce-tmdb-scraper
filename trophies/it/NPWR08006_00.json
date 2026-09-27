@@ -1,0 +1,468 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR08006_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "SteamWorld Heist",
+  "trophyTitleDetail": "Trofei di SteamWorld Heist",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/126F05078AF8C49D817B6938E999A44AE5854DD4.PNG",
+  "trophyTitlePlatform": "PSVITA",
+  "definedTrophies": {
+    "bronze": 30,
+    "silver": 14,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "SteamWorld Heist",
+      "trophyGroupDetail": "Trofei di SteamWorld Heist",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/126F05078AF8C49D817B6938E999A44AE5854DD4.PNG",
+      "definedTrophies": {
+        "bronze": 26,
+        "silver": 13,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "L'Outsider DLC",
+      "trophyGroupDetail": "Trofei di L'Outsider",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/4D635F279F300729CA455989CF67AAC2168D60B1.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Verso l'infinito e oltre",
+      "trophyDetail": "Ottieni tutti i trofei di SteamWorld Heist.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/562F9239D73F01E482205F426C213C0ED39C5E24.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Macina Tutorial",
+      "trophyDetail": "Completa il tutorial.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/7BBFE43167FBA286973CEE68BD195DC8D64E5835.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sue fu, seppure immobile...",
+      "trophyDetail": "Sconfiggi il capo degli Scrapper.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/6EE9C3CA9D40C1F06A15AE3EE1F90A6E3709BE1D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Detronizzatore",
+      "trophyDetail": "Sconfiggi il capo dei Monarchici.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/666E973C689CD66459D9F112B5325AB0BEB24A91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Salvatore dell'Universo",
+      "trophyDetail": "Sconfiggi il capo dei Vectron.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/8E084E21514F53AA1663EAC0CA0DC63DBAABAD30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un bicchiere d'acqua",
+      "trophyDetail": "Completa il gioco in modalità Facile.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/0B18BF1ABFD4807400DBD8A5F75C19C4E363D568.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tutto normale",
+      "trophyDetail": "Completa il gioco in modalità Normale.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/22D683B17F1C6FC4C4825AFCAF86801AC713F5DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sei un esperto?",
+      "trophyDetail": "Completa il gioco in modalità Esperto.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/A298F19CD1EE745B52E9EE3C6857F4E37451585F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Non sei l'ultimo arrivato",
+      "trophyDetail": "Completa il gioco in modalità Veterano.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/34C821E61C00867D5FE7E0C80D35DCDE049D48A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Il migliore sulla piazza",
+      "trophyDetail": "Completa il gioco in modalità Élite.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/CFF910F6F9CD74BD7689A0619AACB9F642C3897B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Bagno d'oro",
+      "trophyDetail": "Completa il gioco ottenendo solo Oro nella Classifica SteamWorld in qualsiasi difficoltà.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/B29D8F5362D9D8D67C1EBF0E3BCF0005F6DAFF40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Più brillante del sole",
+      "trophyDetail": "Completa il gioco ottenendo solo Oro nella Classifica SteamWorld in modalità Élite.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/6365FE547889DA76BBD2AA3D5BAB24C0E15089F1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "In cima al mucchio",
+      "trophyDetail": "Ottieni 45 reputazione in Periferia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/E767F40A29A7C4D290040F2A1EE4CA87A663EA57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Crème de la Crème",
+      "trophyDetail": "Ottieni 38 reputazione nel Nucleo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/94AB3A5B55DEACB8F5AE11FABCD3DC573BB3D4E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Superstar dello Spazio",
+      "trophyDetail": "Ottieni 40 reputazione in Spazio Profondo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/916E8FF8FAB5C8D2F4A0838A8708A26AD5EE4AEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full",
+      "trophyDetail": "Recluta tutti i membri dell'equipaggio. (DLC escluso)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/3D206E554471C9BF24BB7B7DFBFAEC4A73E710DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "È più di 9...!",
+      "trophyDetail": "Raggiungi il livello 10 con un personaggio. (DLC escluso)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/0AB6CE70D3A7F6DA30531280491F57AD0DAA059A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Andiamo al massimo",
+      "trophyDetail": "Raggiungi il livello 10 con tutti i personaggi. (DLC escluso)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/277798E9311218649AF582345AAA16227F134BEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Segno profondo",
+      "trophyDetail": "Danneggia 5 nemici in un colpo solo con l'abilità Colpo Perforante di Valentine.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/C70FB25DDCC949A4B1087EE38753FBF3E45C5612.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capitano, mio capitano!",
+      "trophyDetail": "Utilizza 10 volte la Riparazione ad Area sui membri dell'equipaggio ad eccezione di Piper.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/0925698C0992B31D2809397E2A4487F09BDEF523.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brass Effect",
+      "trophyDetail": "Utilizza Vendetta e Doppio Colpo per uccidere il nemico che ha fatto scattare Vendetta.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/4447C8DDCAFE2A308FAEA547920AB513042EA9BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Proprio come alla Fattoria",
+      "trophyDetail": "In un turno, usa l'abilità Cane Pazzo di Sally per uccidere 5 nemici.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/EB2D7F62D759C708A23D92B9F12DF8710D135017.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alle tue spalle!",
+      "trophyDetail": "Utilizza l'abilità Fiancheggiatore per uccidere 50 nemici.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/E41C69A93ABC64892AA5A3A46BAEDE8B6C60888C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Niente fegato, niente gloria",
+      "trophyDetail": "Salvati grazie all'abilità Fegato per 3 volte durante una missione.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/E1E1E209937589E2B6338E259D834A04A0467645.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nosferatu",
+      "trophyDetail": "Usa l'abilità Vampiro per ripristinare 10 salute in una missione.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/EF126078EFEB2BDD68F51AD97DCB1AFC79762366.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Colpi di rimbalzo",
+      "trophyDetail": "Uccidi 20 nemici facendo rimbalzare i proiettili. Ogni attacco vale uno.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/DB80DA9F72E93947C7C72E7DA1A9BABD264E44BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Caos",
+      "trophyDetail": "Infliggi almeno 40 danni ai nemici con un attacco.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/8EA28DDC3B1C15ABFF5C35658D5A6B8BDF08C466.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sorprendente",
+      "trophyDetail": "Stordisci 25 nemici.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/68A6D85B52A3113C3007BAE8C303CBDFCD9C6494.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Giù il cappello, su il cappello",
+      "trophyDetail": "Raccogli un cappello dopo che il tuo ti è stato tolto.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/A67B11D707E73EBAAB00C5712B0D94EDE8D72496.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cacciatore di cappelli",
+      "trophyDetail": "Togli e raccogli un cappello raro.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/60B9DC7D9A0FC51C1EB947C7F9FB8EE1B44E5712.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cappellaio",
+      "trophyDetail": "Raccogli 15 cappelli.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/B9718F7D931E96FC3DE10A7D8371A3EBB25F2537.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cappellaio matto",
+      "trophyDetail": "Raccogli 30 cappelli.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/2B764638AFF62F6EC0EF822B69A0FB2F5467EA30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cappelli, cappelli ovunque!",
+      "trophyDetail": "Raccogli 60 cappelli.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/42C419BBC5C73974A56AEA7E804A16280A02D8B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Il trucco del cappello",
+      "trophyDetail": "Fai cadere 3 cappelli con un solo attacco.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/E7D74D0F0CACBD60BE3862BBC269D8F037301A28.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hanno dimenticato Kenny :(",
+      "trophyDetail": "Combo cappelli - Volti amici ovunque.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/2BA8A003FC2061801368059499016DA2F94C53DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "That's amore",
+      "trophyDetail": "Combo cappelli - Gli amici aiutano gli amici",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/8704A68820EB30A9E404B74E1DF5514FED750155.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Kawaii",
+      "trophyDetail": "Combo cappelli - Che bella collezione!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/E94AE57EB1742B5F06197C77C378D8C99E6EC389.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Big in Japan",
+      "trophyDetail": "Combo cappelli - Una cultura creativa e influente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/DD7409EDB847BA1140657DD40064CBD4B11B26C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Il dado salvi la regina",
+      "trophyDetail": "Combo cappelli - Un'ottima selezione di cappelli reali.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/C5DECC70DAF20C073B33FB891C277838F80491A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Animal Planet",
+      "trophyDetail": "Combo cappelli - Sostenitore della fauna selvatica.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/841F59D42C1B95CA28594C66D6B38E36008C12CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stile militare",
+      "trophyDetail": "Combo cappelli - Un, due, tre, PASSO!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/6BA2ADEE51704A80E6179A60D55CC7AE4EAEE7D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Unicorno (spaziale)",
+      "trophyDetail": "Inizia una missione con addosso l'Ammazzaunicorni e la maschera da unicorno.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/353A12F7E8E9144FADCB71C434C50A92999182BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'Outsider",
+      "trophyDetail": "Recluta Fen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/5F6F849562F427E063AAACD59A8069215613EEDF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fulminato",
+      "trophyDetail": "Utilizza la Bobina dei Fulmini di Fen per uccidere 4 nemici in un colpo solo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/801DFAA798CA169E59C02F073ABA74D08BADDC1D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Modaiolo",
+      "trophyDetail": "Colleziona tutti i cappelli del DLC \"L'Outsider\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/BE53872BC245ACA55D54C03BC2ED77F5DD3FE6E1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oh mio Pellegrino, è pieno di stelle!",
+      "trophyDetail": "Ottieni la reputazione massima in tutte le missioni del DLC \"L'Outsider\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/62E9CFBD86D260BA8B7CA0D22995CF6CD075B9DC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ne è valsa la pena",
+      "trophyDetail": "Sconfiggi Jester.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/74A025F6D16953253ECE25612AB20804D5A1A7FA.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 47
+}

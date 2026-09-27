@@ -1,0 +1,949 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR21360_00",
+  "trophySetVersion": "01.04",
+  "trophyTitleName": "Nioh 2",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/35e2d390-43cf-47a1-8b30-39c7743d4492.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 87,
+    "silver": 5,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Nioh 2",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/35e2d390-43cf-47a1-8b30-39c7743d4492.png",
+      "definedTrophies": {
+        "bronze": 48,
+        "silver": 5,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Ученик тэнгу",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/7c82264a-6378-46b0-8011-95344efcef82.png",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Столица во тьме",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/fb29147d-89ae-4a5e-9f96-66a41374666d.png",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Первый самурай",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/17b8e6f2-d68d-4203-adaa-d86413b495db.png",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Вы — Nioh",
+      "trophyDetail": "Получены все трофеи.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/f0b1d717-6746-4381-afd4-7999a1906473.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Легендарный самурай",
+      "trophyDetail": "Выполнены все задания на любом из уровней сложности. (Обучающие и сумеречные задания, а также дополнительные задания из обновлений не учитываются.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/49b03a28-91b8-4b7a-b979-33420c76bbcb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "73"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Начало пути самурая",
+      "trophyDetail": "Достигнут уровень 10.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/f0b56bf9-60f6-4ec0-80fe-c3cc66e533ec.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Бывалый самурай",
+      "trophyDetail": "Достигнут уровень 100.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/1221e13b-699d-49b7-8b9b-b5ce99657907.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Рождение мечты",
+      "trophyDetail": "Вы подружились с Токитиро.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/e6bc5e6b-4546-41b0-8d4e-5cd273cb751e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Воодушевляющая победа",
+      "trophyDetail": "Имагава Ёсимото повержен. Вы стали самураем.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/bd1a94ae-e14b-4be4-b6f2-e9936b7d5c85.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Хидэёси",
+      "trophyDetail": "Вы решили разделить имя с Токитиро.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/b2882610-995e-4ebc-a635-e7b3055b4e48.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Наши пути",
+      "trophyDetail": "Вы расстались с Токитиро.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/045932ff-b013-4644-a223-db98131c550f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Цена мечты",
+      "trophyDetail": "Токитиро повержен.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/70073d9e-5da1-47c1-b47a-4a40e4c1d218.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Мать и дитя",
+      "trophyDetail": "Вы вновь встретились со своей матерью в Преддверии.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/69a63e63-7662-43c5-b2a5-a22b072a53bc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Судьба",
+      "trophyDetail": "Вы исполнили предначертанное.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/338de2bf-1c70-4403-9acc-710494ecf549.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Мечты и сны",
+      "trophyDetail": "Вы проводили Токитиро в последний путь.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/f7914a7f-a96a-4570-9a2c-6ec74b58d862.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Разум оружия",
+      "trophyDetail": "Вы прочли самые сокровенные мысли оружия ёкай.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/8745ddaf-b9b6-461a-bc2b-8346a2e0cf10.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер катаны",
+      "trophyDetail": "Освоены тайные техники боя на катанах.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/60e6b6b8-5e23-433a-a7a9-837ac717d758.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер двух катан",
+      "trophyDetail": "Освоены тайные техники боя на двух катанах.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/1ec169fc-d138-4ad0-9648-516efe005609.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер копья",
+      "trophyDetail": "Освоены тайные техники боя на копьях.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/ee59663e-4fb8-46ba-a12c-f0d4888f6900.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер топора",
+      "trophyDetail": "Освоены тайные техники боя на топорах.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/17cfd1a7-a71a-4863-938b-e3d4fab2741c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер кусаригамы",
+      "trophyDetail": "Освоены тайные техники боя с использованием кусаригамы.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/b1289c4d-9f19-4b61-9db1-3559ac906f9d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер одати",
+      "trophyDetail": "Освоены тайные техники боя с использованием одати.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/a93d72ec-f785-46ff-9a6e-3df874c5f66e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер тонфы",
+      "trophyDetail": "Освоены тайные техники боя на тонфах.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/e7cda68c-3070-4dbe-bcc9-027f8e83838c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер топориков",
+      "trophyDetail": "Освоены тайные техники боя на топориках.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/7399cb28-2ae9-4f9a-8f4e-bc4186916ba8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер глефы",
+      "trophyDetail": "Освоены тайные техники боя с использованием глефы.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/5e7c1d5e-63a4-475d-94e0-956ffa95a761.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер ниндзюцу",
+      "trophyDetail": "Освоены тайные техники ниндзюцу.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/192a5594-ddbe-4f1a-90c8-50d87d871f09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер оммёдо",
+      "trophyDetail": "Освоены тайные техники оммёдо.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/336290f2-f710-47cc-9fcd-7fef3eb509d4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Контрударник",
+      "trophyDetail": "Сокрушительные удары противника парированы контрударами грубой силы, дикости и призрака (по 5 раз для каждого типа).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/28560626-b62a-4749-a866-ddaebc9bbe8e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Духовный союз",
+      "trophyDetail": "Выполнено слияние душ.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/5eddbfe1-23bd-4c19-b32e-d725528bd66f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Новый шедевр",
+      "trophyDetail": "Выкован предмет.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/78658439-79fd-4ed7-8553-efbcde221e02.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Новичок в переделке",
+      "trophyDetail": "Выполнена переделка предмета экипировки.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/523d950e-94a5-4888-982d-724edc390c82.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ценитель чая",
+      "trophyDetail": "Чайная посуда оценена 50 раз.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/fd5114ca-85af-4809-b529-4b809f9cd08f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Любитель письменности",
+      "trophyDetail": "Ваша хижина украшена свитком с каллиграфией.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/58b50921-aee3-453c-8fac-8528a9756baf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Триумф вещиц",
+      "trophyDetail": "Посещен базар кодама.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/8530e620-08e3-4953-b3b5-df2e9d35a3f2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Командная работа",
+      "trophyDetail": "Пройдено 10 заданий с персонажами игры или в экспедициях с другими игроками. (Помощники не считаются.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/685a3191-c392-4875-8196-d72ee7178556.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Требуется помощь",
+      "trophyDetail": "Вы призвали помощников из могил щедрот 10 раз.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/39c7cb58-2a97-465b-ba77-2ab3461f8be6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Блуждающий в сумраке",
+      "trophyDetail": "Пройдено первое сумеречное задание. ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/38166a0a-0aa2-4937-8d69-287d0394f3a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Любитель спа",
+      "trophyDetail": "Принята ванна в горячем источнике.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/eeb94876-781d-43fd-82ef-287a9d8ca0a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Ценитель спа",
+      "trophyDetail": "Приняты ванны во всех горячих источниках.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/0876c5de-c10b-41f6-bd74-c43d45fbb7ea.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "27"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер по усмирению ёкай",
+      "trophyDetail": "Одержаны победы над всеми видами ёкай.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/eefe31cf-6638-4390-8a04-ba3971fe97c2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "49"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Предводитель кодама",
+      "trophyDetail": "Собраны все кодама.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/50b565c3-3795-4e52-b5cc-007b99a6dc6e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "150"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Друг хранителей",
+      "trophyDetail": "Собраны все духи-хранители.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/7dded9ea-15e4-4231-8811-6bfec2ee9a22.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Обмен с судама",
+      "trophyDetail": "Вы впервые обменялись дарами с судама.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/2f436a4d-5bd0-40a9-a8c2-08312974c4ee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Счет открыт",
+      "trophyDetail": "Получена первая эссенция души.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/d8d3c139-20ff-4b5a-9d1b-e3264303f1d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Друг кодама",
+      "trophyDetail": "Получена эссенция души кодама.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/05ef8b88-3e85-4aba-bf81-e95410d3540b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Искатель душ",
+      "trophyDetail": "Получены все эссенции душ.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/d4209db9-9e8d-4803-95b8-aed5a198ecb8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "48"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Полное слияние",
+      "trophyDetail": "Вы получили эссенцию души 9-го ранга с помощью слияний.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/d5d40c18-d936-4782-8507-a3b98fc3cd30.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Бывалый путешественник",
+      "trophyDetail": "На карте найдено 10 скрытых предметов.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/a7aa1310-f35d-4e74-8d8a-1d657702f84e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Да будет свет",
+      "trophyDetail": "Уничтожены все проявления мира тьмы в основных заданиях.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/6ea857b4-039b-447b-8fc0-e432f4be0afd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "47"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Гроза копытных",
+      "trophyDetail": "Мэдзуки и годзуки убиты в ходе выполнения одного и того же задания. ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/86665c43-df6d-43f6-a58d-109f07557672.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Катающий шарики",
+      "trophyDetail": "Вы стали лучшим другом Рюнодзё, любителя помета, и получили древний текст для шлема \"Свернувшаяся змея\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/d2737978-8744-4c8c-abc9-99c6481e2b33.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Тайные надежды",
+      "trophyDetail": "В главе \"Яростный клинок\" встречены все усура-хитё.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/5bf52bb4-d023-4384-b25c-51767222e965.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Зачистка",
+      "trophyDetail": "В главе \"Воодушевленный демон\" уничтожены все клины амриты.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/32e42154-6d2b-4547-a3ee-1dda5fce40fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Истово верующий",
+      "trophyDetail": "Босс главы \"Змеиное святилище\" побежден без уничтожения статуи Сирохами.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/37a7eb26-dbf5-41f5-ae3e-1f34b77c1c66.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Семь чудес",
+      "trophyDetail": "В главе \"Цветение сакуры в храме Дайго\" побеждены все Семь копий.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/cb37ae66-64de-48c4-a77f-7e37427afbac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Гроза пернатых",
+      "trophyDetail": "В главе \"Выход\" изгнаны все татаримоккэ.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/7658a33f-8b2a-4961-9719-e99357beec8b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Отважный ковбой",
+      "trophyDetail": "В главе \"Деревня проклятых лепестков\" одержана победа над годзуки.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/83fc5b18-6e7b-4e1d-a13d-efe3d63c84cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Интриган",
+      "trophyDetail": "В главе \"Пронизывающие струи\" удалось заставить гюки атаковать дамбу.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/6aba8a26-b718-482b-8a9c-4560a72dc3ef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Перезвон колоколов",
+      "trophyDetail": "В главе \"Перед разрушением\" прозвонили все колокола.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/f2cc9bf3-6cef-4907-8562-0526f8c9ceed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Свет соратника",
+      "trophyDetail": "Пройдена глава \"Песнь успокоения бури\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/9901f8d6-6548-476e-bc25-2a188836b1b7.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Готовность к бою",
+      "trophyDetail": "Пройдена глава \"Вечные соперники\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/ae26b8ab-0516-438c-af80-58487d891501.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Изгнание теней",
+      "trophyDetail": "Пройдена глава \"Курама и наступление тени\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/b651e3f1-1f27-4d9d-aafe-add3747cd8e6.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Самурай времен Гэмпэй",
+      "trophyDetail": "Выполнены все задания дополнения \"Ученик тэнгу\" на любом из уровней сложности. (Обучающие и сумеречные задания не учитываются.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/4cdbc300-0092-4d07-b15c-b082368c119a.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Демон времен Гэмпэй",
+      "trophyDetail": "Выполнены все задания дополнения \"Ученик тэнгу\" на уровне сложности \"Сон демона\". (Обучающие и сумеречные задания не учитываются.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/f6e73c35-2baa-42c5-bae7-09aa22fca7e9.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Воевода кодама",
+      "trophyDetail": "Собраны все кодама дополнения \"Ученик тэнгу\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/fbf80f07-8a7c-47f0-a90c-29b0cbbdec94.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер составного посоха",
+      "trophyDetail": "Освоены тайные техники боя с использованием составного посоха.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/864e2d12-3cb7-4f87-905a-1c4aa001c6ac.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Поэзия в движении",
+      "trophyDetail": "Собраны все карточки со стихами Сайгё",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/3ca6cb8f-b344-4772-b782-ee0400c58e6e.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Фанат спа",
+      "trophyDetail": "Приняты ванны во всех горячих источниках дополнения \"Ученик тэнгу\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/6f15c96b-d5cb-4178-a864-943c67eed79a.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Смертоносные стрелы",
+      "trophyDetail": "В главе \"Песнь успокоения бури\" задействованы все гигантские луки.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/1c4b868a-41bb-45f1-b671-c31d496499e1.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Свет ереси",
+      "trophyDetail": "В главе \"Вечные соперники\" уничтожено 150 золотых осколков амриты в шахте.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/df99022a-1d53-477f-a5ff-46e6281010a4.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Сокрушивший тэнгу",
+      "trophyDetail": "В главе \"Вечные соперники\" Ёсицунэ сбит со своего насеста на мосту с помощью какой-либо атаки.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/5df5f9e8-37e6-44d4-bebf-df8a27f3b5f1.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "При полном параде... демонов",
+      "trophyDetail": "Задания на свитки с изображениями пройдены 10 раз.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/97bc77fd-90ed-4622-8baa-112bea365626.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Демон и феникс",
+      "trophyDetail": "Задание \"Судзунэ в огне\" выполнено.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/b0b1d4e3-4cc3-4593-bd98-f7214f81778f.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Хранитель врат",
+      "trophyDetail": "Задание \"Врата упадка\" выполнено.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/960cabc4-5a16-4b77-8620-283c08947565.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "То, что должно свершиться",
+      "trophyDetail": "Задание \"Дворец проклятых\" выполнено.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/ffc02be8-3e2f-4371-ad59-04a38462470d.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Самурай периода Хэйан",
+      "trophyDetail": "Выполнены все задания дополнения \"Столица во тьме\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/2291aaa4-f60c-4782-8d8e-9105a3678d6d.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "11"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Демон периода Хэйан",
+      "trophyDetail": "Выполнены все задания дополнения \"Столица во тьме\" на уровне \"Сон демона\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/f737f008-7850-4970-a9e7-e1f8304174b8.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "11"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Искатель путей кодама",
+      "trophyDetail": "Собраны все кодама дополнения \"Столица во тьме\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/31c22089-3fa9-45c3-bee2-d59d021f4fb0.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер кастетов",
+      "trophyDetail": "Освоены тайные техники боя с использованием кастетов.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/27ff2817-a37d-4081-9d53-b1168b01d977.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Пламя, изгоняющее тьму",
+      "trophyDetail": "Зажжены все алтари пламени во \"Дворце проклятых\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/406303e8-04dd-4e5f-a12d-06653fb7f3f6.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Фанатик спа",
+      "trophyDetail": "Приняты ванны во всех горячих источниках дополнения \"Столица во тьме\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/fc8c53e0-d37c-42be-a591-39d137371f9b.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Истинное признание",
+      "trophyDetail": "Задание \"Драконий род\" пройдено.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/5c3140ce-8a3b-4dc7-8510-ce18d9382865.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Искоренение цутигумо",
+      "trophyDetail": "Одержана победа над цутигумо с использованием как минимум одного элемента экипировки, имеющего особый эффект \"Ниндзя-дракон\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/e317bb24-2448-43e6-bfc8-922d1367a020.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "За бамбуковой занавесью",
+      "trophyDetail": "Из повозки оборогурумы не менее 10 раз выпущена амрита.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/0407570c-790a-47bc-ba56-7adba1dc7eac.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Истинное искупление",
+      "trophyDetail": "Достигнуто 100% искупления камня покаяния.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/2fb81591-f1c2-4261-8fc3-5dbbbae53faa.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "У всего есть начало",
+      "trophyDetail": "Пройдена глава \"Рассвет демона\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/57b10278-b672-4585-9e20-caeb39f1953c.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мечты о мире",
+      "trophyDetail": "Пройдена глава \"Далекая мечта\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/ee68fc7a-dd1f-4363-b6fe-bc390f627bb0.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Изначальный самурай",
+      "trophyDetail": "Выполнены все задания дополнения \"Первый самурай\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/beccf93e-bfd3-4e33-99b2-f17ee8c9f048.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "11"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Изначальный демон",
+      "trophyDetail": "Выполнены все задания дополнения \"Первый самурай\" на уровне \"Сон демона\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/2b8977b6-9f71-45d7-8f04-2b8593a96256.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "11"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Проводник духов",
+      "trophyDetail": "Собраны все кодама дополнения \"Первый самурай\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/9c95f87c-e139-4a65-9666-d0b5f9394f0a.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Мастер очищения",
+      "trophyDetail": "В главе \"Рассвет демона\" нанесен урон ки врага с помощью святой воды из бочонка.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/83a91ae7-1198-474a-aca4-5ad0a6096143.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Запах опасности",
+      "trophyDetail": "Пройдена глава \"Обаяние древности\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/93e9d3d8-cc12-4ee3-9a7e-071d42d0c323.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 89,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Знаток спа",
+      "trophyDetail": "Приняты ванны во всех горячих источниках дополнения \"Первый самурай\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/9c241907-9da9-4521-9bdb-320644fd5d69.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 90,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Настоящий друг",
+      "trophyDetail": "Спасены все мудзины в главе \"Далекая мечта\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/5b433eb3-a518-4957-ae1b-3dbe39fbae49.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 91,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Логово демонов",
+      "trophyDetail": "Побеждены все четверо демонов в главе \"Далекая мечта\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/80774849-113f-4d5f-8ba6-acea64fafb48.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 92,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Путь покорителя",
+      "trophyDetail": "Пройдена глава \"Против всех\" на уровне \"Сон демона\" или сложнее.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/6ad2e4f7-ed8f-4379-b57c-9654f584c006.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 93,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Дань павшим",
+      "trophyDetail": "Собраны все кисти Кукая в главе \"Облегчение в словах\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/151a3158-55a9-4747-a851-07c5c5eb66ec.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 94,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Наш путь",
+      "trophyDetail": "В главе \"Знакомый свет\" посредством могилы щедрот получена помощь от Токитиро, Минамото-но Ёсицунэ и Минамото-но Ёримицу.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21360_00/970b9909-8054-40c2-a787-e978110cec8b.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "3"
+    }
+  ],
+  "totalItemCount": 95
+}

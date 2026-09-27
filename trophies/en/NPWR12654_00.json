@@ -1,0 +1,624 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR12654_00",
+  "trophySetVersion": "01.05",
+  "trophyTitleName": "Skyforge",
+  "trophyTitleDetail": "Skyforge Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/2ACCF8ED5DFBF506FF139B1A101338E2CF8C471D.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 39,
+    "silver": 17,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Skyforge",
+      "trophyGroupDetail": "Skyforge Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/2ACCF8ED5DFBF506FF139B1A101338E2CF8C471D.PNG",
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 11,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Skyforge",
+      "trophyGroupDetail": "Skyforge Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/6E985B7624FCF17EAA599DE77AC3A6B96D40B2FA.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 6,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Overgrowth",
+      "trophyGroupDetail": "Overgrowth trophy",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/FC14D4E3608988FBB9C622A1FC06F3B2FF6A76D4.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Voice of Aelion",
+      "trophyGroupDetail": "Voice of Aelion trophy",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/0179CFD3B48D8EB2ECEA77BD2850C7707519BCFD.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Ignition",
+      "trophyGroupDetail": "Ignition trophy",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/A0BC91E86EA0F9763588D557251FC75A692F8534.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Hunters of Terra",
+      "trophyGroupDetail": "Hunters of Terra trophy",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/9EC0F4521778AC8E0EBE9F5B87A8EC8EE51BA87E.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Trophy",
+      "trophyDetail": "Obtain all trophies in Skyforge.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/0DE38EA2CAB99B6CEFE3DE734CC579A25850C073.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "A New God",
+      "trophyDetail": "Become a god.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/9352323A5AA344EDAEAC9BC7F65C142EB23C06F1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Elder God",
+      "trophyDetail": "Become an elder god.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/F85786E52810C1977E3019D0DFA08F2B065B5522.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Machavann",
+      "trophyDetail": "Defeat the avatar of the Phytonides.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/B112342FA5E43D48179B0143D94EF49D24F56EB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Integrator",
+      "trophyDetail": "Defeat the avatar of the Mechanoids.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/D2CFAD20C9BF32405F725F136D4811FCDF915733.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Thanatos",
+      "trophyDetail": "Defeat the avatar of the Reapers of Death.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/1D29CF7ADB9F7F55C5EA1F4597AFC60F38D3D58E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dangerous Greenhouse",
+      "trophyDetail": "Defeat Nephelis, an ancient Entid, in the Phytonide distortion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/8D8292F13AD111E21673B2E145C627AE4E0EF0CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mechanoid Base",
+      "trophyDetail": "Defeat Rethiarius Commander Legatus in the Mechanoid distortion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/1599D479160A1E3A91C31CC96AB11A837D69F071.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Death Dealers",
+      "trophyDetail": "Defeat Plague Ravager Imenad in the Reaper distortion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/B630813ACF38C8E42E5EABE4A9E03BD37BEE80F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monster Hunter",
+      "trophyDetail": "Kill 100 bosses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/5D605F69FCF03E0C8D7DA0B4546E6708DB4F2988.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Monster Eradicator",
+      "trophyDetail": "Kill 1000 bosses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/DC4B6968CCAD4CF69CEA0F6585FDC0FB95BC0046.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Highest Score",
+      "trophyDetail": "Complete 100 different adventures with an S rank.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/51F45AF753AC00C9602D5F010B454D67FECB5C3D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Role Model",
+      "trophyDetail": "Complete 1000 different adventures with an S rank.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/39B5C54EFF26EA5A719A6A804A5328773B3E4D45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Team Spirit",
+      "trophyDetail": "Complete a raid adventure for the first time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/41C4E5BBECB63B71C113B2204A37FE50B169A6C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Absolute Superiority",
+      "trophyDetail": "Complete 10 raid adventures.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/9D98BE970CC97119D9B38E1A8B0649354F4A4E82.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Duelist",
+      "trophyDetail": "Defeat 50 immortals.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/D6CD4B8F489D67E2BB042180F16ABD70DA7B6A64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "God Killer",
+      "trophyDetail": "Defeat 500 immortals.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/B189AAD91FDD0287C858B1944F07F6BEE2E673E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hero of the Arena",
+      "trophyDetail": "Win 10 battles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/536CE7CF146D3DB3ED0F8E98824462BEDA03BD92.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legend of the Arena",
+      "trophyDetail": "Win 100 battles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/B3DAF9F4BC7DE38BF9F7D84C6DEA7F959BA9C02D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Immortal",
+      "trophyDetail": "Become an immortal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/41B2A0B66DF4B614ED7E1AD3D2C30E64BEA5FD7F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Test Dummy",
+      "trophyDetail": "Finish a class tutorial.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/AEDF29477B8FE40655A8CFC72EF0239EA9E025C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Easy Rider",
+      "trophyDetail": "Mount up for the first time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/25A889FABC0E4974DA5220E34519AE7ED15822F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Never Alone",
+      "trophyDetail": "Aquire a companion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/DC63C35F9487A051C870617F795F78776165A61C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breath of Cold",
+      "trophyDetail": "Complete all upgrades in the Cryomancer Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/039A1763C4ED7EC8983862D698D847FBD7393652.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Paragon of Mercy",
+      "trophyDetail": "Complete all upgrades in the Lightbinder Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/5720E46F3C993ADC0B6BAECC49C238A4CB71E848.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Champion of Justice",
+      "trophyDetail": "Complete all upgrades in the Paladin Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/14C8FF7D7962B1A4989ED224462DB79699DCB9B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Keeper of Harmony",
+      "trophyDetail": "Complete all upgrades in the Monk Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/ABAD8FEB1DEDB2345786A4A47A11983B57160068.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lord of Gravity",
+      "trophyDetail": "Complete all upgrades in the Kinetic Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/70DC6C7EC7CFAAF66853DCCEDA1E8A6CC312E72B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heat of Frenzy",
+      "trophyDetail": "Complete all upgrades in the Berserker Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/471CEDE25C691F18E4D24D2F9A25E3954263F5FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Accuracy",
+      "trophyDetail": "Complete all upgrades in the Archer Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/E2C71C5AD10371143DFAC45619C11770F42D6073.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Incarnation of Darkness",
+      "trophyDetail": "Complete all upgrades in the Necromancer Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/5FBC1E5DCFC17F821BC65A7308EC5AAC34DA0DDF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Keeper of Secrets",
+      "trophyDetail": "Complete all upgrades in the Slayer Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/F161051DCF16C36CD30C8C97407E71F2E2468D37.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quintessence of Progress",
+      "trophyDetail": "Complete all upgrades in the Gunner Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/CC1D2940038C9160DD4CBD00136B135C339719C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tainted Heart",
+      "trophyDetail": "Complete all upgrades in the Witch Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/EEF946E91894B2747272FA6B9D0478802787B71A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Synthesis",
+      "trophyDetail": "Complete all upgrades in the Alchemist Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/07CB128FD64649A69FBEDA804479E67C373C9191.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ideal of Valor",
+      "trophyDetail": "Complete all upgrades in the Knight Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/F18820829C2DF070EC57937319C2E34DBA074A1C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Keeper of Borders",
+      "trophyDetail": "Complete all upgrades in the Gunslinger Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/A1DBC527C3C90582734C7E1DB8AFBBC04B6DA373.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That was Brutal!",
+      "trophyDetail": "Kill 15 monsters in 3 seconds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/A636B752542E2BDA6FF51421C607DE9F2C454FED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strength in Unity",
+      "trophyDetail": "Join a Pantheon.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/C8DED5457E45D7E1D31C674554B8B3966E9DCB7C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Supreme Force",
+      "trophyDetail": "Assume your divine form 10 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/CE1D4F653658940D3F5D1272F0670898C6DABEC6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shoulder to Shoulder",
+      "trophyDetail": "Complete 10 group adventures.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/A3CF1AD1298DE22C61ACE57D77F69C887D938873.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weird Science",
+      "trophyDetail": "Create a Female Character.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/ADA8BA5CB45AA56AA95E86CE151B2765F7F5BA8A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shapeshifter",
+      "trophyDetail": "Switch Class.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/48254E069C639390F450A4316593E1066B611BA7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Lumberjack!",
+      "trophyDetail": "Complete all tasks in Lanber Forest.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/C8553B10E96AED9BF1B3EF5CD0110C7D57F3ED94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Tourist!",
+      "trophyDetail": "Complete all tasks in Naori Isle.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/4F2C98B391F20E1F7E1EF4C6A1E9CF60FBBE9892.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Prospector!",
+      "trophyDetail": "Complete all tasks in Isola Digs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/2E45AF6967F713933927EDA8FA96DCE2FF590E86.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seriously?",
+      "trophyDetail": "Die unexpectedly.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/0200EEAF37F9DDDBDC2283B29DDD8739490A8FEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Journey to the center",
+      "trophyDetail": "Take a tumble.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/BADD4DC141AEBA300DF944AE8E36C27C49C7CAB7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tol-Monter",
+      "trophyDetail": "Defeat the avatar of the Oceanids.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/101FAD93C5107651546593FEDE0B01E027EAE0DF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Akonita",
+      "trophyDetail": "Defeat the avatar of the Gorgonides.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/97B2FD16D008907B9A79339E650CDDA131A32974.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nihaz",
+      "trophyDetail": "Defeat the avatar of the Demons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/6AC8CA90DBA568CF8F065A1026481A9F36AA9FF8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Onslaught of the Sea",
+      "trophyDetail": "Defeat Nautilus, the Lord of the Storms, in the Oceanid distortion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/6FEA6EEE54C5C7D89CEA4776D868F1FFCE140133.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Viper Nest",
+      "trophyDetail": "Defeat Hyscena the Torturer, a Crespion Commander, in the Gorgonide distortion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/F11B9F8E095D19659CBD42CD5C6D532958AAC0E5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Astral Infection",
+      "trophyDetail": "Defeat Nerig’khor, the Great Octhulhu, in the Demon distortion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/F49568E0943E5AC09B94CD60A9C2E1BB6868723F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Death's Chosen",
+      "trophyDetail": "Complete all upgrades in the Revenant Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/84ED9AF3E3966D830B04B85E3C0FBE16482799A4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defender of Tessa",
+      "trophyDetail": "Complete all upgrades in the Grovewalker Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/A22E240D933E6E962F283CB075E2082F909E4D30.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voice of Aelion",
+      "trophyDetail": "Complete all upgrades in the Soundweaver Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/D77767B1B8F89A9018AFDED68A35A3E9A467E991.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fireborn",
+      "trophyDetail": "Complete all upgrades in the Firestarter Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/7A88F48C9833CBE3C52EAC706E953BFAABF33CDE.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soldier of fortune",
+      "trophyDetail": "Complete all upgrades in the Bounty Hunter Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/DA912462A28CDA2135B0FA017C632D9D9E9E5257.PNG",
+      "trophyGroupId": "005"
+    }
+  ],
+  "totalItemCount": 59
+}

@@ -1,0 +1,420 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR20883_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Poker Club",
+  "trophyTitleDetail": "Trophäen für Poker Club",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/B694570F8EDE2454E722751EBB3EEC58DE34FECC.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 30,
+    "silver": 8,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Poker Club",
+      "trophyGroupDetail": "Trophäen für Poker Club",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/B694570F8EDE2454E722751EBB3EEC58DE34FECC.PNG",
+      "definedTrophies": {
+        "bronze": 30,
+        "silver": 8,
+        "gold": 4,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Die Nüsse",
+      "trophyDetail": "Sammle alle Trophäen von Poker Club",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/46FD7AA05D0237A464273254DD2459A7F08BC499.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Blinder Bluff",
+      "trophyDetail": "Eine Runde gewinnen, ohne auch nur die Karten anzusehen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/EE9074C42B9F0E41583C204D9A68355E19E0DA0B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wer nicht wagt, der nicht gewinnt",
+      "trophyDetail": "All-in gehen und eine Runde gewinnen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/2521BE4F3870712C7FC62525050BA46C981D7376.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hintertürchen",
+      "trophyDetail": "Die benötigten Karten bei Turn und River bekommen und die Runde gewinnen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/4945E1FBDCA7283AC509CC195EEBB4B6F865003D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blattschuss",
+      "trophyDetail": "Dein erstes Blatt gewinnen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/37FC6D310277CE1F5575CAFDBF3455F08BFAB520.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eiskalt",
+      "trophyDetail": "Einen Pott gewinnen, bei dem mindestens 3 Spieler all-in sind",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/16E0D36F01F47ADFD8287471398B7D8C7ECDA787.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mitgegangen, mitgehangen",
+      "trophyDetail": "Mindestens zwei Einsätze bei deinem Zug mitgehen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/F92DE3CAF17C19E980BCD2A3493EC9D11FFEEFEB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Knaller",
+      "trophyDetail": "Einen Inside Straight komplettieren",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/69DAFF99A7274692F2545003C34CED5E72A34B59.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nebenerwerb",
+      "trophyDetail": "Einen Side Pot gewinnen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/03D5171064BFFBAA9A0B92A6B8CD2A2A2D73C7A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Poker-Joker",
+      "trophyDetail": "Alle Ziele bei einem Poker-Tour-Event abschließen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/34B123BF5A0321C8B04BF7AB9651855A08E32448.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kleider machen Leute",
+      "trophyDetail": "20.000 Jetons für Kleidung ausgeben",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/95DB5560645A01B42E42B1D4ED2E74809237B045.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Millionär",
+      "trophyDetail": "Im Laufe einer Karriere insgesamt 1 Million Jetons gewinnen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/7F8FFE600D74292A3D153ED78273EE40CBDED6C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Straßenkreuzer",
+      "trophyDetail": "Einen Straight von der 10 bis zum Ass schaffen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/B47E919609AE89164F168262D157BA2B5F69E906.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Angeber",
+      "trophyDetail": "Einen Jeton-Trick abziehen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/0A63173481FB36B61B593FDDB43AD07443C48B71.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Quak-Quak",
+      "trophyDetail": "Zwei Taschen-Zweien auf der Hand haben",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/8A1B27FB3620D44759CCE7737702B3356BE18F21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Niemals aufgeben",
+      "trophyDetail": "In ein Spiel wieder einkaufen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/25586B3657AC034B1302210C65ED184372F3994C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lasst sie nur kommen",
+      "trophyDetail": "Ein öffentliches individuelles Turnier ausrichten",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/586B8601545675408065CFA5DB1659BD2CFC450A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mitläufer",
+      "trophyDetail": "100 Mal mitgehen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/098C39B599D7D6196516BB35E3C76CDA8E92E355.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bevor es zu spät ist",
+      "trophyDetail": "100 Mal passen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/BDE215F2507C980356859A7B391D8DC32CC15E20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Duellant",
+      "trophyDetail": "100 Mal mit einem Gegner duellieren",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/632D20B7D1C88627174A2BE86FA02B853B42E45C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flotter Dreier",
+      "trophyDetail": "Mit einem Drilling gewinnen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/6CB0D5F20598BA1BEDD9A5F51916E4DB29F5FDA5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mehr!",
+      "trophyDetail": "100 Mal erhöhen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/5A4521647B2D636BD6DFEB746F11EA0CFEFE40E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amateur-Rang",
+      "trophyDetail": "Stufe 5 erreichen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/70E57C073FD49AC8F0677D491EB2A7621A3CECFD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In der Gang",
+      "trophyDetail": "Einem Poker-Club beitreten",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/5CFB5F2B3983A5E546850431E132E925A90A0C5D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Durchgehalten",
+      "trophyDetail": "Stufe 20 erreichen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/1FE70A766CC453C191A4228EC17D8534E85F1B2E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Du bluffst doch",
+      "trophyDetail": "Eine oder beide Karten offen abwerfen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/0142E413608A5224517D206CA76D14BD3E4A2E97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "So fängt es an",
+      "trophyDetail": "Einen Poker-Profi erstellen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/FB740D2741AEE14702DDCA6BAEBA1BA481CEC55E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Triumph",
+      "trophyDetail": "Ein Turnier gewinnen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/C86EBF32084EE352CAE744085FDA7F958F6A6B77.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stammgast",
+      "trophyDetail": "7 Mal den Tagesbonus abholen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/9A25A2A640D17407DAAC66276CF21B04BBFF7EF6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Geldmacher",
+      "trophyDetail": "Ein Blatt mit 5 und 4 in verschiedenen Farben als Taschenkarten gewinnen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/8BA27EA5DE194EC71DFEB26C228514A821AE0033.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Push the Button",
+      "trophyDetail": "Eine Runde bei \"Gewinne den Button\" gewinnen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/2AC96D22AB8D225783547E5E4F5DF697AC4790F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rock 'n' High Roller",
+      "trophyDetail": "Im Laufe einer Karriere insgesamt 10 Million Jetons gewinnen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/8A7E3F60DE5CCA517DB9B4F001658BE89F05AE85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Alter Hase",
+      "trophyDetail": "Stufe 50 erreichen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/DA8D33FB25CD4D200D7D921D1AB7A8B2A0F00A9F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Wetten, daß?",
+      "trophyDetail": "Mit einer 3er-Wette gewinnen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/B36AAFBE947A4FC919794B748BC4AE564008096A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Philanthrop",
+      "trophyDetail": "50 Millionen Jetons zu einem Club beitragen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/27E64898E99324CBA71312965816A19F5798B2BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rausschmeißer",
+      "trophyDetail": "5 Spieler bei einem Cash-Spiel rauswerfen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/6CDCC77952A4178B43684ECF4F30E2E792529A64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Je größer die sind ...",
+      "trophyDetail": "Einen Star-Spieler schlagen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/8E708427DE0E61DAD2BFDDA9C13A1DB86BCABC92.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Club-Legende",
+      "trophyDetail": "Einen Club der Stufe 25 besitzen oder dort Mitglied sein",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/914B4FE2ABFC14C7A705E663EB6C476F652B907C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Kopfgeldjäger",
+      "trophyDetail": "50 Kopfgelder holen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/1ED126459B91456F560BB10AD17177C1181FC06C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Krösus",
+      "trophyDetail": "Im Laufe einer Karriere insgesamt 100 Million Jetons gewinnen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/9932EBEFB8CDBD5943EDD46324F87F0D3F38B682.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Poker-Showdown",
+      "trophyDetail": "Das PCC-Showdown-Finale gewinnen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/D709DA535CA2C30E711B2716354750D4FD6D4A1A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Pro-Spieler",
+      "trophyDetail": "Stufe 100 erreichen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/C2B63F224E7C44C4FDE5CCC4327E46EE99DAB4F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Poker-Ass",
+      "trophyDetail": "Alle Ziele bei einer Poker-Tour abschließen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/7BDA63203E832C7CA4DFE6F187AEF524C2EE9F45.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 43
+}

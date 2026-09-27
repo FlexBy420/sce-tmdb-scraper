@@ -1,0 +1,546 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR11045_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Pharaonic",
+  "trophyTitleDetail": "Pharaonic trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/D6476121873CEB9720A3DF3D5D500050BBF72ABB.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 46,
+    "silver": 9,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Pharaonic",
+      "trophyGroupDetail": "Pharaonic trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/D6476121873CEB9720A3DF3D5D500050BBF72ABB.PNG",
+      "definedTrophies": {
+        "bronze": 46,
+        "silver": 9,
+        "gold": 1,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Pharaon",
+      "trophyDetail": "Obtenir tous les trophées",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/50D50E76DE9FFF0BCF92EB036243AD55A770A17B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Set Maât",
+      "trophyDetail": "Enfui des donjons et atteint Set Maât, la Place de vérité",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/32E49BC4891065FC993039BF314EBFD87FBCDB30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vallée des rois",
+      "trophyDetail": "Entré dans la Vallée des rois, jadis Cimetière sacré",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/83377EE89E199DAF52F1281C3D7FF7F1CE334AD4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oasis de Shedet",
+      "trophyDetail": "Trouvé l’oasis de Shedet, source de l’Eau de vie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/110EAA0DEE0E25C12F0C2F17037FF52CA444A9EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carrière royale",
+      "trophyDetail": "Franchi l’oasis et atteint la Carrière royale",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/BB54D270007A54745BC62495E8EA99D3CC38E28C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Salles de pierre",
+      "trophyDetail": "Arrivé aux Salles de pierre, où les abominations rocheuses errent en liberté",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/36324B21EAB867FA7AEDFB000F32669ED20ACF18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Delta du Nil",
+      "trophyDetail": "Arrivé au delta du Nil, une région riche et fertile",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/7C513FB0363F92E71F886B2ED2537DA584420441.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cité d’Avaris",
+      "trophyDetail": "Traversé le delta du Nil et arrivé à Avaris",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/9D57103BDC3104CAD3B6EFEF4C6AC48C1CF5B042.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cité d’Thèbes",
+      "trophyDetail": "Trouvé les 4 clés et entré dans la grande cité de Thèbes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/BE53A9D637A7D443DB3446A7734D3BCE8BD08E9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Palais royal",
+      "trophyDetail": "Réussi à vous frayer un chemin jusqu’au palais",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/92129D6100B8D02E03DD5BFB974FB160B1CDFF52.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Le Gardien",
+      "trophyDetail": "Tué le Gardien, tyran des donjons sacrificiels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/07AA6E78E91E6D69B5658BA4390C8298C3BBB1FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Senen, capitaine de Set Maât",
+      "trophyDetail": "Tué Senen, capitaine de Set Maât",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/30077B4E7618E65BB325F84E9DB3886B28C0E96B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sénakhtenrê, pharaon oublié",
+      "trophyDetail": "Tué Sénakhtenrê, pharaon oublié",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/EEF654EE6E108507B62050AB8794DA255FF8F838.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Thésée, anax de Mycènes",
+      "trophyDetail": "Tué Thésée, anax de Mycènes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/78CC99A3349EF6BA3CFA6E3F5A5B74F284D6FC0B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Reine Circé",
+      "trophyDetail": "Tué la reine Circé, souveraine d’Ééa",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/82CCF1E452ABB62CE48DEC24512350CAF9BE2622.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Penamon, tailleur de pierre corrompu",
+      "trophyDetail": "Tué Penamon, tailleur de pierre corrompu",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/3A1D7D86F04D4FCBCD14F424E8250F4EB2F41ACE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Golem de la guerre",
+      "trophyDetail": "Détruit le Golem de la guerre",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/BCE6C08628D62B2C5B4CE9BDC8BD81E686C6BCD6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Iä et Qraqen",
+      "trophyDetail": "Tué Iä et Qraqen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/DA5D92B02A1D5DA8D578EB6157B006FBF6FFD138.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Oannès, satrape d’Avaris",
+      "trophyDetail": "Tué Oannès, satrape d’Avaris",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/00356F66B31A3C67EAAEACE82F78932A29331EA2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ouchebti d’Aton",
+      "trophyDetail": "Détruit l’ouchebti d’Aton",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/A9B03882BB11CA1234AFD3C54633FB444E8E2EF1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Victoire facile",
+      "trophyDetail": "Vainquez le Gardien avec votre torche",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/337AD203EF5E38B1FAEAD9F4BE29FF88A0A3A980.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Belle prise",
+      "trophyDetail": "Tué un ennemi avec la canne à pêche",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/B34F0A51611C166296DD9237D2A58F61B22D3664.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Victoire parfaite",
+      "trophyDetail": "Vainquez un boss sans vous faire toucher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/DDB161768D6AD0605158DE67D13309E1C5AED59A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "À un cheveu près",
+      "trophyDetail": "Vaincu un boss avec pratiquement plus de santé",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/209C136BE2BCD11B2AF20FE64D44A6EF846B1E26.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un lourd sac d’argent",
+      "trophyDetail": "Économisez 40 000 kidets d’argent",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/B6B37F4033D74A5DFBBC3CABE8F591DE21A4BC2A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voyageur mystérieux",
+      "trophyDetail": "Atteignez le niveau d'expérience 5",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/DA7591DEE00CF702B5FDD41A1CE897496EAB0920.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Combattant habile",
+      "trophyDetail": "Atteignez le niveau d'expérience 10",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/8093CA91CD3A1237EEE2EA9AA8750A47A8AC2EE1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guerrier vétéran",
+      "trophyDetail": "Atteignez le niveau d'expérience 20",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/8F8D22CD71AC5A54D2A87829CB941C0E71ED79A7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un vrai héros",
+      "trophyDetail": "Atteignez le niveau d'expérience 30",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/D13D07C69744C5EF3CFDC1AC3839D0AA0640605E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oups!",
+      "trophyDetail": "Tuez un ennemi avec un piège",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/E7AD79152DF242D421DBD3F916B975C01763CC3F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Globe-trotteur",
+      "trophyDetail": "Trouvé toutes les stèles de Héka",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/E394D623B3E0BA4193CF858EA7E1A195462CC49D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "La dernière goutte",
+      "trophyDetail": "Mort en tentant de boire le contenu de votre gourde",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/54AE2B4E574293695DD163DBAD7DE8F75CB96C69.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Petites choses traîtresses",
+      "trophyDetail": "Mort dans un piège",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/3D5DF08E1A8F9CD6BC5DD73B0A533828D69968B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maître ès arts",
+      "trophyDetail": "Atteignez le niveau max dans une aptitude",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/572B9BD922E0C0BFF6E8A78C262EEAC4BD6E409B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Khéti, capitaine vétéran des Medjaÿ",
+      "trophyDetail": "Faites sortir Khéti de sa prison",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/0150EB9A6703D23B0375FA07980D6BCE81DEF6D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pratchnefer, une mère inquiète",
+      "trophyDetail": "Apportez des nouvelles de sa fille à Pratchnefer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/B414B1D1CF69E5E75FBCB285AC163C7750CE9560.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sherybin, déserteur Medjaÿ",
+      "trophyDetail": "Achevez la requête de Sherybin",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/62B86DA7B4488376455700292D8B4DB4FBC9E1DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Les produits du marchand",
+      "trophyDetail": "Donnez les produits du marchand à Mentmose ou Kafy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/8F3A2BD828DE5CC9CDD5C7827CFAB3649063B382.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bon samaritain",
+      "trophyDetail": "Aidez un homme dans le besoin dans l’oasis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/076363038C279BE8883AB443AFBB963EA6046F9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le dernier souhait",
+      "trophyDetail": "Rendez l’héritage familial à sa propriétaire",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/04280E0B1830B12D399543FC6BA289BB46F9E10F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La pêcheuse",
+      "trophyDetail": "Retrouvez la canne à pêche de la pêcheuse",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/EC213BBC32447BCBB60E48E8AC7B4F2DFFC52002.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le bâton de commandement",
+      "trophyDetail": "Retrouver le bâton de commandement du Commandant de navire",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/4E5EEC5BFE3EB0FADFDD2DBEA2090E5D652A558F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Une demi-obligation",
+      "trophyDetail": "Donnez de l'argent au mangeur de lotus pour son addiction",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/41E934C14C4EFFE5CCE49B6796F100769E3F8791.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Les boucles d’oreille perdues",
+      "trophyDetail": "Apportez ses boucles d’oreille à Werenro",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/41FD73ED209D2F54A1AEA046325C8E5E60F627E9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Une issue sûre",
+      "trophyDetail": "Donnez à Takharu un ensemble complet de soldat de Thèbes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/835EB3FD665878CFDD2C9A1DA1999E1B8FB03AFE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Une chose qui brille",
+      "trophyDetail": "Faites un échange avec le Survivant catatonique dans les Salles de pierre",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/8A4A9BBE51988242D5593B1CE49D860964AD57BD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le poids d’une plume",
+      "trophyDetail": "Mourez pour la première fois",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/A5AC3D93923D81F75764EFDB1809797723A43922.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On n'a rien sans rien",
+      "trophyDetail": "Mourez 10 fois",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/0946AA20FFF471C19ACE318926B29CF37A664578.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Question d’habitude",
+      "trophyDetail": "Mourez 25 fois",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/93D2270B034ECF734AE3B66332B08410D8FD6002.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Une tâche sacrée",
+      "trophyDetail": "Tuez 25 ennemis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/015FFD289F121E4380D6D77967919B0B1D6D5133.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pour le bien commun",
+      "trophyDetail": "Tuez 50 ennemis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/13FF34F7D81CC270779765CA2284ED0D9912C03E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moissonneur d’âmes",
+      "trophyDetail": "Tuez 100 ennemis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/B2EA2BE70C25A93C1BF20B35D1EB6C8D4221B9C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Réflexes rapides",
+      "trophyDetail": "Effectuez 20 parades réussies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/E481FFBEFBC5C0E338FC223BCAAA9A12462A1287.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Le Pharaon rouge",
+      "trophyDetail": "Tué Ahmôsis Ier, maître des Deux Terres",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/5D7BE459867D843F365DB5C519ECFA91B8F35477.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "La reine-pharaon noire",
+      "trophyDetail": "Aidez Astarté à devenir la nouvelle souveraine d’Égypte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/165232176DD341878CB48FB3F10F3FEBDD32923A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Maître des Mille Terres",
+      "trophyDetail": "Devenez le nouveau souverain d’Égypte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/C03EFE48B9CCEA13502A9FDCC37694F7B43F46D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Mûr pour la récolte",
+      "trophyDetail": "Vous avez semé le chaos dans les Deux Terres",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/66F1ABE8A04C22A0DF2AC55C54BEAA4D9450BCE4.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 57
+}

@@ -1,0 +1,633 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR19829_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "Frostpunk",
+  "trophyTitleDetail": "Трофеи Frostpunk",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/DD54C1CDED66F96C72E5306099BA223064328B42.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 54,
+    "silver": 4,
+    "gold": 5,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Frostpunk",
+      "trophyGroupDetail": "Трофеи Frostpunk",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/DD54C1CDED66F96C72E5306099BA223064328B42.PNG",
+      "definedTrophies": {
+        "bronze": 28,
+        "silver": 4,
+        "gold": 5,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Последняя осень",
+      "trophyGroupDetail": "Последняя осень",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/0A0840017B96594BD796839A40887ED618498566.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "На краю",
+      "trophyGroupDetail": "На краю",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/7E9D0B8828286341F3313BBF1846CE12431C625C.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Капитан",
+      "trophyDetail": "Получите все трофеи",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/572FAC21FC8576AA388290197902A3298C208957.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Простой труд",
+      "trophyDetail": "Закончите любой сценарий без постройки паровых или улучшенных зданий.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/A666972DCDB14D60475CDCEFE96B3121BC65FED0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Переполняющая мощь",
+      "trophyDetail": "Максимально улучшите генератор (мощность, радиус действия и форсаж)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/CBFD0B32D45BADE47336DA0CB39AEAF13D06FE71.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Хуже, чем Лондон",
+      "trophyDetail": "Закончите сценарий, не построив ни одного дома или барака",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/7E24AD5A0F2837683A90F83D104979880CBA6408.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лучше, чем Лондон",
+      "trophyDetail": "Закончите сценарий, не построив ни одной палатки",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/31DEB244EE0168168E7B303DFEBE53300A7B92C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сверхэффективность",
+      "trophyDetail": "Устройте рабочее место с эффективностью выше ... [200%]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/AAA1C7C3694E457E186CE1EC329AE77AC19899EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Уголек",
+      "trophyDetail": "Закончите прохождение с угольными печами в качестве единственного источника угля",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/A31A4036AA14D1FAEE38015082819D7158820B42.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Спутники",
+      "trophyDetail": "Закончите сценарий, ни разу не расширив радиус действия генератора",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/9D6AA577B216D5DCD728D17C2227CF92181935E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Центральное отопление",
+      "trophyDetail": "Закончите сценарий, не построив ни единого парового центра",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/059755C2CA1426F211A4E73E0FE0EFED59C5B6DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Заклинатель Шаи-Хулуда",
+      "trophyDetail": "Сделайте так, чтобы одновременно работали 4 угледобытчика",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/EA56758E0C03651D900B721FEB07CE032A4478D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Земля обетованная",
+      "trophyDetail": "Достигните максимально высокой надежды и отсутствия недовольства",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/CB391280A60C2D06266965685855F0E28D466600.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Плохой политик",
+      "trophyDetail": "Сдержите все обещания, данные во время прохождения",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/A5677A572D2FBE9D671AE7B03621ACE90D6466D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лидер",
+      "trophyDetail": "Закончите сценарий \"Новый дом\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/479185A30EC233DFA126AA031318E6DB7E355A2A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Как закалялась сталь (\"Новый дом\")",
+      "trophyDetail": "Закончите сценарий \"Новый дом\" на высокой сложности",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/CAA0A79E42C559FDEEB2C2F12E946D3212B626D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Единство",
+      "trophyDetail": "В сценарии \"Новый дом\" не допустите, чтобы кто-нибудь ушел в Лондон",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/A92EFF21200D9A20B7D11A404ED46319DD01731D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Заблудшие души",
+      "trophyDetail": "В сценарии \"Новый дом\" спасите всех заблудившихся в Морозных землях",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/8110F12FA40B64312E849A800F002E76F74D9023.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Золотой путь",
+      "trophyDetail": "Сценарий \"Новый дом\" пройден, не принимая суровых законов и не прибегая к жестокостиСценарий \"Новый дом\" пройден, не принимая суровых законов и не прибегая к жестокости",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/CE7717E35B0D4BD78AE1EBBA3D3B56803D25A62F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Стальной спаситель",
+      "trophyDetail": "Закончите сценарий \"Новый дом\" без смертей от холода, голода, болезней или переутомления на высокой сложности",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/757351087F17CA343D0D92383A41916F1698CCD1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Теперь говорить буду я",
+      "trophyDetail": "Позвольте Лондонцам высказаться, но так, чтобы последнее слово осталось за вами",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/E9C7638FE8B86E3B44B237C15306735B918530F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Беженец",
+      "trophyDetail": "Закончите сценарий \"Беженцы\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/B4ACDE348D517DC1C5D84161D0CCEECC9DF6D017.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Как закалялась сталь (\"Беженцы\")",
+      "trophyDetail": "Закончите сценарий \"Беженцы\" на высокой сложности",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/B9024C7609A2601AABB9B3EF3393E4D6CD67933D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Союз",
+      "trophyDetail": "Закончите сценарий \"Беженцы\", приняв всю знать и разрешив классовый конфликт",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/368F74BF51E29FBDA0F3A509E04D86543EF4FF4F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Технократ",
+      "trophyDetail": "Закончите сценарий \"Ковчеги\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/7E64F318085B682CC53333FF3E9C237185E1D79C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Как закалялась сталь (\"Ковчеги\")",
+      "trophyDetail": "Закончите сценарий \"Ковчеги\" на высокой сложности",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/7054FB7170128B154FFB188004DFF63D47813607.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Все живут один раз",
+      "trophyDetail": "Закончите сценарий \"Ковчеги\", спася оба города",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/45CAE4CAD451BFA80360EF24A49A2D0FE49C3936.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Выживатель: \"Новый дом\"",
+      "trophyDetail": "Закончите сценарий \"Новый дом\" в режиме \"Выживание\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/21E641076C522F127E58D89DF653068EEEDB0572.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Выживатель: \"Беженцы\"",
+      "trophyDetail": "Закончите сценарий \"Беженцы\" в режиме \"Выживание\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/3852350910F2D2FE6D95C431FE1517F40D6926D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Выживатель: \"Ковчеги\"",
+      "trophyDetail": "Закончите сценарий \"Ковчеги\" в режиме \"Выживание\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/47CED25DDCA7BAA1ACB52FDC62E51BFCE62A17D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Полный Дредноут",
+      "trophyDetail": "Пройдите сценарий \"Падение Винтерхоума\", полностью обновив Дредноут и заполнив его людьми.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/A3D6562B13ED51F49784684ACFF16025996F07D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Как закалялась сталь (\"Падение Винтерхоума\")",
+      "trophyDetail": "Пройдите сценарий \"Падение Винтерхоума\" на высокой сложности",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/5DCC3058850AE5FC24232A5168DD18415357E1AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Выживатель: \"Винтерхоум\"",
+      "trophyDetail": "Пройдите сценарий \"Падение Винтерхоума\" в режиме \"Выживание\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/5DFC5DB21D20E6CBDF1F204AA3B031B35CCA047A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Винтерхоум",
+      "trophyDetail": "Пройдите сценарий \"Падение Винтерхоума\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/EDA111441BB8B080A050F0559BE030ED6E7D7F45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Старший архивариус",
+      "trophyDetail": "Заполните Архив",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/72454F192214CA17FAF6EF7485B411C647784A85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "О, привет, Марк!",
+      "trophyDetail": "Проиграйте в режиме \"Спокойствие\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/164E66B881E625562B7F968B291E5DD03223EF77.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Негде яблоку упасть",
+      "trophyDetail": "Соберите свыше 700 жителей",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/3DBCCC16204128C649BDBC175CCEFE63A06B4DC5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Средний ультрамарафон",
+      "trophyDetail": "Продержитесь 100 дней в режиме \"Выносливость\" на уровне сложности не ниже среднего",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/D1CCB0E03A1C3A7EC791736C6782C6304FFA9BBE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сложный ультрамарафон",
+      "trophyDetail": "Продержитесь 100 дней в режиме \"Выносливость\" на уровне сложности не ниже высокого",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/CDD607944DF31FB775DC32595FA338F150BC7707.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Экстремальный ультрамарафон",
+      "trophyDetail": "Продержитесь 100 дней в режиме \"Выносливость\" на экстремальной сложности",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/E1C3A01C2E4E10F1BCAA60E5C07FF104C457A5C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Хозяин порта",
+      "trophyDetail": "Запустите одновременно 4 улучшенных пристани и 12 станций перезагрузки",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/B664A550DE6F998FF471A43BA8A3B5775F27CFEC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ни шатко ни валко",
+      "trophyDetail": "Постройте генератор в «Последней осени» с ур. безопасности между «Смертельно опасно» и «Безопасно»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/28061510DAE5D7F401085AFA4EA12B8383183F6D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Морзе",
+      "trophyDetail": "Используйте телеграфную станцию от 20 раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/43DA5CDF13D1F1F5F4B7E4992AB7E9FEE275BB73.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сокращение выбросов",
+      "trophyDetail": "Постройте генератор в сценарии «Последняя осень» без использования углепотребляющих построек",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/E4621225F28577427CE534A041D016D7684345B6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Вертухай",
+      "trophyDetail": "Постройте генератор в «Последней осени» так, чтобы в конце остались только заключенные и инженеры",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/A6FE27FD1305B40F9B728DC4DDB8BE0C60128028.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Вставай, проклятьем заклейменный…",
+      "trophyDetail": "Постройте генератор в сценарии «Последняя осень» так, чтобы в конце остались только рабочие",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/B966D4113E3C42F97378227E005C75B353F93CFE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bonus Pater Familias",
+      "trophyDetail": "Постройте генератор в сценарии «Последняя осень» без единой жертвы",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/551D90582225DE55B257B7D35B567CF08AD7309A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Без напряга",
+      "trophyDetail": "Постройте генератор в сценарии «Последняя осень», не используя увеличенные смены",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/D9E9FD27E31EFF7C75915E416C984489C591A9BA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Строитель",
+      "trophyDetail": "Постройте генератор в сценарии «Последняя осень»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/A891D2BEE594C987B06FE6E14CC1BD3CC24F2AF7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Домой к Рождеству",
+      "trophyDetail": "Постройте генератор в сценарии «Последняя осень» до последней поставки",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/DBAE44545A76818E15960AC9256889270385F39E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Перфекционист",
+      "trophyDetail": "Постройте генератор со всеми улучшениями и без дефектов конструкции",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/625D8A008519E551FF188E7F5FAC8BE42DB924B3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Как закалялась сталь («Последняя осень»)",
+      "trophyDetail": "Постройте генератор в сценарии «Последняя осень» на высокой сложности",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/03B8419F618AB5BF4173A3BB2A6948C9B2D8B397.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Свидетель последней осени",
+      "trophyDetail": "Постройте генератор в сценарии «Последняя осень» в режиме «Выживание»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/39E1AA8A0E74BFEE86F9091860B4C43869FC09C7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Мне повезет",
+      "trophyDetail": "Принимайте только рискованные решения в Морозных землях в сценарии «На краю»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/83B5B20E52487AA8D0FDEE4CB0AD1197F7BDC190.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Говорит Нью-Лондон, прием",
+      "trophyDetail": "Свяжитесь с Нью-Лондоном",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/AFAB8BA32DB839FBD7AD2B15AD6CB0E870B15AC8.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Непрощенные",
+      "trophyDetail": "Откажитесь помогать Нью-Лондону в сценарии «На Краю»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/DF8AFDDA3BF207109FA6FF68A72DC3CBF57866A2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Единство важнее",
+      "trophyDetail": "Спасите Нью-Лондон в сценарии «На Краю»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/4C9D88464947571E62AAC1520DB65C065D3E40E3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Все дороги ведут на базу",
+      "trophyDetail": "Постройте все безопасные маршруты",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/D3E01AE1213E30F73338AABA87B6D9D934DB12F8.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Угнетатель",
+      "trophyDetail": "Потеряйте доверие всех поселений",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/0C885F76653030F4BAD803DEFFA1CE8A462B43D2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Социальный активист",
+      "trophyDetail": "Добейтесь лояльности всех поселений",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/5E7D825C17BE4A194C89A9F9DC6F4D3696BCE1B0.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Опекун",
+      "trophyDetail": "Завершите все улучшения в детской шахте",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/5B619946109A7063ECBADF4560E9212848CE880A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Защитник угнетенных",
+      "trophyDetail": "Завершите все улучшения в лагере у корабля",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/3AF3B87DB4EDBB9722A51EE293F8CFE497C8AB99.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Дитя природы",
+      "trophyDetail": "Завершите все улучшения в Горячих Ключах",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/3DB111DF54A3718914C1F5B0BD72381B735454B4.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Подрядчик",
+      "trophyDetail": "Улучшите все поселения до самого высокого уровня",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/7CD52018AB26DB196E065A84A9A709DB99ACBCF6.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Как закалялась сталь («На краю»)",
+      "trophyDetail": "Закончите сценарий «На краю» на высокой сложности",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/A27CA06B982A8100CE54DF033132E9E74ABE379D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Переживший «На краю»",
+      "trophyDetail": "Закончите сценарий «На краю» в режиме «Выживание»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19829_00_008D7B917C840000077E2F80E38227704B814C1767/AB929D641EA3DF628A73F06AAC07B58CF62EC6BB.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 64
+}

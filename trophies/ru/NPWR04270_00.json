@@ -1,0 +1,540 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR04270_00",
+  "trophySetVersion": "01.07",
+  "trophyTitleName": "Terraria",
+  "trophyTitleDetail": "Призы для Terraria",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/728F695A98AD44DA1238DAF81C849033E966B0C1.PNG",
+  "trophyTitlePlatform": "PS3,PSVITA,PS4",
+  "definedTrophies": {
+    "bronze": 28,
+    "silver": 20,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Terraria",
+      "trophyGroupDetail": "Призы для Terraria",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/728F695A98AD44DA1238DAF81C849033E966B0C1.PNG",
+      "definedTrophies": {
+        "bronze": 17,
+        "silver": 19,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Journey's End",
+      "trophyGroupDetail": "Призы для Journey's End",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/426D49BC67614D7C1859A719D50DA189FCF4C4D7.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Don't Starve Together",
+      "trophyGroupDetail": "Призы для Don't Starve Together",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/DF4DE4B74D1F4BAEBBE3DC89077EDB7299A3794C.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Labor of Love",
+      "trophyGroupDetail": "Призы для Labor of Love",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/B0C656ACB60F77B7224CCF7CA2B45E6065EBD08F.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Bigger and Boulder",
+      "trophyGroupDetail": "Призы для Bigger and Boulder",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/9394D95CA33574852B7B2E2060AFE8DC0FEE3E6D.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Перфекционист!",
+      "trophyDetail": "Получить все призы.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/B4C4D992E473836DB265268578076A2B724B7484.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Начинающий исследователь Terraria",
+      "trophyDetail": "Получить помощь у гида.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/D404AED4BA861EB5365DE0AB41BC3BAAA7489666.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Без бездомных",
+      "trophyDetail": "Построить подходящий дом для вашего первого поселенца — например, гида.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/EC49C15686AA686AED1B78DA6A3E59C346E0E7CC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Агент по недвижимости",
+      "trophyDetail": "Получите всех поселенцев, доступных в вашем мире.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/1A4A7E41EA7C5A0E7233924E988499111B01E0A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Каменное дно",
+      "trophyDetail": "Добраться до самых глубин.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/B13FC13E173746EE61F087571CF1DC2CAC30FBB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Истребитель миров",
+      "trophyDetail": "Победите всех боссов в Terraria.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/29D825FA91D27B4C508E84A3A4B408146FB0CBFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Мировой тур по желатиновым местам",
+      "trophyDetail": "Убейте слизней всех видов!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/801D3C35C0105A3D63A84198229EE12E5B876DB5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Какая сила!",
+      "trophyDetail": "Выпустить древних духов света и тьмы в ваш мир.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/BA5A9410D0528104368A15E8F866B57FD5E7C910.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Под завязку",
+      "trophyDetail": "Достигните максимума жизни и маны без аксесуаров и усилений.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/6D6DE7A5CC7F3CD992622288450B480A1F5D1FC9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Осквернение",
+      "trophyDetail": "Позволить вашему миру стать испорченным.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/F229FFB6A6BCE98C2AB06F65A3362F51392B3570.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Освящение",
+      "trophyDetail": "Позволить вашему миру стать освященным.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/6CD23471E6E7AEE4C82E46F5B2873D09BC9DA7AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Двоение в глазах",
+      "trophyDetail": "Избить Близнецов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/F1B5CB766E692375728BE56C5537FE5D5489EDAE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Прайм-тайм",
+      "trophyDetail": "Расколоть Скелетрона Прайма.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/B34CE4C118F25BA588C677289221DBBBECA267D8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Неритмичная походка",
+      "trophyDetail": "Уничтожить Уничтожителя.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/3A1DB0EA181E07837ABB347D7CACD753CC1D8698.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Победитель марафона",
+      "trophyDetail": "Пройдите пешком 42 километра.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/5A3B970734D2DBC2270FE661DDA6366929851F58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Бульдозер",
+      "trophyDetail": "Уничтожьте в сумме 10 000 плиток.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/1E6A41ECD63A028DD850C4ADE2296E0B83D11682.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Владыка гоблинов",
+      "trophyDetail": "Победить нашествие гоблинов — остроухих воинов и их колдунов теневого пламени.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/D0EFAB3577B5B35F9CACA53CE5BD8D7FAC7D45F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "У тебя получится!",
+      "trophyDetail": "Переживите первую полную ночь своего персонажа.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/C54086F66393ABD2883C8E2232F57941A159A692.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "На орбите",
+      "trophyDetail": "Улететь в космос.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/1124873FBB9EDB2F0B16C3E49FD04AADD1479F6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Модный приговор",
+      "trophyDetail": "Поместить броню или аксессуары во все три ячейки для украшений.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/A1264DCB16C2AE7603B9F999AE8FB3B0A59C8EFE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Коллекционер питомцев",
+      "trophyDetail": "Найти всех питомцев!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/80A4DAA32E8AE3DD2F2ACECC8E29E3D157114282.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Будь готов",
+      "trophyDetail": "Активировать все пять усилений одновременно.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/419BC3309B83ED3E0A58C1239E4843733E57256D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Витая в облаках",
+      "trophyDetail": "Надеть пару крыльев.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/E8A3F3BC1C6134511AD6B0D883356E9646CE2D1A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Кузнец",
+      "trophyDetail": "Создать 300 предметов на наковальне.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/3B9F3775C08435A3E86F0BE0CC7530CB8A51A5E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Я плавлюсь!",
+      "trophyDetail": "Расплавить 10 000 металлических слитков.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/DCDC6E5E5D56CD8A093C6ED0913B9974E849F2EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Арсенал",
+      "trophyDetail": "Собрать все комплекты брони.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/552987F6223F2A1005B520EAD3DD152FF35B8675.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Клубок проводов",
+      "trophyDetail": "Разместить 100 проводов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/8954A82B541EB4AE84B36188620C689AC3DCCA97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Кровавая ванна",
+      "trophyDetail": "Пережить кровавую луну — ночное событие, когда реки становятся красными, а окрестности кишат монстрами.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/63B14D9269FC13234CD23091E4FE02922C8E9E23.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ремесло",
+      "trophyDetail": "Использовать все столы для ремесел.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/11A6DC8D13CAA50DC6A1B89147C788F782BC142E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "В ад и обратно",
+      "trophyDetail": "Одним махом переместиться с поверхности в Преисподнюю и обратно.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/7724780652E845955ED23B83E0BCB683142313A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Механический кавардак",
+      "trophyDetail": "Сразитесь с Близнецами, Уничтожителем и Скелетроном Праймом одновременно и одержите победу.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/C63F1BD47F14E32889F8B6CF9F11EF1E0A2F7EB9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Это рай?",
+      "trophyDetail": "Найти парящий остров.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/1A74E58B104BFAB1DD34CA7F6E469C43B9D9081E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Прыжок веры",
+      "trophyDetail": "Совершить акробатический тройной прыжок с помощью аксессуаров.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/9E21387AF98961E648824915A0716A760463B7B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Удачное падение",
+      "trophyDetail": "Выживите после падения с высоты с минимумом здоровья.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/3B4FBBB8B7B495D9BE95F8AA8D096923BEE580C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Тут становится жарковато",
+      "trophyDetail": "Опуститесь достаточно низко, чтобы найти лаву.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/6277510ACA75B45065F1B44BDEE208770A52380B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Бегущий человек",
+      "trophyDetail": "Надеть сапоги и выйти на пробежку!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/1B8EFEEEF3152B46F784C863C9D4A9DFDA9A8A40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Жертвоприношение богам вулкана",
+      "trophyDetail": "Какому-то неигровому персонажу суждено умереть в ходе испытания огнем.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/6CDFE291D030EA704B095B121A2D152871DF063A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Убийство",
+      "trophyDetail": "Убейте гида, чудовище.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/65CBC9D5581F5622FFA83A44F1D40873E3378BFE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Эксперт по Terraria",
+      "trophyDetail": "Выполнить все обучающие задания гида!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/114C154B54D2FCA5AD41B3C0058BEFC1C9C975CC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Свежеватель фей",
+      "trophyDetail": "Победить Императрицу света, которая дарит миру весь этот свет и блеск.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/9989E1CF2BE7982DC63E72963E5D3C1BBC029F8F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Меч «Бесконечность +1»",
+      "trophyDetail": "Добыть «Зенит», кульминацию путешествия в форме идеального меча.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/ED78C4FC944F17931F70BC035BBB9DB536497DBF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мертвые не болтают",
+      "trophyDetail": "Вас так увлекла мысль о том, сможете ли вы открыть сундук, что вы даже не задумались о том, следует ли это делать.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/07867D4C68E5379C8957E1887C26E26ECBA80844.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Просто десерты",
+      "trophyDetail": "Победите Королеву слизней, нанеся повелительнице всего дрожащего сокрушительный удар.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/371185CEF8CD53332150D20878BC298B950B1EFF.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ботинки героя",
+      "trophyDetail": "Получите терраискрометные ботинки, сделанные из лучших огненных и ледяных ботинок.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/D995F2A8645864DC42309C61BABD718AA843D2FD.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Эй! Послушай!",
+      "trophyDetail": "Встретьтесь с феей.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/471DEF8BCC9514EA21B8766881D15E8E7FF950B5.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Око за око",
+      "trophyDetail": "Победите Циклоленя – чудовище с холодным глазом из чужих земель.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/66D7F24A421A493BF336F9260940C5EC0DCF5C4B.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Пиршество Мидаса",
+      "trophyDetail": "Получите золотое лакомство – деликатес высшей пробы, изготовленный из самых качественных… ингредиентов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/AD3607E945ACC9794FDF1DC2E003FCB077778D6E.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Необычные стратегии выживания",
+      "trophyDetail": "Выпейте воду, чтоб отсрочить смерть от утопления. Особой пользы в этом нет, но вы сделали всё по инструкции.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/D6ADA7E5187E89131456D260C3732B777E859825.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мерцание во тьме",
+      "trophyDetail": "Превратите один предмет в другой с помощью мерцания. Открывайте новые превращения!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/7489205F0223FFABB764E64F29FEEE10570D55AD.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Скатертью дорога!",
+      "trophyDetail": "Полностью вычистите всю Порчу, весь Багрянец и всю Святость из вашего мира, пока Дриада не станет довольна!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/1A76A55877438ABAA656840D367F43D4E0BDBBC4.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Бог факелов",
+      "trophyDetail": "Вызовите гнев Бога факелов и выживите достаточно долго, чтобы заслужить его благословение.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/6650CAA0EDA912C74C12742FB03946EA3D4557AA.PNG",
+      "trophyGroupId": "004"
+    }
+  ],
+  "totalItemCount": 51
+}

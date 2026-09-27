@@ -1,0 +1,534 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR08015_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "Hand Of Fate",
+  "trophyTitleDetail": "Trofeos de Hand Of Fate",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/E20E41EE69DA707CAE426044771E4283DD925A80.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 37,
+    "silver": 10,
+    "gold": 5,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Hand Of Fate",
+      "trophyGroupDetail": "Trofeos de Hand Of Fate",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/E20E41EE69DA707CAE426044771E4283DD925A80.PNG",
+      "definedTrophies": {
+        "bronze": 22,
+        "silver": 9,
+        "gold": 5,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Comodines",
+      "trophyGroupDetail": "Comodines",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/4FD07CBD4BEAEAE5A32167A74205DAEA4B7E5432.PNG",
+      "definedTrophies": {
+        "bronze": 12,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "actualización de invierno",
+      "trophyGroupDetail": "actualización de invierno",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/92B45C4B4237A938A1A76C512F2D0A771AF0561A.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Maestro de juegos",
+      "trophyDetail": "Trofeo de platino, todos los demás trofeos desbloqueados.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/E4199C1BE050680D3FF22C5ECD6590A066A32FA5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Muy afortunado",
+      "trophyDetail": "Obtén 15 cartas al azar de éxito o gran éxito en una sola sesión.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/4C8F4DB2DF88574449E348D8B8913A69E0875A72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Muy desafortunado",
+      "trophyDetail": "Obtén 12 cartas al azar de fracaso o gran fracaso en una sola sesión.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/34EB60ADF9BCBA7A895D37B92806E35F5F7671FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Maestro de combate",
+      "trophyDetail": "Completa 3 combates seguidos sin recibir daños.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/C39C03F24392D8826E416E4843C4DEC6BB83C651.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Reflejos rápidos",
+      "trophyDetail": "Refleja 100 proyectiles entre múltiples sesiones de juego.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/0E5C25DF9A0577DC342F035821D246DA6F3D5DCC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Por los pelos",
+      "trophyDetail": "Gana un combate con menos de 5 puntos de salud restantes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/3E98C1938A93BE2603586263E6AB5577137769B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Muy valiente o muy estúpido",
+      "trophyDetail": "Inicia un combate con menos de 5 puntos de salud restantes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/41557204F99C6C7DDC783674546417D1F5E3C171.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cazador",
+      "trophyDetail": "Ejecuta el golpe final sobre 10 enemigos con una trampa.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/2C8768EEE52A35F67C76163306476CDA28EAB23B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Asesino",
+      "trophyDetail": "Ejecuta 2 ataques postrado seguidos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/20FC6C19257AC400E95D8A34562CED902A0B8146.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ninja",
+      "trophyDetail": "Mata a un enemigos con su propio proyectil reflejado.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/D75D4F4E6EA1A754C1CD17A54B5F735528B61207.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maestro de las trampas",
+      "trophyDetail": "Golpea a 5 enemigos con el escudo hacia trampas en una sola sesión.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/7A64918FE614B4D47D77DB22003A9EAB1651686C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Campeón",
+      "trophyDetail": "Mata a un monstruo de cada en una sola sesión.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/491F36F719C38660B008B2135D819F3B5476C7F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Bien equipado",
+      "trophyDetail": "Desbloquea todas las cartas de equipamiento.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/5DBB0E9C63ACDE8F3EC1054C61BF791355C12866.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Viajero experto",
+      "trophyDetail": "Desbloquea todas las cartas de enfrentamiento.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/04937C7160FAA242B492F7D6B31F70B929F5B5A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Cazador de dragones",
+      "trophyDetail": "Equípate con todas las reliquias de dragón a la vez.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/5B753AB5B5E874D4552983346EAE22DBD5C5CCBB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rey de los no muertos",
+      "trophyDetail": "Equípate con todos los artículos del Rey Esqueleto a la vez.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/31EC89F510B8E637082A731C955634A6F7CF1D50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Archimago",
+      "trophyDetail": "Equípate con todos los artículos de mago a la vez.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/2F97C2E9DD4156D848663D8BDA28EC1C858D59FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ostentoso",
+      "trophyDetail": "Ten 10 anillos en tu inventario a la vez.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/050110134AD02117774A1E200871E09F603835ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Listo para el combate",
+      "trophyDetail": "Ten al menos 1 pieza de equipamiento de cada tipo en el inventario.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/9C802BA9215E3370DC1873D92F698F75CF6B8CC5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Maestro de las mazmorras",
+      "trophyDetail": "Derrota al repartidor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/5EF82AFE0247D93A1F417B5DB24F8EC83FEB033E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Libera a los gólems de lava!",
+      "trophyDetail": "Completa el enfrentamiento «Fuego en las profundidades».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/C7FA6573C22882AA73F7C9FDEA546BB373443464.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Libera a los magos!",
+      "trophyDetail": "Completa el enfrentamiento con los magos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/917766CEB2ABA75D3FDE9EE6B0F23254311E1B1B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Libera al liche!",
+      "trophyDetail": "Completa el enfrentamiento con el liche.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/C7532C2662857C3BA7A87AF40A57F3159A0A93A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Libera al minotauro!",
+      "trophyDetail": "Completa el enfrentamiento con el minotauro.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/FC76C4D4C1B5D97EBB588C730A37ECF84921AA0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Humilde",
+      "trophyDetail": "Completa los 6 enfrentamientos benéficos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/DE84DFCB2B9C9C25C2BA4B5FFF6298202BEC9DAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Corrupto",
+      "trophyDetail": "Completa los 6 enfrentamientos con el comerciante demoníaco.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/9CE01A6B6974BCBB609813A18106F1FA106DAFAD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Consumido",
+      "trophyDetail": "Completa los 6 enfrentamientos de los juegos sangrientos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/B15A08CCD3C8D63B525EF84A8FFA3066ABAD0B20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pura iluminación",
+      "trophyDetail": "Posee 10 bendiciones a la vez.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/A5019009E224DD8D2891AD9D969A305BA085BF2F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Alma mezquina",
+      "trophyDetail": "Posee 10 maldiciones a la vez.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/C0460D002243E4C97F2830DF583E0D2D37EA3E40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Monstruo gigantesco",
+      "trophyDetail": "Posee 150 o más puntos de salud.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/03A9915B37D4BBA72EB133FCC4F367DC0D202FE4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bien abastecido",
+      "trophyDetail": "Posee 120 o más porciones de comida.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/25119CABB90036C23183B1FBD138206167D8BD9C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Señor adinerado",
+      "trophyDetail": "Posee 200 o más monedas de oro.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/F71D2C94256ED2BD6DB1C3F39DBF2667ABF330F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Escudero",
+      "trophyDetail": "Completa el primer nivel de una sesión de juego sin recibir daños.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/E706566811985DE44DB340F53BFD9B6DD7E43F70.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Aventurero",
+      "trophyDetail": "Completa los 3 primeros niveles de una sesión de juego sin recibir daños.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/160913D3AF453ABB4355DB11E6A615D166D645B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maestro kraken",
+      "trophyDetail": "Derrota al kraken",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/1C748D0B8F39119D2A05F265AF47CF245C7346EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Uno con el kraken",
+      "trophyDetail": "Equipa la espada y la máscara del kraken a la vez.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/DA212D4B5FB13AD15033A940DDCEE83219BF66C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La lagarta anciana",
+      "trophyDetail": "Haz negocios con la lagarta anciana.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/72767E2AE10515B0195DCAF4060739D379E085E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conquistador de mazmorras",
+      "trophyDetail": "Derrota al repartidor como señor de la guerra.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/FD472DAD8670FA9A8EF752B99C9C871F65A8EA18.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Graduación",
+      "trophyDetail": "Finaliza todos los encuentros del aprendiz.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/271B60CBF0F742BF67764142B7CF91B8D565CCCE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Señor de la guerra",
+      "trophyDetail": "Finaliza todos los encuentros del señor de la guerra",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/F9DE8A6FA0F9F81B20919717B79FFDB896E0267C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maestro de las sombras",
+      "trophyDetail": "Finaliza todos los encuentros del agente de las sombras.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/4AEC0A2BA897D6BDBF9FE3E7B98B252E67161ADA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Príncipe de los leones",
+      "trophyDetail": "Finaliza todos los encuentros de la maldición del Príncipe de los leones.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/45537382E66D9517B820DB2E736EADDB7E912CF4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explorador",
+      "trophyDetail": "Finaliza todos los encuentros del regalo del explorador.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/2D06B48A6DF735A2C518D7797765573CFF6AC6D6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nunca es suficiente",
+      "trophyDetail": "Finaliza todos los encuentros del deseo del acaparador.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/049E764CDBBCB351734EBDC634B6BDDCBE5294D2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hambre saciada.",
+      "trophyDetail": "Finaliza todos los encuentros del hambre de hierro.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/9614BD135077D8F2D97ECEE0F7C1E6F21C4AD4AD.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Salvador de comerciantes",
+      "trophyDetail": "Finaliza todos los encuentros del guardián comerciante.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/F10E44BA87CCFC25FD8A8880B178E4E63A643BE1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Campeón sagrado",
+      "trophyDetail": "Finaliza todos los encuentros del monje.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/07E00C2CF9D63B7E2DE3B7FCC6AAF40E822C2BB5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Entrenamiento de élite",
+      "trophyDetail": "Finaliza todos los encuentros del entrenamiento de infantería.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/72B98E4F2AACCF2D4C219212AFBB421FB57B4147.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Viajero errante",
+      "trophyDetail": "Finaliza todos los encuentros del nómada",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/3238DA9EC40DECBCE8DB68320E3AD1410C42D9AE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gran cazador",
+      "trophyDetail": "Derrota al minotauro blanco.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/19B1E348C393418F712ADF5877BC41DFD2989BCA.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Saqueador de criptas",
+      "trophyDetail": "Finaliza el encuentro de los salones del Rey de los duendes IV.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/6B6D13E1885D3B4CAF77C72D0B032533195137C4.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Excavador profundo",
+      "trophyDetail": "Alcanza el nivel 30 en el modo infinito.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/0AEFCA827994A6888DCD017541783CFA8A8E76A7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Salvador mundial",
+      "trophyDetail": "Acaba con la invasión del Inframundo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/F5721D07EEB6CD3CDE84D5CEB526D77E8A520872.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 53
+}

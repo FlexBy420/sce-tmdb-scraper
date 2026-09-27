@@ -1,0 +1,600 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR20914_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "Cooking Simulator",
+  "trophyTitleDetail": "Cooking Simulator Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/FB446C86BC39964B3EC8693A88D2E6984573765B.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 32,
+    "silver": 21,
+    "gold": 5,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Cooking Simulator",
+      "trophyGroupDetail": "Cooking Simulator Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/FB446C86BC39964B3EC8693A88D2E6984573765B.PNG",
+      "definedTrophies": {
+        "bronze": 11,
+        "silver": 17,
+        "gold": 4,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Pizza DLC",
+      "trophyGroupDetail": "Pizza DLC Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/3FE2B5DBA640662DD5040B17F7919DA78DF364A9.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "C&C DLC",
+      "trophyGroupDetail": "C&C DLC Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/4F8A0FF59358D74CA0DEC72F699431198D0CF773.PNG",
+      "definedTrophies": {
+        "bronze": 9,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Shelter DLC",
+      "trophyGroupDetail": "Shelter DLC Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/05B56BD4CE7C383507FC1EDC05BC618730D3F1DE.PNG",
+      "definedTrophies": {
+        "bronze": 9,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "MasterCook",
+      "trophyDetail": "You're the best, congrats!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/BB2E707B95422F9390C29A090060DA84793A60E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gearing up",
+      "trophyDetail": "Buy utensils in store",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/0CE975479493757454D07823303FEC52EAEADF0A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dinner is served!",
+      "trophyDetail": "Serve a dish",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/3994E04122E4D6A820AA2A1D0AC65B47DAE228F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hang it on a wall!",
+      "trophyDetail": "Earn your first Cookbuck in Career Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/9DD453E383EAA3E2165E16DAF1C004D8BFFCF0DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Four-star rush",
+      "trophyDetail": "Serve a at least 4-star dish on time in Career Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/B25A18DAE1CAFC53D4266A67D3BC4443C543DE25.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A little help",
+      "trophyDetail": "Buy a perk in Career Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/510DA053084C77BDD99501E4070B008931486FB6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "100 bucks",
+      "trophyDetail": "Earn 100 Cookbucks in Career Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/4337A27CB86D249FA6B272A9D46F298F3956E5B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master Ch(i)ef ",
+      "trophyDetail": "Serve 5-star dish in Career Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/83106D3C912B03124B17ED2FDEEFBBD6298D40FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Menu please!",
+      "trophyDetail": "Unlock a recipe in Career Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/41415AE4DB4B1C1CCB3B92614DA72F2A4218D498.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "3 for 3",
+      "trophyDetail": "Serve three 3-star dishes in a row in Career Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/A2496989C281FC11706E2069B63E8889D2B065BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Am I famous?",
+      "trophyDetail": "Get 10 Fame Points in Career Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/205B34773315CAECCC4296C2012B8C26A00DEA75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Adventure begins",
+      "trophyDetail": "Finish tutorial",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/1DF8E6AE25CEEE0C5D26744B1A85AB70CACF7DFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Go, have fun",
+      "trophyDetail": "Get 10 Cookbucks in tips in Career Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/5824DB0D88F3DD349618A185FF5C69301ED01A4F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "He will be back!",
+      "trophyDetail": "Serve 4-star dish to food inspector",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/E9E052A0561108A749CC8C520378C9BC2D85D12C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Yeah, I'm famous!",
+      "trophyDetail": "Get First Fame Star in Career Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/69E936DB8F135E37A5B6CB61D68407C6490323DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I wanna be the very best",
+      "trophyDetail": "Max out a skill",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/478E50F1227A09464A68EC4CD20E33DED8DDCEF8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "I love this job",
+      "trophyDetail": "Spend 5 hours in total across all modes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/ED61C2130C663C60B6BBCC2DB98324D0FBCA7E82.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Another chance",
+      "trophyDetail": "Repair any kitchen equipment ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/214EE34504018382DF223430BF015B0F377480CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Shattered Memories",
+      "trophyDetail": "Break 10 plates",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/BC14B72AE8903C81A5CCCCAA321155F8DCBAA90E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Get Out!",
+      "trophyDetail": "Destroy a kitchen equipment",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/47DBCBF943720BD9E7CA58F83D35565659D1A2F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Don't stop me now",
+      "trophyDetail": "Keep moving for 30 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/9E6175D70172C832B0232A93ACDD67600043639A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A good start",
+      "trophyDetail": "Finish one lesson in Cooking School",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/6CD8DF5B53ECD942EC49828DE7A28F24AFD07959.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "I know the theory",
+      "trophyDetail": "Finish all the lessons in Cooking School",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/E7FB60CADF06B9854939B1228E3AB74071B31698.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fancy, I like it!",
+      "trophyDetail": "Decor your kitchen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/5BD4C8E6FCB53A5BE1DB0ADDDAFD2A22620024BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Booooring!!!",
+      "trophyDetail": "Try every decoration in your kitchen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/34C25A36BE56989DE407199BAB26ECCB84031477.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I see you...",
+      "trophyDetail": "Use Thermo Vision perk",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/4184A17CD453C5CA9A542B27D8357E8A63E24E39.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Garbigium disposa",
+      "trophyDetail": "Use Fairy Touch to clean the kitchen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/D34A96F02527D3491B874E280F7CCBF1B4D1262D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Steady mind, steady hands",
+      "trophyDetail": "Use Steady Hands perk",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/D88AC6AAF139D0434220AC9CF340219733F2897D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "You're hopeless",
+      "trophyDetail": "Burn any ingredient",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/743B9C17FEA4BAC725C575C0B0AA90A574F50814.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "OK, Boomer!",
+      "trophyDetail": "Blow up a gas bottle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/B39E3DF1928E94EAA6E0F60E0AE2C899FDEF135B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Explorer",
+      "trophyDetail": "Prepare 10 different dishes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/79C19839E84C4A51C983D4F52B7D10AF2AFD3052.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Practice, youngling!",
+      "trophyDetail": "Serve 25 dishes in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/54E0901765411C880908E572B7735D298FBAD507.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Cooking is my life",
+      "trophyDetail": "Serve 50 dishes in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/20D72CEF601FDBA11C38494840FD892FDCC4CD9D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's strictly business",
+      "trophyDetail": "Complete all quantity quests.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/893352431503C4CA6F000AE71005E070B145726D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pizza time",
+      "trophyDetail": "Complete all speed quests.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/452AF14192C29F47982D4B42BB5A01161E1EF43E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Every slice a masterpiece",
+      "trophyDetail": "Complete all quality quests.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/214224479C902DA6C7D05990540F9A3B35F92953.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pizza Ceasar",
+      "trophyDetail": "Serve 100 pizzas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/5F5280DAD8D09BF7A2BD81D15EDEA029FF0D4604.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Winner Winner Pizza Dinner",
+      "trophyDetail": "Serve 25 max stars orders.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/80463E44F9D5FB1084B401D377E2D506ACF875A7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Cowabunga!",
+      "trophyDetail": "Get max stars for 4 orders in a row.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/DA66F526984A16D96BEE2C49A3AF57EB2F34D847.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's beautiful",
+      "trophyDetail": "Reach the hashtag “masterpiece” on a cake. Then sell it in at the end fo the day.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/18FC8CC02318DF1504F6ED8399FA5578090C66BA.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rain of Cookies",
+      "trophyDetail": "Sell 240 positively rated (\"like\" or better reaction) cookies or donuts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/4CD1B7C8EB1F5A2E00A7BF3577428DA7C56DCABF.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pastry chef",
+      "trophyDetail": "Sell 25 positively rated (\"like\" or better reaction) cakes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/2C28094FFC7C239C0F60D14BDFDAFCB2C3753A0C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You complEAT me",
+      "trophyDetail": "Match at least 3 hashtags of the day on your cake. Then sell it in at the end of the day.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/3EF0BE02358F420A452DAFD6E452269036D66FA3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Icing on the cake",
+      "trophyDetail": "Bake all cakes from recipes and serve them on the display stand.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/DC11AE4EBEA55F1D9AA19F45E948EB8DD52EB0DC.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "One donut to rule them all",
+      "trophyDetail": "Become the most popular confectionery in Europe!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/4B0664479D80EBBCBACE99419BA0ED2AC58E5C96.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contractor",
+      "trophyDetail": "Complete 10 positively rated special orders.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/5326928511A10D98F169CAB4977445E28A4F17D2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First things first",
+      "trophyDetail": "Serve a perfectly baked cake on the display stand.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/43C103EE6F34AFC9DEF6AE2C11C4A7A564D4AD95.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Confectioner",
+      "trophyDetail": "Unlock and buy all cake pans.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/DDBE0D4CCDE2B236FA1897E17056307C8D299D5B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Customer is always right",
+      "trophyDetail": "Complete a special order and get a positive rating from the customer.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/9E548F49C3048BFCC4A1DB5D2B15BB8C21888F64.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rat Race",
+      "trophyDetail": "Complete the tutorial",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/6FF0FFC3A2F9D181C578B911971F364D0249C0C5.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Taste better than it looks",
+      "trophyDetail": "Complete the first camp\n\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/8C9A72EFA94FFADF29C1F2A368F68557AEBBDC44.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mutants Party",
+      "trophyDetail": "Complete the second camp",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/F708ED7DDB02AEC487506D702B359EA545939BE0.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monument more lasting than bronze",
+      "trophyDetail": "Complete the third camp",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/F61EDE39605CB7CEC2444717F8008B0E61DEED72.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What's up doc",
+      "trophyDetail": "Complete the fourth camp",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/3F2840071A930192005CDDEA73A4D71753A9EBC9.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Are you there?",
+      "trophyDetail": "Complete the Shelter DLC",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/5CFE19E5530291817F7C5696862711B6111214EE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Can do This All Day",
+      "trophyDetail": "Sell each dish at least once",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/3D8EF2955BA5D9B6DB719C58A6A5032CA4FAFD3E.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bar Brawl",
+      "trophyDetail": "Hunt the mutant by throwing a bottle at him\n\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/C3CD4949C28A4B948D1878CB53C41D45EC8BA597.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It Stings",
+      "trophyDetail": "Sell 50 dishes that require a skewer in the recipe",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/0C8F2FCD9C419F828EC3DED99BB1C06BFF0790DB.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gear Up",
+      "trophyDetail": "Fully upgrade the weapon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20914_00_00D1A265DD440AE80E5FD46F8E05B61F9D25D8E692/6D608D9875E31E034E848074B61C211C64DF62AD.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 59
+}

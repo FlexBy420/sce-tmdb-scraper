@@ -1,0 +1,456 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR08628_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Lost Sea",
+  "trophyTitleDetail": "Lost Sea 트로피 세트",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/6E3BE37C40E7B7580B07024B83BC70CF832FA70E.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 34,
+    "silver": 9,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Lost Sea",
+      "trophyGroupDetail": "Lost Sea 트로피 세트",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/6E3BE37C40E7B7580B07024B83BC70CF832FA70E.PNG",
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 9,
+        "gold": 3,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "버뮤다의 영웅",
+      "trophyDetail": "모든 트로피를 획득하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/5682602E5F11D353C1F894E51E90DDE1A44BC8C1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "모험가",
+      "trophyDetail": "튜토리얼 섬을 완료하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/82F99FDD734C8EF7FAFFE74E2C94AAF53464F936.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "건너뛰는 자",
+      "trophyDetail": "튜토리얼 섬을 건너뛰십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/4B9D75363E5C6FCF077B31D1BA30A9B6E771B0FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "칼잡이",
+      "trophyDetail": "튜토리얼 섬에서 마체테를 찾으십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/D9E6DA4D49DAD84D185FA655D1D6FC17FCD8C0D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "생초짜",
+      "trophyDetail": "튜토리얼 다음에 방문한 첫 번째 섬에서 사망하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/EA86CF58707A50A7101C40E2D28BA96716CCF4B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "생존자",
+      "trophyDetail": "선원에게 부활을 50번 받으십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/2AA89109E8CB04195A322BB35FB1AEC303C45F9A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "유언",
+      "trophyDetail": "50번 사망하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/AC6A05942E6111DFC8C4F0C48E22DD5E00B52C4F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "선장",
+      "trophyDetail": "100명의 선원을 고용하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/67F40A231AAA5814FE7D7B1FF7CB092B341ABE2F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "파티장",
+      "trophyDetail": "4명의 선원으로 구성된 풀 파티를 이끄십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/43FCB9BC6B390AB258F30A93394F2A3335A956EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "수호 천사",
+      "trophyDetail": "각자 부활 능력을 지니고 있고, 광륜을 달고 있는 4명의 선원으로 구성된 풀 파티를 이끄십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/A273D6BE716334D1E496FE1D8C9B9A319D0C732C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "재벌",
+      "trophyDetail": "금화 10,000개를 획득하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/3C50C59E6F5DC6F86B1F182C68E8615DF13D5312.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "베테랑",
+      "trophyDetail": "경험치 50,000점을 획득하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/EEA69ACAD88782BCAE3BC48BC27B327C369DAFA8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "목수",
+      "trophyDetail": "목수 능력을 지닌 선원에게 다리를 수리하라고 명령을 내리십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/4FBC60B17181752CEE4FC1388ABF792C0D1FB8B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "광부",
+      "trophyDetail": "광부 능력을 지닌 선원에게 땅을 파라고 명령을 내리십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/C0FD0C457598EC6304C7302F06C9869C2C68E5E9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "자물쇠 전문가",
+      "trophyDetail": "자물쇠 전문가 능력을 지닌 선원에게 상자를 열라고 명령을 내리십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/DD8A4E46FAE44AEC237DA04BA142383A2F559823.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "지도 제작자",
+      "trophyDetail": "지도에서 섬 지역 1000곳을 밝혀내십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/F9D9479199FEDBC882E8BF2001EC6A046CD0DBD5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "기술자",
+      "trophyDetail": "아이템 100개를 사용하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/A77019F605CA6FBF3E894165C4AB723BD0258EF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "식물학자",
+      "trophyDetail": "회복 나무를 찾아 이용하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/8D3953AFC0F1809DC0D59CCEC72277C9B5083D62.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "치료자",
+      "trophyDetail": "회복 나무를 50번 이용하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/D1EB2C8DDBBA1975B719EA31EA43BAF112BCE0BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "습격자",
+      "trophyDetail": "적 3000명을 처치하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/AEF2B86EE11E1BF2A316EA8B412AAEF73687B6B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "빙글빙글",
+      "trophyDetail": "회전 공격으로 적 100명을 처치하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/5D1B74C631AAE4D57FE2EB3F97F6C48AF500E749.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "돌격의 매력",
+      "trophyDetail": "돌진 공격으로 적 100명을 처치하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/A65EFEFA3DE3528B2D2D11D88B8CF8BD6A69DED8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "총잡이",
+      "trophyDetail": "권총으로 적 25명을 처치하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/2C3DF3E88621FA79D9CE7AE6CFE7E1A543518F54.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "폭파병",
+      "trophyDetail": "폭탄으로 적 50명을 처치하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/08D816ADD3F81BA2966677EC9FD1B8C29259789D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "깡패",
+      "trophyDetail": "해적을 물리치십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/E8CAEAA9BF4ADDE2927BDDCFAE833D9B79664C15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "해적 사냥꾼",
+      "trophyDetail": "해적을 20번 물리치십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/DDB42B6DD42955600D53A92384B12390DD473628.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "광전사",
+      "trophyDetail": "아드레날린의 영향을 받는 상태로 적 10명을 처치하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/05B1DA40DD6088F7E2DD943F3F17E07A3752EEAA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "기물 파손",
+      "trophyDetail": "통 및 상자 5000개를 파괴하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/81BEFA166930C7DEB0EEFBEB2177E269FD98AFEB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "덤불 파괴자",
+      "trophyDetail": "덤불 5000개를 파괴하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/DD411954CD931FEC50CBD269363E27A1E2588A2E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "완벽주의자",
+      "trophyDetail": "게임을 한 번 끝까지 플레이하는 과정에서 모든 플레이어 기술 및 배 업그레이드를 해제하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/B86FDB16A146F428EE69FA9869175519A0C6574A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "체력이 최고지",
+      "trophyDetail": "최대 체력 업그레이드를 해제하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/47611D8AEFC06FF525254D304766392B378732F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "넘치는 투지",
+      "trophyDetail": "최대 지구력 업그레이드를 해제하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/AD71AF9B01D3A00AB5B702AEC591451C69C50E61.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "정글 탐험가",
+      "trophyDetail": "정글 구역을 완료하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/40999B218D66F619E957F355F8163452832CF44C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "사막 탐험가",
+      "trophyDetail": "사막 구역을 완료하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/1457358AC10763681018C3F29BB81555EE757503.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "늪지대 탐험가",
+      "trophyDetail": "늪지대 구역을 완료하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/46833740AEC545E749A8A53629D071731DA0D08A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "설원 탐험가",
+      "trophyDetail": "설원 구역을 완료하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/7FC5776F715842E53AEAE2AD033DAFC0F7C65B66.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "탈출 전문가",
+      "trophyDetail": "버뮤다 삼각지에서 탈출하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/59A7D763CDC4EA014FDCFDEC7C5716C2AC0A202C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "속도광",
+      "trophyDetail": "워프 없이 2시간 이하로 게임을 완료하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/35C1A6E56A61AA0A66906732BC65373117A1D1F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "일인 군대",
+      "trophyDetail": "선원을 한 명도 고용하지 않고 게임을 완료하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/8B589249F9E0BF21DD91D4A16A37BA032AA67824.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "순수주의자",
+      "trophyDetail": "플레이어 기술 또는 배 업그레이드를 해제하지 않고 게임을 완료하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/DF3BE20DEE2989BBB24B4846DD3B6089DF7F4CC2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "전통주의자",
+      "trophyDetail": "아이템을 사용하지 않고 게임을 완료하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/EB5E24F26CFDEBC214F81228226DE24F638FA31E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "유물 사냥꾼",
+      "trophyDetail": "석판 100개를 찾아서 지도판으로 가져다 놓으십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/DE2562B2337F5CA6B0C37E5B69D7322EF682B15C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "타짜",
+      "trophyDetail": "석판 3개의 합으로 총 10 이상의 결과를 얻으십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/020712A3C2171BDDD4FA7304A4F722A5CFDE1308.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "고고학자",
+      "trophyDetail": "하나의 섬에서 석판 3개를 얻으십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/C559F8B6D62472CA522D08E1B110FD88CCC08E6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "호구",
+      "trophyDetail": "함정 100개를 건드리십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/DE55A6CB0CE1AE7DA2AC60F6FE1120535BDB8F61.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "보물 사냥꾼",
+      "trophyDetail": "보물 조각 18개를 모두 모으십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/D23C98E8C469855AFB41C68B1CE8659C0CBC1F0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "구원자",
+      "trophyDetail": "구명 튜브 배 업그레이드로 선원 10명을 구조하십시오.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/20B4FFE79F0BDD9B4F7B4B86BEB745382DBCD846.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 47
+}

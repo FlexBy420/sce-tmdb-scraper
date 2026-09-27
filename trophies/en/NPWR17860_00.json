@@ -1,0 +1,585 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR17860_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "Torchlight III",
+  "trophyTitleDetail": "Base trophy set of Torchlight III",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/9995F75A79B981AC770F02091AA692D1408E3FB4.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 54,
+    "silver": 3,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Torchlight III",
+      "trophyGroupDetail": "Base trophy set of Torchlight III",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/9995F75A79B981AC770F02091AA692D1408E3FB4.PNG",
+      "definedTrophies": {
+        "bronze": 52,
+        "silver": 3,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Cursed Captain",
+      "trophyGroupDetail": "The trophy set of the Cursed Captain.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/AB8F646E23F6543597C16C32DEBACBFF954773C2.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Completionist",
+      "trophyDetail": "Unlock all base trophies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/425DCE06DAE0AC09CD8CDB8F9538FF48F4E1C1F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "High Class Hero",
+      "trophyDetail": "Reach level 60 with 4 different classes: Duskmage, Forged, Railmaster, Sharpshooter.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/333FDBE1903574E773C546202CD1F5ABE366F0C7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Snotskin Suppression",
+      "trophyDetail": "Complete Act 1 story quests.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/3143528BAADA1D727D5BAE07A867F00F891C4E8A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infestation Investigator",
+      "trophyDetail": "Complete Act 2 story quests.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/222E9708D26BF588A9E52A8DB5B5410917987091.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Echonok Explorer",
+      "trophyDetail": "Complete Act 3 story quests.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/BFEAACC1010164CCBFF2F891A64577139DE6F628.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Terminator",
+      "trophyDetail": "Defeat 800 Automatons using Shotgonne Blast as the finishing blow.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/0D58192BBDE9C8A397CEA9F8A6EF215B38341AEB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Brawler",
+      "trophyDetail": "Defeat Brall in Trial of Strength.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/414FE3DA7765DC578C6DB82A4F7AC373CAEEB0D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gobsmacked",
+      "trophyDetail": "Defeat 1,986 Goblins using Entropy as the finishing blow.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/F7B8A5A7EA8DCCAB54F68C4DA4B41B316E609069.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exterminator",
+      "trophyDetail": "Defeat 500 Hyvid.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/2AB741C7A727B85D434A8E3818E610B6F21AFD56.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Never Netherim",
+      "trophyDetail": "Defeat 500 Netherim.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/E1ABD4E2EA240A629B1CB1DDF4432F4D7391ED52.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Psora Not Sorry",
+      "trophyDetail": "Defeat Psora in the Nymph Tree.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/D0978022CAB7C2216FFBF4BB0FAC7FC02B8AD639.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultimate Slayer",
+      "trophyDetail": "Defeat Sadista in Netherim Chamber.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/B7010E9325A0E8DB8C6857C1FCA71B04DC665BBD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shriekback",
+      "trophyDetail": "Defeat Shriekbeak in Shriekbeak's Laboratory.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/AA49D18C26F939D7A2CCE17CDB01E7A49430B884.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sinister Siblings",
+      "trophyDetail": "Defeat Brall in Trial of Strength and Sadista in Netherim Chamber.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/D91EEFBB6EEEE22416801B920D51CFFE0FEC2249.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bad to the Bone",
+      "trophyDetail": "Defeat 1,982 Skeletons using Scout's Bones as the finishing blow.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/D7754039973C03A5129BF1AA7C0136DF16CAF01A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Declawed",
+      "trophyDetail": "Defeat Squawkclaw in Squawkclaw's Perch.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/F9B33C4ED790CCDEE7912420EA449EC76A4B4483.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Even Stronger",
+      "trophyDetail": "Defeat Strongtusk in the Belly of the Beast.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/B2A76AF2CBB737409CA593636F88C343CA5D1622.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thunderstruck",
+      "trophyDetail": "Defeat 1,990 Voltura using Shocking Rounds as the finishing blow.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/70364EF6CA35A79545A0A2C0107A621B6F824E42.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unloaded",
+      "trophyDetail": "Defeat Wideload in Wideload's Lair.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/C618794430CC09D56848DFCF8986AEA5CEF326ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yapper Slapper",
+      "trophyDetail": "Defeat Yapper in the Occupied Trevail Point.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/A035413AC21221C12650BC9CDD4809080EDE5171.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zombie Containment",
+      "trophyDetail": "Defeat 500 Zombies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/E187D6BAB2EF491507B7B352F6828077110B3208.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Getting Krronk",
+      "trophyDetail": "Defeat Krronk in Defender's Gate.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/64D2AA6B48F2D2754B60A6281C4F2AD641F6D16B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "First Class Hero",
+      "trophyDetail": "Reach level 60 with any of the following classes: Duskmage, Forged, Railmaster, Sharpshooter.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/4B686765629CDC6C9A1F6C292C49D09C6A68C2C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "High Class Dusk Mage",
+      "trophyDetail": "Reach level 60 with the Dusk Mage.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/E6B591ACF91F575489A7D2C6FF353FB961E06813.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "High Class Forged",
+      "trophyDetail": "Reach level 60 with the Forged.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/12BFEE9E01B2AB8ABAA40D47C0777F755BBF102A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "High Class Railmaster",
+      "trophyDetail": "Reach level 60 with the Railmaster.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/F01628965CE06C3E0DD15BC681C548A1E85A335D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "High Class Sharpshooter",
+      "trophyDetail": "Reach level 60 with the Sharpshooter.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/7B38870E81A8AB2127003A443DDAEF0B77D695DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Savant",
+      "trophyDetail": "Spend 10 points in any skill.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/DC0D6763A4FAAD1BBDA3A6FBAB664623EB2E717C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Break All the Things!",
+      "trophyDetail": "Destroy 2,010 breakable objects.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/8D75EB97B6F2EB553987176172E6F3802F67C792.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Money Tree",
+      "trophyDetail": "Grow an Ancient Luck Tree in your fort.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/5CE2149EA6ED29B36A4F9526AA959F844D9DAA91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Superior Enchanting",
+      "trophyDetail": "Use the Enchanter's Altar to slot 25 Enchanting Slots.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/DCB8201A4E573827F6F30E8DE2804A36ECEF4B7F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Geared Up",
+      "trophyDetail": "Pick up each type of armor: Boots, Chest, Gloves, Hatch, Helm, Locomotion, Legs, Shoulders.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/0B9511726EDAEA1BAD90F97CFB5D48402232D56E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weapons of Choice",
+      "trophyDetail": "Pick up a Bow, Chest Cannon, Digitus, Focus, Greatweapon, Hammer, Mace, Pistol, Rifle, Staff, Sword.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/1F0E0B281A6343B95306EFFBAE15B87351DA500A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Way to Go",
+      "trophyDetail": "Find a waypoint.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/3A2E7D643FADE13CC8FFCD16590E9384B776AA9A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lore Master",
+      "trophyDetail": "Find 25 lore objects.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/9E2D19C93BE2C84F4E84485588DC5B3C34366204.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pampered Pet",
+      "trophyDetail": "Equip a pet collar and tag on your pet.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/BB183A9C825050F36D75E8617AFF95F2BF043A3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elite Defense",
+      "trophyDetail": "Equip items with at least 1337 defense.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/5B29BFBA1D0309A5EF4D6C6389DC1B0F6A39FE9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Replenished",
+      "trophyDetail": "Pick up 500 health potions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/E304141AD7FA850726B35D90AF20ED2838B2A356.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fight For Your Rites",
+      "trophyDetail": "Use 100 shrines of any kind.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/31FF9776D8DEF9505E967326A0FBF08DC8C9C7B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legendary Loot",
+      "trophyDetail": "Collect a legendary item.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/D82AEEDC724740C5D8BDCA5C6325AC112186514A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legendary Collection",
+      "trophyDetail": "Collect 25 legendary items.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/4B2723C75A84AB496BFC35259B481C66A4718064.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Millionaire",
+      "trophyDetail": "Collect 1,000,000 gold.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/CFC2C7BFD2DB33F37907188277FC05DC46BE2F87.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monster Hunter",
+      "trophyDetail": "Defeat 1,000,000 monsters.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/F3200DE599CD1F7CFE3983D34CD0AA53D7B8EE07.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Straight to the Point",
+      "trophyDetail": "Visit Trevail Point.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/AD8C8A8C8F5CCCB6FAB3117C073AFDBFBFAFC19B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cozy Cove",
+      "trophyDetail": "Visit McTyres Cove.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/BF009FCF3272D65D2C77FF87CF552A717890F6F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Land of Echoes",
+      "trophyDetail": "Visit Echo Landing.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/B9E5A2D9AD0F8C57017E07DBF1A89872486E838A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rolling Stones",
+      "trophyDetail": "Collect 500 Stone.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/B05F324E6745DEAD70BF924F9240C56CA23FA74F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Woodchuck",
+      "trophyDetail": "Collect 500 Wood.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/79159FB8F59F72614FA4E4EBC02B07999EA7348E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heavy Metal",
+      "trophyDetail": "Collect 500 Metal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/184C980DCFB1122E8A074EB6CEEE7D3FADBD3633.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Rotten Core",
+      "trophyDetail": "Defeat Ordrak in the Clockwork Core.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/D821FA37DF89F0B5DDAC4593AC0DF4A8598F43D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legendary Set",
+      "trophyDetail": "Equip each set: Arc-Powered, Celestial, Cosmic, Mountain King, Musketeer, Skittering, Woodsbeast.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/A61E57284DA74DE41D32818DA955ADD96A45E7ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Celestial Garb",
+      "trophyDetail": "Equip the legendary Celestial set.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/CFDBA5E47D6C052562EDBB899D192C9ED7C65DA7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cosmic Garb",
+      "trophyDetail": "Equip the legendary Cosmic set.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/054D178DE4541784ABE56BF29158A271BCD17316.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Woodsbeast Garb",
+      "trophyDetail": "Equip the legendary Woodsbeast set.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/48627044D3DC41817BFF2EA56B9AB506D353FA11.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Skittering Garb",
+      "trophyDetail": "Equip the legendary Skittering set.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/5CCD814F191BC92C1F7983419A2D2F1DE19924C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Musketeer Garb",
+      "trophyDetail": "Equip the legendary Musketeer set.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/DC46D5F326A92CDDE365E12642434D5EA79BEDCC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arc-Powered Garb",
+      "trophyDetail": "Equip the legendary Arc-Powered set.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/24641DC43D222993718612701CB7A10E639FC615.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mountain King's Garb",
+      "trophyDetail": "Equip the legendary Mountain King set.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/3A967842AB6F0EBB1C5887A732E6664544C7958A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "High Class Cursed Captain",
+      "trophyDetail": "Reach level 60 with the Cursed Captain.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/21608EF01273C055EB1BF13ED56C227B93ED5397.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Commodore's Garb",
+      "trophyDetail": "Equip the legendary Commodore's Garb set.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17860_00_00A1A5428C04C3D2696E7C0447B3CB9CD2DB13AC52/E71139317CAD6BC449DBB35A8E871BE15C610CCA.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 60
+}

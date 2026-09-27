@@ -1,0 +1,789 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR03482_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "ＡＳＳＡＵＬＴ　ＧＵＮＮＥＲＳ",
+  "trophyTitleDetail": "『ＡＳＳＡＵＬＴ　ＧＵＮＮＥＲＳ』トロフィー",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/2D2FA5C163C54A2CFD1615F0FD64C67469F5E22A.PNG",
+  "trophyTitlePlatform": "PSVITA",
+  "definedTrophies": {
+    "bronze": 60,
+    "silver": 17,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "ＡＳＳＡＵＬＴ　ＧＵＮＮＥＲＳ",
+      "trophyGroupDetail": "『ＡＳＳＡＵＬＴ　ＧＵＮＮＥＲＳ』トロフィー",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/2D2FA5C163C54A2CFD1615F0FD64C67469F5E22A.PNG",
+      "definedTrophies": {
+        "bronze": 36,
+        "silver": 11,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "ウォー・ゲーム",
+      "trophyGroupDetail": "ＡＳＳＡＵＬＴ　ＧＵＮＮＥＲＳ　ＤＬＣ　『ウォー・ゲーム』トロフィー",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/739A65240B17C18DA27B5D3263BE1DF40D58F963.PNG",
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "マウストラップ",
+      "trophyGroupDetail": "ＡＳＳＡＵＬＴ　ＧＵＮＮＥＲＳ　ＤＬＣ　『マウストラップ』トロフィー",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/99D612FEE98D6AE11E5241893BCD7E1AD5503423.PNG",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "ダークネスの心臓",
+      "trophyGroupDetail": "ＡＳＳＡＵＬＴ　ＧＵＮＮＥＲＳ　ＤＬＣ　『ダークネスの心臓』トロフィー",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/D334D2695E736828D05A4B4F5B044CAF6E8FD2DA.PNG",
+      "definedTrophies": {
+        "bronze": 10,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "ＭＩＳＳＩＯＮ　ＴＯ　ＭＡＲＳ",
+      "trophyDetail": "全てのブロンズ シルバー ゴールドトロフィーを取得する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/39FE8832CD5EBF26C58164DD187351A9B1AE5809.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ＷＥＬＣＯＭＥ　ＴＯ　ＴＨＥ　ＭＡＲＳ",
+      "trophyDetail": "ゲームを開始する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/FF8F3772DB1053DB8B3949D43E536086C2AE601F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "宇宙騎兵",
+      "trophyDetail": "ミッション１をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/A7B3266D752EA43DF9D9EA7FF198417D960B0D3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "一個小隊",
+      "trophyDetail": "ミッション２をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/24BFA204BFA08CE736EF97D13D3ECB1953FE5190.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "赤い大地",
+      "trophyDetail": "ミッション３をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/EDAA43386B1D50593AA13D0FC9B52F465F36C764.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "火星のグランドキャニオン",
+      "trophyDetail": "ミッション４をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/A4F48153B0AF9ED33E0C7320B998CED00DE76EE3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "無人都市",
+      "trophyDetail": "ミッション５をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/684A830E735761F8A0563E273E9AE6D7979C6184.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "火星の亡霊",
+      "trophyDetail": "ミッション６をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/5E2A71CD84D5573A0D4DBC7F13B0FF7EEC1B221B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "地下道",
+      "trophyDetail": "ミッション７をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/3119066F4DA3C0EA0D8A17416CA7752BD465AF33.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "３００秒",
+      "trophyDetail": "ミッション８をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/AD1D52307A6A7CF86A88FE97206582CCD313C8BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "零下の攻防戦",
+      "trophyDetail": "ミッション９をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/B900DD15408F2F971F1FE760BB80C812B0DFAC66.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "殺戮の地",
+      "trophyDetail": "ミッション１０をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/67D28AC7A783DCDF3FE7959D839844E836D9A1AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "熱気",
+      "trophyDetail": "ミッション１１をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/24C2908945D7F95600672443EF1E622A880CF98D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "亡霊",
+      "trophyDetail": "ミッション１２をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/D83265EF341FAE1486B8E62EF362F1E41688ED32.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "関門",
+      "trophyDetail": "ミッション１３をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/9B21E799218ACC881EBFE31064205C75C957A2D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "異質",
+      "trophyDetail": "ミッション１４をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/CFEEB5D6EEC29394EBE504C11E2B39B55F2ACD0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "脱出",
+      "trophyDetail": "ミッション１５をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/E7D0C7F79E797ECD316678D8D22A0C8A05822DD8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "熱砂の海",
+      "trophyDetail": "ミッション１６をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/252FACF4EE9253E4A27C20FEA1058899E297D866.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "確率１％",
+      "trophyDetail": "ミッション１７をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/F7F27B841D019F6DF99C35F3C55CA7C3EE4DE7FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "壁",
+      "trophyDetail": "ミッション１８をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/9CAB759E6BAD28C611225802614AC32E8AAB60E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "カウントダウン",
+      "trophyDetail": "ミッション１９をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/92C11AF158254D5D668B7E5DB1C2BA49CD6F8646.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ゴーストシップ",
+      "trophyDetail": "ミッション２０をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/1C2D3BC38739D0F4903F265B5044AE8B038EA44A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "希少金属の箱",
+      "trophyDetail": "ミッション２１をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/AD4916345DC12CFCE83BCEC3F05EF3904BAE87A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "地下へ",
+      "trophyDetail": "ミッション２２をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/41CC77F1B6774F9BC67BF0C228E6809AF42B405D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ソースコード",
+      "trophyDetail": "ミッション２３をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/304FEBC69A019D2B59339BE30CF1A730AF1CC45E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "永久に",
+      "trophyDetail": "ミッション２４をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/087F98981F7F15810FB6C090C95378E92E50A444.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "計画",
+      "trophyDetail": "ミッション２５をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/291274444D16C4F7281A507BA9F63C2C5B8189CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "第６局面",
+      "trophyDetail": "ミッション２６をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/F6739791C1E4A10B870537690C6583DB2DFDE832.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "記憶",
+      "trophyDetail": "ミッション２７をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/F596296183F86CB1FE6387BDBD2E21EA867E8E1C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "無属性",
+      "trophyDetail": "ミッション２８をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/8477BCD00FF0D8FF1DB40EA18F403F0E84491C93.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "選択",
+      "trophyDetail": "ミッション２９をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/BFCDA2B328F2074ACB927F8065B4EDA3C2FB4F82.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "怒涛の海",
+      "trophyDetail": "ミッション３０をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/E3F25EF1DEAB487E8CED33DAEFECB6381B0B3B3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "防衛線",
+      "trophyDetail": "ミッション３１をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/9A0B6067832EA4BD615810BF8A3B5BCD535609E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "黙示録",
+      "trophyDetail": "ミッション３２をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/4A643737FE4730A41E6598518FCBF208AFB30008.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "最終戦争",
+      "trophyDetail": "ミッション３３をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/5B7ADF1792988FD5815EEE51300FC18A7CCCB8BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ジレンマ",
+      "trophyDetail": "ミッション３４をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/EBE0FAF6D06CD9A45B200407D87A87E6941ED312.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "最後の戦い",
+      "trophyDetail": "ミッション３５をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/A496192E5B3EEFC7A7D7E7B6EB46D2CCB38E9D7C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "初めてのアセンブル",
+      "trophyDetail": "初めてパーツを付け替える",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/FD810869C964E672F86BC5111122565F7F83CB24.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "パーツコレクター",
+      "trophyDetail": "パーツを５０種取得する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/3BDB38740F57EB080D778C5A07199363D29A8C41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ルーキー",
+      "trophyDetail": "ＬＶ２になる",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/37672457DB6C481559AC5F90FDF3C86471FAD82D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "戦場の狼",
+      "trophyDetail": "単機で出撃してシングルプレイのミッションをクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/2C75568F74DC5AEEF156032ACBAF996848BD3D71.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "標本家",
+      "trophyDetail": "１発のレーザーで１０機の敵を倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/E81BAF76F9C74F12751AEA97415AA305A6C65C19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "研究助手",
+      "trophyDetail": "初めてパーツをＬＶアップする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/D171DEDF9200EFF26647414757AA17BB960A42FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "偉大なる研究者",
+      "trophyDetail": "１つのパーツを最大ＬＶにする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/13F3B10152AA1BDA6F785223F9F9E512027A8A47.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "僚機マニア",
+      "trophyDetail": "僚機を３機とも生還させる",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/78F5DF82816A6B9E22BE177B0AB309717ED5DCB3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "ぼくのひみつきち",
+      "trophyDetail": "ミッション４の隠された部屋に入る",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/87B3752EF35554961EFB859D49D90DA3D2ACCDAE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "トリプルキル！",
+      "trophyDetail": "キャノン砲かグレネードの爆風で３機の敵をまとめて倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/DED5FEF96662F4B849CC1A1D0CDA4E74A9ACB563.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "戦友",
+      "trophyDetail": "マルチプレイで１０回ミッションをクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/B95AC98991E74C074E3743E69403936DF2F27727.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "ブラザー",
+      "trophyDetail": "マルチプレイのインフェルノで５０ＷＡＶＥ生き残る",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/C7A7B720BA30615C4F5578D6618AC856F2C21FBD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "一機当千",
+      "trophyDetail": "すべての種類の武装で各１００機以上撃破する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/160731A536F0B97E3C15472FB698A8502C9E4CDE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "非・武装都市",
+      "trophyDetail": "ミッションＤＬＣ１－１をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/BB55A067934117638A955B79D3ED36F828EBAD1D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "巨人の谷",
+      "trophyDetail": "ミッションＤＬＣ１－２をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/8F4325B823B8B09DD63F7B793FA7569B2502BF85.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "爆弾解除",
+      "trophyDetail": "ミッションＤＬＣ１－３をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/A886A9994749DCE27F480939F04A2AC363D590F7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "オリンポスの隧道",
+      "trophyDetail": "ミッションＤＬＣ１－４をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/42CBF26B8F25EDEAAA298F0B9CF4712B2F2B4FFD.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "死闘、再び",
+      "trophyDetail": "ミッションＤＬＣ１－５をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/F5EBA56976A95A5FA0D13DA5259E2A650ED96BB2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "戦場の英雄",
+      "trophyDetail": "追加されたミッションを全て「ハード」以上でクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/9198564DBA00D413D845092103CA59B5BB299527.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ロシアンルーレット",
+      "trophyDetail": "ナビゲーター「ハンター中佐」でミッションプレイ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/070C55938D9B4C9B1D5BDFAA899303F8EF62197E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ＡＮＹＴＩＭＥ　ＡＮＹＷＨＥＲＥ",
+      "trophyDetail": "ナビゲーター「バスケス少佐」でミッションプレイ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/19B8C4D412D885D0E51283EF5EE96F31E3E891FE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "最強のＣＱＣ",
+      "trophyDetail": "「ＧＲ－ＮＫＬ　Ｍ３」のみを装備してミッションをクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/0AEB6BDDE75C7B6B3471055A01C2B44198ECCCDD.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "新しいもの好き",
+      "trophyDetail": "追加された武装のみ４種を装備して出撃",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/9B02529D8A964FDEBD87E66D6CE5E6F7812D9593.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "鋼鉄の十字路",
+      "trophyDetail": "ミッションＤＬＣ２－１をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/33E94428640E26000207188A733B1DDBBF747F45.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "罠へと続く道",
+      "trophyDetail": "ミッションＤＬＣ２－２をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/5D9A147F5282C70854F97C631FA956CD3726F0BA.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "九つの扉",
+      "trophyDetail": "ミッションＤＬＣ２－３をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/0D17F3D8E2BC94D495800B199D6291E409BCB8FE.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "逃避行",
+      "trophyDetail": "ミッションＤＬＣ２－４をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/66DC2130E72EF86683B176E75A66FE5AED82BFCD.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "凍りついた山",
+      "trophyDetail": "ミッションＤＬＣ２－５をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/51C9102096E4DCC5B38174B133E58454E01C81C7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "強化の鬼",
+      "trophyDetail": "追加された拡張パーツを装備してミッションをクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/ECC56BEA2BDBA33A5DD93F997BC3605508C5D2FC.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "研究マニア",
+      "trophyDetail": "追加された全てのボディパーツとレッグパーツを入手",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/05D047AF751D310496B189C2390D6B07BAF64593.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "マスターエンジニア",
+      "trophyDetail": "全てのボディパーツとレッグパーツをＬＶ１０にする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/46417C13642817E2C3D747376D5693C1C732D254.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "すーぱーふわふわたいむ",
+      "trophyDetail": "ホバー型４機で出撃",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/85881804DF267D8E071EABE06B66D93EE048F438.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "暗黒の星",
+      "trophyDetail": "ミッションＤＬＣ３－１をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/D7F46CB89CC75C67E05D363EFBEB11B484A9625A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "暗黒面",
+      "trophyDetail": "ミッションＤＬＣ３－２をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/6730C22CC107CBCCB2C062D7FC8A78AFE1E73F4B.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "闇夜",
+      "trophyDetail": "ミッションＤＬＣ３－３をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/21C352168F6250265308029388476EC487B8EDDD.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "棺桶",
+      "trophyDetail": "ミッションＤＬＣ３－４をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/5A72F4E4ACA793C3A1E931B8C6D507A7DBF90A91.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ダークネスの心臓",
+      "trophyDetail": "ミッションＤＬＣ３－５をクリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/C957A098F44283037BDB8A1413E57774D9D63275.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "伝説の戦士",
+      "trophyDetail": "パイロットＬＶが５０に到達",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/6D9D45678A215FF396C89DA2B5A5A8A3C51EB140.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "史上最大の撤退",
+      "trophyDetail": "ナビゲーター「マーヤ軍曹」でミッションプレイ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/318D19F2C1FD96E5FC4AE19075C38CE1D8D468AF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "歌う通信士",
+      "trophyDetail": "ナビゲーター「ウフーラ中尉」でミッションプレイ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/3DFC07E97AB3EA9EBDD812B6FC4A48F823A7FC1D.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "新たなる大地",
+      "trophyDetail": "追加されたバトルマップをプレイ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/3452C4AD6B653E5831A07258E8F5B6D13A769B2C.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "新たなる希望",
+      "trophyDetail": "追加されたバトルマップで１位をとる",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/7C1352A7545E260BD577B2065D4743C7E0AC639F.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ＬＡＳＴ　ＷＡＶＥ",
+      "trophyDetail": "追加されたインフェルノマップをプレイ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/945415CE111FB07CC2AC5E81F8565EDBA23D748C.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 80
+}

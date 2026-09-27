@@ -1,0 +1,528 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR16317_00",
+  "trophySetVersion": "01.05",
+  "trophyTitleName": "DOOM Eternal®",
+  "trophyTitleDetail": "Set di trofei DOOM Eternal®",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/6D785F6728191CDCF8AAFDCAEE6C7E829E1036E0.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 30,
+    "silver": 14,
+    "gold": 6,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "DOOM Eternal®",
+      "trophyGroupDetail": "Set di trofei DOOM Eternal®",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/6D785F6728191CDCF8AAFDCAEE6C7E829E1036E0.PNG",
+      "definedTrophies": {
+        "bronze": 17,
+        "silver": 12,
+        "gold": 4,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "DOOM Eternal® The Ancient Gods 1",
+      "trophyGroupDetail": "Set di trofei DOOM Eternal® The Ancient Gods 1",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/C67134D03E499DB469976A8A8443CD4EB6B94182.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "DOOM Eternal® The Ancient Gods 2",
+      "trophyGroupDetail": "Set di trofei DOOM Eternal® The Ancient Gods 2",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/8A080DE8DBF394D8DB8ACA252455E7D960AFF109.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "DOOM Eternal® Horde Mode",
+      "trophyGroupDetail": "Set di trofei DOOM Eternal® Horde Mode",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/3B32DE0C82BCEFA0CA1D1EB618B254F792A0D9BA.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Heavy metal",
+      "trophyDetail": "Ottieni tutti i trofei",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/FB6823BCEC4A65168A0C21914434F478779E1C75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Apocalisse",
+      "trophyDetail": "Completa Inferno sulla Terra",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/CFF0AAB1103478CD030DAE32E4DED9A2549EC5AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Da cacciatori a prede",
+      "trophyDetail": "Uccidi i Doom Hunter",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/967D59D667FBA0F9E3811B80FBB35D4AADDB3508.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Frattura interplanetaria",
+      "trophyDetail": "Fai un buco su Marte",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/E92C7273F80D67B56892B5A974E49B64793C3C9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Pollici versi",
+      "trophyDetail": "Sconfiggi il Gladiatore nell'arena",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/758CBAFD323C1EBCE30CCE42E3990A7118F68D98.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Riforgiato e rifornito",
+      "trophyDetail": "Acquisisci un nuovo Crogiolo a Taras Nabad",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/159438671B3184DD6BB077AE0576EE9ACBF2BEE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Progressista",
+      "trophyDetail": "Uccidi la Khan Maykr",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/DA893644D6866B3FC1FDF7093D2E2887B5B700E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Iconoclasta",
+      "trophyDetail": "Uccidi l'Icona del Peccato",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/3E9C8CA76A330203D73BAD45FCE367F40DD4B797.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lo Slayer del passato e del futuro",
+      "trophyDetail": "Completa la campagna a qualsiasi livello di difficoltà",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/A69C294D70ECF7DF55542DBCA6684AF32D784E31.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cacciatore di tesori",
+      "trophyDetail": "Completa ogni evento e sfida missione e trova ogni oggetto a Taras Nabad in un unico salvataggio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/DAE00E6825B9D5601811D0EDE8B9514D028C617E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maestro del digiuno",
+      "trophyDetail": "Completa una missione con solo il cheat “Modalità carestia” attivato",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/73146D74AC06EA30877CF89F46162A0E1C7ABD50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Scalare le classifiche",
+      "trophyDetail": "Completa la modalità Vite extra con 10 vite extra nel tuo Inventario",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/81A2A329394C7F5AB132262F9D92712F9E297A51.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brama di cristalli",
+      "trophyDetail": "Potenzia salute, corazza o munizioni",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/4C745A44BD86CC9192361A5DC10F45758DDA5DCC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Re dei cristalli",
+      "trophyDetail": "Potenzia completamente salute, corazza o munizioni in un unico salvataggio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/FEB2B7E0DAB02C03D2BE1EFBFDD7084A5C3DD7C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Questo è il mio preferito",
+      "trophyDetail": "Completa una categoria di miglioramenti dell'Armatura Praetor in un unico salvataggio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/01969C7B03C4B6CE35B9D637D83EF895BB12CEEA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Sono TUTTI i miei preferiti",
+      "trophyDetail": "Acquista tutti i miglioramenti dell'Armatura Praetor in un unico salvataggio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/818DC4FDD51E100D556EB2704CB0525C786B797F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "HomeMaykr",
+      "trophyDetail": "Spendi 8 Batterie delle Sentinelle nella Fortezza del Destino in un unico salvataggio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/58908CF757F4D6BCEB4047EDE488061129867803.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vite extra in abbondanza",
+      "trophyDetail": "Raccogli 20 vite extra totali in un unico salvataggio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/F457DE1ABE179C50DF843FC06F39ED3A22203F0C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Esprimi un desiderio",
+      "trophyDetail": "Completa la collezione di cheat code in un unico salvataggio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/BAAE061585A82B537A940A297F4EB6B13246A331.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Metallaro",
+      "trophyDetail": "Completa la collezione di album in un unico salvataggio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/84C4608E66B3B08737B54548D2587E5E4BC4590F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Accessori venduti separatamente",
+      "trophyDetail": "Competa la collezione di giocattoli in un unico salvataggio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/35F508EB0CE47E8054C770E3F987886886D20CB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Se solo sapessi leggere...",
+      "trophyDetail": "Colleziona tutte le pagine fisiche del Codex in un unico salvataggio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/8F48FCC9E96867991959B0C86AB1A4B9001A6CA2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quadro bonus",
+      "trophyDetail": "Completa un Cancello Slayer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/CD0DE1612E61BAB105772EDE4E71D9FCA713DC60.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Distruttore di cancelli",
+      "trophyDetail": "Completa tutti i Cancelli Slayer in un unico salvataggio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/B5A5734A5BAC9BFD2205947952DBB88A878F33DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Appassionato di armi",
+      "trophyDetail": "Sblocca la Maestria di tutti i moduli arma in un unico salvataggio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/4B67D9ED93DAF3A2C187EF13BD438AE85B7A1B49.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Incontra il tuo Unmaykr",
+      "trophyDetail": "Acquisisci l'Unmaykr",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/7D0808EE3268DA523C86EC812EE2B79470D86265.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Accidenti, mi muoiono tutti SUBITO",
+      "trophyDetail": "Esegui 33 diverse uccisioni epiche in un unico salvataggio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/22D409F60D0B8DCE92B17C471428F23CD9180E72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Di tutto un po'",
+      "trophyDetail": "Gioca con 5 diversi demoni in BATTLEMODE",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/EDDDDE04ED697C00DD1842385E9DE698DA7589C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Combattimento infernale",
+      "trophyDetail": "Infliggi 5.000 danni come demone in BATTLEMODE",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/11D6B3C7083BFD69C31574281F151A217D72F194.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bagno di sangue",
+      "trophyDetail": "Uccidi 200 avversari in BATTLEMODE",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/9F2746D0D705CCBA17CAC73C42D90002078E6F6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "L'uomo contro i mostri",
+      "trophyDetail": "Gioca 25 partite in BATTLEMODE",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/C3E74784D4817078DE6B999EB3EA31CFBB415B3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Esperto di armi",
+      "trophyDetail": "In BATTLEMODE, uccidi un demone controllato da un giocatore con tutte e 8 le armi dello Slayer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/276949C7E7154311A39C3E091616B672E31CED0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tregua tra demoni",
+      "trophyDetail": "In BATTLEMODE, cura te stesso o il tuo compagno di squadra di 50.000 punti salute",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/86558EACE198E3A0B841FC6AE95B53ADB2C1A0D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Un numerino magico",
+      "trophyDetail": "Uccidi 666 demoni (esclusi demoni controllati dai giocatori e lupi)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/CE204B057F59F9DC49A5F301A3043A1B28FFA1D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dolore torrenziale",
+      "trophyDetail": "Completa la Struttura Atlantica UAC (The Ancient Gods 1)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/185A24051366E3EFCC281A17BA9652D51A2C698E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "La sfera della morte",
+      "trophyDetail": "Distruggi la sfera vitale nelle Paludi del Sangue (The Ancient Gods 1)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/0B2A5F9C2B54FE17D195D0ABEF4F62663CAAA139.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Cambio di regime",
+      "trophyDetail": "Sconfiggi Samur nella Selva (The Ancient Gods 1)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/394C61ECCF4A19DBFE21C8D63346C9D891C64189.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Vitalità",
+      "trophyDetail": "Completa la modalità Vite extra con 5 vite extra nel tuo Inventario (The Ancient Gods 1)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/B1F781318FB14EC5BC0B01AE78099CC7E6A8440B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Braccialetto portafortuna",
+      "trophyDetail": "Acquisisci tutte le rune di supporto in un unico slot di salvataggio (The Ancient Gods 1)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/65269481595AF21D36CE8FA41D2E4AF2521B52B9.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ipersonico",
+      "trophyDetail": "Completa tutti gli Eventi segreti in un unico slot di salvataggio (The Ancient Gods 1)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/CE5D0FDD690EE06AE86C83FD9154BA96E8FF5076.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lettura obbligata",
+      "trophyDetail": "Colleziona tutte le pagine fisiche del Codex in un unico slot di salvataggio (The Ancient Gods 1)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/8D12ECDE92813A0D662E21DD08686B3209766796.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Speleologo di cristalli",
+      "trophyDetail": "Completa la Lancia del Mondo (The Ancient Gods 2)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/8BBC1DBC3AF7536A939DEF87535B795FEE8103DE.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Oltre la soglia",
+      "trophyDetail": "Completa Terra reclamata (The Ancient Gods 2)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/58AEF7BD0BF642844CD1CA8557BE55F959557718.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Assedia e lacera",
+      "trophyDetail": "Completa Immora (The Ancient Gods 2)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/ECB37A17FADF71948AFB635FBDEB4CB639ADE624.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Più duro della roccia",
+      "trophyDetail": "Ottieni tutti i potenziamenti del Martello delle Sentinelle (The Ancient Gods 2)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/5E9ACCFF7687DA594A729F39F26C308126CDAA2F.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Riposa i tuoi pugni stanchi",
+      "trophyDetail": "Uccidi il Signore Oscuro (The Ancient Gods 2)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/C4EED1674ADFFEB44F6E94FE7939FC35FBE9C01A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Vivi, muori, ricarica",
+      "trophyDetail": "Completa la modalità Vite extra con 5 vite extra nel tuo Inventario (The Ancient Gods 2)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/EA63F55EC46BBE156B716343A73AD4D28ACA4C5D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Critico letterario",
+      "trophyDetail": "Colleziona tutte le pagine fisiche del Codex in un unico slot di salvataggio (The Ancient Gods 2)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/FF7162B8FC7FD4EEEF57AE5B0DA10AA900BFF00E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Giochiamo",
+      "trophyDetail": "Completa la prima missione in Horde Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/8166BAA57F09EFF2648FCF7C0172464A185A5346.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reinventare la ruota delle armi",
+      "trophyDetail": "Raccogli di nuovo tutte le armi della ruota delle armi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/CAF97FF0E4D316F2B917A5DA97C7CB27CA5418D5.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Game Over",
+      "trophyDetail": "Completa Horde Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16317_00_006E95ACA41660C1565B6BA8646F50A08375201109/441A3B05BBDB9965A78A80AE4B9F0B58EA3A1508.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 51
+}

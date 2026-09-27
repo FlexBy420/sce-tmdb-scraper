@@ -1,0 +1,811 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR21008_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Horizon Forbidden West",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/2b1ab462-7ee0-4415-81d8-bf2632f03850.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 67,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Horizon Forbidden West",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/2b1ab462-7ee0-4415-81d8-bf2632f03850.png",
+      "definedTrophies": {
+        "bronze": 50,
+        "silver": 7,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "New Game+",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/2b1ab462-7ee0-4415-81d8-bf2632f03850.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Horizon Forbidden West: Burning Shores",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/2b1ab462-7ee0-4415-81d8-bf2632f03850.png",
+      "definedTrophies": {
+        "bronze": 14,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "All Trophies Obtained",
+      "trophyDetail": "Obtained all Horizon Forbidden West trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/3f016d47-d5e4-4c8c-b776-8884785e9930.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reached Level 20",
+      "trophyDetail": "Reached player level 20.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/bb40c996-5689-4460-a7b7-34b761162762.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reached Level 30",
+      "trophyDetail": "Reached player level 30.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/bda89c00-b11f-41db-b448-29a80d39433e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Reached Level 50",
+      "trophyDetail": "Reached player level 50.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/26b06b06-871b-4109-88e8-d4df8c729b48.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Reached the Daunt",
+      "trophyDetail": "Arrived at the Daunt seeking passage into the Forbidden West.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/51f398f8-4842-4cc4-8b91-9fd270a33472.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Secured Passage to the Embassy",
+      "trophyDetail": "Cleared the way to the Embassy and reopened the Daunt.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/bce09002-7ab8-4682-a9f9-555e54fdbc4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Attended the Embassy",
+      "trophyDetail": "Survived the ambush at the Embassy and gained passage into the Forbidden West.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/75ff7e0d-6970-401e-8694-eabec4fba7b9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Established the Base",
+      "trophyDetail": "Secured a base of operations and rebooted GAIA.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/544245d0-b7e6-4368-8767-8a7562940e7b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Recovered AETHER",
+      "trophyDetail": "Defended the Kulrut and recovered AETHER.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/535af93e-eeac-45e6-a36b-848d0724e827.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Recovered POSEIDON",
+      "trophyDetail": "Drained Las Vegas and recovered POSEIDON.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/d0563d75-807e-436d-b7a8-3485bd3d3bcd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Recovered DEMETER",
+      "trophyDetail": "Encountered the Quen and recovered DEMETER.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/25150ab0-ad22-4692-a060-8371c91343f6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Recovered Beta",
+      "trophyDetail": "Followed Beta's distress signal and brought her back to base.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/4f03c510-915d-4c04-a5af-26e41877a20c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Discovered Faro's Fate",
+      "trophyDetail": "Survived Thebes and befriended the Quen.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/6fbf460c-11eb-4a70-9034-deac5c0a67f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Flew on the Wings of the Ten",
+      "trophyDetail": "Flew into battle and vanquished Regalla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/aff6e60c-71b7-4132-992e-75b8c06311b2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Discovered Nemesis",
+      "trophyDetail": "Put an end to the Zenith threat and discovered Nemesis.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/44931f06-da05-46e3-a4e7-cc31c9eca5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chose a Desert Commander",
+      "trophyDetail": "Aided both Drakka and Yarra and chose the better candidate.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/8d766f4b-342a-4906-adba-0362302c36ec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Saved the Daunt",
+      "trophyDetail": "Resolved all of the problems troubling the Daunt.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/6c664f44-c4af-4619-9400-925ed0372cf4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Aided Kotallo",
+      "trophyDetail": "Helped Kotallo build and test a mechanized arm.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/baf4d32d-866b-41b8-bda9-516b280d45ea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Healed the Land-gods",
+      "trophyDetail": "Helped Zo reboot the land-gods to save Plainsong.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/0a3ad7e4-47a4-42e0-b86b-724b5f58049b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Recovered Alva's Data",
+      "trophyDetail": "Helped Alva retrieve data to help the Quen.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/a5127056-c83e-4f51-b2f0-6e8835a1efc7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "First Tallneck Overridden",
+      "trophyDetail": "Reached the top of a Tallneck and accessed its information.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/beb21bd0-b053-40ea-9ff1-1a79c7cd091e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "All Tallnecks Overridden",
+      "trophyDetail": "Reached the top of every Tallneck and accessed their information.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/0b2eca0f-968d-4af6-a996-e90a0b0af78a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "First Rebel Camp Completed",
+      "trophyDetail": "Completed key objectives in 1 Rebel Camp.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/8a6d617c-32bb-41ca-981d-c531a708daa7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Defeated Asera",
+      "trophyDetail": "Investigated all Rebel Camps and helped Erend defeat Asera.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/4dc2fcbc-856b-48d4-a02a-b6b658f9db9c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "First Core Overridden",
+      "trophyDetail": "Reached the Core of a Cauldron and accessed its information.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/c3d5d77e-3113-47b3-b390-558beed7602f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "All Cores Overridden",
+      "trophyDetail": "Reached the Core of every Cauldron and accessed their information.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/5865c366-9878-43a7-810f-b86765c58843.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Obtained 3 Stripes at a Hunting Ground",
+      "trophyDetail": "Earned at least a Quarter Stripe mark in all three trials at one Hunting Ground.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/908fc0d4-c24b-4013-990f-6529d239caea.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Obtained 3 Stripes at All Hunting Grounds",
+      "trophyDetail": "Earned at least a Quarter Stripe mark in all three trials at all Hunting Grounds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/eee7e31e-fdc3-4350-b81f-7a059d1f5c8d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "12"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Acquisition Machines Killed",
+      "trophyDetail": "Killed at least one of every type of Acquisition machine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/edfaa4b6-9395-4a27-99d8-a18057d45a4b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "18"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Recon Machines Killed",
+      "trophyDetail": "Killed at least one of every type of Reconnaissance machine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/7f714149-a0a2-4391-acaa-8e9ca43bf1ee.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Combat Machines Killed",
+      "trophyDetail": "Killed at least one of every type of Combat machine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/e7fbdd09-a699-440c-a805-d8fc3fdf83a5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "13"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Transport Machines Killed",
+      "trophyDetail": "Killed at least one of every type of Transport machine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/48a92cf9-c894-4890-bef0-9213fe850c5f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rode All Regular Mounts",
+      "trophyDetail": "Rode a Charger, Bristleback, and Clawstrider.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/100a3ab1-d03d-49e9-b22d-0ad147d4d8c9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "All Machine Types Scanned",
+      "trophyDetail": "Encountered and Focus scanned every type of machine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/3c45aab7-1579-4929-9969-e6ba677b574d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "43"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Completed a Long Glide",
+      "trophyDetail": "Glided uninterrupted for 60 seconds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/e5b70917-5bf6-4ad4-af9e-50492175939b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Completed 2 Flying Mount Quests",
+      "trophyDetail": "Completed 2 quests that required a flying mount.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/7107676b-7d7e-449a-8f3a-320b80248c52.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Won 2 Gauntlet Runs",
+      "trophyDetail": "Won first place in two different Gauntlet Runs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/acd5cb8c-25f2-4362-ae85-3b335c71f313.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Completed a Set of Salvage Contracts",
+      "trophyDetail": "Completed all contracts at a Salvage Contractor.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/05b59af4-acf1-489d-bb3b-68ac3559bf31.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Completed 4 Rebel Outposts",
+      "trophyDetail": "Defeated the outpost leader and recovered the tags from 4 Rebel Outposts.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/9815d164-8796-4ee8-a5f8-534ab1b31314.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Completed 3 Relic Ruins",
+      "trophyDetail": "Discovered and completed 3 Relic Ruins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/0c2205dd-8c06-4491-b4b3-07a234637179.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Completed Arena Challenge Set",
+      "trophyDetail": "Completed 1 Arena challenge set.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/5d558529-9557-4434-8656-6dad81c301a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Defeated Machine Strike Challengers",
+      "trophyDetail": "Won a match against 2 different Machine Strike challengers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/3c40bf25-54af-4cad-ad45-239e22133a2f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Obtained All Weapon Classes",
+      "trophyDetail": "Obtained 1 weapon from every weapon class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/f8cf8d8c-6ae3-4b2e-83e5-f71a2ffd253a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "9"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Used all Elemental States",
+      "trophyDetail": "Inflicted every elemental state on an enemy at least once.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/23acc39c-38dd-470e-b5ff-002abe8eb4fd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Performed 3 Melee Combos",
+      "trophyDetail": "Successfully performed 3 different unlockable melee combos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/a20c7d53-c149-4483-9441-881ed3dc2757.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stealth Killed 10 Machines",
+      "trophyDetail": "Performed a stealth kill on 10 machines.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/c9cca045-29a4-4ee4-ac99-517e237293f3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tore off 100 Components",
+      "trophyDetail": "Detached 100 components from machines.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/9e213a57-d388-49f5-a54b-6fd09ad0689c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Picked up 5 Heavy Weapons",
+      "trophyDetail": "Picked up 5 different heavy weapons.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/a217771a-d65e-4254-832d-588fdf2c2a57.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Types of Machine Overridden",
+      "trophyDetail": "Unlocked and used the overrides for 10 different types of machine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/939f8c9a-6ede-4bb9-b38a-eb13e1d8a3af.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Defeated the Enduring",
+      "trophyDetail": "Defeated the Tenakth melee master known as the Enduring.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/8aecf39b-a6f3-4fea-a73d-445fff43f00e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fully Upgraded a Valor Surge",
+      "trophyDetail": "Upgraded a Valor Surge to its maximum level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/4ae8b745-71ab-4565-a1ed-66e11e8e4e54.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Upgraded 3 Weapons",
+      "trophyDetail": "Fully upgraded 3 weapons.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/cd2f77a1-7b06-4abb-baf0-734877fe8e56.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Upgraded 3 Outfits",
+      "trophyDetail": "Fully upgraded 3 different outfits.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/a7fd4b22-2d36-4ac5-bf02-bddab41dd286.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Upgraded Every Pouch Type",
+      "trophyDetail": "Upgraded the Food Pouch, Potion Pouch, Resource Pouch, Trap Pouch, and any ammo pouch at least once.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/bf65bd92-6850-462b-8aaf-7c6378f4a507.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enhanced Weapon with Coils",
+      "trophyDetail": "Equipped a weapon of any tier with 2 coils.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/134b9ba3-5ff5-4de6-ab30-b0dfa2dc1dc1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Unlocked 3 Weapon Techniques",
+      "trophyDetail": "Unlocked a Weapon Technique for 3 different weapon classes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/cfa42621-bfbd-4f39-bd4b-a43df335caa8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Skill Tree Learned",
+      "trophyDetail": "Learned all available skills on one tree.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/312796f0-5135-4824-81d3-bbb3b2096fc8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Recovered 5 Different Collectables",
+      "trophyDetail": "Completed 1 Survey Drone, 1 Black Box, 1 Relic Ruin, 1 Vista Point, and 1 Signal Tower.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/e5971f41-87cc-4606-b16b-039e47cb6846.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Used Dye Flowers",
+      "trophyDetail": "Used dye flowers to unlock and apply a new dye.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/4819c247-12c2-49ff-a224-c6485a2a17e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed New Game+",
+      "trophyDetail": "Completed a New Game+ playthrough on any difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/6fed8071-4488-44dc-97e5-275edb57a866.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completed Ultra Hard",
+      "trophyDetail": "Completed a new or New Game+ playthrough on Ultra Hard difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/49f64dcc-241b-4c76-a45b-727b4889358d.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Obtained All New Game+ Rewards",
+      "trophyDetail": "Obtained all New Game+ weapons, dyes, and face paints.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/784a97b9-30d7-4d66-80e5-516152b1711f.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "17"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "All Quests Completed",
+      "trophyDetail": "Completed all main and side quests in the Burning Shores.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/85b73cb5-6bcc-4acc-9ba4-00b779e5cfe0.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Discovered the Ascension",
+      "trophyDetail": "Located the missing Quen and discovered Londra's plan to leave Earth.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/bf940bbd-9ffc-43cd-ac5b-b410c465840d.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Confronted Londra",
+      "trophyDetail": "Uncovered the truth of Londra's plans for the Quen and rescued Seyka's sister.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/eb7c9f85-aea3-475f-9f73-b0ae49cfc08b.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Aided the Quen",
+      "trophyDetail": "Helped the Quen of Fleet's End recover priceless knowledge and rescue those held captive.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/30a1d6a0-437c-4228-bf0f-d64b20b84826.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Defeated Londra and His Horus",
+      "trophyDetail": "Defeated the awakened Horus and put a stop to Londra's plans.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/bb1bb3b3-ca67-44b3-95c0-6af9adf264b5.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "All New Skills Learned",
+      "trophyDetail": "Learned all new skills in the Burning Shores.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/9affa4e9-99de-469c-9a52-5cc1252bfeaf.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reached Level 60",
+      "trophyDetail": "Reached player level 60.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/9b158d9c-e7d5-4499-a1d1-6e01ff0ae1db.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "60"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Used Brimshine",
+      "trophyDetail": "Used Brimshine to purchase 1 outfit and 1 weapon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/d7496e0c-4f81-4c9b-b7cb-0ea787acd361.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Equipped an Elite Coil or Weave",
+      "trophyDetail": "Equipped an elite coil on a weapon or an elite weave on an outfit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/67e1379d-3282-4e53-b242-66fd23896ecc.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Specter Gauntlet Upgraded",
+      "trophyDetail": "Fully upgraded the Specter Gauntlet.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/b54e615d-260e-440e-8e98-c83e37d2a820.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cauldron THETA Core Overridden",
+      "trophyDetail": "Reached the Core of Cauldron THETA and accessed its information.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/6c0f3e13-60b1-4606-8b85-ce623c9619a4.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All New Machines Scanned",
+      "trophyDetail": "Encountered and Focus scanned every new machine in the Burning Shores.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/8a5743f1-45c4-477a-9df4-7a30cab6eb3a.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Completed the Dino Digits Quiz",
+      "trophyDetail": "Recovered all Pangea Figurines and completed the Dino Digits quiz.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/921c148a-3a6c-4c8d-9b24-2b0612c829e6.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Recovered the Delvers' Trove",
+      "trophyDetail": "Recovered all Delver Trinkets and unearthed their trove.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/2d507dc2-fe7b-4100-9728-81bfe35ee22b.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Recovered All Aerial Captures",
+      "trophyDetail": "Discovered and completed all Aerial Captures.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/37c406df-08fb-47bd-819d-e36e792e8d74.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Used Grapple Strike on Machines",
+      "trophyDetail": "Used Grapple Strike on 5 unique machines.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/1d3151c5-1d88-433e-a74f-cdb9c2d733f0.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Killed Machines While Gliding",
+      "trophyDetail": "Killed 5 machines with the Specter Gauntlet while gliding.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/a56c5bfe-bac9-4852-b875-f71700fff9f1.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Killed Bileguts and Stingspawn",
+      "trophyDetail": "Killed 5 Bileguts and 50 Stingspawn.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/181b5d0b-d752-4f0e-be9c-4b8ea990726a.png",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 80
+}

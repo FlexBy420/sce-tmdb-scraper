@@ -1,0 +1,822 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR19257_00",
+  "trophySetVersion": "01.04",
+  "trophyTitleName": "Roundguard",
+  "trophyTitleDetail": "Roundguard",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/76141DD69AC31DA9EBC22C12FDBBBAEDA064B24E.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 59,
+    "silver": 20,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Roundguard",
+      "trophyGroupDetail": "Roundguard",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/76141DD69AC31DA9EBC22C12FDBBBAEDA064B24E.PNG",
+      "definedTrophies": {
+        "bronze": 24,
+        "silver": 20,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Treasure Hunter Update",
+      "trophyGroupDetail": "Treasure Hunter Update",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/D200F8BDDE2DA5A13E576CBFECAB158599D84874.PNG",
+      "definedTrophies": {
+        "bronze": 10,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Gift Giver Update",
+      "trophyGroupDetail": "Gift Giver Update",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/B90E15B897D25BAD618DCA8DCEBDEEF1A2F3B24C.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "The Druid Update",
+      "trophyGroupDetail": "The Druid Update",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/69A9EDBBC20620A61515C00B80BDF534AB97F5BA.PNG",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "The Encore Update",
+      "trophyGroupDetail": "The Encore Update",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/3E3B9A8DADD2473D785118FE59BB61D90B29ED69.PNG",
+      "definedTrophies": {
+        "bronze": 10,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "The Encore Update 2",
+      "trophyGroupDetail": "The Encore Update 2",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/AC5AE78622C768C87E278F5892C71F12FB72798D.PNG",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Roundgod",
+      "trophyDetail": "Unlock all the other Trophies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/3594BB41E7CC86FA7E1A7A5C26DDFE8B669309FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You're Hired!",
+      "trophyDetail": "Complete your audition.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/91FAD2B88B1C55AB2250A2776E0FEB641EB39C96.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flagon Rushes In",
+      "trophyDetail": "Enter the Keep with the Warrior. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/415CF73E6E94EE9B1EF6226B16E4561DC9CBA4AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shade Sneaks In",
+      "trophyDetail": "Enter the Keep with the Rogue.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/3933FEA69B180F32528DF124749F3FD3F7797457.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fizz Pops In",
+      "trophyDetail": "Enter the Keep with the Wizard.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/0D20FCADACA6B9971FC0AF09D9A93B424360D53C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Multitasker",
+      "trophyDetail": "Complete a quest.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/41C72E5AEFC05AD1493355F4BA1B77B02EBA8088.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lift Off",
+      "trophyDetail": "Spend more than 2 seconds above the screen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/C4B6E21526FF7077596B0F059EAA1A565281A911.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seeing Red",
+      "trophyDetail": "Get a red trinket from the Wheel of Wonders.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/39066C5050A2E0EE61B34468A2FF9EB013D2E41C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Blue or Bust",
+      "trophyDetail": "Get a blue trinket from the Wheel of Wonders.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/CAD02D03AC2F41B292A377ABD442086EAAC30302.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Going for Gold",
+      "trophyDetail": "Get a gold trinket from the Wheel of Wonders.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/4A527CE4D1D28A50BEC24FA1F90A692DFC7F9B3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All That Glitters",
+      "trophyDetail": "Visit a treasure room.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/4B277E60A4E475E81B3BA480E7FA4239359C8649.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Neat and Tidy",
+      "trophyDetail": "Defeat the Organiser.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/82055F2B4C90063A0D3ADBAB2D41ABCFD73B2C46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Disobedient",
+      "trophyDetail": "Defeat the Disciplinarian.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/1AE63DAA1A2F5013FA8913334F6BB39E8CBFBB49.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Trending on Deddit",
+      "trophyDetail": "Defeat the Screen Fiend.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/15001DE39E66DA5C0EE6ED93567D5ACB561905A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Perfect Omelette",
+      "trophyDetail": "Defeat the Underchef.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/07E6084812E62743FE86756ACBBD5511B3B89733.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sticky Situation",
+      "trophyDetail": "Defeat the Gel Tamer.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/30A5F8756FD2B7B44938C4852D96693D08C60D46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Grand Coda",
+      "trophyDetail": "Defeat the Prima Ballerina.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/29ADA3018546518BEBF8DC5B4E82CA7A8587B575.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hold Me Closer",
+      "trophyDetail": "Help the Lonely Bard.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/B1993A05D7E999C31D51BA5EBCDF35517799440E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ending the Reign of Cheddar",
+      "trophyDetail": "Defeat the Cheddar King.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/197D573C89785718A21DA8BD5E315EA79FE20C30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Do Not Go Gentle",
+      "trophyDetail": "Defeat the Goblin Poet.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/F10948A1ECD61D58125E4C14234C3E180976B0F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legendary",
+      "trophyDetail": "Equip a legendary item.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/CEEDBCC29BAD1B08037F9D1FA471523063AC0B77.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eyes For You",
+      "trophyDetail": "Intercept an Orc Shaman's healing magic.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/ADE623DADD465A0C118941D4B6B377657C948ECD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Experiment Ruined",
+      "trophyDetail": "Defeat the Alchemist.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/E515F99A6FB083074E7C8692DBAA289AC49A325B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pin Cushion",
+      "trophyDetail": "Get 5 projectiles stuck in you at once.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/9A3120E6ED3CACB1745C218F46ED113781745B75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Show Off",
+      "trophyDetail": "Use skills 20 times in a room.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/FB9551C40A8B8524FE2D08103B6499379470134D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "High Roller",
+      "trophyDetail": "Get a score of 1 million gold.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/60F36501F3A193E7F330A09835C5A9714AD02B24.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chemistry 101",
+      "trophyDetail": "Identify all the unstable potions in a run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/B8FCA4E6FA29EC7AE5C8A64B98A44AEC8BB43F03.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Re-Un-Dead",
+      "trophyDetail": "Let a lich resurrect 5 skeletons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/740A0D130296FC9705242B893AB6664964F59804.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fool Me Once",
+      "trophyDetail": "Kill a Dark Elf Illusionist without hitting her mirages.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/2D3454344AE44E850027506A6E5443D410AA1A20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Feeling Sick?",
+      "trophyDetail": "Get 50 stacks of poison on an enemy at once. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/B0267AC3B322C9F9DC8B90F19C5EB0B2255A6679.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Behold! The Cycloptopus!",
+      "trophyDetail": "Defeat the Cycloptopus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/5526CC43259D3EC8FC55E094665D5317D71C8567.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Can't We All Just Get Along?",
+      "trophyDetail": "Defeat a Chaos room.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/41F7103ADDE984E24483942F67BF5B6E98E0C463.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Rock – NOT!",
+      "trophyDetail": "Get petrified.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/AE1605915B2CC86064ECA371C0FD706DCCB0B3D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Dad-Liest Jokes Ever, Vol. 3",
+      "trophyDetail": "Insta-kill 30 enemies with Killer Joke.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/B2F5F780C2710F861C4140A9987E03AF7DE51C99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "More Fun Than Bubble Wrap",
+      "trophyDetail": "Pop 3 bubbles before you hit the bottom.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/C54105EDE8960979A1BEE08E1D7C5E7B137CD27E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Flawless",
+      "trophyDetail": "Clear a room without taking damage.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/3760F2943E82144EABB546AB0B619F8E63080B92.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stop Hitting Yourself",
+      "trophyDetail": "Get 10 enemies to defeat each other.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/E09D36124B25CA020D2B73C645F3DE3FC4C2467A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Squeaky Clean",
+      "trophyDetail": "Use the clear Gelly Cube to cleanse a debuff.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/2F900842C639B26AC76DA7AC0A56A3A68F48808C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kill. Skulls.",
+      "trophyDetail": "Use rune stones to crack skulls.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/7EE2E4EA948AC5DA4F8359A497646E209D1D6C5F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Portal Power",
+      "trophyDetail": "Let the Summoners complete their ritual.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/011A31EDB347C87B6CE187CE80E886F1C7B5603A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Know-It-All",
+      "trophyDetail": "Use each skill for each class at least once. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/303CDE8DBF3562CC71FF21F9E9E9C9AA6DB2DE30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Flagon Saves The Day",
+      "trophyDetail": "Defeat the Giant Worm as the Warrior.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/EE45F437F2669F1EC9617111454CA7128DA6E24E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Shade Saves The Day",
+      "trophyDetail": "Defeat the Giant Worm as the Rogue.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/0B46886CBB068AFABF312F14DB53639E46A81EAA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fizz Saves The Day",
+      "trophyDetail": "Defeat the Giant Worm as the Wizard.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/12C4B6CFAA7C658B8D28A61CEF90ECB3F8173AEB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Collector",
+      "trophyDetail": "Collect all relics in the original set.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/C844A65B852764A31EACF19FF385A2444E21657A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grand Master",
+      "trophyDetail": "Master all relics in the original set.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/05D3F02FCB9F4E31A967FB2993874488B700DEE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Puzzle Dabbler",
+      "trophyDetail": "Collect enough puzzle pieces to unlock a reward.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/F0BD3E89AD1C82FD3BB8F38214CFA264408FC623.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Great Improviser",
+      "trophyDetail": "Survive to the end of a Weekly Run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/7B845780127F27B3FC00C74EAEA9BFEB09495F0F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Payback",
+      "trophyDetail": "Defeat a Treasure Chest Mimic on the first turn in a room.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/D023983106850EFEA3DB0AC6735E7A6D68FA3EF6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tinkerer",
+      "trophyDetail": "Win a run with at least ten relics equipped.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/64DBBDA5A7C647EC1451D867FDBBF0F51188EDB6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Made Of Magic",
+      "trophyDetail": "Get your Max Mana to 200 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/8DAF325B763E93B4A6379DDB473DCC7D0B65CC9B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Powerhouse",
+      "trophyDetail": "Get your Attack to 1500 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/5C5C49CC8F3181CADDE1D00E425F70370D1A7961.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Total Tank",
+      "trophyDetail": "Get your Max Health to 800 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/4A2B28D5F95C87715019F59D842C4F329150808D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hero's Dozen",
+      "trophyDetail": "Level up your Hero to level 13.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/16349FE9C9CD0500FC8098AAA364488C2E04761B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Hunter",
+      "trophyDetail": "Collect all of the Treasure Hunter relics.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/FC61EA74B37E4AB1B89077228860247A722BC9D3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Master",
+      "trophyDetail": "Master all of the Treasure Hunter relics.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/CA49F51EBEC3C7ED9950F8A28A649B61B38D0E44.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Refractor",
+      "trophyDetail": "Defeat the Projectionist.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/A3E9DEF117F5D5CBAB49B0CB420A4F2243335196.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ice Cold",
+      "trophyDetail": "Defeat the Big Freeze.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/48032E1274E0300A93813720F9C9F3D1EDBD767F.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gracious",
+      "trophyDetail": "Reward the Gift Giver's generosity.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/EA530514BC084F00453FFC54A281A560D79CF262.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sprig Springs In",
+      "trophyDetail": "Enter the Keep with the Druid. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/6CBD94D8110CE7E12259FAE032B41C30D718C27B.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sprig Saves The Day",
+      "trophyDetail": "Defeat the Giant Worm as the Druid.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/ABF7FF4B38E4921454600950B7771AEF7CDA06B2.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The King's Hoard",
+      "trophyDetail": "Get a score of 3 million gold.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/6BFFA8C7E0483CD33FA55139D0EF98F6FCF06DF8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What's Your Hurry?",
+      "trophyDetail": "Win a run in 90 shots or less.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/AD4F68F6601938A19801D573C4BBC59CEBE25A07.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thick Skinned",
+      "trophyDetail": "Get 999 barkskin on at one time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/E3499FDD496EC6448763CBEBC710927FE46F838D.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prickle Party",
+      "trophyDetail": "Get 1000 total thorn stacks in a room.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/27C27CB1E7772E163190C4C4428569C955839FB8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take A Bow",
+      "trophyDetail": "Earn 1 Encore rose.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/045A282C5E221F209C0C1BA4DA55E1E0418D97A5.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bravo",
+      "trophyDetail": "Earn 5 Encore roses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/D837598F09D3A8EF87B25C41E0F2C07FF0A825D7.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marvelous",
+      "trophyDetail": "Earn 10 Encore roses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/1C95C7A8D9CEC6A82C9DA3F684EE56744BEE5209.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Standing Ovation",
+      "trophyDetail": "Earn 15 Encore roses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/37887A1173F82434E43E6CBB7D503B1258E284A0.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Thrilling Performance",
+      "trophyDetail": "Beat Encore 5 with any hero.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/65441E83C8044D688657D4F79654236A1C0DB9C0.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Encore Collector",
+      "trophyDetail": "Collect all of the Encore relics.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/3707AFD4C6415DAF62C08EDE59C76C5B4DDB6CB7.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Encore Master",
+      "trophyDetail": "Master all of the Encore relics.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/67239BFD6F73CC9B3BF44B3D5CF333CA921367DB.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Juicy Target",
+      "trophyDetail": "Get 35,000 gold from one potion imp.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/747A8E04F36FDB6F8411399D2BC7B71DE22BBFCC.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Is This Even Legal?",
+      "trophyDetail": "Get a x20 scarab multiplier.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/C2DBE19046953B19E1AFAB75CC31C3BFAAC2ABF0.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Of The Gold",
+      "trophyDetail": "Get a score of 5 million gold.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/77C4BEDF8449E3B7A440A7C961AC6A8589639DFB.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Innoculated",
+      "trophyDetail": "Defeat the Mad Virologist.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/46846572A089DBC9A4A59DF0DB7BF8C1CF038CB6.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's Alive!",
+      "trophyDetail": "Defeat the Mad Doctor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/A677A0B9EEECEEB5C97494338342CADAD7BCBC62.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eyes Closed",
+      "trophyDetail": "Defeat Greg and Carl.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/82154D4BE154A345EE91FE95CAD1F6FE16A6CA8D.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Why I Oughta!",
+      "trophyDetail": "Defeat Bleary, Blinky, and Goo. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/6ECBCB052917D0A7C185C7A386B61EA95AA73407.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cut The Power",
+      "trophyDetail": "Defeat the Robotic Heart.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/009903513D94451A45EE763130DCB9C3668C127A.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cured",
+      "trophyDetail": "Defeat the Fungal Heart.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19257_00_00973C90A45C8152A568F26A49D987D70A615AC3AB/214BD598F1AC5AD871583D4D23BD3C680DA38B1F.PNG",
+      "trophyGroupId": "005"
+    }
+  ],
+  "totalItemCount": 81
+}

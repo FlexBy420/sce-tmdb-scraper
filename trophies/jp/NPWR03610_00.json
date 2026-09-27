@@ -1,0 +1,627 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR03610_00",
+  "trophySetVersion": "01.04",
+  "trophyTitleName": "Port Royale 3",
+  "trophyTitleDetail": "Port Royale 3",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/2196DE4FAE736CEB776B493F187B0B363942C923.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 32,
+    "silver": 26,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Port Royale 3",
+      "trophyGroupDetail": "Port Royale 3",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/2196DE4FAE736CEB776B493F187B0B363942C923.PNG",
+      "definedTrophies": {
+        "bronze": 32,
+        "silver": 13,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Harbour Master",
+      "trophyGroupDetail": "Port Royale 3 - Harbour Master - ダウンロード コンテンツ",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/F901324B1399D4FB1A77297DAFD4BC0346FE429A.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Dawn of Pirates",
+      "trophyGroupDetail": "Port Royale 3 - Dawn of Pirates - ダウンロード コンテンツ",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/AAE1E32ECC6B5E527B0621B4DD49EA7B5EC085F0.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 5,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "New Adventures",
+      "trophyGroupDetail": "Port Royale 3 - New Adventures - ダウンロード コンテンツ",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/309E587AA057F771F08665FC879E9FDFA6436581.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 5,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "ポセイドン",
+      "trophyDetail": "トロフィーを全て獲得する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/1993AA210847FBC93C24B62F64931A2FAFF99697.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "新しい船",
+      "trophyDetail": "初めて船を購入する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/26F5C06009DC3B6A222544D920851F6B35A2302F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "一抹の寂しさ",
+      "trophyDetail": "初めて船を売却する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/8963B416D5B20EC5502B9304219FACB85A7CE25E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "一丁上がり！",
+      "trophyDetail": "応急修理を実行する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/32AD4B846F9B301B1529818885C18DDB04DD7FB1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "偽善",
+      "trophyDetail": "10回祈る。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/B8D3715B83543CF4B3E443862AA4E6F2424182F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ご依頼通り",
+      "trophyDetail": "任務を10個達成する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/CFDB8BD2F35E1FE671D8AEF5A6CA5934FC236751.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "大酒飲み",
+      "trophyDetail": "酒場を60軒全て訪問する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/A82F29DFE397947D5CCFB457731B5066A7FC3C64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "トレジャーハンター",
+      "trophyDetail": "宝の地図をもとに宝を発見する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/1098C82BAD9131CA39C3DCCDE8575DDDB894A14D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "見張り台",
+      "trophyDetail": "1回のゲームで海賊のアジトを10個発見する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/77B880F136E1E4F6FA3673057F5D76C64C3610D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "宝箱",
+      "trophyDetail": "1回のゲームで金貨を400万枚貯める。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/02D2AFE9F1B916A5D2A137722F41717509FF6B0E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "いつでも歓迎",
+      "trophyDetail": "1つの国で最高の評判を獲得する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/3DBA925A5E5CA5D2903F4E68A12FD612BAC1903F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "真の英雄",
+      "trophyDetail": "1つの町で最高の人気を獲得する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/79EA6A1973ED2FD85F951FBEF27EE37204927A0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "賞賛の嵐！",
+      "trophyDetail": "チュートリアルを見事達成する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/E811743409B6F32EC68EDF687226308E78AED759.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ピースメーカー",
+      "trophyDetail": "平和的手段で町を支配下にする。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/10B7886DD696645369A2364A2595E06DF33AD5E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "征服者",
+      "trophyDetail": "国の町を併合する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/17F3A09284460C039CC71735DD5BB31FBF6D4129.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "婚礼の鐘",
+      "trophyDetail": "結婚する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/EABD83AA5F76C8894CBE6A71D9FE3C5412145644.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ダビデとゴリアテ",
+      "trophyDetail": "ピンネース船で大砲最低60門との戦いに勝利する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/E0841A3016563AD674A77FB9C26D4561529B7E03.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "完全勝利",
+      "trophyDetail": "損害を一切受けず戦闘に勝利する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/236D40D019D9562FC1B3B9486B00D1212547B27E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "収集家の本能",
+      "trophyDetail": "1回のゲームで船を全種類所有する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/3F60C5B1CDE33DE4D4A482535CDE76621B2FD817.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "船底くぐりの刑",
+      "trophyDetail": "船員を100人サメから救助する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/D7233FAC41A655CEAA2BBD8B40726CF06FE46C4C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "陸者",
+      "trophyDetail": "建物を250棟建設する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/D594086E5E7E47E034CA2402C03EB02D645F02CC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "大船に乗った気分で",
+      "trophyDetail": "パトロールで500回戦闘する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/1DCF003450BC1BF97FE69872684CF1ED4F6C6AEC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "海底の墓場",
+      "trophyDetail": "船舶を1,000隻沈没させる。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/FC7E69B23FFAEF711F6170C4596102AFDF9EA15A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "戦利品を求めて",
+      "trophyDetail": "樽を25,000個掠奪する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/791ABFDC0037FA2DDB6EFBC53A6E0FEC335070AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "貯め込む者",
+      "trophyDetail": "1回のゲームで商品の樽250,000個を所有する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/A3E655D9520E0AEBA0B89391C360A9D3384CA9FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "汚れなき経歴",
+      "trophyDetail": "「商人」として最高の名誉を獲得する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/CDB467B6D4BFA756E5283923D09F1E894A20E6AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "羊の皮をかぶる狼",
+      "trophyDetail": "「私掠者」として最高の名誉を獲得する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/8E4A71D86CEDB8D8571089B0919769F13E9865A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "魔王",
+      "trophyDetail": "「海賊」として最高の名誉を獲得する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/A6E434E1CDD6ABA169581948375126FE9738F129.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "カリブ海にようこそ",
+      "trophyDetail": "初めて海に出る。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/1E1FB5F412B15DF5F7D892512F26E006A86C2076.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "船を発見！",
+      "trophyDetail": "初めて海戦を行う。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/CFA9451320F486FE14A9F820F7F0300101E2EF93.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "乗り移れ！",
+      "trophyDetail": "初めて接舷に成功する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/82627F2AD6EA00BE3A533987EDF30C30FB4E4BA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "命名式",
+      "trophyDetail": "船団を命名する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/D773690C3694010C0AE3C4325DA851FBD2F55B95.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "さあ取引だ！",
+      "trophyDetail": "交易路を365日間有効にする。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/EFC536D22DD5C5073E1209B04BC9EB4A9684651C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "掠奪",
+      "trophyDetail": "商船を待ち伏せする。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/99B54EB44A9A3EE22962CFC1CFA9FFFB825C05AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "海賊式処刑",
+      "trophyDetail": "海賊船団を壊滅する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/229A0B2D00F818DC8A363A0D023A86E81352CC21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "法の力",
+      "trophyDetail": "海賊の隠れ家を10ヶ所壊滅する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/7EAC4F1D38E7A1EAD907C776750A8584523776DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "会計係は大忙し",
+      "trophyDetail": "手動で樽を合計100,000個取引する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/61AED40A6802D5A3DA4BD2FB14C0C22DE4BCB3BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "ベテラン船乗り",
+      "trophyDetail": "カリブ海地域で50時間過ごす。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/EE8FE8978C829699E5A4033F948EEE8AA9475D85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "戦の神",
+      "trophyDetail": "1回のゲームで大砲を5,000門所有する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/E6B7CC59EA2186D43FE514DD0BC4556012CB65D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "人形つかい",
+      "trophyDetail": "1回のゲームで使用人を15,000人雇用する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/81A710390AEEE8EDFA6723C2414A3D7D93CC1F85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "アイアイサー、船長！",
+      "trophyDetail": "最高ランクに到達する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/59E2B86E314661BE09859AA88CC67656E1E136A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "武器は消耗品",
+      "trophyDetail": "接舷戦闘で手持ち武器を4,000個使用する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/0F87B519BC37D04BE01EB4344ACEB1665DEBA81F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dフェンス",
+      "trophyDetail": "国による町攻めを5回撃退する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/C5148866F307191C1A29754D9A1183AD9C38232D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "チェックメイト",
+      "trophyDetail": "国にある町の数を2つまで減少させる。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/AEBBBA86F987C56451ACAD84038E9B82E8D26B1D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "期待の大物",
+      "trophyDetail": "船長の能力を全て最高値にする。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/AC040D218B76902B5FEF56FB39DA532355CC2E4B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "来た...",
+      "trophyDetail": "1回のゲームで町5ヶ所の支配権を獲得する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/08873543355158893F3D498013CEE5D226B17A64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "...見た...",
+      "trophyDetail": "1回のゲームで町15ヶ所の支配権を獲得する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/BD206345ACAA04C5F90ABADF280CDD098DCBFCBE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "...勝った！",
+      "trophyDetail": "1回のゲームで町30ヶ所の支配権を獲得する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/0D6E691B741EFD8DFD021717887755E55D228954.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ポセイドン",
+      "trophyDetail": "トロフィーを全て獲得する。 (Harbour Master)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/0EA707DBF772BFFDEAF992035DCF587C6BDB086A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "園芸の才能",
+      "trophyDetail": "1回のゲームで木と植物を100本植える (Harbour Master)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/76FEEFA93563FF35E2CCAD49A9F65BDE2D63E8E2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "歓楽街の実力者",
+      "trophyDetail": "1回のゲームで売春宿を10軒建てる (Harbour Master)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/53C05498E0BAB3220380BA91E0058D578D257C16.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "自家製",
+      "trophyDetail": "造船所で軍艦を10隻建造する (Harbour Master)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/E60A26B60DC3E08D0DB51204D08EF85DD8719869.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "敬意を払え！",
+      "trophyDetail": "海賊として敬意最大に到達 (Dawn of Pirates)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/029A559AE88EC26B8AD635779C9E56C95B3C8D52.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "海の支配者",
+      "trophyDetail": "もっとも悪名高い海賊になる (Dawn of Pirates)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/D34C96529B482CB8A9EF22D40839B0FB209567F5.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "金に夢中",
+      "trophyDetail": "金100,000を掠奪 (Dawn of Pirates)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/6BD0BD3986B1AA12700BEC1A1F9A85D8072F33CC.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "おまえの船はおれの船",
+      "trophyDetail": "船10隻を私掠船に (Dawn of Pirates)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/130A31DB2BF4A6FB30385F4650E8B54C4F9806B7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "不正入手",
+      "trophyDetail": "海賊モードで30,000樽を掠奪 (Dawn of Pirates)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/17AC5F77BCAF9F33FEFE7E48C74E2E7E0EBD9FFB.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ノイローゼの町",
+      "trophyDetail": "「クリスティの台頭」完了 (New Adventures)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/BD63CCE91137FC0EEEF72A6CED0C27EA30D02497.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "お金に夢中",
+      "trophyDetail": "「パブロとの賭け」完了 (New Adventures)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/60D26C6056E6F7503C90B02186C4D64B8455890F.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "海賊の恐怖",
+      "trophyDetail": "「海賊狩り」完了 (New Adventures)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/C31C78B443A89D3D8D6825144672D9D8A3AC8371.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "パーティー好き",
+      "trophyDetail": "「ビッグパーティー」完了 (New Adventures)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/F8304B0C9FEAB94BF7318FB66E190ABFF3140B46.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ブラックアウト",
+      "trophyDetail": "「必然の結果」完了 (New Adventures)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/318D53461F748E713ED0E707A3E70BB8F8697172.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 62
+}

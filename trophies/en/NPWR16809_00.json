@@ -1,0 +1,438 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR16809_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Scintillatron 4096",
+  "trophyTitleDetail": "Trophy set for Scintillatron 4096",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/67C4F2578A1FAAE699A03FC82901BF15D8DDF73C.PNG",
+  "trophyTitlePlatform": "PSVITA",
+  "definedTrophies": {
+    "bronze": 30,
+    "silver": 11,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Scintillatron 4096",
+      "trophyGroupDetail": "Trophy set for Scintillatron 4096",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/67C4F2578A1FAAE699A03FC82901BF15D8DDF73C.PNG",
+      "definedTrophies": {
+        "bronze": 30,
+        "silver": 11,
+        "gold": 3,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Scintillatron Platinum",
+      "trophyDetail": "Obtain all trophies for Scintillatron 4096",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/E60AC7A58BDD4A2634D6E72EB72B5CF3DEFCEF2B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Combo 5",
+      "trophyDetail": "Hit 5 of the same color particles in a row",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/D1ED4BA212C88D6A7C06C91FB1E711B5197D5478.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Combo 25",
+      "trophyDetail": "Hit 25 of the same color particles in a row",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/2454741A4F4990550C9212DD724B1BB8C55CE464.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Combo 50",
+      "trophyDetail": "Hit 50 of the same color particles in a row",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/E1824EB7FBAD06635A334C1D3B9952EF16014B09.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Combo 100",
+      "trophyDetail": "Hit 100 of the same color particles in a row",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/BB5218B74E38064765A8EA04BFF8C012920180E7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect",
+      "trophyDetail": "In one wave build a combo including every enemy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/4EB2B788EDFCDF06D029CFC667C771B3F1BCB210.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect 5",
+      "trophyDetail": "Achieve 5 perfect waves in one game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/30883EE70B66C7FEB0180EF0E63868527338BED0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Perfect 10",
+      "trophyDetail": "Achieve 10 perfect waves in one game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/FC08923FA101142B22D5D269A034DA2B17C4D334.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Perfect 20",
+      "trophyDetail": "Achieve 20 perfect waves in one game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/C4F03A13FF061F7C18F82950B9FAE7AC2DEBEB78.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "High Scorer",
+      "trophyDetail": "Score above 10 million in a single game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/2A5A58B9EEA79E1ECE78E6BF4C36595259EDC5DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Score Master",
+      "trophyDetail": "Score above 75 million in a single game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/266381F25F985A181CC82BC7F723C3BF77B23223.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fast Clearance",
+      "trophyDetail": "Complete a wave with more than 10 seconds remaining",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/D74E5F9B02BD6761863ADD116D6955E2C2F36B12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Super Fast Clearance",
+      "trophyDetail": "Clear a complete wave in 10 seconds or less",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/6B1C5EC4CA8C22CAFD4D7B6885E759E5760E9F32.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sharp Shooter",
+      "trophyDetail": "Complete a wave with every shot hitting an enemy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/C9CBA3F79353C8AAECF07B7C2A2A14227262822E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enlightenment Complete",
+      "trophyDetail": "Complete the 4 waves of \"Enlightenment\" and travel deeper",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/056879271B28866FD5BB8C65D59F1E9B89489885.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mined Games Exit",
+      "trophyDetail": "Complete the 4 waves of \"Mined Games\" and travel deeper",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/089F5BF2EA0D2EE7A2BFED749CB0CF913915B895.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meditation Complete",
+      "trophyDetail": "Complete the 4 waves of \"Guru Meditation\" and travel deeper",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/4E5D31F5FBBC5C11CC752034D3FB97AE4A8D106A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tunnel 4e75 Exit",
+      "trophyDetail": "Complete the 4 waves of \"Tunnel 4e75\" and travel deeper",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/935CF776A0E0FA6C552A716C265E47F82F535447.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Direct Memories",
+      "trophyDetail": "Complete the 4 waves of \"Direct Memories\" and travel deeper",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/857E0C26609838DE56297712684D5B0F7228DF1A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Near Light Traveller",
+      "trophyDetail": "Complete the 4 waves of \"Near Light\" and travel deeper",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/699F4A72C636617EB5CA01832B9AED61612A589A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "End of End Times",
+      "trophyDetail": "Complete the 4 waves of \"End Times\" and...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/0AA8472E0DB0A93744FD6ADD3196D0FDE1854615.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wave 8 Purist",
+      "trophyDetail": "Complete the first 8 waves without using a power up",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/AF979CD6252EA6987E39DDE3F9D0B74FFCD25153.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wave 12 Purist",
+      "trophyDetail": "Complete the first 12 waves without using a power up",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/C0F34D156C7768E2BE8D41CBE0C9F346F241A82B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wave 16 Purist",
+      "trophyDetail": "Complete the first 16 waves without using a power up",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/8C533B3D4DE3273B862EF461E9CED2E7E9BB889C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stoical",
+      "trophyDetail": "Survive at least 60 seconds with the Hurry Up",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/C810054D1ACBBEAF044AEA13F757F46E4A553E7D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hyper Stoical",
+      "trophyDetail": "Survive at least 140 seconds with the Hurry Up",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/CD9202E29FC2D785C2BBAEF4531D4E1B06E8C0C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heavy Gunner",
+      "trophyDetail": "Hit at least 3 enemies with a single shot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/FF38B96D3C2809AC199E3F5A00824CC202E9770A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Super Heavy Gunner",
+      "trophyDetail": "Hit at least 6 enemies with a single shot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/2D33F9C00A8EC1407B39AAC11F566BAF6ECE5745.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultra Heavy Gunner",
+      "trophyDetail": "Hit at least 12 enemies with a single shot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/1D478C8E475A6EDA6164D167BDC41C30CA1A7AEB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mad Skillz",
+      "trophyDetail": "Complete a wave being both \"perfect\" and \"fast\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/551119E8B53974B473F2A81C622BC8437B739BDA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Super Leet",
+      "trophyDetail": "Complete a wave being \"perfect\", \"fast\" and a \"sharpshooter\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/29C65EFCB499758E9C6C539E4C085CCE07D07BD5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mined Out",
+      "trophyDetail": "Trigger a mine by colliding with it",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/FBCCF5C15D61E410324DC00343F65387E5609AD7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mine Chain 2",
+      "trophyDetail": "Trigger a chain reaction of at least 2 mines (excluding Last Waves)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/E83603AF13B17AF7EDD47D2951A263B7D1263A2C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mine Chain 4",
+      "trophyDetail": "Trigger a chain reaction of at least 4 mines (excluding Last Waves)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/76E32F9290AB6C33C1D4E5F53AF6ED33998B11A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mine Chain 10",
+      "trophyDetail": "Trigger a chain reaction of at least 10 mines (excluding Last Waves)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/81C785DEDE44BA2A37AFF62964D6E269962F696A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bug Stomper",
+      "trophyDetail": "Take out an entire Particlepede with a single shot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/651E443BB595538AEE4E6CDC9D5B51EDDB36387A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fair Copper",
+      "trophyDetail": "Destroy a Fat Agnus with consecutive shots",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/0B69C1C42AD7D19135E7547BB6F71754BB978009.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pew Pew",
+      "trophyDetail": "Power up to maximum fire rate (excluding the \"Max Fire\" power up)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/FC74AE553DB02DD06BC1BCEF5EEE5334940BD12D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfectly Enlightened",
+      "trophyDetail": "Complete the Last Wave of Enlightenment with perfect performance",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/F376F42C637F63548ED545B1E7A57ECB2F89F96F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Games",
+      "trophyDetail": "Complete the Last Wave of Mined Games with perfect performance",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/6C20E53E8EE64703E4F5B88830D6C8A3735E38FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Meditation",
+      "trophyDetail": "Complete the Last Wave of Mined Games with perfect performance",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/02D06E210C3F4AE68F7829FA308A1B05160C9F79.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tunnel Perfection",
+      "trophyDetail": "Complete the Last Wave of Tunnel 4e75 with perfect performance",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/6313C49F8345345E10CAE434C6B10940290C38AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Memories",
+      "trophyDetail": "Complete the Last Wave of Direct Memories with perfect performance",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/B82972FF8515FE2806986059533522976764E700.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Perfect Light",
+      "trophyDetail": "Complete the Last Wave of Near Light with perfect performance",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/EE75978FCDA875CEC1E5A03340470CDE80F34563.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "A Perfect End",
+      "trophyDetail": "Complete the Last Wave of End Times with perfect performance",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16809_00_00FA93A8B582F0ADCFB99DE757B12DE572CA4A66FD/998532925741DBA3AE52227C0186BA54B1107510.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 45
+}

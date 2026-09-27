@@ -1,0 +1,555 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR21031_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Persona 3 Reload",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/33ac5713-5580-4722-a9ee-1d1da34f0093.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 45,
+    "silver": 7,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Persona 3 Reload",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/33ac5713-5580-4722-a9ee-1d1da34f0093.png",
+      "definedTrophies": {
+        "bronze": 38,
+        "silver": 7,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Ответ",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/1fdde225-4cbf-4403-b83d-af8f9c44df91.png",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 0,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Поистине замечательный гость",
+      "trophyDetail": "Получить все призы.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/2a452a0b-6817-4589-a754-65700c90e3e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Пробужденная сила",
+      "trophyDetail": "Пробудить Персону.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/a7fe9592-9572-480f-9b38-fe2bc5a60be9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Начало пути",
+      "trophyDetail": "Вступить в специализированный внешкольный исполнительный отряд.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/773cbdb0-57b0-4f79-9e36-45e91fefda9f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Как по рельсам",
+      "trophyDetail": "Одолеть огромную Тень аркана «Верховная жрица».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/522b68d4-af9e-4722-bcb5-b05133307c78.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Королевская битва",
+      "trophyDetail": "Одолеть огромные Тени арканов «Императрица» и «Император».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/628c8312-f514-43f4-a73d-a0fdc5384fee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Бессердечный",
+      "trophyDetail": "Одолеть огромные Тени арканов «Верховный жрец» и «Влюбленные».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/cf019f8a-3bdb-48d7-ba5a-b5351ac442da.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Прощай, оружие",
+      "trophyDetail": "Одолеть огромные Тени арканов «Колесница» и «Правосудие».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/f27f911f-a27a-4050-b4f5-fcbd15c38382.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Снятие напряжения",
+      "trophyDetail": "Одолеть огромную Тень аркана «Отшельник».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/74f315cd-73e5-4697-9e97-8ee9d5672dba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Улыбка Фортуны",
+      "trophyDetail": "Одолеть огромные Тени арканов «Колесо Фортуны» и «Сила».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/3a7ea315-7e10-4531-b27d-163f49e28e9d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Подвешенное состояние",
+      "trophyDetail": "Одолеть огромную Тень аркана «Повешенный».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/3fa8058d-df12-4cf7-bdbc-1faa75eace7c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Великая печать",
+      "trophyDetail": "Запечатать Никту.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/4265c00d-bd10-49bb-b402-bc16e25639d3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Свет в конце",
+      "trophyDetail": "Получить хорошую концовку.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/26c5ed5c-9536-463f-9ad8-2188a28e3e74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Шутовские проделки",
+      "trophyDetail": "Получить 10 сильных карт старших арканов во время перетасовки.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/ec0e1bc9-cac4-40e3-a7cd-d55016714072.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Почтенная гостья",
+      "trophyDetail": "Пригласить Элизабет к себе в комнату.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/05a3d6f7-2206-44e2-a376-5e089a3c4ca9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Лучше всех",
+      "trophyDetail": "Сдать экзамены на отлично.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/769ee8a1-4cfe-4c3b-ab60-6ba1903c8948.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Лучший друг",
+      "trophyDetail": "Достигнуть максимального уровня всех социальных связей.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/d828df22-02d7-45c9-8b0d-4c05eed11f3f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Душа компании",
+      "trophyDetail": "Завести все возможные социальные связи.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/d0d1281d-533f-457d-82ad-c1d05f4ce46a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Вторая половинка",
+      "trophyDetail": "Начать встречаться с девушкой.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/9fd10f8d-ce75-4e85-b41f-f13b9308c1ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Нерушимая связь",
+      "trophyDetail": "Достигнуть максимального уровня социальной связи.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/c397170e-c07b-44cb-8a9b-a9f79d4ad6ec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Новообретенная сила",
+      "trophyDetail": "Пробудить новую Персону в сердцах всех участников команды.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/29225b28-e2ea-40c6-9804-9cc9477425db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Персональный выбор",
+      "trophyDetail": "Получить 10 Персон во время перетасовки.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/db2b831b-4e44-480a-ab97-225a1fa5742e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Один в поле не воин",
+      "trophyDetail": "Передать ход другому участнику команды.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/f9c890a0-93f4-42ee-9b7f-6b7560648519.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Сила наших сердец",
+      "trophyDetail": "Использовать теургию всех участников команды.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/2801c741-ab5b-42df-8399-70971be2aac7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Спасатель",
+      "trophyDetail": "Спасти пропавшего человека.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/5ad15e86-3c5a-46d8-9354-99f284abc065.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Убойные цифры",
+      "trophyDetail": "Нанести 999 ед. урона за одну атаку (за исключением совместной атаки).(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/0efddd27-d7fd-47a7-b590-2b5d7d770337.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер засад",
+      "trophyDetail": "Устроить внезапную атаку 50 раз.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/b1126d25-aae5-44bf-bee3-5e0463fc9588.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Золотая лихорадка",
+      "trophyDetail": "Победить редкую золотую Тень.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/7809c9a7-a770-41f4-8aee-04b91e5f8715.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Командная работа",
+      "trophyDetail": "Провести 50 совместных атак.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/306db29e-b1aa-45de-9c8d-4d1c76c789a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Путь в глубины",
+      "trophyDetail": "Пройти через 10 дверей в монаду и побороть Теней внутри.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/b8e3943a-c6ff-4a16-99eb-99a0c06ac4bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Призрачный похититель сокровищ",
+      "trophyDetail": "Открыть 50 сундуков с сокровищами.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/504ad5a7-7569-492b-b16e-698d29e80b95.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сумеречный коллекционер",
+      "trophyDetail": "Использовать 50 сумеречных фрагментов.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/14bbda69-281f-41ac-9e98-97d83d93566f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мрачное местечко",
+      "trophyDetail": "Оказаться в темной зоне Тартара.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/f43f3023-cd6c-42e8-a5ed-28708bc6c0d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Пожинатель Жнеца",
+      "trophyDetail": "Одолеть Жнеца.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/b5f5ca70-1eba-4a61-ad68-98302248b06f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первые две пошли",
+      "trophyDetail": "Произвести двойное слияние.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/e66d9a46-aa68-4346-8b14-16beec12613f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Особая комбинация",
+      "trophyDetail": "Произвести слияние трех или более Персон.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/8e0b58ad-c277-4c06-9238-9c00c8d2467c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Подарок на день рождения",
+      "trophyDetail": "Получить предмет от созданной Персоны.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/30ab0fa5-9f9b-48ee-9305-92e3811a4997.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Путь к спасению",
+      "trophyDetail": "Создать Мессию при слиянии Персон.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/c620ead5-f02d-4737-95f9-bb6a8393aaab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Игра с судьбой",
+      "trophyDetail": "Получить измененный навык при слиянии Персон.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/b99f7b3f-1cb4-4c9a-9a59-2e65461bc63b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Не грусти, морковкой похрусти!",
+      "trophyDetail": "Вырастить урожай вместе с участником команды.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/e06ea596-8576-4694-85f8-3ef6a1d5c5ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Нужно больше золота",
+      "trophyDetail": "Заработать 50 000 иен от работы на полставки.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/de81638f-2556-40d4-9e2b-3d85f58c24bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Специалист",
+      "trophyDetail": "Довести социальный показатель до максимального уровня.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/deb2a0da-e3b8-4f41-91f8-628dc985464d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Идеальная форма",
+      "trophyDetail": "Довести все социальные показатели до максимального уровня.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/08df842b-d327-4e07-8327-b42593221e8c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Жизнь общажная",
+      "trophyDetail": "Провести вечер в общежитии с участником команды.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/9970911e-7cd4-4732-9354-7f808a61fddb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Гурман",
+      "trophyDetail": "Сделать вечером заказ из секретного меню раменной «Хагакурэ».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/d0a8260e-8822-4375-b835-9cf13b5b7f48.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Защитник милых и пушистых",
+      "trophyDetail": "Откормить обессиленного кота.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/91a76a4f-5d50-4e72-aeec-655fa2de8cbd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Нарасхват",
+      "trophyDetail": "Принять 5 приглашений от друзей.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/7f4ca7fb-a2f7-4cd1-bc9e-72d9faa87256.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "За гранью тьмы",
+      "trophyDetail": "Открыть все старшие арканы.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/f93364ed-49a1-403c-b19d-8f33fe57b246.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сквозь огонь и воду",
+      "trophyDetail": "Открыть боевые характеристики участника команды.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/6dc45faa-02bf-425a-90d0-7783e5acdfe5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Орлиный глаз",
+      "trophyDetail": "Получить все сумеречные фрагменты.(Можно получить только в основном сюжете Persona 3 Reload.)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/699602b5-e82c-49a1-8495-58b23ff272d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Взращенная сила",
+      "trophyDetail": "Пробудить силу козыря.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/e8aa8b3a-b041-4570-9820-63ee7b9cf0fb.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Путь мести",
+      "trophyDetail": "Ознакомиться с прошлым Амады.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/5bbb3927-5016-42ce-a096-1d7e79a87247.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Путь решимости",
+      "trophyDetail": "Ознакомиться с прошлым Санады.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/a4960a05-4d91-4551-abd9-71c60b9c7c6b.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Путь разочарования",
+      "trophyDetail": "Ознакомиться с прошлым Дзюмпэя.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/e111050e-63b7-406d-b841-22dea2786e8b.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Путь жертвенности",
+      "trophyDetail": "Ознакомиться с прошлым Мицуру.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/798b3668-fd48-4231-8b47-5203664dcd3b.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Путь непоколебимости",
+      "trophyDetail": "Ознакомиться с прошлым Юкари.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/827fba48-28eb-4864-8a38-b89d1ef440e8.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Путь ясности",
+      "trophyDetail": "Ознакомиться с прошлым Айгис.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/0ce970c6-63a7-47ec-b835-1997973efb65.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Навстречу новому дню",
+      "trophyDetail": "Посмотреть концовку.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21031_00/25dc75c1-01c1-426b-b378-0dffab6da604.png",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 57
+}

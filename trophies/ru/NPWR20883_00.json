@@ -1,0 +1,420 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR20883_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Poker Club",
+  "trophyTitleDetail": "Трофеи покер-клуба",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/B694570F8EDE2454E722751EBB3EEC58DE34FECC.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 30,
+    "silver": 8,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Poker Club",
+      "trophyGroupDetail": "Трофеи покер-клуба",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/B694570F8EDE2454E722751EBB3EEC58DE34FECC.PNG",
+      "definedTrophies": {
+        "bronze": 30,
+        "silver": 8,
+        "gold": 4,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Орехи",
+      "trophyDetail": "Соберите все трофеи в покер-клубе",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/46FD7AA05D0237A464273254DD2459A7F08BC499.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Игра в жмурки",
+      "trophyDetail": "Выиграйте партию, не посмотрев свои карты",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/EE9074C42B9F0E41583C204D9A68355E19E0DA0B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Кто не рискует",
+      "trophyDetail": "Поставьте ва-банк и выиграйте партию",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/2521BE4F3870712C7FC62525050BA46C981D7376.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Черный ход",
+      "trophyDetail": "Получите нужные карты на терне и ривере для завершения руки и выиграйте партию",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/4945E1FBDCA7283AC509CC195EEBB4B6F865003D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первый раз",
+      "trophyDetail": "Выиграйте первую партию",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/37FC6D310277CE1F5575CAFDBF3455F08BFAB520.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Безжалостный убийца",
+      "trophyDetail": "Выиграйте банк, когда 3 или более человек сделали ставку ва-банк",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/16E0D36F01F47ADFD8287471398B7D8C7ECDA787.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Холодные звонки",
+      "trophyDetail": "Ответьте на 2 или более ставок",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/F92DE3CAF17C19E980BCD2A3493EC9D11FFEEFEB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Дырка от бублика",
+      "trophyDetail": "Завершите внутренний стрит",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/69DAFF99A7274692F2545003C34CED5E72A34B59.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Все по боку",
+      "trophyDetail": "Выиграйте побочный банк",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/03D5171064BFFBAA9A0B92A6B8CD2A2A2D73C7A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Джокер",
+      "trophyDetail": "Завершите все цели в событии Poker Tour",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/34B123BF5A0321C8B04BF7AB9651855A08E32448.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Встречают по одежке",
+      "trophyDetail": "Потратьте 20 тыс. фишек на одежду",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/95DB5560645A01B42E42B1D4ED2E74809237B045.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Кто хочет стать миллионером",
+      "trophyDetail": "Выиграйте 1 млн фишек за все время",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/7F8FFE600D74292A3D153ED78273EE40CBDED6C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Красная ковровая дорожка",
+      "trophyDetail": "Получите стрит от десятки до туза",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/B47E919609AE89164F168262D157BA2B5F69E906.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Иллюзионист",
+      "trophyDetail": "Сделайте фокус с фишкой",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/0A63173481FB36B61B593FDDB43AD07443C48B71.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Лебеди",
+      "trophyDetail": "Получите «карманные двойки»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/8A1B27FB3620D44759CCE7737702B3356BE18F21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Никогда не сдаваться",
+      "trophyDetail": "Докупитесь и вернитесь в игру",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/25586B3657AC034B1302210C65ED184372F3994C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Быстрее! Выше! Сильнее!",
+      "trophyDetail": "Создайте открытый пользовательский турнир",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/586B8601545675408065CFA5DB1659BD2CFC450A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Время проверки",
+      "trophyDetail": "Сделайте чек 100 раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/098C39B599D7D6196516BB35E3C76CDA8E92E355.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Осторожность не повредит",
+      "trophyDetail": "Сбросьте 100 рук",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/BDE215F2507C980356859A7B391D8DC32CC15E20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Дуэльный клуб",
+      "trophyDetail": "Сойдитесь с противником 100 раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/632D20B7D1C88627174A2BE86FA02B853B42E45C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Трио",
+      "trophyDetail": "Выиграйте с тремя картами одного достоинства",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/6CB0D5F20598BA1BEDD9A5F51916E4DB29F5FDA5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Только вперед!",
+      "trophyDetail": "Сделайте рейз 100 раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/5A4521647B2D636BD6DFEB746F11EA0CFEFE40E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ранг «Любитель»",
+      "trophyDetail": "Получите ур. 5",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/70E57C073FD49AC8F0677D491EB2A7621A3CECFD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Потому что мы банда",
+      "trophyDetail": "Вступите в Poker Club",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/5CFB5F2B3983A5E546850431E132E925A90A0C5D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Уверенной дорогой",
+      "trophyDetail": "Получите ур. 20",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/1FE70A766CC453C191A4228EC17D8534E85F1B2E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Блеф",
+      "trophyDetail": "Откройте одну или обе карты при сбросе",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/0142E413608A5224517D206CA76D14BD3E4A2E97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Так закалялась сталь",
+      "trophyDetail": "Создайте персонажа",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/FB740D2741AEE14702DDCA6BAEBA1BA481CEC55E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Человек человеку волк",
+      "trophyDetail": "Выиграйте турнир",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/C86EBF32084EE352CAE744085FDA7F958F6A6B77.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Постоянный клиент",
+      "trophyDetail": "Получите ежедневны бонус 7 раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/9A25A2A640D17407DAAC66276CF21B04BBFF7EF6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Великий комбинатор",
+      "trophyDetail": "Выиграйте руку с разномастными пятеркой и четверкой из ваших закрытых карт",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/8BA27EA5DE194EC71DFEB26C228514A821AE0033.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "На кнопке",
+      "trophyDetail": "Выиграйте партию в игре с баттоном",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/2AC96D22AB8D225783547E5E4F5DF697AC4790F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Бесконечность не предел",
+      "trophyDetail": "Выиграйте 10 млн фишек за все время",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/8A7E3F60DE5CCA517DB9B4F001658BE89F05AE85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Уравнитель",
+      "trophyDetail": "Получите ур. 50",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/DA8D33FB25CD4D200D7D921D1AB7A8B2A0F00A9F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Тройка, тройка... тройка!",
+      "trophyDetail": "Сделайте 3-бет и выиграйте",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/B36AAFBE947A4FC919794B748BC4AE564008096A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Филантроп",
+      "trophyDetail": "Пожертвуйте клубу 50 млн фишек",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/27E64898E99324CBA71312965816A19F5798B2BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Полный нокаут",
+      "trophyDetail": "Выкиньте из игры 5 игроков в кэш-игре",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/6CDCC77952A4178B43684ECF4F30E2E792529A64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Я стар",
+      "trophyDetail": "Станьте звездным игроком",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/8E708427DE0E61DAD2BFDDA9C13A1DB86BCABC92.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Легенда клуба",
+      "trophyDetail": "Вступите в 25 клубов или станьте их владельцем",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/914B4FE2ABFC14C7A705E663EB6C476F652B907C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Охотник за головами",
+      "trophyDetail": "Получите 50 баунти-наград",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/1ED126459B91456F560BB10AD17177C1181FC06C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Собаку съесть",
+      "trophyDetail": "Выиграйте 100 млн фишек за все время",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/9932EBEFB8CDBD5943EDD46324F87F0D3F38B682.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Только победа",
+      "trophyDetail": "Выиграйте финал PCC Showdown",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/D709DA535CA2C30E711B2716354750D4FD6D4A1A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Профессионал",
+      "trophyDetail": "Получите ур. 100",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/C2B63F224E7C44C4FDE5CCC4327E46EE99DAB4F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Туз",
+      "trophyDetail": "Завершите все цели в покерном турнире",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20883_00_00F6E5F454788BE657BD1515B183780ED395A97F14/7BDA63203E832C7CA4DFE6F187AEF524C2EE9F45.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 43
+}

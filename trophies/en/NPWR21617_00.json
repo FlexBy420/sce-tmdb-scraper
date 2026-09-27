@@ -1,0 +1,87 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR21617_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Pool",
+  "trophyTitleDetail": "Pool Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21617_00_0033E9B0EB70CC0CB4645D3A46DED9B59F652405AC/CFFB04960EE2D8173D8F29FB04EAD4E9B9AF3DF0.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 1,
+    "silver": 3,
+    "gold": 2,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Pool",
+      "trophyGroupDetail": "Pool Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21617_00_0033E9B0EB70CC0CB4645D3A46DED9B59F652405AC/CFFB04960EE2D8173D8F29FB04EAD4E9B9AF3DF0.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 3,
+        "gold": 2,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Win",
+      "trophyDetail": "Win",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21617_00_0033E9B0EB70CC0CB4645D3A46DED9B59F652405AC/5A24EBA4C1E2DCDBBA8A0E63AF22A9ACA9B0FC4E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lose",
+      "trophyDetail": "Lose",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21617_00_0033E9B0EB70CC0CB4645D3A46DED9B59F652405AC/B11D12E6300E0310635EFA01DA67AC687E3CE3EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Champion",
+      "trophyDetail": "Win 5 matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21617_00_0033E9B0EB70CC0CB4645D3A46DED9B59F652405AC/87988FE0408FAEAC5ED2309FBD901ED2D3015F57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Loser",
+      "trophyDetail": "Lose 5 matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21617_00_0033E9B0EB70CC0CB4645D3A46DED9B59F652405AC/A454C63543D75AA133DB8E1F1697B4E67718624C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Friends",
+      "trophyDetail": "Play one 2 player match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21617_00_0033E9B0EB70CC0CB4645D3A46DED9B59F652405AC/7C6C7B321BF521BFFB176A400098965E5E24905D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Best Friends",
+      "trophyDetail": "Play ten 2 player matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21617_00_0033E9B0EB70CC0CB4645D3A46DED9B59F652405AC/7878BA3D8DDBD529AE2013418704ED32A66CE98D.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 6
+}

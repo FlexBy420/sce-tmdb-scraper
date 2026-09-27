@@ -1,0 +1,552 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR10066_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "Enter The Gungeon",
+  "trophyTitleDetail": "Enter The Gungeon",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/3895B0E00916D8C49265181DA5A71864018FF70C.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 40,
+    "silver": 12,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Enter The Gungeon",
+      "trophyGroupDetail": "Enter The Gungeon",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/3895B0E00916D8C49265181DA5A71864018FF70C.PNG",
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 12,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Ravitaillement",
+      "trophyGroupDetail": "Ravitaillement",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/4A0A0ED922BCDBD61CB4CCBC75FC7A41B2D2376D.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Gungeons and Draguns",
+      "trophyGroupDetail": "Gungeons and Draguns",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/1B0B6B424D3C5A095D9439B58B2CC9E063E14309.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Dat Plat",
+      "trophyDetail": "Obtenir tous les autres trophées",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/B5534473B7E502B2600EEBC46BE3F35FD765BBCD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Dieu du plomb",
+      "trophyDetail": "Récupérer cinq Balles de Conquête en une session",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/2A809BF197D8FBCE117601395327C5C8EDD3CC66.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mécène",
+      "trophyDetail": "Dépenser de grosses sommes au Service des Acquisitions",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/8856BB1489048C43EE9367ECAE7A157C3356CC08.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "En chantier",
+      "trophyDetail": "Finir le jeu avec l'arme ensorcelée de la Sorcière",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/88B467F8EA21B34F6CC9F0FE77312105A20D1688.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Maître du Gungeon",
+      "trophyDetail": "Terminer la Sixième Chambre",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/BB96AD79DC8A6496BDF5842FBDCF13AF0AF56B55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Armurier",
+      "trophyDetail": "Fabriquer la Balle qui peut tuer le Passé",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/F624F3683BD4DF132C6CE02E8AF8E2C2D7660DEE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Historien",
+      "trophyDetail": "Tuer 4 Passés",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/089CACA98A9A82737966EA1FCA857A684C7B0FE1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ailier",
+      "trophyDetail": "Tuer le Passé du Pilote",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/966DED8C428392E2717E45713DBC48F7B7B7883C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Libération anticipée",
+      "trophyDetail": "Tuer le Passé de la Condamnée",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/5A9E750066D96B7BFBB89D2F16D959856B280261.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chef de bataillon",
+      "trophyDetail": "Tuer le Passé du Marine",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/6D0626F275556E8CE7DD4C69FA87E296D53ED564.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gibier faisandé",
+      "trophyDetail": "Tuer le Passé de la Chasseresse",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/0792DD1E54158801C470C87112D6890F6E3E2113.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tueur",
+      "trophyDetail": "Vaincre le Boss de la Cinquième Chambre",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/43F2F11ED9CE4418C00FD07AE269B80C2B8FBE99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Assiégeur",
+      "trophyDetail": "Terminer la Première Chambre 50 fois",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/8C62289A04C9E77291EFF2B83840177DCC2415C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explorateur",
+      "trophyDetail": "Terminer la Deuxième Chambre 40 fois",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/9E7FF75C4BB56830D0D082EDDF2067A7D5233837.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mineur",
+      "trophyDetail": "Terminer la Troisième Chambre 30 fois",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/2FA9DB7791F7018B024F94A761A7DE05E6D7E436.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Orphée",
+      "trophyDetail": "Terminer la Quatrième Chambre 20 foi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/FB1CA317C3F340EC14E87AC2F876BA58EE18C4E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Forgeron",
+      "trophyDetail": "Terminer la Cinquième Chambre 10 fois",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/087A4E0D3F7029A6EFF01A36E4F4010771A65EEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Plein les poches",
+      "trophyDetail": "Transporter une grosse quantité d'argent sur vous",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/C6A94419F1A5F3302F262B51821D7FB086824ED7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Assistant-cartographe",
+      "trophyDetail": "Cartographier les cinq premières Chambres pour l'aventurier perdu",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/0F909A7A68A27F88092CCB0211385A3C35970795.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Geôlier",
+      "trophyDetail": "Pénétrer dans les Oubliettes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/7E3A7BFAAE9ED1F48A664B93948A61F662D16AF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hommage aux morts",
+      "trophyDetail": "Pénétrer dans l'Abbaye",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/A8527C759CDDD98E8169096CE5896D9BABB03F75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Abracada-bras",
+      "trophyDetail": "Apporter le bras de rechange au Golem",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/665AA1C0C33C6BA463E068466D9E56DD2927CDE4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Chasseur de primes",
+      "trophyDetail": "Terminer les défis de Fusilhrd",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/EDE633FEDB75D5028BD7EF29E4360EBA32948FDA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Champion de la fête",
+      "trophyDetail": "Réussir le jeu de Winchester 3 fois",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/2B383D6C31E67908BA57D9485D8A2B4BA3984299.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hamlet aux truffes",
+      "trophyDetail": "Gagner un pari contre le Roi Tire 5 fois",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/4F8F3F147BF85135893B6968E8E048C4A5A34D6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Emballé !",
+      "trophyDetail": "Débloquer la Balle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/3C59E283E7F39D01ADAB6691C1DBCB5D3221C6C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Bip",
+      "trophyDetail": "Débloquer le Robot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/AF3BD80488987D9CE783DC96CCB9B017CF4D324D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Plus bas",
+      "trophyDetail": "Ouvrir le raccourci vers la Deuxième Chambre",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/E14D11460F50FB7BC5473F33B641348143FDBEE4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Encore plus bas",
+      "trophyDetail": "Ouvrir le raccourci vers la Troisième Chambre",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/1871D41F8E0F6E2C4ACC96C8154674A267924746.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Toujours plus bas",
+      "trophyDetail": "Ouvrir le raccourci vers la Quatrième Chambre",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/F3B082C888548DE3C41EE2032AE0F4A110647C7B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Terminus",
+      "trophyDetail": "Ouvrir le raccourci vers la Cinquième Chambre",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/7302CC4A8819DA1E108F43556A5FE062F0B493B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "À la vie, à la mort",
+      "trophyDetail": "Venger Manuel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/FDEDCADCD67B7F57D066D8A0D5A6874CF23BC61D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adoubement",
+      "trophyDetail": "Terminer l'Initiation",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/AEA6E5E5D0D55D5A77EF4ECF58657BAAFA5E4045.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Grande Salle",
+      "trophyDetail": "Peupler la Brèche",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/CBC2473380FE6F34DBC827D9F761F7BB505FDF9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Brute de décoffrage",
+      "trophyDetail": "Vaincre une Mimique",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/7359D936F35A3C68F56E45FC4BC4736C72BC7824.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demolition Man",
+      "trophyDetail": "Tuer un ennemi gelé en effectuant une Roulade contre lui",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/AB6867BFC5FDCD4AE83034AB40A2C3B17337B645.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Je savais que quelqu'un le ferait",
+      "trophyDetail": "Pourquoi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/C9CED77EBA9E2DFE8157E0BF821639E8A1FFA503.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voleur à la tire",
+      "trophyDetail": "Voler 10 choses",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/0E4B2BCE689D36721ACB8E34E8483B0DF0BA1FC5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trouble-fête",
+      "trophyDetail": "Tuer un Boss après l'avoir recouvert de paillettes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/2A81BB16447A6A1A1424274E3D8BF8590F7737ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Saut de lion",
+      "trophyDetail": "Tomber à la dernière seconde",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/157A29F4343F1DDEACC66D94FF0A3C96E06EF809.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Éclair de la lune",
+      "trophyDetail": "Tuer 100 ennemis en lâchant des lustres",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/7B8519F7AE01C53C5E5B9785EA425351DE6815B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Train-train",
+      "trophyDetail": "Tuer 100 ennemis en vous déplaçant sur un wagonnet de mine",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/5400BBDFCCF36B4EC7D9D7113EEBA261C98AF6F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fossoyeur",
+      "trophyDetail": "Tuer 100 ennemis en les poussant dans des fosses",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/C8B4CF0A92331ADBB37EDADF4B3E1B893FC76FC5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Paradoxe temporel",
+      "trophyDetail": "Mourir dans le Passé",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/0F1C00ECD60D3B1BB4A44918D78660537C59D05D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Exorciste",
+      "trophyDetail": "Tuer un Boss Enrayé",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/B93E6C9A785F3F5992E5295BF8FC07B64C7BD2F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Le Mot de passe",
+      "trophyDetail": "Accéder au Marché caché",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/850D97D03D437A2E02D811D9BCDB13F36E671EF7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Enrayé",
+      "trophyDetail": "Vous avez été victime d'un terrible destin",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/E62798FE79AD8610662CBCBB0DBF83A39F1A116F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mode Enragé",
+      "trophyDetail": "Renversez tout ! Les armes renversent le monde",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/E6DF763EB4695DAA37866DDF70AE695436B8B58D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dompteur",
+      "trophyDetail": "Finir le jeu en Mode Bestial",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/52745C8F35CECBE5EDDBDCB14745C45CF29F2CDB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Terminatordu",
+      "trophyDetail": "Tuer le passé du Robot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/E51A1B13B36AED3B0571968153B27DC9F8A5EE9A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Héros du Gungeon",
+      "trophyDetail": "Tuer le passé de la Balle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/2FAA4A873BE98958B1CF51BC4EAC238C0AB8D76C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "À la hauteur",
+      "trophyDetail": "Réussir l'épreuve de Daisuke",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/B7223A65ED3A5FA1E31EE48BECAA9CF18F79DA9E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tueur Avancé",
+      "trophyDetail": "Tuer un Boss Avancé",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/CF9025357ABD0679133E7C517B12A377268EDD15.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ruse",
+      "trophyDetail": "Vengeance",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/C4BC93DF50065DC3528CE1EC3FFB5DF9E8A50261.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chien d'attelage",
+      "trophyDetail": "Réussir l'épreuve de Tonic",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/EE6A79F7879AA34864FC63EA912156E982C7AED1.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 55
+}

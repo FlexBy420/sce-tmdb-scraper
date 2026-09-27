@@ -1,0 +1,933 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR07466_00",
+  "trophySetVersion": "01.85",
+  "trophyTitleName": "Rocket League®",
+  "trophyTitleDetail": "Set del trofeo di Rocket League®",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/7E97D451B278DACDDD0CA8D59AFF7BF62E1A6560.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 51,
+    "silver": 24,
+    "gold": 12,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Rocket League®",
+      "trophyGroupDetail": "Set del trofeo di Rocket League®",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/7E97D451B278DACDDD0CA8D59AFF7BF62E1A6560.PNG",
+      "definedTrophies": {
+        "bronze": 20,
+        "silver": 10,
+        "gold": 5,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Utopia Coliseum",
+      "trophyGroupDetail": "Set trofei Utopia Coliseum",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/6DDA1F547016DE43816EAA532CDDE0226E2A421C.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Supersonic Fury",
+      "trophyGroupDetail": "Set trofei Supersonic Fury",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/308323533CE7843F8D4B93A54CAC8AB10E7DBDB2.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Vendetta delle battle-car",
+      "trophyGroupDetail": "Trofei La vendetta delle battle-car",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/428A74F7044E02D9FFC1A4F631833010D8948DD6.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Chaos Run",
+      "trophyGroupDetail": "Trofei Chaos Run",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/C96BF0B1C546E85EA20DAFCCD9372727307FD9C7.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Neo Tokyo",
+      "trophyGroupDetail": "Trofei Neo Tokyo",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/33ED7F559CCA58A6BAD2A13F97959D3A3D4CDA47.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "006",
+      "trophyGroupName": "AquaDome",
+      "trophyGroupDetail": "Trofei AquaDome",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1DC23C44981CAB4F3153A478C9B2F95F3CD9BE06.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "007",
+      "trophyGroupName": "Dropshot",
+      "trophyGroupDetail": "Trofei Dropshot",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/3D0BABB7B7C566B536E8ED0B79309BECD6408446.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "008",
+      "trophyGroupName": "Champions Field",
+      "trophyGroupDetail": "Trofei Champions Field",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/3FD4FF49C259305CA80A6977A26248DEEC6319D6.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "009",
+      "trophyGroupName": "Aggiornamenti club",
+      "trophyGroupDetail": "Trofei Aggiornamenti club",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/4740B1B0B84359C43BF081E9162F8C9A916B46E2.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Virtuoso",
+      "trophyDetail": "Sblocca tutti i trofei",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/767E69612A5AB876C31DEEADF3747D20F3334E18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Rifornito",
+      "trophyDetail": "Accumula 150 oggetti\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/80189924563A9C13AE64B2428E8C7E39010C7B5B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Molto, molto distante...",
+      "trophyDetail": "Percorri una distanza totale di 50 km",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/68C3355DA096B09FDD98B59C801AA2CE762B060B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Super vittorioso",
+      "trophyDetail": "Vinci un totale di 30 partite in qualsiasi modalità di gioco",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/340DB5B29EE0868F87C329526144A0B76FD66AA2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Campione",
+      "trophyDetail": "Vinci il Campionato della stagione",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1E1E61BDA005386B4053FB12005471353ED75949.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "La serie",
+      "trophyDetail": "Vinci 10 partite consecutive in qualsiasi modalità di gioco",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/8D5045748F3EDCFD8126A0289A3606BFA4F0365E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "L'orgoglio di Helen",
+      "trophyDetail": "Segna 6 gol in una partita",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/7242E4C6C9D2B0F08AC9AE8DCDB426FDE4FBE409.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Collezionista di auto",
+      "trophyDetail": "Raccogli 5 auto",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/C90D91E26B3C15926E9CFF6C114010E820754001.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cacciatore e raccoglitore",
+      "trophyDetail": "accumula 50 oggetti",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/EEECD61C1B14A6A4AD4517811C792E59CA6E7F28.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rockettiere",
+      "trophyDetail": "Completa la stagione regolare",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/8367541C9109DD6C720123ACD8B7324A3E82761D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Meccanico",
+      "trophyDetail": "Personalizza gli adesivi, il topper, il turbo e le ruote di un’auto",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/DED0212623A4DC2EC2723ABA13170927B4FFFFFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Veterano delle corse",
+      "trophyDetail": "Gioca un totale di 20 partite in qualsiasi modalità di gioco",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/9AAA0D81238CFEE761F5217BEA6BCB29A9C9AF39.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Salvatore",
+      "trophyDetail": "Effettua 20 parate",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/E014D263EA99EAAF83ECDC59EF85F697B8CA6AF8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fan del biliardo",
+      "trophyDetail": "Segna un gol colpendo il tuo avversario contro la palla",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/351855D2218B8282A38DAD97CE54A9F0B753DC3B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Caricaturbo",
+      "trophyDetail": "Usa il turbo per un totale di 5 minuti",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/989D9EBEC840A67FAFA7A1B9899090F699761D70.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sergente istruttore",
+      "trophyDetail": "Completa tutte le esercitazioni (di qualsiasi difficoltà)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/C8155F7C787CB3CDC5ACBB5EFDC48B401FF70EE1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Il ritorno in scena",
+      "trophyDetail": "Con soli 60 secondi rimasti, vinci una partita che stavi pareggiando o perdendo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/DF687AEF9EF064B1235F138EF9269573D82E837D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demonio della velocità",
+      "trophyDetail": "Riempi completamente e poi svuota il tuo potenzia-razzo 10 volte durante una sola partita",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/BD8AB0C204B78B69750031079C7A839E912D400E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Piccola collezione",
+      "trophyDetail": "accumula 5 oggetti",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1A161D61A652E4DC20B5ABAE85A35184ED40E3F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arrampicatore",
+      "trophyDetail": "Guida sui muri della cupola per un totale di 5 minuti",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/4E3F4B4C6C83163A4909DCE77DD6C286275F99DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Team Player",
+      "trophyDetail": "Affronta tutte le squadre in una stagione",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/F6DF36DC22990F288AA13A75F1E49D319A2D36F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "SARPBC Forever",
+      "trophyDetail": "Gioca una partita con Octane e una con Backfire",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/8DC57F2F47282546B2610A4E098E29F988B1462A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Déjà Vu",
+      "trophyDetail": "Guarda un replay salvato nella modalità Replay",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/239EC8C8E3ADA701583B36C23361BB80815B0359.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vincitore",
+      "trophyDetail": "Vinci un totale di 5 partite in qualsiasi modalità",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/F80E02E579A5FA30BE7E8E5BB35F7C6926EABA24.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inviolabile",
+      "trophyDetail": "Vinci una partita senza concedere nessun gol",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/E79BA665052BE5C8183E6AD5576B78B58D14EAA6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tripla minaccia",
+      "trophyDetail": "Vinci una partita 3v3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1FE9C025BD6EF5DE0C9E7DF93771CF08B364FE35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Raddoppio",
+      "trophyDetail": "Vinci una partita 2v2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/47BB1896F06E871F8D4F128B135F2AF9A8335AF0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Club dei single",
+      "trophyDetail": "Vinci una partita 1v1",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/05E67259D05FFAF6B2F5F4C737616D581C55E849.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inizio perfetto",
+      "trophyDetail": "Vinci la tua prima partita della stagione",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/896671E6DD60A81DDB4439C2C9B96D7D4868D82F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sempre in mostra",
+      "trophyDetail": "Segna un gol in retromarcia",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/A015D0859D143342AB8C8EBF37425CB150D1145F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ora sai cosa fare",
+      "trophyDetail": "Completa un'esercitazione",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/02B10991FC99417B3D400208805C428348A90A37.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Viaggiatore",
+      "trophyDetail": "Gioca una partita in sei arene diverse",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/4620C53788229BE85B8DDE16102D2609739AFABD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aggiustatutto",
+      "trophyDetail": "Personalizza uno slot di un’auto",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/89317F7907F94D29CB044D7DD02F4537D2195C57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alle prime armi",
+      "trophyDetail": "Segna il tuo primo gol",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/0DBE401FF5EAFD08291678195B4FA4138100714F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Barras Bravas",
+      "trophyDetail": "Gioca una partita online con qualcuno del tuo gruppo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/D08629A43AA6D0721EA3B5A6D993DE5EA6C99204.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amichevole",
+      "trophyDetail": "Gioca una partita esibizione",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/294826280F1F75915842852D18412B195981D584.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sky",
+      "trophyDetail": "Fai un gol aereo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/82196E7733B3677EB6B1ED247D7895B61D801C11.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "4x4",
+      "trophyDetail": "Vinci una partita 4v4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/BB50B4F0DD8DC1660F1CD1DC4E5280F390B57DB4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gladiatore",
+      "trophyDetail": "Gioca una partita nell'Utopia Coliseum",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/4BBF909D5A4F412AB6F17A8F77AB87497DE951E2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Vincere è vincere",
+      "trophyDetail": "Vinci una Stagione di Campionato usando Dominus in ogni partita",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/B42A2D0D2F6BAC3998DCCA0591459C732A34D234.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pochi pollici e 6.2 miglia",
+      "trophyDetail": "Guida 10 km con le ruote Vortex, Cristiano o Spinner",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/6EC05D905644B5A4B0D4675005C8C76A454434D3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Guida o muori",
+      "trophyDetail": "Equipaggia Dominus o Takumi con qualsiasi adesivo, poi vinci una partita",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/A2EDB0F57C2D481AEDCA199CD8F33094E06336DE.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Non voltarti",
+      "trophyDetail": "Usa Turbo Termico, Esaurimento, o Nitro Razzo per un totale di 10 minuti",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/A0FA596CA8843A42B4A99B338F2B8C917188FF3A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Famiglia, non amici",
+      "trophyDetail": "Gioca una partita completa con Dominus o Takumi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/071555BC2A9883208A6C0E82AEA4D47670AB92F7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Re del drift",
+      "trophyDetail": "Esegui una derapata a 180 gradi con Dominus o Takumi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/3B4A143D4DCD67143B6D065D766EF4FE553770FD.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Supravvivenza del più prestante",
+      "trophyDetail": "Equipaggia un topper e vinci una partita contro bot di tipo Scorretto",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/2D895433B98287EF626EB47788D421D93D51F490.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rubacuori",
+      "trophyDetail": "Vinci una partita contro bot di tipo All-Star dopo aver equipaggiato un adesivo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/92550BC71950EE17A151E86261DF15ACFE472F7E.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Progressione naturale",
+      "trophyDetail": "Vinci una partita online con Backfire, Scarab o Zippy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/50E081E8354860E21B18281CF6B612B7852ED20B.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tiro all'indietro",
+      "trophyDetail": "Usa i Turbo Standard o Accelerato con Octane o Backfire mentre giochi in Centro Urbano",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/B80433B18C30E5694EC7EDB20347C60A8198286B.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bel colpo, parte seconda",
+      "trophyDetail": "Vinci il premio MVP usando Backfire, Scarab, o Zippy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/545B2F7CC27E499352954B746D0C5A2CB1625472.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Il mio mondo è fuoco",
+      "trophyDetail": "Equipaggia il Turbo Lanciafiamme e vinci una partita online 4v4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/0E35FD94C8A2535C0F15C153BB86EBEE46C334D6.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Spettacolare",
+      "trophyDetail": "Con Merc o Grog, segna 10 gol contro bot di livello Pro o superiore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/38C0005FCEFF1E8E516605B31A27CF91F3E0DCC5.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Selvaggio",
+      "trophyDetail": "Con Breakout o Ripper, segna 10 gol contro bot di livello Pro o superiore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/E2B77F15F635BDEF8C481CF34EB746F4E913C2D8.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spietato",
+      "trophyDetail": "Fai un totale di 50 tiri in porta usando Merc, Grog, o Ripper",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/8CFB80B6B6A31B1FAFDACD7B68B34C389EF152CD.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Psycho-Master Esplosivo",
+      "trophyDetail": "Demolisci 3 bot avversari nella Terra desolata",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/911BCE8E70BA69209FE24BEFBF4241470983F965.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scientista pazzo",
+      "trophyDetail": "Gioca un match completo in 3 diverse arene Rocket Lab",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1D421D961A5DC37F99E76360273A8910A942D20C.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Metti l'icing sulla torta",
+      "trophyDetail": "Mentre giochi in Snow Day, segna un gol dalla tua area di porta",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/BA6BF5E9320F99B5A96BFFF243FFC5404B877E5D.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ala destra, ala sinistra",
+      "trophyDetail": "Vinci una partita a Snow Day sia con la squadra blu sia con la squadra arancione",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/AF0BB4354D1306857CFFEBF75C1ADD93F8D2847D.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contropiede",
+      "trophyDetail": "Esegui 2 canestri nel primo minuto di una partita a pallacanestro",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/38E38C909BA1E730EF45741D02DEFF3F0A02EFA6.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frega la sirena",
+      "trophyDetail": "Vinci una partita a pallacanestro, in cui stai pareggiando o sei in svantaggio, entro 30 secondi dalla fine",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/EA0C347A93E9B196D0EF92985CC84B1D72293198.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Artista in erba",
+      "trophyDetail": "Ottieni un oggetto verniciato",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/F72E8BDFB1D1969D375D96164CFF049E8C1FFB2C.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ancora meglio",
+      "trophyDetail": "Aumenta il livello di un oggetto certificato",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/127F2C6A115F75E6B6DFBC2384F15D0879CA0547.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Certificabile",
+      "trophyDetail": "Raggiungi lo stato di Veterano per l'oggetto certificato",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1FF1863DEB90560F71B9C558463456E6CE751ABC.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "GG",
+      "trophyDetail": "Ottieni il titolo di miglior giocatore in una partita che va ai supplementari",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1B900E11063CA5141111CB1F10E7AF5724DC7645.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tripletta",
+      "trophyDetail": "Realizza un gol, para un tiro e fai un assist a un tuo compagno di squadra nella stessa partita",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/9738B064F034F9F1E41EE23731479D865497CF4C.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Potere infinito!",
+      "trophyDetail": "Attiva tutti i power-up in modalità Rissa",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/873C95CEA5B0468CDBD355C20348FF3EE9F8D9C9.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blocca tiri",
+      "trophyDetail": "In Rissa, blocca il tiro di un avversario prima che possa segnare",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/F8BD4FD4D4FCBCFA4E21B5153A871D2D7E62A64F.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tartaruga di mare",
+      "trophyDetail": "Dirigiti verso AquaDome e segna un gol mentre sei capovolto",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/AF721C5ECBBAA909E1493722BFE539AE08D1FDD4.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Forza, sig. Bubble!",
+      "trophyDetail": "Segna un gol aereo mentre giochi nell'AquaDome",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/D4887216CADE5E8A113FE3519E159EC5CDF1F723.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "RiempiTurbo",
+      "trophyDetail": "Realizza 535 gol",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/7119EF6AC6F74A75DF6FDC134C38B536F36BA402.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Votante registrato",
+      "trophyDetail": "Vai al menu \"Preferenze arena\" e usa tutti i tuoi voti",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/8A353C686EA41328C8AA3BFF505252FE98B00556.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Metaverso",
+      "trophyDetail": "Equipaggia il Turbo Ione o il topper Aureola e vinci una partita in Starbase ARC",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/F812A2D7CDD365ED6F1CD62F338D55CB50722C89.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sfida gli elementi",
+      "trophyDetail": "Completa una partita su un terreno sconnesso, in fondo al mare o nello spazio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/DFBCAB3FB332A407695492575A772C05A111BD0D.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Controllo dei danni",
+      "trophyDetail": "Vinci una partita in modalità \"Tiro in Caduta\" impedendo all'avversario di segnare",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/958696A840F70970E931604F6C10904C66C6D0E4.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Servizio completo",
+      "trophyDetail": "Realizza un totale di 18 goal in modalità \"Tiro in Caduta\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/E860AF0E2FE6B0FA6A2883FD606082BFB62946A8.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Buckminster x10",
+      "trophyDetail": "Danneggia  un totale di 320 pannelli in modalità \"Tiro in Cadutai\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/01D0CAF21A27BCB179CAD6E9AF07A158D17EA823.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soldato della tempesta",
+      "trophyDetail": "Equipaggia un oggetto deluxe e completa una partita nell'arena con un clima impervio.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/94E7BC3D1821D3938E01906857C0BEC88999D869.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bei tempi",
+      "trophyDetail": "Vai al Campo dei campioni e completa una partita online",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/A9D5A298E201D136ABE568CAC2EBF353D1F5B8C7.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nuovo profilo, chi sei?",
+      "trophyDetail": "Cambia lo sfondo giocatore, il bordo avatar e il titolo giocatore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/77B75466DF919B3FFBC7EF7B5F69A87A9BDBD483.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Grande scambio",
+      "trophyDetail": "Scambia cinque oggetti della stessa qualità per ricevere un oggetto dalla qualità immediatamente superiore",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/D29280B01982410B1BF3271A27A81AC5DE0EAFE3.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Scalata",
+      "trophyDetail": "Completa tutti gli incontri di classificazione in modalità competitiva",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/87B478F63CBA0F45BD06630AE41363DDBDE5F0B3.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Predatore",
+      "trophyDetail": "Segna gol e fai assist per un totale di 30 nelle partite online competitive o casuali",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/53FFABFB00146D56CA1282AC89EA080EE7FB0C46.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unisciti al club!",
+      "trophyDetail": "Crea un club di Rocket League o unisciti a uno esistente",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/2B74B94B29A969381B3D54B04E639C5254D0B166.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Insieme è meglio",
+      "trophyDetail": "Gioca e completa una partita online con uno o più membri del club",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/C8376292470498F09E369DD2F5B6D0F287E903A2.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nuovo sfidante",
+      "trophyDetail": "Gioca e completa una partita di un torneo online",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1D1FCF471BA0F25D7B28DEB9FC64E320A5D4586D.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Compagnone",
+      "trophyDetail": "Gioca e completa 10 partite online con uno o più membri del club",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/BA6711F702648A00C31CE9764C65D72445FA7BE9.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gol di squadra",
+      "trophyDetail": "Segna un gol mentre sei in una partita di club (solo matchmaking online)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/5E9F7C88E50700DF800D33F671939853EF007153.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Bomber della sfida",
+      "trophyDetail": "Ottieni il premio MVP in qualsiasi partita di torneo online",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/E1B8F8C1D12AC0345CB49AA6507D20C577B45131.PNG",
+      "trophyGroupId": "009"
+    }
+  ],
+  "totalItemCount": 88
+}

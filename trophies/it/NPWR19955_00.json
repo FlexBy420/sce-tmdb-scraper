@@ -1,0 +1,699 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR19955_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "FINAL FANTASY XVI",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/9b46dcf1-aedd-429a-907f-6ea2e6090e0a.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 59,
+    "silver": 6,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "FINAL FANTASY XVI",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/9b46dcf1-aedd-429a-907f-6ea2e6090e0a.png",
+      "definedTrophies": {
+        "bronze": 40,
+        "silver": 6,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Echoes of the Fallen",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/45bfb0db-fa15-4c4a-9bbf-f68555e01b13.png",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "The Rising Tide",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/6d84c4ea-899e-4e16-a6a6-b75feb705617.png",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Il Cronista",
+      "trophyDetail": "E così il nostro viaggio si conclude...",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/e50cfba8-421e-4852-aed6-3c938d8074fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Risvegliato",
+      "trophyDetail": "Riemergi dal tuo sogno.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/f14bf8f0-a47f-4909-9924-fa032f32db07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Un grande potere",
+      "trophyDetail": "Eredita un potere sconosciuto.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/f14bf8f0-a47f-4909-9924-fa032f32db07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Accettazione",
+      "trophyDetail": "Accetta il tuo destino.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/f14bf8f0-a47f-4909-9924-fa032f32db07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fuorilegge",
+      "trophyDetail": "Sfida il tuo destino.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/f14bf8f0-a47f-4909-9924-fa032f32db07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Retaggio",
+      "trophyDetail": "Gira l'angolo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/f14bf8f0-a47f-4909-9924-fa032f32db07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rosa del crepuscolo",
+      "trophyDetail": "Ripercorri il passato.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/f14bf8f0-a47f-4909-9924-fa032f32db07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Da pietra a polvere",
+      "trophyDetail": "Vendicati.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/f14bf8f0-a47f-4909-9924-fa032f32db07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fiamme gemelle",
+      "trophyDetail": "Riunisci le fiamme.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/f14bf8f0-a47f-4909-9924-fa032f32db07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "La promessa",
+      "trophyDetail": "Diventate una cosa sola.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/f14bf8f0-a47f-4909-9924-fa032f32db07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Un ricettacolo completo",
+      "trophyDetail": "Trova l'ultimo pezzo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/f14bf8f0-a47f-4909-9924-fa032f32db07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cenere alla cenere",
+      "trophyDetail": "Fuggi dall'oscurità.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/f14bf8f0-a47f-4909-9924-fa032f32db07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Stella cadente",
+      "trophyDetail": "Adempi al tuo retaggio.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/e126e1c2-ee50-4754-bca7-af53dc09899c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Castigatore",
+      "trophyDetail": "Usa Punizione su 10 nemici (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/82756f70-086c-4b32-b593-adde5faaf389.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Non puoi nulla contro di me",
+      "trophyDetail": "Sconfiggi un boss senza subire danni.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/82756f70-086c-4b32-b593-adde5faaf389.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Oltre ogni limite",
+      "trophyDetail": "Mentre sei manifestato parzialmente, sconfiggi 20 nemici (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/82756f70-086c-4b32-b593-adde5faaf389.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Più di 50.000!",
+      "trophyDetail": "Infliggi almeno 50.000 danni a un nemico vacillante (escluse le battaglie nella Sala della Virtù e quando completamente manifestato in Ifrit).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/228d919e-8cfd-4925-8ad7-b93af0bbe306.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Traslazione!",
+      "trophyDetail": "Metti a segno 15 Attacchi Traslanti o Colpi Traslanti combinati (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/31db226c-2f45-4b0a-af08-38fd8a91ce92.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fuoco e fiamme",
+      "trophyDetail": "Esegui 2 Contrattacchi Ardenti in una sola battaglia (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/31db226c-2f45-4b0a-af08-38fd8a91ce92.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Attrazione fatale",
+      "trophyDetail": "Sconfiggi 5 nemici in aria dopo aver usato Stretta Letale (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/02af00ab-e373-4590-80c3-fd217ba3f1a6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Senza toccar terra",
+      "trophyDetail": "Metti a segno Lacerazione, Acrobazia Crudele e Arrocco della Torre a mezz'aria prima di atterrare (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/02af00ab-e373-4590-80c3-fd217ba3f1a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Io sono il Tuono",
+      "trophyDetail": "Attiva il rilascio di 50 fulmini globulari di Giustizia Cieca (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/261ceea7-8fa3-4723-8409-a04c2cc62b32.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Non c'è due senza tre",
+      "trophyDetail": "Fai in modo che un nemico colpisca un Parafulmine per 3 volte prima che si dissolva (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/261ceea7-8fa3-4723-8409-a04c2cc62b32.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Intoccabile",
+      "trophyDetail": "Usa Parata Titanica per respingere 10 attacchi nemici (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/acaec4b1-b5f0-49b4-a826-9fdf11fe18a4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Duro come la roccia",
+      "trophyDetail": "Metti a segno il terzo pugno di un Contrattacco Titanico per 2 volte in una sola battaglia (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/acaec4b1-b5f0-49b4-a826-9fdf11fe18a4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mega-rapido",
+      "trophyDetail": "Metti a segno un totale di 100 colpi con una Megafusione di livello 2 o superiore (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/df00e5fd-7e2c-4586-ae27-dcb19e82bade.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mega-schivata",
+      "trophyDetail": "Effettua 3 Schivate Precise mentre carichi una sola Megafusione (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/df00e5fd-7e2c-4586-ae27-dcb19e82bade.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Brrr!",
+      "trophyDetail": "Congela 10 nemici con Ondata di Gelo (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/54b8c28e-e133-45dd-b2f5-55aa8011c07d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A sangue freddo",
+      "trophyDetail": "Sconfiggi contemporaneamente 3 o più nemici che sono stati congelati con Congelamento, Congelamento Eterno o Polvere di Diamante (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/54b8c28e-e133-45dd-b2f5-55aa8011c07d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ogni singolo tendine",
+      "trophyDetail": "Metti a segno uno Zantetsuken di livello 2 o superiore per 5 volte (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/5896fee6-ce69-44de-bdc1-b3281d5078a5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pugni d'acciaio",
+      "trophyDetail": "Esegui 3 Contrattacchi d'Acciaio in una sola battaglia (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/5896fee6-ce69-44de-bdc1-b3281d5078a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Eikonologia",
+      "trophyDetail": "Padroneggia tutte le abilità e i talenti di un singolo Eikon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/646d26f2-a0fe-49b8-ba97-29215603002b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Gran maestro",
+      "trophyDetail": "Potenzia al massimo tutte le abilità e i talenti.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/78bbc6df-fc3a-4570-9664-8cc43ecffd6c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tasche grandi e ben rifornite",
+      "trophyDetail": "Porta al livello massimo la potenza degli oggetti consumabili e gli slot dell'inventario.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/5c945645-4b46-4939-8acf-f4fac7f0920d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Apertura mentale",
+      "trophyDetail": "Ottieni 6 insegne.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/403e8bc4-3f16-49c7-bdf3-0d028900ef6a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cacciatore di taglie",
+      "trophyDetail": "Sconfiggi 10 bersagli ricercati.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/e10098b8-f70f-4d10-beba-0164a173260f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Caccia spietata",
+      "trophyDetail": "Completa la bacheca di caccia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/89a42ea4-8c81-4c7b-9f3b-07734952b1c3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "32"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Giro di prova",
+      "trophyDetail": "Completa una prova Cronolito.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/4d2d7c32-ad06-4768-8ff2-b4353bf46914.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Accumulatore",
+      "trophyDetail": "Ottieni tutti gli oggetti importanti.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/1fff6c94-ea41-4da7-a2a6-0c333f6d97b8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "22"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Di tutto punto",
+      "trophyDetail": "Crea o potenzia 5 pezzi di equipaggiamento.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/018e871d-6828-460d-b419-d7b70168f870.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Il crepuscolo degli dei",
+      "trophyDetail": "Crea la spada leggendaria Gotterdammerung.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/907ed876-3fc2-456d-a119-f95053850345.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ferisce più la penna...",
+      "trophyDetail": "Apri 10 lettere alla scrivania.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/289e9611-a9d5-435d-aa18-1a302101d329.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sapere è potere",
+      "trophyDetail": "Aiuta Harpocrates a ottenere un livello di conoscenza pari a 5.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/3a7e07d5-0044-42fa-8db5-8381660ef37f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Patrocinio",
+      "trophyDetail": "Ottieni tutti gli oggetti disponibili da parte dei tuoi sostenitori.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/54891a66-cd3a-4f39-a43d-dc3aea7b7b05.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "16"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strapazzami di coccole",
+      "trophyDetail": "Accarezza Torgal 5 volte.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/585739f6-c8e9-49fe-b9b2-bdb96a32a4fb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Un bravo cagnolone",
+      "trophyDetail": "Esegui 5 Morsi Precisi (escluse le battaglie nella Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/585739f6-c8e9-49fe-b9b2-bdb96a32a4fb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Al galoppo",
+      "trophyDetail": "Cavalca Ambrosia per la prima volta.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/747182fc-4fca-4144-a526-535be7601ff7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rosfield esploratori",
+      "trophyDetail": "Visita tutte le aree sulla mappa del mondo e su quelle locali.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/bea3eb42-3d2e-4c23-9a85-b3961b4fd280.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "68"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Eureka",
+      "trophyDetail": "Spendi 36.000 guil al Tinozza e Corona.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/29d4b4c2-0e2b-4500-8700-7d7910055bbf.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "36000"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Fantasia finale",
+      "trophyDetail": "Completa il gioco in modalità FINAL FANTASY.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/505e17d2-57a2-488d-a484-739dbd1ab738.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Un oscuro cristallino",
+      "trophyDetail": "Affronta il crepuscolo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/35a0495f-8d07-4d8d-bf8b-fb4823dc82b8.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Si può solo salire",
+      "trophyDetail": "Entra nella torre.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/35a0495f-8d07-4d8d-bf8b-fb4823dc82b8.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ripercussione",
+      "trophyDetail": "Silenzia gli echi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/35a0495f-8d07-4d8d-bf8b-fb4823dc82b8.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "OMG",
+      "trophyDetail": "Sconfiggi Omega in modalità FINAL FANTASY.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/35a0495f-8d07-4d8d-bf8b-fb4823dc82b8.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bit mania",
+      "trophyDetail": "Ottieni tutti i bit Decaduti.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/9de814e4-6dba-4d6a-9f0c-f64648727244.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ecco la mia ricompensa",
+      "trophyDetail": "Ottieni l'Armamento Omega.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/08e2640d-e5e6-44c5-8dfa-c38be11ca31c.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "La bonaccia",
+      "trophyDetail": "Trova ciò che era andato perduto.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/e2b2578d-270b-4b7d-be68-9d2ad97e40d4.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ritorno a casa",
+      "trophyDetail": "Entra a Mysidia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/e2b2578d-270b-4b7d-be68-9d2ad97e40d4.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "La corrente",
+      "trophyDetail": "Risveglia la tempesta.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/e2b2578d-270b-4b7d-be68-9d2ad97e40d4.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Il flusso",
+      "trophyDetail": "Ripristina il flusso del tempo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/e2b2578d-270b-4b7d-be68-9d2ad97e40d4.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Come lo spieghi questo?",
+      "trophyDetail": "Doma le maree.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/e2b2578d-270b-4b7d-be68-9d2ad97e40d4.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Evocazione leggendaria",
+      "trophyDetail": "Sconfiggi Leviatano nella modalità \"Final Fantasy\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/e2b2578d-270b-4b7d-be68-9d2ad97e40d4.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Signore delle maree",
+      "trophyDetail": "Sferra con successo 300 attacchi di marea combinati (escludendo le battaglie della Sala della Virtù).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/bc0bfd51-ce5c-4ba6-a040-b8ffef203a80.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Flusso controllato",
+      "trophyDetail": "Colpisci tre o più nemici con attacchi di marea mentre utilizzi munizioni illimitate dopo un Ripristino Rapido.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/bc0bfd51-ce5c-4ba6-a040-b8ffef203a80.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Deus ex",
+      "trophyDetail": "Incanala i cieli.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/2edcde74-d5fe-4007-abf9-079524b88dec.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Un degno ricettacolo",
+      "trophyDetail": "Acquisisci e padroneggia tutte le abilità di Leviatano e di Ultima.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/646d26f2-a0fe-49b8-ba97-29215603002b.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "La fine può attendere",
+      "trophyDetail": "Completa 10 missioni a Mysidia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/4dfe4c08-93e7-47b7-b359-203e0385ef73.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ancora vivo",
+      "trophyDetail": "Completa la Prova dell'Acqua.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/4d2d7c32-ad06-4768-8ff2-b4353bf46914.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Prova delle tradizioni",
+      "trophyDetail": "Completa il Portale di Kairos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19955_00/76f51eb8-1403-4302-ba9c-6716497110c8.png",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 69
+}

@@ -1,0 +1,606 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR03776_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "Guacamelee!",
+  "trophyTitleDetail": "Guacamelee! - Trofeos",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/74B7AB88F435BB82F089A3152CA72AF4B5DCB080.PNG",
+  "trophyTitlePlatform": "PS3,PSVITA",
+  "definedTrophies": {
+    "bronze": 47,
+    "silver": 8,
+    "gold": 5,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Guacamelee!",
+      "trophyGroupDetail": "Guacamelee! - Trofeos",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/74B7AB88F435BB82F089A3152CA72AF4B5DCB080.PNG",
+      "definedTrophies": {
+        "bronze": 39,
+        "silver": 5,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Skin Pack",
+      "trophyGroupDetail": "Skin Pack Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/BDF2D314354E1CE3392BCEAEC1495BDD9C1C4E9F.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Level Pack",
+      "trophyGroupDetail": "Level Pack Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/FD017FF566E883E9803B87CB7CFAA00C32EEFD09.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Guacamelee! - Trofeo platino",
+      "trophyDetail": "Luchador # 1!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/D67E24906A589F0A5F0C65A835B7867E6A09E701.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Viva la Resurrección",
+      "trophyDetail": "Conviértete en Luchador",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/70DB56F103A1883FBED9036A3D689D3F72A38977.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Construimos esta ciudad con Guac-n-Roll",
+      "trophyDetail": "Descubre Santa Luchita",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/C8D423407A9956200931117FB904D794B97D95F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eso es un gran Gato Frito",
+      "trophyDetail": "Mata al Alebrije",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/630142FE82BCE20BE0F8672F541CBEA0113B4CC9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gallo del Paseo",
+      "trophyDetail": "Derrota a un enemigo como pollo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/97D847FD27C90D70FC1ABFB6925F6B9EA992A848.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "X'tabay-bye",
+      "trophyDetail": "Redime a X'tabay",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/8AC3625760C9A2CE5D5E51D780EDED337BFE29C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apagado",
+      "trophyDetail": "Derrota a Cara de Flama",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/96599DBDB1BBDA0FAC427A37989789EBAB84F0A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lamiéndose las heridas",
+      "trophyDetail": "Derrota a Jaguar Javier",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/3B23E714F76DA6CCBBE23AAB2D4933923B369F91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wheeee",
+      "trophyDetail": "Teletranspórtate a través de una cabeza de Olmec",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/2CC743E1CBDDD3288AB72FEF6F074BA5E3413DD0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nerd de Combo",
+      "trophyDetail": "Consigue un combo de 150 puntos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/34AB3419143E77ADE56BF98CAC32B3F4AF062CE1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La hora de la siesta ha terminado",
+      "trophyDetail": "Despierta a un Alebrije",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/8CA9A3A9B1CC84962B519F8CFAFF1030966B3BCC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adicto a las compras",
+      "trophyDetail": "Gasta 10.000 $ en la tienda",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/ED05AB5F08F6C9543257970BE59B0FDE3A59F3AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Cacha el arco iris!",
+      "trophyDetail": "Conecta con los seis ataques especiales sin tocar el suelo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/5018BA92268B6B0998DC634020168D822C38A99B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tienes que encontrarlos todos",
+      "trophyDetail": "Encuentra un orbe",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/525DDB43A3EDFEF6BEF15F1F98916F50990C50FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Te bateo",
+      "trophyDetail": "Derrotar a Chupacabra utilizando solo el Aplastamiento",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/6B118F52563F98B244EA0D001C31750455428F13.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¿Por qué todas estas caras largas?",
+      "trophyDetail": "Entra en el Mundo de los Muertos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/6C614C3C6DA58707FD69AFA7AA2DE59C8FDBE16B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ha nacido un héroe",
+      "trophyDetail": "Salva Pueblucho",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/CF6857C67BEBE302BA52CA07AD7C40FBABC0C2D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¿Quieres que te desatemos?",
+      "trophyDetail": "Háblale a una cabra",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/C3851D2E511A9BBD5FC4D6380DBE418C9391128A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mi primer movimiento potente",
+      "trophyDetail": "Destruye un bloque utilizando el Gancho",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/E265F2BE63A6572555D9956BCDBD12879AC729F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cabeza hueca",
+      "trophyDetail": "Destruye un bloque utilizando el Cabezazo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/E64F6B2470B78D6C8B958C741EB3A013593434CC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Desplomarse sobre la panza",
+      "trophyDetail": "Destruye un bloque utilizando el Aplastamiento",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/01A3661739E8A614EACE57C4B2BF57B42CF280C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zas",
+      "trophyDetail": "Destruye un bloque utilizando el Puñetazo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/67D92C3A004D3FA8806B69CDF0D46B2BAE04CBC4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deja de quejarte",
+      "trophyDetail": "Derrota a un Alux utilizando solo el Cabezazo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/10E1B9CFCB4FEDFFBF12F7148BCB527C3AC3BEE8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Matagigantes",
+      "trophyDetail": "Derrota a 3 esqueletos gigantes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/C99DA66CBE43BD0312BC9D7A9E5810166E9B65FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reunidos",
+      "trophyDetail": "Completa la misión Muñeca Perdida",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/5E3BC04D13B6B1D12125A6AFCA2AA4E2796A936D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Música para los oídos",
+      "trophyDetail": "Completa la misión Banda Mariachi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/CFEDDE75473846CD91E4A061F0586F499AA6034D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Delicioso",
+      "trophyDetail": "Completa la misión Mejor Enchilada del Mundo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/F4878681F28D5A1CF0BC3AFB6484974A8C398DDE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Todos enjaulados",
+      "trophyDetail": "Completa la misión Corral de Pollos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/3ACB0E011AA7B448FEDB84EE4608F35DA27046E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Detective",
+      "trophyDetail": "Completa la misión Ladrón de Pollos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/5B6B8FE956269035198C98211B95AA1EB17D7B21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "SOY ERROR",
+      "trophyDetail": "Completa la misión \"SOY ERROR\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/1A22E338DA8EF357B92F4F8A609B6B65ACBBD24A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ponchado",
+      "trophyDetail": "Completa la misión \"Pollo del Combo\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/8638E12803FB3452B8AA3B054B46F267DA8C7ADF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfecto",
+      "trophyDetail": "Derrota una arena sin sufrir daños",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/B18AFC5AEA3CE0FDC96D8431BE18AB2D3EDE0409.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eso es usar la cabeza",
+      "trophyDetail": "Tira de un Cabezazo a un enemigo desde un acantilado",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/011F231E52DF0EA6E14D42CDB330FA45023DAA68.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hombre-cohete",
+      "trophyDetail": "Vuela por los aires durante 12 segundos con \"Vuelo del Chivo\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/2C2E1D396BC0741DCAEEFE935F4B7FE2B8045673.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Recovecos y rendijas",
+      "trophyDetail": "Encuentra el 100% de los artículos ocultos en una misma zona",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/8FF453FDE524EA66031BFC72F951DD25AA392220.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "De gran corazón",
+      "trophyDetail": "Completa una actualización de corazón",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/4EE9C3458788B741AE4CE39B7FFB36DB4387C29E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Resistencia",
+      "trophyDetail": "Completa una actualización de energía",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/51D5C16287F898C06F57408EBB954CBAF43C331F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golpean realmente duro",
+      "trophyDetail": "Derrota 5 arenas en modo Difícil",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/8F35B1FC849A019D7CD2A75AF93BDBFF8ED9EA96.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Manos de jardinero",
+      "trophyDetail": "Arranca de raíz 20 plantas enemigas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/F718FCE3E355A89F103F52599932FE6188874D9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bumerán",
+      "trophyDetail": "Derrota a un enemigo con su propio proyectil",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/E8332E676BD44F8CAD987C6B15016173F85CB89B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Boom-Shack-Calaca",
+      "trophyDetail": "Derrota a Calaca",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/3B07380B5D559E6DBF8E96C7FBA7C158B5D1E972.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Maestro de la tradición popular",
+      "trophyDetail": "Completa todas las misiones paralelas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/EE83A9F27E737ADAF04BC82AF954CBBD1EEABD6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Borrado",
+      "trophyDetail": "Compra todos los artículos de la tienda",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/AFE98F6B73F267165EBE6E3189C059FE3BB58A1E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "El combo interminable",
+      "trophyDetail": "Consigue un combo de 300 puntos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/43BA017D78DCC276393C2236D3945EEB2F9F1D33.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "En primer plano personal",
+      "trophyDetail": "Derrota a Calaca utilizando solo ataques melé",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/EA139413A3C3C68079BFD70C6DB21FE217154CB5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "¿Esto era el modo difícil?",
+      "trophyDetail": "Supera el juego en modo difícil",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/D32BE2ACFD201F54CFBB5BBE3B22CD2149C860A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "¿¿Quién ha puesto esto aquí??",
+      "trophyDetail": "Recopila todos los cofres del juego",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/29F1204D59CA951A598E1F8C7E57643F93E8377A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "El Salvador",
+      "trophyDetail": "Accede al final alternativo (recopila todos los orbes)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/005E90E9CCA575FAB6DBA81CAB50AFA6A7C62CD2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¿Qué fue primero?",
+      "trophyDetail": "Entra en modo huevo mientras juegas como el Pollo Luchador",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/946DCFF9089045119B701949A6A1B6182E717564.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Me siento vacío por dentro",
+      "trophyDetail": "Recoge un orbe de salud como Luchador Esqueleto",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/95440ADAAC26743B42262C0E1F1D8D92E97F152C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Saco de ladrillos",
+      "trophyDetail": "Lanza un enemigo mientras juegas como Juanita o Tostado",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/5BF30B4FD204CD5D319AAB732C3824A624755C04.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "SALUDOS, AMIGO POLLO",
+      "trophyDetail": "Como el Pollo Luchador, encuentra a los cuatro pollos gigantes con sombreros verdes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/1FBDE809C03A7088449476F357F1CCFB5442865A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Heroinismo",
+      "trophyDetail": "Vence a Calaca con el Jugador 1 en el papel de Juanita",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/D94DDEB5BBA6217023B792D10AF5F1EAC18E7E77.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hueso sobre hueso",
+      "trophyDetail": "Conquista la columna final de las arenas en La Caverna del Pollo como el Luchador Esqueleto\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/F24F6AD07429F780B58EB51C2B96BA993DAB1F3E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Campeón mundial",
+      "trophyDetail": "Gana la medalla de oro en todos los desafíos del Infierno",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/71370E6C5124806A0635AB38C2C51878DE678E13.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Aspirante al título",
+      "trophyDetail": "Gana la medalla de plata en todos los desafíos del Infierno",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/DBE0367CC1A405E848626DF76D8F9F7F2FAE7093.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Peso pesado",
+      "trophyDetail": "Gana la medalla de bronce en todos los desafíos del Infierno",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/3A7D565C7EFF9A550FC04E406FCF0E3A634B16C0.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡GOOOOOOOOL!",
+      "trophyDetail": "Completa los desafíos 10 y 15 del Infierno como El Portero",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/15FA0DC08D0D5CE47757489938CB3166202B8F6C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bestial",
+      "trophyDetail": "Completa el desafío 17 del Infierno como el Alebrije",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/E73D66AAD6BC2E0BDAA6E992B80B7DDFD244F03D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡El Diablo se viste de Venganza!",
+      "trophyDetail": "Derrota a Calaca con la vida completa en el traje de Diablo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/32D8A11E6EEEDC38566FE8BF489C3EF80885721A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Al estilo antiguo",
+      "trophyDetail": "Completa el desafío 14 del Infierno usando el Vuelo de cabra no más de cuatro veces",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/9740454BB6B4FC97E1E661EC023CE688508A56F0.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 61
+}

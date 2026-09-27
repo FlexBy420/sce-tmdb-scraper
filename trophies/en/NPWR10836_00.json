@@ -1,0 +1,585 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR10836_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "AFL Evolution Trophies",
+  "trophyTitleDetail": "The Best AFL game ever!",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/193CF80347E0760D45425753B0F51BF8BBD8AE1A.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 44,
+    "silver": 13,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "AFL Evolution Trophies",
+      "trophyGroupDetail": "The Best AFL game ever!",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/193CF80347E0760D45425753B0F51BF8BBD8AE1A.PNG",
+      "definedTrophies": {
+        "bronze": 38,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "AFL Evolution Season Pack 2018 Trophies",
+      "trophyGroupDetail": "More trophies to motivate you to achieve 110%.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/09B84EBD0A88F8264E1EAD4A256815A87D638547.PNG",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Earn All Trophies",
+      "trophyDetail": "Earn All Trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/6A7189F1CA1DF111799C7060C1301E582FB9A9BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cannot Separate Them",
+      "trophyDetail": "Draw a match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/D3C4D0F96D40174EE679CF5612EEB0C939E70EC3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I See It But I Do Not Believe It",
+      "trophyDetail": "Come from 50 points down to win (Medium+)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/4BE2A42C457277B8485FC5304D356A5AE350B39A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On A String",
+      "trophyDetail": "Achieve 40 disposals with 1 player in a match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/2E317062C5BB7D80A3492B94C288E11F748134EE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Putting On A Clinic",
+      "trophyDetail": "Have 6 or more goal scorers in a match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/C90F764AE7BAC447AC22FD49C07171125B10B45E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Down to the Wire",
+      "trophyDetail": "Score the winning goal from a set shot after the final siren",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/23E4B6A23D041F190BE55082BC2F28FA04A465E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Having a Shocker",
+      "trophyDetail": "Kick the ball out on the full 3 times in a match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/289AD34674412B826DB59363142D58DFA4A96E55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tackle Fest",
+      "trophyDetail": "Perform more than 50 tackles in one match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/2979F81ED67A71E3A58FA78970C909EF6F8C4F89.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Delicious!",
+      "trophyDetail": "Take a Speckie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/1C30EB630422CF52FAFAE1CCFDA789CF544C23DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Barrel",
+      "trophyDetail": "Kick a torpedo goal 60 meters out",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/B26CF92D2A6FAD7784A12ECA48675E4C0AC56918.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Day Out",
+      "trophyDetail": "Kick 10 goals with one player in a match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/ABFB567E9F3C5ED2ADD3E0BA30DD6738A467533A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Woodwork",
+      "trophyDetail": "Hit the post",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/92B5368019CAAFE2D8AEA4B41FA1CBFC7ECFC2E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grubby",
+      "trophyDetail": "Kick a Grubber Goal",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/CFF0C02C183C35E720D7EF552739B8A75A815F18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lockett End",
+      "trophyDetail": "Kick more than 1360 goals",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/9034FFDB7DF26F50F8D1C454725959F29F2C6676.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heritage",
+      "trophyDetail": "Play a match with every AFL Heritage Guernsey",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/61972ED97AD605F9EEA27DEB4616E7A1B3A87DDF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coast To Coast",
+      "trophyDetail": "From a kick-in, score a goal without the opposition touching the ball",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/6D2643CA5298693B209319C6C84BB17CF0D26A06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complete Player",
+      "trophyDetail": "Complete a total of 200 match objectives",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/A0D7E72618A2FCAE57BF35EE1D266957BC5FE21F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Single Minded",
+      "trophyDetail": "Complete all of your match objectives during a match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/BEECD1BBDA1AF7C07A0A37E6485E59485DD26C41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Premiership Quarter",
+      "trophyDetail": "Come from behind to lead at the end of the 3rd quarter in an AFL Grand Final (Hard+)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/56A619A18A09F8DC2617C6CDE01C6C7A88009B0B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Local Heroes",
+      "trophyDetail": "Win a VFL Premiership",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/1B42D5E23A69F386C1DA88429B145BEEBB752249.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Footy is Back!",
+      "trophyDetail": "Complete the JLT Community Series",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/D1AA5DD6C84D81CF42B3128B3A9CC422CF9424CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Game at a Time",
+      "trophyDetail": "Win an AFL Premiership",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/A8B0CA656F78271B1836C6CEBAABE141FCC5268B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back to the Drawing Board",
+      "trophyDetail": "Lose an AFL Grand Final",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/338F44D9E83B2C18BCBF43E09F841D20B4564297.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Silverware",
+      "trophyDetail": "In Competition win every competition trophy (Hard+)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/AF2CD1EC563E704FAF8C8C30386606DC1ED74506.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Total Domination",
+      "trophyDetail": "Finish a season top of the AFL ladder with no losses (Hard+)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/C3D636B0B7F575C5E3EAAAFA195A5D9693885EA5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Double Chance",
+      "trophyDetail": "Finish top  4 in a regular AFL season (Medium+)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/A679267C13509F9B183F84CE32DC3165FCD25536.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hall of Famer",
+      "trophyDetail": "Play all seasons in Career mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/B13A9378C39B9242346E975BFD3A78A47E1C61D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Back to Back to Back",
+      "trophyDetail": "In a Career, win 3 AFL Premierships in a row (Medium+)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/4B0DF9E4CCD556AE5E338EE982DFF10AC11FEA1C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sharp Shooter",
+      "trophyDetail": "In a season kick 30 goals in a row without missing",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/BE98DD789E88396C0AD4674C5A2154B2E9403A58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "200 Club",
+      "trophyDetail": "Complete 200 season objectives across multiple Career seasons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/C7ED5E509A5FD52C34E03D0EC15F89D9E7084A18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cream of the Crop",
+      "trophyDetail": "In Coach Career, have a footballer achieve a 95 overall rating",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/11DB8B99F6F74B5E4B3BF1D30B3B66597B472A1A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Chas",
+      "trophyDetail": "In Coach Career, a player on your team wins the Brownlow Medal  (Medium+)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/097E79A26EB7ED0C5D79AB1A7F3642E5F0BFD245.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Team Player",
+      "trophyDetail": "Retire after playing your whole Pro career at 1 AFL club",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/E42E26A1CED08122206D8B5D9374CEC72AA09251.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Kid Has Potential",
+      "trophyDetail": "In Pro Career win the NAB Rising Star",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/643C9DC34095478A5E8503035F7E8676216C9BDB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "BOG",
+      "trophyDetail": "In Pro Career win the Norm Smith Medal in an AFL Grand Final",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/0C75EC024D102C74EC7B37A93B8EBDA43B80B63A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rookie Choice",
+      "trophyDetail": "In Pro Career create a Rookie and play a match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/8A92763F44979387A61C9F87AFD4CC07725345E9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Are You Experienced?",
+      "trophyDetail": "In Pro Career play a match as a listed player",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/0C4C28BAE3E21AB0CC0E5C78958337537B66420D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Big League",
+      "trophyDetail": "In Pro Career accept a contract offer to play in the AFL",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/CB53ECC5EF06EB252AF13B2CB329EED35041E877.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Leadership Group",
+      "trophyDetail": "In Pro Career become captain of your team (Medium+)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/64A0C83200A75C0CB636CA3BFAE2D3488213A7CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Learning The Ropes",
+      "trophyDetail": "Reach level 5 as a rookie Pro Career player",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/6AC5BE01D3B8802C9467BE3A5D4C22A2AB44D719.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ball Sense",
+      "trophyDetail": "Reach level 15 as a rookie Pro Career player",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/C26A02D8941FD9F2F6DB34AA932DE33801C2E6DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Old Hand",
+      "trophyDetail": "Reach level 30 as a rookie Pro Career player",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/B4209B1F0160319405495BA8B6FC962FE283FF42.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wise Head",
+      "trophyDetail": "Reach level 50 as a rookie Pro Career player",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/9B5FC7076D5DC9AFF7F7E5C1DB8F463E1821B6C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "AFL Novice",
+      "trophyDetail": "Reach profile level 5",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/96BEE76DC4291218248C9C4CC977FDDD9E417AD9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "AFL Rookie",
+      "trophyDetail": "Reach profile level 15",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/5B89243E06447E7E6C9B9D025F5C180150B23373.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "AFL Free Agent",
+      "trophyDetail": "Reach profile level 30",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/824D7AE9D9B0B61906B22AA920BC6F31FB3CD81D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "AFL Veteran",
+      "trophyDetail": "Reach profile level 50",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/CEC3B6EB479F19BB59E924DF0ED90C4669B0ED62.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Networking",
+      "trophyDetail": "Complete an online match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/D435F4813025E7C3746A12434F140D623A52596C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bragging Rights",
+      "trophyDetail": "Win 5 online matches in a row",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/E317082F0402A29FC95F5F70BDE436F3C6007760.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Recruit",
+      "trophyDetail": "Complete a match using a custom created player.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/0EFABFCE3D342EFABCAF575B6B58F930DBECDE50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expansion Granted",
+      "trophyDetail": "Complete a match using a custom team.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/06EE8F7D8475A9F31B957DB7532A340D42F8926B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Living Legend",
+      "trophyDetail": "Win a game on Legend Difficulty using any of the 2018 teams.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/A19242442900A61E6EB44AF561563E480A9CC16D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "But Wait There Is More",
+      "trophyDetail": "Win the NEAFL, SANFL and WAFL competitions (Hard+)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/B2F22352F6B9AC4C3C30C51E6353D7C1F43D8F4F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "What Game Are We Playing Again",
+      "trophyDetail": "Win a game without kicking the ball using any of the 2018 teams",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/67D04DA30A59541E07F36629135BA4E52D6D0FA3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "North Eastern Champion",
+      "trophyDetail": "Win a season in the NEAFL",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/807DC996CF893741FEC538A75F0D216AECA5F9A3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "South Australian Champion",
+      "trophyDetail": "Win a season in the SANFL",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/BE45FF0FF2472213C6DC3D05A4824D12350A67B1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "West Australian Champion",
+      "trophyDetail": "Win a season in the WAFL",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/3186628091B723680D453CF1C7915C9ACB0D1C74.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Woman Army",
+      "trophyDetail": "Win the most valuable player in the AFLW 2018 Career Mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/2700C59F360F38D2F9356911F8CE782739B0D6AE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Start Of Something Big",
+      "trophyDetail": "Win the best young player in any AFLW 2018 Career Mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/94DDBEA4360D3DFC9B786C00DEE7B2D5565B104F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Surroundings",
+      "trophyDetail": "Win a game at Optus Stadium",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/97EC403630068BF1A2DB3974E10E03B0260A20F2.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 60
+}

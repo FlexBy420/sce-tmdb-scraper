@@ -1,0 +1,798 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR10665_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "XCOM 2",
+  "trophyTitleDetail": "Trophy set of XCOM 2",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/C903349724ACD9D6FAFB788D101FD7F683A13B48.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 60,
+    "silver": 18,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "XCOM 2",
+      "trophyGroupDetail": "Trophy set of XCOM 2",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/C903349724ACD9D6FAFB788D101FD7F683A13B48.PNG",
+      "definedTrophies": {
+        "bronze": 38,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "XCOM 2 Alien Hunters",
+      "trophyGroupDetail": "Trophy set of Alien Hunters",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/509A10740B97AAB6C48328798BE365DC926EF4EA.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "XCOM 2 Shen's Last Gift",
+      "trophyGroupDetail": "Trophy set of Shen's Last Gift",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/1213A38B0E5D9EE9DD824482903CB4A522A69233.PNG",
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "War of the Chosen",
+      "trophyGroupDetail": "Trophy set of War of the Chosen",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/F3E67ADB878E91B36B555BD625589BCB83246FB3.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Commander",
+      "trophyDetail": "Unlocked all other XCOM 2 trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/58D7806EA3D8D8BA8EB47209EB453CBEBD06845C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earth Avenged",
+      "trophyDetail": "Overthrow the aliens at any difficulty level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/7398F24F26E23110C9229FEA2D68761B5D957CEA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Defender of Humanity",
+      "trophyDetail": "Overthrow the aliens on Commander difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/CF1D95EF0A0D4A8155110D3ED05D912F6EB52454.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Immortal Commander",
+      "trophyDetail": "Overthrow the aliens on Legend difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/C074DDF621A72B78C533F5A7911E2920B03EC160.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tinker",
+      "trophyDetail": "Build an experimental item in the Proving Grounds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/DBDB5DC900076FD56A20DFBA5FEE9363A2F1C6C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rise of the Resistance",
+      "trophyDetail": "Make contact with a region",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/870B5CABAC47988E7C56CE2D1A776AFD8DEFE7D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Blood",
+      "trophyDetail": "Complete the tactical tutorial",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/B25184CFF6DE7DF7CF31E092F6C4A20FADA3A987.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rebel Radio",
+      "trophyDetail": "Build Resistance Comms",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/B1B1C5326EFBE9ECC28D1B0D2C7BFD87B3B19D13.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Codebreaker",
+      "trophyDetail": "Build the Shadow Chamber",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/B65BC24667DD190E4961F870DC79C2174CEB2AC2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Room to Grow",
+      "trophyDetail": "Upgrade a facility",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/86148334281D7706E6759AA6664A1DCDC533BE22.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shadow Broker",
+      "trophyDetail": "Sell goods worth 1000 supplies to the Black Market (Can span multiple games)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/1763A9CAF0C331D7EA6A5426A9AF5B7D104BF90C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rumor Hunter",
+      "trophyDetail": "Complete a Rumor",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/3ABEB8672B469EE78BD00312063B459574F051F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Horrible Truth",
+      "trophyDetail": "Recover the Blacksite Data",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/237514DF670429CE34B7A429D21D3DF35F7A9881.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Grim Key",
+      "trophyDetail": "Recover a Codex Brain",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/F23A4A59ACDCE1C0543CC4C1ABC98FC44BEC103E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Dark Doorway",
+      "trophyDetail": "Recover the Psi Gate",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/48C2A0C421DC40B4D55789FDBFDE8A4082FF9728.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Line Crossed",
+      "trophyDetail": "Complete the Avatar Autopsy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/127F28DF5D3476DA7E2B628CE3C91D2A35E081C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A God Falls",
+      "trophyDetail": "Kill an Avatar",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/E6BE7604D3D7E8872C7F99221F441FB088CD524C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meat Over Metal",
+      "trophyDetail": "Kill a Sectopod on the same turn you encounter it (in Single Player)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/736671D8B4D531F3D16366FE5921E7E19BEBA139.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Like Clockwork",
+      "trophyDetail": "Complete a successful ambush",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/9EA4B127E1701377C0F672083BCCA4C9A75A5BFD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mechlord",
+      "trophyDetail": "Hack a Sectopod",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/44656B7D688A53BF45A6CB0243A1D2674ADE3341.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nick of Time",
+      "trophyDetail": "Evacuate a soldier whose bleed-out timer is still running",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/9AA4F7887EEC5004B8CD6FA39AB206D3342D831F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Locked and Loaded",
+      "trophyDetail": "Upgrade a weapon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/DF30223CFB7C937439EF91917345B42A4E9FEEAD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Excalibur",
+      "trophyDetail": "Completely upgrade a beam weapon with superior grade weapon upgrades",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/347355243A0D0FD61B53670F0A69EEF9CF58706B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "David and Goliath",
+      "trophyDetail": "Kill a Berserker in melee combat",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/D9BA7CC2CBF4FC0B7E875ABA117406D5A177DCB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breathing Room",
+      "trophyDetail": "Kill a Viper who is strangling a squadmate",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/A0B7D272A2AA7031AD08F2124A4C4A61E1F89529.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Come Back To Me",
+      "trophyDetail": "Kill a Sectoid who is currently mind controlling a squadmate",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/5482CBF2687E36E1CC190F124E00B87336E4D67B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stop Hitting Yourself",
+      "trophyDetail": "Kill an enemy with a hacked turret",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/299A5EFA63F15A7D4567546B3994B9D46E401FF2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shen's Legacy",
+      "trophyDetail": "Build a facility in every Avenger slot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/8E1E735530C8DBD04E74D926DAEA09EBCCAE5E24.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bring It Down",
+      "trophyDetail": "Sabotage an alien facility",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/86EA47E4954CF745147D71B88C250EDA57384B1C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Have a Nice Trip",
+      "trophyDetail": "Cause an enemy to fall to its death",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/E7B94313297D4736EDBA67D04678B61E241B687F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Car Explosion",
+      "trophyDetail": "Cause an enemy to die in a car explosion",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/0281310835DA6225C88671BB81474327423B969A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Exquisite Timing",
+      "trophyDetail": "Beat the game on Commander+ difficulty by July 1st",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/8DDC599AEEC7592E4010D1BF198134793FEF9E36.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Who Needs Tygan?",
+      "trophyDetail": "Beat the final mission using only conventional gear",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/D525C753EE6AD9E0EE0E44758F39387B59D5257D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Few and the Proud",
+      "trophyDetail": "Beat the game on Commander+ difficulty without buying a Squad Size upgrade",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/3F456757B3BE591A8DA6ABE91E326D63E3C6E450.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Untouchables",
+      "trophyDetail": "Beat the game on Commander+ without losing a soldier",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/E78CA1FF09CD9930C297E1F666960F00401A5289.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pile 'Em Up",
+      "trophyDetail": "Kill 500 aliens. (does not have to be in same game)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/A93170FB7FEFC8C247B98383D1CB1A76A3230253.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Most Dangerous Game",
+      "trophyDetail": "Play in a multiplayer match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/180BD3A268435247F882170E3A1DA7B2F7E2D5FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Overpowered",
+      "trophyDetail": "Beat a mission on Commander+ with a squad of soldiers only of the same class (but not Rookie)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/BE383226533A2A15CF9B543E33904D46EEAC3EBB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroes of the Resistance",
+      "trophyDetail": "Beat a Retaliation mission with 3 or less civilian deaths",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/55C3DA0DED0A7A58501F0B14E030D2A874C825C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cyberlord",
+      "trophyDetail": "Earn a second tier hack reward",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/A6789A9A0C70D6E0AB330DFB280E8E9A8937B042.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Heavy Metal",
+      "trophyDetail": "Kill an enemy with every heavy weapon in the game (doesn't have to be in the same game)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/F2CC0ABEAA9A3A0D7FB85F09E3911F8A98FDD40C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Sun Never Sets",
+      "trophyDetail": "Build a radio relay on every continent",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/9780330004A1AA4839B999F3BB9DF74595CA8B1C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Global Resistance",
+      "trophyDetail": "Get all of the continent bonuses available in a single campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/077F507F44E0E8E1A1C1D4C71794E77134223549.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Beginner's Luck",
+      "trophyDetail": "Beat a mission in June or later using only Rookies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/159FC584F7E44EED7DA9CD6EA5C5053BA62A00A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Brutal Collection",
+      "trophyDetail": "Skulljack each different type of ADVENT soldier (does not have to be in same game)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/17872672A4B68C6D718B6D53C9DBF19E23369B91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "With Extreme Prejudice",
+      "trophyDetail": "Skulljack an ADVENT Officer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/1A2B8CEBBE874AD2BDEF8D6743DDD5F59C4CE973.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Better Human Being",
+      "trophyDetail": "Recover the Forge Item",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/E906109D80AF3C71B1F983EAB674E557E27A9D21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Final Stand",
+      "trophyDetail": "Create the Commander's Avatar",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/D505C3B7422D7515B99B032DBB5183DAB853D3DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Harder, Better, Faster, Stronger",
+      "trophyDetail": "Apply a PCS upgrade to a soldier",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/4485AE44702F05607CC902EE7A649F153C0C4A4F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Now Am I Become Death",
+      "trophyDetail": "Kill 3 enemies in a single turn, with a single soldier, without explosives",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/8621226576D7DC82440EFA0D30A16FACED227926.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Valhalla",
+      "trophyDetail": "Beat the game on Commander+ difficulty in Ironman mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/7571DA47812D2873C20F287B9B1F4DF211DC75F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Forbidden Experiment",
+      "trophyDetail": "Investigate the Abandoned Research Facility",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/594B6DCF1AF3EF61CC6A7DF81A5601B8EA8A4201.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Viper Vanquisher",
+      "trophyDetail": "Kill the Viper Ruler",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/D308D2E9C3878DC25EF4DC6C390E25C810DB4998.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Berserker Breaker",
+      "trophyDetail": "Kill the Berserker Ruler",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/0803633DA8ADF6CE5E54136A0EFC51544E772C77.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Archon Annihilator",
+      "trophyDetail": "Kill the Archon Ruler",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/A21605145B4F11DD85B4DCDD8F0A0EF5570EE017.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kingslayer",
+      "trophyDetail": "Kill all three alien rulers in a single game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/E760AB4948CF656499D62B56320E122D9AC8FA72.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deadly Arsenal",
+      "trophyDetail": "Purchase all of the final tier hunter weapons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/1E83099C44CECA6300AA18B6ED5B746B33135BD1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Now I Am The Master",
+      "trophyDetail": "Use all ruler armor abilities in a single mission",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/8A6CBC9FE042E443F1B8B65C9FDC79B794B7538C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Enemy Adopted",
+      "trophyDetail": "Use a ruler armor ability against an alien ruler",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/072A22C265031B7814C4813631CC210D50D3A371.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Regicide",
+      "trophyDetail": "Kill an alien ruler the first time you encounter it",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/DBEB537208A7FEE5746FF3860728ECCCFE5E63AC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Not Throwing Away My Shot",
+      "trophyDetail": "Kill an alien ruler while it attempts to escape",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/A9A37F1A1466864194F8B2663B6F721FA5AD3318.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Torch Passed",
+      "trophyDetail": "Beat the Lost Towers mission",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/C22AF3F8A8998FB1FC407EEEAF393E0CCE3C8AB9.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Our New Overlords",
+      "trophyDetail": "Promote a SPARK unit to Champion rank",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/613399B4CD62A840B4AEF1BA05FAC522C047D370.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rise of the Robots",
+      "trophyDetail": "Complete a mission with three or more SPARK units in the squad",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/7CA9FDBD5F2B58699E0F3A4A0D3AFAC2B2A8845C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Matter Over Mind",
+      "trophyDetail": "Defeat an Avatar with a SPARK unit",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/F5D14CBE10F8056175A2CF33338FF29BEFA05610.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Running on Fumes",
+      "trophyDetail": "A SPARK unit survives a mission it started with less than half health",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/C3B946D0A20F6274F73D548AB54A736A90AABDBF.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bells and Whistles",
+      "trophyDetail": "Outfit a SPARK unit with the highest tier weaponry and armor",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/A112B4D54C07B4A63ED70375D191908EB7A3BA4A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Always be Shooting",
+      "trophyDetail": "Hit three shots on a single turn with a SPARK unit after using its Overdrive ability",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/2D12D05D8BEDE8158DA10C9AE05500064ED7E760.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Axles to Axles, Bolts to Bolts",
+      "trophyDetail": "Defeat a robotic enemy with a SPARK unit",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/8A290C0615DDF65C1AB357A928C8FC0F72C1E698.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just Like Dad Used To Make",
+      "trophyDetail": "Build a SPARK unit",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/E912509F59B8ECE141A780B534A01E397BEE5C34.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Make ‘em go Boom",
+      "trophyDetail": "Kill an enemy primed Derelict MEC before it can self-destruct",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/A7834AFE977A2B04CA048C178AE21CC3F559785A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A New Alliance",
+      "trophyDetail": "Complete the Lost and Abandoned mission",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/3E7D08241C42E6BB5600C354D1503228F1337FFF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Rival Silenced",
+      "trophyDetail": "Permanently defeat one of the Chosen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/6030CA8DA82E7BE165A696E964787C6215EEE197.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zombies in a Barrel",
+      "trophyDetail": "Get 15 Headshots against Lost in a single turn",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/634A32C1D2BD45CF8B4D1544CEDE75E4C8B40A14.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Born in the Darkness",
+      "trophyDetail": "Get four kills from Shadow mode with a Reaper in a single mission",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/BEA4DD870F8BD2A1107C9431581AE128F7428E62.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Circle of Psi",
+      "trophyDetail": "Raise a Templar to maximum Focus level, spend it all, and reach the max again in a single mission",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/F4DC3D16BD6478E52936C4F15D92C0F184FEABCE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Can't Stop the Fighting",
+      "trophyDetail": "Perform three offensive actions against the same target with a Skirmisher in a single turn",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/BEB416809F2F104E8120AC2101B50F6273025AEA.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It Takes Two",
+      "trophyDetail": "Form a level 3 bond between two soldiers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/AF3798CBCBD89CD93F82CAA288D7B4AE101253E8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weary Warriors",
+      "trophyDetail": "Complete a mission with all Tired soldiers and no casualties",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/679F15C01D822DBA48A72CBCFD1E8D4DDD08DF14.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fully Operational Resistance",
+      "trophyDetail": "Raise XCOM's influence with all three factions to High in a single game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/C05E02D6DF7B38782F00A831D8859A53B65A85E8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No One Left Behind",
+      "trophyDetail": "Rescue a soldier who was captured by the Chosen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/A661D0C1AF69DCC4C4240BD062C854539BB60704.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 81
+}

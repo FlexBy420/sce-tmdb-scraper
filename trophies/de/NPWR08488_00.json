@@ -1,0 +1,621 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR08488_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "PvZ Garden Warfare 2",
+  "trophyTitleDetail": "PvZ Garden Warfare 2",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/341A71EEC38A49D046360E2B28A99BEF5A1DA1C2.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 53,
+    "silver": 8,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "PvZ Garden Warfare 2",
+      "trophyGroupDetail": "PvZ Garden Warfare 2",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/341A71EEC38A49D046360E2B28A99BEF5A1DA1C2.PNG",
+      "definedTrophies": {
+        "bronze": 42,
+        "silver": 7,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Zwergus-Prüfungen",
+      "trophyGroupDetail": "Zwergus-Prüfungen",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/A6389C0AE4F8DCACF878E99F687578B598C69978.PNG",
+      "definedTrophies": {
+        "bronze": 11,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platin",
+      "trophyDetail": "Sammle alle Trophäen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/413601C1E8DC06160DBF8382528456C2B418B9EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Zeit, nach draußen zu gehen",
+      "trophyDetail": "Befördere einen einzelnen Charakter 5 Mal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/2196DD90707038C12FC0896CE9E0AD4B876916CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stern-vernarrt",
+      "trophyDetail": "Gib deinen ersten Stern aus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/D79B3D7E7C53D5693E7D3F6E0FFB2797AE733EC4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Durchgespült",
+      "trophyDetail": "Erledige 5.000 Zombies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/1FB694D6E1BA9BF2FCE8C224EBB0D8E5B401CD76.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oma Z sagt ...",
+      "trophyDetail": "Erledige 5.000 Pflanzen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/27A431C0E9E64148E843B1286F50B09C9FDAAEE3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Irrsinn",
+      "trophyDetail": "Schließe ein Kommando-Spiel im VERRRRÜCKTEN Schwierigkeitsgrad ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/ABEA59DB04D84E5B8ABEF8FECBF7B9A5BE4DA1AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wellenreiten",
+      "trophyDetail": "Schließe 100 Wellen im Kommando-Modus ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/59B4106A6D31EC5B9A29B4AAC49D70A45C7987BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nicht mein Boss",
+      "trophyDetail": "Besiege 3 Super-Boss-Wellen im Kommando-Modus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/A63246A3E42A7D8139AA4833E40E65BE5E8D1332.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Es ist meine Insel",
+      "trophyDetail": "Erreiche die Boss-Welle mit der Flagge der Macht auf dem Hinterhof-Kampfplatz.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/A22E4CB2177C16BE020D88DCD13C8AFC34DB5993.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Echt episch!",
+      "trophyDetail": "Schließe 10 epische Aufträge ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/A0774E0F3AD5FC1F279DF38B25E75758963B1FAD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Der Boss guckt",
+      "trophyDetail": "Erreiche den maximalen XP-Multiplikator auf der Auftragstafel.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/4099429ACD3B3F987D6F87FC79DC6B9C5CE0B972.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hof-Gestampfe",
+      "trophyDetail": "Erledige 50 Pflanzen mit dem Robo-Stampfer des Z-Mechs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/C7551602484736494D0AD29E4EFFF966B8BF86B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voll Pfirsich!",
+      "trophyDetail": "Lähme 50 Z-Mechs mit Zitrons EMPfirsich-Fähigkeit.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/E301394C92C9C4E9888AAED6758EB7931462B628.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Einfach einmalig",
+      "trophyDetail": "Erledige als Super Brainz 25 Pflanzen mit heroischen Fäusten und 25 Pflanzen mit heroischem Strahl.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/0092AC6BC8614539A54ACF75AB08821CDBDC9248.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mein Heim ist dein Heim",
+      "trophyDetail": "Erledige 25 Pflanzen mit Skorbut-Schrot und 25 Pflanzen mit Fernglas-Schuss.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/E2021BEE3A280C920923CB4A6B54FA8C22233CE0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spezialist",
+      "trophyDetail": "Befördere einen Charakter zum ersten Mal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/956EB7EF54B8A595C5FCB0DD224F2B46D58EF6A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Falkenmann",
+      "trophyDetail": "Verdiene einen S-Rang auf dem Verrückten Schießstand.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/2CF6830EB65829A4886458697523042EF2EEA635.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pogo vs. Samba",
+      "trophyDetail": "Zeige sofort eine Geste, nachdem du einen Spieler erledigt hast.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/F911AF9F9E0D423E08AFDCB47540CC77DAB848BD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spiel-Date",
+      "trophyDetail": "Besuche den Hinterhof-Kampfplatz eines Freundes oder lasse dich von einem Freund besuchen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/11AFC3C330D1469D249C60A589023512EDBA0DD6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wem kannst du trauen?",
+      "trophyDetail": "Erledige einen Freund auf dessen Hinterhof-Kampfplatz.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/B0EB2995280146D28E79C2BDF190F8A5B8566079.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Im Gleichge-WICHT",
+      "trophyDetail": "Wende ein Waffen-Design auf eine Zombie-Waffe an.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/2586823303780FF9E8BB09CAE65A7B4F7CC41C07.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vom Held zur Null",
+      "trophyDetail": "Erledige einen Gegner mit einer Topfpflanze oder einem Zombot-Geschütz.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/1E75B36D05FEDF29324A714054EE0B1336D55730.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hautwechsler",
+      "trophyDetail": "Wechsle in einer Einzelspieler-Kommandomission zu einem anderen Charakter.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/117313BEDC82C85D49E0DB147CB005D0DAEE82B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nur für VIPs!",
+      "trophyDetail": "Spiele ein privates Spiel mit deinen eigenen, benutzerdefinierten Regeln.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/0E98F5E2F0B6CFC4C07F4FF5FCBB770CA2A95E6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eine Ziege? Zapperlot!",
+      "trophyDetail": "Ziegenfiziere als Rosie 100 Zombies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/CC53E21D3E2BE363A3CC0ACA41A81182882A34F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ah, Spelzen!",
+      "trophyDetail": "Erledige als Major Mais 25 Zombies mit dem Spelz-Schrot.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/B625140D44FAC47D44D694BE56F82462443CF786.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mais-Identität",
+      "trophyDetail": "Betrete die Statistik-Zentrale der Zombies als Pflanze.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/1DDAA52EE72B8C255ADCB6F3DCBB1E50C8C708BD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Weg mit dem Zwerg!",
+      "trophyDetail": "Finde alle versteckten Gartenzwerge.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/6843D1914DB77AE2F13170D344B1A80587DD8FE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zwergenland",
+      "trophyDetail": "Betritt die Kammer der Zwerge.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/EB29E1A9224BC09B680521058353A042BF5FAED4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mein Z-Mech-Favorit der Citadel",
+      "trophyDetail": "Erledige als Pflanze den Z7-Wicht.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/58FFC3111D3613FB5278BD693B5996848B651AD7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Letzte Worte einer Ziege",
+      "trophyDetail": "Erledige eine Pflanze als Ziege.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/88849A25939EFF233BB0226CB7F8271A7457F82B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ziegen-Gelage",
+      "trophyDetail": "Verschlinge als Schnapper eine Ziege.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/7F0AB92B1BCDDC5E3CE2ACA45C9CC31E22B60FF3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hinter feindlichen Ranken",
+      "trophyDetail": "Betrete die Statistik-Zentrale der Pflanzen als Zombie.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/74A1D5413DF0A47EE7760A3250325FC92804116D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gerade gesprossen",
+      "trophyDetail": "Schließe „Spreng die Gräber“ ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/31CFFCB75DD91C566AA65B179A7B6C8AEEFBA143.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Auf den Kolben",
+      "trophyDetail": "Schließe „Untödliches Kommando“ ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/F66C5AC8EA3BA6219B564C15E44EE15D4E5DEC45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ihre Majestät",
+      "trophyDetail": "Schließe „Das ist ja schnell eskaliert“ ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/FB9450CCFD9C0A4C583B48571FE41699160A02CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mango-Tango",
+      "trophyDetail": "Schließe „Showdown“ ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/181AE5BBAE5AC3B9553D53C53FA13A768043F8C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fluchgeschützt",
+      "trophyDetail": "Schließe „Käpt'n Schmetters Fluch“ ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/6060C3EB61CB0BD685646D8FF86A55A438A65714.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mist!",
+      "trophyDetail": "Schließe „Mist!“ ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/5F3EF6DF6BAA5B51EBABC04F64071698385D491C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Die Bohnen-Situation",
+      "trophyDetail": "Schließe „Die Bohnen-Situation“ ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/1AC47148A96BECD146C955F572FA3EB190EF2616.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Goldene Aussichten",
+      "trophyDetail": "Schließe „Goldrausch“ ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/2DC1C1A94D46E65038D5CA6A40560ED2DA5B88DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Warp-Tournee",
+      "trophyDetail": "Schließe „Steve-Urlaub“ ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/D0CC9D48C268FF3DC29645576414BC8C1831B05D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Was für ein Trip",
+      "trophyDetail": "Schließe „Starker Kaffee“ ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/C9F16B89F59AEEF40496C3765095D276ADB766CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Wo ist der Haken?",
+      "trophyDetail": "Trainiere mit dem mysteriösen Fisch.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/439A9E6128E1D6C659F53003946377B3E0472872.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rasenpflege",
+      "trophyDetail": "Statte deinen Hinterhof mit einem epischen Gegenstand aus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/0F142655FD1FEB261D4D96D6A05DE3CA511DBB48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Westindischer Flieder",
+      "trophyDetail": "Betritt als Pflanze die Unendlichkeit.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/2D34A7D462F6840057B1F1F98AEB5E48BF311634.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "String-Theorie",
+      "trophyDetail": "Betritt als Zombie die Unendlichkeit.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/229A3A13149DB5856552991B418800799FF14E83.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "König des Sommers",
+      "trophyDetail": "Besiege den gelben Gartenzwerg-König.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/E6A1B83CE7A80A625ECA04951DB8F3D87A0F0676.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "König des Winters",
+      "trophyDetail": "Besiege den blauen Gartenzwerg-König.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/95DD143B348C932ECE03AB5BB65EF34FFF2B4B90.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "König des Frühlings",
+      "trophyDetail": "Besiege den grünen Gartenzwerg-König.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/9CFFEB4A95303651CADE46C9708BE4136A2D0574.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "König des Herbsts",
+      "trophyDetail": "Besiege den roten Gartenzwerg-König.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/70113623297ED911526C2721CD5272C1AC699297.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Grundfarben",
+      "trophyDetail": "Erledige Gnomus, den Gartenzwerg-König!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/71F3819247D2C86683FDEFC98ED5A405E5A1AFC3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Keine Tür, sondern ein Portal!",
+      "trophyDetail": "Schließe 3 Mysteriöses-Portal-Partien ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/CEFB9B468D30A6F59AD891709998271FCDF40D93.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Das Geheimnis der Geheimnisse",
+      "trophyDetail": "Entdecke den Geheimbereich. Was kann das sein?",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/84AF340F6B0D09E8B0C0BA151757DF0321B8C7E3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bosskampf",
+      "trophyDetail": "Betrete das Mysteriöse Portal und gewinne eine Boss-Jagd auf dem Schwierigkeitsgrad Normal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/2861B1A537AB3BEB02FB86C25A3FBF7BA56289B2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bosskampf-Boss",
+      "trophyDetail": "Betrete das Mysteriöse Portal und gewinne eine Boss-Jagd auf dem Schwierigkeitsgrad Verrrrückt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/691A48A48A570577D32B23D8E787BB737437EA68.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Teamspieler",
+      "trophyDetail": "Erfülle die Beitragsanforderung von 3 Community-Herausforderungen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/9EBC0AC4440E6B8D4DF7628C87E2606569AB3FAC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Das ist doch verrrrückt!",
+      "trophyDetail": "Betrete das Mysteriöse Portal und schließe ein Super-Mix-Event ab!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/9661E62969834D248FA2770CF4CA131A09C98351.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bosskampf-Spezialist",
+      "trophyDetail": "Betrete das Mysteriöse Portal und gewinne eine Boss-Jagd auf dem Schwierigkeitsgrad Schwer.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/22F067B724109BA6D02C953C58D76D6CAC0687F2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Verstanden, Miau",
+      "trophyDetail": "Betrete das Mysteriöse Portal und schließe ein vollständiges Spiel Katzen vs Dinos als Katze ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/7F05CD122C180BEBA3D4C9912783E24F2C0D48C1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Irgendwo hinter dem Regenbogen",
+      "trophyDetail": "Sammle 25 Regenbogen-Sterne vom Mysteriösen Portal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/B3E54AE4C2E1AE8CCB5B7C0BE2449E41CB34EF83.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Mehr Geheimnisse?",
+      "trophyDetail": "Neue Gesichter von verrrrückten Orten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/5596CB81FA264C9D9ADB4A7D0AD113A129045BD5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tür auf und auf den Boden",
+      "trophyDetail": "Betrete das Mysteriöse Portal und schließe ein vollständiges Spiel Katzen vs Dinos als Dino ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/691C16C1BD6870DDF21EDC489757D0AB1FD21C62.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gemeinsam zum Sieg",
+      "trophyDetail": "Öffne 5 Belohnungs-Truhen von Community-Herausforderungen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/C5852F06521CABAE90D3E8A23E27AAF78F69C127.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 64
+}

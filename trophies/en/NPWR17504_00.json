@@ -1,0 +1,573 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR17504_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Tower of Dragonasia",
+  "trophyTitleDetail": "Trophies for Tower of Dragonasia.",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/366AEAE63CCF2CF1159D47C4CDE2C18D68175058.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 52,
+    "silver": 6,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Tower of Dragonasia",
+      "trophyGroupDetail": "Trophies for Tower of Dragonasia.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/366AEAE63CCF2CF1159D47C4CDE2C18D68175058.PNG",
+      "definedTrophies": {
+        "bronze": 52,
+        "silver": 6,
+        "gold": 1,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Dragon Emperor of Dragonasia",
+      "trophyDetail": "Collect all other trophies! Thanks for playing!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/91ABFE71E07DCF94E188FF9EAA7880A178B7A3FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Grade of A Plus",
+      "trophyDetail": "Clear every level in Tower 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/F3F241E0831A6EA990A4309555C4B75C6C4F8434.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Looking Out For Number One",
+      "trophyDetail": "Clear every level in Tower A.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/0330F3AFD1DC473364F3BE6567D678AB90B2E614.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Dragon Slayer",
+      "trophyDetail": "Clear every level in the bonus boss tower.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/B86F7699B213ED18F57C753CD7BE7BE7348A9DC8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Little Dragon Big Adventure",
+      "trophyDetail": "Clear all 30 levels. (A little bit of cleanup, and this prairie's all yours!)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/4528414DDFFFD78A7ED6DF61DB0B083B47C1AC40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My Name Is Orde!",
+      "trophyDetail": "Clear the final level of any tower as Ordecoane Rondraken.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/99CC6FEC3D1A17835C6A36374551B973DA2F8F77.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I am the Glorious Carmine!",
+      "trophyDetail": "Clear the final level of any tower as Carmine Sulfurwing.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/D4737CC622FBF85840E5A645F8A228E215289486.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Eye of the Maoluong",
+      "trophyDetail": "Clear the final level of any tower as Maoluong Xinai.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/ED60ED8AE2A61C70DA51158E7A61AD066B588E55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "36 Treasures of Testdra",
+      "trophyDetail": "Clear the final level of any tower as Testdra Ellioton.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/78DA5424F14DF19025DB80E6F5CD0BC2C4521578.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Life of Black Tengu",
+      "trophyDetail": "Clear the final level of any tower as Lunella Tengu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/184151EDC8D8D25FD6497AA3CA86F6D9438090EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Sense of Pride and Accomplishment",
+      "trophyDetail": "Unlock every dragon.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/90576D8E3BB4691CE16B037E0FDB69EAD54ED74E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dragon Summit",
+      "trophyDetail": "Beat a level as every dragon. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/E456CA70C3B9B52B1BFFDBBA53D2DE0DC089BFCB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Orde Ω Carmine",
+      "trophyDetail": "Clear the final level of both towers as both starting dragons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/C4C793C1FCAD59A0ADBB37EFD2B2C249AA371CE1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To Fly With Dragons",
+      "trophyDetail": "Clear level 1-1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/A515A5131CD48A591D3E25B40DBD62DD3F34ABE6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breath of the Dragon",
+      "trophyDetail": "Clear level 1-2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/804A4A764EADCED73ECED74461A308E6B3AD4C09.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Xenial Dragon",
+      "trophyDetail": "Clear level 1-3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/BA8D48ADD24656345865D620A5A8E680FF894E49.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zesty Dragon",
+      "trophyDetail": "Clear level 1-4.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/E7A533139F051DD5257FA905E87170FF339BC8C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bionic Dragon",
+      "trophyDetail": "Clear level 1-5.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/8CE23670985241A869658E207E0C3E423108DC12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dapper Dragon",
+      "trophyDetail": "Clear level 1-6.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/E4FF5F1F2CF688BD5F19461BD88228E309404E79.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fesity Dragon",
+      "trophyDetail": "Clear level 1-7.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/CE0DB3E7975F9857A17C403440EC482126CE93D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hardy Dragon",
+      "trophyDetail": "Clear level 1-8.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/16E95080079733301ECC4BCF5C3B32039917AC26.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jaunty Dragon",
+      "trophyDetail": "Clear level 1-9.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/8E0922BF73513C4D25D7C0A45423F2FF6B4F4C6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucid Dragon",
+      "trophyDetail": "Clear level 1-10.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/B04B24F9DF93833B6E35476A986C06B3137158B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Natty Dragon",
+      "trophyDetail": "Clear level 1-11.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/95CA8DE8D6E6AC73A8994C0163D98C1D3519C43B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Precise Dragon",
+      "trophyDetail": "Clear level 1-12.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/29D2D626C82DDC5987644B11FA45A7424FB3B9FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Raring Dragon",
+      "trophyDetail": "Clear level 1-13.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/A78FECA8144CAF029A6489B0847CA1FB7E00B6D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trusty Dragon",
+      "trophyDetail": "Clear level 1-14.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/42C1E043A8A934EA054F0E09159ADBC621E4AC5F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vivid Dragon",
+      "trophyDetail": "Clear level 1-15.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/5FBC4566047493201A8E05EEDA3FA11BB282AB9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Tower of Darkness",
+      "trophyDetail": "Clear level A-1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/6DF676EAE90604E4EF0E8B27A99A4E1014EF47DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Half Baked Dragon",
+      "trophyDetail": "Clear level A-2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/7B4D9D55A0DFCF23D64A0F3A0697BB951B28069B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yakkety Dragon",
+      "trophyDetail": "Clear level A-3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/A6FCFC47AF51A433D091D822C3F449AC9768C4AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Artful Dragon",
+      "trophyDetail": "Clear level A-4.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/F1808B5D68AE762B9FD760F2B516E43EC78DAA3D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cosmic Dragon",
+      "trophyDetail": "Clear level A-5.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/A94217273655D13EC84A8CBD8BBA7000EC69D3A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Edgy Dragon",
+      "trophyDetail": "Clear level A-6.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/71768A03974D15543D0AB226AFEAFD0DFAFBAC72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gusty Dragon",
+      "trophyDetail": "Clear level A-7.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/804F0D5053D1B5184FA69A703BD2BDA1350422A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Intrepid Dragon",
+      "trophyDetail": "Clear level A-8.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/B5C9CF63B90185C57A8D04352B711245423E733E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Karmic Dragon",
+      "trophyDetail": "Clear level A-9.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/F6158293AE248E249B1ABE05F90F104E7030162E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maverick is Best Boi... Dragon",
+      "trophyDetail": "Clear level A-10.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/13E0730E361AB0D2FC4AB4094C836E06710F1BFD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oneiric Dragon",
+      "trophyDetail": "Clear level A-11.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/AA41FD3505D9DC53047FF779BDF9F128C02095B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quantal Dragon",
+      "trophyDetail": "Clear level A-12.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/DC45938A97528CA7F2672EB1BC90C78C6FAB0868.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Saucy Dragon",
+      "trophyDetail": "Clear level A-13.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/4011E5D49CA23314B7650866E06D67A4DCBE7766.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Utopic Dragon",
+      "trophyDetail": "Clear level A-14.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/A657CEB7067C27481DC83920E28D1E9C64806F99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wily Dragon",
+      "trophyDetail": "Clear level A-15.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/5F4BFC0870F758AA1B1CFAC9EBC1D2D3782252B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Taste of Dragon Blood",
+      "trophyDetail": "Defeat your first dragon. (At least it's more economical than making soup out of their fins.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/D5F3A3C8507451B387EAB3339451DC53F997D532.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Almost Midnight",
+      "trophyDetail": "Defeat 36 dragons. (>,^)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/6B45C320CDFA244F1372F25352397E297CF83CA6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dragon Slayer",
+      "trophyDetail": "Defeat 500 dragons. (If you were a dragon, you'd be dead. Err, wait...)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/4C6394E922978C488036915F684E6FDABD1818B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Puzzling Dragon",
+      "trophyDetail": "Defeat 1000 dragons. (You're truly a top-rated dragon.) ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/D00ECA3DF286FD3A86438EA6A1AA54DFCDAC0395.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Grumps In",
+      "trophyDetail": "Clear the first level of both towers with both starting characters without having read through the instructions. (He's grump, she's grump. Who else is grump here?)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/E4857657F68C32EF978867B7AE5A49A56C57B858.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "World of... Dragonasia?",
+      "trophyDetail": "Clear a level again with a new dragon. (Some things make look different, but it's mostly the same level.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/6E2B62B34DFCDFF087A4157B4BBA9AEE4AC5C0E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Superior Fox",
+      "trophyDetail": "Clear a boss level playing as that boss. (Hoiyah! Ha! MISSION COMPLETE!)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/176673BAA210E73620DFC1D3F9BCD6EFEC889F2F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Do Dragons Dream of Otterrific Sheep",
+      "trophyDetail": "You have died. (Turned to custard like all our hopes and dreams.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/10C9FAB76877989D71B5CAB4770BB6C618F2CBED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Blue Dragon",
+      "trophyDetail": "Defeat Ordecoane Rondraken in the bonus boss level. \n\n(A knight of the Grail Code, Ordecoane has sworn his life to upholding valor and virtue, defending the weak and undoing the wicked. Though such ideals are deemed old and outdated, he believes they necessary to save King Budgerigar from the mysterious Tower.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/E4B073B14B30F9DECB63525602DE8431F9A0CD6C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Red Dragon",
+      "trophyDetail": "Defeat Carmine Sulfurwing in the bonus boss level.\n\n(A young esquire to the Dragon Knights, Carmine dreams of climbing the ranks and becoming the royal family's personal bodyguard. When King Budgerigar is taken to the mysterious Tower, she takes the opportunity to prove her worth.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/1B70C57E6D573EDC0CE9C4A0A6D26267F1F1E14E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Serpent Dragon",
+      "trophyDetail": "Defeat Maoluong Xinai in the bonus boss level.\n\n(An aged dragon from an ancient time, Maoluong is the last descendent of the fabled Dragon Gods. Past his prime to continue his bloodline, he rises from the sea of his ancestors in search of the mysterious Tower, knowing he will find cosmic peace within.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/E590CEFC28D8A2657683BC22B17451C728AE747C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Birb Dragon",
+      "trophyDetail": "Defeat Testdra Ellioton in the bonus boss level.\n\n(Driven by an insatiable greed unparalleled even among dragons, Testdra comes to the mysterious Tower not to avenge his fallen brethren but instead to aid their demise in hopes of gaining its ruler's favor, and the potential gold and untold riches it comes with.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/86D114F8B367C0C8B91D2DE85743CFB4B0198B8D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Frankensteinian Dragon",
+      "trophyDetail": "Defeat Lunella Tengu in the bonus boss level.\n\n(Until her creator returns, Lunella's sole purpose is to protect the tower where she was crafted and 'born' from intruders. Sometimes though, she can't help but feel prisoner to her own artificial body, and perhaps she may find her true purpose by leaving the tower walls.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/DF0304BBA6D7199E8567F8DE3307D82EFFC4E5DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Dragon's Tendance for Battle",
+      "trophyDetail": "Enter the training room with both starting dragons. (Is that a you-know-what reference?!)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/A8312891A70F7BE3AAFEDA9584178739F4C617F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dragons Who Crusade Through the Stars",
+      "trophyDetail": "Enter the training room with every dragon. (Now that you're ready to fight, you can approach whoever you want.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/7000AC22E8748F1D1126448A154B0C4E7BCC6DB9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Flying on a Golden Wind",
+      "trophyDetail": "In the training room, have the flightless dragon sandbag fly for 7 seconds. (Maybe these clipped wings aren't so muda muda muda after all.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/4432B8A97EB163236B1C3F94D568B2F7FFEEBBC3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fight Like a Road Roller",
+      "trophyDetail": "In the training room, attack the flying dragon sandbag at least 25 times. (Spin it to win it! And don't worry, spin can help that disabled sandbag fly again.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17504_00_00449BB1E39B263D33BFA861F2F7956C60FA05BDAA/7348D8ADA0BE681F46E210B76746FCC8E443BEA5.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 60
+}

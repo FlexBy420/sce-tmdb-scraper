@@ -1,0 +1,549 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR18424_00",
+  "trophySetVersion": "01.04",
+  "trophyTitleName": "Yaga-Trofeeën",
+  "trophyTitleDetail": "Trofeeën voor Yaga",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/40966107911FF0BCAE669434D29CA2D8E029A0B8.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 45,
+    "silver": 6,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Yaga-Trofeeën",
+      "trophyGroupDetail": "Trofeeën voor Yaga",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/40966107911FF0BCAE669434D29CA2D8E029A0B8.PNG",
+      "definedTrophies": {
+        "bronze": 32,
+        "silver": 6,
+        "gold": 4,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Wortels der Kwaad - Trofeeën",
+      "trophyGroupDetail": "Trofeeën voor Wortels der Kwaad",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/E55026AEB7B76E98C5F8FC1A4295DEE114CC5599.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Alle trofeeën",
+      "trophyDetail": "Win alle trofeeën in Yaga",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/773124C07541C357306C39D940CA43CD3CF6BE05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Een verguld cadeau",
+      "trophyDetail": "Geef een vergulde appel aan de tsaar",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/46C77F3C700AC422335CEF46D57308EC00AF8F6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Een gouden geschenk",
+      "trophyDetail": "Geef de Gouden Appel aan de tsaar",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/223AF8C747921E673BBF11A7C120D3844696D78B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Slecht geloof",
+      "trophyDetail": "Val alle oude altaren aan",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/4743ECA5AA635FC832EF748DA9B73929EE7F77E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hulp is onderweg!",
+      "trophyDetail": "Roep een gespaard wezen op om je te helpen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/86E29EE55577AB5B2FCFEE630946341C7BDDC632.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Kippendoder",
+      "trophyDetail": "Dood de dorpskippen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/26D6C3C3B4A8A5C0916BB013EE9B6488C00F7D25.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ding dong!",
+      "trophyDetail": "Sla de kerkklok",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/8EC92FC46FFFEC54038DE94196BA823610B89933.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "De bruiloft",
+      "trophyDetail": "Bereik het einde van het spel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/420CD698AA5CB030B4624BCBA036D8593DA12CD8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Ivan de Smid",
+      "trophyDetail": "Blijf een smid",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/FDEAFA708A7A4F96D6785ECBA820B7C3114F9CA3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Een dwazendood",
+      "trophyDetail": "Wees dwaas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/FE2E3F96E981113E4C78D4376F6004056DCE0D38.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Maria's raadsheer",
+      "trophyDetail": "Word een koninklijk raadsheer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/62C58E313C5C238B353D04067C88403A7E1E2A30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Grootmoeders wens",
+      "trophyDetail": "Trouw een strijdkoningin",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/214FCCFF714C0B389CADE73EAE46554B69E86845.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "De nieuwe kleren van de smid",
+      "trophyDetail": "Word de tsaar, alléén",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/33DF2D8FC658376749F9387C7D60BFC6CC17846C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Yaga's facepalm",
+      "trophyDetail": "Aanschouw Yaga's facepalm",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/C5220487229817F946F6065B4D028630EC656152.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Warme Hart",
+      "trophyDetail": "Probeer een paar keer te flirten",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/BB8EB3BCDDCCE7CE3742C9E82B9F433586433C00.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ondode vrijheid",
+      "trophyDetail": "Laat Koschei gaan",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/C25B3A398D3D3AC9BC5CB19A8F36E93F1DA9C341.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ondode gevangenis",
+      "trophyDetail": "Sluit Koschei op",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/0EE207E7D3EB51BFCF2F85EEFAEFB309984A9655.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Dood aan Pech",
+      "trophyDetail": "Dood een oude vijand",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/8EE9FD924678DF24C16700AE9FF63704D6785751.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Vriend van Pech",
+      "trophyDetail": "Spaar een oude vijand",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/9C6194DF7D8C52F87C8174150FB4F14EB35DD768.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Vermorzeld ijs",
+      "trophyDetail": "Vernietig Morozko z'n hart",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/16FB504CFD14B1C9A45A188C2EFCC527E2B2A384.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bruisend ijs",
+      "trophyDetail": "Help Morozko de liefde vinden",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/60A35CC5329A704AADE0FEC39673689476C6D7B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Duurt me veels te lang; dus niet gelezen",
+      "trophyDetail": "Sla een zorgvuldig gemaakte cutscene over",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/AAEA4175E8235E0E24A2B232C63460555A104C7E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Lege handen",
+      "trophyDetail": "Beëindig het spel zonder enig gereedschap te smeden",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/77D94B4ADC5BC05771686A3B254E2A0EB2A4B703.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ivan de Verschrikkelijke",
+      "trophyDetail": "Wees heel agressief",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/2E0D97A0CE75DBA8E718479B048DE481AE960C1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect gebalanceerd",
+      "trophyDetail": "Wees heel neutraal",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/B02485465469C5DADB1C5CA1317174677DC97E6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ivan de Dwaas",
+      "trophyDetail": "Wees heel dwaas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/E57F3A0A95C96B116B4786312284922856CEB7A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ivan de Hebzuchtige",
+      "trophyDetail": "Wees heel hebzuchtig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/FBBE6FB24E64C7FD040845F3DF219FCA33559DC0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ivan de Rechtvaardige",
+      "trophyDetail": "Wees heel rechtvaardig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/03AEA777D45857EA5F1C1A866ABA0544B09E2BD0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gekust door de zonnesteek",
+      "trophyDetail": "Ivan + Poludnica = Liefde",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/6215DB416671482278728489CE13006AA729D634.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Verenigd door verlies",
+      "trophyDetail": "Gestoorde man + Poludnica = Liefde",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/93B8DBE156B7826ABD398F0F3956008CE6C1ABC0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Liefde op de velden",
+      "trophyDetail": "Polevik + Poludnica = Liefde",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/680F8AD074D3A7CB84B13F78295F1652D1E47559.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rijk in geloof",
+      "trophyDetail": "Maak de priester rijk",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/A05D46249DCD318FDDB4DF09AF5CAE330CC86674.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Een handschoen op een stomp",
+      "trophyDetail": "Gooi een paar vijanden weg",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/783182238FC0BAAC7651E9C4D02A84363167EE2A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Een geïmproviseerd schild",
+      "trophyDetail": "Koppel een wagenwiel aan je armstomp",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/60925567625ECF4C5FA89ED2C2FD56C239527008.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kom hier!",
+      "trophyDetail": "Gebruik de kettingvork om een paar vijanden dichterbij te trekken",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/9E6084DA20E9CDD49B13E1993A9A9A88BCD30C65.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schatzoeker",
+      "trophyDetail": "Graaf een begraven schat op",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/95488D9244DB2C5BFE9362DBD8C92F1BC144399F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Niet alleen voor landbouw",
+      "trophyDetail": "Verander een sikkel in een wapen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/2236C3E296E63FAFECEF4C118B2AEEA2557DE92E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Belazer of Bedreig!",
+      "trophyDetail": "Hou de volgelingen van de Polevik voor de gek",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/DF3F0473FA1C83F3913C9C591D8F5EB47ADA784F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stilte in het Moeras",
+      "trophyDetail": "Help de Vodnik in vrede te leven",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/7A61BD3C7D0AA8D45A55530BD17F3BB26AF894AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Vrede in het Moeras",
+      "trophyDetail": "Laat de Vodnik in vrede rusten",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/6EC3CEBB50C27A7B1533805323A0AD5D4B04592A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Een modderig drankje",
+      "trophyDetail": "Geef het Modderige Water der Jeugd aan de Tsaar",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/F25E1DCF7F41DD4E445DD7FEF8F06D70FB3F2AC5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Een puur drankje",
+      "trophyDetail": "Geef het Water der Jeugd aan de Tsaar",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/4F9D2424018709F9B548B5BEFC9567ED59F89599.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "De Smid met één hand",
+      "trophyDetail": "Verlies een arm!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/46ECC462385012D7868AB8573CF39FE9C9240326.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hersenen boven Spierkracht",
+      "trophyDetail": "Doorsta met succes de test van de Raadselaar",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/FEE2E209439F9132A763AAB55CE33F8FAE9B072F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Een Kind in Hart en Nieren",
+      "trophyDetail": "Rust jezelf uit met drie speelgoedjes van het Snuisterijenkind",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/9E7CA4D0E56D8608F9AABD8E7E63A20CFCBB219A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Jackpot!",
+      "trophyDetail": "Breek de spaarvarken",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/4041E4F2D144C116254A4AB43B2A06D058A14095.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hé hé Kippendiner!",
+      "trophyDetail": "Help Kuma Lisa de kippen van Eikvallei op te eten",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/C6FE50C1C98C3F349B1E891DB5195252F1329676.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flexibele Smid",
+      "trophyDetail": "Neem het aanbod van de Stuhacs in plaats van het Magische Erts",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/6D505AD8BF679CB58E004F63112CC746CBA51AD0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gluiperige Vos",
+      "trophyDetail": "Help Kuma Lisa de kippen van de Stuhacs op te eten",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/E67F5AFE97A36D86AB5DEE2FF6BFC665106D1E99.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gluiperige Smid",
+      "trophyDetail": "Steel het Magische Erts zonder betrapt te worden",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/8762C05093A443A55733D54C89B2DC42EBFA3226.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Het Leven van 'n Boef",
+      "trophyDetail": "Voltooi het Woekeraar-verhaal",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/9040B631EA5B16EB14679A64F0B6CF13827C30D1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gotta Catch'em All!",
+      "trophyDetail": "Pak alle speelgoedjes van het Snuisterijenkind",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/76B9BD699F80DDAA71C837FA0EA6EC4754A68255.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moederliefde",
+      "trophyDetail": "Red de kinderen van de Vodnikmoeder",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/180ADA9A6B703549D47E5631529ABBE4CB97148C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "De Kracht van Vergelding",
+      "trophyDetail": "Dood Leshy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/C3FF156889D2F55D3A2B654DEB659A5C618D083D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "De Kracht van Vriendschap",
+      "trophyDetail": "Help Leshy de Houthakker te reanimeren",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/802302071E303AACBE8B628572555A3679B39FF4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "De Kracht van Vergeving",
+      "trophyDetail": "Bespaar Leshy zijn Leven",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/0882292B5CC4AF4E9949D2A5D1F6DEE1BEAA1CAA.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 56
+}

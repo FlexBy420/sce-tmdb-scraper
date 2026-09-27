@@ -1,0 +1,468 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR08004_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "SteamWorld Heist",
+  "trophyTitleDetail": "Набор призов для SteamWorld Heist",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/AAB52EFFB344BD959B49B7853960F301DAE45032.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 30,
+    "silver": 14,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "SteamWorld Heist",
+      "trophyGroupDetail": "Набор призов для SteamWorld Heist",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/AAB52EFFB344BD959B49B7853960F301DAE45032.PNG",
+      "definedTrophies": {
+        "bronze": 26,
+        "silver": 13,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Чужак DLC",
+      "trophyGroupDetail": "Набор призов для Чужак",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/53B68F73FE7C753210F3243970E0BF31C23FC39C.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Через всю Вселенную",
+      "trophyDetail": "Собрать все призы в SteamWorld Heist.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/C4734DE4E565D1E4136465CB54E106472AFE838C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Прилежный ученик",
+      "trophyDetail": "Пройти обучение.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/35424A625C61265C47E360FA4548D8CA52275975.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Гроб для Чоп",
+      "trophyDetail": "Победить главу Роялистов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/FD8C1ED3703005DFA80849AF1B8E8F4B734E160C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Долой королеву!",
+      "trophyDetail": "Победить главу Железок.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/5DA25BAA267FBAE22CCA80D771D58ABA4897853F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Спаситель Вселенной",
+      "trophyDetail": "Победить главу Вектрона.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/62933AB9E8394E4893EAD2DAB3F3C0F58FE55FC8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Легче легкого",
+      "trophyDetail": "Пройти игру на уровне сложности \"Простой\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/9749A30372A9E9BA3EB2D4EE8CDC3BCDF2A692D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Обычный мир",
+      "trophyDetail": "Пройти игру на уровне сложности \"Обычный\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/CE86732EA98C989D9284EAB267FEDAF47769B3C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Сын ошибок трудных",
+      "trophyDetail": "Пройти игру на уровне сложности \"Опытный\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/F85BE6E866980FF7B403A5D950DA7215F289564E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Тушите свет",
+      "trophyDetail": "Пройти игру на уровне сложности \"Ветеран\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/E0FB53F52F3B0D080B0FA78F8100E52301426B59.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Вы - самый лучший",
+      "trophyDetail": "Пройти игру на уровне сложности \"Элита\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/D254A2FE029C2A7071ACB1830F2D5BA2964E0243.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Взять \"золото\"",
+      "trophyDetail": "Пройти игру с золотым рейтингом в SteamWorld на любом уровне сложности.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/A7EFA35A42809B935AB7F934D87FF5A801F4006B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Выше только звезды",
+      "trophyDetail": "Пройти игру с золотым рейтингом в SteamWorld на уровне сложности \"Элита\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/AA8E9029DE072217C1074451BA6F9E8F7AF23A22.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Псы с городских окраин",
+      "trophyDetail": "Заработать 45 ед. репутации на Окраинах.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/A8C412D31DD6547D1EB33D9B32227A3512D16E11.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Сливки общества",
+      "trophyDetail": "Заработать 38 ед. репутации в Ядре.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/FFF8E5D12865850EB53F483AF7C9C1D1D032538F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Суперзвезда Дальнего космоса",
+      "trophyDetail": "Заработать 40 ед. репутации в Дальнем космосе.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/78D06BBFE1A465D377FD78CA6DEE1D8AFCB40C61.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Фулл-хаус",
+      "trophyDetail": "Нанять всех доступных членов экипажа (без учета DLC).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/C5ED47A1F2A4BF31FE9CE71738031F32C187F5B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "В десятке",
+      "trophyDetail": "Достичь 10 уровня одним персонажем (без учета DLC).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/76A1D9BBD1AF68341C27AB2DCA2E73E0859B538B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "В уровень",
+      "trophyDetail": "Достичь 10 уровня всеми персонажами (без учета DLC).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/3E7D4F06BA5AB9C11A98962BAE6BCEC0B37EC935.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Сразу видно - пробивной!",
+      "trophyDetail": "Нанести урон способностью Валентина \"Пробивающий выстрел\" сразу 5 врагам.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/A2ABCE8BAC1DAD4B72565A4741953F8D12359490.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "О, капитан, мой капитан!",
+      "trophyDetail": "Использовать лечение по области на членах экипажа (кроме Пайпер) 10 раз.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/82C5DA33B4B3EFA95744A38705B967E788435BAA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мое отмщение",
+      "trophyDetail": "Убить врага, запустившего \"Расплату\", с помощью \"Расплаты\" и \"Двойного выстрела\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/E60026DA592DF7E14089C651CCF3C3709F1D2FBD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Прямо как дома на ферме",
+      "trophyDetail": "Убить 5 врагов за один ход способностью Салли \"Бешеный пес\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/7ABDD82B3A22A52E6D6EE8B8B5D521EC1841B42D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Внезапно",
+      "trophyDetail": "Убить 50 врагов способностью \"Удар с тыла\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/E2DF4E27A83C1F10A571E221C2477779A6BBEC38.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Безумство храбрых",
+      "trophyDetail": "Спастись 3 раза за одно задание с помощью способности \"Храбрость\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/645BBF2A6020453B5B12B2F769A48CDAD705393A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Носферату",
+      "trophyDetail": "Восстановить 10 ед. здоровья за одно задание с помощью способности \"Вампир\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/BFAC3024002A56DCF1C83E02ECEF015BF129B01D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Пули отлетают",
+      "trophyDetail": "Убить 20 врагов отскакивающими пулями (учитывается по одному врагу за атаку).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/2125530ED35F11F0149B2327D5A85DF928FF0FFA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Хаос",
+      "trophyDetail": "Нанести врагам не менее 40 ед. урона одной атакой.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/2BCB29C3FB696D22FA83796CC1F35728601166FE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Оглушительный успех",
+      "trophyDetail": "Оглушить 25 врагов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/B3F1FAF19518B15B6D54D8C1A10E43D7C19D00FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Упала шляпа, упала на пол",
+      "trophyDetail": "Взять головной убор после того, как ваш головной убор сбили выстрелом.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/D14810D5D5DC0CC7D05DD5A75FFB0F19A872FFBD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Шляпу сними!",
+      "trophyDetail": "Сбить выстрелом и взять головной убор.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/64AAD451BCE2A4B1ED4D8F592BDCE945EBD2BE9F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Шляпу надел",
+      "trophyDetail": "Собрать 15 головных уборов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/E4AB095C421D9EF99219C4B04625958DB9847C0E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Безумный Шляпник",
+      "trophyDetail": "Собрать 30 головных уборов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/CD4B9D8C166E87B53C19C6D80B1156DA7C3AE92E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Шляпный вопрос",
+      "trophyDetail": "Собрать 60 головных уборов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/22CD5FE482FBAC5A39BDFEBA496DC17CD4BC6114.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Прошляпили!",
+      "trophyDetail": "Сбить 3 головных убора за одну атаку.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/C06FCB1B6D4BBB6D0055E50C1388E82234C2FD2A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Они стыдили Кенни :(",
+      "trophyDetail": "Комбинация головных уборов - знакомые все лица.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/D82F3E09605F25C63BB162D2ACAFA24F486F02D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Инди - образ жизни",
+      "trophyDetail": "Комбинация головных уборов - друг за друга горой.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/6FD84C5BE409F5BB5BCF1D1FC6390B3CBAFA5232.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Кавай",
+      "trophyDetail": "Комбинация головных уборов - какая милота!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/71AB0303195C337956AD098FB33D86593CE246B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Японофил",
+      "trophyDetail": "Комбинация головных уборов - влиятельная и интересная культура.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/EE8E9C4DC7D6DF4BD497D269044A9916E61857C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Царствуй во славу!",
+      "trophyDetail": "Комбинация головных уборов - поистине царственная мода.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/6FDC55C298226666BBD2C0182AEBC4F3ED407ED1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Планета животных",
+      "trophyDetail": "Комбинация головных уборов - сохраним дикую природу!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/6E373317007E9863116B070E19AB86AF856431D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Армейский стиль",
+      "trophyDetail": "Комбинация головных уборов - ТЫ записался добровольцем?",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/83E7B0E582F97AD88A22BB9D54A9F5D364947565.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Космический единорог",
+      "trophyDetail": "Начать задание, взяв \"Убийцу Единорогов\" и надев маску единорога.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/B000C1603D9E1D06DC3A337C7813F54F9EB6EB0B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Чужак",
+      "trophyDetail": "Нанять Фена.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/17F127AA89331AD21884D740502EF26A3A01D54C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Гром и молния",
+      "trophyDetail": "Убить способностью Фена \"Электрокольца\" 4 врагов за один выстрел.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/A5A77D1091F369DEB5A6371810F0FCBF04C01EB8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Модный приговор",
+      "trophyDetail": "Собрать все головные уборы в DLC \"Чужак\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/A00B3054D2B301ED1CBE58C8407453163D8139F8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Бездна, звезд полна",
+      "trophyDetail": "Получить максимальную репутацию на всех заданиях в DLC \"Чужак\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/74D3FE474BF8A08C95C418120C2A8B36F0EDBD5E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Оно того стоило",
+      "trophyDetail": "Победить Джестера.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/ED67418C9EBCA28BEDC2CBF8F3B3ED69B06B71CC.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 47
+}

@@ -1,0 +1,582 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR16431_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "Wolfenstein®: Youngblood",
+  "trophyTitleDetail": "Wolfenstein®: Youngblood -Trophäensatz",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/D9ED7835D6070D37CC10E652E2ED01D33DD3799B.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 54,
+    "silver": 5,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Wolfenstein®: Youngblood",
+      "trophyGroupDetail": "Wolfenstein®: Youngblood -Trophäensatz",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/D9ED7835D6070D37CC10E652E2ED01D33DD3799B.PNG",
+      "definedTrophies": {
+        "bronze": 54,
+        "silver": 5,
+        "gold": 1,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Youngblood",
+      "trophyDetail": "Schalte alle Trophäen frei.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/5344F1775ADBA6949A5DC33C48F859D445536B0E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Teamwork",
+      "trophyDetail": "Schließe eine Mission mit einem Koop-Spieler ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/694C04151594244B78834F82A4F654C5BB13737E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Widerständlerin",
+      "trophyDetail": "Töte 500 Gegner.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/3DDEDA972A22EA8A1B17534927396B6184BCBFC6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fliegenklatsche",
+      "trophyDetail": "Zerstöre 20 Drohnen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/E465F8CFE413F1D0366C42ABE929DEC03783A9D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unbewegliches Objekt",
+      "trophyDetail": "Töte 10 anstürmende Maschinensoldaten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/F0704E634AD452C79433048FCB832DD1B96CCA91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bomberin",
+      "trophyDetail": "Töte 50 Gegner mit Explosivwaffen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/F041B044EA0C6EC84AC24AB5C0B27B490F659E05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultimativer Ninja",
+      "trophyDetail": "Töte 50 Gegner mit Wurfwaffen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/3A19157A1F94F6F3DA098FCB3859B14083C4BF50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heimlich",
+      "trophyDetail": "Töte 50 Gegner heimlich.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/52510B99B50C47BBAAE6403A92AA9287DD51FDD8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schlitzerin",
+      "trophyDetail": "Töte 75 Gegner per Schleichangriff.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/CCCE779F535568857A4A0D2DEBFB2A864E39BD3F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schießwütig",
+      "trophyDetail": "Feuere 100.000 Schüsse ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/D0FA03296B191193B7FD66EE53F6D973F1F3AC4E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sammlerin",
+      "trophyDetail": "Sammle 250 Beute-Vorräte auf.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/EDD2B297C5A8882474D974F46D69D7555F23D219.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Roter Nebel",
+      "trophyDetail": "Verstümmele 150 Gegner.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/C1B47D89FF722EB5BADFA6C47951728D5DFBB1CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rasputin",
+      "trophyDetail": "Belebe 25-mal wieder oder werde 25-mal wiederbelebt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/D273E2D5CDE341037A7D2894C7A0DD78CC9DEF8E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eindringling",
+      "trophyDetail": "Passiere 10 Codesperren.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/4095FDA242546D61A60BBC3F7A9D58F58836D2AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Partisanin",
+      "trophyDetail": "Schließe alle Missionen ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/3351BDB952A26307AC08F0987E6338908FB9C4A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fliegerass",
+      "trophyDetail": "Töte 50 Gegner in der Luft.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/CCD2218F28401C40603B8370D052D1BCB9622758.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tödlicher Stachel",
+      "trophyDetail": "Töte 10 Maschinensoldaten heimlich.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/11C876CF3FB250AA6F19046DFA2C9859C29ED586.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Knallhart",
+      "trophyDetail": "Töte 100 Gegner mit Akimbo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/DC38B83D3A73CF78E284262FB457D9F2F926F98C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Das richtige Werkzeug",
+      "trophyDetail": "Töte 75 Gegner mit der Waffe, die gegen ihren jeweiligen Schild am effektivsten ist.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/E0EDBD6E4B3B61068117BC66CCAD2D8D60B51175.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schwere Artillerie",
+      "trophyDetail": "Hebe eine Hammerwaffe für später auf.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/931CB098F0F538473D118877C82A140529753302.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "American Football",
+      "trophyDetail": "Töte 50 Gegner mit deiner Rammbock-Fähigkeit.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/B9A17956C733BBB31557DFC73DA365ACDCD10C2D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Raubtier",
+      "trophyDetail": "Töte 50-mal einen Gegner innerhalb von 3 Sekunden, nachdem du dich enttarnt hast.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/E5756E9C8C4F06D5D132148E678CC02DDFDF5BDF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unterstützung",
+      "trophyDetail": "Führe 100-mal eine Geste aus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/7C52F73FD7B42A2F4365A8B04E80C3901CBC83DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Taktikfuchs",
+      "trophyDetail": "Verbessere einen Waffentyp vollständig.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/BDA3F83AA01989ADBCD06004E2E0D9555DBC2D6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vollausstattung",
+      "trophyDetail": "Erlange 10 Waffenverbesserungen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/9A9FD34261D4A57C9B0CCCA9AA8F9A9918DF8168.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Waffenspezialistin",
+      "trophyDetail": "Erlange alle aufgewerteten Waffenverbesserungen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/597A60C356366B248F23306705C0F68F9FCCF997.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Besser als zuvor",
+      "trophyDetail": "Erlange 5 Fähigkeiten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/6C392EECD6BC51473D2C046A7096F0B86D6E0E41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schon ganz schön krass",
+      "trophyDetail": "Erlange 15 Fähigkeiten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/C288E1284B1D4265D77612B10B2A3E8F60E927AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Superheldin",
+      "trophyDetail": "Erlange alle Fähigkeiten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/176FFC152987273CFF7BEFF3E4D91941C5212553.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zweite Haut",
+      "trophyDetail": "Erlange fünf Motorrüstungs-Skins.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/EC552DFBF4DA476DB450170DED9BFFB979B129F1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bruder 1",
+      "trophyDetail": "Besiege den Wächter von Bruder 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/E7D4252C87E6113CC7AE1221E61E5FE01FDAED77.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bruder 2",
+      "trophyDetail": "Besiege den Wächter von Bruder 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/B11DB7EDAAC168495FEBDAF753402E475BA0A466.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bruder 3",
+      "trophyDetail": "Besiege den Wächter von Bruder 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/933B7D1A2BB07FB848DC2298EE203E659428EFA7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gottesschlüssel",
+      "trophyDetail": "Finde den Gottesschlüssel.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/D6DDF417789232906CBEDD7FCE6160F442607DAD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Vor aller Augen",
+      "trophyDetail": "Betritt Labor X.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/0ABED6B30CA4915F7FED5FCDEF5470CAEA029C46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Weltbester Papa",
+      "trophyDetail": "Triff deinen Vater.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/ACA6D8EADE70F1B5A097B3EFFB61CA9B35EB0B22.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Unter Freunden",
+      "trophyDetail": "Schließe dich dem Widerstand an.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/2B453ED46792B7F5735D2F1B0A59D80D9FE8408B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Luftschiffabsturz",
+      "trophyDetail": "Besiege Winkler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/5DB569D80302FD7CEED5A2606B170314872DD0AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Entdeckerin",
+      "trophyDetail": "Öffne 200 Vorratskisten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/77B99A935CAC483F0BDC1947AFE6FDE4057D88CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Große Entdeckerin",
+      "trophyDetail": "Öffne alle roten Vorratskisten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/98E448505EF95B29DE9E5F7738F7B5F7976A619A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tribut",
+      "trophyDetail": "Besorge dir das Souvenir aus Dunwall.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/BC18600B1014634B9B0DC5CBF190D386473C3484.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Audiophil",
+      "trophyDetail": "Finde alle Kassetten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/F4D584D02E3C2C80105F98B8E857B62DDC98B079.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bibliothekarin",
+      "trophyDetail": "Finde alles Lesbare.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/FEBBAD8DF4E7FB80B6D947BF9A8EA49D66CA12D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hackerin",
+      "trophyDetail": "Finde alle Disketten.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/5043AD9C53B93EAD8C9C817F158516A6980D1E18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "3D",
+      "trophyDetail": "Finde alle 3D-Brillen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/1CF4DF3E64FA556F8FC83ECA40887958B016519E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bänkerin",
+      "trophyDetail": "Finde 60.000 Silbermünzen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/90A8D356256A396534A409D6092E34B7A8DCA483.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dunkle Zeiten",
+      "trophyDetail": "Besuche jeden Ort im Untergrund.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/FB8F7599D1BD88443CC049A3EF66EB1A7B377041.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Filmliebhaberin",
+      "trophyDetail": "Finde alle Videokassettenhüllen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/C4CCB50421CD60DDB4914603F6FB62D56A2615FE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eine-Frau-Armee",
+      "trophyDetail": "Erreiche Meisterungsstufe 10 mit allen Waffen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/696ACF99CEBEC9C39D2D45B427E0333C5CD820B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Revolverheldin",
+      "trophyDetail": "Erreiche Meisterungsstufe 10 mit der Pistole.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/4AB7AA38279009850FEE0174A93BFBD3BE192060.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dauerfeuer",
+      "trophyDetail": "Erreiche Meisterungsstufe 10 mit dem Sturmgewehr.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/1F13C87B00E9C9ACC94A896BF7E61CEADDD95F44.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bleigewitter",
+      "trophyDetail": "Erreiche Meisterungsstufe 10 mit dem Kugelgewehr.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/EA0B4143445FEFE617A80150A114D8C24A7B2B1E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elektrikerin",
+      "trophyDetail": "Erreiche Meisterungsstufe 10 mit dem Elektrokraftwerk.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/A30AD7A5C66D422C3F21C3D323C912EDB2F5A507.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Staub zu Staub",
+      "trophyDetail": "Erreiche Meisterungsstufe 10 mit dem Laserkraftwerk.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/4F84132E7753F5F0B6EDA1D70F220ADB378CDBA8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demolition Woman",
+      "trophyDetail": "Erreiche Meisterungsstufe 10 mit dem Dieselkraftwerk.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/499CDE8239B70B54E38D7C1B2F0A9C552C356757.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hammerzeit",
+      "trophyDetail": "Erreiche Meisterungsstufe 10 mit einer Hammerwaffe.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/7A6535537CC9F45CD932925C8C8290FFADEEF5C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Donnerschlag",
+      "trophyDetail": "Erreiche Meisterungsstufe 10 mit dem Blitzgewehr.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/ADDEBBE61B6ECD2756A0ECE8D93E9F152A948745.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voll draufgehalten",
+      "trophyDetail": "Erreiche Meisterungsstufe 10 mit der Maschinenpistole.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/C90ACA65ECF1611E9372F4B84FBBDC36495029D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schnetzelkünstlerin",
+      "trophyDetail": "Erreiche Meisterungsstufe 10 mit einer Nahkampfwaffe.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/A68E6BBB855EADD3D26D6EE03239AA9704C47CE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gottmodus",
+      "trophyDetail": "Töte 50 Gegner mit ihren eigenen Kugeln.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/777492CC9CF11E33DA7935F5FF8AA6F3D6137C29.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Vive la révolution!",
+      "trophyDetail": "Töte Lothar.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16431_00_007ADCCA79B1F1299DEA07BC6BC55BBCFA81081A68/12BEBE4170C64653807D19A393950B497B417C13.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 61
+}

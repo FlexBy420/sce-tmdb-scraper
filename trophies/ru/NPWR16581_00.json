@@ -1,0 +1,987 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR16581_00",
+  "trophySetVersion": "01.05",
+  "trophyTitleName": "Graveyard Keeper",
+  "trophyTitleDetail": "Самый недостоверный симулятор средневекового кладбища. Строй и управляй своим кладбищем, исследуй подземелье с монстрами, создавай, строй, стань фермером и алхимиком, выполняй квесты и сжигай ведьм.",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/AC6691A7ADFBF68A906F2132CE69134FC0C58570.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 97,
+    "silver": 3,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Graveyard Keeper",
+      "trophyGroupDetail": "Самый недостоверный симулятор средневекового кладбища. Строй и управляй своим кладбищем, исследуй подземелье с монстрами, создавай, строй, стань фермером и алхимиком, выполняй квесты и сжигай ведьм.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/AC6691A7ADFBF68A906F2132CE69134FC0C58570.PNG",
+      "definedTrophies": {
+        "bronze": 58,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Stranger Sins",
+      "trophyGroupDetail": "Stranger Sins",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/28486F1F1C644C06EBB8089D7A6402471AFF0ED5.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Game of Crone",
+      "trophyGroupDetail": "Game of Crone",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D809BFEC1B54BC1103277012A4889E804A20E430.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Better Save Soul",
+      "trophyGroupDetail": "Better Save Soul",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/C39262B9E052A6B3DC82B1BC5754226B97F2AC66.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Собери все Трофеи.",
+      "trophyDetail": "Собери все Трофеи.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D8C9A071FF0875EFB3822FDA45BDF62E5B345706.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Начинающий могильщик",
+      "trophyDetail": "Похоронил первое тело.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D7BA6FC647EB2E585C33F4D57FAFDA21E1633355.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Опытный могильщик",
+      "trophyDetail": "Похоронил 10 тел.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/2042F2CD7FA4C3673A47A07904DD88A1870E8D5E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер лопаты",
+      "trophyDetail": "Похоронил 50 тел.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/1C257E262FC25C825A4D81B913A597D50B44A877.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первый кусочек",
+      "trophyDetail": "Твой первый кусочек мяса. Пахнет странно, но выглядит как обычное мясо...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/01105AEC693EF29613E35D43B2E8B25BE214473A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер сашими",
+      "trophyDetail": "Нарезал 30 кусочков. Теперь ты чувствуешь, как сделать идеальный размер и срез.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D43DC29AE6552255971E15E6B6F888B77511D759.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Его дом",
+      "trophyDetail": "Улучшена церковь.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/9F017DD2D3B8D084EEB1A5E411489E3E22CA83DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Его особняк",
+      "trophyDetail": "Улучшена церковь второй раз.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/5EF84C84D7077615F4017357E9C9953DADF33B6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Рыбный день!",
+      "trophyDetail": "Поймал 6 разных рыб. По рыбе на каждый день!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/ED1AE7CA5E3404267CDF36370CC7F00F1B431ECE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Коллекционер рыбы",
+      "trophyDetail": "Поймал 10 разных рыб.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/60A64BDBD984EF50A65351B274F7663B44B9D01B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ихтиолог",
+      "trophyDetail": "Поймал 15 разных рыб. Теперь ты знаешь о них все. Рыбы начинают что-то подозревать...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/B75632AF624A5283001A371D6FF2C0FDC6755B78.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Матёрый рыбак",
+      "trophyDetail": "Поймал 200 рыб. Твоё имя используют чтобы пугать непослушных червяков.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/60B17C6B44C3D2AC7DAB0DA71C5D60A5C289D9A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Золотая рыбка",
+      "trophyDetail": "Поймал золотую рыбку. Хочешь загадать желание?",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/7A40DD4BFB38D5EE8709E3403A2CD12CCC97E31E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Поваренок",
+      "trophyDetail": "Приготовил 10 разных блюд и напитков.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/9EE99E9F8051411EA53697C9D7BD4834DE39EAF1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Повар",
+      "trophyDetail": "Приготовил 20 разных блюд и напитков.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/2167F29A701B92DC0F1EBFA0688708C28EE6E0BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Шеф-повар",
+      "trophyDetail": "Приготовил 30 разных блюд и напитков. Можешь называть себя \"Шеф-повар\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/65F8C44E9F3FF4C13ACBF96DC6384EA1B62DC69D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ужин мечты",
+      "trophyDetail": "Приготовил золотозвездочный ужин.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/F42BB07353C3DBB32128C5CF676600D4EEF87452.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Вкус дома",
+      "trophyDetail": "Съел рыбную палочку. Напоминает о доме...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/DA57A7879EDA2F919D5B2DEDD67AB198F23B8CBD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Подмастерье",
+      "trophyDetail": "Открыл 5 алхимических рецептов. Ты начинаешь понимать, как устроена лаборатория.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/1309D6AD7359A3081C32F46D4B0865A31BBBA549.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Алхимик",
+      "trophyDetail": "Открыл 10 алхимических рецептов. Только запомни: философский камень - это ложь!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/01499F6F6B1B85DE69694EF2C89859DC8951FAEB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер алхимии",
+      "trophyDetail": "Открыл 20 алхимических рецептов. Пора покупать фургончик и ехать в пустыню...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/9460A0C71EF9CB0B33D4FA600C2CA4793FF282FE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Забота о здоровье",
+      "trophyDetail": "50 эликсиров здоровья. И все красные!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/575632762EEF9C1F2EC22DD48C3BD0998E53C7ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Бессмертный",
+      "trophyDetail": "Должен остаться только один.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/11C6E20045447751BEFB46E3A4FD08F0E7692C6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Недалеко от поверхности",
+      "trophyDetail": "Пройден 5-й уровень подземелья.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/459BA75F219D1DCF794CA01A40A940C89FA81DBF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Страшные глубины",
+      "trophyDetail": "Пройден 10-й уровень подземелья.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/83A51851E5334E0462B8D2A5F553D02E7CE27D16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Глубже некуда",
+      "trophyDetail": "Пройден 15-й уровень подземелья.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/5DA5E1AA9E454164802DA5226901801E988715E7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Золотая тыква",
+      "trophyDetail": "Собрана золотозвездочная тыква.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/AC33D49CFCCF85C87AB8AB10F787559402402A2D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Винодел",
+      "trophyDetail": "Сделано золотозвездочное вино.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/8F8D731EB4D5A307AA379C643B71BA1EB8366903.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Старый астролог",
+      "trophyDetail": "Встретил астролога. Он выглядит мудрым, но уставшим от всего. Даже от жизни.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/3201C787D86AA7ED2CE530A64244F3BED82EA7B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Шарм собственной персоной",
+      "trophyDetail": "Встретил Миссис Шарм. Есть что-то необъяснимое в этой женщине...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/151D9AEE87B1E8E5B110D7084C07DD9691EEEE32.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Богатый купец",
+      "trophyDetail": "Встретил Купца. Он всегда готов заняться бизнесом. Главное, чтобы не в обед.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/3D429A6A4357E958011473188C239B360A4F65A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Святая инквизиция",
+      "trophyDetail": "Встретил Лорда Инквизитора. Жесткий парень. Тебе однозначно не следует враждовать с ним.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/AB0BDCA9BCF297F1D38D76698ED45F46ABC84488.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лапочка Епископ",
+      "trophyDetail": "Встретил Епископа. Его кредо - Молись, проповедуй и выгляди так, как будто выиграл в лотерею.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D76D9D6D9C00CB0615834123F6B90A6F00AC71AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мутный Снейк",
+      "trophyDetail": "Встретил Снейка. Он выглядит опасно. Ты начинаешь понимать, почему все называют его Снейк.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/656B5A1A923915C676F94080BEAFBAD4ECD4846C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Призвать курицу",
+      "trophyDetail": "Снейк призвал курицу. Кхм... Наверное, это лучше, чем ничего...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/19C4CC43CAB6597A7FD89418696F7AA1257A4F8D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Побочное задание",
+      "trophyDetail": "Убил охотника на вампиров. В жизни нет побочных заданий.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/EEA661F0B28BBB7B85AF4472B941C518CD510726.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Просто и стильно",
+      "trophyDetail": "Украсил Храм Тьмы. Выглядит лучше, чем твоя первая квартира!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/BED6EBDDE3A1BE1DC3E6F49840348908576394E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Не хотдог",
+      "trophyDetail": "Продал бургер на церемонии сожжения. Почему только ты не сделал хот доги?...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/7D23D5F46FE7DFCEAB835387A6FE18682E9FC1D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Три в ряд",
+      "trophyDetail": "Собрал 3 тёмных органа. Три в ряд! Инквизиции положен приз!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/39680D208D626358C253646C5C15117F678881D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ночной дозор",
+      "trophyDetail": "Избавился от засады стражников. Теперь ты еще и Хранитель Холма.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/BA068EEB407775BF4BDE0D9E1F32A79DC87DFD9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Парфюм",
+      "trophyDetail": "Отдал духи Миссис Шарм. Аромат вышел хорошим. На животных не проверялось.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/539FD1D61922194BDEAA0AB450CE4BBF34BCE1C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Идеальная песня",
+      "trophyDetail": "Получил идеальную песню. Теперь ты знаешь, как заработать миллион долларов по возвращении домой.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/11122AFFACEF972D8A4DAE03DE0B869A44A0F3AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Кладбищенские овощи",
+      "trophyDetail": "Начал дело с Торговцем. Отличной компании - отличное название!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/73F59EC7B67325119E44E0D775C5561B30FD6B40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "На каждой полке",
+      "trophyDetail": "Твоя фирма набрала 5 маркетинга. Нужны овощи? Обращайтесь на кладбище!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/F92AD248296936DC4BF231F50BACA4262757D8DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лучший продавец",
+      "trophyDetail": "Отдал золотозвездочную книгу Астрологу. Возможно, следует подумать о написании еще шести...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/F59573B6AA19733158DFBB9E08438B25D5395B4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Даже здесь",
+      "trophyDetail": "Починил сад. Ты действительно проводишь много времени здесь...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/968E91E182DA8D26834B90B44B9B47AF5BA3C1BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Каменный забор",
+      "trophyDetail": "Построил каменный забор вокруг кладбища. Твое кладбище теперь надежно защищено...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/96C84A80FBE3AC65E44B848B4301D4F3A74B7368.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мрамор",
+      "trophyDetail": "Создал мраморный карьер. Мрамор лучше камня.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/C42BC5E70736A22D3EA3F63969D19231284069C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Идеальный подарок",
+      "trophyDetail": "Отдал череп астрологу. Череп - лучший подарок!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/E5FA0D90B91DCDE38C04DEA41642C2F7BDD82D4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мельница",
+      "trophyDetail": "Починил мельницу. Больше ничего не нужно молоть руками.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/16EF9B6D14E670E1BA7609AE69B7173A62B7998A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Книга со смешными картинками",
+      "trophyDetail": "Отдал Некрономикон Снейку. Надеюсь, никто не будет им пользоваться как поварской книгой...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/B973549FAC9C5D431F41271C2CF8D49BDAFC084F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Строитель мостов",
+      "trophyDetail": "Починил мост. Теперь, что бы ни случилось, тебя всегда будут помнить, как строителя мостов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/EEA9FF394784E8988E107546BCC5D94382253556.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Немного зеленого",
+      "trophyDetail": "Собрано 1000 зеленых шариков. Они не исчезнут ночью. Так что это было просто.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/CD644708005D89E04C67E31554B2DEF4BAD24E6B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Немного синего",
+      "trophyDetail": "Собрано 1000 синих шариков. Они не исчезнут ночью. Так что это было просто.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/218D2980E326816FFCE227F34A2745A07B499FD2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Немного красного",
+      "trophyDetail": "Собрано 1000 красных шариков. Они не исчезнут ночью. Так что это было просто.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/2A282947DFF64B65E2A0B56C122416A26BB9646C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Больше зеленого!",
+      "trophyDetail": "Собрано 3000 зеленых шариков. Хорошо. Теперь это выглядит серьезно.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D94F7C2BC82887E0B599641FF80516A1DD67D11B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Больше синего!",
+      "trophyDetail": "Собрано 3000 синих шариков. Хорошо. Теперь это выглядит серьезно.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/723D2D4AA69F2EECF6306FB41CAE885D17AADD48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Больше красного!",
+      "trophyDetail": "Собрано 3000 красных шариков. Хорошо. Теперь это выглядит серьезно.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/FBF3BF1B067C497BE8D7B9B5481A71833EAA8D1A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Назад домой",
+      "trophyDetail": "Включил портал. Ты точно хочешь уйти?",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/925EDFE93169FAD725FB280CABAB7C8DFABBA6BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Блудный отец",
+      "trophyDetail": "Помог астрологу объединиться с семьей.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/C878F8D2F87677A2B20D57C508CB67B9CDFEFA7C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Два брата",
+      "trophyDetail": "Помог торговцу простить брата.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/0DB4C8568080207DB3DF9B4F745F2A9DD6F3F0BD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Отец и сын",
+      "trophyDetail": "Помог Снейку с темной церемонией.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/FB7C7FD0B61B1706B99C43789956732AABDF82A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "А он тебе доверял...",
+      "trophyDetail": "Предал Герри. Тебе не стоит этим гордиться...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/BC60B683253E59658FB4522284EBDF971FA0BD73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Землевладелец",
+      "trophyDetail": "Купил свою первую землю в Деревне. Обманув беспомощного больного старика",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/33ACAF81F669CA2C82581F2D4ECC5D14559C9562.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Эпически успешный череп",
+      "trophyDetail": "Качество твоей таверны -- 80! Это более, чем более, чем круто!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/B33D4EDE20AE4B46235A48A6FE76F6C06246DA17.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Работник месяца",
+      "trophyDetail": "Нанял Йорика барменом. Без зарплаты. Рабовладение? Нет, он ведь деревянный!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/FF2BCB593271C8E678472564F748D38C4B7C1068.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лучшая вечеринка",
+      "trophyDetail": "Устроил великолепную вечеринку. Похоже, пора пристраивать к таверне вытрезвитель.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/B9685DCE65A9782B13DCB69B344B5D8EE15F1CA4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лучший микрофон",
+      "trophyDetail": "Устроил великолепное Комик Шоу. Трудно поверить, но гости смеялись без всяких команд!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/9ECE395DE601846D40EAE9FC32F01C52F3EC908C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лучший концерт",
+      "trophyDetail": "Организовал великолепный концерт. Шармэль получила 7 предложений руки и сердца.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/2541F41D75987F1404A6CCE24CAABBCC118023FF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лучшие бега",
+      "trophyDetail": "Организовал великолепные крысиные бега. Два гостя проиграли всё и утопились.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/4CFB7EB74C5B6DDDF00DC64B97D1935EB58D7091.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Шоу должно продолжаться",
+      "trophyDetail": "Организовал 15 мероприятий. Да ты прирождённый ивент-менеджер!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/DCC4C80CD86C04CF3789567EB016D73AE52A6B7A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Свидетель",
+      "trophyDetail": "Наблюдал призыв Мастера. Ощутил Благодать?",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/7CD58D0F85EEA46BD130B266F38C4E84485D91FF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Нация разделена",
+      "trophyDetail": "Наблюдал сцену в Колизее. Пособие по безработице -- наше всё.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/99CC0C86243DF79F0ACFC4190A723F8A2725AD85.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Да здравствует король!",
+      "trophyDetail": "Наблюдал разрушение Моста. Всегда думай, прежде чем разрушать мосты!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D935D1DD0D2AC735FD84A7281DBEADEE71A4B14C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Читай перед подписанием",
+      "trophyDetail": "Наблюдал подписание Контракта. И кто они, эти \"истинно виновные\"?",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/43362C01D505748D61E687576A37872F045EF201.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Король Герри",
+      "trophyDetail": "Наблюдал сцену в бане. Ты ведь давно обо всём догадался, верно?",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/61DC5E649CBBE46D6D7C060BBA94A5471139DED2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лицо твоего врага",
+      "trophyDetail": "Разоблачил вампира. Пора поиграть в сердитого ван Хельсинга!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/71828E628E8D3BC8B3040EF13276257724954854.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Поставщик крови",
+      "trophyDetail": "Принёс вампиру кровь трупа. Не особенно вкусно, но современные диеты ещё хуже!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/DB2C1E369BFDD753050580B6B28DCD2AAD4B9F0A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Таинственная женщина",
+      "trophyDetail": "Видел сцену из прошлого. Ничего не понятно, но очень интересно!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/DB3DD690E4BF2DFCBD102C930EA1DC6B34A684CE.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Уничтожить!",
+      "trophyDetail": "Все засады очищены. Терминатор и Рэмбо гордились бы вами.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/FDF255965243157EAF9C75BB3E19465AFDAE7E80.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Неумелый допрос",
+      "trophyDetail": "Допрашивал вампира Карла. Теперь Карл знает гораздо больше, чем раньше.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/8331032727D5F369A25062F052DD55E28FA5D8B0.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Между мирами",
+      "trophyDetail": "Поработал над чьей-то памятью. Можно добавить строчку \"Нейрохирург\" в резюме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/229974B05441026FE2D02CD97BEF4515C550373A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Меньшее зло",
+      "trophyDetail": "Леди Беатрис сделала вам предложение, от которого вы не можете отказаться.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/89A4C0907ABD3DAED04FED4267CCEE949F2B9BF1.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Беженцы в безопасности",
+      "trophyDetail": "Вы спасли беженцев. Добро пожаловать в чёрный список Святой Инквизиции!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/8CA91DA187BD9CB364202C959AE1C6DB2566D151.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Да здравствует Революция!",
+      "trophyDetail": "Революция свершилась. Пора понять, на кой чёрт вы вообще всё это начали.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/EEBC80337F84985AADC6239DD13EDAE9DB6BD0FC.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лагерь",
+      "trophyDetail": "Теперь у вас есть свой личный лагерь. И сотни потенциальных врагов в лице инквизиторов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/4E8B00B3204EE7E11FC96028804324B05208DF58.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Развитый лагерь",
+      "trophyDetail": "Вы улучшили лагерь. Теперь смерть беженцев от голода и жажды стала менее вероятной.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/5F8F8DEF0C4E74225C62BFB16F920AA068F22660.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Укреплённый лагерь",
+      "trophyDetail": "Вы установили в лагере защитные сооружения. Выглядят сомнительно, но местным нравятся.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/5741922873F7596A2C25B8CE4E6D38C9D7E316B2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Рай на земле",
+      "trophyDetail": "Ваш лагерь безупречен. Вы достойны написать гайд о создании лагерей!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/5942417B19E1C78C8B504BC435F8A716E39CA3FF.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 89,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Необычная доставка",
+      "trophyDetail": "Кому-то пришлось стать клиентом Ослиного Экспресса.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/DBF5458B54EDB683084A7E4A7C14A82C7CBFD073.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 90,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Долгожданное признание",
+      "trophyDetail": "Заставить Священника насладиться собой до мурашек.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/6F1563F2B3709A1216A07012A41A4B209FF2F352.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 91,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первый сеанс лечебной терапии",
+      "trophyDetail": "Начать лечение Эйриха.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/C1F7E2DB97E758E1D3CC6BE61738A91540787312.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 92,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Запланированное возгорание",
+      "trophyDetail": "На горящий огонь можно смотреть вечно, на Инквизитора - еще дольше.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/96D0976142737116811FCF3FED6BD5D6CD0D4FD0.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 93,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Удачное подношение",
+      "trophyDetail": "Поведать Купцу секреты тайной кулинарии.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/100A9D0567D37ACA467B57F305AABBD83CE2BAB8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 94,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Второй сеанс лечебной терапии",
+      "trophyDetail": "Продолжить лечение Эйриха. Он говорит, что ему лучше. Наверное.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/E99C52CE4728A3E38C003E02BDDFDAC3EB36B010.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 95,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Бесконечная тоска",
+      "trophyDetail": "Стабильность - признак мастерства. Даже если речь о тоске Звездочета.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D31677DE2CBDB1849A40D205AF87056528B3605F.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 96,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Зарождение страсти",
+      "trophyDetail": "Стать свидетелем немного смущающей сцены.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/55CFBFA01F2D27412E9E76E07F131ECBB63E59ED.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 97,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Уязвимость для авторитета",
+      "trophyDetail": "Даже у самых сильных и непоколебимых бывают слабые места.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/2ED3F2B9FE7431962A19765C06B7B79BDD76DCA9.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 98,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Третий сеанс лечебной терапии",
+      "trophyDetail": "Лечение окончено успешно, но Эйриху с виду не кажется таким здоровым.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/7B2DE558C84D6005D59E876ABD1830EB90600495.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 99,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Недовольные деревенские",
+      "trophyDetail": "Деревенские чем-то недовольны. Надейтесь, что не Вами.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/9B0C568B963A643C5FC2197BA148BB506B67A3A8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 100,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Довольные (вроде бы) деревенские",
+      "trophyDetail": "Их недовольство теперь должно прекратиться. Возможно.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/CA90BACF7BE2428FF979C55418DAF01392346BD0.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 101,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Возвращение к истокам",
+      "trophyDetail": "Лыбзика здесь уже ничего не держит. Пускай продолжает свой путь дальше - в его новое начало.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/4B9F7D01D85DD3CDE18EEC7632B565269A5AB322.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 102
+}

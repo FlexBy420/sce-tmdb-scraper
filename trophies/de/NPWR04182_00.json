@@ -1,0 +1,573 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR04182_00",
+  "trophySetVersion": "01.05",
+  "trophyTitleName": "Star Wars Pinball",
+  "trophyTitleDetail": "Spiele die Kugel mit unbegrenzter Annäherung auf den Star Wars Pinball-Tischen!",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/051FFC7C5DA567D496A5F396E2BF4E3345F2A48A.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 40,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Star Wars Pinball",
+      "trophyGroupDetail": "Spiele die Kugel mit unbegrenzter Annäherung auf den Star Wars Pinball-Tischen!",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/051FFC7C5DA567D496A5F396E2BF4E3345F2A48A.PNG",
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 0,
+        "gold": 2,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Star Wars Pinball",
+      "trophyGroupDetail": "Trophäen für den zusätzlichen Inhalt: Star Wars Pinball",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/1BDE71E74CAE74E5A75FFDFE91A5727CBEAB9F71.PNG",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Star Wars Pinball: Balance of the Force",
+      "trophyGroupDetail": "Trophäen für den zusätzlichen Inhalt: Balance of the Force",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/556FD9CCD14AD9B00FA27FEE598C386B8FF6896A.PNG",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Star Wars™ Pinball: Heroes Within",
+      "trophyGroupDetail": "Trophäen für den zusätzlichen Inhalt: Heroes Within",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/D33D170DFC8F200A57C65D9EBF4A9A479D94592C.PNG",
+      "definedTrophies": {
+        "bronze": 12,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Star Wars™ Pinball: Star Wars Rebels™",
+      "trophyGroupDetail": "Trophäen für den zusätzlichen Inhalt: Star Wars Rebels™",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/E9B2E5728CBAA8F32720589F5DEE177E6D058EA8.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Star Wars™ Pinball: The Force Awakens™ Pack",
+      "trophyGroupDetail": "Trophäen für den zusätzlichen Inhalt: The Force Awakens™ Pack",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/EA82EA84080883EBB57DEDB00958241E9081CE97.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "006",
+      "trophyGroupName": "Star Wars™ Pinball: Rogue One™",
+      "trophyGroupDetail": "Trophäen für den zusätzlichen Inhalt: Star Wars™ Pinball: Rogue One™",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/1BC5AA21E927E68C1F851BBC70EC0179DFE5C068.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Galaktischer Forscher",
+      "trophyDetail": "Erforsche deine Sammlung, indem du an mindestens 3 verschiedenen Tischen spielst!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/A5FAEE7A260D0FE8DCEC094C5007340696FFFA75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Die Macht ist stark in diesem",
+      "trophyDetail": "Rücke einen Rang auf und werde ein Jedi-Padawan der Hellen Seite oder ein Sith-Adept der Dunklen Seite.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/372DCF809B58FDB86EA885F652D591EC84D90799.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fruchtbare Allianz",
+      "trophyDetail": "Versammele deine Freunde, erzielt eine Team Score von 10000!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/91666F35C918C30EF5250E5C7888D2299C839E63.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Möge die Macht mit dir sein",
+      "trophyDetail": "Werde berühmt, indem du ein Jedi-Meister der Hellen Seite oder ein Sith-Meister der Dunklen Seite wirst.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/1B5C71081C82C76243C08D690B0D497FA55C00E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Meister der Macht",
+      "trophyDetail": "Erziele die höchste Force Score unter deinen Freunden und werde der Meister der Macht!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/4C4D0CD35FE52758A2A2C0E702BB87A9F77E93AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Große Störung",
+      "trophyDetail": "Spiele weiterhin hart und erziele eine Punktzahl von mindestens 150 Millionen an einem beliebigen Tisch!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/DD144F440B67B000B7CB351FE9EEF8FAA7855CB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Erschütterung der Macht",
+      "trophyDetail": "Spüre die Macht und beweise deine Flipperkünste, indem du eine Force Score von 2000 erzielst!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/B6F75684CEFD98A2C61404DA5164248894961C1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Junger Herausforderer",
+      "trophyDetail": "Stelle dich der Herausforderung und schlage die Punktzahl eines Freunds, der besser ist als du, an einem beliebigen Tisch!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/064088D795D66B5D3EFB8CC6533BCD9CAE913AD1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deine Kräfte sind schwach",
+      "trophyDetail": "Dominiere deine Freunde und besiege zehn von ihnen an einem beliebigen Tisch.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/39F4189C4DB40BF13BC7E1266647EE34919E20FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Unaufhaltsame Bedrohung",
+      "trophyDetail": "Gewinne einen Online-Multiplayer-Lauf gegen 3 andere Spieler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/6D1ED5E0B0D0781C8A45CB285C947E9E68B61EE1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unter Vader war alles besser",
+      "trophyDetail": "Absolviere alle Spezialaufträge des Imperiums am Tisch Boba Fett!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/C5E768C56C60D74CA1080490AF19B135D7FEC89B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Im Dienste der Hutts",
+      "trophyDetail": "Absolviere alle Spezialaufträge des Hutt-Kartells am Tisch Boba Fett!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/232D5895EB409AFC7B7991F47F6E55D36DD2E22C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Triumph des Mandalorianers",
+      "trophyDetail": "Verdiene dir maximalen Respekt und entkomme dem Sarlacc am Tisch Boba Fett!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/7875EF265BF2F145BA106E4936757FE89DD47309.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ziele auf die Beine",
+      "trophyDetail": "Gewinne einen Kampf gegen einen AT-AT Walker am Tisch \"Star Wars: Episode V\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/D9F5B4FEE09CC94CEC77556853F105622AE67466.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Du suchst Yoda",
+      "trophyDetail": "Erhalte eine Auszeichnung von Meister Yoda am Tisch \"Star Wars: Episode V\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/EDFACC6C682C1AFBC50D193B771EBB064C0BABFA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bringe Gleichgewicht in die Macht",
+      "trophyDetail": "Starte Jedi und Sith Multiballs zur gleichen Zeit und erziele einen Balance-Jackpot am Tisch \"Star Wars: Episode V\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/BCC217D9439C6FFAFCAD87B2CE40BFCD4428FF60.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Point Rain",
+      "trophyDetail": "Transportiere mindestens 3 Klon-Troopers nach Point Rain auf Geonosis am Tisch Clone Wars.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/AC45C10470945763FB74954A6859CE84B0932CE9.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Der General",
+      "trophyDetail": "Verdiene dir den höchsten Rang, indem du das Klon-Training am Tisch Clone Wars mehrmals absolvierst.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/31C0DBB41A7521EF3955F175E496BA1862AED443.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Säubere die Welt",
+      "trophyDetail": "Säubere die Galaxis, indem du beide Sith Lords besiegst am Tisch Clone Wars.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/271C2A38B676355E5BDA63E46F6DA75ECDFC6851.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mechaniker",
+      "trophyDetail": "Repariere die Rampen, bevor die Zeit abläuft im Bombardierungsmodus am Tisch Star Wars: Starfighter Assault.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/AF451AB19FF5D68521AAEF6CDFA88A20E2F87E68.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Feuervorhang",
+      "trophyDetail": "Starte Barrage Frenzy und den Flotten-Multiball gleichzeitig am Tisch Star Wars: Starfighter Assault.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/AAA25D694685233FDAB0777B828BEE50CA4C6A02.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Flottenkommandant",
+      "trophyDetail": "Absolviere alle Schwadron-Missionen am Tisch Star Wars: Starfighter Assault.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/84E99FC779E2C9E7DE8435B397DA803DCAA48A1D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zielübung",
+      "trophyDetail": "Zerstöre 6 Ziele in der Zielübungsmission am Star Wars: Darth Vader-Tisch.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/95A9B99467BDD188EFDAF4A10FB4AD5F23B4F12F.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Traktorstrahl-Multiball",
+      "trophyDetail": "Arretiere 3 Kugeln und starte den Traktorstrahl-Multiball am Star Wars: Darth-Vader-Tisch.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/84BD02E4F009EAB0833DB79BC4D9485D842F653B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rebellenbasen",
+      "trophyDetail": "Zerstöre 3 Rebellenbasen am Star Wars: Darth Vader-Tisch!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/3637298F4D106D82C40AAEA80D0677420034088B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jabbas Kopfgeld",
+      "trophyDetail": "Erhalte eine Jabba-Auszeichnung am Tisch Star Wars: Episode VI.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/DCE6F631B609950DA9C8402B3E82A668D79EA68B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wohin fliegt das Shuttle?",
+      "trophyDetail": "Starte den Tydirium-Multiball zum ersten Mal am Tisch Star Wars: Episode VI.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/8048798CBA16273CB1304C7A152D64C47CE962E3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Untergang der Sith",
+      "trophyDetail": "Absolviere alle Szenen-Modi am Tisch Star Wars: Episode VI.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/47A30977337B4E4A8A653D63430A850DCDADD717.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sicherheit umgehen",
+      "trophyDetail": "Dringe erfolgreich in das Terminal im R2-D2-Minispiel am Tisch Star Wars™ Pinball: Droids™ ein.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/89B2D41CF55DD120620189BE8181F33882B1F81E.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bergbauoperation",
+      "trophyDetail": "Lass die Erzverarbeiter- und Magnetkran-Multi-Balls gelichzeitig laufen am Tisch Star Wars™ Pinball: Droids™.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/7F98CAD38CFCC9808C37C8830F703B930F0328E6.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flucht vom Sandcrawler",
+      "trophyDetail": "Absolviere die 5 Hauptmissionen und starte den Wizard-Modus, um R2-D2 und C-3PO bei der Flucht vom Sandcrawler am Tisch Star Wars™ Pinball: Droids™ zu helfen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/3476BB5036ADF07CB651CE9EC0446F2AD4D8498F.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Willst du irgendwo hin, Solo?",
+      "trophyDetail": "Triff ein Greedo-Ziel im Cantina-Minispiel am Tisch Star Wars™: Episode IV.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/998F461612BD22E6B9D9CECBD62A8D84B6CC5790.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Erster Schritt in eine größere Welt",
+      "trophyDetail": "Absolviere einen Trainingsmodus am Tisch Star Wars™: Episode IV.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/A860B1719F5F7BD3AF7AC4ADABD3B52D7A4AF381.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Toller Schuss, Kleiner. Das war ein Volltreffer.",
+      "trophyDetail": "Absolviere den finalen Modus und besiege das Imperium am Tisch Star Wars™: Episode IV.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/508CACF806AD35BA61D5E8FA317C87CC3E0AE406.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sag mir niemals etwas über die Chancen!",
+      "trophyDetail": "Fahre den dritten Schlagturm aus und erziele genügend Schlagturmtreffer. Betritt dann das Asteroidenfeld am Tisch Star Wars™ Pinball: Han Solo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/8B497ABC8D4979DC47199F583D57C95041B76EFF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "An diesem Ort kann es etwas heftig werden",
+      "trophyDetail": "Triff alle Ziele in der Mos-Eisley-Cantina, um Greedo zu treffen am Tisch Star Wars™ Pinball: Han Solo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/DB7E829E0504E598FB43B730924C84DE64D2809D.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Du hast nie vom Millennium Falcon gehört?",
+      "trophyDetail": "Erziele weniger als 12 Parsek im Modus \"Schnellster Müllhaufen\" am Tisch Star Wars™ Pinball: Han Solo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/96AE7118FE15C3CF8BF7FFB2707E5DB9B94578DA.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Macht! Unbegrenzte Macht!",
+      "trophyDetail": "Wende dich ganz der Dunklen Seite zu, indem du nur Aufgaben der Dunklen Seite erledigst am Tisch Star Wars™ Pinball: Masters of the Force!\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/C8B46B173A59D8648700560618B890530C5CBB10.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ich bin ein Jedi",
+      "trophyDetail": "Wende dich ganz der Hellen Seite zu, indem du nur Aufgaben der Hellen Seite erledigst am Tisch Star Wars™ Pinball: Masters of the Force!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/8141629BA5EC761350F6A8975E4A5D5D139E0251.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prophezeiung  erfüllt",
+      "trophyDetail": "Absolviere alle Kämpfe und sorge für das Gleichgewicht der Macht am Tisch Star Wars™ Pinball: Masters of the Force!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/A5564E828FABCC0DD423CF26BD1977B46CF3C40A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Der Sammler",
+      "trophyDetail": "Finde deinen ersten imperialen Helm am Tisch Star Wars™ Pinball: Star Wars Rebels™.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/852399E79D8687A6751039F4CFE5631C14AFFBBF.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schüsse in der Galaxis",
+      "trophyDetail": "Duelliere dich mit dem Inquisitor am Tisch Star Wars™ Pinball: Star Wars Rebels™.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/8C01C9D0941FE6AA3B8F555ADDE471F7DD581054.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Weg des Jedi",
+      "trophyDetail": "Arretiere vier Kugeln mittels der Macht am Tisch Star Wars™ Pinball: Star Wars Rebels™.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/8E9E9B2C5934346DF2137089CDC6567ACA2547B6.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Die dunkle Seite und das Licht",
+      "trophyDetail": "Besiege Kylo Ren in dessen Nebenmodus am Tisch Star Wars™: The Force Awakens™. (Nur Einzelsp.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/2B01E2DCAA46BF7E8BA6F4C5B6CE5B8CE979D268.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Es gab ein Erwachen",
+      "trophyDetail": "Absolviere die Handlung am Tisch Star Wars™: The Force Awakens™. (Nur Einzelsp.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/9DE487B0F555A987C9FD5DE813054A4265391CBC.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "In einer weit entfernten Galaxie",
+      "trophyDetail": "Löse mit BB-8 alle Netze aus am Tisch Star Wars™: The Force Awakens™. (Nur Einzelsp.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/01EBF54FD8C74665B762375449B5B492684FBF76.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sprung in den Hyperraum!",
+      "trophyDetail": "Arretiere eine Kugel im TIE-Jäger-Dock am Tisch Might of the First Order! (Nur Einzelsp.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/EE8D8C559ADC374BE0B77828920C6B05FE306A6E.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aufstieg der First Order",
+      "trophyDetail": "Starte einen Multiball auf dem Minispielfeld am Tisch Might of the First Order! (Nur Einzelsp.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/BC016908B7F2B54E9C0F351779A89E7D5A0616F6.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Beherrsche die Galaxie",
+      "trophyDetail": "Starte Beherrsche-das-Universum am Tisch Might of the First Order! (Nur Einzelsp.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/564283FFCF92753184BFBCA108E4BDFE6ACC4E45.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nicht messbare Kraft",
+      "trophyDetail": "Absolviere Krennics Zorn auf Stufe 2 am Tisch Star Wars™ Pinball: Rogue One™! (Nur Einzelsp.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/3B41B66D8F4AE45DB0DBAD63FBEA3187CBFC578A.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Entmilitarisierte Zone",
+      "trophyDetail": "Kassiere einen Super-Jackpot am Tisch Star Wars™ Pinball: Rogue One™! (Nur Einzelsp.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/E73520B1EE8C77CD2FB0C3CE1602541C05758F90.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ich Rebell",
+      "trophyDetail": "Absolviere alle Handlungsmodi am Tisch Star Wars™ Pinball: Rogue One™! (Nur Einzelsp.)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/96811BC3D9B13FE453E45C2311085ED5CCA10658.PNG",
+      "trophyGroupId": "006"
+    }
+  ],
+  "totalItemCount": 52
+}

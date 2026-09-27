@@ -1,0 +1,105 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR20934_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Bowling",
+  "trophyTitleDetail": "Bowling Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20934_00_000B523773C3408F6E77D8D6DD2997125149B48A9C/78EA531B56FDD45A4285B81A92B91E02CE7065E2.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 5,
+    "silver": 1,
+    "gold": 2,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Bowling",
+      "trophyGroupDetail": "Bowling Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20934_00_000B523773C3408F6E77D8D6DD2997125149B48A9C/78EA531B56FDD45A4285B81A92B91E02CE7065E2.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 2,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Spare",
+      "trophyDetail": "Do a spare",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20934_00_000B523773C3408F6E77D8D6DD2997125149B48A9C/6C3D4F32F752FF0135BA4F8958BD0E4A159F86DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Strike",
+      "trophyDetail": "Do a strike",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20934_00_000B523773C3408F6E77D8D6DD2997125149B48A9C/688756B5F2F4334D6E6CD878BA4F9377EFF3B923.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Miss",
+      "trophyDetail": "Throw 2 balls out of the lane",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20934_00_000B523773C3408F6E77D8D6DD2997125149B48A9C/09E8BB442B47ABD2B33BAFCD8EE91099B9B8F82F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Loser",
+      "trophyDetail": "Lose a match against Ai",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20934_00_000B523773C3408F6E77D8D6DD2997125149B48A9C/3ED5D494EEEFA1F88F6CDD9961B7B9A9CBB2D305.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Winner",
+      "trophyDetail": "Win a match against AI",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20934_00_000B523773C3408F6E77D8D6DD2997125149B48A9C/C9A464C29CF4A1C123DB446DEA8039FA51E18999.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Friendly match",
+      "trophyDetail": "Complete a multiplayer match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20934_00_000B523773C3408F6E77D8D6DD2997125149B48A9C/761743FFA27378EE6969A02D728706A2B16FBFD4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Perfect 10",
+      "trophyDetail": "Do 10 consecultive spares",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20934_00_000B523773C3408F6E77D8D6DD2997125149B48A9C/207262C1BD7A21BEB51C4BF3142B1DFDE378AAC7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Bowling King",
+      "trophyDetail": "Do 3 consecultives strikes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20934_00_000B523773C3408F6E77D8D6DD2997125149B48A9C/FE5FFABCA704627FC83C8F492FA6173904EE1FCE.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 8
+}

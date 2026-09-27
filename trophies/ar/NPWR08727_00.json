@@ -1,0 +1,798 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR08727_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Dishonored® Definitive Edition",
+  "trophyTitleDetail": "Dishonored® Definitive Edition",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/C1DF53A1E75FD8846A6A3473EF48097F81A53FDA.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 64,
+    "silver": 13,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Dishonored® Definitive Edition",
+      "trophyGroupDetail": "Dishonored® Definitive Edition",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/C1DF53A1E75FD8846A6A3473EF48097F81A53FDA.PNG",
+      "definedTrophies": {
+        "bronze": 42,
+        "silver": 5,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Dunwall City Trials",
+      "trophyGroupDetail": "Dunwall City Trials",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/8C25AC640202D1B6814DFB5EF7ECDDBD9F983064.PNG",
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "The Knife of Dunwall",
+      "trophyGroupDetail": "The Knife of Dunwall",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/7BF4D14FAB50816BD0D944877DFFB9599CE8A17D.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "The Brigmore Witches",
+      "trophyGroupDetail": "The Brigmore Witches",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/A25818A76BE346E565867A260AE5EA950C47783A.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Blades and Dark Corners",
+      "trophyDetail": "You have mastered the City of Dunwall and unlocked all Trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/6C0729FD8115C2107E1DC8D1C95A72FBF6B681D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thief",
+      "trophyDetail": "You pickpocketed items worth a total of 200 coins",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/F71DEC7D0DD6BBD8440911529828B0449D165EF9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Versatile",
+      "trophyDetail": "You killed characters with each weapon and offensive gadget ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/DA5B13FD1E80C9344507DD3F1E486C557E27CFE3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ghost",
+      "trophyDetail": "You completed all missions after the prologue, alerting or killing no one but key targets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/97D2A218D3E8BE50A860CE7162D784A02CE98619.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Shadow",
+      "trophyDetail": "You completed all missions after the prologue without alerting anyone",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/AAEDD1B4BBEDF9B8391395CB20D72C1BD3076E04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mostly Flesh and Steel",
+      "trophyDetail": "You finished the game without purchasing any supernatural powers or enhancements, besides Blink",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/AF72DF110FA9E92AB3EE5AA4800039CA37454594.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wall of Sparks",
+      "trophyDetail": "You killed an enemy with the Wall of Light",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/6FF6C2C5346933AA33F9F7C7504424C381EB15A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rogue",
+      "trophyDetail": "You assassinated 10 unaware enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/544C45448AE38973DD165F7E4E440C8918CF5F46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Specter",
+      "trophyDetail": "After escaping prison, you completed a mission, not alerting anyone and killing less than 5 people",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/3E7E22A15AC22751F1018236D72C880CD7C238DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Faceless",
+      "trophyDetail": "After escaping Coldridge Prison, you completed a mission without alerting anyone",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/389451C3C279DD2F2D309F29DB9DAE7BECF740DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Manipulator",
+      "trophyDetail": "You made others kill 5 of their own allies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/3126A5CCFEC38A120F7684719380C947C0486973.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Razor Rain",
+      "trophyDetail": "You killed 5 characters with Drop Assassination",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/B0AC3C1E7100B942B0D37451F23C51EBD5A6C98A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Surgical",
+      "trophyDetail": "You played from the first mission through Kaldwin's Bridge killing fewer than 10 characters",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/DFAA80807F6091376EB0C83D8EEED97811BDC0A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Clean Hands",
+      "trophyDetail": "You completed the game without killing anyone",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/2818077EE01BF87CB99DBDCACF4FF46846822AE6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Harm's Way",
+      "trophyDetail": "You caused 5 unintentional suicides",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/0B357FAB5BF6C3416217DE14D23A288C354E4BD0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inhabitant",
+      "trophyDetail": "You stayed in possession of others for most of a 3 minute period",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/22C6502620D9AE9B43639D9769929230AA7440E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hornets' Nest",
+      "trophyDetail": "You killed 4 enemies in less than 1 second using the crossbow",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/92AF07195070A31D42CF6F3F9060A60BB4FF8FFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Speed of Darkness",
+      "trophyDetail": "You traveled 30 meters in less than 1 second",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/51EA1D0EBD9F4C9C4134F58996265BBE1E57B502.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tempest",
+      "trophyDetail": "You killed 6 enemies in less than 1 second",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/9BB88DD54C6521DB186FDD8777F0363F7F70EB50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Merchant of Disorder",
+      "trophyDetail": "You acquired 15 equipment upgrades",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/DF9A3ABB68CE73D1C585EA6DBAA07FA05F861BFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Art Dealer",
+      "trophyDetail": "You collected all the Sokolov paintings",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/A81782A4BBFDEFAACA6E8F7CB8FB4E546114642D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Occultist",
+      "trophyDetail": "You collected 10 bone charms",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/3919699DD029B5F26A21D0D9B1C7A72BACD3194E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Escapist",
+      "trophyDetail": "After Coldridge Prison, you eluded 5 pursuers at once without killing them or leaving the map",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/D642D9918955E7EED61C5E8A6E80620D761AF4C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cleaner",
+      "trophyDetail": "You fought 5 enemies at once and none of them survived",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/614C6436A59E380717EACC08C4815D33FEE44CE6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dishonored",
+      "trophyDetail": "You escaped Coldridge Prison",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/A3E48E79A603D96DA70C4BF99E443955A3BCB9F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Excommunication",
+      "trophyDetail": "You eliminated High Overseer Campbell",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/3EA4BDFFE8DEC4549430964CD94D5BF862934957.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Child Care",
+      "trophyDetail": "You located Lady Emily Kaldwin, heir to the throne",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/CCFD6EE63124A93FD8C479EBBEB3226AC6D5FB6C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capturing Genius and Madness",
+      "trophyDetail": "You abducted Anton Sokolov, Royal Physician",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/328514665B85AFAC70390EA02FE577AD7042E8C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Regicide",
+      "trophyDetail": "You assassinated the Lord Regent, Hiram Burrows",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/FBECDA040AEC2D2C01FA9E10E87ABE1732B8080E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Political Suicide",
+      "trophyDetail": "You brought about the Lord Regent's fall from grace by broadcasting his crimes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/62955BE8F88662813A2F6BBEBC462BEEC7A59042.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "This is Mine",
+      "trophyDetail": "You recovered your belongings",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/63375A6C34621C12140746E3B4950D530B011A81.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Resolution",
+      "trophyDetail": "You completed the game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/DF9CA6DE098392FDEF98212F635C2849BBA87FEA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dunwall in Chaos",
+      "trophyDetail": "You completed the game in high chaos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/AF1C980D43F66B2BDF4E78D04D81A8EB00ED40B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Just Dark Enough",
+      "trophyDetail": "You completed the game in low chaos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/1EB237E31BE2CFB77966A20C388B8FF007FB2875.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Vanished",
+      "trophyDetail": "You escaped prison and navigated the sewers undetected",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/8B364C918D15FFEA964ED84CE5F8A541265D8F56.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gentleman Caller",
+      "trophyDetail": "You completed all the Granny Rags side missions",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/6C2E9B192FCD7F95100202A71A42DF516631A62D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Street Conspiracy",
+      "trophyDetail": "You completed all the Slackjaw side missions",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/20BC55E33E7DD60527F2C518D68A79B0A1213899.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Art of the Steal",
+      "trophyDetail": "You got the Art Dealer's safe combination for Slackjaw, but robbed the safe first",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/BB902348F33BD2FC9B97C7D21F529414EF12D6BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "An Unfortunate Accident",
+      "trophyDetail": "You killed Morgan Pendleton with steam",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/51CC82BFDFB2C6DED271DA9B9151BDB9A121BB3F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Well Mannered",
+      "trophyDetail": "You completed the Boyle Estate mission without spoiling the party",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/399224370B8D4E4951722F15AA81B11AD80FCE58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "King of the World",
+      "trophyDetail": "You reached the top of Kaldwin's Bridge",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/F2746A3CBBCE2812729B4C376D9844FEC68AB240.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bodyguard",
+      "trophyDetail": "You protected Callista's uncle, Captain Geoff Curnow",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/1FBD7CB8F40071C5C2C8C5ECF68FDBDEAE97025C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mercy is the Mark",
+      "trophyDetail": "You spared Daud’s life",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/A222B47C94957B3920A79FD841864D834D93D849.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lights Out",
+      "trophyDetail": "You deactivated at least 5 security systems on Kingsparrow Island",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/D333FA07134FD30769DDE2FDCB7D1CC7F4CBDB82.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Long Live the Empress",
+      "trophyDetail": "You saved Empress Emily Kaldwin",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/A80E2F67B83D6AFDE3A6D8E9410CD09DDB0728B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Poetic Justice",
+      "trophyDetail": "You neutralized all key targets using indirect means",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/1217FEF94B6766633DD25EBF51020E6AEA4B1C0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Food Chain",
+      "trophyDetail": "You assassinated an assassin",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/E060558D9F8CEDC44F13C2A7382A1433E27F6DED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Alive Without Breath",
+      "trophyDetail": "You took possession of a fish",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/D07A16028870BB1A4DB5C0159891A432244A8FF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Creepy Crawly",
+      "trophyDetail": "You used a rat tunnel ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/37F186F71C9EE388D466BCD50A99BF389EC28C4E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back Home",
+      "trophyDetail": "You grabbed a live grenade and threw it back, killing an attacker",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/7A1C9FDC930E35AC2A2EFD058B8BCD0D55A77B36.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Boy",
+      "trophyDetail": "You killed a tallboy using only your sword",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/1CDD3597B22AEAD365F1B540944C5FC3CFBAE482.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mrs. Pilsen's Remorse",
+      "trophyDetail": "You found Emily's doll hidden in each of the 10 challenges",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/372FFFCC0F8C078764E351368894D9537B322BD3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Void Star",
+      "trophyDetail": "You completed all Normal and Expert challenges with a 3-Stars rating",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/9F137209019E84C6610451F8533F2B4C80FEF392.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "By My Hand Alone",
+      "trophyDetail": "You made it to Wave 13 in Back Alley Brawl killing all combatants personally",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/A8851E85504B0AD35B33A43D4A43AC941D0B025E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Assassin Vs. Machine",
+      "trophyDetail": "You completed Train Runner before the train arrives at the station",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/B77DAB3BE5E2512974839D1268D78A8E9FCAEB5D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rare Collector",
+      "trophyDetail": "You found all of the collectable figurines in Burglar on Expert",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/5437F334E28AA6EC008B94387290A429ED27623A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Long Way Down",
+      "trophyDetail": "You performed a drop assassination of at least 150 meters in the Kill Cascade challenge",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/F267006D0FC0AC8C5D27E7E6D70149DB851C7999.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Headhunter",
+      "trophyDetail": "You completed Assassin's Run with 100% accuracy using only head shots",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/4F8964F4E62C7385C16D5DC905BD61B12CE26B93.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Daredevil",
+      "trophyDetail": "In Bonfires, you performed all the special combination jumps in 1 round",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/D461B1381352D53717872F36ADA51C19B5B69665.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Natural Talent",
+      "trophyDetail": "You finished Mystery Foe without using any active supernatural powers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/53E0122320F24959E121A5921D7604A99472A4AA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Time Management",
+      "trophyDetail": "You finished Chain Kill or Bend Time Massacre without failing any wave, including bonuses",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/C8E376BE0B1471948F3A430705F5F176A8CC6729.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just Business",
+      "trophyDetail": "You got the information you needed from the Rothwild Slaughterhouse",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/A58681D3A0DDD6E13698BB5E47D90E73E7D552A7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Missing Pieces",
+      "trophyDetail": "You obtained Delilah Copperspoon's identity from Thalia Timsh",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/3FA469FF80454749FD3019E31481899F14DF4A57.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Well Connected",
+      "trophyDetail": "You purchased all of the Favors in The Knife of Dunwall",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/A3F9FE899B0B8CA988DA235C280D41DF2B277833.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "No Regrets",
+      "trophyDetail": "You completed The Knife of Dunwall in High Chaos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/AC767F93D8AD5C376E6FF9A3A9FFE6C1726D224A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Redemptive Path",
+      "trophyDetail": "You completed The Knife of Dunwall in Low Chaos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/E461900E23770BABC090A39F74380F4CEEA97C50.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Whisper Ways",
+      "trophyDetail": "You completed The Knife of Dunwall without alerting anyone",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/307B684DB556EE1F54A9E88C5D4474CB108A878B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cleaner Hands",
+      "trophyDetail": "You completed The Knife of Dunwall without killing anyone",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/EB46D4BCB8658C56BC94390528A655287916943A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rats and Ashes",
+      "trophyDetail": "You caused a death using an arc mine and a rat",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/665E0C4CB820753D4447A90F0EA120375576D5EE.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Message from the Empress",
+      "trophyDetail": "You performed a drop assassination from atop the Empress statue in The Knife of Dunwall\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/F10E018987077A17818568B58645D5D03DDEFC9B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stone Cold Heart",
+      "trophyDetail": "You spoke with the statue of Delilah in Timsh's estate",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/B87DCFFC0BD12AFF1CDEE649CA1EAB2A2FD8CB0C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Parting Shot",
+      "trophyDetail": "You delivered (or attempted) the killing blow on Corvo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/57168C977065C443F3962C95497A55F79FADF749.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breakout",
+      "trophyDetail": "You broke Lizzy Stride out of Coldridge Prison",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/7E9BB970E8FF56B0690CD851CEC90C982CE453F4.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gangs of Dunwall",
+      "trophyDetail": "You restored the Undine to working condition",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/C4F65690D8439A3431D183788B1A2823841D3847.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deal Maker",
+      "trophyDetail": "You purchased at least 8 favors in The Brigmore Witches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/63F4C33B58F41DC4E7E93C206CD574148E4DF808.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "All Come to Ruin",
+      "trophyDetail": "You completed The Brigmore Witches in High Chaos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/F7D38F620E78CE4EA2C511BFC4954270E92CB49F.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Changed Ways",
+      "trophyDetail": "You completed The Brigmore Witches in Low Chaos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/CB1D470F7AED2FEE912E6B81E97B03DC0A4A653E.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silence is Golden",
+      "trophyDetail": "You completed The Brigmore Witches without alerting anyone",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/7CF67483108D64733678632B4C81AC58B489BF83.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cleanest Hands",
+      "trophyDetail": "You completed The Brigmore Witches without killing anyone",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/59A3F224DFA8F0B05ED38F4773992FF13003C2FC.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Enough Coin to Disappear",
+      "trophyDetail": "You survived The Brigmore Witches in low chaos with 10,000 coins",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/B124EF5EE55A507DB7452B92B09557F0C1735096.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Wall of Flesh",
+      "trophyDetail": "You used an enemy lifted with Pull as a shield",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/35E85BF144CD1A0EF4661FDF99D3434280188986.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 81
+}

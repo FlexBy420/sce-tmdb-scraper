@@ -1,0 +1,567 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR06955_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Far Cry® 4",
+  "trophyTitleDetail": "Conjunto de Troféus de Far Cry® 4",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/D19A128F219F66B45779F045AC5968D4BD011CAC.PNG",
+  "trophyTitlePlatform": "PS3",
+  "definedTrophies": {
+    "bronze": 43,
+    "silver": 11,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Far Cry® 4",
+      "trophyGroupDetail": "Conjunto de Troféus de Far Cry® 4",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/D19A128F219F66B45779F045AC5968D4BD011CAC.PNG",
+      "definedTrophies": {
+        "bronze": 38,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Vale dos Yetis",
+      "trophyGroupDetail": "Conjunto de Troféus de Far Cry® 4 Vale dos Yetis",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/1CEE309C790170CC20A939E8D775D5CA9F64CA5E.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Mestre de Kyrat",
+      "trophyDetail": "Obtenha todos os troféus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/78DB8138AE2CFB7C84342043B21B8A6BFF31A9A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bem-vindo a Kyrat",
+      "trophyDetail": "Junte-se ao Caminho Dourado (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/FFB9CF981DB598ECE4AC1DE1696284CC209473E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Um a Menos",
+      "trophyDetail": "Decida o destino do De Pleur (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/5876F7E8CE1540DF3FF8B4BEADF8E036B26D9CA4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Overdose",
+      "trophyDetail": "Descubra Shangri-La (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/9114FA3421F18FC015515FF27D583FF84BF30DA4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Dois a Menos",
+      "trophyDetail": "Decida o destino de Noore (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/4EDA9C299168AC95420593652C889B768B8C51B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Sucesso Triplo",
+      "trophyDetail": "Decida o destino de Yuma (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/CEEB397D9620BB4ECB236A1209C518CDA3D17913.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "O Rei Está Morto",
+      "trophyDetail": "Decida o destino de Pagan Min (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/B38466BAFBB5E25EB2D489D05402A6117B7D0F9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Livrai-nos do Mal",
+      "trophyDetail": "Liberte 12 postos avançados (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/073AA38218AED1ECD75F16B9A83296CFB3455D9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tudo Livre",
+      "trophyDetail": "Liberte todos os postos avançados (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/8635C403A0ACA338C59E08BDEFE98C1453D64525.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ande com Cuidado",
+      "trophyDetail": "Liberte qualquer posto avançado sem ativar um alarme em qualquer modo (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/5EBBA3A8FEF828C4B653838D2FE0D96649F4AB57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fim da Transmissão",
+      "trophyDetail": "Liberte 8 torres de sino (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/B2D2E80E15D002B82D1F5215347830B1ABFE6DB9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exibição de Força",
+      "trophyDetail": "Conquiste 2 fortalezas (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/F51ABF951B68B2F315BC9BC189BF0CCE1BA13E55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eclético",
+      "trophyDetail": "Complete quaisquer 6 tarefas de Caça (Entrega, Controle, Sobrevivência) (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/F1FB424DEC7F2DF4A815654D5CD1A0E123B43B3D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Homem do Gatilho",
+      "trophyDetail": "Complete 3 tarefas de Assassinato ou Olho por Olho (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/2E20A68E7E0A33E9613F63C0B3575D61A0D52395.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ninguém Fica para Trás",
+      "trophyDetail": "Resgate 15 reféns em tarefas de Resgate de Reféns (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/F007881E7B97A9C8D765492D0BA3DD9C6AB5D486.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Louco por Carros",
+      "trophyDetail": "Complete 3 atividades de Filmes Kyrati: Corrida ou Filmes Kyrati: Sobrevivência (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/919C161B8B650744F7B4D4CD7719168544CCC877.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defensor",
+      "trophyDetail": "Afaste 3 grupos de retaliação do posto avançado (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/4853188F819F397DD21584DC3DE8F3DE6A43258C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Robin Hood",
+      "trophyDetail": "Sequestre 3 caminhões de carga real e leve-os até um posto avançado livre (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/B44AD05F5A0C4EEAF7BF0855CA2612CAA749C465.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Mão da Justiça",
+      "trophyDetail": "Elimine 3 comboios da Ira de Pagan (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/FB3C3413D4D0AA4E7A0B9E1D498CE812FFB42D90.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Companheiro de Armas",
+      "trophyDetail": "Liberte 1 posto avançado jogando como Hurk (somente Campanha coop).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/AD2BFA679496AEB696636414BC00A63E7F5F1015.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Desarmador",
+      "trophyDetail": "Complete 3 tarefas de Desarmar Bomba (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/9C147AE937FA9A4CC4AC595BD322FD349867C86E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Trocando de Pistas",
+      "trophyDetail": "Execute um nocaute de veículo do assento do passageiro de um veículo (somente Campanha coop).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/6CBBB02E7E843FC6A8B9B7250F31BBC334683ACD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reformas",
+      "trophyDetail": "Compre 3 itens para a Residência Ghale (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/D7841AD14B8D5F891F2BBC17A419B10843797DCF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exorcista",
+      "trophyDetail": "Remova ou destrua 15 máscaras de Yalung (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/8E674C6BAB0443EDC7E4DBD04246B96A6F3BE561.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Reescrevendo a História",
+      "trophyDetail": "Remova 30 cartazes da propaganda (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/DAFAFFBACDF0D6B84AACC24B65717EE0B6640320.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guardião de Memórias",
+      "trophyDetail": "Encontre 10 cartas perdidas (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/ED4A1C7BD1223D9EB7924D4B5FA629184A5FA5E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tributos Corretos",
+      "trophyDetail": "Gire 10 Rodas Mani (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/3F0D39C006B55349C2316824B7B61B4FA9B88552.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Presa Mais Rara",
+      "trophyDetail": "Complete 3 tarefas da Kyrat Fashion Week (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/022C2744734F29317EAB671FD02E6C79129EB7B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Letrado",
+      "trophyDetail": "Leia 10 notas (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/1A31A0419656AEB185EE7DD0CB34E75DDCA1CF62.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aprende-rápido",
+      "trophyDetail": "Aprenda 10 habilidades (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/387C363FBFF5081341007EDEAA944A5478D9CBC1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Totalmente Preparado",
+      "trophyDetail": "Aprenda todas as habilidades (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/CA2E3D9C9F4F983E60B7AF59F86749E74A652D37.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tunado",
+      "trophyDetail": "Crie 5 melhorias para seu equipamento (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/8AD5DF7F17C67ECF62C429580C9F169344B0B977.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dr. Feelgood",
+      "trophyDetail": "Crie 15 seringas (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/C0ED4E38267408D874DED47CE972E84CFC7F8A04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Faça Chover",
+      "trophyDetail": "Gaste 500.000 rupias nos postos de troca (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/0C9E32AB7E71D9D8B75C7EC992D0A2B7BEF76570.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Personalizado",
+      "trophyDetail": "Compre todos os anexos e padrões de pintura para uma única arma (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/1F70BBAF052461729064EA0A901D726616A07A66.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Domador de Elefantes",
+      "trophyDetail": "Mate 30 inimigos com um elefante (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/D40C123472567FB7F9CB4A8A4D71DF23A2870F40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Morte Quádrupla",
+      "trophyDetail": "Mate 4 inimigos ao mesmo tempo com uma única explosão (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/34B819F55D8BA0CF92081C5AA478197724883F99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Desorientação",
+      "trophyDetail": "Distraia 15 inimigos com pedras (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/850E613845BFB4EEEA2E5D61B6F7E8E4BB35F72F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fotógrafo",
+      "trophyDetail": "Marque 25 inimigos com a câmera (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/B602CAE2F9DC0A749317985A60DB1A3BB4EB63BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reino da Morte",
+      "trophyDetail": "Mate 30 inimigos com tiros de morteiro (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/1A57FDCA95F1F337732F6534BB11AFF11DA37727.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Distância",
+      "trophyDetail": "Mate um alvo a 60 m ou mais com uma flecha ou virote (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/00C9F1F9AD91C003362E79B7F22E00BEC9ABB50C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dois Pássaros",
+      "trophyDetail": "Usando um fuzil de precisão, mate 2 alvos com um único tiro (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/0A72C9322C5F37142B9BC370ED3BF1F852B22E8F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "O Céu Está Caindo",
+      "trophyDetail": "Execute um nocaute de um Buzzer (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/AFAB6E3BCCC1779F4F0AF1D0133E405EA0A37B06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Em Chamas!",
+      "trophyDetail": "Mate 50 inimigos com fogo (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/3B15E9BC176AFE4E9D56D6BA5AE1CF4E3B7B61A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tiroteio Motorizado",
+      "trophyDetail": "Mate 25 inimigos atirando enquanto dirige (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/83B570E67DBF6259BD169E767D00AE0BCE9E9666.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Boa Luta",
+      "trophyDetail": "Alcance o nível 2 de Karma e compre qualquer melhoria de Armas de Aluguel (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/D930B537F3B5251437AB02E2C02A2F7DE394A758.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Como um Pássaro",
+      "trophyDetail": "Voe 5.000 m com o Wingsuit (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/B7B20DD26118B6E1CEC87873415CC854813FF2BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Atropelamentos",
+      "trophyDetail": "Atropele 25 pessoas (somente Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/1A2F1A840602A36E055F12E96376ADA1C3D665D8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "O Campeão do Povo",
+      "trophyDetail": "Alcance a posição 5 na Arena (somente Arena da Campanha).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/FD4AC36370C511E7010FCB91C717D2C354CB292E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Homem da Renascença",
+      "trophyDetail": "Termine uma partida pública de cada tipo no modo Batalhas de Kyrat (somente Batalhas de Kyrat).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/B831FC984112D4B5EF9FAC9A96434F4992A567CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Surpresa da Comunidade",
+      "trophyDetail": "Jogue um mapa com as melhores avaliações do Navegador de Mapas (somente Navegador de Mapas).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/2C2D4AADF45646BE5F2D329DC9412CE1C243018C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lar Doce Lar",
+      "trophyDetail": "Ocupe a estação de transmissão (Vale dos Yetis).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/9ED971A4CACBEF0DC09AE922D097BE82A67BD1DC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sobrevivente da Noite",
+      "trophyDetail": "Defenda a estação de transmissão e sobreviva à primeira noite (Vale dos Yetis).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/36FBAA2B2B036C350F02D4F604E63DBEFFC4DEB4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Construtor",
+      "trophyDetail": "Complete uma tarefa de melhoria da estação de transmissão (Vale dos Yetis, somente jogo individual).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/B73FADC4C834C19427FF0CB8D2A7358A670D54ED.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Construtor Mestre",
+      "trophyDetail": "Complete todas as tarefas de melhoria da estação de transmissão (Vale dos Yetis, somente jogo individual).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/AA3DCD4944C18BC3CA5428392FCCD962E312D9A0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Desperto!",
+      "trophyDetail": "Complete a campanha Vale dos Yetis (Vale dos Yetis).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/C3942625147297DA8216B38C95491F5261A0ABB7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Caçador Espiritual",
+      "trophyDetail": "Mate um Yeti (Vale dos Yetis, somente jogo individual).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/CC72094C3DF6A5CE491A6B022F745F6E4A4F0CD5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mestre dos Despertos",
+      "trophyDetail": "Mate 5 Yetis (Vale dos Yetis, somente jogo individual).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/93CA92BC5CA91D03BE2965AAB6816334953190F1.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 58
+}

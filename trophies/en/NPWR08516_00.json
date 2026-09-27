@@ -1,0 +1,897 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR08516_00",
+  "trophySetVersion": "01.27",
+  "trophyTitleName": "Overwatch",
+  "trophyTitleDetail": "Overwatch",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/0F7A155F3C419377AD2EF1FB4947B6A43617900E.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 85,
+    "silver": 5,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Overwatch",
+      "trophyGroupDetail": "Overwatch",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/0F7A155F3C419377AD2EF1FB4947B6A43617900E.PNG",
+      "definedTrophies": {
+        "bronze": 53,
+        "silver": 5,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Overwatch",
+      "trophyGroupDetail": "Overwatch",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/460C12F440421F9C648A358EB129D477F770D25B.PNG",
+      "definedTrophies": {
+        "bronze": 12,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Overwatch",
+      "trophyGroupDetail": "Overwatch",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/19407539BEAA0D75EFBEF83927C887FBAEEC03DC.PNG",
+      "definedTrophies": {
+        "bronze": 11,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Overwatch",
+      "trophyGroupDetail": "Overwatch",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/0C0FB8A0865EBD6F9DC88E585A2FB24E90EF62A5.PNG",
+      "definedTrophies": {
+        "bronze": 9,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Overwatch Platinum Trophy",
+      "trophyDetail": "Collect all other Overwatch trophies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/7F2F9E07EF07ED365018CA740488302F7132D8FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Friend Zone",
+      "trophyDetail": "Play a Quick or Competitive Play game in a group with a friend.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/25BDC6FA424CC05ACFDBD8FE63B6851C0A19C3E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Centenary",
+      "trophyDetail": "Win 100 games in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/E54F43466164FDB2D2D694657DF0DE1C6F69FCFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 10",
+      "trophyDetail": "Earn 10 battle pass tiers.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/2B8A67E9967DF124AB1FD84F0FAB95E5082DEBF4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 25",
+      "trophyDetail": "Earn 25 battle pass tiers.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/6FC1089D79F02E6054FE3B89C66FA5EDB194C376.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Level 50",
+      "trophyDetail": "Earn 50 battle pass tiers.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/CDD52270E05503AF260EC9155F0958A1D6594691.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Path Is Closed",
+      "trophyDetail": "Destroy 3 of Symmetra's Teleporters in a single Quick or Competitive Play game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/B44484048D55510B4F53CEC79F479DE3D5D73E11.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Survival Expert",
+      "trophyDetail": "Use health packs to heal 900 health in a single life in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/32DDF6BACB6017CF35190C4E4C22B505AB9FBA14.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Decorated",
+      "trophyDetail": "Complete 50 challenges.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/8B52C4693FAB3336089DCD078476C0A9D9D22ABE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blackjack",
+      "trophyDetail": "Earn 21 endorsements.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/B283E01D1D466FCBF089C5D581B74FAEE96DA96B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Decked Out",
+      "trophyDetail": "Collect 50 unlocks for a single hero.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/D68AA80ADA2FA8DC88423B5C2001325CE0A4C09D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Die Die Die... Die",
+      "trophyDetail": "Kill 4 enemies with a single use of Reaper's Death Blossom in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/FE5281F54942D9E78DCC30A89EF6C1FA6AE0AA64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slice and Dice",
+      "trophyDetail": "Kill 4 enemies with a single use of Genji's Dragonblade in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/D971FEA28C5427CDF65D562F908491172A9FED5B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Their Own Worst Enemy",
+      "trophyDetail": "Kill 2 enemies with a single use of Genji's Deflection in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/63429B43DDFF7C727D6D54B33B6856EE44A075F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Waste Not, Want Not",
+      "trophyDetail": "Get 3 solo kills with a single clip of Reaper's shotguns in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/4D443C0D4DBB769EA205DFC58C2F85A1CE76F5EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gotcha",
+      "trophyDetail": "Kill an enemy that is hindered by Flashbang with a headshot as Cassidy in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/9DFEB73E34CBAD53FD49EF66EF283A65D141890E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's High Noon",
+      "trophyDetail": "Get 4 killing blows with a single use of Cassidy's Deadeye in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/9040675FB0C8C651359A62DDAAE7DB12CD646B26.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Death From Above",
+      "trophyDetail": "Kill 4 enemies in a row without touching the ground as Pharah in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/165BDC624DA9FDBD64100F48032CBF59CA98C2B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clearing the Area",
+      "trophyDetail": "Knock an enemy to their death using Pharah's Concussive Blast in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/601935B5A3F1CB02C4A0790BF027D11DA8A64E1B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rocket Man",
+      "trophyDetail": "Get 2 killing blows with a single use of Soldier: 76's Helix Rockets in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/469AC64F8B7601153DC82F57B45E4D11E2815932.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Target Rich Environment",
+      "trophyDetail": "Kill 4 enemies with a single use of Soldier: 76's Tactical Visor in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/58965ED9985A23976273D0268DA96956609ABBD5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Total Recall",
+      "trophyDetail": "Recover 400 health using Tracer's Recall without dying in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/68A5DB7714FC70AE423DA2CDCEEFB08399F9D498.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Special Delivery",
+      "trophyDetail": "Stick 4 of Tracer's Pulse Bombs onto enemies in a single Quick or Competitive Play game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/D6C03924261FE19D826515F6B210632E03927951.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Triple Threat",
+      "trophyDetail": "Kill 2 enemies in each of Bastion's configurations without dying in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/395B7CFE3D1D099FF3C1A2B7C11AD16AD54AE926.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Incoming!",
+      "trophyDetail": "Kill 3 enemies with a single use of Bastion's Configuration: Artillery in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/A9C0E14E8D8C56EE370A657B69A859D6ACDA01AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Simple Geometry",
+      "trophyDetail": "Get 3 killing blows with a single use of Hanzo's Storm Arrows in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/E938509A259D6F3750E9287B8B8EA0313C676979.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Dragon Is Sated",
+      "trophyDetail": "Kill 4 enemies with one of Hanzo's Spirit Dragons in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/281C5BFB5C26A1AA88D28890D9BEF92C635019A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mine Like a Steel Trap",
+      "trophyDetail": "Knock an enemy into your Steel Trap using Junkrat's Concussion Mine in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/C993E435AB6F19398A7840C8B751E661F87A567A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Roadkill",
+      "trophyDetail": "Kill 4 enemies with a single use of Junkrat's RIP-Tire in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/6EA40358A81892E0F04DCD764780445320EE99C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ice Blocked",
+      "trophyDetail": "Block 1000 damage with a single use of Mei's Ice Wall in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/2A0E2B681266E55AE7EFFA1271E68C8DF0ED202F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cold Snap",
+      "trophyDetail": "Freeze 4 enemies at once with Mei in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/2F754650AF20B6CC61F83A91633FC90F23268F48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Raid Wipe",
+      "trophyDetail": "Kill 4 enemies during a single use of Torbjörn's Molten Core in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/3298B8CF74294177E2D8E713AE62B632977589F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Armor Up!",
+      "trophyDetail": "Absorb 500 damage with Torbjörn's Overload without dying in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/1ACE311A5D3DE3D7C28F0723E0B522ACEC8A12A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Did That Sting?",
+      "trophyDetail": "Kill 4 enemies using Widowmaker's Venom Mine during a single Quick or Competitive Play game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/16BED06B53AB0B8950D429ADB0717622299DA009.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Smooth as Silk",
+      "trophyDetail": "Kill an enemy with a scoped headshot while airborne as Widowmaker in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/D8C42C9279E9ED0FA4D2B05566F05AD8A3DB5E4A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shot Down",
+      "trophyDetail": "Prevent 1250 damage with a single use of D.va's Defense Matrix in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/EE6CE22E7A85C34BAF495F5B4DF156AE378C28A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Game Over",
+      "trophyDetail": "Kill 4 enemies with a single use of D.va's Self Destruct in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/EB5CCE9D61FD7B35F17C5A14E84D3156CE96AB3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Am Your Shield",
+      "trophyDetail": "Block 7500 damage with Reinhardt's Barrier Field without dying in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/49A6EC3DF642677A5EEA71EBC8EB664119A5A0F1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Storm, Earth and Fire",
+      "trophyDetail": "Land Reinhardt's Fire Strike and Charge after an Earthshatter stun in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/7CF511F37792426470EB798334790139762E8E9A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Giving You the Hook",
+      "trophyDetail": "Interrupt an enemy ultimate ability with Roadhog's Hook in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/4294914AB86286BB58135FA23DEE7DD006C436C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hog Wild",
+      "trophyDetail": "Knock 2 enemies to their deaths with one use of Roadhog's Whole Hog in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/E3BC0C7614C1031D5B3614A8952A00CB10C9B2FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mine Sweeper",
+      "trophyDetail": "Destroy 10 turrets or traps using Winston's Tesla Cannon without dying in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/ED0FC38022050CDA34741B9A72C3EC4C63CBF270.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Anger Management",
+      "trophyDetail": "Damage 5 enemies during a single use of Winston's Primal Rage in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/792046A1C2B6084AFFB3E3927F07A0E7BB831C14.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power Overwhelming",
+      "trophyDetail": "Keep Zarya's particle cannon above 70 power for 60 seconds in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/CE1ABD04AB567F061F13AE242EB894BA2F96E676.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Power of Attraction",
+      "trophyDetail": "Capture 4 enemies in a single use of Zarya's Graviton Surge in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/C18812569072C37F50D1EE9139A8D1242155BF0E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Undying",
+      "trophyDetail": "Get a 20 player kill streak in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/199448A850BDAA3EEF63FB40F08C3702AED25BAE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Floor Is Lava",
+      "trophyDetail": "Get 3 killing blows while wall riding as Lúcio without dying in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/D45AACDAC6FED5DD9CF1B477947A7937EBFD6DC6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Supersonic",
+      "trophyDetail": "Block 900 damage with a single use of Lúcio's Sound Barrier in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/817FD402C50B295331161516B26FAA9EF6884306.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Group Health Plan",
+      "trophyDetail": "Restore 150 health for 4 allies without dying as Mercy in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/D1F2181ECFFD319037A3A570AC7A33AF697F60B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Huge Rez",
+      "trophyDetail": "Resurrect 5 allies without dying as Mercy in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/3381289AC87FE29F32D210E21D051A9232BA33AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Car Wash",
+      "trophyDetail": "Hit an enemy with 3 beams simultaneously as Symmetra in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/17E07054965BA777ABD2712FECA114D153EDC823.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Huge Success",
+      "trophyDetail": "Teleport 15 allies in a single Quick or Competitive Play game as Symmetra.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/F995157EE7B0A862F41979253DA35DF72943BE0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rapid Discord",
+      "trophyDetail": "Get 4 kills or assists with Zenyatta's Orb of Discord within 6 seconds in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/4A0D100A4AC303827C651869C1CA3B2CEBB223F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Iris Embraces You",
+      "trophyDetail": "Restore 1250 health with a single use of Zenyatta's Transcendence in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/202AD6D1E44CC313787786CD557BBDF6BF07AB83.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lockdown",
+      "trophyDetail": "Win a game of Assault Maps on defense without losing the first objective.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/13D3530453E42BCDCCDF73B283A8C3C6DF96E9E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Double Cap",
+      "trophyDetail": "Capture both objectives on a game of Assault Maps without dying.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/9B4E8E079D2B97AD2BEFA915DA4A6835DEEA2A5A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Escort Duty",
+      "trophyDetail": "Push a payload 100 meters without leaving it in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/843572BCFB194AF2DF444450FD858EE68E4E4020.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Can't Touch This",
+      "trophyDetail": "Prevent the attacking team from touching the payload for 1 minute in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/E45CD2F89CFD20F72B9F353CB83A7A8A216A0801.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Shutout",
+      "trophyDetail": "Win a Control map without the enemy capturing an objective in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/9B5880777E7E3D0724658092B448F3DF388339B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "World Traveler",
+      "trophyDetail": "Win a Quick or Competitive Play game on 12 different maps.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/F50BD7302586D91114944F7553F726BBEF690CB7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Naptime",
+      "trophyDetail": "Interrupt an enemy ultimate ability with Ana's Sleep Dart in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/0C008F0BE4BCC7685069457F0BA5AA82D6858827.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enabler",
+      "trophyDetail": "Get 4 kills or assists with a single use of Ana's Nano Boost in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/0FE7FAB5D8893F738FFE8832324D0F160C04B458.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hack the Planet",
+      "trophyDetail": "Hack 15 enemies without dying as Sombra in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/45B33D26B51B29F9B7EFA19F94CEEF2247F029B2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power Outage",
+      "trophyDetail": "Hack 5 enemies at once as Sombra in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/51076116C71CFA2F5ED50926EB87A4401E78A680.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Terrable Terrable Damage",
+      "trophyDetail": "Kill 3 enemies with a single use of Orisa's Terra Surge in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/7C1C580CF0A1BBEB656C6CC621E01CBEFB4491B4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tip Of The Spear",
+      "trophyDetail": "Knock an enemy to their death using Orisa's Energy Javelin in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/BBFAEA50D95E9DA5F6C8493D4BA4DF8CA5E174F5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power Punch",
+      "trophyDetail": "Slam 3 enemies into a wall with Doomfist's Empowered Rocket Punch in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/65ABE3A37A10F6FD8447826AA66659CA2C02C5FD.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cratered",
+      "trophyDetail": "Hit 4 enemies with a single use of Doomfist's Meteor Strike in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/B0710205A41ED048EEBBF5773A418BE1E16F7CB3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Antipode",
+      "trophyDetail": "Hit 6 targets simultaneously with Moira's Coalescence in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/F81C691439FBE2D5CDD9ACA80112709276F285A4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Simple Trigonometry",
+      "trophyDetail": "Fully deplete both types of Moira's Biotic Orb without dying in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/1D2D43A2BCA35BE4E9A85BF793BC0A879A41D689.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grounded",
+      "trophyDetail": "Kill an airborne enemy with Brigitte's Whip Shot in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/F2506890164A11883D4DD1644C879B919D9AEA4A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Excuse Me",
+      "trophyDetail": "Kill an enemy hero with Brigitte's Shield Bash in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/E32993AF33820DCA809817F4C7D349F03168559B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adaptation",
+      "trophyDetail": "Absorb 1250 damage with Wrecking Ball's Adaptive Shield without dying in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/97A8860130B9B4CE0827EDCA006176D116B49977.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strike",
+      "trophyDetail": "Roll through 4 enemies within 2 seconds as Wrecking Ball in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/532D0B90134818909D63288F4AE9CA7018BCA44E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Served Up",
+      "trophyDetail": "Get a killing blow as Ashe on an enemy knocked into the air by B.O.B. in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/AE2658EDC7C8C3D80D9B7F46E3FCCBFE969A140C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Short Fuse",
+      "trophyDetail": "Kill an enemy by shooting Ashe’s Dynamite from at least 30 meters away in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/0B5730A623BDF9F241901F07B4778AEE36689217.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Window of Opportunity",
+      "trophyDetail": "Amplify 2000 combined damage and healing without dying as Baptiste in Quick or Competitive play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/D8F264B0F61B6F164B7DEBD71210F8C91D31446B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stand By Me",
+      "trophyDetail": "Prevent 4 deaths with a single use of Baptiste's Immortality Field in Quick or Competitive play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/79B522EDB8E75CDE573AA3B66B8E4243A245558E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Event Horizon",
+      "trophyDetail": "Get 3 killing blows during a single use of Sigma's Gravitic Flux in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/DF3B6F9E5166605E3E4953AAB9E8681BE6CAD369.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conservation of Energy",
+      "trophyDetail": "Gain 350 shields with a single use of Sigma's Kinetic Grasp in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/ABDF4B21D7CA2D00379A7AB252FBFDEB09A71769.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Focused",
+      "trophyDetail": "Earn 2 killing blows with a single use of Echo’s Focusing Beam in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/62F4A72E4EAC5DA43D189F35E1F473D5A2ECEC89.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adaptability",
+      "trophyDetail": "Use 2 other heroes’ ultimates without dying as Echo in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/1CC5F32B365FADE3F4350966AA2DD529182B0021.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Purified",
+      "trophyDetail": "Cleanse 5 negative effects with one use of Kiriko's Protection Suzu in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/83AF923CFF2B2DD97D555E2598D5EA1A445619D4.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yokai",
+      "trophyDetail": "Restore 1500 health and land 5 critical hits without dying as Kiriko in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/486EDDB84D5CAD56FB58332B7644A6FAAF49115F.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On The Move",
+      "trophyDetail": "Kill an enemy with a charged Railgun headshot while sliding in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/F550DB8DAE0E144FA026ADC0184C9896716E8060.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Taking Charge",
+      "trophyDetail": "Get 4 killing blows with a single use of Sojourn's Overclock in Quick or Competitive play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/C0591862501B40D154C1F0BF6488869FA7B76F80.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adrenaline Junkie",
+      "trophyDetail": "Have 7 of Junker Queen's wounds active on enemies at the same time in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/1D76F10FA756F3EAFA4C50BF80374977FF1F3F31.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coup De Gracie",
+      "trophyDetail": "Use Junker Queen’s Jagged Blade and Carnage to pull and kill an enemy in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/31EDD52CD39E63268690D3D070CA0DFA6B6B1E7C.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Any Means",
+      "trophyDetail": "Eliminate 3 enemies in a single use of Ramattra's Annihilation in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/CDB24BA762E6D9DB37E44AC50A5FAD4072C38729.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 89,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Incomparable Pain",
+      "trophyDetail": "Block 300 or more damage and survive in a single use of Nemesis Form in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/93F03E7C89F4CDE27D4369791F1B70ABE39C5432.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 90,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Giving Tree",
+      "trophyDetail": "Restore 1200 health with a single use of Lifeweaver's Tree of Life in Quick or Competitive Play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/7E964827EF2B492557D6B4A7A5071DA1311D71D9.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 91,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Life Weaving",
+      "trophyDetail": "Prevent 3 deaths using Lifeweaver's Life Grip without dying yourself in Quick or Competitive play.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/D2A443CF5B73112C798AD6EE630A527F3B1A1B53.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 92
+}

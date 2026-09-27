@@ -1,0 +1,768 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR11659_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "The Witcher 3: Wild Hunt – Complete Edition",
+  "trophyTitleDetail": "Trophies available in The Witcher 3: Wild Hunt – Complete Edition",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/EDF87EA76193FF25BC13EF8902478B5851B978F6.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 68,
+    "silver": 8,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "The Witcher 3: Wild Hunt – Complete Edition",
+      "trophyGroupDetail": "Trophies available in The Witcher 3: Wild Hunt – Complete Edition",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/EDF87EA76193FF25BC13EF8902478B5851B978F6.PNG",
+      "definedTrophies": {
+        "bronze": 42,
+        "silver": 8,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Hearts of Stone",
+      "trophyGroupDetail": "Survive the twists and turns of this action-packed adventure pitting you against dark, mysterious powers.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/AB0BC429DF27B4BC344AEF7517360A70B4A5B0D7.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Blood and Wine",
+      "trophyGroupDetail": "Explore an entirely new part of The Witcher’s vast open world - the land of wine, Toussaint.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/224B97F921DF219A3E675A200A0999C1881C83A2.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Limits of the Possible",
+      "trophyDetail": "Collect all trophies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/6C20162D061971FF3E92E62273C5550B76EFD15A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lilac and Gooseberries",
+      "trophyDetail": "Find Yennefer of Vengerberg.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/53855D0F4F8A6BA0D536C6A375FB7D6EFFB92EDD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Friend in Need",
+      "trophyDetail": "Find and free Dandelion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/8C1E33B6C224E89D084815920D236A3872478461.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Necromancer",
+      "trophyDetail": "Help Yennefer extract information from Skjall's body.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/D79558E1FEEA51AE37E6EED70594FC873E59094E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Family Counselor",
+      "trophyDetail": "Find the baron's wife and daughter.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/42A22DA0963E4FDD157B9D244F3ED63E1D66C6FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Something More",
+      "trophyDetail": "Find Ciri.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/61676289A3AE055B8C8396697DB06C47A08F30C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Xenonaut",
+      "trophyDetail": "Visit Tir ná Lia and convince Ge'els to betray Eredin.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/A8FEE4F6910191644ECD0C331334C85B386CE49F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The King is Dead",
+      "trophyDetail": "Defeat Eredin.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/17BC393EFFAFD78B8840C81A4A2241F3A293D555.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Passed the Trial",
+      "trophyDetail": "Finish the game on any difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/10E614795A09EE0C14E29AE492A3FE0A39E2A461.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ran the Gauntlet",
+      "trophyDetail": "Finish the game on the \"Blood and Broken Bones!\" or \"Death March!\" difficulty levels.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/890C4EB1ABFD8274A5F167C1B438C8C71253F5C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Walked the Path",
+      "trophyDetail": "Finish the game on the \"Death March!\" difficulty level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/F8973A43D8670D7586871C4B2085EF0DBA64A436.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Geralt: The Professional",
+      "trophyDetail": "Complete all witcher contracts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/222A1BAF7841584F1A284C6475D37A96A8A18B7D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Kingmaker",
+      "trophyDetail": "Complete the subplot about choosing Skellige's ruler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/B16C8B7D6D055BBC5671DF931D3E0E01EBF86838.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Assassin of Kings",
+      "trophyDetail": "Take part in the assassination of King Radovid.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/96F896D34385CEEFD52383964EDA73ABE9B1EDD2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Friends With Benefits",
+      "trophyDetail": "Complete the subplot involving Keira Metz.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/3DC8835EFB8E41CE0D8611A597837D3DD941CAB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Full Crew",
+      "trophyDetail": "Bring all possible allies to Kaer Morhen for the battle against the Hunt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/531AD61BD73B0AED1561D446F192E1E67C043194.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dendrologist",
+      "trophyDetail": "Acquire all the Abilities in one tree.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/B32AF583DAF73D1A9DA8745B8956063150712DE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Enemy of My Enemy",
+      "trophyDetail": "Use the Axii Sign to force one opponent to kill another. Do this 20 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/85660B67CBD70838983529CAA1EAB85CD8360B88.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Humpty Dumpty",
+      "trophyDetail": "Kill 10 opponents by knocking them off somewhere high with the Aard Sign.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/02DC4CD77F3D281DBAD701F8A9F6FB2689CC8E83.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Environmentally Unfriendly",
+      "trophyDetail": "Kill 50 opponents using the environment (e.g. swamp gas, insects or objects).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/B1C1833E9E24DD04518DC4D4CEC7A1B9167171B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kaer Morhen Trained",
+      "trophyDetail": "Perform 10 effective counterattacks in a row without getting hit or parrying.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/121AD164622A127D12295D0FB1ACFD8B510F1030.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Can't Touch This!",
+      "trophyDetail": "Kill 5 foes in a fight without taking damage (except for Toxicity) and without using the Quen Sign.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/D02F2EE2E3C0A2925E63BB86B8DFE392DA147184.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That Is the Evilest Thing…",
+      "trophyDetail": "Ignite the gas produced by a Dragon's Dream bomb using a burning opponent. Do this 10 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/DD5D8E170FEA84CE09F05106EC7E2C5CF7827E34.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mutant",
+      "trophyDetail": "Fill all mutagen slots.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/4495C136A472AC62DAA03542C9D69070679A3767.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Butcher of Blaviken",
+      "trophyDetail": "Kill at least 5 opponents in under 10 seconds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/A0D92F5140031CA920882AFAE7519F070F60D117.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Triple Threat",
+      "trophyDetail": "Kill 3 opponents in one fight using 3 different methods (swords, bombs, crossbow, Signs, etc.).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/11307F85644BE90652A866C4EE7ED16426F8D86B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Brawler",
+      "trophyDetail": "Defeat Olaf, the Skellige champion of unarmed combat.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/A100990B0D393F258A06AFE56885F90FA93ABBBA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Overkill",
+      "trophyDetail": "Make an opponent suffer from bleeding, poisoning and burning simultaneously. Do this 10 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/BA43517428EF7F593F95C0B53775FF535A2EAA3B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Marksman",
+      "trophyDetail": "Kill 50 human and nonhuman opponents by striking them in the head with a crossbow bolt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/54B7FE6BE2E3009470FF64E938726FB7A9A11F10.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "What Was That?",
+      "trophyDetail": "Attack, counter, cast a Sign and throw a bomb (in any order) in under 4 seconds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/F4070F8232DB433048DA50D56392CAF3D42CD368.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Even Odds",
+      "trophyDetail": "Kill 2 monsters you have a contract on without using Signs, potions, mutagens, oils or bombs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/20819874EB18E53BF67D43413441BD4DF2AFAE3B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Globetrotter",
+      "trophyDetail": "Discover 100 fast travel points.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/1F92A2E3161FDEC5F5501EE5F993B5ED788001D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pest Control",
+      "trophyDetail": "Destroy all monster nests in the Velen / Novigrad region, or in Skellige.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/A3F96ACE85D7FF8BA7D44C907F658DCACC4F6A66.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Card Collector",
+      "trophyDetail": "Acquire all gwent cards available in the base version of the game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/7B8000DF90A6EE8D434D447517ACE23BB8ED6D20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gwent Master",
+      "trophyDetail": "Defeat Tybalt and win the gwent tournament held at the Passiflora.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/F845960815B420588C962743111B0767854CD236.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let's Cook!",
+      "trophyDetail": "Learn 12 potion formulae.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/2A8570AC6DED38027CC7A7C1E77D2F443A5A0EB3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bombardier",
+      "trophyDetail": "Collect the formulae for 6 different bomb types.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/5DFB8999478E5322186EB3C9A99689F7DBB6CC33.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bookworm",
+      "trophyDetail": "Read 30 books, journals or other documents.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/FA8191E80475D4FE02DBA624876F55A219B2BDDB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Armed and Dangerous",
+      "trophyDetail": "Find and equip all the elements of one set of witcher gear.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/464BB99FC05288AEB79F3C9D6D15F2D969040114.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power Overwhelming",
+      "trophyDetail": "Have all possible Place of Power bonuses active at the same time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/722D793FD7CD7DA970F1285117B23021D998BB87.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brawl Master",
+      "trophyDetail": "Complete all fistfighting quests in Velen, Skellige and Novigrad.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/51C3FCD807FE3B2ED996629EDFE92CB9CDF010CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fast and Furious",
+      "trophyDetail": "Win all the horse races in the game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/54E138A4A7754C54DE1514A6D6CD0160E22029B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Munchkin",
+      "trophyDetail": "Reach character development level 35.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/DEEEB8CB07E942C27A186B293E406E03EA5EAEEC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fire in the Hole",
+      "trophyDetail": "Destroy 10 monster nests using bombs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/6AF55B76EF1DE663892626139D31BD9983D5F165.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fist of the South Star",
+      "trophyDetail": "Defeat an opponent in a fistfight without taking any damage.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/38A76312B60F4478CE830DB204C4E6BB59920593.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Geralt and Friends",
+      "trophyDetail": "Win a round of gwent using only neutral cards.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/B8C082F9F0D92516ED81BA172CE00D4460BE0D1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All In",
+      "trophyDetail": "Play three hero cards in one round of gwent and win the match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/15E0C073AD8337EBB00FDA0E7080A858056397C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Shrieker",
+      "trophyDetail": "Complete the contract on the shrieker.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/05F3CE1D34D56B2A2B06D6AD851C36C072E62560.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fearless Vampire Slayer",
+      "trophyDetail": "Complete the contract on Sarasti.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/79AA87837FF5CDB5819B08AF7BB1D1F1D912D213.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Woodland Spirit",
+      "trophyDetail": "Complete the contract on the Woodland Spirit.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/822DB7A3A9CD9DA62440A527EB0194A76A997E7F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fiend or Foe?",
+      "trophyDetail": "Complete the contract on Morvudd.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/DCD9E1116DF187ECDC8EDD225C94D3F7F0547761.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ashes to Ashes",
+      "trophyDetail": "Complete the contract on Therazane.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/7B46A1F9A46C5E7C68783D3D31A19000B8775BB3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Doppler Effect",
+      "trophyDetail": "Resolve the doppler problem in Novigrad.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/D0E7421839422E098CE75C4B815ECC198B535E5C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "I'm Not Kissing That",
+      "trophyDetail": "Kill the prince cursed into a toad.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/62D800C6D7DF89D7964B8C618C908B4861B58D7A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Let the Good Times Roll!",
+      "trophyDetail": "Participate in all the activities at the wedding.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/9D4097DA5F053A4BA2C85A25B3351D797AE4BC2A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Shopaholic",
+      "trophyDetail": "Buy all the items put on the block at the Borsodis' Auction House.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/624DD1C334B6CD8A6B39DEE5DED7FB2154578BC6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Curator of Nightmares",
+      "trophyDetail": "Recreate all of Iris' nightmares in the Painted World.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/91F4FD609555503CA720CFA935BCCB9975E03EED.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pacta Sunt Servanda",
+      "trophyDetail": "Finish the \"Hearts of Stone\" expansion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/E11EC69AD6EAD193D27C75FD97D71256E91BB5C0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "When It's Many Against One…",
+      "trophyDetail": "Provoke all Iris von Everec's Nightmares into fighting you at the same time and defeat them.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/5CEB0F73766751F6CCA2C84FD9FFDD6A4DCDBA76.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Return to Sender",
+      "trophyDetail": "Kill 3 opponents with their own arrows.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/2B070F03F7886BBD849BF53C27D112A9AA8F2878.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Can Quit Anytime I Want",
+      "trophyDetail": "Be under the influence of seven potions or decoctions at the same time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/60D98E881A3F1551721804F3E5D0ABC1F5091B6A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wild Rose Dethorned",
+      "trophyDetail": "Defeat all the fallen knights and loot their campsites.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/050591667EB54BE977E59CBD1FFE74E5C89B58AC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Wore Ofieri Before It Was Cool",
+      "trophyDetail": "Collect all available Ofieri armor and horse gear, and at least one Ofieri sword.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/F66AD4583AA27120976F370006A84F430E2F4B8F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Moo-rderer",
+      "trophyDetail": "Kill 20 cows.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/3508F3A55B62BDD775B542EF1AD2F80FE4DED7FE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rad Steez, Bro!",
+      "trophyDetail": "Slide downhill uninterrupted for at least 10 seconds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/6863AE431462FC3CA124194038510B2F736523B0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Killed It",
+      "trophyDetail": "Win a round of gwent with a total strength of at least 187.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/4148A3AA9513F89D21E7351E48A71CD89DB2F25C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Witcher's Gone South",
+      "trophyDetail": "Travel to the Duchy of Toussaint.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/58CA82237A9A444A5B62D2A3D8533EC928E95838.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Last Action Hero",
+      "trophyDetail": "Be decorated with the Order of Vitis Vinifera.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/6CB8C80F86EB0A61F4362691BB046B3467DD6032.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kling of the Clink",
+      "trophyDetail": "Serve time in Toussaint.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/BD3298F993BCBC85806B524F720D320EED226E6B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Knight to Remember",
+      "trophyDetail": "Obtain a flawless victory in all the competitions during the knights' tourney.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/C394BE231D47FDFE8A89AA5DE854AC33C738DB68.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Embodiment of the Five Virtues",
+      "trophyDetail": "Be given Aerondight by the Lady of the Lake.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/85BBF4A476F541C18B8A3F32BAF7E34FBC2EFC71.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Playing House",
+      "trophyDetail": "Use all available options for developing Corvo Bianco.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/216CB19CE50EA8304C708C428A3F6F3FA5AD00F3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Turned Every Stone",
+      "trophyDetail": "Find all grandmaster diagrams for each witcher school.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/5A87F43AF7E1E8B7A249269AE92B91F4C5B8C304.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Have a Gwent Problem",
+      "trophyDetail": "Collect all the cards in the Skellige deck.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/7093EECAE1AF03E3AC33214A5F4BFBB336E55567.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Grapes of Wrath Stomped",
+      "trophyDetail": "Help unite the warring vineyards and have a wine named in your honor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/7BB72BB9A99A2F008E11F99752274CEF3743BD0D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dressed to Kill",
+      "trophyDetail": "Unlock the bonus for equipping all the witcher gear elements from one School.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/6D4070C78F0BFE74C0F7EF0370C7F8F109B5885C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weapon \"W\"",
+      "trophyDetail": "Develop a mutation.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/C4178AC9CF3AE9075A30AAE2B36020AE9C93998E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hasta la Vista™",
+      "trophyDetail": "Kill a frozen opponent with a crossbow bolt.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/4E769D3625A514AF08714DDADCED72C87D5B2CCC.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "David and Golyat",
+      "trophyDetail": "Kill Golyat with a crossbow bolt to his eye.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/ED2A2A620F155F48A8D3F1D032F184E93EBD0B72.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 79
+}

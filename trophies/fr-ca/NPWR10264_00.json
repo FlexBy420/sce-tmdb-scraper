@@ -1,0 +1,639 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR10264_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "BioShock Remastered",
+  "trophyTitleDetail": "Trophées de BioShock",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/2E54A384C61109BD2E264E771D08F2737792D1FF.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 59,
+    "silver": 3,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "BioShock Remastered",
+      "trophyGroupDetail": "Trophées de BioShock",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/2E54A384C61109BD2E264E771D08F2737792D1FF.PNG",
+      "definedTrophies": {
+        "bronze": 48,
+        "silver": 2,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Salles de défi",
+      "trophyGroupDetail": "Trophées des Salles de défi",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/1C126EA72B63D2111FB0524A7FEFFEE468398F1F.PNG",
+      "definedTrophies": {
+        "bronze": 11,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Trophée de Platine",
+      "trophyDetail": "Vous avez débloqué tous les Trophées.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/9FC1DEAE8E61C102F3842585227E29F32D4E35B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Niveau de Bienvenue terminé",
+      "trophyDetail": "Le joueur a terminé le niveau Bienvenue à Rapture",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/5E2836CB795FEAC3EEF5E54410F6C0116D970909.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Docteur Steinman vaincu",
+      "trophyDetail": "Le joueur a vaincu le docteur Steinman",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/E2209659FE2D2063B64A3C46362AC0D9FB325092.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Peach Wilkins vaincu",
+      "trophyDetail": "Le joueur a vaincu Peach Wilkins",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/9689D22CB1660FA10647357C1481E009F0908F44.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Atlas vaincu",
+      "trophyDetail": "Le joueur a vaincu Atlas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/D3C1FD26E8CC32488513977289026DD25BEC553E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Forêt sauvée",
+      "trophyDetail": "Le joueur a sauvé les forêts d'Arcadie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/3B645BE177124F69C6BD4C9BCB31D764069A7DDD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chef d'oeuvre de Cohen achevé",
+      "trophyDetail": "Le joueur a achevé le grand chef d'oeuvre de Sander Cohen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/55A54AA367B6A36CABF53B564CD992E6B41898A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Andrew Ryan vaincu",
+      "trophyDetail": "Le joueur a vaincu Andrew Ryan",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/755E8467C073A973050A079EE750A8E5FE627C94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spécialiste en armement",
+      "trophyDetail": "Acquérir toutes les améliorations pour toutes les armes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/1786E437D621A749635BACEA234FD1C96851D64B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chercheur confirmé",
+      "trophyDetail": "Effectuez toutes les recherches possibles",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/A87BFDB3819EC968548470A161B74BCC7319420B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Historien",
+      "trophyDetail": "Trouver tous les comptes rendus audio",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/205BD504ABFFB0D7684EEE67549B3D4965606A39.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pirate accompli",
+      "trophyDetail": "Le joueur a réussi à pirater 50 systèmes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/028970D050962D4E414A25123EE6005312E62D12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arme améliorée",
+      "trophyDetail": "Le joueur a acquis au moins une amélioration d'arme",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/354E43F0ABBF04DE83E474CD3873944D9819DA87.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Videur étudié",
+      "trophyDetail": "Terminer l'étude du Videur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/8F4755054E636D2F853B936CB3882715C16BA394.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Sauveur de Petites Soeurs",
+      "trophyDetail": "Le joueur a terminé le jeu sans tuer une seule Petite Soeur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/9AD32742A36CB41B9E8BA8298B9BD8EE3AD0B2BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Photographe prolifique",
+      "trophyDetail": "Prendre au moins 1 photo dans chaque catégorie de recherche",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/801005990FCED637870F64B7411F62DFE0A3038E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pirate en herbe",
+      "trophyDetail": "Le joueur a réussi au moins un piratage",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/633BAFA15716B5C3B69D07EF7E5013CD54DEEB77.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chrosôme Grosse Brute étudié",
+      "trophyDetail": "Le joueur a terminé l'étude du Chrosôme Grosse Brute",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/A1654B905BE3007C875DDA4F3E099045023BB27C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chrosôme Plafonnier étudié",
+      "trophyDetail": "Le joueur a terminé l'étude du Chrosôme Plafonnier",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/D53507F96270150225ABA9CE60FF36E8DC155D62.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chrosôme Houdini étudié",
+      "trophyDetail": "Terminer l'étude du Chrosôme Houdini",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/D01F7F501CDD7B30A600604EE84B9779F66E91FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chrosôme Armé étudié",
+      "trophyDetail": "Le joueur a terminé l'étude du Chrosôme Armé",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/37B730F131D2C4906D28D43920EC1074F88FA670.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chrosôme Explosif étudié",
+      "trophyDetail": "Terminer l'étude du Chrosôme Explosif",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/A29BD10FE5425E5CF8D6093CB216BE3D1191AE4E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rosie étudié",
+      "trophyDetail": "Terminer l'étude du Rosie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/898FDC2812EAE13A4D2DEC0D74D620478012745D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Petite Soeur étudiée",
+      "trophyDetail": "Terminer l'étude de la Petite Soeur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/1FA7B89C742D5DAC4542FDB69224185B553AA2B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Photographe accompli",
+      "trophyDetail": "Le joueur a pris une photo de recherche de la meilleure qualité possible",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/DCE1CA423FF71887F7CC66CEA211B55F3874AE1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Robot de sécurité piraté",
+      "trophyDetail": "Le joueur a réussi à pirater un robot de sécurité",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/FE9A4F49CA66EA9A8FB104D6BFB3090A768FF98A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tourelle piratée",
+      "trophyDetail": "Le joueur a réussi à pirater une tourelle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/C3600129E798090C854ADC492B6459322E0974A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Caméra de sécurité piratée",
+      "trophyDetail": "Le joueur a réussi à pirater une caméra de sécurité",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/CBA530CE4CA1B1A9F78BA40E022A544229EC6083.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Distributeur piraté",
+      "trophyDetail": "Le joueur a réussi à pirater un distributeur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/95348B37C44E83B7E5F802FC20A44439D669E3CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coffre piraté",
+      "trophyDetail": "Le joueur a réussi à pirater un coffre",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/E26EEF70FF4C6137C6FB629E25A8C858B160F5E9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inventeur accompli",
+      "trophyDetail": "Inventer au moins 100 objets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/CD4ABFDF1A11A59B1CFDF11878016B4ED80C6A34.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inventeur de munitions",
+      "trophyDetail": "Le joueur a inventé toutes les sortes de munitions possibles",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/F62C8FF6938FBE8387B5ED7A97BDC93F1344D22F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collectionneur de Fortifiants",
+      "trophyDetail": "Recueillir ou inventer 58 Fortifiants dans les catégories Physique, Manufacture et Combat",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/D3309E3EDDD3359E51DB1D82DF1CE30EF7FAD043.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Super Expert",
+      "trophyDetail": "Le joueur a terminé le jeu en difficulté Difficile",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/283F097B9BC5080B1DECF734B501BBA3983C7EFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inventeur en herbe",
+      "trophyDetail": "Le joueur a inventé au moins un objet",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/E2406F24A3E36C5D26A6F9F140AAFAB9ED2ED947.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Briser l'emprise de Fontaine",
+      "trophyDetail": "Le joueur s'est libéré de l'emprise mentale de Fontaine",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/E472E5671E7796C950395A119EC40B58B4F9FD23.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Emplacement acheté",
+      "trophyDetail": "Le joueur a acheté un emplacement pour plasmide ou fortifiant",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/A70F5FE5D1380F215F846B71A635CAF4BB2B0DE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chrosôme étudié",
+      "trophyDetail": "Le joueur a pris au moins une photo de recherche d'un Chrosôme",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/8AE543053427C2CB16F16D91675CB3E0006A1D9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A trouvé chaque Petite Soeur",
+      "trophyDetail": "Le joueur a sauvé ou récupéré toutes les Petites Soeurs dans le jeu",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/6B25B27EE7A9E3F9457016994838E3B934B2C3AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Catégorie complète",
+      "trophyDetail": "Le joueur a acheté tous les emplacements d'une catégorie de plasmides ou de fortifiants",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/3A0553833DF0106ED9728769F076C8F11C8F646A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Toutes catégories complètes",
+      "trophyDetail": "Tous les emplacements des 4 catégories de plasmides ou de fortifiants ont été achetés",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/EB4DD3D7BE47CB00F6742C382279E85BC8FE7FEC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Une arme améliorée",
+      "trophyDetail": "Le joueur a entièrement amélioré 1 arme",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/D9D2843F102FE37EB72FC31B64FE3B2B354FC3DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deux armes améliorées",
+      "trophyDetail": "Le joueur a entièrement amélioré 2 armes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/4E628115501F79555B08DB102EF3AA3AFC74CE4B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trois armes améliorées",
+      "trophyDetail": "Le joueur a entièrement amélioré 3 armes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/FE551477042BEC78F2C56F35946AB60F02E5A7A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quatre armes améliorées",
+      "trophyDetail": "Améliorer entièrement 4 armes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/CDB00FAD110979137EEF893041A2D01B08090568.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cinq armes améliorées",
+      "trophyDetail": "Améliorer entièrement 5 armes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/521F3667EF6E0EFE4480D1A858DB70C870EFFE77.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Transformation en Protecteur",
+      "trophyDetail": "Le joueur s'est transformé en Protecteur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/5498CA9E399013A902FF4CEBD292B80F25B22945.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heureux gagnant",
+      "trophyDetail": "Toucher le jackpot sur une machine à sous",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/25AB2C6EF4EDEEDEC3677496A86CA37D8040FD59.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "L'arroseur arrosé",
+      "trophyDetail": "Le joueur a pris une photo du cadavre de Sander Cohen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/7904C307FAE397630467E90819424F9C37367131.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Trouver les quartiers de Cohen",
+      "trophyDetail": "Le joueur a trouvé les appartements de Sander Cohen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/977F65DDF926CA5D19EB3FBC1C68FD4A92DE2E19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un grille-pain dans la baignoire",
+      "trophyDetail": "Le joueur a électrocuté un ennemi dans l'eau",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/ED99728FF3DC7F18CC5206065FEECBD48E05E871.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "L'Homme Choisit",
+      "trophyDetail": "Terminer le jeu en difficulté Survivant",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/663C41A060CFE18D5BCA1663DB74066BCE604EB6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "J'ai Choisi l'Impossible",
+      "trophyDetail": "Terminer le jeu en difficulté Survivant sans utiliser de Vita-Chambre",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/E75F5CB99801D13986BC9677AAEDE913EC6399A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Dur-à-cuire",
+      "trophyDetail": "Terminer le jeu en mode difficile sans utiliser de Vita-Chambre",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/2B10F3938E3DEDE7607A82075FA7C507801F1B63.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "“Individualisme” - Sauveteur",
+      "trophyDetail": "A sauvé la Petite Soeur dans “Individualisme”",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/A1441F22DD592813F6CB2E12C4BA7B01C9E2FC0F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "“Individualisme” - Expert",
+      "trophyDetail": "A sauvé la Petite Soeur dans “Individualisme” en moins de 3:00",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/D8171F6E8788315F7CC8F3883198689FD46F4203.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "“Individualisme” - Collectionneur",
+      "trophyDetail": "A trouvé toutes les Roses dans “Individualisme”",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/5E81FE64B85A6991AD809123B36669C85F39352F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "“Individualisme” - Pacifiste",
+      "trophyDetail": "A sauvé la Petite Soeur dans “Individualisme” sans détruire de Tourelles à Mitrailleuse",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/36443A72C50DD6D5B40C5D469D5F840BD49B5FC3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "“Des événements épouvantables” - Sauveteur",
+      "trophyDetail": "A sauvé la Petite Soeur dans “Des événements épouvantables”",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/5626637A13E9E9E47C966ED483C2ADAC8C69DAB1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "“Des événements épouvantables” - Expert",
+      "trophyDetail": "Le joueur a sauvé la Petite Soeur dans “Des événements épouvantables” en moins de 4:00",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/6EE9F1F76BFF5767BD5816E90B5AA3D6F4C27E24.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "“Des événements épouvantables” - Collectionneur",
+      "trophyDetail": "A trouvé toutes les Roses dans “Des événements épouvantables”",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/59FB8354A9459E61CF7854054D356FD704C3A978.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "“Des événements épouvantables” - Maître Electricien",
+      "trophyDetail": "A chargé la Grande Roue 9 fois dans “Des événements épouvantables”",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/0328A3D43DC68934BA507386452A61D6AF30AD5A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "“Mondes de douleur” - Sauveteur",
+      "trophyDetail": "A sauvé la Petite Soeur dans “Mondes de douleur”",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/5655ED9D0E8B6E58BA3A85C0F5F495C9F8CC6DB9.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "“Mondes de douleur” - Expert",
+      "trophyDetail": "A sauvé la Petite Soeur dans “Mondes de douleur” en moins de 15:00 à un niveau de difficulté Moyen ou élevé",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/DDEDD0D8B9ED55B723624EAFD4487C98A994155F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "“Mondes de douleur” - Collectionneur",
+      "trophyDetail": "A trouvé toutes les Roses dans “Mondes de douleur”",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/D882A244BC640A83345D8DAD018C517DA147C25C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "“Mondes de douleur” - Costaud",
+      "trophyDetail": "A sauvé la Petite Soeur dans “Mondes de douleur” en n'utilisant que les plasmides, des fortifiants, la clé anglaise et la caméra de recherche en Moyen ou à un niveau de difficulté plus élevé",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/54DF1583AD289C88DFCC49BD39457DC9F552F1CC.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 66
+}

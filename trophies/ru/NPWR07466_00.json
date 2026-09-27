@@ -1,0 +1,933 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR07466_00",
+  "trophySetVersion": "01.85",
+  "trophyTitleName": "Rocket League®",
+  "trophyTitleDetail": "Трофеи Rocket League®",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/7E97D451B278DACDDD0CA8D59AFF7BF62E1A6560.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 51,
+    "silver": 24,
+    "gold": 12,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Rocket League®",
+      "trophyGroupDetail": "Трофеи Rocket League®",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/7E97D451B278DACDDD0CA8D59AFF7BF62E1A6560.PNG",
+      "definedTrophies": {
+        "bronze": 20,
+        "silver": 10,
+        "gold": 5,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Колизей: Утопия",
+      "trophyGroupDetail": "Трофеи Колизея: Утопия",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/6DDA1F547016DE43816EAA532CDDE0226E2A421C.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Сверхзвуковая ярость",
+      "trophyGroupDetail": "Трофеи Сверхзвуковой ярости",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/308323533CE7843F8D4B93A54CAC8AB10E7DBDB2.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Месть Боемобилей",
+      "trophyGroupDetail": "Трофеи Мести Боемобилей",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/428A74F7044E02D9FFC1A4F631833010D8948DD6.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Chaos Run",
+      "trophyGroupDetail": "Трофеи Chaos Run",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/C96BF0B1C546E85EA20DAFCCD9372727307FD9C7.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Neo Tokyo",
+      "trophyGroupDetail": "Трофеи Neo Tokyo",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/33ED7F559CCA58A6BAD2A13F97959D3A3D4CDA47.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "006",
+      "trophyGroupName": "АкваКупол",
+      "trophyGroupDetail": "Трофеи АкваКупол",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1DC23C44981CAB4F3153A478C9B2F95F3CD9BE06.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "007",
+      "trophyGroupName": "Dropshot",
+      "trophyGroupDetail": "Трофеи Dropshot",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/3D0BABB7B7C566B536E8ED0B79309BECD6408446.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "008",
+      "trophyGroupName": "Champions Field",
+      "trophyGroupDetail": "Трофеи Champions Field",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/3FD4FF49C259305CA80A6977A26248DEEC6319D6.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "009",
+      "trophyGroupName": "Обновление клубов",
+      "trophyGroupDetail": "Трофеи Обновление клубов",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/4740B1B0B84359C43BF081E9162F8C9A916B46E2.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Виртуоз",
+      "trophyDetail": "Соберите все трофеи",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/767E69612A5AB876C31DEEADF3747D20F3334E18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Укомплектовано!",
+      "trophyDetail": "Соберите 150 предметов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/80189924563A9C13AE64B2428E8C7E39010C7B5B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Прекрасное далёко",
+      "trophyDetail": "Преодолейте в сумме 50 км",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/68C3355DA096B09FDD98B59C801AA2CE762B060B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Супертриумф",
+      "trophyDetail": "Выиграйте 30 игр в любом режиме",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/340DB5B29EE0868F87C329526144A0B76FD66AA2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Чемпион",
+      "trophyDetail": "Выиграйте сезонный чемпионат",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1E1E61BDA005386B4053FB12005471353ED75949.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Конвейер",
+      "trophyDetail": "Выиграйте 10 игр подряд в любом режиме",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/8D5045748F3EDCFD8126A0289A3606BFA4F0365E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Медаль Св. Елены",
+      "trophyDetail": "Забейте 6 голов за одну игру",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/7242E4C6C9D2B0F08AC9AE8DCDB426FDE4FBE409.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Коллекционер болидов",
+      "trophyDetail": "Соберите 5 болидов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/C90D91E26B3C15926E9CFF6C114010E820754001.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Капля в море",
+      "trophyDetail": "Соберите 50 предметов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/EEECD61C1B14A6A4AD4517811C792E59CA6E7F28.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ракетчик",
+      "trophyDetail": "Закончите обычный сезон",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/8367541C9109DD6C720123ACD8B7324A3E82761D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Жизнь в гараже",
+      "trophyDetail": "Смените декаль, шапку, ракетный ускоритель и колеса на вашем болиде",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/DED0212623A4DC2EC2723ABA13170927B4FFFFFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ветеран подач",
+      "trophyDetail": "Сыграйте в сумме 20 игр в любом режиме",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/9AAA0D81238CFEE761F5217BEA6BCB29A9C9AF39.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Отбой!",
+      "trophyDetail": "Отбейте 20 голов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/E014D263EA99EAAF83ECDC59EF85F697B8CA6AF8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Это не я",
+      "trophyDetail": "Забейте гол рикошетом от противника",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/351855D2218B8282A38DAD97CE54A9F0B753DC3B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Турбопривод",
+      "trophyDetail": "Преодолейте на ракетном ускорителе в сумме 5 минут",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/989D9EBEC840A67FAFA7A1B9899090F699761D70.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Строевая подготовка",
+      "trophyDetail": "Закончите все тренировки (на любой сложности)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/C8155F7C787CB3CDC5ACBB5EFDC48B401FF70EE1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Минута на реванш",
+      "trophyDetail": "За последние 60 секунд выиграйте ничейную или проигрышную игру",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/DF687AEF9EF064B1235F138EF9269573D82E837D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Демон скорости",
+      "trophyDetail": "Заполните и опустошите бустер 10 раз за матч",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/BD8AB0C204B78B69750031079C7A839E912D400E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Затарился",
+      "trophyDetail": "Соберите 5 предметов для гаража",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1A161D61A652E4DC20B5ABAE85A35184ED40E3F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Муха",
+      "trophyDetail": "Прокатайтесь по стенам купола в сумме 5 минут",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/4E3F4B4C6C83163A4909DCE77DD6C286275F99DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "В команде",
+      "trophyDetail": "Сыграйте против каждой команды в сезоне",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/F6DF36DC22990F288AA13A75F1E49D319A2D36F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "SARPBC навсегда",
+      "trophyDetail": "Сыграйте один матч с Octane, а затем с Backfire",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/8DC57F2F47282546B2610A4E098E29F988B1462A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Былое и думы",
+      "trophyDetail": "Посмотрите сохранённый повтор",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/239EC8C8E3ADA701583B36C23361BB80815B0359.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Победитель",
+      "trophyDetail": "Выиграйте 5 игр в любом режиме",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/F80E02E579A5FA30BE7E8E5BB35F7C6926EABA24.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Без изъяна",
+      "trophyDetail": "Выиграйте вчистую",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/E79BA665052BE5C8183E6AD5576B78B58D14EAA6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Тройка на счастье",
+      "trophyDetail": "Выиграйте в игре 3 против 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1FE9C025BD6EF5DE0C9E7DF93771CF08B364FE35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Вдвоём веселее",
+      "trophyDetail": "Выиграйте в игре 2 против 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/47BB1896F06E871F8D4F128B135F2AF9A8335AF0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Клуб одиночек",
+      "trophyDetail": "Выиграйте в игре 1 против 1",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/05E67259D05FFAF6B2F5F4C737616D581C55E849.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Отличное начало",
+      "trophyDetail": "Победите в первой игре в сезоне",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/896671E6DD60A81DDB4439C2C9B96D7D4868D82F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Показуха в крови",
+      "trophyDetail": "Забейте гол задним ходом",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/A015D0859D143342AB8C8EBF37425CB150D1145F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "По указке",
+      "trophyDetail": "Закончите тренировочное занятие",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/02B10991FC99417B3D400208805C428348A90A37.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Путешественник",
+      "trophyDetail": "Сыграйте матч на шести разных аренах",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/4620C53788229BE85B8DDE16102D2609739AFABD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сделай сам",
+      "trophyDetail": "Установите одну модификацию на болид",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/89317F7907F94D29CB044D7DD02F4537D2195C57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первый шаг",
+      "trophyDetail": "Забейте свой первый гол",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/0DBE401FF5EAFD08291678195B4FA4138100714F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Два храбреца",
+      "trophyDetail": "Сыграйте сетевой матч в команде с другим игроком",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/D08629A43AA6D0721EA3B5A6D993DE5EA6C99204.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Все свои",
+      "trophyDetail": "Сыграйте показательный матч",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/294826280F1F75915842852D18412B195981D584.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Высотник",
+      "trophyDetail": "Забейте воздушный гол",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/82196E7733B3677EB6B1ED247D7895B61D801C11.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Вся команда",
+      "trophyDetail": "Выиграйте в игре 4 против 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/BB50B4F0DD8DC1660F1CD1DC4E5280F390B57DB4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Гладиатор",
+      "trophyDetail": "Сыграйте в Колизее: Утопия",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/4BBF909D5A4F412AB6F17A8F77AB87497DE951E2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Победа — победителю",
+      "trophyDetail": "Выиграйте чемпионат сезона, используя Dominus в каждом матче",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/B42A2D0D2F6BAC3998DCCA0591459C732A34D234.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Дюйм и 6.2 мили",
+      "trophyDetail": "Покройте расстояние в 10 км с колесами Vortex, Cristiano или Spinner",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/6EC05D905644B5A4B0D4675005C8C76A454434D3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Гонка или смерть",
+      "trophyDetail": "Используйте Dominus или Takumi с любой декалью и выиграйте матч",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/A2EDB0F57C2D481AEDCA199CD8F33094E06336DE.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Не оборачиваясь",
+      "trophyDetail": "Используйте дымный ракетный ускоритель, нитро или гарь в течение 10 минут",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/A0FA596CA8843A42B4A99B338F2B8C917188FF3A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Семейство, недруги",
+      "trophyDetail": "Завершите матч с Dominus или Takumi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/071555BC2A9883208A6C0E82AEA4D47670AB92F7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Король дрифта",
+      "trophyDetail": "Совершите срыв в скольжение с разворотом на 180 градусов с Dominus или Takumi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/3B4A143D4DCD67143B6D065D766EF4FE553770FD.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Естественный отбор",
+      "trophyDetail": "Используйте шапку и выиграйте нечестный матч против ботов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/2D895433B98287EF626EB47788D421D93D51F490.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Стрела Амура",
+      "trophyDetail": "Используйте декаль и выиграйте матч против звездных ботов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/92550BC71950EE17A151E86261DF15ACFE472F7E.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Выживание видов",
+      "trophyDetail": "Выиграйте сетевой матч с Backfire, Scarab или Zippy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/50E081E8354860E21B18281CF6B612B7852ED20B.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Отбросило так отбросило",
+      "trophyDetail": "Используйте стандартный ускоритель или Accelerato с Octane или Backfire на арене «Urban Central»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/B80433B18C30E5694EC7EDB20347C60A8198286B.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Пробивной, часть 2",
+      "trophyDetail": "Получите награду MVP, используя Backfire, Scarab или Zippy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/545B2F7CC27E499352954B746D0C5A2CB1625472.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Мир объят огнём",
+      "trophyDetail": "Используйте ускоритель «Огнемёт» и выиграйте сетевой матч 4 на 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/0E35FD94C8A2535C0F15C153BB86EBEE46C334D6.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Зрелищно!",
+      "trophyDetail": "Забейте 10 голов с Merc или Grog против ботов уровня «Профи» или выше",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/38C0005FCEFF1E8E516605B31A27CF91F3E0DCC5.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Дикарь",
+      "trophyDetail": "Забейте 10 голов с Breakout или Ripper против ботов уровня «Профи» или выше",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/E2B77F15F635BDEF8C481CF34EB746F4E913C2D8.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Пощады не будет",
+      "trophyDetail": "Выполните 50 ударов по воротам с Merc, Grog или Ripper",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/8CFB80B6B6A31B1FAFDACD7B68B34C389EF152CD.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Фрик-подрывник",
+      "trophyDetail": "Уничтожьте 3 ботов-соперников на арене Wasteland",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/911BCE8E70BA69209FE24BEFBF4241470983F965.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сумасшедший учёный",
+      "trophyDetail": "Сыграйте по полному матчу в 3 разных аренах-«лабораторных образцах»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1D421D961A5DC37F99E76360273A8910A942D20C.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Теперь — с мороженым",
+      "trophyDetail": "В день Снега забейте гол со своей стороны катка",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/BA6BF5E9320F99B5A96BFFF243FFC5404B877E5D.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Левые, правые…",
+      "trophyDetail": "В день Снега выиграйте по матчу за Синих и Оранжевых",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/AF0BB4354D1306857CFFEBF75C1ADD93F8D2847D.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Прорыв к кольцу",
+      "trophyDetail": "Забейте 2 или больше «данков» в первую минуту в режиме «Кольца»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/38E38C909BA1E730EF45741D02DEFF3F0A02EFA6.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Бросок с сиреной",
+      "trophyDetail": "За последние 30 секунд в режиме «Кольца» пробейтесь из ничьей или отставания к победе",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/EA0C347A93E9B196D0EF92985CC84B1D72293198.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Художник с потенциалом",
+      "trophyDetail": "Получите окрашенный предмет",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/F72E8BDFB1D1969D375D96164CFF049E8C1FFB2C.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Чуть лучше",
+      "trophyDetail": "Увеличьте уровень сертифицированного предмета",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/127F2C6A115F75E6B6DFBC2384F15D0879CA0547.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Сертифицировано",
+      "trophyDetail": "Заработайте статус ветерана за сертифицированный предмет",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1FF1863DEB90560F71B9C558463456E6CE751ABC.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ГГ",
+      "trophyDetail": "Выиграйте награду MVP в дополнительное время",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1B900E11063CA5141111CB1F10E7AF5724DC7645.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Трифекта",
+      "trophyDetail": "Забейте гол, отразите удар и помогите товарищу по команде в одной игре",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/9738B064F034F9F1E41EE23731479D865497CF4C.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Бесконечная Мощь!",
+      "trophyDetail": "Активируйте все усиления в режиме «Разборка»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/873C95CEA5B0468CDBD355C20348FF3EE9F8D9C9.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Замри",
+      "trophyDetail": "Остановите удар соперника, прежде чем он забьет гол в режиме «Разборка»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/F8BD4FD4D4FCBCFA4E21B5153A871D2D7E62A64F.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Морская черепаха",
+      "trophyDetail": "Забейте гол будучи вверх ногами на карте АкваКупол",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/AF721C5ECBBAA909E1493722BFE539AE08D1FDD4.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Встаньте, мистер Баблз!",
+      "trophyDetail": "Забейте гол в воздухе на арене AquaDome",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/D4887216CADE5E8A113FE3519E159EC5CDF1F723.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ракетное насыщение",
+      "trophyDetail": "Сделайте 535 ударов по воротам",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/7119EF6AC6F74A75DF6FDC134C38B536F36BA402.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Зарегистрированный участник голосования",
+      "trophyDetail": "Перейдите в \"Параметры арены\" и используйте все ваши голоса",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/8A353C686EA41328C8AA3BFF505252FE98B00556.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Метавселенная",
+      "trophyDetail": "Используйте ионный ракетный ускоритель или шапку «Нимб» и выиграйте матч на арене Starbase ARC",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/F812A2D7CDD365ED6F1CD62F338D55CB50722C89.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Бросьте вызов стихие",
+      "trophyDetail": "Завершите матч в пустоши, в море и в космосе",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/DFBCAB3FB332A407695492575A772C05A111BD0D.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Контроль повреждений",
+      "trophyDetail": "Выиграйте Дропшот-матч с сухим счетом",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/958696A840F70970E931604F6C10904C66C6D0E4.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Полный курс",
+      "trophyDetail": "Забейте 18 голов в Дропшоте",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/E860AF0E2FE6B0FA6A2883FD606082BFB62946A8.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Букминстер x10",
+      "trophyDetail": "Повредите 320 панелей в Дропшоте",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/01D0CAF21A27BCB179CAD6E9AF07A158D17EA823.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Снаряжайся!",
+      "trophyDetail": "Экипируйте люксовый предмет и сыграйте на арене во время турбулентности.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/94E7BC3D1821D3938E01906857C0BEC88999D869.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Было круто!",
+      "trophyDetail": "Отправляйтесь на Поле чемпионов и сыграйте по сети",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/A9D5A298E201D136ABE568CAC2EBF353D1F5B8C7.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Кто это? Я с нового профиля!",
+      "trophyDetail": "Измените баннер игрока, рамку аватара и титул",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/77B75466DF919B3FFBC7EF7B5F69A87A9BDBD483.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Секрет менялы",
+      "trophyDetail": "Обменяйте 5 предметов одного качества, чтобы получить предмет следующего по уровню качества",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/D29280B01982410B1BF3271A27A81AC5DE0EAFE3.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Рейтинг очень важен",
+      "trophyDetail": "Завершите все квалификационные матчи в любой соревновательной игре",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/87B478F63CBA0F45BD06630AE41363DDBDE5F0B3.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Нападающий",
+      "trophyDetail": "Забейте или помогите забить в сумме 30 голов в обычном или соревновательном матче",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/53FFABFB00146D56CA1282AC89EA080EE7FB0C46.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Присоединяйтесь к клубу!",
+      "trophyDetail": "Создать или вступить в клуб Rocket League",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/2B74B94B29A969381B3D54B04E639C5254D0B166.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Вместе веселее",
+      "trophyDetail": "Завершить онлайн-матч с одним или несколькими игроками из вашего клуба",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/C8376292470498F09E369DD2F5B6D0F287E903A2.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Новый претендент",
+      "trophyDetail": "Завершить онлайн-матч турнира",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/1D1FCF471BA0F25D7B28DEB9FC64E320A5D4586D.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Душа компании",
+      "trophyDetail": "Завершить 10 онлайн-матчей с одним или несколькими игроками из вашего клуба",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/BA6711F702648A00C31CE9764C65D72445FA7BE9.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Голы команды",
+      "trophyDetail": "Забейте гол в матче клуба (только для сетевого подбора)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/5E9F7C88E50700DF800D33F671939853EF007153.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Круче всех",
+      "trophyDetail": "Получить награду MVP в любом онлайн-матче турнира",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/E1B8F8C1D12AC0345CB49AA6507D20C577B45131.PNG",
+      "trophyGroupId": "009"
+    }
+  ],
+  "totalItemCount": 88
+}

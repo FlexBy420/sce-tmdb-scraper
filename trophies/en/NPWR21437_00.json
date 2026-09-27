@@ -1,0 +1,87 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR21437_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Hunt",
+  "trophyTitleDetail": "Hunt Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21437_00_00E65C27071D1E7DDF95B2D2BF16CE116CD8FD3F07/942486B690A02A99E70D4412138D7B7826AA1CBE.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 3,
+    "silver": 0,
+    "gold": 3,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Hunt",
+      "trophyGroupDetail": "Hunt Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21437_00_00E65C27071D1E7DDF95B2D2BF16CE116CD8FD3F07/942486B690A02A99E70D4412138D7B7826AA1CBE.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 3,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "First Hunt",
+      "trophyDetail": "Kill any animal",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21437_00_00E65C27071D1E7DDF95B2D2BF16CE116CD8FD3F07/FA49852A4147F1A6559FD729E46A037EF2B7CD70.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Three Boars",
+      "trophyDetail": "Kill three boars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21437_00_00E65C27071D1E7DDF95B2D2BF16CE116CD8FD3F07/37BF06EF5A941705AE6CE50D07007E042F0268DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Three Bears",
+      "trophyDetail": "Kill three bears",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21437_00_00E65C27071D1E7DDF95B2D2BF16CE116CD8FD3F07/AFB540AC5FD70F6CD09FD6AC33478B703B04D3E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Top Hunter",
+      "trophyDetail": "Reach 5th place or higher on the leaderboard ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21437_00_00E65C27071D1E7DDF95B2D2BF16CE116CD8FD3F07/9935881F74F1AB54D0C062F8A73621EAA8BFD054.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Top Three",
+      "trophyDetail": "Reach 3rd place or higher on the leaderboard ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21437_00_00E65C27071D1E7DDF95B2D2BF16CE116CD8FD3F07/1FC38039DF511FD85DC89D668D5739659B3F0B50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Top Spot",
+      "trophyDetail": "Reach 1st place on the leaderboard",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21437_00_00E65C27071D1E7DDF95B2D2BF16CE116CD8FD3F07/680F2785C7A2CD16115DFF0A7125841E60DAF8A3.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 6
+}

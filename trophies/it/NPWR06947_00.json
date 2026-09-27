@@ -1,0 +1,717 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR06947_00",
+  "trophySetVersion": "01.04",
+  "trophyTitleName": "The Evil Within",
+  "trophyTitleDetail": "Set di trofei di The Evil Within",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/7B01ACF1FBCE9551795989B79C2164BE2C85AF3C.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 49,
+    "silver": 18,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "The Evil Within",
+      "trophyGroupDetail": "Set di trofei di The Evil Within",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/7B01ACF1FBCE9551795989B79C2164BE2C85AF3C.PNG",
+      "definedTrophies": {
+        "bronze": 28,
+        "silver": 9,
+        "gold": 4,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "The Assignment",
+      "trophyGroupDetail": "Set di trofei di The Assignment",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/10CB563BF7B488C76133656D742B4AEB82947ABA.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "The Consequence",
+      "trophyGroupDetail": "Set di trofei di The Consequence",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/06761994471331803C18606CB39B74A93C42F71E.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "The Executioner",
+      "trophyGroupDetail": "Set di trofei di The Executioner",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/5C2E22BF5DFD925C9462C2889B443B97186585D0.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Il male puro",
+      "trophyDetail": "Hai sbloccato tutti i trofei di The Evil Within.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/452B6FD86B30D489CE4131E39E99C1D667632035.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "L'arma preferita",
+      "trophyDetail": "Sconfiggi il Sadico nel villaggio.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/702A542B412ED68924AF5A0373DE91959236BB58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Vecchia fiamma",
+      "trophyDetail": "Uccidi una bestia che urla.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/D480BFAEB6416ECFFF2384690BABE0E82865ABE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Due su due",
+      "trophyDetail": "Elimina entrambi i guardiani davanti alla chiesa.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/9DBFEE242B71FB62F1F9D93A1AE4BC442A5BF11A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Che c'è nella scatola?",
+      "trophyDetail": "Sfuggi al custode nelle catacombe.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/85C93FE0D005E4DE34A9D9B4F4E7CF07B554DFFD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Primo, non ultimo",
+      "trophyDetail": "Uccidi un mostro nel garage sotterraneo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/500F7289F7BE80D15C700BB6297B25C10E24DE48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Aracnofobia",
+      "trophyDetail": "Sconfiggi una terribile minaccia in città.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/7C6C19846B3790AE3C590B59B4A34C41300B2501.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Viaggio nell'oblio",
+      "trophyDetail": "Elimina un nemico invisibile.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/89D5D38255AB0F493266AEA0E989C128CC060C64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Uno dei tanti",
+      "trophyDetail": "Sconfiggi il male dentro.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/DDC51BF3F87A9B2A1C95AC1CE355E7FA0C83983A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Primi passi nell'oscurità",
+      "trophyDetail": "Completa il gioco al livello di difficoltà Inesperto.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/B41AA1273A0FFE79EEEDCB4BAA675DE52E8A6D6C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ordinaria amministrazione",
+      "trophyDetail": "Completa il gioco al livello di difficoltà Sopravvivenza.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/B51559CACC6F5D7BF82F841B57FD0E76BE2E0A11.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Maestro dell'orrore",
+      "trophyDetail": "Completa il gioco al livello di difficoltà Incubo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/2B53303C4969E23FF209F41E4B4B15207889FB04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Collezionista",
+      "trophyDetail": "Raccogli ogni oggetto nel gioco.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/3607A82CAA114211D922F72B5F81758A88432BF0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scassinatore",
+      "trophyDetail": "Apri tutti gli armadietti nel ricovero.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/EC88F60513F6FD58B9DF98467D364D165F2BB664.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Macho man",
+      "trophyDetail": "Potenzia al massimo gli attributi di Sebastian.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/66D2344279005258793353CAC80E7C35FBC5D299.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Compagni inseparabili",
+      "trophyDetail": "Potenzia al massimo un'arma. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/FCADC546134C3C08C3205F637D9008068B40F06D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Non c'è due senza tre",
+      "trophyDetail": "Potenzia al massimo tre armi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/A47C2FE22837409AFE9CFF1605073D2D09651173.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Arsenale invincibile",
+      "trophyDetail": "Potenzia al massimo tutte le armi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/9514628086BAFBA940B4CE931EC15C187DAA65FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le munizioni non bastano mai",
+      "trophyDetail": "Potenzia tutte le opzioni nel menu Riserva.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/21D3A4DF20C14F802C8AABE8A64F999A1529B3BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Piazza pulita",
+      "trophyDetail": "Usa una potente arma segreta per uccidere 10 nemici. (i nemici uccisi con Agonia non sono contati)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/986CD26FDFCBEB83CBC5194C121CD2C79873A56F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cinque dardi di violenza",
+      "trophyDetail": "Uccidi 5 nemici con ogni tipo di dardo per Agonia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/826456E462A53C7E4C31CF2BC42BED0A918D3C8A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Il suono del silenzio",
+      "trophyDetail": "Uccidi 5 nemici di fila con uccisioni silenziose senza farti individuare.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/E43ADF0D04CCC2C42517A571F01CA59BEE0A07A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Disco Inferno!",
+      "trophyDetail": "Uccidi 5 nemici con una torcia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/3DADC2A824518525614778992F25E7C35997B12F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Montagna di cadaveri",
+      "trophyDetail": "Uccidi 30 nemici.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/33262E3BFB7C99367E89B3FB07819A197709E9C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Furia scarlatta",
+      "trophyDetail": "Uccidi 200 nemici.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/5335C753B41E455504E727423D92EC3064D327FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Un uomo, un eroe",
+      "trophyDetail": "Uccidi 400 nemici.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/57FB4E81A933E4782B9F464C50E9755B13244FC5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Risparmio di munizioni",
+      "trophyDetail": "Uccidi 25 nemici con attacchi corpo a corpo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/81745E2CFB4A57ADA89C6BF620730A445AF76412.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rissa da bar",
+      "trophyDetail": "Uccidi silenziosamente un nemico dopo averlo colpito con una bottiglia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/8CBC47014BFB9ABCBF998BFC5EF260A6F90AA07E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Il fuoco purifica",
+      "trophyDetail": "Uccidi 3 nemici vivi lasciando cadere un solo fiammifero.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/DAFF7995825DF0879D292E02E31EA0BDD2F2F397.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "La velocità è tutto",
+      "trophyDetail": "Completa il gioco in meno di 5:00:00.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/C859512D705FA2818DD69B2B6407FD00888C052D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Niente trucchi",
+      "trophyDetail": "Completa il gioco senza potenziare abilità con il gel verde.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/EC0B6CDC06C08E250C67C86D1B8C34AD84F5DB7A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "L'hai voluto tu",
+      "trophyDetail": "Completa il gioco al livello di difficoltà 悪夢(AKUMU).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/AFC55C6A3A91588E93DADB5B4D0967C8E82BA3AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Come Corvo",
+      "trophyDetail": "Sono impazziti? Meglio aggirarli senza combattere. (Cap.2)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/96D5197B36735C8366F82101B976870A60D125C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Coltello batte motosega",
+      "trophyDetail": "Il suo motore romba, ma il mio coltello riuscirà a eliminarlo. (Cap.3) ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/DE7DC307D652CD5B8B55FA40373B2044F6E432A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Il Centro è la mia casa",
+      "trophyDetail": "Tutte queste visioni nel Centro... Perché qui? Perché ora? (Cap. 4)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/EF140425938EAF79EA47016892C7CB3E57183E48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lavoro duro, il mio...",
+      "trophyDetail": "L'acqua si alza, ma usciremo di qui senza un graffio. (Cap. 5)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/516CE975002AE00C0D09196C83620EA9FCA50174.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ce n'è per tutti",
+      "trophyDetail": "Chi non aiuterebbe un uomo che lotta per la vita? (Cap. 6)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/87508B2249761494ED876CE490113B3D96BC5E8D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Non ho tempo per questo!",
+      "trophyDetail": "Non muoiono! Meglio combattere solo se necessario. (Cap. 7)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/EA3243F4EB4BD827E4C5D0B426105846405B1CCB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gestione saggia",
+      "trophyDetail": "In questa caverna c'è un'eco tremenda. Meglio non usare la pistola e fare silenzio. (Cap. 8)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/031358039A27EEBBBD09D9897A403B395DBE7636.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Torcia umana",
+      "trophyDetail": "Basta scappare! La brucerò qui! (Cap.10)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/84E4D4F1DF0BB8886DF7C11D432F221C61914213.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nemmeno un graffio!",
+      "trophyDetail": "Non correrò rischi, questo autobus non può sopportare altri urti. (Cap. 12)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/CF25AE290D91440C3CA12549D36DFEB16E2C5148.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elettricista provetto",
+      "trophyDetail": "Dovrei riattivare il generatore, non si sa mai. (Cap. 14)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/DD42DDF9AB642125F14A022A16635422D7148157.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scherzo telefonico",
+      "trophyDetail": "Attira un nemico con una telefonata e rinchiudilo in una stanza. (Cap. 1)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/D88CA68CA874180166E262F5609DB00170366A39.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Presi!",
+      "trophyDetail": "Usa una sola trappola per uccidere due o più nemici in The Assignment. (Cap. 2)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/801A56C977F23CF78A7940DBD8D3F5D3CED5FCC6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un'ascia e nulla più",
+      "trophyDetail": "Sopravvivi al duello senza usare dispositivi elettronici nell'ambiente circostante. (Cap. 2)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/9C007A4C4C54033CE5A34318FA5AD1EFE78C8953.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stretta mortale",
+      "trophyDetail": "Fai in modo che un cadavere afferri uno spiritato e lo uccida. (Cap. 2)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/732D20B39658482494974CB8EEDDF2EB1A5FB94F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Un altro inizio",
+      "trophyDetail": "Completa il primo capitolo: \"Giuramento\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/2C3D400AF22E571584996C3F7CFB097A8983D0BE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "L'apparenza inganna",
+      "trophyDetail": "Completa il secondo capitolo: \"Destini incrociati\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/B06B55E553A31056964B109C556A6BE6913FCF13.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Appunti medici",
+      "trophyDetail": "Trova tutti i documenti di ricerca in The Assignment.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/00068B64E4DB4C30D0A2A61C43FFF79A29A68398.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frammenti del mio passato",
+      "trophyDetail": "Trova tutti i file del personale in The Assignment.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/647BCC31F43D828BFB0B53C58660B72232F311C3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avvertimento",
+      "trophyDetail": "Ricomponi la lettera segreta di The Assignment.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/52A4405BCA4F5ADC66D30CEC713985A774359A1E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Il buio non mi spaventa",
+      "trophyDetail": "Completa The Assignment in modalità KURAYAMI.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/BF9F08D612D5CE2FFE15962139FB51BFC95485D4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perso nel buio",
+      "trophyDetail": "Attiva il generatore usando non più di 10 luci chimiche. (Cap. 3)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/51A23174B942DCAB98B3ED460CB8D9E9B2E52BD0.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un vero eroe",
+      "trophyDetail": "Salva Sebastian nell'hotel. (Cap. 4)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/19C5A115D9441FB2D3D597681B38AB0377EF52C3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Con esclusione di colpi",
+      "trophyDetail": "Supera l'hotel senza essere avvistato e senza uccidere alcun nemico. (Cap. 4)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/01CEC17905500C91E4D7EB800C1F0B2519D972B1.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Segui il copione",
+      "trophyDetail": "Sconfiggi Ruvik prima dello scontro finale in The Consequence. (Cap. 4)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/E34D739D42486642D2663D7ABD756182A4F6E3AF.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tutto in frantumi",
+      "trophyDetail": "Completa il terzo capitolo: \"Illusioni\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/86CE040902F1B4492305A01E88DE80E3D3961868.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "E adesso?",
+      "trophyDetail": "Completa il quarto capitolo: \"È nato un fantasma\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/B04651F3E468ECCF77694F0803E2D995069A0327.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "È tutta colpa tua",
+      "trophyDetail": "Trova tutti i documenti di ricerca in The Consequence.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/DB07A2E6D61AD7BC41476C06D0588CFC629E3EFE.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diventare un agente",
+      "trophyDetail": "Trova tutti i file del personale in The Consequence.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/3A5514413407ECF116353E326FD6BD7FC706BDAC.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Questo è solo l'inizio",
+      "trophyDetail": "Ricomponi la lettera segreta di The Consequence.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/3535F1131CF0D78AB038596F772EB857C5C39CCC.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Niente di più oscuro",
+      "trophyDetail": "Completa The Consequence in modalità KURAYAMI.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/DFED6ABB20DA50EA7B6988C909957DD671D66022.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Genitore ficcanaso",
+      "trophyDetail": "Raccogli tutti i diari di tua figlia in The Executioner.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/5608D1BF8052BB18C3BED9BA8A5E44A7980CCC68.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crudele e disumano",
+      "trophyDetail": "Completa tutti i Tormenti.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/126888E1243EFD0552493B9CC9D9E9C5897B6538.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oggi chiudo presto",
+      "trophyDetail": "Acquista tutti gli oggetti nel Negozio.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/78BF22C75E6CD6EF12D3E3E8103D358554FCC9A3.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Festival della motosega",
+      "trophyDetail": "Uccidi 10 spiritati con la motosega.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/156771223F54F778EEB56F50B2E9AB7E7BE656F1.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Custode delle trappole",
+      "trophyDetail": "Uccidi 10 spiritati sfruttando l'ambiente in The Executioner.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/9B65C52648A110BDFA970CB3B0F55B41E9DCA0A8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Questione di cervello",
+      "trophyDetail": "Giustizia 20 spiritati.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/C699D828ADF8CB7E188C85849C5E3A77C50C053B.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Invasione casalinga",
+      "trophyDetail": "Completa i piani inferiore e superiore in The Executioner.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/A8B305F7F5F8EDB714FB95D5BF32B73DC254D44D.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Attrezzi del mestiere",
+      "trophyDetail": "Completa il seminterrato della tenuta in The Executioner.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/9C90707CB58DB15B2200A74665828AE12299B1E8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pelle d'acciaio",
+      "trophyDetail": "Completa The Executioner senza subire danni.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/EC670ECB552A78F4595EAC48809339554375C778.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Te la sei cercata",
+      "trophyDetail": "Vendicati dello sbirro che aveva sconfitto il tuo predecessore.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/8EEBCA496F890FD04F97CF7CEA4EB8224C897FA4.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 72
+}

@@ -1,0 +1,624 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR12527_00",
+  "trophySetVersion": "01.05",
+  "trophyTitleName": "Skyforge",
+  "trophyTitleDetail": "Призы Skyforge",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/911FE512109801E42A12BD017FFDFC8C57D7F6FA.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 39,
+    "silver": 17,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Skyforge",
+      "trophyGroupDetail": "Призы Skyforge",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/911FE512109801E42A12BD017FFDFC8C57D7F6FA.PNG",
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 11,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Skyforge",
+      "trophyGroupDetail": "Призы Skyforge",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/5A3290C9E85F51C0139633F10862A6CD8C95EDBE.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 6,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Метаморфоза",
+      "trophyGroupDetail": "Трофей \"Метаморфоза\"",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/EF0BB5533645BA988236B64451D385F63E51FB5A.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Голос Элиона",
+      "trophyGroupDetail": "Трофей \"Голос Элиона\"",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/5CF735F3CE5AEEAEE56F6D336E29407B9262C864.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Из пламени",
+      "trophyGroupDetail": "Трофей \"Из пламени\"",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/013243886445923A67DB3066670ED1A42C1B51BC.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Охотники Терры",
+      "trophyGroupDetail": "Трофей \"Охотники Терры\"",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/C8071D14CA2A8C18E5854894C7CF25D0D138F88F.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Платиновый приз",
+      "trophyDetail": "Соберите все призы Skyforge.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/D50478259F2298C783D4DFCE53B1F65A60D447A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Новый бог",
+      "trophyDetail": "Станьте богом.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/6E4A8CB063C9C55FAA29F1BD66A380EA9CCC4E1A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Старший бог",
+      "trophyDetail": "Станьте старшим богом.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/BA82AA0B61424E243FCB122EA01BFB1E67D07B2A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Махаван",
+      "trophyDetail": "Победите аватара фитонидов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/DB145DC3A7B341BB58CBBD899D2CD5C40FBBF47B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Интегратор",
+      "trophyDetail": "Победите аватара механоидов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/59C999892B3CF9D0DC5FF7D82D3CE3C5C13ED8EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Танатос",
+      "trophyDetail": "Победите аватара жнецов смерти.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/CC7D078C69367611F2BEBFC8C7F14396A2A00418.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Опасная оранжерея",
+      "trophyDetail": "Победите древнего энтида Нефелиса в искажении фитонидов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/122F74E3836C40AF8D8FB18AA12AFC021E0FBD6B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "База механоидов",
+      "trophyDetail": "Победите командующего ретиария \"Легат\" в искажении механоидов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/FE350B4D1C0732B9E2118D9CC03F98A47EE8673C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Несущие смерть",
+      "trophyDetail": "Победите чумного возничего Именада в искажении жнецов смерти.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/3BF55DE6D65821BEA2E0C000FF1A4D397AA798B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Охотник на монстров",
+      "trophyDetail": "Убейте 100 боссов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/170BCF7FE2CC2623E2FDA0A745260D30C67E4BE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Истребитель чудовищ",
+      "trophyDetail": "Убейте 1000 боссов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/011494A1FBE8BAB5D2FE07FF844E7253EBA993E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Высший балл",
+      "trophyDetail": "Пройдите 100 разных приключений на ранг S.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/0476BBA20C34AD8DEA66245B97136D86E10B79D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Пример для подражания",
+      "trophyDetail": "Пройдите 1000 разных приключений на ранг S.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/E3D06B42F4E56F15A90FA8199CE5E6EB7AFEE9A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Командный дух",
+      "trophyDetail": "Пройдите рейдовое приключение в первый раз.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/1D9B296B93256D268F8A8028B9B4E6954C1F6466.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Абсолютное превосходство",
+      "trophyDetail": "Пройдите 10 рейдовых приключений.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/5FB93568291375BA4E56AF5FD6AFD298DD44EE31.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Дуэлянт",
+      "trophyDetail": "Победите 50 бессмертных.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/2038F40D2C3E1B76C7D613FF5F241BA2261D139A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Богоубийца",
+      "trophyDetail": "Победите 500 бессмертных.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/248C2BC56CB1659D86E82402ED8362AC050E1EDE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Герой арены",
+      "trophyDetail": "Победите в 10 битвах.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/73FF3D88F1F6B6E5524CCAA57D6A43FEBFD6F3E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Легенда арены",
+      "trophyDetail": "Победите в 100 битвах.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/33B3169B8C8AB89C2D34594B6AB2494ADF8E6F90.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Бессмертный",
+      "trophyDetail": "Станьте бессмертным.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/9FF2D962A595A063F0386606C8C8A27465E026B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Краш-тест",
+      "trophyDetail": "Пройдите обучение классам.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/80DAA35B688CC1C8A905515245B8B771CFD3CE69.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Беспечный ездок",
+      "trophyDetail": "Воспользуйтесь средством передвижения в первый раз.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/924236BBAC40A472CDA7436201805A4DF0C96496.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Всегда с тобой",
+      "trophyDetail": "Получите компаньона.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/0481B7B4DA76FE18B246FCBC7D71CBD5FF48A452.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Дыхание холода",
+      "trophyDetail": "Сделайте все улучшения в храме криоманта.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/AC087234447AEDD4F544CB71CC66C647F486C4AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Образец милосердия",
+      "trophyDetail": "Сделайте все улучшения в храме хранителя света.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/F03A2E00C74083AE07E44793815E997FE9886278.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Защитник справедливости",
+      "trophyDetail": "Сделайте все улучшения в храме паладина.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/B1DA1D049032D1D91FC9C5952B50222FAB1D280E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Хранитель гармонии",
+      "trophyDetail": "Сделайте все улучшения в храме монаха.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/38665C89431B9BC3200A719C772C70C9D3D535B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Владыка гравитации",
+      "trophyDetail": "Сделайте все улучшения в храме кинетика.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/32EA05F21D34A33592529E979AA2B8A4F695BFE0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Пыл исступления",
+      "trophyDetail": "Сделайте все улучшения в храме берсерка.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/F0FDC6BA8C15F3971224EE47F9DC38CAF5A42A2F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Венец точности",
+      "trophyDetail": "Сделайте все улучшения в храме лучника.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/E5BE4AE9F6EF34A55E9AD1A6C19C3A037F3BAF22.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Воплощение тьмы",
+      "trophyDetail": "Сделайте все улучшения в храме некроманта.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/38C72CA47C59477D2436AC37B7C834BFDBCAB0A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Чтящий тайны",
+      "trophyDetail": "Сделайте все улучшения в храме мастера теней.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/BF03A449F68E7309F86928AA3581A81938909D10.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Квинтэссенция прогресса",
+      "trophyDetail": "Сделайте все улучшения в храме штурмовика.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/A22E83F9330DEBD3C585F3A5A9C5BD4F8628F99C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сердце порчи",
+      "trophyDetail": "Сделайте все улучшения в храме ведьмы.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/0EF702AB4A0A58AD55A9DE4C44A5A30D9F0A544E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер синтеза",
+      "trophyDetail": "Сделайте все улучшения в храме алхимика.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/FB5990EDB64B61C706B905892793D49BE9E358D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лик доблести",
+      "trophyDetail": "Сделайте все улучшения в храме богатыря.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/6234CC7038AF81C67E69FF20245373DEAFA2FAF1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Смотритель границ",
+      "trophyDetail": "Сделайте все улучшения в храме стрелка.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/1C7ED083B794E89A079F215ACA9E80A8664D6472.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ультра-насилие!",
+      "trophyDetail": "Убейте 15 врагов за 3 секунды.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/0C1F90BBC6816A83120FC3FFEF46AE1359144000.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "В единстве — сила!",
+      "trophyDetail": "Вступите в пантеон.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/2FD05A29C2B44DA3DE95C46A6F1FFFDAF67921B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Высшая сила",
+      "trophyDetail": "Примите божественную форму 10 раз.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/485EBEF79E259B07DF4C06A37B2DE5B8CC9CEF48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Плечом к плечу",
+      "trophyDetail": "Пройдите 10 групповых приключений.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/F6798EED427E3953EFA2A46ECC8A850B2AD305A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Чудеса науки",
+      "trophyDetail": "Создайте персонажа женского пола.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/9ACFC90057E4123AA6AE78A9F42BD818B24BA307.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Перевертыш",
+      "trophyDetail": "Смените класс.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/21C818AEE88804D1486AF098F4E0549FF4E186A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Герой Ланбера!",
+      "trophyDetail": "Выполните все задания в Ланберском лесу.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/657B09EB1015032F98CBD06267C9684BEC037469.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Турист!",
+      "trophyDetail": "Выполните все задания на острове Наори.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/86121507A5A4F2CC90A1D49117E57595B9756FCA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Археолог!",
+      "trophyDetail": "Завершите все задания на раскопках Исолы.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/A5D18EF7211CCF7C55AF3C0136F654A5F1E4A0EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Серьезно?",
+      "trophyDetail": "Утоните в воде.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/0D9D7F470376A7388AD8FDCE23EC8D09EB772F4E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Путешествие к центру Элиона",
+      "trophyDetail": "Найдите край мира и свалитесь с него.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/23DBDA5B80328850B014EDC359EDA88DEF49ACA0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Тол-Монтер",
+      "trophyDetail": "Победите аватара океанидов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/91914A1359947D640BD0E55BFB3D91C89E5A4AF8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Аконита",
+      "trophyDetail": "Победите аватара горгонидов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/40786712FDC9A3B6C68F56BDA15C68B7E2B4015D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Нихаз",
+      "trophyDetail": "Победите аватара демонов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/C330A73FA058482A4224F175F1C7AF31E2111F0C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Натиск моря",
+      "trophyDetail": "Победите владыку штормов Наутилуса в искажении океанидов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/480ECFBDC9BF72365DE45847F0AE2C3AA6143BE7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Змеиное гнездо",
+      "trophyDetail": "Победите командира серпионов Гисцену Мучительницу в искажении горгонидов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/920F99575E4646F2CB94C1500E3D86A084AD248E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Астральное заражение",
+      "trophyDetail": "Победите великого спрутоглава Нериг'хора в искажении демонов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/AB86EDE732AC2F59A303D7E328946FB2EE8D520A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Избранный смертью",
+      "trophyDetail": "Сделайте все улучшения в храме ревенанта.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/673F8FC92CD57C2A98D32A391E58778D55C3673D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Защитник Тессы",
+      "trophyDetail": "Сделайте все улучшения в храме друида.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/258A996C725439D76B69E95FFAC3BF62FB200996.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Голос Элиона",
+      "trophyDetail": "Сделайте все улучшения в храме акустика.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/968785B5D52CAE5ADE9C5DC0079746053E7B655F.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Рожденный в пламени",
+      "trophyDetail": "Сделайте все улучшения в храме пироманта.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/68F9DADBBE5FC108357A31161D41DD230DE14E59.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Солдат удачи",
+      "trophyDetail": "Сделайте все улучшения в храме наемника.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/B621ADACDDDCDDE7CA81CC9776195893B8E70707.PNG",
+      "trophyGroupId": "005"
+    }
+  ],
+  "totalItemCount": 59
+}

@@ -1,0 +1,825 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR19552_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "HITMAN 3",
+  "trophyTitleDetail": "HITMAN 3",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/55413523D5A6D2AB679CB9FABB233FEBDC2260E3.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 66,
+    "silver": 16,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "HITMAN 3",
+      "trophyGroupDetail": "HITMAN 3",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/55413523D5A6D2AB679CB9FABB233FEBDC2260E3.PNG",
+      "definedTrophies": {
+        "bronze": 30,
+        "silver": 16,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "HITMAN 2 Expansion",
+      "trophyGroupDetail": "HITMAN 2 Expansion",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/303693030E50345F39462DD5605E2F35B2FF400A.PNG",
+      "definedTrophies": {
+        "bronze": 10,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "HITMAN 2",
+      "trophyGroupDetail": "HITMAN 2",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/7E8B363F51F004E59ED086ED22FD81DE955BE0CC.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "HITMAN",
+      "trophyGroupDetail": "HITMAN",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/9D25D9C5D9F5BC53F0239222338B879A1CE3CE9B.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Мир наемных убийц",
+      "trophyDetail": "Получите все призы 47-го.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/703114CA4DB2F3B7989EA0999F6DED61D19F648F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Результат долгих тренировок",
+      "trophyDetail": "Пройдите «Свободную тренировку» в прологе.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/BC619C749577A9F5220D77506016CFB33F3A6F0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Допущен к работе",
+      "trophyDetail": "Пройдите «Последнее испытание» в прологе.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/3452982A1FBDD8CD621FED803F9CB9C2691BD479.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Воспользоваться шансом",
+      "trophyDetail": "Выполните любое сюжетное задание в «Последнем испытании».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/C5112F1913006DB731374D07AC55F16B26DF1535.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Изобретательный убийца",
+      "trophyDetail": "Пройдите обучение по созданию контракта.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/644291442B7EA4121A79679F5112930B2CF022E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Бесшумный убийца",
+      "trophyDetail": "Пройдите «Последнее испытание» незамеченным, устранив только Джаспера Найта и спрятав его тело.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/B447AD6D32E24AA6E93C416E8E8C29D219B5A9B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Обострение в тренировке",
+      "trophyDetail": "Завершите 5-й уровень контракта на обострение в комплексе МКА.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/9D418D021C541BC0894B2F48CCDAB62EAA4029B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первый среди равных",
+      "trophyDetail": "Побейте рекордный счет в контракте из списка лидеров.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/2AEEE120074821C945843233D0C656F555291909.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Новое дело",
+      "trophyDetail": "Завершите избранный контракт.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/F0252B661BBED8B7314C7BEC60B29C7FA48D509C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Инструменты мастера",
+      "trophyDetail": "Устраните цели выстрелом, подстроенным несчастным случаем и взрывом.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/36753603B77789536CDBEC05ED28B55B086830FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Невидимый убийца",
+      "trophyDetail": "Устраните цель, оставаясь незамеченным.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/F6478D3278687B631C44406D024340011972CA94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Убийца с быстрым доступом",
+      "trophyDetail": "Найдите и откройте 15 коротких путей.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/629E81EAA9226DE02548B8B94CB7E56BFD3568B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Стильный убийца",
+      "trophyDetail": "Получите 10 разных стилей игры.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/4813DE2C6A993F7DAFC7AB9303D820CDB512CF7B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Смерть сверху",
+      "trophyDetail": "Пройдите миссию «На вершине мира».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/2CC1DB74AC036EED6318D7B1E190BF83E61F6986.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Пустынный налетчик",
+      "trophyDetail": "Откройте все неизвестные области в Дубае.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/B05597644924D105824B3B8A48BB24AB74F74279.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Коварная архитектура",
+      "trophyDetail": "Убейте Ингрэма его моделью нефтяной вышки, столкните Стейвесанта за ограждение и убейте обоих в воздухе.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/6A2D00DE90B263349885B9375E5ADFC5767826DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Шкурный интерес",
+      "trophyDetail": "Сделайте так, чтобы цель, одетая в парашютный комбинезон, поскользнулась и упала во время эвакуации.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/39BD3B61EC92AE235E335F2CC0BBD3E18438AABB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Высотка",
+      "trophyDetail": "Завершите все сюжетные задания в миссии «На вершине мира».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/4FF544DE5FCF7316B74B12F88163C61AB32544BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Карьерная лестница",
+      "trophyDetail": "Получите 20-й уровень мастерства в Дубае.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/9492F62E5A148D297D42295228B50C96A21D6A20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Главный в доме",
+      "trophyDetail": "Пройдите миссию «Смерть родственника».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/198B714A5FE9239800502CA82EF149DA15A31915.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Залезть под каждый камень",
+      "trophyDetail": "Откройте все неизвестные области в Дартмуре.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/959EE9757D6131BE1F6FFF33B959EF374D56A0CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Сверху и снизу",
+      "trophyDetail": "Устраните Алексу в ее личной комнате, застрелите ее с крыши и отправьте на вечный покой.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/99BBE39912091CF067BFF30DE81140FA686C4AA0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Семейная ссора",
+      "trophyDetail": "Помогите Эмме убить Алексу.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/EA7CBA783444A323DAF016019EEB194399E852CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Все в сборе",
+      "trophyDetail": "Завершите все сюжетные задания в миссии «Смерть родственника».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/0EE3D680C1D67AFB847C085FFDCDBC81CEB36FF8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Бескрайние просторы",
+      "trophyDetail": "Получите 20-й уровень мастерства в Дартмуре.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/E60740AE395585E074D12C923436D1B59CD244D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Испорченный праздник",
+      "trophyDetail": "Пройдите миссию «Суперхищник».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/7D908AA6979273383162ACB776D2F74967F5139C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Следопыт",
+      "trophyDetail": "Откройте все неизвестные области в Берлине.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/9C74A03A1856F260CA46D65D1A046F9176D793B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Отрыв по полной",
+      "trophyDetail": "Подстройте Тремейну несчастный случай с винтовкой, ударьте Темзу краном, а также подпалите Монтгомери и Стяга в клубе.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/6C6946DE3CF92CF8FD486E5274000C2F09C562A7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Красивая птичка",
+      "trophyDetail": "Сфотографируйте желтую птицу.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/492C9414130FEBCBD8714899D456CDF51C10FC37.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Последний заказ",
+      "trophyDetail": "Станьте владельцем клуба и разберитесь с МКА.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/83CADB4DE067826D5757DD58194B0986E56AC8BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ветеран склада",
+      "trophyDetail": "Получите 20-й уровень мастерства в Берлине.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/28286EB01FB61FF582DF8286D7D60D5B13DEF9D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "NEXUS-47",
+      "trophyDetail": "Пройдите миссию «Конец эпохи».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/53CFD43E93D8077BDF54092B80CEB71A856F9940.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Специалист по слежке",
+      "trophyDetail": "Откройте все неизвестные области в Чунцине.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/8803579C338646ACA60C17A15F27917605742AAF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Шок будущего",
+      "trophyDetail": "Убейте Хаша в его «кресле для отдыха», поразите Ройс током и застрелите обоих одной пулей.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/47CA459384723DF4C77470F9989C88D506D7A2D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Хулиган у терминала",
+      "trophyDetail": "Уничтожьте сервер с помощью терминала Ройс.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/C0C8B8717859EA8051A643CE6F4B2449D4C83546.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Хакер",
+      "trophyDetail": "Завершите все сюжетные задания в миссии «Конец эпохи».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/B649B0AB8DA6A5BD4FD8CABC287E960E60B7EA1D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Взлом планеты",
+      "trophyDetail": "Вы получили 20-й уровень мастерства в Чунцине.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/CF7AEEA5E8EA0BA111E0DC4CAEDEBE2E54883373.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Последнее танго",
+      "trophyDetail": "Пройдите миссию «Прощание».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/ABF90F05EDE73A3F7E22AA6B59EECB7F857C3E9C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Знаток терруара",
+      "trophyDetail": "Откройте все неизвестные области в Мендосе.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/BF9937D084AB448CC3CF52082BD547B836E38E41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Сбор урожая",
+      "trophyDetail": "Сбросьте Видаль в виноградную дробилку, напоите Йейтса отравленным «Гран Паладином» и убейте обоих газом.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/C41CFDCF9FE3B6CBB734458250F928430C599C34.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Клуб злобных дегустаторов",
+      "trophyDetail": "Посетите тайное собрание «Провиденс».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/8A9824CEED2ABAD7BB0A6D4F080B47D56301CA04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Богатый урожай",
+      "trophyDetail": "Завершите все сюжетные задания в миссии «Прощание».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/511AB23526852AD85EEA65D783B0D58980322C42.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Виртуозный винодел",
+      "trophyDetail": "Получите 20-й уровень мастерства в Мендосе.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/B7486B90A5CF0E0380BBBEF1F14C66E4F6DB12E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Почва для кошмаров",
+      "trophyDetail": "Пройдите миссию «Неприкасаемый».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/B813D1662BF949DBD70EC4F6539197A5CC7BBE01.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Скоростной экспресс",
+      "trophyDetail": "Убейте охранника из пистолета с глушителем, дробовика и пистолета-пулемета.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/CD3AD478731CA7071682F2E5E9B5C3B83C3EB22E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Обратный отсчет от 47",
+      "trophyDetail": "47-й снова ложится спать.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/C729FFEC5A5F9DE088EAF976365A503AF76EE1D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Зацепер",
+      "trophyDetail": "Завершите все испытания в миссии «Неприкасаемый».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/023FEA17E1CA1C32BA04C34C20BA6D0F5003F936.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Последняя остановка",
+      "trophyDetail": "Получите 5-й уровень мастерства в Карпатах.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/A0D24B1D79B7C0D627B640190D32BC03B6C1EC52.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Семизначный гонорар",
+      "trophyDetail": "Наберите больше 1 000 000 очков в миссии «Перо и меч».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/09939EC6D3FEB89BBFE555C09813D67945644658.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ястребление",
+      "trophyDetail": "Выполните миссию «Перо и меч», получив достижение «Бесшумный убийца».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/32F8A30199FF1B517197BD943B708D5728F968B8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Само совершенство",
+      "trophyDetail": "Выполните все испытания в миссии «Перо и меч».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/37FE73FF3CB5BD778AE8E25888152B594FC422D5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ограбление банка",
+      "trophyDetail": "Выполните миссию «Выходное пособие».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/ACE4A5A3A56CE1B1D3C8BE03F97C712613C184E2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "На вершине",
+      "trophyDetail": "Получите 20-й уровень мастерства в Нью-Йорке.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/298E327336922F9F1812F21F054252F48F41DE8C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "У них своя атмосфера",
+      "trophyDetail": "Наберите более 1 000 000 очков в миссии «Преступление и наказание».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/D04F5B2B1E5706E1D73046701B9F9FE5D6C136E9.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Смерть из ниоткуда",
+      "trophyDetail": "Выполните миссию «Преступление и наказание», получив достижение «Бесшумный убийца».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/FE5B9C3A6FC54760EB7FE5A44206FEF7EA7A1A84.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Высшая мера",
+      "trophyDetail": "Выполните все испытания в миссии «Преступление и наказание».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/35A8B242DBB49B166D7DD2B627181CCC83C3CF34.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Остров релакса",
+      "trophyDetail": "Выполните миссию «Последнее пристанище».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/AEB492708FA43129A8CB4D57BD36AEEF009429AE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Аннулировано",
+      "trophyDetail": "Получите 20-й уровень мастерства на Острове «Гавань».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/1E1BB806C419BB55B24A68FDDD13666BF8115DDF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лазутчик",
+      "trophyDetail": "Выполните миссию «Ночная смена».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/83E73084B24F7B255B531A69577783F5D5EDEF98.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Краевед",
+      "trophyDetail": "Получите 5-й уровень мастерства в Хокс-Бей.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/AF65933E3B1ABB06F753F31CC55711B05D4BC54E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Антикризисное управление",
+      "trophyDetail": "Выполните миссию «Финишная черта».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/F332E40EE352346A51B928B4A01752609F51CFF3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Свой человек в Майами",
+      "trophyDetail": "Получите 20-й уровень мастерства в Майами.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/E745B2388E3A795C1E67AB02ADD2CBBC14C62E9C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Тактический удар",
+      "trophyDetail": "Выполните миссию «Трехглавый змей».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/D95F53DB8D6F1F5E39B4FBA52F8A28A4F1588D2F.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Кладбищенский турист",
+      "trophyDetail": "Получите 20-й уровень мастерства в Санта-Фортуне.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/2AB8A090F3B6D84C96D816DDAA4CA9754EC81F70.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Охотник на пиратов",
+      "trophyDetail": "Выполните миссию «В погоне за призраком».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/02489D678AD2E32F5646548823290077CE95171B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ключи от города",
+      "trophyDetail": "Получите 20-й уровень мастерства в Мумбаи.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/D74357E0DDF841E1EC3D846E5D544933421D6A2E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Темная лошадка",
+      "trophyDetail": "Выполните миссию «Другая жизнь».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/48615E884D648A9C752354C490633DAF468ABA38.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Соль земли",
+      "trophyDetail": "Получите 20-й уровень мастерства в Уиттлтон-Крике.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/DF513512BC999F9D6C3599391B9F2FD48ADCEC78.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "К вам проверка",
+      "trophyDetail": "Выполните миссию «Общество Ковчега».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/266F3FB28E0167733A02BD4B7E1AF9265249653D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Члены клана",
+      "trophyDetail": "Получите 20-й уровень мастерства на Острове Тени.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/7CCE384616986F6ED6464554AF043B543489E9EC.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Бесшумный снайпер",
+      "trophyDetail": "Выполните миссию «The Last Yardbird» и получите достижение «Бесшумный убийца».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/E078526B54B19E6B335E09427A83258389DE4C88.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Кто, если не я?",
+      "trophyDetail": "Пройдите миссию «Гвоздь программы».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/74D107AB9F39C98D15D1F215F65C641BE0237100.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Город огней",
+      "trophyDetail": "Получите 20-й уровень мастерства в Париже.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/A47FD9B10D0F2B7D763496E70CB1C0E7B72EA6CE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "От меча и погибнуть",
+      "trophyDetail": "Пройдите миссию «Мир будущего».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/3C7737F081C890F003CC43745A6F32A588214E0A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Жемчужина Амальфи",
+      "trophyDetail": "Получите 20-й уровень мастерства в Сапиенце.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/4A76E74E0D212022CF569375229000230506C532.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Слишком крут для неудачи",
+      "trophyDetail": "Пройдите миссию «Золотая клетка».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/0F851CF84D698BCA5A891A30A29FAB09D9F3D6E9.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Древний Марракеш",
+      "trophyDetail": "Получите 20-й уровень мастерства в Марракеше.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/7296C290CC7BF2285669D9FCB988F3F95B12D913.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Перфекционист",
+      "trophyDetail": "Пройдите испытания «Только костюм» и «Бесшумный убийца» в миссии «Идол», «Дом на песке» или «Обвал».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/0EBB38E047008F94F92F7DB870A72EB2982627EB.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Гори, гори, моя звезда",
+      "trophyDetail": "Пройдите миссию «Клуб 27».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/2B30ED59FFB742BF80886D2073EC34658095B6A9.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ночь в Бангкоке",
+      "trophyDetail": "Получите 20-й уровень мастерства в Бангкоке.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/187CCEE1BC5D7374DD836E2B8247E06B8C304171.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Партизанская война",
+      "trophyDetail": "Пройдите миссию «Борцы за свободу».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/5A21FF5264D4019C6DACEB72ADE32BCCE164CD23.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Миссия выполнена",
+      "trophyDetail": "Получите 20-й уровень мастерства в Колорадо.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/2A8E2D435A127ADCB98A88A2CCB07DF1634526FC.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лишь вопрос времени",
+      "trophyDetail": "Пройдите миссию «Транспозиция органов».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/ECDFE6276B03CD5E1EBD881EA78E4A384EB5DC40.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сайонара",
+      "trophyDetail": "Получите 20-й уровень мастерства на Хоккайдо.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/48E89CA1A33A262C120183A2233FD91184F856FE.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 84
+}

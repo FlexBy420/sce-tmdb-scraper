@@ -1,0 +1,393 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR19030_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "DCL - The Game",
+  "trophyTitleDetail": "DCL - The Gameに設定されているトロフィー",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/57ADDFD82424E922AC78992201AF8EDA33220528.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 24,
+    "silver": 11,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "DCL - The Game",
+      "trophyGroupDetail": "DCL - The Gameに設定されているトロフィー",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/57ADDFD82424E922AC78992201AF8EDA33220528.PNG",
+      "definedTrophies": {
+        "bronze": 24,
+        "silver": 11,
+        "gold": 4,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "DCLレジェンド",
+      "trophyDetail": "他のトロフィーをすべてアンロック",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/3C7B2DD1D2EA249C7DFF2017620109D9E06B42B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初のレース",
+      "trophyDetail": "最初の1プロップ以上でタイムアタックを完了する (+100)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/A5339F4BA8C703E1067BC5BECF2CA0F8579FB1D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初の重量",
+      "trophyDetail": "最初の重量でタイムアタックを完了する (+100)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/77A778AC226C802050E3F947AF59A1C0A1C34C73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初のDCL19",
+      "trophyDetail": "最初のDCL19でタイムアタックを完了する (+100)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/00F37CF068DB20AB972F3002F8C15BA1758DDEBA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初の軽量",
+      "trophyDetail": "最初の軽量でタイムアタックを完了する (+100)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/4D8BB84A317C985F7122A8C303F2C931D684E72F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "タイムアタック10回",
+      "trophyDetail": "タイムアタックを10回完了する (+500)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/C40EE30CFEF54D856450A08B34E711EDE26B2372.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "タイムアタック50回",
+      "trophyDetail": "タイムアタックを50回完了する (+2500)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/566F1F8CD0D81FBFD5C11819D1179A7B5FAAB553.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "タイムアタック100回",
+      "trophyDetail": "タイムアタックを100回完了する (+5000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/A796947D2B7BED1B2694DCBC8A7352FD05845543.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "タイムアタック500回",
+      "trophyDetail": "タイムアタックを500回完了する (+20000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/5846A7917AF07F87984CD2D848C9C173B2BB2E27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初のドローン",
+      "trophyDetail": "最初のドローンスキンを購入する (+250)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/E7C473635E4BB94AA04E6A8BE39EB01E830DBC98.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初のトレイル",
+      "trophyDetail": "最初のトレイルを購入する (+250)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/BEE6994C2FD9EA371F09E106A0DEF85E3F8FA400.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初のイベント",
+      "trophyDetail": "最初のイベントを完了する (+1000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/F35178E2AE2203753A1EEC8AC028C5CC30177058.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "イベント5回",
+      "trophyDetail": "イベントを5回完了する (+2500)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/021046F45E8313407A7FB51A5C3FB82A3A4BBD16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "イベント10回",
+      "trophyDetail": "イベントを10回完了する (+5000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/4B49944BF091AB6DC8D971F69AF9F847DDE051A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "エアタイム1時間",
+      "trophyDetail": "ドローンを1時間飛ばす (+1000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/228EF8506E90313774981FA558541D14DA5CE109.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初のレースフロー",
+      "trophyDetail": "最初のレースフローを完了する (+250)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/A8EA81CF2D9B61C8B55FB0FC44217207C9ECA0B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "レースフロー10回",
+      "trophyDetail": "レースフローを10回完了する (+500)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/17FBC225CF34A52E6D4DC6EB18068E7682DBD0D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "レースフロー25回",
+      "trophyDetail": "レースフローを25回完了する (+1000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/1D9185B4BFFDFB270CC4C586AE2CE6BE4AEC7F4F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "レースフロー50回",
+      "trophyDetail": "レースフローを50回完了する (+2500)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/CEB839658E79BBE3D4D60A035C749230CD497934.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "レースフロー100回",
+      "trophyDetail": "レースフローを100回完了する (+10000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/C501DFB49E6B1F94785EA5EFBDA801CBE47AD3D8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Laaxプロ",
+      "trophyDetail": "5つのLaaxコースで3プロップを獲得する (+1000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/2ADD3BBB0D743DFB18CCB20582B0C6169383BD00.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Laaxチャンピオン",
+      "trophyDetail": "5つのLaaxコースで5プロップを獲得する (+10000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/40449F5D6D892ADB4E4618BC8F0ED3E982A773F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reutteプロ",
+      "trophyDetail": "4つのReutteコースで3プロップを獲得する (+1000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/348EE0892C5DE53613154E6EAEDE6166913227EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Reutteチャンピオン",
+      "trophyDetail": "4つのReutteコースで5プロップを獲得する (+10000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/3E7C6B007F566C9E8F0B9A07E5B5A664BC6AEA15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oilbandoプロ",
+      "trophyDetail": "5つのOilbandoコースで3プロップを獲得する (+1000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/A5ACFE59BF5986F8D40156286CCB3BB40EE43E06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Oilbandoチャンピオン",
+      "trophyDetail": "5つのOilbandoコースで5プロップを獲得する (+10000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/87BDE2357172B9E7B811196A4B73A26CD5829318.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Proptownプロ",
+      "trophyDetail": "5つのProptownコースで3プロップを獲得する (+1000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/EDD44E1AF6C6E8568827055C17092561DBC0C64D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Proptownチャンピオン",
+      "trophyDetail": "5つのProptownコースで5プロップを獲得する (+10000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/9AA69C1401A0B3E40AD1A867F084F49F67C96421.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ドローンアマチュア",
+      "trophyDetail": "20のドローンを所有する (+2500)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/3F572C132D7F9E43AB63C42206FFB8294E6CC7E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ドローンコレクター",
+      "trophyDetail": "34のドローンを所有する (+10000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/2E82BCC8D018AFE472E2384484294C1FC1CE2944.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "トレ―ルアマチュア",
+      "trophyDetail": "15のトレイルを所有する (+2500)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/14B289757939475242509B9DEA4EA1F2DE1432E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "トレ―ルコレクター",
+      "trophyDetail": "24のトレイルを所有する (+10000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/258E244C9D4113E0C48A8CAB6CF1647D159B9CC9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "小銭かせぎ",
+      "trophyDetail": "10000ドルを獲得する (+0)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/AB14878155C9233A13747D5C33918D746537FC41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "お金持ち",
+      "trophyDetail": "100000ドルを獲得する (+0)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/268101BE1ABBCDB6C1956F17A4694510A5B9AA76.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "エアタイム100時間",
+      "trophyDetail": "ドローンを100時間飛ばす (+20000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/418FE83481B1D84932E5364B098816D25B432B56.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "トラックマスター",
+      "trophyDetail": "24のトラックをアンロックする (+5000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/FD22DFB9F7CEB2634D5893F091A9F9F90227D915.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DCL19コンプリーティスト",
+      "trophyDetail": "DCL19ドローンを使って、24トラックで少なくとも1プロップを取得する (+5000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/AFA782F7673D732B4F9CDF4C079067BAD87CEB07.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "重量コンプリーティスト",
+      "trophyDetail": "重量ドローンを使って、24トラックで少なくとも1プロップを取得する (+5000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/11C6681DE771AF10C0773203EB43B93BA19EA30B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "軽量コンプリーティスト",
+      "trophyDetail": "軽量ドローンを使って、24トラックで少なくとも1プロップを取得する (+5000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/E8CE971CF4D36C299888A054EA559ED654E62189.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "タイムアタックの最高位",
+      "trophyDetail": "24トラックで5プロップを達成する (+50000)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19030_00_00D5AA337FDB9885917C314627839285E4040B14F4/EB58949B625FA4668F71D510AAA657266C1D82FE.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 40
+}

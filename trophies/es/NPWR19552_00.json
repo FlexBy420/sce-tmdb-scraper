@@ -1,0 +1,825 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR19552_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "HITMAN 3",
+  "trophyTitleDetail": "HITMAN 3",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/55413523D5A6D2AB679CB9FABB233FEBDC2260E3.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 66,
+    "silver": 16,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "HITMAN 3",
+      "trophyGroupDetail": "HITMAN 3",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/55413523D5A6D2AB679CB9FABB233FEBDC2260E3.PNG",
+      "definedTrophies": {
+        "bronze": 30,
+        "silver": 16,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "HITMAN 2 Expansion",
+      "trophyGroupDetail": "HITMAN 2 Expansion",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/303693030E50345F39462DD5605E2F35B2FF400A.PNG",
+      "definedTrophies": {
+        "bronze": 10,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "HITMAN 2",
+      "trophyGroupDetail": "HITMAN 2",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/7E8B363F51F004E59ED086ED22FD81DE955BE0CC.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "HITMAN",
+      "trophyGroupDetail": "HITMAN",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/9D25D9C5D9F5BC53F0239222338B879A1CE3CE9B.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Mundo del asesinato",
+      "trophyDetail": "Consigue los 47 trofeos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/703114CA4DB2F3B7989EA0999F6DED61D19F648F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fruto de un entrenamiento previo",
+      "trophyDetail": "Completa «Entrenamiento improvisado» en el prólogo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/BC619C749577A9F5220D77506016CFB33F3A6F0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apto para el servicio",
+      "trophyDetail": "Completa «La prueba final» en el prólogo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/3452982A1FBDD8CD621FED803F9CB9C2691BD479.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aprovechando la oportunidad",
+      "trophyDetail": "Completa una historia de la misión en «La prueba final».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/C5112F1913006DB731374D07AC55F16B26DF1535.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "El asesino creativo",
+      "trophyDetail": "Completa el tutorial de creación de contratos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/644291442B7EA4121A79679F5112930B2CF022E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Asesino silencioso",
+      "trophyDetail": "Completa «La prueba final» sin que te vean. Mata solo a Jasper Knight y que no lo encuentren.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/B447AD6D32E24AA6E93C416E8E8C29D219B5A9B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Entrenamiento intensificado",
+      "trophyDetail": "Completa el nivel 5 de un contrato de intensificación en la instalación de la Agencia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/9D418D021C541BC0894B2F48CCDAB62EAA4029B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "El primero de la clase",
+      "trophyDetail": "Has logrado la mejor puntuación en un contrato.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/2AEEE120074821C945843233D0C656F555291909.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un perfil nuevo",
+      "trophyDetail": "Completa un contrato destacado.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/F0252B661BBED8B7314C7BEC60B29C7FA48D509C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Herramientas del oficio",
+      "trophyDetail": "Elimina a objetivos con armas de fuego, accidentes y explosiones.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/36753603B77789536CDBEC05ED28B55B086830FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Asesino sigiloso",
+      "trophyDetail": "Elimina a un objetivo sin ser detectado.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/F6478D3278687B631C44406D024340011972CA94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Asesino de los atajos",
+      "trophyDetail": "Encuentra y desbloquea 15 atajos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/629E81EAA9226DE02548B8B94CB7E56BFD3568B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Asesino estiloso",
+      "trophyDetail": "Consigue 10 estilos de juego distintos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/4813DE2C6A993F7DAFC7AB9303D820CDB512CF7B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Muerte desde arriba",
+      "trophyDetail": "Completa «En la cima del mundo».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/2CC1DB74AC036EED6318D7B1E190BF83E61F6986.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Incursor de dunas",
+      "trophyDetail": "Revela todas las zonas sin descubrir de Dubái.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/B05597644924D105824B3B8A48BB24AB74F74279.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Arquitectura traicionera",
+      "trophyDetail": "Mata a Ingram con su maqueta, tira a Stuyvesant por una barandilla y mátalos en el aire.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/6A2D00DE90B263349885B9375E5ADFC5767826DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mantén los ojos bien abiertos",
+      "trophyDetail": "Haz que el objetivo resbale y caiga mientras trata de huir con un traje de paracaidismo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/39BD3B61EC92AE235E335F2CC0BBD3E18438AABB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Subidón",
+      "trophyDetail": "Completa todas las historias de la misión «En la cima del mundo».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/4FF544DE5FCF7316B74B12F88163C61AB32544BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Maestro de las escaleras",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Dubái.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/9492F62E5A148D297D42295228B50C96A21D6A20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maestro de la casa",
+      "trophyDetail": "Completa «Muerte en la familia».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/198B714A5FE9239800502CA82EF149DA15A31915.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ninguna piedra sin remover",
+      "trophyDetail": "Revela todas las zonas sin descubrir de Dartmoor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/959EE9757D6131BE1F6FFF33B959EF374D56A0CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Escaleras arriba y abajo",
+      "trophyDetail": "Elimina a Alexa en su sala privada, dispárale desde el tejado y llévala a su tumba.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/99BBE39912091CF067BFF30DE81140FA686C4AA0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rencilla familiar",
+      "trophyDetail": "Ayuda a Emma a eliminar a Alexa.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/EA7CBA783444A323DAF016019EEB194399E852CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Casa de los líos",
+      "trophyDetail": "Completa todas las historias de la misión en «Muerte en la familia».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/0EE3D680C1D67AFB847C085FFDCDBC81CEB36FF8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Al aire libre",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Dartmoor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/E60740AE395585E074D12C923436D1B59CD244D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Una fiesta de muerte",
+      "trophyDetail": "Completa «Superdepredador»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/7D908AA6979273383162ACB776D2F74967F5139C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Siguiendo la senda",
+      "trophyDetail": "Revela todas las zonas sin descubrir de Berlín.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/9C74A03A1856F260CA46D65D1A046F9176D793B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tanta fiesta pasa factura",
+      "trophyDetail": "Accidente de fusil para Tremaine, la grúa golpea a Thames, y Montgomery y Banner iluminan el club.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/6C6946DE3CF92CF8FD486E5274000C2F09C562A7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Arte aviar",
+      "trophyDetail": "Fotografía el pájaro amarillo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/492C9414130FEBCBD8714899D456CDF51C10FC37.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Última llamada",
+      "trophyDetail": "Hazte pasar por el dueño del club y siéntate con la Agencia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/83CADB4DE067826D5757DD58194B0986E56AC8BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Veterano de almacenes",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Berlín.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/28286EB01FB61FF582DF8286D7D60D5B13DEF9D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "NEXUS-47",
+      "trophyDetail": "Completa «El fin de una era».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/53CFD43E93D8077BDF54092B80CEB71A856F9940.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maestro de la vigilancia",
+      "trophyDetail": "Revela todas las zonas sin descubrir de Chongqing.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/8803579C338646ACA60C17A15F27917605742AAF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sacudida futura",
+      "trophyDetail": "Elimina a Hush en su «silla de relax», electrocuta a Royce y acaba con ambos de un solo tiro.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/47CA459384723DF4C77470F9989C88D506D7A2D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Vaquero de la consola",
+      "trophyDetail": "Usa la terminal de Royce para freír el núcleo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/C0C8B8717859EA8051A643CE6F4B2449D4C83546.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rompehielos",
+      "trophyDetail": "Completa todas las historias de la misión en «El fin de una era».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/B649B0AB8DA6A5BD4FD8CABC287E960E60B7EA1D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pirateo al planeta",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Chongqing.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/CF7AEEA5E8EA0BA111E0DC4CAEDEBE2E54883373.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "El último tango",
+      "trophyDetail": "Completa «La despedida».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/ABF90F05EDE73A3F7E22AA6B59EECB7F857C3E9C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maestro del terruño",
+      "trophyDetail": "Revela todas las zonas sin descubrir de Mendoza.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/BF9937D084AB448CC3CF52082BD547B836E38E41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Maduro para la cosecha",
+      "trophyDetail": "Vidal en la estrujadora, Grand Paladin envenenado para Yates y elimina a ambos con gas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/C41CFDCF9FE3B6CBB734458250F928430C599C34.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Club de vino maligno",
+      "trophyDetail": "Asiste a la reunión secreta de Providence.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/8A9824CEED2ABAD7BB0A6D4F080B47D56301CA04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Buena cosecha",
+      "trophyDetail": "Completa todas las historias de la misión en «La despedida».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/511AB23526852AD85EEA65D783B0D58980322C42.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Virtuoso de los viñedos",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Mendoza.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/B7486B90A5CF0E0380BBBEF1F14C66E4F6DB12E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Combustible de pesadilla",
+      "trophyDetail": "Has completado «Intocable».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/B813D1662BF949DBD70EC4F6539197A5CC7BBE01.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tren bala",
+      "trophyDetail": "Liquida a un guardia con una pistola con silenciador, con una escopeta y con un subfusil.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/CD3AD478731CA7071682F2E5E9B5C3B83C3EB22E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cuenta atrás desde 47",
+      "trophyDetail": "47 se echa otra siestecita.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/C729FFEC5A5F9DE088EAF976365A503AF76EE1D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Surfeo de trenes",
+      "trophyDetail": "Completa todos los desafíos de «Intocable».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/023FEA17E1CA1C32BA04C34C20BA6D0F5003F936.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Última parada",
+      "trophyDetail": "Alcanzado el nivel 5 de maestría en los Cárpatos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/A0D24B1D79B7C0D627B640190D32BC03B6C1EC52.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Siete cifras",
+      "trophyDetail": "Consigue una puntuación de más de 1 000 000 de puntos en «La pluma y la espada».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/09939EC6D3FEB89BBFE555C09813D67945644658.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vista de halcón",
+      "trophyDetail": "Completa «La pluma y la espada» como Asesino silencioso.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/32F8A30199FF1B517197BD943B708D5728F968B8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pura poesía",
+      "trophyDetail": "Completa todos los desafíos de «La pluma y la espada».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/37FE73FF3CB5BD778AE8E25888152B594FC422D5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cuélate en el banco",
+      "trophyDetail": "Completa «Jubilación anticipada».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/ACE4A5A3A56CE1B1D3C8BE03F97C712613C184E2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "En lo más alto",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Nueva York.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/298E327336922F9F1812F21F054252F48F41DE8C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "En su propia liga",
+      "trophyDetail": "Consigue una puntuación de más de 1 000 000 de puntos en «Crimen y castigo».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/D04F5B2B1E5706E1D73046701B9F9FE5D6C136E9.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ni se enterarán",
+      "trophyDetail": "Completa «Crimen y castigo» como Asesino silencioso.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/FE5B9C3A6FC54760EB7FE5A44206FEF7EA7A1A84.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Castigo capital",
+      "trophyDetail": "Completa todos los desafíos de «Crimen y castigo».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/35A8B242DBB49B166D7DD2B627181CCC83C3CF34.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Una isla y a relajarse",
+      "trophyDetail": "Completa «El último recurso».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/AEB492708FA43129A8CB4D57BD36AEEF009429AE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nulo",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en isla Haven.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/1E1BB806C419BB55B24A68FDDD13666BF8115DDF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Merodeador",
+      "trophyDetail": "Completa «Llamada nocturna».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/83E73084B24F7B255B531A69577783F5D5EDEF98.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conocimiento local",
+      "trophyDetail": "Alcanza el nivel 5 de maestría en Bahía de Hawke.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/AF65933E3B1ABB06F753F31CC55711B05D4BC54E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Control de daños",
+      "trophyDetail": "Completa «La línea de meta».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/F332E40EE352346A51B928B4A01752609F51CFF3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mi Miami",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Miami.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/E745B2388E3A795C1E67AB02ADD2CBBC14C62E9C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golpe táctico",
+      "trophyDetail": "Completa «Serpiente de tres cabezas».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/D95F53DB8D6F1F5E39B4FBA52F8A28A4F1588D2F.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Turista sospechoso",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Santa Fortuna.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/2AB8A090F3B6D84C96D816DDAA4CA9754EC81F70.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Caza de piratas",
+      "trophyDetail": "Completa «Perseguir a un fantasma».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/02489D678AD2E32F5646548823290077CE95171B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Llaves de la ciudad",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Bombay.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/D74357E0DDF841E1EC3D846E5D544933421D6A2E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Una probabilidad remota",
+      "trophyDetail": "Completa «Otra vida».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/48615E884D648A9C752354C490633DAF468ABA38.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un pilar para la comunidad",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Whittleton Creek.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/DF513512BC999F9D6C3599391B9F2FD48ADCEC78.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Esto no es más que mantenimiento",
+      "trophyDetail": "Completa «La Ark Society».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/266F3FB28E0167733A02BD4B7E1AF9265249653D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Miembro honorífico",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Isla de Sgàil.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/7CCE384616986F6ED6464554AF043B543489E9EC.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Francotirador silencioso",
+      "trophyDetail": "Completa «The Last Yardbird» como Asesino silencioso.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/E078526B54B19E6B335E09427A83258389DE4C88.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Atrevido",
+      "trophyDetail": "Completa «Showstopper».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/74D107AB9F39C98D15D1F215F65C641BE0237100.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La ciudad de las luces",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en París.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/A47FD9B10D0F2B7D763496E70CB1C0E7B72EA6CE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quien a hierro mata, a hierro muere",
+      "trophyDetail": "Completa «El mundo del mañana».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/3C7737F081C890F003CC43745A6F32A588214E0A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La joya amalfitana",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Sapienza.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/4A76E74E0D212022CF569375229000230506C532.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demasiado grande para fracasar",
+      "trophyDetail": "Completa «Una jaula de oro».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/0F851CF84D698BCA5A891A30A29FAB09D9F3D6E9.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marrakech ancestral",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Marrakech.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/7296C290CC7BF2285669D9FCB988F3F95B12D913.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfeccionista",
+      "trophyDetail": "Solo con traje y Asesino silencioso en «El icono», «Una casa hecha sobre arena» o «Mayoría absoluta»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/0EBB38E047008F94F92F7DB870A72EB2982627EB.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brilla con fuerza",
+      "trophyDetail": "Completa «Club 27».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/2B30ED59FFB742BF80886D2073EC34658095B6A9.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Una noche en Bangkok",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Bangkok.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/187CCEE1BC5D7374DD836E2B8247E06B8C304171.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guerra de guerrillas",
+      "trophyDetail": "Completa «Luchadores por la libertad».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/5A21FF5264D4019C6DACEB72ADE32BCCE164CD23.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Misión cumplida",
+      "trophyDetail": "Alcanza el nivel 20 de maestría en Colorado.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/2A8E2D435A127ADCB98A88A2CCB07DF1634526FC.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Se veía venir",
+      "trophyDetail": "Completa «Situs inversus».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/ECDFE6276B03CD5E1EBD881EA78E4A384EB5DC40.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sayōnara",
+      "trophyDetail": "Alcanza el nivel de maestría 20 en Hokkaido.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19552_00_00F5DDD966F8971E28240098FACD6823003A6B0000/48E89CA1A33A262C120183A2233FD91184F856FE.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 84
+}

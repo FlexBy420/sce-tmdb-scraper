@@ -1,0 +1,660 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR10860_00",
+  "trophySetVersion": "01.07",
+  "trophyTitleName": "The Surge",
+  "trophyTitleDetail": "The Surge Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/70095DF89643F272E8E8A3C45431143D708ECBB1.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 48,
+    "silver": 17,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "The Surge",
+      "trophyGroupDetail": "The Surge Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/70095DF89643F272E8E8A3C45431143D708ECBB1.PNG",
+      "definedTrophies": {
+        "bronze": 32,
+        "silver": 13,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "A Walk in the Park",
+      "trophyGroupDetail": "A Walk in the Park Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/FA06C074A36D2F28D0FCB1941D67284596B6DB8D.PNG",
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "The Good, the Bad and the Augmented",
+      "trophyGroupDetail": "The Good, the Bad and the Augmented Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/54BD7AEADD177302F4C988275349D5DD438A9AA9.PNG",
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Surge",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/A66596644A7423FF49EFAF8ED332AE31FE053A36.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "P.A.X",
+      "trophyDetail": "Defeated the Pacification Automaton X",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/05BF6E86B9571CE167F47E5478A82B7B60CC7097.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Firebug",
+      "trophyDetail": "Defeated the LU-74 \"Firebug\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/23606651DFEB1DAF1D070A87A704B0E9EBFE3FB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Big Sister",
+      "trophyDetail": "Defeated the Big SISTER 1/3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/F7545F03FDD10F58554CC0AD18292415E04F5A85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Black Cerberus",
+      "trophyDetail": "Defeated the security chief of Echelon 9",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/FE264B4A1D89B072E8302D3CC884F6041E86C241.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Brave New World",
+      "trophyDetail": "Finish the game without corrupting the Utopia protocols",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/8113F48CC9A2A5F49AD07B0B5411A7D967E0D4B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "For the Good of Mankind",
+      "trophyDetail": "Finish the game after corrupting the Utopia protocols",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/5FA32AC8C8CCBEDE0F7C981825862E8351654AFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I'll Be Back",
+      "trophyDetail": "Died for the first time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/96DB05862397404E5EB97DA78CD78E854B77C3E2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "On My Own Two Feet",
+      "trophyDetail": "Acquired your personal CREO Exo-Rig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/4C095FA3AD0B7C0AE6DC466AE8023831E6A46543.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sorry, I Dropped This",
+      "trophyDetail": "Found your lost Tech Scrap after dying",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/89D59B7C45815732F2E2E721AF05D804906D4C53.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hey Listen",
+      "trophyDetail": "Acquired your personal CREO companion drone",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/F3BC02F50710CD99A4097612DE5C278A8CA200E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "CREO Killed the Video Star",
+      "trophyDetail": "Met Don Hackett",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/ECE465B33603027EA38F945AF6F9EC2DF5F3F8AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gear Up",
+      "trophyDetail": "Enhanced your Exo-Rig for the first time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/F696A331B2295E2F99E9AAAB16C384F95F486867.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Watchman",
+      "trophyDetail": "Received the security upgrade for your Exo-Rig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/F6E4DDC7E5F7495575C65ED69787A0D8FE655841.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Who's in Charge Here?",
+      "trophyDetail": "Found the Board",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/C8C5E22B46FDC60A8F77FCD1809454F51EBDA31B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Turing Test",
+      "trophyDetail": "Met Sally in person",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/310B05C0EBEFE92A0CAAD537372F799810DAAFF6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "It Lives! It Sniffs! It Conquers!",
+      "trophyDetail": "Acquired the Iron Maus gear",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/E9B5CAC2AA9B6DEC6EBC8350ABC54878631392AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sunglasses at Night",
+      "trophyDetail": "Found yourself some sunglasses",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/244085589E5274C968DB7DBF6F576E1267095F51.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pusher Man",
+      "trophyDetail": "Helped someone refill their supply of medicine",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/B7A089A0C691511EBFEFEC40CFF69C1B4EDC549C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Melting Down",
+      "trophyDetail": "Defeat all five smelting machines",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/799834C067753DA5C5AFE86385031A1F3C3F62AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Repeat Customer",
+      "trophyDetail": "Gave Jo Tech Scrap three times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/02855EAD0409CA8DB4D94C12DEBA0E27E715EC72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Shall Not Pass",
+      "trophyDetail": "Defeated the guard at the NUCLEUS elevator",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/3A2F0EF2B68D5DC6190C9068CD320FFF6E186BFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Right Tool for the Job",
+      "trophyDetail": "Upgraded a weapon using the Nano Core crafting component",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/F766C4810166837D1EA7E8F14A1AF98EC65096ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Man of Steel",
+      "trophyDetail": "Upgraded a full gear set using the Nano Core crafting component",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/2547C79C199A6E00C79BC631D55311C8B5B9B78F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Core Power",
+      "trophyDetail": "Reach a Core Power of 80",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/33534B335EED46BD3F152D3FA9D8F605FC055698.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Duty-Bound",
+      "trophyDetail": "Accompanied a lost soul on her quest to find herself",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/2E5212FED3A1DC28CB928782661B93CCD825AB3F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ghost in the Machine",
+      "trophyDetail": "Accompanied a father and his little daughter on their way through the facility",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/7A856136B2E859B1DB815FB819340340258F11AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Follow the White Rabbit",
+      "trophyDetail": "Found all of Mallory's audio logs",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/D1003D13A67FBDF0A0E65932CAB6D3AA5A108A2C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "First Day on the Job",
+      "trophyDetail": "Acquired your selected job gear",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/6D6986F14900B499F0824DBB0D60D3FDEE6B90BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Liberation",
+      "trophyDetail": "Found all audio logs about the infamous \"Liberator\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/A1F4053F402538BBF6AD662EFC274CF022A983DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Raging Drones",
+      "trophyDetail": "Found all audio logs from and about Ferguson",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/CFF2D6935CC936BD8BC8E9A0C1D5C3BA2EABC114.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Evolution Theory",
+      "trophyDetail": "Found all of Dr. Murphy's audio logs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/9F7874F8C74CC78B4C008F2F3614188CDFCC8C58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Butcher's Bill",
+      "trophyDetail": "Cut each limb from human enemies at least once",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/8F721743120531EFDD3CDB631E0D9847C76A096C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Jack of All Trades",
+      "trophyDetail": "Reach level 5 weapon proficiency in each of the weapon types",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/8FB29706F96F0043856BFA0C4AFF53F22ACA4A76.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Most Wanted",
+      "trophyDetail": "Provoked and defeated the security forces in Central Production B",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/1FCA56201FE1349676C1E9629ECD19C1D3062F31.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Infidel",
+      "trophyDetail": "Defeated the vending machine cult",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/A90CE95FC73EC93CD30625EC3C08EC8E4606B1E7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "It's Blue Light",
+      "trophyDetail": "Killed an enemy in a dark zone using the ASTir SpecterBite",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/22B28D34E61032339E1B3CA340B1E45D18FECD46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "I Choose You",
+      "trophyDetail": "Found a BOTECS Power Core for your companion drone",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/6183FA6AF3EF8C16591D967FFA153792E0D0E772.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Homo Machinalis",
+      "trophyDetail": "Killed Barrett after his transformation into Homo Machinalis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/45EFAB49EE7765C0552110BFB2BE404EA321F74E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Was That Yours?",
+      "trophyDetail": "Defeated a boss with its own weapon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/1F71309A4DD2E3F5D239BE4D318CC685511E6B91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Guard Dog",
+      "trophyDetail": "Acquired the complete Black Cerberus gear and the MG Judge",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/1D55FC559DE3AD390462E1C9B675F19493F9BC3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nothing to Lose",
+      "trophyDetail": "Carried more than 50,000 Tech Scrap",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/95E51DA1951AC0C1843D571BE1D400C19E6FA752.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Overconfident",
+      "trophyDetail": "Defeated a boss while carrying at least 20,000 Tech Scrap",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/43EC91EEE1F1112B67D762C440166012DE749F00.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "GOLIATH",
+      "trophyDetail": "Acquire a full set of GOLIATH gear",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/9DAAA803DE30B9F9075E70AF278019587722A75D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "OPERATOR",
+      "trophyDetail": "Acquire a full set of OPERATOR gear",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/79E6DBF8D2554FBC70C53E92019A76F37DA385B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "SENTINEL",
+      "trophyDetail": "Acquire a full set of SENTINEL gear",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/DE10FCA2F76A0FCBDFE66A96CE2E93152B80BAA3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sniffing Around",
+      "trophyDetail": "Completed your Iron Maus comic collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/CEFDD406AB5D39F86B851102F799986D2CAC2CA6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Squad Chief Helvig",
+      "trophyDetail": "Defeated S&R Squad Chief Helvig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/4204BD341210C327A39A965F56E34C00699B777C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Carbon Cat",
+      "trophyDetail": "Defeated Carbon Cat",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/4C0BD5161278B4C074FB358E6E43FE686267DD54.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Carbon Cat vs Iron Maus",
+      "trophyDetail": "Defeated Carbon Cat as Iron Maus",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/668EF5ABDFA8B117697B5CAC6861A9FCE88A761D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dress Up",
+      "trophyDetail": "Collected and crafted all 4 mascot heads",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/B8DE5E38D37431324DA31936A2E0DDE942F45D86.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Gear",
+      "trophyDetail": "Crafted all gear sets found in CREO World",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/A53BE9C12390AF52F4D00FF88DFA27D42490BE6D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "No More Marching",
+      "trophyDetail": "Killed all the mascots of the Popcorn Parade",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/984B2A50A670904A60F9C98322BE7EF3B518E041.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Good Listener",
+      "trophyDetail": "Collected all audio logs found in CREO World",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/D6970F311053EDA4D1E62E0449E800D4074E32D1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rusty Rat",
+      "trophyDetail": "Saved Rusty Rat",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/C820E6D2D99D3B8413B83818EA0CE475FE842DF3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "3-2-1",
+      "trophyDetail": "Unlocked the Rusty Spring Tower",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/F92B70E48946D641BF79A4B481D60ED6CE786B8B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Is This Real Life?",
+      "trophyDetail": "Survived rebooting the network in the Project Resolve Center",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/E3F49FA817A165A3188E67F74A6E40A1CF0D42B2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "One-Armed Bandit",
+      "trophyDetail": "Cut 42 arms in the Testing Chamber",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/93FE46762CB6DB0549914358CF705A812453DED5.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Modus Operandi",
+      "trophyDetail": "Finished an episode with the 4 hardest modifiers turned on",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/C671B09CB4B3367F6A086C0A7E4D73D374C4B1F3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Episodic",
+      "trophyDetail": "Finished every episode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/8EAE0E1B33694B169604E08E80FDC1D71256A49D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Suited and Booted",
+      "trophyDetail": "Crafted all Frontier Gear sets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/C831EA81FF91ED109366DAEC0DFEDF5C511B5227.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tools of War",
+      "trophyDetail": "Collected all Frontier Weapons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/F2B24F14BD8DD855206627082B419C8B1DAD309D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bling-Bling",
+      "trophyDetail": "Acquire all Frontier Gear Western Attire",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/96E776275FEF4A9BA00C6BB28CD884B4EBF5FABA.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "End of Transmission",
+      "trophyDetail": "Turned off Rischboter",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/20A69060CA5B47C766E32AAB159B63340C8256C8.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gramophone Enthusiast",
+      "trophyDetail": "Collected all 7 audiologs found in the Testing Chamber",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/2011AC4DF2A9BDF97029AD75DA09E3C7F23D3697.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Desecration",
+      "trophyDetail": "Destroyed all graves in \"Frontier Crypt\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/75F9B96596FF8D11F0E9DDBEBAF63F2356F94DEE.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Risk Assessment",
+      "trophyDetail": "Finished an episode with at least 1 modifier turned on",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/96C1C5B874251253D0469A0A1FA3C3485D8B3746.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 67
+}

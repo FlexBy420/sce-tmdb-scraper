@@ -1,0 +1,687 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR10017_00",
+  "trophySetVersion": "01.23",
+  "trophyTitleName": "World of Tanks",
+  "trophyTitleDetail": "O conjunto de troféus para o jogo base.",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/9C9E7571B35939EC37B43D036846AE79BF74E8B6.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 24,
+    "silver": 38,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "World of Tanks",
+      "trophyGroupDetail": "O conjunto de troféus para o jogo base.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/9C9E7571B35939EC37B43D036846AE79BF74E8B6.PNG",
+      "definedTrophies": {
+        "bronze": 10,
+        "silver": 18,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "A Pátria",
+      "trophyGroupDetail": "O troféu definido para a actualização A Pátria.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/EBD3A92DFAC63CF1E7C1568DD6F4230A5208D158.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 5,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Peso-pesado",
+      "trophyGroupDetail": "O conjunto de prémios para a actualização de Peso-pesado.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/135B68F884391A8DCFEF41CDE265EF83DDE21B54.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Heróis dos Tanques",
+      "trophyGroupDetail": "O conjunto de prémios para a actualização de Heróis dos Tanques.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/FB9A5A4BD7CAEE4DDE8A50710D1EC779E0AEE2CA.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Histórias de Guerra",
+      "trophyGroupDetail": "O conjunto de troféus para a actualização Histórias de Guerra.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/06D720006F40B99DDEAE965B036E77D458951F36.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Mercenários",
+      "trophyGroupDetail": "O conjunto troféu para a actualização Mercenários.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/ED21AD71313FE05510B5576A90F7A1FA18CDF3EF.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Vitorioso",
+      "trophyDetail": "Ganhar todos os troféus no jogo base.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/A0D68968FF30AA1447B527E0F5BBCEA75783288D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Americano Absoluto",
+      "trophyDetail": "Pesquisar um tanque Americano de nível X.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/D3C313F4766F270E263ED42B93D2647DBB1BC4CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Alemão Absoluto",
+      "trophyDetail": "Pesquisar um tanque Alemão de nível X.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/3B3085616F285E00F6DB65773EFC630C8082F702.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Soviético Absoluto",
+      "trophyDetail": "Pesquisar um tanque Soviético de nível X.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/796B1EB91C757F042448126BB33421E7D6852688.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lendário",
+      "trophyDetail": "Pesquisar um tanque de nível VII.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/5815883C63EBAE0BBB45D7DE12A9EE1BB804DE9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Guerra",
+      "trophyDetail": "Destruir 500 Tanques. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/5593AACBE0CEC22A17D266D2A4530516952B5802.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Destruidor",
+      "trophyDetail": "Ser o jogador da sua equipa que destruiu mais veículos inimigos durante a batalha (pelo menos 6). MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/28524B2055A73EF04DF8FB98A8ED36D4543AE974.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "David e Golias",
+      "trophyDetail": "Destruir um tanque pelo menos dois níveis superiores ao seu. Modo 2ªGM apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/CD62E8A92D3A2945E5D091431AA7998524BBEEF7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Murica",
+      "trophyDetail": "Destruir 4 tanques inimigos numa única batalha, enquanto conduz um tanque americano. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/C339EFC39A846000281AEC3859576FECE39609E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tempo em Rhine",
+      "trophyDetail": "Destruir 4 tanques inimigos numa única batalha enquanto utilizando um tanque Alemão. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/02306EFD535ABA8D4666303C7EF77ECE8EACCC0E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pela Mãe Russia",
+      "trophyDetail": "Destruir 4 tanques inimigos numa única batalha enquanto utilizando um tanque Soviético. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/29012B2163BCFC1D28E829F07497BEE2B0D738F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Exército de Um Homem Só",
+      "trophyDetail": "Receber 2x mais EXP do que o 2º melhor jogador da sua equipa. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/8447C605AECD2C3E401CCD314797E6C1E128FA38.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Eu sou o Super-Homem",
+      "trophyDetail": "Bloquear mais dano que 2x os pontos de energia do seu tanque. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/E670BC69FB202AE6514916F1D094317BA307CCCC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ás dos Tanques",
+      "trophyDetail": "Ganhar o Crachá de Mestria Ás dos Tanques.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/82C8B8BE2113B9633A6CB076D9EAFF7305EB2C59.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Muralha de Aço",
+      "trophyDetail": "Bloquear mais dano que outro após sobreviver a mais de 11 tiros com 1.000 PE potenciais. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/42E44F942581DA44EE8C5E76975EC280B1D639B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Não risquem a pintura",
+      "trophyDetail": "Terminar um jogo com 100% de saúde e sofrendo um dano potencial de 1000 PV ou mais. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/82C91837BB29088AB1E8100BC97021E336E363CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sniper",
+      "trophyDetail": "Acertar pelo menos 85% de 10 ou mais tiros disparados com um dano potencial de 1000 PV ou mais. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/9C3306C49A7669CD48210815FD23B9D2D0FC8536.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ranger",
+      "trophyDetail": "Destruir todos os tanques ligeiros inimigos durante um jogo, têm de ser 3 ou mais. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/F1D8BB18F0DD8F46BB07F6CD6E1631A49853CF54.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tanques com Benefícios",
+      "trophyDetail": "Treine totalmente um Comandante para maximizar todas as slots de habilidade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/AE63202CCF2CBBA2DC14533062C9369C8B4D1A15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Invasor",
+      "trophyDetail": "Capturar o número máximo de pontos da base inimiga, mas não menos de 80, 3 vezes. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/1AE8157BD3154BD2E42ABABD2B31F2E07F4AF0DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Defensor",
+      "trophyDetail": "Reduzir o número de pontos de captura do inimigo numa base aliada em 70 ou mais, 3 vezes. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/61528B849E3F02214BA7A2CEC1545A1D0EED809E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mesmo Onde Te Quero",
+      "trophyDetail": "Imobilizar 100 inimigos destruindo as lagartas. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/B66066FAB2F029525010935C592EECFEAD48B5F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Médio",
+      "trophyDetail": "Pesquisar um tanque de nível V.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/699A20BB8027843FF456FB37E3739776A52A4C83.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capitão de Ligeiros",
+      "trophyDetail": "Jogar 100 jogos com um tanque ligeiro. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/9FB2A03B29E8543CA83D7D82BA9642380FD10336.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capitão de Médios",
+      "trophyDetail": "Jogar 100 jogos com um tanque médio. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/ECBA419C8577C54935097DD784FF61F5C96C0EA6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capitão de Pesados",
+      "trophyDetail": "Jogar 100 jogos com um tanque pesado. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/CFFD263645FFC6E41455DFE3BC2F886451D9C682.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capitão de Antitanques",
+      "trophyDetail": "Jogar 100 jogos com um antitanque. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/CE5E2F0F6D5DC17D9CEE20370C409C1E8DA3B221.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capitão de Artilharia",
+      "trophyDetail": "Jogar 100 jogos como artilharia. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/1424A346FEE288C6246754D7D30BA1C69E7B60CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Comandante Habilidoso",
+      "trophyDetail": "Ganhe a segunda slot de habilidade num Comandante.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/AFDFF26B2057D3F0CEE7035A9A9CA95F42A8CF28.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cadeia de Comando",
+      "trophyDetail": "Ganhe um total de 240.000 EXP de Comandante em todos os Comandantes que possui.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/2FB34D0C8E490E4EBA4DBEE8FA3FF526087A639A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jogador Experiente",
+      "trophyDetail": "Conclua 8 Desafios da Temporada.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/82FC2516392223F4649DADE6736C93017D86D26A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Postos Para o Desafio",
+      "trophyDetail": "Vencer quatro jogos diferentes em Campos de Provas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/0BF1D25C649C47D3CDA71597561B5A1BA299FF28.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pela Sua Majestade",
+      "trophyDetail": "Destruir 4 tanques inimigos num único jogo enquanto conduz um tanque Britânico. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/1FE08AEEC0F0E9FBD131EFCDFA5E2ECFF9910436.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "O Músculo",
+      "trophyDetail": "Causar o maior dano num jogo vitorioso de Destruição de Equipa e sobreviver. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/DAB0FC6559E49ED1D2374B3462D04F71AB3F5125.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mostre-me o Dinheiro",
+      "trophyDetail": "Ganhar mais de 100.000 prata num único jogo (rendimento bruto) e sobreviver.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/585FE207E46A8F66EE8485823D78FAA57E756B3B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Serviço Distinguido",
+      "trophyDetail": "Ganhe uma quinta slot de habilidade num Comandante.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/A4CD34B9C8407CD74D1325BAB15EF106497639E3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Veterano ao Leme",
+      "trophyDetail": "Destrua 3 ou mais tanques inimigos num jogo com um Comandante Elite e sobreviva. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/8C7C491A14374FBB4AF08FBF8457293A66F1D88A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Não na MINHA Casa!",
+      "trophyDetail": "Destruir 2 tanques inimigos que tentam capturar a base aliada. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/E4287243E0EB54DDFF1C8F644E8B81474556BC20.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Na Minha Mira",
+      "trophyDetail": "Destruir um tanque por detectar (invisível). MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/6F678BED4A378ABDAB531E77505FD8D583F70C4E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Um Deus Entre Homens",
+      "trophyDetail": "Sobreviver por um minuto, permanecendo detectado sendo o último membro da sua equipa. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/435D8442D1F99117FA993F06215FEF53F0FE54FC.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vestido Para Impressionar",
+      "trophyDetail": "Jogar num local de cada camuflagem com a camuflagem equipada. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/5C4B0BFC753F5CB20AA472F21936E1ABE5A862D7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pedir a Bola",
+      "trophyDetail": "Requisitar Fogo num inimigo e consegui8r que seja destruído em 30 segundos. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/98BC5F8FBB64137B17F89F0C274E77503F461D35.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Preparação para a Guerra",
+      "trophyDetail": "Entrar numa batalha com 3 tipos de Equipamentos no tanque. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/05AE1223F6840E01C5FC1152CBA935ED51064A05.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Melhor Jogador da Equipa",
+      "trophyDetail": "Ser o jogador da sua equipa a obter mais EXP e sobreviver. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/25390D5A3C40D437296B3254BADD1FE2323AC858.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fica Comigo",
+      "trophyDetail": "Sobreviver e vencer uma batalha juntamente com um ou mais colegas de pelotão. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/D2DB5F55BFE5802F319B4752B3F2C9755EE3D02D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Amigos e Inimigos",
+      "trophyDetail": "Em pelotão, destruir um tanque inimigo que esteja em pelotão. MJ apenas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/3C49A7135FEA6AFC9B6CD0C6990E99EEEE4D8994.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Guerra Mundial",
+      "trophyDetail": "Destruir 1000 tanques em multijogador.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/1E374A5FE58426C9BD3631466FD42BDF1464BC73.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vive la France",
+      "trophyDetail": "Destruir 4 tanques inimigos numa única batalha de multijogador utilizando um tanque Francês.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/B4C7B8DCEE94194D00563334E6B9AECF6021AC80.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Prateleira de Cima",
+      "trophyDetail": "Pesquisar um nível X de cada classe.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/D913B4AD9CC0EBE4C41B3F5B07898FC3B87990EF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Olhos Abertos",
+      "trophyDetail": "Ganhar 15 ou mais faixas de assistência de detecção durante uma batalha multijogador.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/564A34F25879BC6AC4F989158F9A76A56191C89E.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Liga de Cavalheiros Maravilhosos",
+      "trophyDetail": "Jogar pelo menos 5 cinco jogos de Batalhas Classificadas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/324409F7C0570BD58B9E9397096765FE8BAA43DF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dez por Dez",
+      "trophyDetail": "Vencer e sobreviver a dez batalhas num nível X.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/350643E5DC30B43CF7F177A972D0064E79C41DFF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Jornada Começou",
+      "trophyDetail": "Completar um capítulo de uma história com sucesso.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/BF28B2298F55DEEB75271099839DEE4B6C04A386.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rodas da Nova História",
+      "trophyDetail": "Completar todos os capítulos de uma história com um tanque diferente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/2BF06EEF64779169CE7F24F7B2377E3B79FA7AA2.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Contador de Histórias",
+      "trophyDetail": "Completar todos os capítulos de uma história com sucesso.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/8A84F94C2E81E2792FDAA5C8627F8FCC56037AB1.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mestre de Histórias",
+      "trophyDetail": "Completar todos os capítulos de quatro histórias com sucesso.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/B6D5DF6F19AC3FAC9DC11AA2FC2E7D30B1A26121.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Melhores Juntos!",
+      "trophyDetail": "Completar um capítulo de uma história com outro jogador.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/891D497F5086E380C50F7CA808E59AC76FBA7AA5.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Estrela Especial Convidada!",
+      "trophyDetail": "Completar um capítulo de uma história com um tanque de nível X diferente.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/16AE6EE21738CDB6D760A24D5810C76FEA55B63C.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "O Cheque Está No Correio",
+      "trophyDetail": "Completar a primeira fase de um contrato de mercenário.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/42581EC0071633E7F1E949158F43C4B96A69E8AD.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Armas de Aluguer",
+      "trophyDetail": "Completar um contrato de mercenário.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/1DDA28245FE89BAAA39CA24D34B4B43E33CCDA0F.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Andar Com Pessoal Duro",
+      "trophyDetail": "Vencer 5 batalhas de Multijogador num pelotão de apenas tanques mercenários.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/92894D261AE5953F2798B543865188518C3C82AE.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ira do Mercenário",
+      "trophyDetail": "Vencer 100 batalhas de Multijogador em tanques mercenários.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/49F2829C3372E2F27D43842C72593191C9C44AAB.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mestria de Mercenário",
+      "trophyDetail": "Receber o Crachá de Mestria de Classe I ou superior num tanque mercenário.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/1F01241524A1188AADFF2C05D985F314468EDF85.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ganhar uma Reputação",
+      "trophyDetail": "Receber Marcas de Excelência num tanque mercenário de nível V ou superior.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/0898AA19504181D83FBBB9C5E39CB4495C49505D.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Destruidor de Carreira",
+      "trophyDetail": "Destruir 50 inimigos em Multijogadores com um tanque mercenário.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/4B2B186050BC6BCD45724131C3388F06EC3A3D9E.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dia do Pagamento",
+      "trophyDetail": "Completar a História de Guerra O Roubo com sucesso.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/42B6BF5A905E7C465B48B6460E890BF8AF9B9DCA.PNG",
+      "trophyGroupId": "005"
+    }
+  ],
+  "totalItemCount": 66
+}

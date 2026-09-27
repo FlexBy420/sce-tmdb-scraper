@@ -1,0 +1,567 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR15857_00",
+  "trophySetVersion": "01.06",
+  "trophyTitleName": "The Surge 2",
+  "trophyTitleDetail": "Призы The Surge 2",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/CCB8492DA050B32A737C072814CC8A661CED8756.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 44,
+    "silver": 10,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "The Surge 2",
+      "trophyGroupDetail": "Призы The Surge 2",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/CCB8492DA050B32A737C072814CC8A661CED8756.PNG",
+      "definedTrophies": {
+        "bronze": 36,
+        "silver": 8,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "The Kraken Expansion",
+      "trophyGroupDetail": "Призы The Kraken Expansion",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/46808B14B9061DFA3036143E0159169D9AB8BE09.PNG",
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Surge 2",
+      "trophyDetail": "Вы получили все призы",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/97D4711FB6B4E364E767D0B0422604EE7522311A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Слегка потрепало",
+      "trophyDetail": "Вы пережили авиакатастрофу в НИ+",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/30031F632091C2B2829F515C97636A982F6BD2DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Побег из тюрьмы",
+      "trophyDetail": "Вы победили начальника Гарсию",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/32817CC3887A3B333E04651CAB8139E829BA63EE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Смерть не приходит одна",
+      "trophyDetail": "Вы дважды убили брата Илия",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/8D3DC97ADC2CC2BAC06A58A5A96EE1C762B15FA3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Перегрев",
+      "trophyDetail": "Вы победили Малыша Джонни",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/11A23C44444BE65D5DB82196F1A50EF080234F29.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Путь клинка",
+      "trophyDetail": "Вы победили капитана Сервантеса",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/DDD9416C9725225A9A792742472A906A0190252E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Проникновение со взломом",
+      "trophyDetail": "Вы победили Копателя",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/A18045185D9E1D1FC0BE81CD5EDC9C12928C6F74.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Трибунал",
+      "trophyDetail": "Вы победили генерал-майора Эзру Шилдса",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/33B7AE6D8D32DA9528BD0C1109287F6F2A04D53B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Дражайшая матушка",
+      "trophyDetail": "Вы победили матриарха Селесту",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/60FBDBA7783F20CD7B2200C07DB5EB8EB9F63823.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Плохой пёсик",
+      "trophyDetail": "Вы победили Г.А.Р.О.Л.Д.а",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/5719368878D4666CBDC1F905A348552CDD0902FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Осквернённая красота",
+      "trophyDetail": "Вы победили богиню Елену",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/85057F93FA62904CF62CAA649D392F8169CD900D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Отрицание пророчества",
+      "trophyDetail": "Вы победили архангела Илия",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/C266B1FCEEAAB3B885A8629DB01E6C4FF138CEA2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ретроанализ",
+      "trophyDetail": "Вы уничтожили статую в «Скале Гидеона» её же собственным оружием",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/9CAE37A7B60AC2985A67BAF2A5076293ED8BCC36.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Кто к нам с мечом придёт…",
+      "trophyDetail": "Вы убили Копателя «Эхо» спиралью Копателя или спиралью Копателя 2.0",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/482B5A46937480E1CEE6FCC0D5471C2823DDF741.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Перерождение",
+      "trophyDetail": "Пройти очищение, дав Афине избавить вас от всех несовершенств",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/84A0941644F1FD63E421128B74CA67A2D82053F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Тьма в конце туннеля",
+      "trophyDetail": "Перевоплотиться, дав Афине превратить вас в тёмного мстителя, готового преобразить этот мир.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/C56229551D53CF050DC2206596D8496C1017BEA8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Пришёл, понюхал, победил!",
+      "trophyDetail": "Вы надели комплект снаряжения «ЖЕЛЕЗНЫЙ МАУС» и взяли в руки оружие «Правосудие Железного Мауса»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/7958D84DD7DAC2685A59DEAFC8848F292E172992.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "По стопам",
+      "trophyDetail": "Вы собрали 10 странных видений",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/5A56A10384F492A413C2C1148B2322C4B6869BD2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Борец за выживание",
+      "trophyDetail": "Вы встретили Уоррена",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/67637B48566958394D6A3DA14E4C7F817149574C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Продуманная защита",
+      "trophyDetail": "Вы улучшили все части комплекта снаряжения до максимального уровня",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/18F9FCFDD79B5F91069274D18104FF7C34CD5CB9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "На пути к успеху",
+      "trophyDetail": "Вы улучшили оружие до максимального уровня",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/216B42F3B605216CE8D02C365E199F6FFB7DAA85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Стимулирование местной экономики",
+      "trophyDetail": "Вы потратили 50 000 запчастей у торговцев",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/5E7D283215EAEF9FE7FFAFB17DA310CCBEDF08C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Активная оборона",
+      "trophyDetail": "Вы применили направленный блок 30 раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/01ED5D4E19741901BEA943E3A01277FBD26B4E21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "В ЯБЛОЧКО!",
+      "trophyDetail": "Вы убили противника попаданием в голову",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/77C2E012F1793E23D65B85F182BEFBFBF9872F74.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Все пригодятся",
+      "trophyDetail": "Вы создали 20 комплектов снаряжения",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/6ABEA1D7A3335931EEC9034D9DAA99FB096B0EC4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Полный арсенал",
+      "trophyDetail": "Вы собрали 50 видов оружия",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/BF42DB1CDCBE38E49D8F52754B7A1921AAE818C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Пора приодеться",
+      "trophyDetail": "Вы получили экзокостюм",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/46F2A380F0AFFF834B7764160FD086FFED6B5A4A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Высокая производительность",
+      "trophyDetail": "Вы получили особую награду от босса",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/7BE54571BBF0C9BF82903159F283A8DE4A03C1B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Чистый срез",
+      "trophyDetail": "Вы отсекли противнику конечность и дополнили атаку ударом в спину",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/543D95A0A9E05A22DB4443A0BD937759AFE33E2C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Тройняшки",
+      "trophyDetail": "Вы победили всех Копателей «Эхо»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/D5EAB18363CBFEE53639CD0C1CD942CF44033CFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мощность на полную",
+      "trophyDetail": "Вы довели значение заряда энергоблока до 50",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/3F4D641C8EE93A234E33CDF4AF9BE7613FE64226.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Начало начал",
+      "trophyDetail": "Вы вернулись в место заключения",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/72137AB56AB2D8D41D80BF8A7D35CD5AE2B2F219.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Удалённая хирургия",
+      "trophyDetail": "Вы отрезали каждую конечность человекоподобного противника при помощи дрона",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/DE55F87D9C1FD0C489A36D3D6EF99802D6CB45C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Дрон на все руки",
+      "trophyDetail": "Вы собрали все модули боевого дрона",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/3D2736A0F5EE2243A63A5471458DB229E639AC5D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Шок!",
+      "trophyDetail": "Вы использовали ЭМИ-44 «Морская звезда» против врага",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/57BCFC1865CD9454875689506896DFFF09ECF080.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Рыбам на корм",
+      "trophyDetail": "Вы утопили врага",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/3BE00349E1406F16D311562271F94BC4E75302A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Банкам верить нельзя",
+      "trophyDetail": "У вас было при себе 100 000 запчастей",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/B4E0CE14710346D7069086C51C5EB87C6B830EC7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Светило",
+      "trophyDetail": "Вы встретились с Гуттенбергом",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/42500805D51F7DB164D4F4C2187EED725E3FC52A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Кто не рискует…",
+      "trophyDetail": "Вы уничтожили босса, имея при себе 30 000 запчастей",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/F70537E73B6921C12A79447619417B1EA6125939.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Мы где-то встречались?..",
+      "trophyDetail": "Вы помогли Бенджамину Бёрку",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/DA330538261C3F540C708132B6058481F30E0A3C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Трёх зайцев одним выстрелом",
+      "trophyDetail": "Вы убили одновременно трёх противников одной наводящейся ракетой",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/5BD51223CD979EBE0F820ADF63E91D38B4447495.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "При полном параде",
+      "trophyDetail": "Вы надели полный комплект снаряжения",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/0A575E0DDE811462B5F567E27D36728B5934D696.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Прости, тебя не видно",
+      "trophyDetail": "Вы убили охотника в плаще",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/9EB87640FB40C702E0B0995EACAA9868ED25DDC2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Навязчивая песня",
+      "trophyDetail": "Вы активировали оперцентр в Технологическом институте CREO",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/0D054345CE851464D3FF4278BD9046D8FC36A9A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Антиснайпер",
+      "trophyDetail": "Вы убили врагов, стоявших за снайперскими турелями",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/89EA9E4D4774FB7CD24396D04CFB4ED0EC82B519.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Это ловушка",
+      "trophyDetail": "Вы отключили сканирующие ворота A.I.D., не запустив при этом тревогу",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/D902E08B99B0824106BF0226D28197C4E73A85D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Непредвиденные последствия",
+      "trophyDetail": "Вы обнаружили место крушения ракеты «Утопия»",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/F0B0BCE011571D455234FB58D92008F1F4D1E461.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Эффектный спуск",
+      "trophyDetail": "Вы провалились под землю",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/08DC50CE7FE132D176D626B26A9840B32657CED7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Турбоусилитель",
+      "trophyDetail": "Вы выполнили запасной план в кинотеатре под открытым небом",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/F123FC5C31154F33290B65FB556127B302095E0D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Недетское кино",
+      "trophyDetail": "Вы развлекли Прото, уничтожив 25 волн противников в кинотеатре",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/CB2C6BCA7A2DB369269A66B9B8883366C3EDE1B0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Крабовый салат",
+      "trophyDetail": "Вы убили 30 робо-крабов (любого вида)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/FD5DD984B36C83A46A693D5CB047D30D83A748E7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Разлучник",
+      "trophyDetail": "Вы выполнили побочное задание Норма",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/E68410D27CF4B15CFC76AFD176B0482821308F63.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Полный заряд",
+      "trophyDetail": "Вы выполнили побочное задание Прото",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/69814FD488E6AE12E69B226EB771364A7FBA8CB1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Почтанутый",
+      "trophyDetail": "Вы уничтожили все почтовые ящики",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/BB21F08CFF51B82DE166F809920EBFF18DE3B4F7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Простой выход",
+      "trophyDetail": "Вы прошли по рее и спрыгнули с корабля",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/31CE7315E361E1F7F8326D919F94617A9DBD4F6A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Деревяшка",
+      "trophyDetail": "Вы столкнули нападающего пирата с реи",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/D4F29D88BBEC41F0929666D753B3A7D9F9100E19.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Босс-миног",
+      "trophyDetail": "Вы уничтожили Босса",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/CC566D8C6AD9C8AD5060C48916689FC95548DF74.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Грабь, воруй и создавай",
+      "trophyDetail": "Вы собрали все комплекты снаряжения из дополнения",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15857_00_00B23771725F8FADE33363B5B60DAADF5B9F9A9032/DF999737981417DC792F8657CF32EDAADD5438C5.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 58
+}

@@ -1,0 +1,811 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR21008_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Horizon Forbidden West",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/2b1ab462-7ee0-4415-81d8-bf2632f03850.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 67,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Horizon Forbidden West",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/2b1ab462-7ee0-4415-81d8-bf2632f03850.png",
+      "definedTrophies": {
+        "bronze": 50,
+        "silver": 7,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Yeni Oyun+",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/2b1ab462-7ee0-4415-81d8-bf2632f03850.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Horizon Forbidden West: Burning Shores",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/2b1ab462-7ee0-4415-81d8-bf2632f03850.png",
+      "definedTrophies": {
+        "bronze": 14,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Tüm Kupaları Kazan",
+      "trophyDetail": "Horizon Forbidden West kupalarının hepsini kazan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/3f016d47-d5e4-4c8c-b776-8884785e9930.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "20. Seviyeye Ulaş",
+      "trophyDetail": "20. seviyeye ulaş.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/bb40c996-5689-4460-a7b7-34b761162762.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "30. Seviyeye Ulaş",
+      "trophyDetail": "30. seviyeye ulaş.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/bda89c00-b11f-41db-b448-29a80d39433e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "50. Seviyeye Ulaş",
+      "trophyDetail": "50. seviyeye ulaş.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/26b06b06-871b-4109-88e8-d4df8c729b48.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Acarvadi'ye Ulaş",
+      "trophyDetail": "Acarvadi'ye ulaş ve Yasak Batı'ya geçme talebinde bulun.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/51f398f8-4842-4cc4-8b91-9fd270a33472.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Elçilik Toplantısına Giden Yolu Güvende Tut",
+      "trophyDetail": "Elçilik toplantısına giden yolu temizle ve Acarvadi kapılarını tekrar aç.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/bce09002-7ab8-4682-a9f9-555e54fdbc4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Elçilik Toplantısına Katıl",
+      "trophyDetail": "Elçilik toplantısındaki pusudan kurtul ve Yasak Batı'ya geçiş hakkı kazan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/75ff7e0d-6970-401e-8694-eabec4fba7b9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Üssü Kur",
+      "trophyDetail": "Bir operasyon üssünü ele geçir ve GAIA’yı yeniden başlat.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/544245d0-b7e6-4368-8767-8a7562940e7b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "AETHER’ı Ele Geçir",
+      "trophyDetail": "Kulrut'u savun ve AETHER'ı ele geçir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/535af93e-eeac-45e6-a36b-848d0724e827.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "POSEIDON’ı Ele Geçir",
+      "trophyDetail": "Las Vegas'ı su altından çıkar ve POSEIDON'ı ele geçir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/d0563d75-807e-436d-b7a8-3485bd3d3bcd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "DEMETER'ı Ele Geçir",
+      "trophyDetail": "Quenlerle karşılaş ve DEMETER'ı ele geçir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/25150ab0-ad22-4692-a060-8371c91343f6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Beta’yı Kurtar",
+      "trophyDetail": "Beta'nın imdat çağrısını takip edip onu üsse geri getir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/4f03c510-915d-4c04-a5af-26e41877a20c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Faro'nun Kaderini Öğren",
+      "trophyDetail": "Thebes'ten kurtul ve Quenlerle dost ol.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/6fbf460c-11eb-4a70-9034-deac5c0a67f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Onlular'ın Kanatlarıyla Uç",
+      "trophyDetail": "Savaşın ortasına uçarak iniş yap ve Regalla'yı alt et.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/aff6e60c-71b7-4132-992e-75b8c06311b2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Nemesis’i Keşfet",
+      "trophyDetail": "Zenith tehdidine son ver ve Nemesis'i keşfet.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/44931f06-da05-46e3-a4e7-cc31c9eca5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bir Çöl Komutanı Seç",
+      "trophyDetail": "Hem Drakka'ya hem de Yharra'ya yardım et ve daha iyi olan adayı seç.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/8d766f4b-342a-4906-adba-0362302c36ec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Acarvadi’yi Kurtar",
+      "trophyDetail": "Acarvadi'nin muzdarip olduğu tüm sorunları çöz.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/6c664f44-c4af-4619-9400-925ed0372cf4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Kotallo’ya Yardımcı Ol",
+      "trophyDetail": "Kotallo'nun mekanik kolu tamamlamasına ve test etmesine yardımcı ol.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/baf4d32d-866b-41b8-bda9-516b280d45ea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Toprak Tanrılarını İyileştir",
+      "trophyDetail": "Zo'nun Düzağıt'ı kurtarabilmesi için toprak tanrılarını yeniden başlatmasına yardım et.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/0a3ad7e4-47a4-42e0-b86b-724b5f58049b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Alva'nın Verilerini Kurtar",
+      "trophyDetail": "Alva'nın, Quen'e yardım etmek için veri elde etmesine yardım et.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/a5127056-c83e-4f51-b2f0-6e8835a1efc7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bir Uzunboyunu Hackle",
+      "trophyDetail": "Bir Uzunboynun tepesine ulaş ve bilgilerine eriş.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/beb21bd0-b053-40ea-9ff1-1a79c7cd091e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Tüm Uzunboyunları Hackle",
+      "trophyDetail": "Tüm Uzunboyunların tepelerine ulaş ve bilgilerine eriş.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/0b2eca0f-968d-4af6-a996-e90a0b0af78a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "İlk Asi Kampını Tamamla",
+      "trophyDetail": "1 Asi Kampındaki ana hedefleri tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/8a6d617c-32bb-41ca-981d-c531a708daa7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Asera'yı Yen",
+      "trophyDetail": "Tüm Asi Kamplarını araştır ve Erend'ın Asera'yı yenmesine yardım et.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/4dc2fcbc-856b-48d4-a02a-b6b658f9db9c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bir Merkez'i Hackle",
+      "trophyDetail": "Bir Kazanın Merkez'ine ulaş ve bilgilerine eriş.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/c3d5d77e-3113-47b3-b390-558beed7602f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Tüm Merkezleri Hackle",
+      "trophyDetail": "Tüm Kazanların Merkezlerine ulaş ve bilgilerine eriş.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/5865c366-9878-43a7-810f-b86765c58843.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bir Av Sahasında 3 Şerit Elde Et",
+      "trophyDetail": "Bir Av Sahasında her üç testte de en az Çeyrek Şerit sembolü kazan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/908fc0d4-c24b-4013-990f-6529d239caea.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Tüm Av Sahalarında 3 Şerit Elde Et",
+      "trophyDetail": "Tüm Av Sahalarındaki her üç testte de en az Çeyrek Şerit sembolü kazan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/eee7e31e-fdc3-4350-b81f-7a059d1f5c8d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "12"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tüm Avcı Makineleri Öldür",
+      "trophyDetail": "Her Avcı makine türünden en az birini öldür.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/edfaa4b6-9395-4a27-99d8-a18057d45a4b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "18"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tüm Keşif Makinelerini Öldür",
+      "trophyDetail": "Her Keşif makinesi türünden en az birini öldür.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/7f714149-a0a2-4391-acaa-8e9ca43bf1ee.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tüm Çatışma Makinelerini Öldür",
+      "trophyDetail": "Her Çatışma makinesi türünden en az birini öldür.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/e7fbdd09-a699-440c-a805-d8fc3fdf83a5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "13"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tüm Nakliye Makinelerini Öldür",
+      "trophyDetail": "Her Nakliye makinesi türünden en az birini öldür.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/48a92cf9-c894-4890-bef0-9213fe850c5f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tüm Normal Bineklere Bin",
+      "trophyDetail": "Bir Hücumcu, Pençeadım ve Fırçasırta bin.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/100a3ab1-d03d-49e9-b22d-0ad147d4d8c9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tüm Makine Türlerini Tara",
+      "trophyDetail": "Her tür makineyi Fokus'la tara.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/3c45aab7-1579-4929-9969-e6ba677b574d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "43"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Uzun Süre Durmadan Süzül",
+      "trophyDetail": "60 saniye boyunca durmadan süzül.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/e5b70917-5bf6-4ad4-af9e-50492175939b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "2 Hava Bineği Görevini Tamamla",
+      "trophyDetail": "Hava bineği gerektiren 2 görev tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/7107676b-7d7e-449a-8f3a-320b80248c52.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "2 Düello Seferini Kazan",
+      "trophyDetail": "İki farklı Düello Seferinde birinci ol.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/acd5cb8c-25f2-4362-ae85-3b335c71f313.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bir Hurda Sözleşmesi Dizisini Tamamla",
+      "trophyDetail": "Bir tüccardaki tüm Hurda Sözleşmelerini tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/05b59af4-acf1-489d-bb3b-68ac3559bf31.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "4 Asi Karakolunu Tamamla",
+      "trophyDetail": "4 Asi Karakolunun liderini alt et ve künyelerini ele geçir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/9815d164-8796-4ee8-a5f8-534ab1b31314.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "3 Yadigâr Harabesi'ni Tamamla",
+      "trophyDetail": "3 Yadigâr Harabesi'ni bul ve tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/0c2205dd-8c06-4491-b4b3-07a234637179.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Arena Düellosu Dizisini Tamamla",
+      "trophyDetail": "1 Arena düellosu dizisini tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/5d558529-9557-4434-8656-6dad81c301a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Makine Çarpışması Oyuncularını Alt Et",
+      "trophyDetail": "2 farklı Makine Çarpışması oyuncusuna karşı birer maç kazan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/3c40bf25-54af-4cad-ad45-239e22133a2f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tüm Silah Sınıflarını Elde Et",
+      "trophyDetail": "Her Silah Sınıfından bir silah elde et.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/f8cf8d8c-6ae3-4b2e-83e5-f71a2ffd253a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "9"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tüm Element Etkilerini Kullan",
+      "trophyDetail": "Her element etkisini düşmanlara karşı en az bir kez uygula.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/23acc39c-38dd-470e-b5ff-002abe8eb4fd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "3 Yakın Dövüş Kombosu Gerçekleştir",
+      "trophyDetail": "Kilidi açılabilen 3 farklı Yakın Dövüş Kombosunu başarıyla gerçekleştir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/a20c7d53-c149-4483-9441-881ed3dc2757.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Makineyi Sessizce Öldür",
+      "trophyDetail": "10 makineyi Sessiz Saldırı ile öldür.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/c9cca045-29a4-4ee4-ac99-517e237293f3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "100 Parça Düşür",
+      "trophyDetail": "Makinelerden 100 parça düşür.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/9e213a57-d388-49f5-a54b-6fd09ad0689c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Ağır Silah Al",
+      "trophyDetail": "5 farklı ağır silah al.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/a217771a-d65e-4254-832d-588fdf2c2a57.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Farklı Makine Türünü Hackle",
+      "trophyDetail": "10 farklı makine türünün hackini aç ve kullan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/939f8c9a-6ede-4bb9-b38a-eb13e1d8a3af.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sebatlı’yı Yen",
+      "trophyDetail": "Sebatlı olarak bilinen Tenakth yakın dövüş ustasını alt et.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/8aecf39b-a6f3-4fea-a73d-445fff43f00e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bir Cesaret Patlamasını Tamamen Geliştir",
+      "trophyDetail": "Bir Cesaret Patlamasını maksimum seviyeye yükselt.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/4ae8b745-71ab-4565-a1ed-66e11e8e4e54.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "3 Silahı Geliştir",
+      "trophyDetail": "3 silahı tamamen geliştir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/cd2f77a1-7b06-4abb-baf0-734877fe8e56.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "3 Kıyafeti Geliştir",
+      "trophyDetail": "3 kıyafeti tamamen geliştir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/a7fd4b22-2d36-4ac5-bf02-bddab41dd286.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Her Kese Türünü Geliştir",
+      "trophyDetail": "Yiyecek Kesesi, Şişe Kesesi, Kaynak Kesesi, Tuzak Kesesi ve herhangi bir cephane kesesini en az bir kez geliştir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/bf65bd92-6850-462b-8aaf-7c6378f4a507.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bir Silahı Bobinle Güçlendir",
+      "trophyDetail": "Herhangi bir kademeden bir silahı 2 bobinle güçlendir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/134b9ba3-5ff5-4de6-ab30-b0dfa2dc1dc1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "3 Silah Tekniğinin Kilidini Aç",
+      "trophyDetail": "3 farklı silah sınıfı için birer Silah Tekniğinin kilidini aç.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/cfa42621-bfbd-4f39-bd4b-a43df335caa8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Yetenek Ağacını Öğren",
+      "trophyDetail": "Tek bir yetenek ağacındaki tüm yetenekleri öğren.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/312796f0-5135-4824-81d3-bbb3b2096fc8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "5 Farklı Toplanabilir Eşya Bul",
+      "trophyDetail": "Bir Teftiş Dronu, bir Karakutu, bir Yadigâr Harabesi, bir Manzara Noktası ve bir Sinyal Kulesi tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/e5971f41-87cc-4606-b16b-039e47cb6846.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Boya Çiçeklerini Kullan",
+      "trophyDetail": "Boya çiçekleriyle yeni bir boyayı aç ve kullan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/4819c247-12c2-49ff-a224-c6485a2a17e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yeni Oyun+ Modunu Bitir",
+      "trophyDetail": "Yeni Oyun+ modunu herhangi bir zorlukta bitir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/6fed8071-4488-44dc-97e5-275edb57a866.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oyunu Aşırı Zor Seviyede Tamamla",
+      "trophyDetail": "Oyunu veya Yeni Oyun+ modunu Aşırı Zor oynanış seviyesinde bitir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/49f64dcc-241b-4c76-a45b-727b4889358d.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tüm Yeni Oyun+ Ödüllerini Kazan",
+      "trophyDetail": "Tüm Yeni Oyun+ silahlarını, boyalarını ve yüz boyalarını elde et.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/784a97b9-30d7-4d66-80e5-516152b1711f.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "17"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Tüm Görevleri Tamamla",
+      "trophyDetail": "Burning Shores'daki tüm ana ve yan görevleri tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/85b73cb5-6bcc-4acc-9ba4-00b779e5cfe0.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Yükseliş'i Keşfet",
+      "trophyDetail": "Kayıp Quen'i bul ve Londra'nın Dünya'yı terk etme planını açığa çıkar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/bf940bbd-9ffc-43cd-ac5b-b410c465840d.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Londra'yla Yüzleş",
+      "trophyDetail": "Londra'nın Quen'le ilgili planları hakkındaki gerçeği açığa çıkar ve Seyka'nın kız kardeşini kurtar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/eb7c9f85-aea3-475f-9f73-b0ae49cfc08b.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Quen'e Yardım Et",
+      "trophyDetail": "Filo'nun Sonu'ndaki Quen'in paha biçilemez değerdeki bilgileri elde etmesine ve tutsakları kurtarmasına yardım et.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/30a1d6a0-437c-4228-bf0f-d64b20b84826.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Londra'yı ve Horus'unu alt et",
+      "trophyDetail": "Uyanmış Horus'u alt et ve Londra'nın planlarına engel ol.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/bb1bb3b3-ca67-44b3-95c0-6af9adf264b5.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Tüm Yeni Yetenekleri Öğren",
+      "trophyDetail": "Burning Shores'daki tüm yeni yetenekleri öğren.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/9affa4e9-99de-469c-9a52-5cc1252bfeaf.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "60. Seviyeye Ulaş",
+      "trophyDetail": "60. oyuncu seviyesine ulaş.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/9b158d9c-e7d5-4499-a1d1-6e01ff0ae1db.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "60"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sarıcevher Kullan",
+      "trophyDetail": "Sarıcevher kullanarak 1 kıyafet ve 1 silah satın al.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/d7496e0c-4f81-4c9b-b7cb-0ea787acd361.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bir Elit Bobin ya da Örgü Kullan",
+      "trophyDetail": "Bir silah üzerinde elit bobin veya bir kıyafet üzerinde elit örgü kullan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/67e1379d-3282-4e53-b242-66fd23896ecc.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Tayf Eldivenini Geliştir",
+      "trophyDetail": "Tayf Eldivenini son aşamaya kadar geliştir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/b54e615d-260e-440e-8e98-c83e37d2a820.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "THETA Kazanı Merkezi'ni Hackle",
+      "trophyDetail": "THETA Kazanı Merkezi’ne ulaş ve bilgilerine eriş.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/6c0f3e13-60b1-4606-8b85-ce623c9619a4.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tüm Yeni Makineleri Tara",
+      "trophyDetail": "Burning Shores'taki tüm yeni makineleri Fokus'unla tara.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/8a5743f1-45c4-477a-9df4-7a30cab6eb3a.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dinozor Basamakları İmtihanını Tamamla",
+      "trophyDetail": "Tüm Pangea Figürlerini bul ve Dinozor Basamakları imtihanını tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/921c148a-3a6c-4c8d-9b24-2b0612c829e6.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Kâşiflerin Hazinesini Ele Geçir",
+      "trophyDetail": "Tüm Kâşif Yadigârlarını ele geçir ve içlerindeki hazineyi çıkar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/2d507dc2-fe7b-4100-9728-81bfe35ee22b.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tüm Kuş Bakışlarını Bul",
+      "trophyDetail": "Tüm Kuş Bakışlarını bul ve tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/37c406df-08fb-47bd-819d-e36e792e8d74.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Makineler Üzerinde Tutunma Saldırısı Gerçekleştir",
+      "trophyDetail": "5 farklı makine üzerinde Tutunma Saldırısı gerçekleştir.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/1d3151c5-1d88-433e-a74f-cdb9c2d733f0.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Havada Süzülürken Makine Öldür",
+      "trophyDetail": "Havada süzülürken Tayf Eldiveniyle 5 makine öldür.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/a56c5bfe-bac9-4852-b875-f71700fff9f1.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marazkursak ve İğnekuyruk Öldür",
+      "trophyDetail": "5 Marazkursak ve 50 İğnekuyruk öldür.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21008_00/181b5d0b-d752-4f0e-be9c-4b8ea990726a.png",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 80
+}

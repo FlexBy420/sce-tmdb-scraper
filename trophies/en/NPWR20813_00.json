@@ -1,0 +1,797 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR20813_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Marvel's Spider-Man Remastered",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/19515081-883c-41e2-9c49-8a8706c59efc.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 54,
+    "silver": 19,
+    "gold": 5,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Marvel's Spider-Man Remastered",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/19515081-883c-41e2-9c49-8a8706c59efc.png",
+      "definedTrophies": {
+        "bronze": 38,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "New Game+",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/9aa1c79a-9d0f-4a9c-85f9-c9535c2455ba.png",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "CTNS: The Heist",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/2ddfbb4f-4e44-4ae1-911d-7cdf77775251.png",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "CTNS: Turf Wars",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/a0d77a03-89d0-45a3-b4f1-94224cf32940.png",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "CTNS: Silver Lining",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/a39aac6b-0cb6-449e-90a5-a517e800de29.png",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Remastered Trophies",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/cd1c2690-ffb7-4a45-a617-2073925cb59a.png",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 5,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Be Greater",
+      "trophyDetail": "Collect all Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/87e6447c-e0e7-4db8-8a54-2412f6fbc56e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Superior Spider-Man",
+      "trophyDetail": "Unlock all Skills",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/23da76b8-5d98-40b4-9b65-280bddda6219.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "I Heart Manhattan",
+      "trophyDetail": "100% complete all districts",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/2294bdc9-f83d-4fde-a595-c6c43d1794d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Master of Masters",
+      "trophyDetail": "Defeat Taskmaster",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/d2fd6e6f-392e-45eb-972e-fe782c7f231b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Backpacker",
+      "trophyDetail": "Collect all Backpacks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/289e5e1f-0f57-4129-8c8a-2b8c9eecc5df.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cat Prints",
+      "trophyDetail": "Track down Black Cat",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/662ad5ef-1ba5-4dc2-a73f-774aced53b0d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Inner Sanctuary",
+      "trophyDetail": "Take down each Demon Warehouse",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/8210392b-09c7-452e-a8ff-6a58d8ed4043.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "All the King's Men",
+      "trophyDetail": "Take down each Fisk Hideout",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/223cc22a-209f-4fc2-b698-476640117e32.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Mercenary Tactics",
+      "trophyDetail": "Take down each Sable Outpost",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/f3a57952-736e-4dfc-8a82-44c5fd85538f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Back in the Slammer",
+      "trophyDetail": "Take down each Prisoner Camp",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/9cccf67c-bccd-4526-9ae8-7cfb7fb9ec0f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Neighborhood Watch",
+      "trophyDetail": "Complete all Faction Crimes in a district",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/32051f80-310d-44db-b459-4bda283589fd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Suit For All Seasons",
+      "trophyDetail": "Purchase all Suits",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/b937b188-a76b-419e-87fd-b4ea17c3ae74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Schooled",
+      "trophyDetail": "Complete all of the Corrupted Student missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/6d298e90-82de-4573-9590-976bad4ecfad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amazing Coverage",
+      "trophyDetail": "All Surveillance Towers activated",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/169525fa-2c07-483d-a215-79199ac9d10b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Short Fuse",
+      "trophyDetail": "Get Spectacular or better in a Taskmaster Bomb Challenge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/8aefbef1-cb65-491c-8ded-f18fd2e241e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fists of Fury",
+      "trophyDetail": "Get Spectacular or better in a Taskmaster Combat Challenge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/185a83bf-7d59-49d4-bab6-9665b4b1292e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ninja",
+      "trophyDetail": "Get Spectacular or better in a Taskmaster Stealth Challenge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/873809f9-ac56-4fa8-922e-10a9304296a2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Spy Hunter",
+      "trophyDetail": "Get Spectacular or better in a Taskmaster Drone Challenge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/626f191c-b694-4e4e-b8bc-83e6be86fbfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Challenge Finder",
+      "trophyDetail": "Complete every Taskmaster Challenge in the city once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/83224070-f352-4a17-9470-22da237a1e6e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "R&D",
+      "trophyDetail": "Complete all Research Stations",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/3aae9e45-7600-4ba8-8d3f-923674c1d774.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Demons Emerge",
+      "trophyDetail": "Complete Act 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/c0a53f45-42e9-4de8-aafd-3f206365e205.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Six Assemble",
+      "trophyDetail": "Complete Act 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/bfed1777-ff54-4124-8865-e8999e2e79c1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "End Game",
+      "trophyDetail": "Complete Act 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/00c05e0e-6ac7-4dfe-a2e0-e7839622594d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Science FTW!",
+      "trophyDetail": "Craft 15 Upgrades",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/c2b1e1d8-3466-49ce-a2da-ee3b4e16bcfd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Knocking Down Kingpin",
+      "trophyDetail": "Defeat Fisk",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/65d2ece3-ed4d-42cd-9a59-1cb6d571f57d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Staying Positive",
+      "trophyDetail": "Defeat Li",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/cf3cf156-2ffc-4d9e-8a14-c8074e60979b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Grounded",
+      "trophyDetail": "Defeat Electro and Vulture",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/e7d73767-2b78-48ce-802f-f09229914a8b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sting and Smash",
+      "trophyDetail": "Defeat Scorpion and Rhino",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/1071d12c-469f-4b2f-9a37-64a2292279d3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tombstone Takedown",
+      "trophyDetail": "Defeat Tombstone",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/5a0f2704-76eb-4ff0-9dd0-a26efa1a7a01.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Shock and Awe",
+      "trophyDetail": "Defeat Shocker",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/0b010343-efaa-46b0-a164-a5d569794456.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Wing It",
+      "trophyDetail": "Traverse across the city rooftops",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/cef7d664-1246-4cc1-8c0b-b2d353f01697.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of Swing",
+      "trophyDetail": "Complete a level 1 Traversal Benchmark",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/2480b774-58ec-4faf-a6d4-6086d412de04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "And Stay Down!",
+      "trophyDetail": "Complete a level 1 Combat Benchmark",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/f49615f6-0ca1-4859-9962-d6a11fc18f69.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pigeon Hunter",
+      "trophyDetail": "Catch all of Howard's Pigeons",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/2ca0cc6f-4328-43ca-a3ab-403dd03de62f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hug It Out",
+      "trophyDetail": "Knock together 10 pairs of enemies with Trip Mines",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/c065bc27-96ec-4399-97ea-e8182f5d740d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Friendly Neighborhood Spider-Man",
+      "trophyDetail": "Complete all Side Missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/e1197591-7dd1-4026-8478-587eea06c7f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Scientific Method",
+      "trophyDetail": "Craft your first Upgrade",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/d722ae10-4504-4e42-a071-360e5a062215.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spider-Sensible",
+      "trophyDetail": "Perfect Dodge 10 attacks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/1b309a27-3d50-48ac-88c8-23338e48a6b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Overdrive",
+      "trophyDetail": "Complete 10 Vehicle Takedowns",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/ee682ce1-a006-47ec-85b6-886bdc3d05c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "With Great Power...",
+      "trophyDetail": "Pay respects at Ben Parker's grave",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/84418113-06c7-4255-a04f-6f43dfc77e70.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hero for Higher",
+      "trophyDetail": "Perch atop Avengers Tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/fc2cf65e-e123-4603-b1bd-294929c17248.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sightseeing",
+      "trophyDetail": "Photograph all Landmarks on the Map",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/b35d767d-b6c5-4bac-9c06-dda9e330fcd7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Born to Ride",
+      "trophyDetail": "Ride the Subway 5 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/d114aaaf-5a70-4406-927d-68ad96f8e55b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sticky and Tricky",
+      "trophyDetail": "Chain 4 unique tricks before landing",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/78f4d242-2851-455c-b363-013a1f3e230b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Snappy Dresser",
+      "trophyDetail": "Wear 5 new Spider-Suits",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/f17fbbad-fe60-467b-af15-e742b3dd9517.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arachnophobia",
+      "trophyDetail": "Perform 75 Stealth Takedowns",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/11de5415-414a-4904-a6da-c10aca307f86.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lost and Found",
+      "trophyDetail": "Collect 5 Backpacks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/7c5768e9-62a0-4e4c-b7fb-a7ac1a95abef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spider-Man About Town",
+      "trophyDetail": "Greet 10 citizens",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/21b16817-4e40-4463-a8e1-8d75b220c552.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cat's Out of the Bag",
+      "trophyDetail": "Collect a Black Cat collectible",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/550dc3a1-f4e8-4235-b77a-a64adcf43526.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Bit of a Fixer-Upper",
+      "trophyDetail": "Complete all optional projects in the lab",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/69dd7837-8e38-42b5-ace5-f4d5d5a669cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ace the Base",
+      "trophyDetail": "Complete all objectives in a base",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/87ff8a62-4fa3-4f03-9ec0-405d22c4a7c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One More Time",
+      "trophyDetail": "Complete a New Game+ playthrough",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/8d41703d-ebcb-466d-92d7-5e4a7b71caf0.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Power and Responsibility",
+      "trophyDetail": "Complete a playthrough on Ultimate difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/717263fd-012e-4d65-9b37-b5fa722bc006.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Seduced by the City",
+      "trophyDetail": "100% Complete CTNS: The Heist",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/e85942d5-8983-459f-b2de-76bb2e83648e.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Screwy",
+      "trophyDetail": "Get Spectacular or better in all Screwball Challenges",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/db5414de-5d16-4674-840b-ed507ebde9bf.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Cat Came Back",
+      "trophyDetail": "Complete \"The Maria\" mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/ff65bd07-12b5-4a77-9b33-24f113b9cba4.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Here Kitty-Kitty",
+      "trophyDetail": "Complete the Black Cat chase",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/50867db1-da84-436b-af38-121250d6b7dc.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bye Felicia",
+      "trophyDetail": "Complete the \"Follow the Money\" mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/e16e73be-77e5-474f-be0e-ea24f4f75bb9.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Long Con",
+      "trophyDetail": "Complete the \"Like a Fiddle\" mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/a3878759-93fd-4046-bc92-1aa0993939c6.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Disorganized Crime",
+      "trophyDetail": "Complete all Crimes in a district",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/6b6dc0fc-f69e-4a55-b715-0af6bf9a5054.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The City is My Family",
+      "trophyDetail": "100% complete CTNS: Turf Wars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/a0f764b8-e054-41f4-a859-f25ce081ffd9.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Turning the Screw",
+      "trophyDetail": "Get Spectacular or better in all Screwball Challenges",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/6afe49b2-c046-46fc-8eca-2c1320595b67.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pulling the Trigger",
+      "trophyDetail": "Complete the \"Blindsided\" mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/31b48b92-c515-47e0-8ccd-a46c27ac8bc3.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Crossing the Thin Blue Line",
+      "trophyDetail": "Complete the \"Lockup\" mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/2a5302a7-372f-42d7-ad06-4639267e0b53.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Steel Skull, Glass Jaw",
+      "trophyDetail": "Complete the \"Bring the Hammer Down\" mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/7263a975-99d6-4d03-b7c0-3341172f3e8b.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Prohibition",
+      "trophyDetail": "Take down each Hammerhead Front",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/c30c1a28-98db-4ad5-b529-b26910bf592b.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Gang War",
+      "trophyDetail": "Complete all Crimes in a district",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/2cb62871-dc39-4359-a088-a0645d2206c3.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The City Sleeps",
+      "trophyDetail": "100% Complete CTNS: Silver Lining",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/794bd2a0-f767-47a5-b821-36246ac41739.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Screwballed",
+      "trophyDetail": "Get Spectacular or better in all Screwball Challenges",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/ab684a6a-d44c-4df3-a274-09cbdf6ac1ff.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Frenemies",
+      "trophyDetail": "Complete the \"Old Friends\" mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/d6d54499-6b39-437c-bae5-ed027e373dd6.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Unplugged",
+      "trophyDetail": "Complete the Screwball chase",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/f289175e-03b3-45f2-9280-1204598cf1c1.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Terminated",
+      "trophyDetail": "Complete the \"One Plus One Equals Win\" mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/6f356fdd-73f8-4bca-9b8e-7407d44331fc.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Wages of War",
+      "trophyDetail": "Complete the \"Aiding a Human\" mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/cda02b87-5951-4868-b5fa-e0c558fd1ed8.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unacceptable",
+      "trophyDetail": "Complete the \"Scales of Justice\" mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/8b5f410a-46d9-4071-a91b-38e69fabdf9b.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Grinding All the Way",
+      "trophyDetail": "Max out one Benchmark type",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/3d8cd4c6-bc03-48d9-b954-6a6582cff2fb.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Full Arsenal",
+      "trophyDetail": "Max out all Gadgets",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/6eb3513d-299e-471b-baf5-1778be151a0a.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master's Education",
+      "trophyDetail": "Achieve Ultimate on a Taskmaster Challenge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/b9c6cee3-2094-466f-b247-98b898e5fe45.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "So Many Hits...",
+      "trophyDetail": "Achieve a combo of 100",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/fdb343c8-b42c-4258-9430-196062186c90.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Untouchable Spider-Man",
+      "trophyDetail": "Complete any Enemy Base without taking damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/9d802c3f-b8a9-48c6-9b14-24b263a34b85.png",
+      "trophyGroupId": "005"
+    }
+  ],
+  "totalItemCount": 79
+}

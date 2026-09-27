@@ -1,0 +1,60 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR18190_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "다운타운 열혈이야기",
+  "trophyTitleDetail": "다운타운 열혈이야기 트로피 세트",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18190_00_009EAF2E280F11D650259DF2B2F402FBAD54CEA41D/638C99195EB9B19F0CEF3933BB4DA954DEFAA723.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 2,
+    "silver": 0,
+    "gold": 1,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "다운타운 열혈이야기",
+      "trophyGroupDetail": "다운타운 열혈이야기 트로피 세트",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18190_00_009EAF2E280F11D650259DF2B2F402FBAD54CEA41D/638C99195EB9B19F0CEF3933BB4DA954DEFAA723.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 0,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "대단한 열혈 사나이",
+      "trophyDetail": "보통 난이도 클리어",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18190_00_009EAF2E280F11D650259DF2B2F402FBAD54CEA41D/1DAA93A149DCAD127ADC8D6D406396D6CC00318A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "악의 최후",
+      "trophyDetail": "어려움 난이도 클리어",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18190_00_009EAF2E280F11D650259DF2B2F402FBAD54CEA41D/8FE278CAD2C3078BCAB20FCF1A4C932BBCEA0A37.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "사나이다운 플레이",
+      "trophyDetail": "패스워드와 캐릭터 세이브를 쓰지 않고 필살기를 배우지 않은 상태로 보통 난이도 클리어",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18190_00_009EAF2E280F11D650259DF2B2F402FBAD54CEA41D/D96CD4D9B238D81EC388537984E7BAEB2AF2C80E.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 3
+}

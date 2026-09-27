@@ -1,0 +1,549 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR18424_00",
+  "trophySetVersion": "01.04",
+  "trophyTitleName": "야가트로피",
+  "trophyTitleDetail": "야가의트로피.",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/40966107911FF0BCAE669434D29CA2D8E029A0B8.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 45,
+    "silver": 6,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "야가트로피",
+      "trophyGroupDetail": "야가의트로피.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/40966107911FF0BCAE669434D29CA2D8E029A0B8.PNG",
+      "definedTrophies": {
+        "bronze": 32,
+        "silver": 6,
+        "gold": 4,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "악의 뿌리를 위한 트로피",
+      "trophyGroupDetail": "악의 뿌리를 위한 트로피",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/E55026AEB7B76E98C5F8FC1A4295DEE114CC5599.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "모든트로피",
+      "trophyDetail": "야가의모든트로피획득.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/773124C07541C357306C39D940CA43CD3CF6BE05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "도금 선물",
+      "trophyDetail": "차르에게 도금 사과 주기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/46C77F3C700AC422335CEF46D57308EC00AF8F6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "황금 선물",
+      "trophyDetail": "차르에게 황금 사과 주기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/223AF8C747921E673BBF11A7C120D3844696D78B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "불신",
+      "trophyDetail": "모든 옛 제단 공격하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/4743ECA5AA635FC832EF748DA9B73929EE7F77E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "도움의 손길!",
+      "trophyDetail": "살려준 괴물에게 도움 요청하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/86E29EE55577AB5B2FCFEE630946341C7BDDC632.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "닭 도살자",
+      "trophyDetail": "마을의 닭 죽이기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/26D6C3C3B4A8A5C0916BB013EE9B6488C00F7D25.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "딩! 동!",
+      "trophyDetail": "교회 종 치기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/8EC92FC46FFFEC54038DE94196BA823610B89933.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "결혼식",
+      "trophyDetail": "게임의 끝에 도달하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/420CD698AA5CB030B4624BCBA036D8593DA12CD8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "대장장이 이반",
+      "trophyDetail": "대장장이로 남기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/FDEAFA708A7A4F96D6785ECBA820B7C3114F9CA3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "바보의 죽음",
+      "trophyDetail": "바보처럼 굴기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/FE2E3F96E981113E4C78D4376F6004056DCE0D38.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "마리아의 조언자",
+      "trophyDetail": "왕실 조언자 되기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/62C58E313C5C238B353D04067C88403A7E1E2A30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "할머니의 소원",
+      "trophyDetail": "전사 여왕과 결혼하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/214FCCFF714C0B389CADE73EAE46554B69E86845.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "대장장이의 새 옷",
+      "trophyDetail": "홀로 차르가 되기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/33DF2D8FC658376749F9387C7D60BFC6CC17846C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "황당 야가",
+      "trophyDetail": "황당해하는 야가 목격하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/C5220487229817F946F6065B4D028630EC656152.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "뜨거운 가슴",
+      "trophyDetail": "몇 번 추파 던지기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/BB8EB3BCDDCCE7CE3742C9E82B9F433586433C00.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "언데드의 자유",
+      "trophyDetail": "코스헤이 풀어주기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/C25B3A398D3D3AC9BC5CB19A8F36E93F1DA9C341.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "언데드의 감옥",
+      "trophyDetail": "코스헤이 감금하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/0EE207E7D3EB51BFCF2F85EEFAEFB309984A9655.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "불행의 죽음",
+      "trophyDetail": "숙적 죽이기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/8EE9FD924678DF24C16700AE9FF63704D6785751.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "불행의 친구",
+      "trophyDetail": "숙적 살려주기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/9C6194DF7D8C52F87C8174150FB4F14EB35DD768.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "깨진 얼음",
+      "trophyDetail": "모로즈코의 심장 파괴하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/16FB504CFD14B1C9A45A188C2EFCC527E2B2A384.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "반짝이는 얼음",
+      "trophyDetail": "모로즈코가 사랑을 찾게 도와주기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/60A35CC5329A704AADE0FEC39673689476C6D7B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "3줄 요약 어디?",
+      "trophyDetail": "신중하게 제작한 컷신을 건너뜁니다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/AAEA4175E8235E0E24A2B232C63460555A104C7E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "빈손",
+      "trophyDetail": "도구를 전혀 만들지 않고 게임 끝내기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/77D94B4ADC5BC05771686A3B254E2A0EB2A4B703.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "끔찍한 이반",
+      "trophyDetail": "굉장히 공격적으로 행동하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/2E0D97A0CE75DBA8E718479B048DE481AE960C1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "완벽한 균형",
+      "trophyDetail": "굉장히 중립적으로 행동하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/B02485465469C5DADB1C5CA1317174677DC97E6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "멍청한 이반",
+      "trophyDetail": "굉장히 멍청하게 행동하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/E57F3A0A95C96B116B4786312284922856CEB7A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "탐욕스러운 이반",
+      "trophyDetail": "굉장히 탐욕스럽게 행동하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/FBBE6FB24E64C7FD040845F3DF219FCA33559DC0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "정의로운 이반",
+      "trophyDetail": "굉장히 정의롭게 행동하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/03AEA777D45857EA5F1C1A866ABA0544B09E2BD0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "일사병의 입맞춤",
+      "trophyDetail": "이반 + 포우드니차 = 사랑",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/6215DB416671482278728489CE13006AA729D634.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "상실로 맺어진 인연",
+      "trophyDetail": "광인 + 포우드니차 = 사랑",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/93B8DBE156B7826ABD398F0F3956008CE6C1ABC0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "농경지의 사랑",
+      "trophyDetail": "폴레비크 + 포우드니차 = 사랑",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/680F8AD074D3A7CB84B13F78295F1652D1E47559.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "풍족한 믿음",
+      "trophyDetail": "사제를 부자로 만들기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/A05D46249DCD318FDDB4DF09AF5CAE330CC86674.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "잘린 팔에 장갑",
+      "trophyDetail": "적 몇 명 던지기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/783182238FC0BAAC7651E9C4D02A84363167EE2A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "급조 방패",
+      "trophyDetail": "잘린 팔에 수레바퀴 달기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/60925567625ECF4C5FA89ED2C2FD56C239527008.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "이리 오너라!",
+      "trophyDetail": "사슬 포크를 사용해 적 몇 명 끌어당기기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/9E6084DA20E9CDD49B13E1993A9A9A88BCD30C65.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "보물 사냥꾼",
+      "trophyDetail": "묻힌 보물 파내기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/95488D9244DB2C5BFE9362DBD8C92F1BC144399F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "다용도 낫",
+      "trophyDetail": "낫을 무기로 바꿉니다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/2236C3E296E63FAFECEF4C118B2AEEA2557DE92E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "속이느냐, 당하느냐!",
+      "trophyDetail": "폴레비크의 부하들 속이기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/DF3F0473FA1C83F3913C9C591D8F5EB47ADA784F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "고요한 늪",
+      "trophyDetail": "보드니크가 평화롭게 살도록 돕기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/7A61BD3C7D0AA8D45A55530BD17F3BB26AF894AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "평화로운 늪",
+      "trophyDetail": "보드니크의 명복을 빌어주기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/6EC3CEBB50C27A7B1533805323A0AD5D4B04592A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "탁한 음료",
+      "trophyDetail": "탁한 젊음의 물을 차르에게 주기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/F25E1DCF7F41DD4E445DD7FEF8F06D70FB3F2AC5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "순수한 음료",
+      "trophyDetail": "젊음의 물을 차르에게 주기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/4F9D2424018709F9B548B5BEFC9567ED59F89599.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "외팔대장장이",
+      "trophyDetail": "팔을 하나 잃으세요!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/46ECC462385012D7868AB8573CF39FE9C9240326.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "완력보다는 지력",
+      "trophyDetail": "수수께끼쟁이의 시험 통과하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/FEE2E209439F9132A763AAB55CE33F8FAE9B072F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "마음만은 어린아이",
+      "trophyDetail": "장신구 아이의 장난감 세 개 동시에 장착하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/9E7CA4D0E56D8608F9AABD8E7E63A20CFCBB219A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "대박!",
+      "trophyDetail": "돼지 저금통 깨기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/4041E4F2D144C116254A4AB43B2A06D058A14095.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "오늘 저녁은 치킨이닭!",
+      "trophyDetail": "쿠마 리사가 오크베일의 닭을 잡아먹게 도와주기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/C6FE50C1C98C3F349B1E891DB5195252F1329676.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "무른 대장장이",
+      "trophyDetail": "마법 광석 대신 스투하치의 제안 받아들이기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/6D505AD8BF679CB58E004F63112CC746CBA51AD0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "음흉한 여우",
+      "trophyDetail": "쿠마 리사가 스투하치의 닭을 잡아먹게 도와주기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/E67F5AFE97A36D86AB5DEE2FF6BFC665106D1E99.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "신출귀몰 대장장이",
+      "trophyDetail": "잡히지 않고 마법 광석 훔치기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/8762C05093A443A55733D54C89B2DC42EBFA3226.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "깡패의 인생",
+      "trophyDetail": "고리대금업자 스토리 완료하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/9040B631EA5B16EB14679A64F0B6CF13827C30D1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "다 내 거야!",
+      "trophyDetail": "장신구 아이의 장난감 모두 모으기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/76B9BD699F80DDAA71C837FA0EA6EC4754A68255.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "모성애",
+      "trophyDetail": "보드니크 어미의 아이들 구하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/180ADA9A6B703549D47E5631529ABBE4CB97148C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "응징의 힘",
+      "trophyDetail": "레시 죽이기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/C3FF156889D2F55D3A2B654DEB659A5C618D083D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "우정의 힘",
+      "trophyDetail": "레시를 도와 나무꾼 부활시키기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/802302071E303AACBE8B628572555A3679B39FF4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "용서의 힘",
+      "trophyDetail": "레시 용서하기",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/0882292B5CC4AF4E9949D2A5D1F6DEE1BEAA1CAA.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 56
+}

@@ -1,0 +1,558 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR19904_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "Resident Evil Village",
+  "trophyTitleDetail": "Resident Evil Village",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/608E2951C65C8140F5C709D6471D8B8820FE6C29.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 45,
+    "silver": 7,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Resident Evil Village",
+      "trophyGroupDetail": "Resident Evil Village",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/608E2951C65C8140F5C709D6471D8B8820FE6C29.PNG",
+      "definedTrophies": {
+        "bronze": 40,
+        "silver": 6,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "дополнение «Семья Уинтерс»",
+      "trophyGroupDetail": "дополнение «Семья Уинтерс»",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/B28AC842E2FC625A8482A0004136A827D9A13FC3.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Итан Уинтерс",
+      "trophyDetail": "Разблокируйте все призы.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/69CA6AE7780B5CE0CC0B221B233233F2AE087268.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Не оборачивайся...",
+      "trophyDetail": "Переживите атаку оборотней.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/04050666198A159C5F5A2EEAE8BB987F48C1D619.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Четверо владык",
+      "trophyDetail": "Выберитесь из шахты.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/8957C198C96A31B9A8C392166F34E8ACEB716880.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Испорченный пир",
+      "trophyDetail": "Убейте мутировавшую Димитреску.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/75F30FDC5CB110DFCD4858C638F8688FA5659407.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Странный спектакль",
+      "trophyDetail": "Убейте Донну и Энджи.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/C85BDDF38CB38D952E080008230339482FBC7790.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Вверх брюхом",
+      "trophyDetail": "Убейте мутировавшего Моро.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/12031808274801B27A60697785680FE00E53CEE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Выкуси!",
+      "trophyDetail": "Убейте Урьяша в крепости.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/CA036751DB483C25F0E3F13DBDDA7AABD8066DB3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Временные меры",
+      "trophyDetail": "Разместите Чашу Гиганта на месте церемонии.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/4E1418517336FD20BE5BBF0F06F14135E20B51AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Металлолом",
+      "trophyDetail": "Убейте мутировавшего Гейзенберга.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/4BC47777AD40473A8DBBBFAE20B5D4948755B54F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Корень проблемы",
+      "trophyDetail": "Найдите мегамицелий в подземных руинах.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/CE9E2D6BF813A9C0C734F2386531E4F62814ECA1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Хороший отец",
+      "trophyDetail": "Завершите сюжет на низком уровне сложности.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/728639F06CCE9A6D123490643C0D6AD6F2825B0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Отличный отец",
+      "trophyDetail": "Завершите сюжет на обычном уровне сложности.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/9BB595BCA4CF52FBD1149E80E97E0E5580BE5D24.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Отец года",
+      "trophyDetail": "Завершите сюжет на уровне сложности «Хардкор».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/05A5B019E6D9EAF6F218B60203DF45BD4682DCF9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Лучший отец в мире",
+      "trophyDetail": "Завершите сюжет на уровне сложности «Жуткая деревня».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/9866ABC4F0214EE941C5638A0F8AC4FF17B70D1B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Подмастерье",
+      "trophyDetail": "Создайте предмет в меню создания.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/22EAB84C7D2284AF03F64B6990AE9AA0E2CBC905.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Покупатель",
+      "trophyDetail": "Купите что-нибудь у Герцога в сюжетном режиме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/C6A539A7F1D739AB6FFE0297EF88A478867500E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Воришка",
+      "trophyDetail": "Откройте простой замок с помощью отмычки.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/76EC9584ED799868028BA1303BC92E67B7049469.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Реставратор",
+      "trophyDetail": "Соберите сокровище по частям.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/BDEA82D5B274D257A01D2A32472F058A9374B968.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Охотник",
+      "trophyDetail": "Убейте животное в сюжетном режиме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/711B921EFF0556B20C93BAE9641407AABF43124F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Катись отсюда",
+      "trophyDetail": "Пройдите лабиринт.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/9720F32CF1011B07C6CCD00F21C778E913DB62A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Го-о-о-ол!",
+      "trophyDetail": "Перекатите мяч из спальни Уинтерсов в кабинет.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/8D099AEF0BB0AB0617799BACA7A3CE63CDEB33DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Накаркали",
+      "trophyDetail": "Подстрелите пять летящих ворон в сюжетном режиме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/0BBD01CC4872EC355F09618A875D05B711A9B00E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ну очень надо...",
+      "trophyDetail": "Откройте двери всех туалетов в деревне за одно прохождение.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/06E58A5D10D8B000041AA13406E42FC0E4B56610.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Хулиган",
+      "trophyDetail": "Разбейте все разрушаемые окна в замке Димитреску за одно прохождение.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/E3980929B2968BB78850F0E693BCF21A197D3AEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Хватит дурака валять",
+      "trophyDetail": "Подстрелите солдата, свисающего с конвейера на фабрике.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/87CE850CFD66199E1D1F8F647859E1DF0A4B7A2F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Социальная дистанция",
+      "trophyDetail": "Оттолкните врага после защиты в сюжетном режиме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/A7B38658868AE21BBC95635016FF67E4D12FFD3D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Снайпер",
+      "trophyDetail": "Убейте врага на большом расстоянии с помощью снайперской винтовки в сюжетном режиме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/9D574979AE58F9AF514BFC44E5937ED7F1EDDD58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Стратег",
+      "trophyDetail": "Убейте как минимум трёх врагов одной атакой в сюжетном режиме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/87D66F16F105096C66551CA8DE99FCF77D3B8671.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Средняя прожарка",
+      "trophyDetail": "Подожгите мороайку в сюжетном режиме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/C9824EADC784AAC3DA6A38B837CAEFF443B0D5F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Хорошая реакция",
+      "trophyDetail": "Отразите горящую стрелу холодным оружием в сюжетном режиме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/EC93C7DD21FBD3685B1B1D8BF624E894911C84D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Вожак стаи",
+      "trophyDetail": "Победите волколака-альфу в сюжетном режиме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/5C6FB6078CBCEFA373CFC2AFC047EE8C9B21B0DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Тёплая встреча",
+      "trophyDetail": "Победите Урьяша во время первого нападения при входе в деревню.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/896FBBB2456EBBC3811FD005578C747119CCA9D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Фотограф",
+      "trophyDetail": "Используйте фоторежим.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/0AC8FE44D5A6CE11493382AA445490A2861E2FFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Счастливая семёрка",
+      "trophyDetail": "Накопите 777, 7777 или 77 777 леев в сюжетном режиме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/7590DDD169BBF7A3EF8DF6E03515B095AF568E5E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Картограф",
+      "trophyDetail": "Откройте всю карту деревни.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/BC3FA8DEBD55094A9242CBFAC053E072777DF85C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Циник",
+      "trophyDetail": "Уничтожьте козий оберег.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/A7B28D7F27C9F69B810C0EC9625412CA3CDBA618.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Еретик",
+      "trophyDetail": "Уничтожьте все козьи обереги.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/DBF51A601370D63662535C14FB28870F5E5441A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Оружейник",
+      "trophyDetail": "Установите модуль на оружие.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/FC4CAABEF8B060FC512A4D843493818FA8849C3F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Оружейный мастер",
+      "trophyDetail": "Установите модули на каждое оружие в сюжетном режиме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/B8E7640427B13DB2AB20A40B7C45BDA3D6E74FD1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер на все руки",
+      "trophyDetail": "Создайте все типы предметов, доступные в меню создания.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/702D05F09A9EE7BA88A19827A42327D0C4B00A43.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Инженер",
+      "trophyDetail": "Соберите все схемы.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/BC5F4483AABF8D1926EB0600685251493DE31504.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Книжный червь",
+      "trophyDetail": "Прочитайте все документы в сюжетном режиме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/C8165EFF358560B762773584D350698C34791169.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Само пройдёт",
+      "trophyDetail": "Завершите сюжет, использовав не более четырёх средств восстановления.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/AB2FE4B3FDA8EF5AB972846E83DEC2A49191DC8D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Папа-спринтер",
+      "trophyDetail": "Завершите сюжет в течение 3 часов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/ADD016B8981EC5EEB1C3371509878D1D638FD9B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Бережливый папа",
+      "trophyDetail": "Завершите сюжет, потратив не более 10 000 леев.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/174C90CB35C60D44317D5B2B40E5A2292EEBD0C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Выбор мастеров",
+      "trophyDetail": "Завершите сюжет только с холодным оружием (кроме ряда битв с боссами).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/90ADE58487A1BDA4E0BB4CEAC2639A74132D4905.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Цепочка побед",
+      "trophyDetail": "Выполните комбинацию не ниже 30 в The Mercenaries.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/297F148A68FBD025B3F802F5C2D18D61DDB9CC71.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Легендарный ковбой",
+      "trophyDetail": "Получите минимум ранг S на всех этапах в The Mercenaries.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/439480F679957DF1D1FD687F060D92B093DB04E7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Коллекционер кукол",
+      "trophyDetail": "Посмотреть все модели персонажей и оружия.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/EA72A8671EE42FDE8E2D0FBE0569BE058C96DF07.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Коллекционер",
+      "trophyDetail": "Посмотреть все наброски.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/5169403275F569A068F5885E8E405B412DECB3AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Хрупкий подросток",
+      "trophyDetail": "Завершите «Тени Розы» на низком уровне сложности.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/9A7B828C54FA430D70CA735F74CE35D8B7485913.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Уверенный подросток",
+      "trophyDetail": "Завершите «Тени Розы» на обычном уровне сложности.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/84E8289323E50C09BFDF158538F4876DC8BE3038.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Крутой подросток",
+      "trophyDetail": "Завершите «Тени Розы» на уровне сложности «Хардкор».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/7A08EB9D8A4D62C656FA2FC124FCB7AC767C576A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Девочка с грибницей",
+      "trophyDetail": "Используйте силу мутамицелия Розы не менее 20 раз.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/66C169F8EABCB95A92026757BA65FB018AD13471.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Рукодельница",
+      "trophyDetail": "Создайте все виды предметов в «Тенях Розы».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/AC837C0D053A57A491756748D7BB6C8B1ABD0197.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Деревня в крови",
+      "trophyDetail": "Пройдите «Кровавую деревню» в «Новых приказах».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/9CF06BF7EA02AB39EC7995EE66E0C0831C90F686.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Река крови",
+      "trophyDetail": "Пройдите «Кровавую реку» в «Новых приказах».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR19904_00_00500ADADD2AA388911E637EE6A1B66B6F259FA3CA/A565DEE0C2E35CCF02492B9A022ECBE41E0200E4.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 57
+}

@@ -1,0 +1,522 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR05855_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "The Hungry Horde",
+  "trophyTitleDetail": "Zombastiset trophyt",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/66E2D79F68D1144CDBE904BB958E5E7B40BB4709.PNG",
+  "trophyTitlePlatform": "PSVITA",
+  "definedTrophies": {
+    "bronze": 39,
+    "silver": 9,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "The Hungry Horde",
+      "trophyGroupDetail": "Zombastiset trophyt",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/66E2D79F68D1144CDBE904BB958E5E7B40BB4709.PNG",
+      "definedTrophies": {
+        "bronze": 32,
+        "silver": 6,
+        "gold": 4,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Holiday Hijinx",
+      "trophyGroupDetail": "Holiday Hijinx -paketti",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/9C7FC4FF7009CACB9893CE8FDD79F66D9AE0A41F.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinalauma",
+      "trophyDetail": "Hanki kaikki muut trophyt",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/7C1CF5521E2F201B57CE4BEC3F8E4341CB280711.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Katso äiti, olen kuuluisa!",
+      "trophyDetail": "Tee hahmonluonnissa oma hahmosi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/612FE2DA82E2AB636A54864FC3952092BD75A407.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kuka voittaa kasvien ja zombien välisen sodan?",
+      "trophyDetail": "Tuhoa 1 000 kukkaa",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/3EB5811E661F6D53CE5B8B5CBD7084442932FAA7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Valmistaudu zombailuun",
+      "trophyDetail": "Päivitä kaikki aseet kokonaan Zombatissa",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/77B2639B376992C911B2DC933E4D293CAA851DA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mmm… aivoja",
+      "trophyDetail": "Värvää ensimmäinen zombie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/9741C68C789B3A2F23CF93487AC155F964982D9F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Väkeä kuin pipoa",
+      "trophyDetail": "Värvää 5 000. zombi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/91F11FEB154C27694AAC84A6DB70077067F05059.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Maailmanlaajuinen epidemia",
+      "trophyDetail": "Värvää 10 000. zombi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/909897950E30241DCFD4643F9B5478B9E403EF10.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Pakko saada kaikki",
+      "trophyDetail": "Täytä tarrakirja",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/88EB331B09B109241D1E36B9C5DAB92579C766BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kookoksenväistäjä",
+      "trophyDetail": "Selviydy 2 minuuttia Pacifist Islandilla keräämättä yhtään kookosta.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/BAD3133830A4BF006748DE5A6896050D7F775BA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "30 suoritettu, 120 jäljellä",
+      "trophyDetail": "Suorita 30 tavoitetta",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/7DE1EA05CDEE9F349B0B3CE35081D781CA091788.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "60 suoritettu, 90 jäljellä",
+      "trophyDetail": "Suorita 60 tavoitetta",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/C50DF3856CBF309D4D2925C949C97C8EEA7139B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Tavoitteellinen",
+      "trophyDetail": "Suorita kaikki 150 tavoitetta",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/6AD06667AD0D83D5B64D3A8641CD0FD8A0711087.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No niin!",
+      "trophyDetail": "Selvitä kaikki Infectionin kierrokset",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/8B42694057813CFF7BA37D2677598521403CCC73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "BILEET!",
+      "trophyDetail": "Tee vähintään 25 zombin letka ja tanssi 90 sekuntia",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/C38AED182180C92991D49CF64E042D1249EFB239.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Säätäjä",
+      "trophyDetail": "Kärsimättömyys on hyve",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/85A2F9212156A7AC7C3126612A1B7659BAA68830.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tämä on hulluutta!",
+      "trophyDetail": "Tapa 300 ihmistä nappauksella",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/82E9B2570AA3A353D4F80796F1AFCD3C8EDD7B4F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tik tik tik pum",
+      "trophyDetail": "Pidä ilmahälytyssireeni soimassa vähintään 40 sekuntia",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/65A3206E47E3E5F7E39F65BA0D9C0BDB0A08732F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Et voi pomotella minua!",
+      "trophyDetail": "Voita tankki 3 kertaa yhdellä pelikerralla",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/32FC062BE27AC6DC04FC4988FF7D6011B1E97962.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yhä elossa",
+      "trophyDetail": "Pysy hengissä vähintään 3:33 Zombatin kabinettinäkymässä",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/7ACF2E23CED3FF701EF7598875FF9068F3DB1B89.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Pelinception",
+      "trophyDetail": "Pelaa pelissä olevassa pelissä olevaa peliä",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/68FBE310E0D42CA73D2A444D4F7701667D7CE697.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kävelisin 500 kilometriä",
+      "trophyDetail": "Ohita 500 tarkistuspistettä",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/8A77170B5023994406943F27700472A9DD08CC34.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ja kävelisin 500 lisää",
+      "trophyDetail": "Ohita 1 000 tarkistuspistettä",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/5D06F4CC7E39709766AAFAEC4F76022EB15F08CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nopeus x2",
+      "trophyDetail": "Juokse vähintään 15 sekuntia Pacifist Islandissa",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/13165C397BBFED5E658139FB68620AF45E151778.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hardcore!",
+      "trophyDetail": "Voita kolme ensimmäistä Infectionin kierrosta käyttämättä tehosteita",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/A3A9826FE5C3037EEEFED1D8F993E3D179574E76.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pandemia",
+      "trophyDetail": "Tartuta 10 000 punasolua Infectionissa",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/6225365F4CC6662AD2C4352629854F1D323A62B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Supervirus",
+      "trophyDetail": "Kerää 5 000 mutageenia",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/D11DA71915677C2546BF8602A42DF95A6334800A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perjantai-, lauantai- ja sunnuntai-illan huumaa",
+      "trophyDetail": "Olet bileiden sydän ja sielu",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/B827100B400FF036DE837ECEE46C25BBB727E0D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Onnekasta joillekin",
+      "trophyDetail": "Tapa 13 ihmistä yhdellä nappauksella",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/53B584CD2FBA8AB1727F3A674DE7B1396F8C705B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "On jo, on jo, tarvitsen",
+      "trophyDetail": "Täytä 50 % tarrakirjasta",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/E09245B77FEC5B188A330724E5D29D4F2C674CA4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "MUSAA!",
+      "trophyDetail": "Käytä ämyriä 200 kertaa",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/BBEBB0DFBA7FFC36A4C918FAE440A5CB93524937.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tunnustusta sen ansaitseville",
+      "trophyDetail": "Pelaa peliä tekijäinmaailmassa",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/3694C7E89F81446D1675B39496A89971E556A14A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Superkehittäjän trophy",
+      "trophyDetail": "MAHTAVUUTTA! Katsoit kaiken mitä voi katsoa",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/5A21F5FD8A6964A5484F538E026BB41225C9B3E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lääkärin määräys",
+      "trophyDetail": "Kerran päivässä viikon ajan",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/244086258647CB2D34D6DEBCA980E18312895B28.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Olen zombi, vie minut pois täältä!",
+      "trophyDetail": "Selviydy 180 sekuntia Pacifist Islandissa",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/246DBF2A2A4730D65997F48F2B76F68C0169A420.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Näin tapahtuu kun pilaat lomani!",
+      "trophyDetail": "Tapa 4 hyökkääjää yhdellä hyvin asetetulla miinalla Pacifist Islandissa",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/AA5CC6DE1A6DB72238CB380E639059AE2B70F9ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mitä Gordon sanoo, se tapahtuu!",
+      "trophyDetail": "Voita taso 15 Gordon käskee -pelissä",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/BCDF3697DB69F44F9ABD69A748ABEBA29D800AFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Uudelleensyntynyt uhri",
+      "trophyDetail": "Tapa Ruben Rainbow 99 kertaa",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/25F7C2910205BA32FE55257307F0789B1EAEC956.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diplomi!",
+      "trophyDetail": "Syö 11 111 aivot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/AAB20CE518057E29E3C38FF816B2A3C05CCC418D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kartoittaja",
+      "trophyDetail": "Näe pelin joka alue",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/1AE94094F3CF4E4A4E43EBF3C284FC413D5D8889.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aina aikaa pelata",
+      "trophyDetail": "Pelaa yhdellä pelikerralla jokaista vastaantullutta minipeliä vähintään kerran.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/A28211EC740269212C631EA0D89453F591036972.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "50 vihreän sävyä",
+      "trophyDetail": "Avaa jokainen zombihahmon tarra",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/8A37391C673104B9A4AFF8A83D70B54A0830C79E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On jo, on jo, on jo, argh!",
+      "trophyDetail": "Saa sama raaputusarpa kolmesti",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/D270E642A9AE11C6FCAAA7F3D660140DF3EDCEEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Laiska kehittäjä",
+      "trophyDetail": "Ööö… pelasit peliä… HYVIN TEHTY!!!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/475F57711F827B414BC3DB870D292C15C8BB35E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lumiläppä",
+      "trophyDetail": "Kieritä lumipalloa, kunnes se hajoaa.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/B8996D8933259ADFF8C2918B72586014FF5E6C6B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pakkasherra",
+      "trophyDetail": "Tuhoa 15 lumiukkoa yhden suorituksen aikana.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/A3BBB76C6066EC83D32918C00E7A8AE7621D7474.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Selvänäkijä",
+      "trophyDetail": "Saa vähintään kuuden yhdistelmä Holiday Hijinxissä.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/EEE0300F82F3CA2D1206ACFA06EB71031F9EE841.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tuhmien listalla",
+      "trophyDetail": "Pääsit Holiday Hijinxissä 8. kierrokselle. Et kai huijannut?",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/AC30A41673B1D5BE6560FEF2DFC3D9649D8A163A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hämärästä kuolleiden aamunkoittoon",
+      "trophyDetail": "Selviydy 5 päivää ja yötä.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/8BB0037E53ADBED2B3436646A57403EB8518F9DA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tonttujen tuho",
+      "trophyDetail": "Tapa 99 tonttua.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/1DD297C2A9D0F3653250421ACED1FBBB6E2B3BDD.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vierivät kulkuset",
+      "trophyDetail": "Työnnä 10 lumipalloa.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/629F54720A3D2134E65E4BA6C8BEF477C38CEE9B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rennon hardcore",
+      "trophyDetail": "Läpäise jokainen minipeli vähintään kerran.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/CC973C46E678E99CCD1A4AD26235BEAA2912EEB4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Joulumaa",
+      "trophyDetail": "Valaise kultainen \"HOLIDAY\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/458481E2FB9AE73422FD5643B0DED7AAE74F9F34.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pukin reessä",
+      "trophyDetail": "OMG! TAPOIT JOULUPUKIN. KUINKA SAATOIT? SENKIN HIRVIÖ!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/0B1E0B393A016E42D84C475D4251C791BEC6588E.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 53
+}

@@ -1,0 +1,591 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR18462_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Northgard",
+  "trophyTitleDetail": "Northgard",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/4494C918489AC7E630D83F43E9BD9FA5BDE7F68E.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 57,
+    "silver": 3,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Northgard",
+      "trophyGroupDetail": "Northgard",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/4494C918489AC7E630D83F43E9BD9FA5BDE7F68E.PNG",
+      "definedTrophies": {
+        "bronze": 57,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Jeu terminé",
+      "trophyDetail": "Vous avez terminé le jeu",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/BFE6325B549E7CD6A385CE3303D69CD0DF2B59F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seigneur de guerre",
+      "trophyDetail": "Obtenir une victoire de domination [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/387B483CCB13A097732F88B7281B7D943ABD8C23.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grand marchand",
+      "trophyDetail": "Obtenir une victoire de commerce [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/F8252CE9BF31443C3934039C7BC599BB9B29866F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Roi de Northgard",
+      "trophyDetail": "Obtenir une victoire de renommée [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/2D469C8605B3793A7C12B614D86450C16552BE0B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le Sage",
+      "trophyDetail": "Obtenir une victoire de sagesse [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/9BD82E63CF4351B9C228F5A9FA2B698A91AD06CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le Protecteur",
+      "trophyDetail": "Gagner en gardant les Portes de Helheim [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/DB6F87980963D0E23BDAB1FEA70B61FBAB6370C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le Mystique",
+      "trophyDetail": "Gagner en prenant le contrôle d'Yggdrasil [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/81441232D0383DE0A5FD2B27CE7FB1449C12E822.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le Forgeron",
+      "trophyDetail": "Gagner en forgeant l'épée d'Odin [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/81CF51AC2178525501F417F1EA70E54B216E9247.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ragnarök",
+      "trophyDetail": "Remporter une partie dans l'extension Ragnarök",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/36AE67CCB1B9C046FA07CBBB6E7ACF3A1279D008.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guerrier",
+      "trophyDetail": "Obtenir 10 victoires avec n'importe quel clan [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/7FFEC6F1E371906E7DE456F3204A7D0AA0EAEBB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chef de guerre",
+      "trophyDetail": "Obtenir 25 victoires avec n'importe quel clan [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/3D896709A4696E469E4EFC3526D4E962A2A5915E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thane",
+      "trophyDetail": "Obtenir 50 victoires avec n'importe quel clan [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/5AAC83FE89539688BA308506CFDC3CAC83AAE7AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Jarl",
+      "trophyDetail": "Obtenir 100 victoires avec n'importe quel clan [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/76AB7153BA55B564E70C6F1E56FEA0E555772541.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Roi",
+      "trophyDetail": "Obtenir 250 victoires avec n'importe quel clan [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/1731910B53973DA9DD9AC6F9A2A722F2D1827F20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Assaillant",
+      "trophyDetail": "Gagner une partie avec le clan du Loup [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/FE80FE89BC42DDE136606E96026CC71A02117C83.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fier",
+      "trophyDetail": "Gagner une partie avec le clan du Cerf [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/36ACDE138B6E164A16E146A210A477E92FC19A45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Survivant",
+      "trophyDetail": "Gagner une partie avec le clan de la Chèvre [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/8008A49433F1A18E435344C8993D61814C0E2C9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marchand",
+      "trophyDetail": "Gagner une partie avec le clan du Corbeau [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/20641DC30F42C409620D22751DDF1D0BF1A72D87.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inébranlable",
+      "trophyDetail": "Gagner une partie avec le clan de l'Ours [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/92D647803761E43B4BC6F2C8B17E1118A3F04456.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ermite",
+      "trophyDetail": "Gagner une partie avec le clan du Sanglier [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/F3EEDF639A37DF4221159FE021CA643E36A7DC48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Purge",
+      "trophyDetail": "Tuer 20 Draugar au cours d'une partie [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/6C67C042452D620C682C366936E657199666E03B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chasseur de loups",
+      "trophyDetail": "Tuer 20 loups au cours d'une partie [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/6E588D488564EA948E1742C92CC433527B3736BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tueur de dragon",
+      "trophyDetail": "Tuer la Wyverne [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/395CA6FD97DBAB4A01F41E96DF8DC19A38F183A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gardien légendaire",
+      "trophyDetail": "Tuer 10 Valkyries au cours d'une partie [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/A0420B3C5A146325757F92DF2085C907240EC327.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chasseur d'ours",
+      "trophyDetail": "Tuer 3 ours au cours d'une partie [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/30AB68B1A0692CBE67373A44159F10C2CD85CBA0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Briseur de pierre",
+      "trophyDetail": "Tuer 10 golems de pierre",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/4CE87EBCE2BC22DDF44E54BA4D5D90637BE9255A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ami des Jötnar",
+      "trophyDetail": "Débloquer le Chef de guerre des géants [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/9526D342C060C51B9512B16A084CD69A086B48D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eradication des Kobolds",
+      "trophyDetail": "Détruire un camp de Kobolds [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/827D2E2ACDE68C43CB4324BFB8078F7D5FD4C8C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Myrkálfar et compagnie",
+      "trophyDetail": "Devenir ami avec les Myrkálfar",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/AF636B9E0774CB77BBE864FCA724A292872E802B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grand explorateur",
+      "trophyDetail": "Explorer tous les territoires de Northgard [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/0D6082DAFBCDAB4C9F0E397E081B38A556D1A88C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eaux chaudes",
+      "trophyDetail": "Coloniser 1 zone de geysers [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/A4B313F1C9E003B6F3A6AA43BBDF220A1612F2C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Plus près de Thor",
+      "trophyDetail": "Coloniser la zone du Courroux de Thor [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/266A14FF8EF6C28ECBB728303FC9A357D26F42E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Protecteur des oiseaux",
+      "trophyDetail": "Soigner Vedrfolnir [hors mode Histoire]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/E34B5423445C6EE52989F39804EED65C3596DC9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tacticien expert",
+      "trophyDetail": "Débloquer le niveau 3 de la voie du Tacticien",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/22A61E948EEF9411C082219776673E03777064C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gardien expert",
+      "trophyDetail": "Débloquer le niveau 3 de la voie du Gardien",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/A11B9A2376FCDCD6145749953BDC03F021732816.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conquérant expert",
+      "trophyDetail": "Débloquer le niveau 3 de la voie du Conquérant",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/60E58EA23A1EE2E390F9DB5B45F713DB56EB1C3B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secrets - Exode",
+      "trophyDetail": "Remplir tous les objectifs bonus du premier chapitre de la saga de Rig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/7D5D9C9617038354558446BAF05A7CC25F1B69F1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secrets - Découverte",
+      "trophyDetail": "Remplir tous les objectifs bonus du deuxième chapitre de la saga de Rig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/900DF620574D6945C440481CC17870C7171DC318.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secrets - Campement",
+      "trophyDetail": "Remplir tous les objectifs bonus du troisième chapitre de la saga de Rig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/4014B3BC7E01936AEAE2878097DB0B2D61A29FE3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secrets - Guerre commerciale",
+      "trophyDetail": "Remplir tous les objectifs bonus du quatrième chapitre de la saga de Rig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/F9CC45CFA934E0F0B096DFE98837B63B60C8686F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secrets - Expédition punitive",
+      "trophyDetail": "Remplir tous les objectifs bonus du cinquième chapitre de la saga de Rig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/4CADE72CCD68AF7627141293C758C4EC7BD6EF5D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secrets - Intervention",
+      "trophyDetail": "Remplir tous les objectifs bonus du sixième chapitre de la saga de Rig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/F95E917A031855E5DA696CF8DDE27632312383C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secrets - Jötunnheim",
+      "trophyDetail": "Remplir tous les objectifs bonus du septième chapitre de la saga de Rig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/779C9B922749C7479B55D680E6B3B8455FA30F81.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secrets - Défi",
+      "trophyDetail": "Remplir tous les objectifs bonus du huitième chapitre de la saga de Rig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/AE0D5BCCBB31F3F36ABFE4319482596C9497CBAC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secrets - Secousses",
+      "trophyDetail": "Remplir tous les objectifs bonus du neuvième chapitre de la saga de Rig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/F3111EDAA915D29647871BA0FF901BBFBC1DC786.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secrets - Fimbulvinter",
+      "trophyDetail": "Remplir tous les objectifs bonus du dixième chapitre de la saga de Rig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/F04C525171BD088CC127009DAAA866644FA5D535.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secrets - Bifröst",
+      "trophyDetail": "Remplir tous les objectifs bonus du onzième chapitre de la saga de Rig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/7ADEE4BE666020BADBA68B162182171F9E862AB3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Secrets - Saga de Rig",
+      "trophyDetail": "Remplir tous les objectifs bonus de tous les chapitres de la saga de Rig",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/E7E9AE135BB487935A6A78217D8B2A57E0FF1814.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La fin",
+      "trophyDetail": "Terminer la saga de Rig en niveau normal (ou supérieur)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/69A102FC33A95C3EFB4D8EBAF482BB5749ADE62A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conquérant",
+      "trophyDetail": "Terminer la saga de Rig en niveau difficile (ou supérieur)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/E261E875BD4D10FBC7C2E0AB22DD6F3B972AE094.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Survivre à Helheim",
+      "trophyDetail": "Terminer la saga de Rig en niveau extrême",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/FA5F13D1A7618EB713C8944F847B020B04011988.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le grand chaudron",
+      "trophyDetail": "Construire la relique Eldhrímnir",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/1942A61CD964E7FE63BB8EF376C2838B5DF44869.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "L'heure du marteau",
+      "trophyDetail": "Construire la relique Mjöllnir",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/77AEDBF4C54DCEF797757F65A9927FAE1994C124.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Plus dure que la pierre",
+      "trophyDetail": "Construire la relique Svalinn",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/4EB2F0EB5B5FADBBDDC7B5D17BF5E2A090851FA0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le savoir est un fruit",
+      "trophyDetail": "Construire la relique Jörmunr",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/2D9F4B537E48AA472E93C1B7631746E4310C44D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pression commerciale",
+      "trophyDetail": "Construire la relique Bragafull",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/AA320EC067A3815F9BCB41BE809143FE388BAA72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Attention, fragile !",
+      "trophyDetail": "Construire la relique Pot de Gefjon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/6E0997AC492C238C5446431F5227C4B29061CF80.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Le goût du sang",
+      "trophyDetail": "Construire la relique Corne de Managarm",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/7EB47EA0A85C86A0F0A25BD8D962D8B15B264EF1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "C'est à moi",
+      "trophyDetail": "Construire la relique Hlidskjálf",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/EB736EE80533873440789A7DAA44A5F6F6C3CEAF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Une livraison de rien du tout",
+      "trophyDetail": "Construire la relique Naglfar",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/D708D4721D75658F9E3EEE91F10FA4CC800D8E64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rien à prouver",
+      "trophyDetail": "Construire la relique Fourreau de Gram",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/643398B811A9358D6E10E5F23D50F8EA53C8F66D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ne surtout pas lui marcher sur la queue",
+      "trophyDetail": "Construire la relique Masque de Gullinbursti",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18462_00_00A1C0B5E53773A5038ED118033C7EE50A9B29B97C/8AB890432560BD3C605F6D04D676756E4F95D9B0.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 62
+}

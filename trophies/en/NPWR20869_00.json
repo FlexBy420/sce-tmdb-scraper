@@ -1,0 +1,87 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR20869_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Chess",
+  "trophyTitleDetail": "Chess Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20869_00_00881DC3B9BD444C75183CF809153B9F0E689ACF62/6886DEB371B7491FA070A9C378B7DD564A7CA542.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 1,
+    "silver": 3,
+    "gold": 2,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Chess",
+      "trophyGroupDetail": "Chess Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20869_00_00881DC3B9BD444C75183CF809153B9F0E689ACF62/6886DEB371B7491FA070A9C378B7DD564A7CA542.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 3,
+        "gold": 2,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Winner",
+      "trophyDetail": "Win",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20869_00_00881DC3B9BD444C75183CF809153B9F0E689ACF62/4F367E08F2B8C87174D6C544D0524D90AB2BF27F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Loser",
+      "trophyDetail": "Loss",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20869_00_00881DC3B9BD444C75183CF809153B9F0E689ACF62/0AF17A820AA94F71ABA262838F08C9E664AFBED6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Chess Master",
+      "trophyDetail": "Win on master",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20869_00_00881DC3B9BD444C75183CF809153B9F0E689ACF62/3379DA34BDD1291D5762D8A805BB56A2BDC7CFBF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Great Master",
+      "trophyDetail": "Win three chess matches on master",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20869_00_00881DC3B9BD444C75183CF809153B9F0E689ACF62/F154434BB7F730F4946FE1276A55D9DC29B72203.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Intermediate Player",
+      "trophyDetail": "Win on medium",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20869_00_00881DC3B9BD444C75183CF809153B9F0E689ACF62/500B4F5CF516C530E93B533CB8C9A8BF41C1B3F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Expert Player",
+      "trophyDetail": "Win on expert",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20869_00_00881DC3B9BD444C75183CF809153B9F0E689ACF62/8861BB4394E9F083159E34B483DBA29E16243A19.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 6
+}

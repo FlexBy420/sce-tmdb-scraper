@@ -1,0 +1,549 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR18424_00",
+  "trophySetVersion": "01.04",
+  "trophyTitleName": "Trofea Yaga",
+  "trophyTitleDetail": "Trofea w grze Yaga.",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/40966107911FF0BCAE669434D29CA2D8E029A0B8.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 45,
+    "silver": 6,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Trofea Yaga",
+      "trophyGroupDetail": "Trofea w grze Yaga.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/40966107911FF0BCAE669434D29CA2D8E029A0B8.PNG",
+      "definedTrophies": {
+        "bronze": 32,
+        "silver": 6,
+        "gold": 4,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Trofea Korzenie zła",
+      "trophyGroupDetail": "Trofea w grze Korzenie zła.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/E55026AEB7B76E98C5F8FC1A4295DEE114CC5599.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Wszystkie trofea",
+      "trophyDetail": "Zdobądź wszystkie trofea w grze Yaga.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/773124C07541C357306C39D940CA43CD3CF6BE05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pozłacany dar",
+      "trophyDetail": "Daj pozłacane jabłko Carowi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/46C77F3C700AC422335CEF46D57308EC00AF8F6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Złoty dar",
+      "trophyDetail": "Daj złote jabłko Carowi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/223AF8C747921E673BBF11A7C120D3844696D78B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Zła wiara",
+      "trophyDetail": "Zaatakuj wszystkie stare ołtarze",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/4743ECA5AA635FC832EF748DA9B73929EE7F77E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pomoc już nadchodzi!",
+      "trophyDetail": "Wezwij na pomoc stworzenie, któremu darowałeś życie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/86E29EE55577AB5B2FCFEE630946341C7BDDC632.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Zabójca kurczaków",
+      "trophyDetail": "Zabij wioskowe kurczaki",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/26D6C3C3B4A8A5C0916BB013EE9B6488C00F7D25.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ding! Dong!",
+      "trophyDetail": "Uderz w kościelny dzwon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/8EC92FC46FFFEC54038DE94196BA823610B89933.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ślub",
+      "trophyDetail": "Dojdź do końca gry",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/420CD698AA5CB030B4624BCBA036D8593DA12CD8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Iwan Kowal",
+      "trophyDetail": "Pozostań kowalem",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/FDEAFA708A7A4F96D6785ECBA820B7C3114F9CA3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Śmierć głupca",
+      "trophyDetail": "Bądź głupi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/FE2E3F96E981113E4C78D4376F6004056DCE0D38.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Doradca Marii",
+      "trophyDetail": "Zostań królewskim doradcą",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/62C58E313C5C238B353D04067C88403A7E1E2A30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Życzenie babci",
+      "trophyDetail": "Maria – waleczna królowa",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/214FCCFF714C0B389CADE73EAE46554B69E86845.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Nowe szaty kowala",
+      "trophyDetail": "Sam zostań Carem",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/33DF2D8FC658376749F9387C7D60BFC6CC17846C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Facepalm Yagi",
+      "trophyDetail": "Doświadcz facepalma Yagi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/C5220487229817F946F6065B4D028630EC656152.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rozgrzane serce",
+      "trophyDetail": "Spróbuj poflirtować kilka razy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/BB8EB3BCDDCCE7CE3742C9E82B9F433586433C00.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Wolność nieumarłych",
+      "trophyDetail": "Pozwól odejść Kościejowi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/C25B3A398D3D3AC9BC5CB19A8F36E93F1DA9C341.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Więzienie nieumarłych",
+      "trophyDetail": "Zamknij Kościeja",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/0EE207E7D3EB51BFCF2F85EEFAEFB309984A9655.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Śmierć nieszczęściu",
+      "trophyDetail": "Zabij starego wroga",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/8EE9FD924678DF24C16700AE9FF63704D6785751.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Przyjaźń nieszczęściu",
+      "trophyDetail": "Daruj życie staremu wrogowi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/9C6194DF7D8C52F87C8174150FB4F14EB35DD768.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pokruszony lód",
+      "trophyDetail": "Zniszcz serce Mroza",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/16FB504CFD14B1C9A45A188C2EFCC527E2B2A384.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Połyskujący lód",
+      "trophyDetail": "Pomóż Mrozowi znaleźć miłość",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/60A35CC5329A704AADE0FEC39673689476C6D7B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "TL;DW;",
+      "trophyDetail": "Pomiń starannie przygotowany przerywnik filmowy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/AAEA4175E8235E0E24A2B232C63460555A104C7E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Puste ręce",
+      "trophyDetail": "Ukończ grę bez wykuwania narzędzi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/77D94B4ADC5BC05771686A3B254E2A0EB2A4B703.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iwan Straszliwy",
+      "trophyDetail": "Bądź naprawdę agresywny",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/2E0D97A0CE75DBA8E718479B048DE481AE960C1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfekcyjna równowaga",
+      "trophyDetail": "Bądź naprawdę neutralny",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/B02485465469C5DADB1C5CA1317174677DC97E6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iwan Głupiec",
+      "trophyDetail": "Bądź naprawdę głupi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/E57F3A0A95C96B116B4786312284922856CEB7A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iwan Chciwy",
+      "trophyDetail": "Bądź naprawdę chciwy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/FBBE6FB24E64C7FD040845F3DF219FCA33559DC0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iwan Szlachetny",
+      "trophyDetail": "Bądź naprawdę szlachetny",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/03AEA777D45857EA5F1C1A866ABA0544B09E2BD0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pocałunek udaru słonecznego",
+      "trophyDetail": "Iwan + Południca = Miłość",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/6215DB416671482278728489CE13006AA729D634.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Zjednoczeni w stracie",
+      "trophyDetail": "Szaleniec + Południca = Miłość",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/93B8DBE156B7826ABD398F0F3956008CE6C1ABC0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Miłość na polach",
+      "trophyDetail": "Polewik + Południca = Miłość",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/680F8AD074D3A7CB84B13F78295F1652D1E47559.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bogaty w wierze",
+      "trophyDetail": "Zrób z księdza bogacza",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/A05D46249DCD318FDDB4DF09AF5CAE330CC86674.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rękawica na kikucie",
+      "trophyDetail": "Odrzuć kilku wrogów",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/783182238FC0BAAC7651E9C4D02A84363167EE2A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Improwizowana tarcza",
+      "trophyDetail": "Przymocuj koło od wozu do swojego kikuta",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/60925567625ECF4C5FA89ED2C2FD56C239527008.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chodźcie tu!",
+      "trophyDetail": "Użyj kiścienia, by przyciągnąć kilku wrogów",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/9E6084DA20E9CDD49B13E1993A9A9A88BCD30C65.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Łowca skarbów",
+      "trophyDetail": "Wykop zakopany skarb",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/95488D9244DB2C5BFE9362DBD8C92F1BC144399F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nie tylko w pole",
+      "trophyDetail": "Zmień sierp w broń",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/2236C3E296E63FAFECEF4C118B2AEEA2557DE92E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Psikus albo śmierć!",
+      "trophyDetail": "Oszukaj sługusów Polewika",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/DF3F0473FA1C83F3913C9C591D8F5EB47ADA784F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cisza na bagnach",
+      "trophyDetail": "Pomóż Wodnikowi żyć w spokoju",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/7A61BD3C7D0AA8D45A55530BD17F3BB26AF894AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pokój na bagnach",
+      "trophyDetail": "Zapewnij Wodnikowi wieczny odpoczynek",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/6EC3CEBB50C27A7B1533805323A0AD5D4B04592A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Błotnisty napój",
+      "trophyDetail": "Daj błotnistą wodę młodości Carowi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/F25E1DCF7F41DD4E445DD7FEF8F06D70FB3F2AC5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Czysty napój",
+      "trophyDetail": "Daj wodę młodości Carowi",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/4F9D2424018709F9B548B5BEFC9567ED59F89599.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Jednoręki kowal",
+      "trophyDetail": "Strać rękę!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/46ECC462385012D7868AB8573CF39FE9C9240326.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mózg ponad tężyznę",
+      "trophyDetail": "Zdaj test Gawędziarki",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/FEE2E209439F9132A763AAB55CE33F8FAE9B072F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dziecko w serduszku",
+      "trophyDetail": "Wyposaż swoją postać jednocześnie w trzy zabawki Świecidełkowego chłopca",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/9E7CA4D0E56D8608F9AABD8E7E63A20CFCBB219A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Wygrana!",
+      "trophyDetail": "Rozbij świnkę-skarbonkę",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/4041E4F2D144C116254A4AB43B2A06D058A14095.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kura tu, kura tam, zjem je wszystkie sam!",
+      "trophyDetail": "Pomóż Kumie Lisie zjeść kurczaki z Dębowej Doliny",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/C6FE50C1C98C3F349B1E891DB5195252F1329676.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kowalny Kowal",
+      "trophyDetail": "Przyjmij ofertę Zduhacza zamiast Magicznej Rudy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/6D505AD8BF679CB58E004F63112CC746CBA51AD0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Podstępny lis",
+      "trophyDetail": "Pomóż Kumie Lisie zjeść kurczaki Zduhacza",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/E67F5AFE97A36D86AB5DEE2FF6BFC665106D1E99.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Podstępny kowal",
+      "trophyDetail": "Nie daj się złapać podczas kradzieży Magicznej rudy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/8762C05093A443A55733D54C89B2DC42EBFA3226.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zbójnickie życie",
+      "trophyDetail": "Ukończ wątek fabularny Lichwiarza",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/9040B631EA5B16EB14679A64F0B6CF13827C30D1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Złap je wszystkie!",
+      "trophyDetail": "Zbierz wszystkie zabawki Świecidełkowego chłopca",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/76B9BD699F80DDAA71C837FA0EA6EC4754A68255.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Matczyna miłość",
+      "trophyDetail": "Uratuj dzieci Matki Wodnika",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/180ADA9A6B703549D47E5631529ABBE4CB97148C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Potęga zadośćuczynienia",
+      "trophyDetail": "Zabij Leszego",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/C3FF156889D2F55D3A2B654DEB659A5C618D083D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Potęga przyjaźni",
+      "trophyDetail": "Pomóż Leszemu ożywić Leśnika",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/802302071E303AACBE8B628572555A3679B39FF4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Potęga wybaczenia",
+      "trophyDetail": "Oszczędź Leszego",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18424_00_003D19209C57DE0A952F5B023E0B002B07612E3544/0882292B5CC4AF4E9949D2A5D1F6DEE1BEAA1CAA.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 56
+}

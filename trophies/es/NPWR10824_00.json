@@ -1,0 +1,798 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR10824_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "BioShock Infinite: The Complete Edition",
+  "trophyTitleDetail": "Trofeos de BioShock Infinite: The Complete Edition",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/F23B7FE8C674A6869DF361654AAA40F82D479F74.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 55,
+    "silver": 24,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "BioShock Infinite: The Complete Edition",
+      "trophyGroupDetail": "Trofeos de BioShock Infinite: The Complete Edition",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/F23B7FE8C674A6869DF361654AAA40F82D479F74.PNG",
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 15,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Enfrentamiento en las nubes",
+      "trophyGroupDetail": "Trofeos de Enfrentamiento en las nubes",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/A0743857CD1F876FC43F50024A7EC575D97AD6F0.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Panteón marino - Episodio 1",
+      "trophyGroupDetail": "Trofeos de Panteón marino - Episodio 1",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/F6315BF4CDA681C93974E6C33C151A428B979EC7.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Panteón marino - Episodio 2",
+      "trophyGroupDetail": "Trofeos de Panteón marino - Episodio 2",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/1520993D1B7B15DA3C1141FAF0C1739D2381E663.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Columbia de platino",
+      "trophyDetail": "Consigue todos los trofeos",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/D8737F4139D903B906E958B7BCF3F334ECE4544C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Escrito en las nubes",
+      "trophyDetail": "Completa el Faro en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/49F7784F38E16EEA16529AAEADD09271AC0C8C79.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bienvenido a Monument Island",
+      "trophyDetail": "Llega a Monument Island.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/6BAA6DEC172AAFD7BE7745B8785C5664319A3B06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tácticas de choque",
+      "trophyDetail": "Recupera el Jinete Eléctrico.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/67AD32B86BB52DA9A78A9D9B5FBC34FEC6604274.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Billete de primera clase",
+      "trophyDetail": "Embarca en el Primera Dama en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/2C362DE1477B928C0C9B165B2FF65805F1C4C51D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Revuelta armada",
+      "trophyDetail": "Ayuda al armero.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/D1ECDDFD740A6DA9557C33335058F1C182B76546.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Héroe de la clase obrera",
+      "trophyDetail": "Completa la Fábrica Finkton en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/170793F6E7E2B1A17F02127E64E3E660FC9620C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sangre en las calles",
+      "trophyDetail": "Completa Emporia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/203118CB886A2302984268AF5066226C6E350905.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Educación superior",
+      "trophyDetail": "Completa la Casa de Comstock.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/C37051F942F22427C019B122A656AC44FB158E56.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "El ave o la jaula",
+      "trophyDetail": "Completa el Mano del Profeta.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/42BE5C338A04DB844BA8AE45A47F3A23452D1E5A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soldado de hojalata",
+      "trophyDetail": "Completa la campaña principal en dificultad fácil o superior.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/40F6629DC0B3B8359CB35EFF4F764A03C42C874F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ver mundo",
+      "trophyDetail": "Completa la campaña principal en dificultad media o superior.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/3F990C5F7A96BEE6DBF2E417403303E944774FD8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pinkerton puro y duro",
+      "trophyDetail": "Completa la campaña principal en dificultad difícil o superior.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/5AE0907C39AF5F85790DCE99595E087DBB0737FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Como en los viejos tiempos",
+      "trophyDetail": "Completa la campaña principal en el modo 1999.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/9EC92152BAB2761F99408F185E00753923D78751.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un viejo amigo...",
+      "trophyDetail": "Desbloquea el modo 1999.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/16DBC49F030DDB2BA3D2158FE9AB0626A991A453.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Accidente industrial",
+      "trophyDetail": "Ejecuta a 20 enemigos con el gancho aéreo en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/5FAA91BC6DDE21AA9E7A6E53CBDBFC6E8B9AE825.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Asesino aéreo",
+      "trophyDetail": "Mata a 20 enemigos con el golpe de aerocarril en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/5BE08ECA5EDE5C7131879E66BEFFF09F403D341B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Una pistola de verdad",
+      "trophyDetail": "Mata a 25 enemigos con la pistola (Andanadora) en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/D96BB8637D6A67C721CA29FD099EBC5FB6D4DA9C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pasionalmente recíproco",
+      "trophyDetail": "Mata a 150 enemigos con la ametralladora (Triple R) de los Fundadores o el fusil de repetición Vox en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/B4AE95E7DAD79BA2C8F75B117DAB408C4A95259D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Barriendo las calles",
+      "trophyDetail": "Mata a 50 enemigos con la escopeta (Escoba China) de los Fundadores o el calentador de los Vox en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/C7C778E94F8AE557D761188E16060D4424E38A52.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Caza mayor",
+      "trophyDetail": "Mata a 100 enemigos con la carabina (Cazador) de los Fundadores o el cañón de ráfaga de los Vox en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/66146E5014C3937BC6B5BB2405111E814EA07AB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bomba de relojería",
+      "trophyDetail": "Mata a 25 enemigos con el cañon de mano (Azotadora) en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/245865C9B0225856687B049DF9428ED1EC1DEEF2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cielos despejados",
+      "trophyDetail": "Mata a 30 enemigos con el fusil de precisión (Ojo de águila) en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/DB45FFE955D8E2F7704118D4CF6384EA87243EC9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ven cerdito",
+      "trophyDetail": "Mata a 30 enemigos con el Cañón de andanada (Cerdo) de los fundadores o la Lluvia de fuego de los Vox en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/E40B9C41C84C11209DC216F678ECE4D8988F7F04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maestro pirotécnico",
+      "trophyDetail": "Mata a 20 enemigos con el lanzacohetes (Revientagraneros) en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/3803166C85145AA61C6DFB2B26EB3657FA36D6CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sazonado al gusto",
+      "trophyDetail": "Mata a 30 enemigos con el cañón de manivela (Molinillo de pimienta) en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/8BE1D7E1532F6205800B55B21DAF01C814B10AF8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "En la variedad está el gusto",
+      "trophyDetail": "Usa los 8 vigorizadores contra los enemigos en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/4491CD12B855058E23091ED32482C7C46EF151A7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oposición vigorosa",
+      "trophyDetail": "Mata a 75 enemigos con un vigorizador o mientras estén bajo los efectos de uno en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/193ABA0E01108EB0A0DAB94EAA59940356E217FE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Más por menos",
+      "trophyDetail": "Usa 5 veces una trampa de vigorizador contra 3 enemigos en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/34FE4BC0BD573B2566816285A90D2811CA33E923.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Choque combinado",
+      "trophyDetail": "Realiza todas las 8 combinaciones de vigorizadores posibles en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/8360E40AA001CB2DA631A7A765A67773E3C4EEB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "El poder de la mente",
+      "trophyDetail": "Mata a 20 enemigos usando máquinas poseídas en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/F4AB3351AC4BBC29D034C3A5DD40398BADE644C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Desgarradora historia",
+      "trophyDetail": "Abre 30 desgarros en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/88034FC0F33B83812386CBC432B805AA50506494.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Extraña pareja",
+      "trophyDetail": "Mata a 20 enemigos usando aliados traídos a través de desgarros en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/69AB94AC065AFF5AB0A51D7C8316810CD1B6C6F1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sobre la marcha",
+      "trophyDetail": "Mata a 30 enemigos mientras vas en aerocarril en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/02B7BF595AB3E0E848530511B151DFA21607C93A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Acróbata con puntería",
+      "trophyDetail": "Mata a 5 enemigos con disparos a la cabeza mientras vas en aerocarril en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/8591D371D88B47CA5B18BE4762A93F71AD578CE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Carga peligrosa",
+      "trophyDetail": "Mata a 10 enemigos usando los peligros del entorno en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/8FB840A9609E9D4979DD5F4D86338A98B851B111.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "No tenía billete",
+      "trophyDetail": "Mata a 20 enemigos arrojándolos de Columbia en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/A95332702476972A9B3F28A7EDA1E87A1F9DE0D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tiro al plato",
+      "trophyDetail": "Mata a 5 enemigos mientras caen en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/604EA73432AB2095730A9BC7C3F1EFF47C7A9CE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Menuda resaca",
+      "trophyDetail": "Mata a 5 enemigos mientras estás borracho en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/E3CF7638DFCBA3EC282ED8D724BFC81B9DD5CE40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "David y Goliat",
+      "trophyDetail": "Derrota a 20 pesos pesados en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/387C4E48AED55D875B82339858BD47D1BE8E0A05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rompecorazones",
+      "trophyDetail": "Mata a un Handyman disparándole solo en el corazón en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/45BA32E0C949CB9A7D816EE81B2EB0905E8669A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vestido para triunfar",
+      "trophyDetail": "Pon una pieza de equipo en las cuatro ranuras en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/DE052233B574D320A83233B033E79027E611F605.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hasta las cejas",
+      "trophyDetail": "Mejora por completo un arma y un vigorizador en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/429BE7EFAB049A51D3917E30DB30EAA5FEE8FC40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sube el listón",
+      "trophyDetail": "Mejora tu salud, tu escudo o tus sales por completo en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/F14F7280EABB32386C24E6CBFDF0B29A769DE4C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infusión de grandeza",
+      "trophyDetail": "Encuentra todas las infusiones durante una partida en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/89771DD5F10C9172F6E817FFAB656FC9065074B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Haciendo turismo",
+      "trophyDetail": "Mira a través de todos los telescopios y kinetoscópios en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/BCFEBE5A65CF5AFAFA97C1CD6C9BB88686C8984E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "¿Donde has aprendido eso?",
+      "trophyDetail": "Haz que Elizabeth abra 30 cerraduras en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/5C5D94CF1566F361CE18B41A9CD3EEE8195CB0F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cotilla",
+      "trophyDetail": "Encuentra todos los voxáfonos en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/B62524B16ED398EC98E108C438308198E2FF8679.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Comprador compulsivo",
+      "trophyDetail": "Gasta 10 000 $ en las máquinas expendedoras de Columbia en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/EB4F748039D0EAEA8E21489CD1538076C6BA42D8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Monedas entre los cojines",
+      "trophyDetail": "Saquea 200 contenedores en la campaña principal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/104BA9BD3BFE2C233C6CDD2BD33689D56B9BEB5A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Búsqueda del tesoro",
+      "trophyDetail": "Completa la campaña principal en el modo 1999 sin gastar dinero en ninguna Dollar Bill.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/458C11A2587703C1E7FFFC8D4357EF5AEEBF841F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cielos amigables",
+      "trophyDetail": "Derrota a todas las oleadas en el D.O.P. Fervor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/C07DF38BA51AF79E07DBE80451E3E92978A6C923.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¿Duke o Dimwit?",
+      "trophyDetail": "Derrota a todas las oleadas en el teatro de Duke y Dimwit.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/7CD0AA6142AF24CF6ACDE5D5225D1C2A4354D9B8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rufián de las azoteas",
+      "trophyDetail": "Derrota a todas las oleadas en la Cúpula del Cuervo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/48B3A4C7336505DAF0C5EB78650E798E99670B96.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mano del Profeta",
+      "trophyDetail": "Derrota a todas las oleadas en las Galerías Emporia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/393F2087279F972479AC1E8721B52C09E7BBCCF2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Museólogo",
+      "trophyDetail": "Desbloquea todos los objetos de la Galería en Enfrentamiento en las nubes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/12A53BF15F1934BEBBD0994E99469F4C383D1DB8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sargento de policía",
+      "trophyDetail": "Mata una vez con cada vigorizador y arma (excepto con Caballo salvaje) en Enfrentamiento en las nubes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/7CFC7149C8B8C90F2383275E78A50FDD3E7DA275.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cuelgatontos",
+      "trophyDetail": "Lanzaste a un enemigo, en la ciudad, con Tirón de fondo y lo tiraste de la ciudad en EelN.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/3414EBCF0234A33F3837B299CA0CD83E412FD528.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "El viejo “uno-dos”",
+      "trophyDetail": "Usa las ocho combinaciones distintas de vigorizadores para dar el golpe final a un enemigo en Enfrentamiento en las nubes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/6AB05B885FAB44FF62C26EDF407B96ABB28E936A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sistema de defensa de misiles",
+      "trophyDetail": "Mata a un enemigo con daño explosivo disparando a un cohete en medio del aire en Enfrentamiento en las nubes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/49901A6B79A41DDACFD60B5506CA0C74234145F7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Campeón de Blue Ribbon",
+      "trophyDetail": "Completa todos los desafíos Blue Ribbon en Enfrentamiento en las nubes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/9AC3A1E7CF156EC27F1F4B6F3C582AE0E6CB28D0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "En las profundidades de salitre",
+      "trophyDetail": "Diste un paseo en batisfera en Panteón marino - Episodio 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/C83EF789343B924444D19766EE2C642297F795C9.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Panteón marino",
+      "trophyDetail": "Terminaste Panteón marino - Episodio 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/231A4DF8087FA33CCA25C82189809AB1126F4473.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Entusiasta del sonido",
+      "trophyDetail": "Reuniste todos los diarios grabados en Panteón marino - Episodio 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/BB9625C57BCEE926EB25A0ED2C466A3028DD3AE4.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Equipado por completo",
+      "trophyDetail": "Conseguiste dos mejoras para Anciano invernal o Microondas en Panteón marino - Episodio 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/65BE020698C6E40B4E70B4D7889B8DF501290932.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tecnófobo confirmado",
+      "trophyDetail": "Destruiste 10 torretas en Panteón marino - Episodio 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/A89BA820843F4A58B92944AC61A976E21902E1FB.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cocinar y servir",
+      "trophyDetail": "Hiciste explotar a 5 enemigos con el microondas en Panteón marino - Episodio 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/7CE030A31294FFFAD7475686717522DBD72384C9.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Reacción en cadena",
+      "trophyDetail": "Dañaste a 15 enemigos con un enemigo explosivo mediante el microondas en Panteón marino - Episodio 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/86FF3008EC3BAD90B13468F7F4ED6C40D04FE877.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Romper el hielo",
+      "trophyDetail": "Hiciste pedazos a 5 enemigos congelados con Anciano invernal en Panteón marino - Episodio 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/5D3B21D98D743E40704AC2B95F3E9149B29DAE50.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Efecto bola de nieve",
+      "trophyDetail": "Congelaste a 2 enemigos con la misma trampa de Anciano invernal en Panteón marino - Episodio 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/2C139CA89A214F7F911510AB609B9616933E5F98.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dando una vuelta",
+      "trophyDetail": "Montaste en el tranvía en Panteón marino - Episodio 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/8FD3EC2964357219EE700CED2028761D2BB4FBFA.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Como nuevo",
+      "trophyDetail": "Has reparado la máquina del laboratorio de Suchong en Panteón marino - Episodio 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/7FD6540A0C9CF31334737C503AD9DF4E8E3E5092.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cabello marino",
+      "trophyDetail": "Entregaste la muestra de cabello en Panteón marino - Episodio 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/F0C78C45962EF3554C1C76456A35D5B8E32B7162.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Deuda saldada",
+      "trophyDetail": "Has terminado Panteón marino - Episodio 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/39CF19A734A02179CBF7D5F46482A8D71DE7B301.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "La historia completa",
+      "trophyDetail": "Has reunido todos los diarios grabados y voxáfonos en Panteón marino – Episodio 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/8D422FF9C2A8E095D88CE6A64DAEFF256C3F898F.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Deleite del ladronzuelo",
+      "trophyDetail": "Has terminado Panteón marino - Episodio 2 en el modo 1998.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/C930DCDFF8CB439325250F8DC6C1549143B7ECB0.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Haciendo ruido",
+      "trophyDetail": "Has conseguido cinco chivatos forzando cerraduras.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/AC0570502AABF355587414DF8362816E9008CDED.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dos por uno",
+      "trophyDetail": "Has derribado a dos o más enemigos usando el mismo virote de gas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/CB89113BA94153869737F053698DAC079D96F3FE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Masoquista",
+      "trophyDetail": "Has usado Férreo para recoger 20 balas o más en Panteón marino - Episodio 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/FC1418C67F88A5DA4AC14B806F6A2B476577BD04.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Caída mortal",
+      "trophyDetail": "Has derribado en tres ocasiones a un enemigo tras caer en silencio de un gancho de carga.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/110FA2D3F09DA1E0EED7685FDA4B4B65F71DAFFE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ataque sorpresa",
+      "trophyDetail": "Has usado Mirón para hacerte invisible y derribar a 15 enemigos en un ataque cuerpo a cuerpo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/F759CD386BFC915127D83BD84EBE456DBF490CFE.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 81
+}

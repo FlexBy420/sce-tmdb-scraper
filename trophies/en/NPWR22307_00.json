@@ -1,0 +1,87 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR22307_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Fight",
+  "trophyTitleDetail": "Fight Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22307_00_0031308908FB6EB74DE0361F32E923E4F160830C78/6BEA58D8125DD1836F16B16C254988C2733D734C.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 1,
+    "silver": 3,
+    "gold": 2,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Fight",
+      "trophyGroupDetail": "Fight Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22307_00_0031308908FB6EB74DE0361F32E923E4F160830C78/6BEA58D8125DD1836F16B16C254988C2733D734C.PNG",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 3,
+        "gold": 2,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Fighter",
+      "trophyDetail": "Win a fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22307_00_0031308908FB6EB74DE0361F32E923E4F160830C78/B85D0793242D9E320F8A6A76BA3618E8B3585EBF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Loser",
+      "trophyDetail": "Lose a fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22307_00_0031308908FB6EB74DE0361F32E923E4F160830C78/09723FD1738B9369FF9CD3172F7C935D09365B2F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Crew",
+      "trophyDetail": "Play with all characters",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22307_00_0031308908FB6EB74DE0361F32E923E4F160830C78/6BEDF6D1584E18FC2963AA9319827E6806E8484D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ultimate Crew",
+      "trophyDetail": "Win with all characters",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22307_00_0031308908FB6EB74DE0361F32E923E4F160830C78/162CD4F7B76A452503C776AA37C10ADE229BAC37.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Traveller",
+      "trophyDetail": "Play in all scenarios",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22307_00_0031308908FB6EB74DE0361F32E923E4F160830C78/E458580F944864270BE83B51C86748DF00BE219E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Friends",
+      "trophyDetail": "Play a mutiplayer fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22307_00_0031308908FB6EB74DE0361F32E923E4F160830C78/833B80925848CE31C709E3ECC7A106D0BDC3E66C.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 6
+}

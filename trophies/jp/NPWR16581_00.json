@@ -1,0 +1,987 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR16581_00",
+  "trophySetVersion": "01.05",
+  "trophyTitleName": "Graveyard Keeper",
+  "trophyTitleDetail": "史上もっとも不正確な中世墓場管理シミュレーター。自分の墓場を築いて＆管理して、ダンジョンを探索して、色んなものを作ったり建築したりしよう。農家になることも、錬金術師になることも OK！クエストを達成して、魔女を火刑に処しちゃったりしましょう！",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/AC6691A7ADFBF68A906F2132CE69134FC0C58570.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 97,
+    "silver": 3,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Graveyard Keeper",
+      "trophyGroupDetail": "史上もっとも不正確な中世墓場管理シミュレーター。自分の墓場を築いて＆管理して、ダンジョンを探索して、色んなものを作ったり建築したりしよう。農家になることも、錬金術師になることも OK！クエストを達成して、魔女を火刑に処しちゃったりしましょう！",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/AC6691A7ADFBF68A906F2132CE69134FC0C58570.PNG",
+      "definedTrophies": {
+        "bronze": 58,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Stranger Sins",
+      "trophyGroupDetail": "Stranger Sins",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/28486F1F1C644C06EBB8089D7A6402471AFF0ED5.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Game of Crone",
+      "trophyGroupDetail": "Game of Crone",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D809BFEC1B54BC1103277012A4889E804A20E430.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Better Save Soul",
+      "trophyGroupDetail": "Better Save Soul",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/C39262B9E052A6B3DC82B1BC5754226B97F2AC66.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "全トロフィーを獲得する。",
+      "trophyDetail": "全トロフィーを獲得する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D8C9A071FF0875EFB3822FDA45BDF62E5B345706.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "初級墓堀り人",
+      "trophyDetail": "初めて死体を埋めた。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D7BA6FC647EB2E585C33F4D57FAFDA21E1633355.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "上級墓堀り人",
+      "trophyDetail": "死体を 10 体埋めた。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/2042F2CD7FA4C3673A47A07904DD88A1870E8D5E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ショベルマスター",
+      "trophyDetail": "死体を 50 体埋めた。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/1C257E262FC25C825A4D81B913A597D50B44A877.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初のひと切れ",
+      "trophyDetail": "最初の肉のひと切れを手に入れた。臭いは独特だが、見る分には普通に食用肉に見える…",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/01105AEC693EF29613E35D43B2E8B25BE214473A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "刺身マスター",
+      "trophyDetail": "肉の切り身を 30 枚切った。ここまで来ると完ぺきな一枚の切り方もバッチリ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D43DC29AE6552255971E15E6B6F888B77511D759.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "彼の者の家",
+      "trophyDetail": "教会のアップグレードを実施した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/9F017DD2D3B8D084EEB1A5E411489E3E22CA83DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "彼の者の邸宅",
+      "trophyDetail": "教会の二度目のアップグレードを実施した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/5EF84C84D7077615F4017357E9C9953DADF33B6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "魚、一日一匹！",
+      "trophyDetail": "6 種類の魚を捕まえた。魚を一日一匹！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/ED1AE7CA5E3404267CDF36370CC7F00F1B431ECE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "魚収集家",
+      "trophyDetail": "10 種類の魚を捕まえた。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/60A64BDBD984EF50A65351B274F7663B44B9D01B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "魚類学者",
+      "trophyDetail": "15 種類の魚を捕まえた！あなたは魚のありとあらゆる事を知っている。魚の方がヒクくらいに。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/B75632AF624A5283001A371D6FF2C0FDC6755B78.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "圧倒的漁師",
+      "trophyDetail": "魚 200 匹を捕まえた。あなたの名前は悪い稚魚をしつける時に使われ、恐れられている。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/60B17C6B44C3D2AC7DAB0DA71C5D60A5C289D9A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "金魚",
+      "trophyDetail": "金魚を手に入れた。願い事はいかが？",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/7A40DD4BFB38D5EE8709E3403A2CD12CCC97E31E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "キッチンボーイ",
+      "trophyDetail": "10 種類の料理、または飲み物を作った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/9EE99E9F8051411EA53697C9D7BD4834DE39EAF1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "コックさん",
+      "trophyDetail": "20 種類の料理、または飲み物を作った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/2167F29A701B92DC0F1EBFA0688708C28EE6E0BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "シェフ",
+      "trophyDetail": "30 種類の料理、または飲み物を作った。これであなたも一人前のシェフ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/65F8C44E9F3FF4C13ACBF96DC6384EA1B62DC69D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "夢のディナー",
+      "trophyDetail": "金星レベルのディナーを作った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/F42BB07353C3DBB32128C5CF676600D4EEF87452.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "故郷の味",
+      "trophyDetail": "フィッシュスティックを食べた。故郷のことを思い出した…",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/DA57A7879EDA2F919D5B2DEDD67AB198F23B8CBD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "弟子",
+      "trophyDetail": "錬金術レシピを 5 種類発見した。研究室の使い方に慣れてきた。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/1309D6AD7359A3081C32F46D4B0865A31BBBA549.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "錬金術師",
+      "trophyDetail": "錬金術レシピを 10 種類発見した。なお、賢者の石は嘘っぱちなので注意。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/01499F6F6B1B85DE69694EF2C89859DC8951FAEB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "熟練錬金術師",
+      "trophyDetail": "錬金術レシピを 20 種類発見した。そろそろ白色のバンを購入して砂漠に出かけよう。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/9460A0C71EF9CB0B33D4FA600C2CA4793FF282FE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ヘルスケア",
+      "trophyDetail": "体力ポーション 50 本。どれも真っ赤！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/575632762EEF9C1F2EC22DD48C3BD0998E53C7ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "マックプレイヤー",
+      "trophyDetail": "そこには 1 つしかあり得ない。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/11C6E20045447751BEFB46E3A4FD08F0E7692C6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "地表から程なくして",
+      "trophyDetail": "ダンジョン第 5 階層を踏破！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/459BA75F219D1DCF794CA01A40A940C89FA81DBF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "こわーいダンジョンの奥深く",
+      "trophyDetail": "ダンジョン第 10 階層を踏破！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/83A51851E5334E0462B8D2A5F553D02E7CE27D16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "地中最深部",
+      "trophyDetail": "ダンジョン第 15 階層を踏破！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/5DA5E1AA9E454164802DA5226901801E988715E7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "黄金のカボチャ",
+      "trophyDetail": "金星レベルのカボチャを収穫した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/AC33D49CFCCF85C87AB8AB10F787559402402A2D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ワインメーカー",
+      "trophyDetail": "金星レベルのワインを造った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/8F8D731EB4D5A307AA379C643B71BA1EB8366903.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "老占星術師",
+      "trophyDetail": "占星術師に出会った。彼は賢い人間だが、人生含める全てに疲れ果てている。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/3201C787D86AA7ED2CE530A64244F3BED82EA7B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "魅力そのもの",
+      "trophyDetail": "ミス・チャームに出会った。この女性には理解できない何かがある。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/151D9AEE87B1E8E5B110D7084C07DD9691EEEE32.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "裕福なる商人",
+      "trophyDetail": "商人に出会った。彼はいつでも取引する気満々のようだ。但し、夕食時は除く。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/3D429A6A4357E958011473188C239B360A4F65A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "神聖なる審問会",
+      "trophyDetail": "審問官に出会った。信念一辺倒な男だ。彼を敵には回したくない。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/AB0BDCA9BCF297F1D38D76698ED45F46ABC84488.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "心優しき神父",
+      "trophyDetail": "エピスコプに出会った。彼のモットーは「祈って、説教して、いつでも宝くじに当たったかのように見えること」。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D76D9D6D9C00CB0615834123F6B90A6F00AC71AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "狡猾な蛇",
+      "trophyDetail": "スネークに出会った。危険そうな人物だ。「ヘビ」呼ばわりされているのも納得がいく。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/656B5A1A923915C676F94080BEAFBAD4ECD4846C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ニワトリを召喚",
+      "trophyDetail": "スネークがニワトリを召喚した。まあ…失敗するよりはマシだ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/19C4CC43CAB6597A7FD89418696F7AA1257A4F8D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "サイドクエスト",
+      "trophyDetail": "吸血鬼ハンターを殺害した。人生にサイドクエストなど存在しない。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/EEA661F0B28BBB7B85AF4472B941C518CD510726.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "シンプルかつスタイリッシュ",
+      "trophyDetail": "暗黒の神殿を装飾した。初めて借りたアパートよりはよさげだ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/BED6EBDDE3A1BE1DC3E6F49840348908576394E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ホットドッグにあらず",
+      "trophyDetail": "火刑の儀式でハンバーガーを売った。ホットドッグを作らなかったのは失敗かもしれない。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/7D23D5F46FE7DFCEAB835387A6FE18682E9FC1D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "マッチ 3",
+      "trophyDetail": "闇の臓器を 3 個集めた。これで 3 つ連続！審問会に特賞が贈られます！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/39680D208D626358C253646C5C15117F678881D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "夜番",
+      "trophyDetail": "衛兵らによる待ち伏せを排除した。これであなたは「魔女の丘」守りに！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/BA068EEB407775BF4BDE0D9E1F32A79DC87DFD9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "香水",
+      "trophyDetail": "ミス・チャームに香水を渡した。香り良く、また動物実験も行われていない。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/539FD1D61922194BDEAA0AB450CE4BBF34BCE1C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ピッタリな歌",
+      "trophyDetail": "ヴァグナーからピッタリの歌を手に入れた。これで故郷に帰ることができれば、一攫千金のチャンスかもしれない。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/11122AFFACEF972D8A4DAE03DE0B869A44A0F3AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ハカバの野菜",
+      "trophyDetail": "商人と会社を起業した。成功する企業にぴったりの名前だ！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/73F59EC7B67325119E44E0D775C5561B30FD6B40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "どの家庭にも",
+      "trophyDetail": "あなたの会社が評判 5 点を達成した。良質な野菜が欲しいなら、ハカバまで！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/F92AD248296936DC4BF231F50BACA4262757D8DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ベストセラー",
+      "trophyDetail": "金星レベルの本を占星術師に渡した。これならあと 6 冊くらい書いてもいいかもしれない…",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/F59573B6AA19733158DFBB9E08438B25D5395B4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ここでさえ",
+      "trophyDetail": "畑を修復した。ここでは沢山の時間を過ごすことになるだろう…",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/968E91E182DA8D26834B90B44B9B47AF5BA3C1BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "石の柵",
+      "trophyDetail": "墓の周りに石の柵を建てた。これで墓場の防備もバッチリ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/96C84A80FBE3AC65E44B848B4301D4F3A74B7368.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "大理石",
+      "trophyDetail": "大理石の採石場の準備よし。大理石は普通の石材からグレードアップ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/C42BC5E70736A22D3EA3F63969D19231284069C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ピッタリの贈り物",
+      "trophyDetail": "占星術師に頭蓋骨を渡した。ドクロは素敵なプレゼントになるらしい！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/E5FA0D90B91DCDE38C04DEA41642C2F7BDD82D4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "製粉機",
+      "trophyDetail": "製粉機を修理した。もう手作業で挽く必要はなくなった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/16EF9B6D14E670E1BA7609AE69B7173A62B7998A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "変な絵の描かれた本",
+      "trophyDetail": "スネークに「ネクロノミコン」を渡した。誰も料理本代わりにしないといいけど！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/B973549FAC9C5D431F41271C2CF8D49BDAFC084F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "橋渡し",
+      "trophyDetail": "橋を修復した。他に何がどうなっても、あなたの偉大なる橋建設者としての名声は不動のものだ！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/EEA9FF394784E8988E107546BCC5D94382253556.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "グリーンポイントのみ",
+      "trophyDetail": "1000 グリーンポイントを集めた。真夜中に無くなることはない。なのでご心配は不要。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/CD644708005D89E04C67E31554B2DEF4BAD24E6B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ブルーポイントのみ",
+      "trophyDetail": "1000 ブルーポイントを集めた。真夜中に無くなることはない。なのでご心配は不要。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/218D2980E326816FFCE227F34A2745A07B499FD2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "レッドポイントのみ",
+      "trophyDetail": "1000 レッドポイントを集めた。真夜中に無くなることはない。なのでご心配は不要。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/2A282947DFF64B65E2A0B56C122416A26BB9646C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "グリーンポイント＋！",
+      "trophyDetail": "3000 グリーンポイントを集めた。割とスゴイ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D94F7C2BC82887E0B599641FF80516A1DD67D11B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ブルーポイント＋！",
+      "trophyDetail": "3000 ブルーポイントを集めた。割とスゴイ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/723D2D4AA69F2EECF6306FB41CAE885D17AADD48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "レッドポイント＋！",
+      "trophyDetail": "3000 レッドポイントを集めた。割とスゴイ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/FBF3BF1B067C497BE8D7B9B5481A71833EAA8D1A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "家路に",
+      "trophyDetail": "次元の門を開いた。帰る準備はいいかい？",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/925EDFE93169FAD725FB280CABAB7C8DFABBA6BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "疎遠な父",
+      "trophyDetail": "占星術師の家族との再会を手伝った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/C878F8D2F87677A2B20D57C508CB67B9CDFEFA7C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "二人の兄弟",
+      "trophyDetail": "商人が兄を許すのを手伝った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/0DB4C8568080207DB3DF9B4F745F2A9DD6F3F0BD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "父と子",
+      "trophyDetail": "スネークの闇の儀式を手伝った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/FB7C7FD0B61B1706B99C43789956732AABDF82A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "信用してたのに…",
+      "trophyDetail": "ジェリーを裏切った。あまり褒められたことでは無いかもしれない。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/BC60B683253E59658FB4522284EBDF971FA0BD73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "地主",
+      "trophyDetail": "村の中で初めて土地を購入した。病に苦しむ無力な老人から無理やりに。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/33ACAF81F669CA2C82581F2D4ECC5D14559C9562.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "壮大なるしゃれこうべ",
+      "trophyDetail": "酒場の質が 80 に達した！ ヤベー、スゲー！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/B33D4EDE20AE4B46235A48A6FE76F6C06246DA17.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "今月の最優秀従業員",
+      "trophyDetail": "ヨリックがバーテンダーになり、それもタダでやってくれる。え、それドレイじゃないのって？ いや、あのヒト木製ですから！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/FF2BCB593271C8E678472564F748D38C4B7C1068.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最高のパーティー",
+      "trophyDetail": "素晴らしい酒宴を開催した。そろそろ酔っ払い向けのブタ箱を用意した方がいいかも。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/B9685DCE65A9782B13DCB69B344B5D8EE15F1CA4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最高のマイク",
+      "trophyDetail": "素晴らしいコメディーショーを開催した。観客がこちらの指示なしに笑うなんて、信じられない！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/9ECE395DE601846D40EAE9FC32F01C52F3EC908C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最高のコンサート",
+      "trophyDetail": "素晴らしいコンサートを開催した。ミス・チャームは観客の男性たち全員から求婚されたようだ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/2541F41D75987F1404A6CCE24CAABBCC118023FF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最高のレース",
+      "trophyDetail": "素晴らしいねずみレースを実施した。客人 2 名が全財産をスッて、自害しようとしたほどだ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/4CFB7EB74C5B6DDDF00DC64B97D1935EB58D7091.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "それでもショーはつづく",
+      "trophyDetail": "イベントを 15 回開催した。アナタは天性のイベント運営者らしい！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/DCC4C80CD86C04CF3789567EB016D73AE52A6B7A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "あいつを見た",
+      "trophyDetail": "教主が召喚されるのを目撃した。心に感じるこの優雅さは一体？",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/7CD58D0F85EEA46BD130B266F38C4E84485D91FF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "隔たれた国",
+      "trophyDetail": "コロシアムでの一件を目撃した。失業保障は大切だ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/99CC0C86243DF79F0ACFC4190A723F8A2725AD85.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "王様万歳",
+      "trophyDetail": "橋の破壊を見届けた。橋を壊す前に十分考えるように！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D935D1DD0D2AC735FD84A7281DBEADEE71A4B14C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "署名前にちゃんと読むべし",
+      "trophyDetail": "契約書の署名を見届けた。「真の罪人」とは果たして？",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/43362C01D505748D61E687576A37872F045EF201.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "キング・ジェリー",
+      "trophyDetail": "風呂でのシーンを見た。この展開は予想できなかったんじゃない？",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/61DC5E649CBBE46D6D7C060BBA94A5471139DED2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "敵の顔",
+      "trophyDetail": "ヴァンパイアの正体を暴いた。ヴァン・ヘルシングごっこの時間だ！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/71828E628E8D3BC8B3040EF13276257724954854.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "血の供給者",
+      "trophyDetail": "ヴァンパイアに死体の血を持っていった。おいしくはないが、他に選択肢はない！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/DB2C1E369BFDD753050580B6B28DCD2AAD4B9F0A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "謎の女",
+      "trophyDetail": "過去に起こった出来事を見た。何もはっきりしないが、とても興味を惹かれる...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/DB3DD690E4BF2DFCBD102C930EA1DC6B34A684CE.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "排除！",
+      "trophyDetail": "待ち伏せ攻撃してきた敵を一掃した。ターミネーターもランボーも褒めてくれるだろう。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/FDF255965243157EAF9C75BB3E19465AFDAE7E80.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ぎこちない尋問",
+      "trophyDetail": "ヴァンパイアのカールを尋問したら、カールはとても啓発された。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/8331032727D5F369A25062F052DD55E28FA5D8B0.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "世界の狭間",
+      "trophyDetail": "他人の記憶を修復した。これで履歴書に「神経外科医」も書き込める。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/229974B05441026FE2D02CD97BEF4515C550373A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "まだましな選択",
+      "trophyDetail": "ベアトリス女卿は断れない取引をしてきた。いいや、断ろうと思えば断れるか。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/89A4C0907ABD3DAED04FED4267CCEE949F2B9BF1.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "難民は安全だ",
+      "trophyDetail": "難民を救った。審問会のブラックリストに載ったこと間違いなし！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/8CA91DA187BD9CB364202C959AE1C6DB2566D151.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "革命、バンザイ",
+      "trophyDetail": "革命が終わった。どうして始めたのか振り返る時間だ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/EEBC80337F84985AADC6239DD13EDAE9DB6BD0FC.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "野営地",
+      "trophyDetail": "自分の野営地を作った！そして、何百人という敵（つまり、審問官）も作った！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/4E8B00B3204EE7E11FC96028804324B05208DF58.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "成熟した野営地",
+      "trophyDetail": "野営地を改善した。つまり、難民が空腹や喉の渇きから死ぬ確率を下げた。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/5F8F8DEF0C4E74225C62BFB16F920AA068F22660.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "強化した野営地",
+      "trophyDetail": "野営地に防衛のための強化を施した。見た目は怪しげだが、居住者はとても気に入っているようだ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/5741922873F7596A2C25B8CE4E6D38C9D7E316B2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "楽園",
+      "trophyDetail": "野営地は非の打ち所がない。野営地管理ガイドを執筆するといいかもしれない！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/5942417B19E1C78C8B504BC435F8A716E39CA3FF.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 89,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "奇妙なお届け物",
+      "trophyDetail": "ロバ宅急便の最初のお客さんとして選ばれた。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/DBF5458B54EDB683084A7E4A7C14A82C7CBFD073.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 90,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ずっと待っていた感謝の気持ち",
+      "trophyDetail": "司祭を... 誇らしい気持ちでいっぱいにしてあげよう。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/6F1563F2B3709A1216A07012A41A4B209FF2F352.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 91,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "治癒の第一セッション",
+      "trophyDetail": "ユーリックの治癒を始めよう。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/C1F7E2DB97E758E1D3CC6BE61738A91540787312.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 92,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "制御された点火",
+      "trophyDetail": "炎にはつい見入ってしまう。怒った審問官が関与しているならなおさらだ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/96D0976142737116811FCF3FED6BD5D6CD0D4FD0.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 93,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "幸運をもたらす贈り物",
+      "trophyDetail": "商人と高級料理の秘密を共有しよう。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/100A9D0567D37ACA467B57F305AABBD83CE2BAB8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 94,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "治癒の第二セッション",
+      "trophyDetail": "ユーリックの治癒を続けよう。彼も多分気分がよくなっていると言っている。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/E99C52CE4728A3E38C003E02BDDFDAC3EB36B010.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 95,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "終わりなき悲しみ",
+      "trophyDetail": "練習すれば完璧にたどり着ける！それが占星術師の悲しみでも...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/D31677DE2CBDB1849A40D205AF87056528B3605F.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 96,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "情熱の誕生",
+      "trophyDetail": "顔を覆いたくなるくらい熱いシーンをその目で見よう。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/55CFBFA01F2D27412E9E76E07F131ECBB63E59ED.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 97,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "権力者の弱み",
+      "trophyDetail": "誰よりも強く動じない人でも弱みを持っているものだ。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/2ED3F2B9FE7431962A19765C06B7B79BDD76DCA9.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 98,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "治癒の第三セッション",
+      "trophyDetail": "治癒は終わったが、ユーリックは癒されたように見えない。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/7B2DE558C84D6005D59E876ABD1830EB90600495.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 99,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "不満を抱えた村人",
+      "trophyDetail": "村人は不満を抱えているようだ。自分のせいでないことを祈ろう。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/9B0C568B963A643C5FC2197BA148BB506B67A3A8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 100,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "村人を手助けする",
+      "trophyDetail": "これで村人に満足してもらえたはずだ。今のところは...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/CA90BACF7BE2428FF979C55418DAF01392346BD0.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 101,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "始まりの場所に戻る",
+      "trophyDetail": "スマイラーがこの場所に留まる理由がなくなった。彼が新しく始められるように、旅立たせてあげよう。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16581_00_00E70892B02EDF062FE354CAF2A307DAD11B339036/4B9F7D01D85DD3CDE18EEC7632B565269A5AB322.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 102
+}

@@ -1,0 +1,657 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR20246_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Ghostwire: Tokyo",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/a1cac1d2-1919-4764-b600-0045c536b54b.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 58,
+    "silver": 6,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Ghostwire: Tokyo",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/a1cac1d2-1919-4764-b600-0045c536b54b.png",
+      "definedTrophies": {
+        "bronze": 50,
+        "silver": 4,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Spider's Thread Update",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/3c8f988a-3c68-461a-8439-ff4c13a6f963.png",
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Ghostwire to you",
+      "trophyDetail": "すべてのトロフィーを入手する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/9ecd759e-f8d1-4f70-9624-cdf40b090b89.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "緒",
+      "trophyDetail": "1章をクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/b7b5ee7a-b5fd-41eb-ba61-22700079da34.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "累",
+      "trophyDetail": "2章をクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/ff285273-ac64-45d5-bde1-f1c76409f4c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "縁",
+      "trophyDetail": "3章をクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/f4eae4ab-8226-432f-b1a7-01a68585babf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "糾",
+      "trophyDetail": "4章をクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/160ef03b-3589-4f2f-85ec-18fca20a267c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "絶",
+      "trophyDetail": "5章をクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/9e03102c-6052-472f-b8b9-361cd766390e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "絏",
+      "trophyDetail": "6章をクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/dacf7762-1ce9-425a-9eb2-dda4ed5c7eb6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "結",
+      "trophyDetail": "メインミッションをクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/55b06f32-c5b5-439b-8c2d-e7092940ee7e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "救いの手",
+      "trophyDetail": "幽霊のうち25%以上を転送する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/1978c76c-6f55-4f0d-a917-97618f9aca5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "救済者",
+      "trophyDetail": "幽霊のうち50%以上を転送する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/3e22d9b3-a17c-4a37-8c28-104403f8bc18.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "すべてを救う者",
+      "trophyDetail": "幽霊を100%以上転送する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/6ced82f5-3d7a-489f-a419-82c1f43996b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "渋谷のヒーロー",
+      "trophyDetail": "幽霊を100%以上転送した状態でメインミッションをクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/805544d3-bbc3-4e18-91a0-c806ccbe659e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "お悩み解決",
+      "trophyDetail": "サイドミッションを1つ以上クリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/8039aa5d-b2d5-48d5-9e96-77ea41d3afc4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "思い叶えて",
+      "trophyDetail": "サイドミッションをすべてクリアする（アップデートを除く）。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/ba04cb83-a62b-431e-83b5-9abce48d221f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "道を拓く",
+      "trophyDetail": "鳥居を浄化する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/fc9210eb-0d71-4907-b3bb-7229c7d7a4cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "解放者",
+      "trophyDetail": "すべての鳥居を浄化する（アップデートを除く）。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/eaf2529e-f18e-4afe-9352-fdc9d16583ee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "お宝発見",
+      "trophyDetail": "収集品を1つ以上手に入れる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/ccaba33c-75a1-4654-8262-a7507e21c6da.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "収集家",
+      "trophyDetail": "収集品をすべて手に入れる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/20dc45f6-6e0a-49a7-ae8c-867b2e108149.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "心技一体",
+      "trophyDetail": "すべてのスキルを開放する（アップデートを除く）。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/fc26454a-31e0-4685-9ce4-ac5953d9adf4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "以心伝心",
+      "trophyDetail": "シンクロレベルを50以上にする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/e1b57e98-c0eb-420e-86ce-9cc9713612f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "渋谷は庭",
+      "trophyDetail": "すべての名所を発見する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/bee3e50a-fbc1-4be1-abfb-16208b7f2947.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ボイスメモ",
+      "trophyDetail": "ボイスログを1つ以上手に入れる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/b242f85e-c06b-4df8-89da-427bcbcd0568.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "真実の行方",
+      "trophyDetail": "すべてのボイスログを手に入れる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/380dff92-67a8-4f0d-834c-b7081b5ede2f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "妖怪に感謝",
+      "trophyDetail": "勾玉を1つ以上手に入れる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/0b8baf2a-1290-4934-8b85-13ef2f72f5e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "妖力マスター",
+      "trophyDetail": "勾玉を40個以上手に入れる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/b387c75f-af7f-4c42-8453-8a74937936fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "路傍の光",
+      "trophyDetail": "地蔵を拝む。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/95323476-71ae-48a9-9f7e-7ff469d91866.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "巡礼者",
+      "trophyDetail": "すべての地蔵を拝む。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/ec27d3eb-68f2-400c-8ac4-701879026c3f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "しっぽを掴め",
+      "trophyDetail": "すべての狸を探し出す。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/61322c6a-c5dc-44a6-8b75-fa578fb5223a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "美食探訪",
+      "trophyDetail": "すべての種類の飲食物を手に入れる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/5c9e7ab1-1e38-409c-b959-5fb69c5b0ba3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DJ★AKITO",
+      "trophyDetail": "すべての楽曲を手に入れる（アップデートを除く）。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/ae4727b8-aaa7-4461-b704-314aee483096.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "ファッションリーダー",
+      "trophyDetail": "すべてのコスチュームを手に入れる（特典とアップデートを除く）。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/d620d1e3-c05c-481f-962a-6445bd889d0d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "御札マニア",
+      "trophyDetail": "すべての御札を手に入れる（アップデートを除く）。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/8b4b8d08-d2bf-43e2-ad3e-946a19e90003.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "高まる力",
+      "trophyDetail": "すべての数珠を手に入れる（アップデートを除く）。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/15dd4fe1-c2f8-46f2-a3d3-6ec7279124b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "魂の器",
+      "trophyDetail": "形代を最大数手に入れる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/482e163f-d223-4790-a73a-718232753c26.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "愛犬家",
+      "trophyDetail": "動物を撫でる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/29d7d9fa-289d-4810-a213-fcb55ba77cdc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "写真家への道",
+      "trophyDetail": "撮影モードを初めて利用する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/dd5ec090-55e4-46c2-b728-61db35a611ce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STOP! 魂泥棒",
+      "trophyDetail": "1回の座敷牢イベントで3つ以上の箱を守り切る。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/37585dab-5fb3-4c4f-9ddf-0f7a5087ba71.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "気にするな",
+      "trophyDetail": "おみくじで「大凶」を引く。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/1513a8af-4103-4a43-9687-31380b3185e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "一心同体",
+      "trophyDetail": "敵の特殊攻撃による、KK分離状態から復帰する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/d3024bc0-7207-485f-b249-9015c4936743.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "マレビトハンター",
+      "trophyDetail": "すべての種類のマレビトをそれぞれ1体以上倒す（アップデートを除く）。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/02c22b55-89fa-4047-b05d-4a992ff04840.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "急所破壊",
+      "trophyDetail": "コア引き抜きでマレビトを倒す。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/bf87040d-fa3e-4981-bfd3-b41d8f661f41.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ソウルブレイカー",
+      "trophyDetail": "コア引き抜きでマレビトを計50体以上倒す。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/3434ad7d-77d4-4dfb-aed0-e6670ba8d5a8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "一網打尽",
+      "trophyDetail": "5体以上のマレビトを同時コア引き抜きで倒す。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/917a0df5-46da-438a-887a-df6a9e533757.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "灼熱の嵐",
+      "trophyDetail": "赤いエーテル結晶体でマレビトを同時に3体以上倒す。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/037b584f-b63a-4690-8b1b-16d2920d535d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "サイレントキル",
+      "trophyDetail": "即浄でマレビトを200体倒す。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/91d73bc9-a91d-4536-afa7-bedf64a33649.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "弓も悪くない",
+      "trophyDetail": "弓矢でマレビトを計50体倒す。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/e673e518-ebd5-4cf1-bea7-81609d5197c2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "一撃必殺",
+      "trophyDetail": "ヘッドショットでマレビトを計20体倒す。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/66be5f17-085e-42aa-a6ef-fc4e7e704693.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "遠的の達人",
+      "trophyDetail": "40ｍ以上の距離から弓矢でマレビトをヘッドショットで倒す。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/19fe4901-63c8-4b98-b564-dbf3d5aab670.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "そこを動くな",
+      "trophyDetail": "御札「麻痺札」を当てたマレビトを即浄で計10体倒す。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/3265a52b-89f6-4573-96a4-95cd1c2923b2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "隙だらけだ",
+      "trophyDetail": "御札「繁茂陣札」で作った茂みにいる状態でマレビトを即浄で計3体倒す。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/33bf83b6-7344-425e-87b2-1797cd038446.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "むき出しだぜ",
+      "trophyDetail": "御札「露核札」でコアを露出させた状態にして、コア引き抜きでマレビトを計10体倒す。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/365b005d-7e0f-47ba-b502-f80aba199ab6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "心眼",
+      "trophyDetail": "ジャストガードを計30回発動させる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/f36444af-068b-4717-bc7e-902a1687f644.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "心合わせて",
+      "trophyDetail": "絶対共鳴を計10回発動する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/d1f25261-20cc-47b4-b71f-b4816758a722.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "空中散歩",
+      "trophyDetail": "10秒以上グラップル/グライドし続ける。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/154d1453-3a89-4dfb-8db2-cf41169201ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "大盤振る舞い",
+      "trophyDetail": "冥貨を累計1000000縁以上使う。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/e5d17acd-7360-4b07-9176-cef27cc55674.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000000"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "旅のご加護を",
+      "trophyDetail": "お賽銭で累計10000縁投入する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/0a681ddd-5313-4405-8262-7c178804f955.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "月を見上げて",
+      "trophyDetail": "月を一度に30秒以上眺める。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/df7c2968-2fe2-45a6-b338-11ac5b1ba0d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "学校の怪談",
+      "trophyDetail": "STU: 学校にまつわる新たなサイドミッションをすべてクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/9f716d93-ac05-466b-825a-4d218c0e3654.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "心霊写真家",
+      "trophyDetail": "STU: 心霊写真にまつわる新たなサイドミッションをすべてクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/463df971-51f6-40a6-aa8e-75e46fd301cc.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "さらなる解放",
+      "trophyDetail": "STU: 新たな鳥居を浄化する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/87e7e680-9ab3-420c-89ac-da98b4fd69e2.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "霊技の探求者",
+      "trophyDetail": "STU: 新たなスキルをすべて開放する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/9cc8258c-3348-451d-9cab-8bbbecb55df4.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "無類の御札好き",
+      "trophyDetail": "STU: 新たな御札をすべて手に入れる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/05c78f0c-b203-4d4f-9cf2-d08dcc01d4fd.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "マレビトを追う者",
+      "trophyDetail": "STU: 新たなマレビトをそれぞれ1体以上倒す。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/f7045ca8-f73a-45b2-a34b-8128e195957c.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "フィギュアマニア",
+      "trophyDetail": "STU: カプセルトイに50回以上挑戦する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/1cc39d0f-eae8-465c-ab43-db5f681a39e4.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "地獄百景",
+      "trophyDetail": "STU: 「蜘蛛の糸」をクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/a4c6a85c-1123-47cb-834a-4bc568edd946.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "目録制覇",
+      "trophyDetail": "STU: 「蜘蛛の糸」にて猫又からの仕事をすべて達成する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/7b86b3ff-0b17-4a10-9ccd-84940dc527b5.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ようこそ渋谷へ",
+      "trophyDetail": "STU: 「SHIBUYA♡HACHI」のスタンプを1つ以上入手する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20246_00/dbb534c4-cd73-4ba6-bafa-98ed88c6c3fd.png",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 67
+}

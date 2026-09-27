@@ -1,0 +1,552 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR10066_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "Enter The Gungeon",
+  "trophyTitleDetail": "Enter The Gungeon",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/3895B0E00916D8C49265181DA5A71864018FF70C.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 40,
+    "silver": 12,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Enter The Gungeon",
+      "trophyGroupDetail": "Enter The Gungeon",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/3895B0E00916D8C49265181DA5A71864018FF70C.PNG",
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 12,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Тайник со снаряжением",
+      "trophyGroupDetail": "Тайник со снаряжением",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/4A0A0ED922BCDBD61CB4CCBC75FC7A41B2D2376D.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Gungeons and Draguns",
+      "trophyGroupDetail": "Gungeons and Draguns",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/1B0B6B424D3C5A095D9439B58B2CC9E063E14309.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Ради сюжета",
+      "trophyDetail": "Собрать все остальные трофеи",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/B5534473B7E502B2600EEBC46BE3F35FD765BBCD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Свинцовый бог",
+      "trophyDetail": "Собрать пять Патронов Мастера за один раз.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/2A809BF197D8FBCE117601395327C5C8EDD3CC66.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Меценат",
+      "trophyDetail": "Потратить крупную сумму в департаменте закупок",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/8856BB1489048C43EE9367ECAE7A157C3356CC08.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Игра с оружием",
+      "trophyDetail": "Пройти игру с зачарованным ружьем чародейки",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/88B467F8EA21B34F6CC9F0FE77312105A20D1688.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Мастер Оружелья",
+      "trophyDetail": "Очистить Шестой зал",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/BB96AD79DC8A6496BDF5842FBDCF13AF0AF56B55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Оружейник",
+      "trophyDetail": "Создать Пулю, убивающую прошлое",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/F624F3683BD4DF132C6CE02E8AF8E2C2D7660DEE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Историк",
+      "trophyDetail": "Убить четыре прошлых",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/089CACA98A9A82737966EA1FCA857A684C7B0FE1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ведомый",
+      "trophyDetail": "Убить прошлое Пилота",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/966DED8C428392E2717E45713DBC48F7B7B7883C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Двойное наказание",
+      "trophyDetail": "Убить прошлое Преступницы",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/5A9E750066D96B7BFBB89D2F16D959856B280261.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Командир отряда",
+      "trophyDetail": "Убить прошлое Морпеха",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/6D0626F275556E8CE7DD4C69FA87E296D53ED564.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Опасная охота",
+      "trophyDetail": "Убить прошлое Охотницы",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/0792DD1E54158801C470C87112D6890F6E3E2113.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Убийца",
+      "trophyDetail": "Победить босса Пятого зала",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/43F2F11ED9CE4418C00FD07AE269B80C2B8FBE99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Разрушитель крепостей",
+      "trophyDetail": "Очистить Первый зал 50 раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/8C62289A04C9E77291EFF2B83840177DCC2415C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Оружельский ныряльщик",
+      "trophyDetail": "Очистить Второй зал 40 раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/9E7FF75C4BB56830D0D082EDDF2067A7D5233837.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Мастер шахты",
+      "trophyDetail": "Очистить Третий зал 30 раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/2FA9DB7791F7018B024F94A761A7DE05E6D7E436.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Опустошенность",
+      "trophyDetail": "Очистить Четвертый зал 20 раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/FB1CA317C3F340EC14E87AC2F876BA58EE18C4E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Кузнец",
+      "trophyDetail": "Очистить Пятый зал 10 раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/087A4E0D3F7029A6EFF01A36E4F4010771A65EEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Самый толстый кошелек",
+      "trophyDetail": "Носить с собой большую сумму денег",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/C6A94419F1A5F3302F262B51821D7FB086824ED7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Помощник картографа",
+      "trophyDetail": "Составить для заблудившегося путешественника карты первых пяти залов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/0F909A7A68A27F88092CCB0211385A3C35970795.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "За решеткой",
+      "trophyDetail": "Попасть в Тайный погреб",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/7E3A7BFAAE9ED1F48A664B93948A61F662D16AF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Уважение к мертвым",
+      "trophyDetail": "Попасть в Аббатство",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/A8527C759CDDD98E8169096CE5896D9BABB03F75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Перевооружение",
+      "trophyDetail": "Доставить запасную руку Голема",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/665AA1C0C33C6BA463E068466D9E56DD2927CDE4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Странная история",
+      "trophyDetail": "Пройти испытания Фрайфла",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/EDE633FEDB75D5028BD7EF29E4360EBA32948FDA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Хитрый выстрел",
+      "trophyDetail": "3 раз получить наивысший результат в играх Винчестера",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/2B383D6C31E67908BA57D9485D8A2B4BA3984299.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Опытный спорщик",
+      "trophyDetail": "Выиграть пари у Короля-Стрелка 5 раз",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/4F8F3F147BF85135893B6968E8E048C4A5A34D6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Дело в гильзе",
+      "trophyDetail": "Разблокировать Пулю",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/3C59E283E7F39D01ADAB6691C1DBCB5D3221C6C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Пик-пик",
+      "trophyDetail": "Разблокировать Робота",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/AF3BD80488987D9CE783DC96CCB9B017CF4D324D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Путь вниз",
+      "trophyDetail": "Открыть короткий путь во Второй зал",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/E14D11460F50FB7BC5473F33B641348143FDBEE4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Еще ниже",
+      "trophyDetail": "Открыть короткий путь в Третий зал",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/1871D41F8E0F6E2C4ACC96C8154674A267924746.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Все ниже и ниже",
+      "trophyDetail": "Открыть короткий путь в Четвертый зал",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/F3B082C888548DE3C41EE2032AE0F4A110647C7B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Последняя остановка",
+      "trophyDetail": "Открыть короткий путь в Пятый зал",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/7302CC4A8819DA1E108F43556A5FE062F0B493B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Присягнувший на оружии",
+      "trophyDetail": "Отомстить за Мануэль",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/FDEDCADCD67B7F57D066D8A0D5A6874CF23BC61D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Оружельский служитель",
+      "trophyDetail": "Пройти обучение",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/AEA6E5E5D0D55D5A77EF4ECF58657BAAFA5E4045.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Великие Чертоги",
+      "trophyDetail": "Заселить Брешь",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/CBC2473380FE6F34DBC827D9F761F7BB505FDF9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Не просто ящик",
+      "trophyDetail": "Опередить имитатора",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/7359D936F35A3C68F56E45FC4BC4736C72BC7824.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Разрушитель",
+      "trophyDetail": "Убить замороженного противника, сделав кувырок на него",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/AB6867BFC5FDCD4AE83034AB40A2C3B17337B645.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Я знал, что кто-то это сделает",
+      "trophyDetail": "Почему",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/C9CED77EBA9E2DFE8157E0BF821639E8A1FFA503.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Лесной повелитель",
+      "trophyDetail": "Украсть 10 предметов",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/0E4B2BCE689D36721ACB8E34E8483B0DF0BA1FC5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Испорченный день",
+      "trophyDetail": "Убить босса, предварительно покрыв его блеском",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/2A81BB16447A6A1A1424274E3D8BF8590F7737ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Прыжок льва",
+      "trophyDetail": "Упасть в последнюю секунду",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/157A29F4343F1DDEACC66D94FF0A3C96E06EF809.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Денежная яма",
+      "trophyDetail": "Убить 100 врагов брошенными канделябрами",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/7B8519F7AE01C53C5E5B9785EA425351DE6815B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Наездник",
+      "trophyDetail": "Убить 100 врагов, сидя на шахтерской вагонетке",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/5400BBDFCCF36B4EC7D9D7113EEBA261C98AF6F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Повелитель ямы",
+      "trophyDetail": "Убить 100 врагов, сбросив их в ямы",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/C8B4CF0A92331ADBB37EDADF4B3E1B893FC76FC5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Временной парадокс",
+      "trophyDetail": "Умереть в прошлом",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/0F1C00ECD60D3B1BB4A44918D78660537C59D05D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Экзорцист",
+      "trophyDetail": "Убить Заклиненного босса",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/B93E6C9A785F3F5992E5295BF8FC07B64C7BD2F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Пароль",
+      "trophyDetail": "Получен доступ к Секретному рынку",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/850D97D03D437A2E02D811D9BCDB13F36E671EF7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Заклиненный",
+      "trophyDetail": "Какая страшная участь ожидала вас, не так ли?",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/E62798FE79AD8610662CBCBB0DBF83A39F1A116F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Режим ярости",
+      "trophyDetail": "Всегда переворачивайте. Пушки - для переворачивателей",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/E6DF763EB4695DAA37866DDF70AE695436B8B58D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Повелитель зверя",
+      "trophyDetail": "Пройти игру в режиме зверя",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/52745C8F35CECBE5EDDBDCB14745C45CF29F2CDB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Уничтожен",
+      "trophyDetail": "Убить прошлое робота",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/E51A1B13B36AED3B0571968153B27DC9F8A5EE9A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Герой пушки",
+      "trophyDetail": "Убить прошлое пули",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/2FAA4A873BE98958B1CF51BC4EAC238C0AB8D76C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Бросающий вызов",
+      "trophyDetail": "Пройти испытание Дайскэ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/B7223A65ED3A5FA1E31EE48BECAA9CF18F79DA9E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "продвинутый Убийца",
+      "trophyDetail": "Убить продвинутого босса",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/CF9025357ABD0679133E7C517B12A377268EDD15.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "находчиво",
+      "trophyDetail": "Жажда мести",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/C4BC93DF50065DC3528CE1EC3FFB5DF9E8A50261.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "быстрая собака",
+      "trophyDetail": "Пройти испытание Тоник",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/EE6A79F7879AA34864FC63EA912156E982C7AED1.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 55
+}

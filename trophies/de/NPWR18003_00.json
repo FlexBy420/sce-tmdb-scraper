@@ -1,0 +1,456 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR18003_00",
+  "trophySetVersion": "01.03",
+  "trophyTitleName": "Fury Unleashed",
+  "trophyTitleDetail": "The trophy set of Fury Unleashed",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/EC1578FD6505BEBA3646B9EBDE7AEA6C6B5A60FE.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 30,
+    "silver": 14,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Fury Unleashed",
+      "trophyGroupDetail": "The trophy set of Fury Unleashed",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/EC1578FD6505BEBA3646B9EBDE7AEA6C6B5A60FE.PNG",
+      "definedTrophies": {
+        "bronze": 30,
+        "silver": 14,
+        "gold": 2,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Vervollständiger",
+      "trophyDetail": "Erhalten Sie alle anderen Trophäen",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/5429B2D546E94FE519C60084EB7CBC20A47BF5A7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Das ging schnell",
+      "trophyDetail": "Töte einen Boss in 5 Sekunden.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/722DC900149B57DD0A77946DFC7A874AC8AE2E99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ein guter Start",
+      "trophyDetail": "Beende ein Kapitel mit vollen Lebenspunkten, ohne Schnellreise zu nutzen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/7A7F84722074679BDFC8483A6DEF9B1A59366A79.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beeindruckende Kombo",
+      "trophyDetail": "Erreiche eine Kombo von 50.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/2EEEE9FF348F3E6D8A5B3AABA4D46282CCDE52A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eine Menge Schaden",
+      "trophyDetail": "Füge mehr als 10.000 Schaden zu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/88A8DCD9678F42C56379528F6D197E8144B11112.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Letztendlich doch nicht so gruselig",
+      "trophyDetail": "Töte 3 verschiedene Bosse (verfügbar im Modus Leicht)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/849CC84157BCBD496A48DC64F74E756D4D38B8D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Multitöter",
+      "trophyDetail": "Erziele 100 Multi-Kills.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/2316E932537B50D1D23ACDCBD2CECF9711146956.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Netter Schuss",
+      "trophyDetail": "Töte 3 Gegner mit einer einzelnen Kugel.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/DD1A949A63375EAA838993F4032EF6A8A4ABA421.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pazifist",
+      "trophyDetail": "Beende ein Kapitel, ohne Gegner zu töten oder Schnellreise zu nutzen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/EFB28835905DD971B4B097D0E3E10548CC469A31.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fröhlicher Pazifist",
+      "trophyDetail": "Beende ein Kapitel, ohne Gegner zu töten, Schaden zu nehmen oder Schnellreise zu nutzen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/7CFF2183D1CACA4406F71A85E98C3BFCC0923296.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gestärkt",
+      "trophyDetail": "Sammle 50.000 Tinte (verfügbar im Modus Leicht)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/302E75AC6ED26ED5D4DF4DD106C11C0A1644C442.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Es ist ein guter Durchgang",
+      "trophyDetail": "Sammle 5.000 Tinte in einem Durchgang",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/3399DF885F62D3AE5219085E785F684E884BC7BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "TLDR",
+      "trophyDetail": "Beende ein Kapitel  in 30 Sekunden.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/BD132072E95238E88E703C9686384C88AB4E96DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grenadier",
+      "trophyDetail": "Töte 50 Gegner mit Granaten in einem Durchgang.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/28AEC3EAD695BEC1B07128CAD168A8A9E0E345F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bucket-Liste",
+      "trophyDetail": "Töte alle Bosse (verfügbar im Modus Leicht)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/E4FAC4DF3ABAA2DC4929B60CAC667C764F80403F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfekter Sieger",
+      "trophyDetail": "Töte 10 Bosse, ohne Schaden zu erleiden.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/D326E99E13615F558F2B4E063D1C2BF1B7840568.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Doppelt perfekt",
+      "trophyDetail": "Töte 2 Bosse nacheinander, ohne Schaden zu erleiden.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/EA558B8A9234C83007745DCD6459FDCBF035C299.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Klempnermäßig",
+      "trophyDetail": "Töte 30 Gegner durch Zerstampfen in einem Durchgang.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/22E8F9E85E21AE8C48FD4A140281270889595A57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Abhängig",
+      "trophyDetail": "Steh gleichzeitig unter der Einwirkung von 3 Tränken.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/51D76B5A718961F4B8F41E6576E311274746ACCC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tod von oben",
+      "trophyDetail": "Töte 5 Gegner, ohne den Boden zu berühren",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/FBF306E7F55D8A5C567529FDACBEF25A5C95D513.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vollbepackt mit tollen Sachen",
+      "trophyDetail": "Sammle Rüstungsgegenstände aller Typen. (verfügbar im Modus Leicht)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/CF111F94FD84BB14D0AF6B2B0E9DEE292A29FB94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Auferstanden von den Toten",
+      "trophyDetail": "Regeneriere Leben von 10 % auf 90 %.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/7AE6857445060EDBFFCE31740F6E23D2C9565FEC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explodierende Fässer",
+      "trophyDetail": "Töte 3 Gegner mit einer einzigen Fassexplosion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/BB69054F5059FE3BF96882FB48ACBC9FDB27A70C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fantastische Kombo",
+      "trophyDetail": "Erreiche eine Kombo von 100.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/88CB1F13FEA5DCF1772B42F63D0E07172C628DFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Glorreiche Kombo",
+      "trophyDetail": "Erreiche eine Kombo von 200.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/CC7E081AFD9CD7B28B053226288CD3A10B418FFA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gefallener Gott besiegt",
+      "trophyDetail": "Töte den Gefallenen Gott (verfügbar im Modus Leicht)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/F3B674E42B246DC6AE954B87BF187F2737DAD32C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gefesselter Gott besiegt",
+      "trophyDetail": "Töte den Gefesselten Gott (verfügbar im Modus Leicht)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/B66B90E27E0DAE6F8F6E74928299F2889AF4549A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schlangengott besiegt",
+      "trophyDetail": "Töte den Schlangengott (verfügbar im Modus Leicht)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/EACFB19BB40187037427082D00D055E40CA3C5AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Himmelsfestung besiegt",
+      "trophyDetail": "Zerstöre die Himmelsfestung (verfügbar im Modus Leicht)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/FF6518F76827EA20FA3768C71FCE61CF7208997F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schlacht-Mech besiegt",
+      "trophyDetail": "Zerstöre den Schlacht-Mech (verfügbar im Modus Leicht)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/13BB1B4E880DFCA1075D78B020BFBFAA659A5B64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Megagranate besiegt",
+      "trophyDetail": "Zerstöre die Megagranate (verfügbar im Modus Leicht)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/12E2A218E1D76DF8FF8BE97F4023D4CF0DCA8A75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nette Kombo",
+      "trophyDetail": "Erziele eine Kombo von 10",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/2769B8263B7A66FC0C24DFB217C0869B61960A1B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Großartige Kombo",
+      "trophyDetail": "Erziele eine Kombo von 20",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/594081D2B467835B1ABCE68077E2FBFEB575F52E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nahkampfmeister",
+      "trophyDetail": "Töte 20 Gegner mit einem Nahkampfangriff in einem Durchgang",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/9BB67D0FD631064396FE980F99B2525C42F814E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nahkampfgroßmeister",
+      "trophyDetail": "Töte 50 Gegner mit einem Nahkampfangriff in einem Durchgang",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/201E4F55DB47FADF7B531E0A135A10C4D3A5C4CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nahkampferzmeister",
+      "trophyDetail": "Töte 100 Gegner mit einem Nahkampfangriff in einem Durchgang",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/C335EE337D5E6AC122E7815B7142CBE27F07A8CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bienenkönigin besiegt",
+      "trophyDetail": "Töte die Bienenkönigin (verfügbar im Modus Leicht)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/24DAE89CA39EC8A094228020E3E3231AFAE95C50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Commander der Invasion besiegt",
+      "trophyDetail": "Töte den Commander der Invasion (verfügbar im Modus Leicht)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/1F031C8A5038791AD599F357C7B74CD18916E4B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zerstörer von Städten besiegt",
+      "trophyDetail": "Zerstöre den Zerstörer von Städten (verfügbar im Modus Leicht)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/DD21D5DF8FCA46920DD68082837F376999C75236.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fury Unleashed (moderat)",
+      "trophyDetail": "Schließe das Spiel in einem beliebigen Spielmodus ab",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/0B251E1B5FDF36A304D53F1FFD32C9DCF72EEA79.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fury Unleashed",
+      "trophyDetail": "Schließe das Spiel im Spielmodus Schwer ab",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/266376B7F4FD14EF94F2FA6933486579AE13A123.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fury Unleashed (unglaublich)",
+      "trophyDetail": "Schließe das Spiel im Spielmodus Unglaublich ab",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/72F4FAB95AB6FF125C6AA8A98855F791238B4C6B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Fury Unleashed (legendär)",
+      "trophyDetail": "Schließe das Spiel im Spielmodus Legendär ab",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/ADCDD665B179F0D380EF591721A77DB305F338D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Perfekte Kombo",
+      "trophyDetail": "Schließe das Spiel in einer Kombo ab, die mit dem ersten Comicbuch beginnt",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/6F050EE241488F788AB867AF823F3378C0BC9343.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bezaubernde Kombo",
+      "trophyDetail": "Erziele eine Kombo von 500",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/CCB2D743D907833A2E25CBE2B85E002CC7CDB399.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nur eine Ablenkung",
+      "trophyDetail": "Töte einen Boss mit einer höheren Kombo als 30.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/1F50D197D5AB3997DDD4D2E43E2CDAC8A5F44E65.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sammler",
+      "trophyDetail": "Schalte alle freischaltbaren Gegenstände frei",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18003_00_001F15271D24996065A970AA560C85F104A677D9C7/64534C81FD68A4ED88D93D743D1458E1198E3F03.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 47
+}
