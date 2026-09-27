@@ -59,7 +59,7 @@ TSS_DIR = "tss_data"
 TSS_ID_START = 0
 TSS_ID_END = 99999
 TSS_SUFFIX_START = 0
-TSS_SUFFIX_END = 15
+TSS_SUFFIX_END = 99
 TSS_CONCURRENCY = 1000
 TSS_REQUEST_TIMEOUT = 15
 TSS_RETRY_BACKOFF = 2
@@ -154,6 +154,15 @@ save_queue = asyncio.Queue()
 def tmdb_dir(extension, dev=False):
     return f"{'tmdb_dev' if dev else 'tmdb'}/{extension}"
 
+def file_content_matches(file_path, data):
+    try:
+        if os.path.getsize(file_path) != len(data):
+            return False
+        with open(file_path, "rb") as f:
+            return f.read() == data
+    except (FileNotFoundError, OSError):
+        return False
+
 async def file_writer_worker():
     while True:
         item = await save_queue.get()
@@ -162,6 +171,9 @@ async def file_writer_worker():
             break
         file_path, raw = item
         try:
+            if file_content_matches(file_path, raw):
+                save_queue.task_done()
+                continue
             os.makedirs(os.path.dirname(file_path) or ".", exist_ok=True)
             with open(file_path, "wb") as f:
                 f.write(raw)
