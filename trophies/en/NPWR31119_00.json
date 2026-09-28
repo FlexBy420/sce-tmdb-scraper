@@ -1,0 +1,789 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR31119_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "The Binding of Isaac: Repentance",
+  "trophyTitleDetail": "The Binding of Isaac: Repentance Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/BD8B9FB73EED6FF5BAAFFCBD351C28F8B3F9D59D.PNG",
+  "trophyTitlePlatform": "PSVITA,PS4",
+  "definedTrophies": {
+    "bronze": 69,
+    "silver": 5,
+    "gold": 5,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "The Binding of Isaac: Repentance",
+      "trophyGroupDetail": "The Binding of Isaac: Repentance Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/BD8B9FB73EED6FF5BAAFFCBD351C28F8B3F9D59D.PNG",
+      "definedTrophies": {
+        "bronze": 54,
+        "silver": 2,
+        "gold": 2,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "The Binding of Isaac: Afterbirth",
+      "trophyGroupDetail": "The Binding of Isaac: Afterbirth Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/C191636E490CD838F204B767EF90C0E502777A7D.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "The Binding of Isaac: Afterbirth+",
+      "trophyGroupDetail": "The Binding of Isaac: Afterbirth+ Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/A941A62B3452D730EE70ADE18C21B09DAC9F08E2.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "The Binding of Isaac: Repentance",
+      "trophyGroupDetail": "The Binding of Isaac: Repentance Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/EC0F54128A30D1FD7BEC0E67A4F0B4A8A316B259.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum",
+      "trophyDetail": "Obtain all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/DF112FF742FA434B2A177DC36895E34A83B3030C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Isaac's Tears",
+      "trophyDetail": "Kill Isaac with Isaac",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/56271B6910C6C4FA575452D5AEBF90E616A58CF1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mom's Knife",
+      "trophyDetail": "Kill Satan with Isaac",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/2922565D1BEB198C8AB323850A64B1D242574FE6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Isaac's Heart",
+      "trophyDetail": "Kill Isaac with The Lost",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/933CA8C7C27BF44E6EDB0C37C55E91B588151B3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Mind",
+      "trophyDetail": "Kill Satan with The Lost",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/D51D8DC9694A96363208880C13F293D6003D1DAA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Magdalene",
+      "trophyDetail": "Have 7 or more max red hearts at one time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/89165AFE4C44E0F5CF9EFBADE0DE05E8AA34CC19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Relic",
+      "trophyDetail": "Kill Isaac with Maggy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/F276A19E54BAEE36E94AD93586A9276CD6EC2A2B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Guardian Angel",
+      "trophyDetail": "Kill Satan with Maggy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/0F85593D7FC61E8684A2A6E2148428EDE7EB06E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cain",
+      "trophyDetail": "Hold 55 or more pennies at one time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/15265B0BEA5548CA8964EF05D548A6B687E6623E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Coin Bag",
+      "trophyDetail": "Kill Isaac with Cain",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/85A469F92690B6E25ACD15CD2ABDDA1F641E668D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Bomb Bag",
+      "trophyDetail": "Kill Satan with Cain",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/A970401B6C2D4F81BD1150A7B276C3715B1693EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Judas",
+      "trophyDetail": "Kill Satan",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/003D8E16FF8454DE7D4904CEF14B6DFBC2737943.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Guillotine",
+      "trophyDetail": "Kill Isaac with Judas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/E3534D1DA08A0DCAC6333264AC1E9DA446FCF202.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Judas' Tongue",
+      "trophyDetail": "Kill Satan with Judas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/D26AFCFB5762E4BAB574AA668D10E078ED9355CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eve",
+      "trophyDetail": "Beat 2 levels in a row without picking up any hearts",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/073661FAA8920FEE95E52E0727D5168DA4574F21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Eve's Bird Foot",
+      "trophyDetail": "Kill Isaac with Eve",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/D27BE5708A6A86252BB17AEBBFD8D52B5E9660DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Razor",
+      "trophyDetail": "Kill Satan with Eve",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/D83DDCD23A0C3DC8F465AF7F1C7593C678F0EBDE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Samson",
+      "trophyDetail": "Beat 2 levels in a row without taking damage",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/0288D9C22C94E0A38E876D88D81683C1C389D39F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bloody Lust",
+      "trophyDetail": "Kill Isaac with Samson",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/62D44120FBA93B0912DF180667A87DB9E2E53537.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Blood Rights",
+      "trophyDetail": "Kill Satan with Samson",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/97BDF4BA1CB0D240EC92D3F3CB70241AF2A505D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Azazel",
+      "trophyDetail": "Make 3 deals with the devil in one run",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/E03343C2A3D469AB6642878631DBE0B95678F9E2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Satanic Bible",
+      "trophyDetail": "Kill Isaac with Azazel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/D70175EDEA36B0C75D956FA5579D6E2F6FBA44FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Daemon's Tail",
+      "trophyDetail": "Kill Satan with Azazel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/F88CC60D089502DC24584C4C7EDB4C39DB83B8E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lazarus",
+      "trophyDetail": "Have 4 or more soul hearts at one time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/2C3890FD49A6BBB89152BE557AE72F3DBF199231.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lazarus' Rags",
+      "trophyDetail": "Kill Isaac with Lazarus",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/BD8F7A4DBD9ABA0913E71BD136ECD03DEA7204FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Broken Ankh",
+      "trophyDetail": "Kill Satan with Lazarus",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/F686DD2CFF6466B8DB7B487FCE10BEC6F04B47BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eden",
+      "trophyDetail": "Beat the Womb for the first time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/7E8D6CB287997AA219A29D009365D81AE4EF34CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Blank Card",
+      "trophyDetail": "Kill Isaac with Eden",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/9192AF22CD1B941EC31618A3DAC4A72A0076002F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Book Of Secrets",
+      "trophyDetail": "Kill Satan with Eden",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/90BE21D760AED48074F85496FA5EB40805F05BE3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Something from the future",
+      "trophyDetail": "Beat the Basement 40 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/6CFE5AB0188A48BF6389E5E756333502824F9AFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Something Cute",
+      "trophyDetail": "Beat the Caves 30 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/C5ECB118C02AC95586C3578F5AD2B0C705F70DE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Something sticky",
+      "trophyDetail": "Beat the Depths 20 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/3CA058B28297EF769789D907DCDAAEEF9F04F6C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Basement Boy",
+      "trophyDetail": "Beat the Basement/Cellar without taking damage",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/EF8B0849EDEB31D290E1EE5548CDEBFA35198469.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spelunker Boy",
+      "trophyDetail": "Beat the Caves/Catacombs without taking damage",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/1D9D29EAEE1174EF1D7E17F3426E204089BCA4EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dark Boy",
+      "trophyDetail": "Beat the Depths/Necropolis without taking damage",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/328078EEE3A5FA37ED5627A561EBCC7A53F4E533.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mama's Boy",
+      "trophyDetail": "Beat the Womb/Utero without taking damage",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/A3BBDA7569D4E2FFD0AD6F8F5854B1428987DFDE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dead Boy",
+      "trophyDetail": "Beat the Chest or Dark Room without taking damage",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/61580CC196D604B70C87BA5B1E3698AF2A006C9D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Challenges",
+      "trophyDetail": "Beat all Challenges",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/EC06189949542F53913C750F036D28DADF19C85B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Boss Rush",
+      "trophyDetail": "Beat the Boss Rush",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/70765C299332D325F1BB6AD6201B0A1F597BBB22.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dark Room",
+      "trophyDetail": "Beat the Dark Room",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/D2C7698DC108D8A98BCA0493609CDD6F5045782C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Chest",
+      "trophyDetail": "Beat the Chest",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/2D1C27738B49EEE4F69E145E671E9CD123A7BA60.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lost Poster",
+      "trophyDetail": "Beat the Dark Room with Isaac",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/ACF988EC45D27F0D32677A9955F1F30144745B1A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Little Baggy",
+      "trophyDetail": "Collect 2 of either Roid Rage, The Virus, Growth Hormones, Experimental Treatment, or Speed Ball",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/CD3ECC3A39885B466684D21732833D302F722630.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Womb",
+      "trophyDetail": "Kill Mom",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/B6F110062EAA3F434D48FC5A31902902F546BDC6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Halo",
+      "trophyDetail": "Kill Mom using the Bible",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/3FC5F29037190FF889A951AABDE1416B4A1DE3B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Transcendence",
+      "trophyDetail": "Kill Mom's Heart 3 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/EFDC1309F02EB83D657926AFBA1A920615E34687.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Everything Is Terrible",
+      "trophyDetail": "Kill Mom's Heart 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/5770F67721C98B9A87C0684AED2ABE8C59FF5893.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Quarter",
+      "trophyDetail": "Kill Mom's Heart 8 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/44659BAD90068D980A99C4D993BCBB95A35067FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Fetus In A Jar",
+      "trophyDetail": "Kill Mom's Heart 9 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/B8BEB596B1824C7EB3BC2B1E087B730ACF493275.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blue Baby",
+      "trophyDetail": "Kill Mom's Heart 10 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/B5186C8DC169A3709C04C33078AA90A03468750F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It Lives",
+      "trophyDetail": "Kill Mom's Heart 11 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/6EC04F818A3229005694F20B1EF8F1E757F62B93.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Forget Me Now",
+      "trophyDetail": "Kill Satan with ???",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/7B862EB8CBAEDB640AA5FA0C325109DC10C9A18F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Book Of Sin",
+      "trophyDetail": "Kill all 7 sins",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/2C8DDB3FDFEE4D79BD4267B25B622235BE004F11.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Polaroid",
+      "trophyDetail": "Beat Cathedral 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/EFC5C50C71EA3965158C182144B7EC98AB66F676.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Negative",
+      "trophyDetail": "Beat Sheol 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/F5AF936C60A2380CD2D64C2FE08DE78ABA3FAA69.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Golden God",
+      "trophyDetail": "You are the best!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/B9FFD0154873ED8DDDF56F593EF2DA123D4D2032.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Platinum God",
+      "trophyDetail": "Collect all items and unlock all secrets and endings",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/E8E34FFB2C26A3F97176A599AEB22C315992DCB6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Lost",
+      "trophyDetail": "Finish the game's final secret",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/18C661A21D39CDC66BA0079373BB051AAFB57B78.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Real Platinum God",
+      "trophyDetail": "100% the game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/BA5F33DDD9AD0307D091984F676D9C81983C2BC3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lilith",
+      "trophyDetail": "Beat Greed Mode with Azazel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/EA9382D2FFF8BD0D1E2193E3209BF0AD2E3BA04E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cambion Conception",
+      "trophyDetail": "Kill ??? with Lilith",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/06E4915B8579CB03468944BF21DBDC208F2F7BEC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Succubus",
+      "trophyDetail": "Kill The Lamb with Lilith",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/5740B169FF6FA17A94FECDAB59CDB7791FE4DCE9.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Keeper",
+      "trophyDetail": "Donate 1000 coins in Greed Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/7BD59DD6435D3F3BC614B2941F6E7E729BD8B236.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Deep Pockets",
+      "trophyDetail": "Kill ??? with Keeper",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/7C21DCE56D7805239E3021D353E049385BCDC1ED.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Karma",
+      "trophyDetail": "Kill The Lamb with Keeper",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/39386A7FE48231188B94DE2785B87691BFC9204E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "1001%",
+      "trophyDetail": "Collect all items and unlock all secrets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/038C2973EC661C62001E285924F25C7F24DCDE44.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Void",
+      "trophyDetail": "Kill Delirium with Apollyon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/FC2D689F3BBB5E71E7B9F7DA8716EE7BEC4B034D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Black Rune",
+      "trophyDetail": "Beat Greedier Mode with Apollyon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/C4E761EE57E7C902AC555692CE04FED1A9A10828.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Apollyon Baby",
+      "trophyDetail": "Complete all hard mode marks with Apollyon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/8DAB58EB110F94C762DF285D517B675CB5E047E9.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "New Area",
+      "trophyDetail": "Kill Hush for the first time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/00D7075E67574181624D5694455B48978A76745E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Delirious",
+      "trophyDetail": "Kill Delirium for the first time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/3B8A5911C059FEED00CC4E5657DD2A5FF996AF74.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "RERUN",
+      "trophyDetail": "Beat 3 victory laps in one run",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/5F7BD8159FB4C21B7BD0DE498EF4236292C6CA1A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "1000000%",
+      "trophyDetail": "Just Stop!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/C39A515507EEC14CD12B7621FB64E12A44B9AB5B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Secret Exit",
+      "trophyDetail": "Complete ??? 3 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/88B5BD08D79ED4C8D8B1B5103671CB4EA4F6C515.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bethany",
+      "trophyDetail": "Beat Hard mode as Lazarus without losing a life",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/8F3E48E63963B9F2C29FC232B580C56DE563DB47.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jacob & Esau",
+      "trophyDetail": "You are just like your father...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/4E70A5AD62F2CD9BC9D4179308EFCC46DAACE3F9.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Red Key",
+      "trophyDetail": "The other side is calling...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/6F1B87A2A989B10953C5AFD883A06CCC46B042EF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mega Mush",
+      "trophyDetail": "Beat everything in Hard Mode as every character",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/E1A92B6233C5B6EA493FCED6ECA04241A4988865.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Death Certificate",
+      "trophyDetail": ". . .",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/27DA96D5B02EC0B155F25F0F61D0E03D98122869.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Dead God",
+      "trophyDetail": "∞%",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31119_00_00430AEEEC8C0553194397083518FFFF2C3E0F4F96/779FB014C8F765ECC6C07DD4AE8587328F88A78C.PNG",
+      "trophyGroupId": "003"
+    }
+  ],
+  "totalItemCount": 80
+}

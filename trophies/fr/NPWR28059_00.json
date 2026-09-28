@@ -1,0 +1,414 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR28059_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Escape Academy",
+  "trophyTitleDetail": "Escape Academy",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/0D5F82CA3766222548E4CFBCF1A5EDE42BEE6B3D.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 23,
+    "silver": 12,
+    "gold": 5,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Escape Academy",
+      "trophyGroupDetail": "Escape Academy",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/0D5F82CA3766222548E4CFBCF1A5EDE42BEE6B3D.PNG",
+      "definedTrophies": {
+        "bronze": 10,
+        "silver": 12,
+        "gold": 5,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Tournament of Puzzles",
+      "trophyGroupDetail": "El Tournoi des Casse-Têtes",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/6946027FA9B7C1DC9BE961CEB304BD44DF4C66BC.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Major de promo",
+      "trophyDetail": "Obtenir tous les autres trophées.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/60CABCBBB0529F2F815DEF3948C7A8DC2DB314C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Prochain arrêt : l'Académie",
+      "trophyDetail": "S'évader de « Présentations ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/D797B67D9CDC9890A1FE3275CD2C3FFFA61BA9F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Entrée examinée",
+      "trophyDetail": "S'évader de « L'examen d'entrée ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/CF0E21126BAAE4BB389BFE71687FB09F0D868269.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Peinture d'avant-garde",
+      "trophyDetail": "S'évader de « Artiste de l'évasion ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/813FC537199C6178FACE65FE7FF280D69A5AE264.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sésame pour l'air respirable",
+      "trophyDetail": "S'évader de « Sous pression ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/09AC5D39A6C7774421B36E7AA5D32ED8BBD51735.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Sauvetage à distance",
+      "trophyDetail": "S'évader de « L'évasion ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/22825E63174FE07B5E68B68D6389DBE2BC351569.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Casse-tête savoureux",
+      "trophyDetail": "S'évader de « Épreuve de goût ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/5AF5178E65D72DF7A85770815009664B3F2EF6F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Thé-orie et pratique",
+      "trophyDetail": "S'évader de « La théière ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/380107FA2A8571EF0B28911025C92FB3C01FD849.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Intelligence artificielle",
+      "trophyDetail": "S'évader de « Rat de laboratoire ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/DD45CA76EC3796C8FE0ED36E1CFBE9ED44DF8F5F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Virtuose de première année",
+      "trophyDetail": "S'évader de « La salle des rivaux ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/6724B16DE47F8087E40E42981A1824AF9D3F8A0B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Énigmes brûlantes",
+      "trophyDetail": "S'évader de « Nuage de fumée ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/2DF2FC4DDD453412EEED2B933D4A363BD7C29E7A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Détonation annulée",
+      "trophyDetail": "S'évader de « Thé explosif ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/6375F85EF5C653F01F19F989E6547B8A2ED542AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Détective académique",
+      "trophyDetail": "S'évader de « La confrontation ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/158D0F78C215E45B921BB4706284F9E4917C1DCE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Évasion réussie",
+      "trophyDetail": "S'évader de « Sous les fondations ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/D1C13C43E1467CB49C2EE16DFDB3CF77F8FE909C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Passe-partout",
+      "trophyDetail": "Ouvrir 10 serrures.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/B4ABA7599B02026C93B9642B93ED1692B05254B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Les clés du campus",
+      "trophyDetail": "Ouvrir 30 serrures.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/3712F51B40CB56E39997D90142278B46107552B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Élève modèle",
+      "trophyDetail": "Obtenir au moins un B+ dans 10 évasions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/785715A63B94C93D5A834DD08D177974B23F8344.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Mention « Excellent »",
+      "trophyDetail": "Obtenir un A+ dans 10 évasions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/C55C987DA94B1F93118A4144320C4365B3552546.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jogging",
+      "trophyDetail": "Courir sur plus de 400 mètres.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/91B8D5373292CF13D73713144121080F47BBB487.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pipelette",
+      "trophyDetail": "Avoir 8 conversations facultatives avec les personnages du campus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/9AE125106865DFC7E5775CC9EB249E1A24BFEFBC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Éditions spéciales",
+      "trophyDetail": "Lire 10 numéros différents de la gazette de l'évasion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/9DC942808B918E583057342F857F652D1356E3E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ça tourne",
+      "trophyDetail": "Résoudre les salles pivotantes d'Eel en moins de 8 coups.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/FA1B6F4CACCE893AB18206EB6AC940FBE06411A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Survoltage",
+      "trophyDetail": "Ouvrir la serrure à batterie d'Eel en moins de 10 coups.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/3CB41DA697545CA35BA6D63E00405730174DA860.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ça, c'est du groove !",
+      "trophyDetail": "Faire tomber la fièvre du samedi soir de Quanty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/EB77762C5AAD62A8DC744290065C6D11D490B1E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Solidarité scolaire",
+      "trophyDetail": "Terminer 3 évasions avec un partenaire.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/E5AFFC3E464FA4D3A43D44D2A89EBCB99C92BB04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Échanges entre élèves",
+      "trophyDetail": "Donner au moins 5 objets à son partenaire.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/49411DC9894304FF25C2A8CFD83B271A15017948.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Prodige musical",
+      "trophyDetail": "Trouver un moyen de jouer « Mary Had A Little Lamb ».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/C7636B96EFD59C181304A90D2FCD284F5C53D500.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Batteuse battue",
+      "trophyDetail": "S'évader de « Sous pression » en moins de 3 minutes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/29AF5F2DE5B450FE39CB3DE008D3B9793A4C8015.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adepte de la division Élève de première année",
+      "trophyDetail": "Participer à 10 matchs du tournoi des casse-têtes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/DB12D01738A4AB49B397FE7B617D1B2409B2E51A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adepte de la division Élève",
+      "trophyDetail": "Participer à 25 matchs du tournoi des casse-têtes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/1F3ACE642596EBEAE55B04C02F8EC42EFC51B663.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adepte de la division Élève de dernière année",
+      "trophyDetail": "Participer à 50 matchs du tournoi des casse-têtes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/EE8FCE1CCEE7825CCE81E59D943AC33E77F461F3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fièvre de cheval",
+      "trophyDetail": "Donner un masque de cheval à vos adversaires.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/9C64D57177FDF6A6F001AD25DCA020CF9E505B4A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bien dans ses baskets",
+      "trophyDetail": "Parcourir 2000 mètres avec les chaussures de course.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/D5075EAB2B0D6683CFB6DB99730BE60FCD52E8D4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soif de pouvoir",
+      "trophyDetail": "Ouvrir le coffre à bonus 50 fois.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/8927E33D7D7F44B334AD28768F6D606AB02202DA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Turbo tombeau",
+      "trophyDetail": "Terminer un match au tombeau du premier expert en évasion en moins de 10 minutes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/9C28BB1FF198F484A5B6448F59CB98FE7DC94892.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Piratage express",
+      "trophyDetail": "Terminer un match dans la Conserverie des hackers en moins de 10 minutes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/C138A951830E24B5FB029EBCC988D6E8C39D4F55.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moment magique",
+      "trophyDetail": "Terminer un match au Studio du spectacle en moins de 10 minutes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/F51343A7F1287628FECF650488B7D9E532CAED2B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Course intellectuelle",
+      "trophyDetail": "Remporter 10 parties de Course à l'évasion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/F7E4E17DC468D02F9AD6AB96C31ABECB9783DA2D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "As du morpion",
+      "trophyDetail": "Remporter 10 parties de Morpion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/7D3F24F26A00611D70A6859FCBA55E3CD94A9995.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carton plein",
+      "trophyDetail": "Remplir tout un tableau de morpion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/6091E871BB08932A5D5A1C6E154A8DAB81CA56F7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La chasse est ouverte",
+      "trophyDetail": "Remporter 10 parties de Chasse au trésor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28059_00_00251BDBCAF5614FA00C4C6800963288F944D7269E/A463F04EF6C187E8B5B300A7CF81389D3D48723D.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 41
+}

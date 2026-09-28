@@ -1,0 +1,382 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR30116_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Coffee Break",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/1928687b-a3ca-4d14-81cf-83d84c5f9d71.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 26,
+    "silver": 8,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Coffee Break",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/1928687b-a3ca-4d14-81cf-83d84c5f9d71.png",
+      "definedTrophies": {
+        "bronze": 26,
+        "silver": 8,
+        "gold": 4,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Coffee Break master",
+      "trophyDetail": "Collected all the trophies in the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/12d4db73-c5b1-47ee-9254-95fb535e4f87.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fast player",
+      "trophyDetail": "Completed a level quickly.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/adebd077-c90d-472f-99a9-f6db9d2769e7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slow player",
+      "trophyDetail": "Completed a level slowly.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/9245885d-80db-4b88-ace8-4f85fea17f4b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Joe defeated",
+      "trophyDetail": "Defeated Joe mini boss.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/9e3e315e-594a-4b63-b369-65766b4b1d05.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Decaf defeated",
+      "trophyDetail": "Defeated Decaf mini boss.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/e64c6f72-f613-412a-a24c-846674adac10.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dinah defeated",
+      "trophyDetail": "Defeated Dinah mini boss.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/fee97207-318b-416a-933c-cad725f86e7f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Turbo player",
+      "trophyDetail": "Hit ball 3 times in turbo paddle mode without losing life.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/fd8a2d4f-e451-48ce-a3bc-db926524dfde.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sticky player",
+      "trophyDetail": "Caught ball 3 times with sticky paddle without losing life.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/999509cb-1a84-4ac8-b9e7-5df536a66860.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shielded player",
+      "trophyDetail": "Hit ball 3 times with shield (bottom wall) without losing life.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/1a6fdcbe-c82b-40ce-b84e-c8d7711ece20.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Invincible player",
+      "trophyDetail": "Survived a mini boss attack through invincible paddle.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/1ac440ce-f830-4b61-9340-b0dacfb7a214.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slow and steady",
+      "trophyDetail": "Destroyed 3 items with slow ball without losing life.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/88f4e138-8cbc-4506-a085-b3b29ebb1dba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Laser collected",
+      "trophyDetail": "Collected a laser power up.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/1aa3b1a7-310e-4b32-8434-197dce6a38b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wide paddle collected",
+      "trophyDetail": "Collected a wide paddle power up.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/a815722d-70fe-4d7a-bb61-c8e97b6cef04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fireball collected",
+      "trophyDetail": "Collected a fireball power up.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/db507a59-cb3c-4c00-92c1-27b607a37bb6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "3-ball collected",
+      "trophyDetail": "Collected a 3-ball power up.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/e6521cba-6346-456b-90c4-4a43515b2190.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Laser lord",
+      "trophyDetail": "Destroyed 5 items with laser without losing life.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/f57f02d1-b8f1-4f51-9fa3-684502b450e9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fireball fury",
+      "trophyDetail": "Destroyed 5 items with fireball without losing life.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/2a3ccf6c-78a3-47cd-87ee-7812c0685597.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cake bomb",
+      "trophyDetail": "Destroyed 3 items with a bomb.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/d10059dd-524d-46e7-96f7-dadbcb952b71.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coffee cakes destroyed",
+      "trophyDetail": "Destroyed 3 coffee cakes in a level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/270f22d3-203e-4cb6-9309-947c26b0ee04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Combo power up collected",
+      "trophyDetail": "Collected a combo of 3 or more power ups.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/2570fa80-995f-4d50-8d8d-bd14b69bf130.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All power ups collected",
+      "trophyDetail": "Collected all powers ups and collectibles in level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/aa51bb74-219b-4c85-a763-ffe8d1007972.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No power ups collected",
+      "trophyDetail": "Completed a level without collecting any power ups.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/09cbb200-98bd-433a-a603-d7d9cc87e88a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mini boss attacks survived",
+      "trophyDetail": "Survived all mini boss attacks in a level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/15a6fac4-7cd0-46f7-a95d-75fda9cd9463.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "7 lives win",
+      "trophyDetail": "Completed a level with 7 lives remaining.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/e7c0560f-7658-46bb-b2ce-79ef141dec70.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "30K points scored",
+      "trophyDetail": "Scored 30000 points in a level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/72544abc-7637-48b7-8cbe-d16606550b67.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "3 stars earned",
+      "trophyDetail": "Earned total 3 stars in game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/fa8585bc-07c0-4c44-be43-c1c4c3e4aa16.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "3 coins collected",
+      "trophyDetail": "Collected total 3 coins in game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/5d533821-98b6-4d97-86b7-510c2c2e4ad3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "High 5 player",
+      "trophyDetail": "Destroyed objects at 5x speed.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/481b53ca-15b2-40dd-a9c0-4d13782e065b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Immortal player",
+      "trophyDetail": "Completed a level without losing life.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/17c72a47-43bf-47d5-8250-6b9b24ee25ac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "40K points scored",
+      "trophyDetail": "Scored 40000 points in a level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/71824992-faed-4800-b5d0-b26e3f6c23eb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "2 characters played",
+      "trophyDetail": "Completed levels with 2 different characters in game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/37a9a534-f7aa-435a-ac05-14c9b5b6a456.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "5 stars earned",
+      "trophyDetail": "Earned total 5 stars in game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/0f0c0009-6167-4cd9-a0e3-d5be80dc75f2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "5 coins collected",
+      "trophyDetail": "Collected total 5 coins in game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/168749a4-aeb9-4e4a-8628-9374e98b194d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Moving items destroyed",
+      "trophyDetail": "Completed a level with moving items.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/f3bd8764-489d-4da0-86f2-dd8e6def4fd9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Duncan defeated",
+      "trophyDetail": "Defeated Duncan boss.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/334f8671-a8fd-4420-bb65-245fcdd606cb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Stationary mini bosses defeated",
+      "trophyDetail": "Completed a level with stationary mini bosses.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/9f4e7a3c-4154-4e75-a2b7-33419211746c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "7 stars earned",
+      "trophyDetail": "Earned total 7 stars in game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/c858a9ad-8e09-4242-a76c-021ff8f32c1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "7 coins collected",
+      "trophyDetail": "Collected total 7 coins in game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/77603ea2-4389-4a1f-8cb2-9ea46d29a974.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "3 characters played",
+      "trophyDetail": "Completed levels with 3 different characters in game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR30116_00/bcaa1630-51ed-4db6-a08a-19025382f1a7.png",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 39
+}

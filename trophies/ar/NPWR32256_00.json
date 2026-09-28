@@ -1,0 +1,507 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR32256_00",
+  "trophySetVersion": "01.11",
+  "trophyTitleName": "PinballFX",
+  "trophyTitleDetail": "PinballFX",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/3668D890FFD2553911F1F8F09B9283B60AD9B87D.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 43,
+    "silver": 1,
+    "gold": 2,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "PinballFX",
+      "trophyGroupDetail": "PinballFX",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/3668D890FFD2553911F1F8F09B9283B60AD9B87D.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 1,
+        "gold": 2,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Additional Tables #1",
+      "trophyGroupDetail": "Trophies for Additional Tables #1.\n",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/7FEB2C7D9540699A68905ADEC513A3149BA3B3E4.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Additional Tables #2",
+      "trophyGroupDetail": "Trophies for Additional Tables #2.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/A16BD7002F774C872DA7F38C50399349AB0782D1.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "XP",
+      "trophyGroupDetail": "Experience Points related Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/FB74BCC1C49ADE6508A82171A45795F298C0C259.PNG",
+      "definedTrophies": {
+        "bronze": 5,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Additional Tables #3",
+      "trophyGroupDetail": "Trophies for Additional Tables #3.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/A84BD5C034163E1EBF671B0B5030C6FDEE3FBD35.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Additional Tables #4",
+      "trophyGroupDetail": "Trophies for Additional Tables #4.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/A7E0DD83F949879B5138B8883CBD64DA472F059B.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contender",
+      "trophyDetail": "Post a score in any official event!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/D0036EA7B96F46D64EADEAD76458131AC9282D73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My Table, my Rules",
+      "trophyDetail": "Create your own Tournament.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/EB1AC31D3D7A13FFCCBD23651D92D2E26F2092AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Collect Them All",
+      "trophyDetail": "Unlock all rewards from a Season.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/64E743CEEF4AC0273D350FCC1C99BEB2F1C2F6A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Shiny Memento",
+      "trophyDetail": "Earn a Gold or Diamond Event Cup!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/8E979A673C772B440CC2E9A5AC3A117DA62E37DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First But not Last",
+      "trophyDetail": "Unlock 1 table award!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/9F445182C0FA899C9C67C98AA5DFAE0C5B3DDB91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nine Zeroes",
+      "trophyDetail": "Score 1,000,000,000 points in total playing your tables.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/A31D9D1B631EF07D5A698C4D3BC476868F03593E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Challenge Accepted!",
+      "trophyDetail": "Play all game modes on a table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/5584542D4B48E943E0A1ECA08DFA7912971AE487.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Found it!",
+      "trophyDetail": "Unlock your first collectible item!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/F80D6F785D3A412EF1548D72B957DD82381AAD80.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dress Code",
+      "trophyDetail": "Customize your profile with a Badge, a Frame and a Background.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/C918A6918E299C32580AB989F81DBF59476B2AA0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ball Launched",
+      "trophyDetail": "Play a game on any table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/3D452F3AEFCCF8B68DA8F06416961C0E19462D35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "End of Gloom",
+      "trophyDetail": "Defeat the Gloom by completing The Void on the Gloomhaven™ Pinball table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/195693F30CD888F59328AD11E0CA3669AA899C81.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Catomic Bomb",
+      "trophyDetail": "Experience Catomic Bomb on the Exploding Kittens Pinball table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/823B552485963DE3D251F368347743BC514D67BF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Terraformer",
+      "trophyDetail": "Start the Wizard mode on Terraforming Mars Pinball.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/7407E34AF684EFDC6512AF8B6EF0E044009782FB.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Captain",
+      "trophyDetail": "Start building a new starship on the Star Trek™ Pinball: Kelvin Timeline table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/45AB923E61B00F18EC47F9CBC9E31BCD5B9CEF6B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": " To boldly go…",
+      "trophyDetail": "Reach the wizard mode on the Star Trek™ Pinball: Discovery Table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/2CD85C3AC058CC3B51C57BD7CF68521D8A30F142.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Battle of Cardassia",
+      "trophyDetail": "Successfully defend Cardassia on the Star Trek™ Pinball: Deep Space Nine table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/56ACAFCD5A0240BAA6D8EFD1E154D8596C0EC01B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Did It for the Dowry",
+      "trophyDetail": "Start the Princess multiball on Epic Quest by hitting the locker wheel 3 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/92B583F067FAE0B943CD4A6F856BF0A00C856E59.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glorious victory",
+      "trophyDetail": "Repel the attack of the robber knights against Camelot on Excalibur!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/25F0C1B01939C0179BEB42A69137EFF0C4B15023.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The most beautiful Christmas",
+      "trophyDetail": "Start the wizard mode on the A Charlie Brown Christmas™ Pinball table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/C7450BF654048C80F196A20E71478DE9C3612567.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Evil AI unplugged",
+      "trophyDetail": "Defeat SHODAN in the final Cyberspace battle on the System Shock Pinball table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/19EC4BC8F0221406A0AB1939950D0566640D9A70.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Balanced Chakram",
+      "trophyDetail": "Convert the ball into the Balanced Chakram on the Xena pinball table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/12553DDDF521CF1E96161DACB31B270CE8FE5401.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Daybreak",
+      "trophyDetail": "Complete the wizard mode on the Battlestar Galactica Pinball table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/17BE321A3ED5A23E9F08457ECA7B00E08AE816C0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Knight Rider",
+      "trophyDetail": "Complete all missions on the Knight Rider Pinball table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/4040BABF68F12603353DAAA10BEE613EAA2E7E02.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "True Neural",
+      "trophyDetail": "Make 100 Synchronous Shots on the Pacific Rim Pinball table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/6C1C8F21CBD7519929C1BD9DD011033115F6982C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golden Boot Trophy",
+      "trophyDetail": "Score 10 goals in a single match on the Super League Football table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/9FBE7D3D4EFA73F8376D88572069E4343FA24653.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Leveling Up",
+      "trophyDetail": "Reach Player Level 5.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/E38B5B2DAF40F3056DF85B1D85D753EC0C8333C4.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Getting the hang of it",
+      "trophyDetail": "Reach Player Level 25.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/597C4C022EC8AC2664FF2B66FE83C9D9AF01AA7E.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Halfway there",
+      "trophyDetail": "Reach Player Level 50.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/C6BE1AD8512A96643E21683689F790DBE4881405.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A few more steps",
+      "trophyDetail": "Reach Player Level 75.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/56B632D77A580298A4E240F4E3B40F32D2FFDCF5.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maxed Out",
+      "trophyDetail": "Reach Player Level 100.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/2AF99DB4FAD170A2FABC98E13E954048F1A1D53C.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "As you wish",
+      "trophyDetail": "Complete the Kissing side mode on The Princess Bride Pinball table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/3E6E47D4CAB6606773C3153D6E654FC35773C636.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Destroy the Dam",
+      "trophyDetail": "Perform a Super Skill Shot on the Goat Simulator Pinball table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/24E2F2E31A04604DD70FC01C3B0450479FF81AFE.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Face your fears",
+      "trophyDetail": "Complete a main mode on Camp Bloodbrook.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/FFBFDAE970171809B049068F89420ED87E632B63.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of the Hill",
+      "trophyDetail": "Defeat all riders and get Rank#1 in the motocross race on Banzai Run™.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/EEE88AB7FCD196DC98613E3A2AA5932E92E1EC0C.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I am the Black Knight!",
+      "trophyDetail": "Spell BLACK and shoot the Skyway on the Black Knight™ 2000 pinball table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/A7A0F21658041237710684FC1690124A10A7E9D7.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earthshaker!",
+      "trophyDetail": "Complete the zones and start the multiball on the Earthshaker!™ table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/B1015466A62B8C699B9B1BBAAEC97AD0653F57B5.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Survivor, Legend, Icon",
+      "trophyDetail": "Complete Survivor mode on Tomb Raider Pinball: Adventures of Lara Croft.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/2389A17A70124064E3D7F9506BD9EE4F30BE813E.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hidden Precision",
+      "trophyDetail": "Score a secret skill shot on Tomb Raider Pinball: Secrets of Croft Manor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/8F57946F50414E18E68A0D21F1DDF9CDC56202EA.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tip-Top Driver",
+      "trophyDetail": "Complete CAB and raise the Jackpot at least 3 times on the Taxi™ table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/6833250E62B7D4391CFE2DD5917ECB87011F1B69.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mastermind",
+      "trophyDetail": "Solve every case in a single game on the WHO dunnit™ table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/CC2F332133CC082D2A0B092F36D68BF2830156A5.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Now I see you!",
+      "trophyDetail": "Lock balls and start Multiball 3 times on the PIN·BOT™ table in a single game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/1B8A6466D802BBD079C585AC3AA7A21F868E59C0.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Party Monster",
+      "trophyDetail": "Score a Jackpot during Multi-Ball on the Williams™ Pinball: Elvira and the Party Monsters table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/34A8FB1E72CFA27D18861B10E0AB52E9EDA053C9.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Six Screams Under",
+      "trophyDetail": "Start all six Tales of Terror in a single game on the Williams™ Pinball: Scared Stiff table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/929F91CB42AFC122941E08FABDD39605A1676E0E.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dragonslayer",
+      "trophyDetail": "Defeat a dragon on The Elder Scrolls V: Skyrim™ Pinball table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/3E69DDFC3CEA56A288E940CB48143E54C9FBD6D6.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Gun",
+      "trophyDetail": "Blast away your enemies with the BFG on DOOM™ Pinball.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/2EBF2C8979CF4562558B98C171976B2F578CAB98.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Wanderer",
+      "trophyDetail": "Reach level five on the Fallout™ Pinball table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/BFB59222083542EBF0EB57ADE1D777B65B852000.PNG",
+      "trophyGroupId": "005"
+    }
+  ],
+  "totalItemCount": 46
+}

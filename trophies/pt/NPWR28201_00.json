@@ -1,0 +1,519 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR28201_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Stray Blade",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/dcb94609-1cf3-4cec-a61e-aa5df97d0963.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 38,
+    "silver": 10,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Stray Blade",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/dcb94609-1cf3-4cec-a61e-aa5df97d0963.png",
+      "definedTrophies": {
+        "bronze": 35,
+        "silver": 8,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Valley of Stray",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/7b17145a-c0eb-4bdc-8bad-a5dca24bc328.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Closure",
+      "trophyDetail": "Obtain all other trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/dcb94609-1cf3-4cec-a61e-aa5df97d0963.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Espelho, espelho meu",
+      "trophyDetail": "Ative todos os três Espelhos de Ingla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/958c49be-0650-458a-8354-08c0177ab4f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Honorável",
+      "trophyDetail": "Aumente a habilidade de Boji até 100%",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/d117053a-8ee2-4764-9154-c0d275efe4d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Experiente",
+      "trophyDetail": "Fabrique 15 armas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/a4f4baab-286a-4a39-b0ba-2f203924fbd8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Estilo antes dos números",
+      "trophyDetail": "Fabrique todas as peças de armadura",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/bfa1cfd0-2ee1-41b6-9e76-1c465ba84f89.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Especialista em armas",
+      "trophyDetail": "Fabrique todas as armas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/e3bfab12-320f-4ee9-91da-46d23219a532.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Entusiasta",
+      "trophyDetail": "Fabrique a sua primeira arma",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/dc959e19-590a-443f-9873-34966f335aaa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Derrote Ingla",
+      "trophyDetail": "Derrote Ingla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/076eb38d-2345-40f0-b28f-01ae1b67837d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Derrote Tezuth",
+      "trophyDetail": "Derrote Tezuth",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/c0b112c0-3ef0-48b7-92e7-ef38889e5f53.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Derrote Uskol",
+      "trophyDetail": "Derrote Uskol",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/99f52ebd-ce49-423c-8ce2-39150b3dff9e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Levando pistolas para uma luta de espadas",
+      "trophyDetail": "Derrote 5 ou mais inimigos somente com os punhos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/93cc3ab6-da19-46e3-987a-80d137a8542c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Autodefesa",
+      "trophyDetail": "Mate o primeiro inimigo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/94e2ea87-5da8-4026-8dcb-1dcc339de926.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frio congelante",
+      "trophyDetail": "Entre nos Picos Domados pela primeira vez",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/335ef13b-1330-4971-8d83-53697f3dd52c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Calor escaldante",
+      "trophyDetail": "Entre no Deserto Escaldante pela primeira vez",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/66e0be76-4fed-4d2a-949e-969c2173be12.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perigos não revelados",
+      "trophyDetail": "Entre no Pináculo pela primeira vez",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/47092235-5425-4848-a6fe-c622fb1c929e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Travada e carregada",
+      "trophyDetail": "Equipe três runas numa arma de uma só vez",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/dfe95b60-465f-4118-baeb-edf0f0cfaefd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Amante de explorações",
+      "trophyDetail": "Conclua 100% da Convergência",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/c5891ef1-cf42-4d5d-86aa-a1a1a938c3dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Amante das montanhas",
+      "trophyDetail": "Conclua 100% dos Picos Domados",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/98e69775-f88a-4cca-8d64-1176ee2da6c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Especialista em deserto",
+      "trophyDetail": "Conclua 100% do Deserto Escaldante",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/6ddb65c6-e0cc-4e6b-9642-f970eb9c4a8d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Especialista em florestas",
+      "trophyDetail": "Conclua 100% de Selveterna",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/57a15cac-5a9d-4f87-bb00-40fc3be12cac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Modista",
+      "trophyDetail": "Ache todas as cores",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/cdc02cea-3ed1-4e67-ab3d-08becb36eeee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Antigos poderes",
+      "trophyDetail": "Ache todos os diagramas de arma elessina",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/5918dbe8-5e56-42eb-959f-f86bed394cd7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conhecimento é tudo",
+      "trophyDetail": "Ache todas as lembranças de Erray",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/0eb8a159-5236-45c4-82ad-0df4b0b300a2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Especialista em plantas",
+      "trophyDetail": "Descubra todos os tipos de plantas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/5754047b-c304-41d9-af16-a917a77412e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Especialista em magia",
+      "trophyDetail": "Ache todas as runas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/4b805213-f19c-41ec-a78d-f8a12fb8d5f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nada mais que a verdade",
+      "trophyDetail": "Ache todos os legados ácreos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/674e663b-358f-4688-afaf-1fbe82a02d6d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rato de biblioteca",
+      "trophyDetail": "Ache todas as mensagens de história",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/83619a0c-ca1a-4b5e-86c2-031b62fe7e6c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vanguardista",
+      "trophyDetail": "Ache todos os mapas dos Picos Domados",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/7c14a6e2-2167-451c-8bcf-052cdc8e42ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nômade",
+      "trophyDetail": "Ache todos os mapas do Deserto Escaldante",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/927e5255-a9c6-4b6f-b29a-dfb65e97c570.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alpinista",
+      "trophyDetail": "Ache todos os mapas de Selveterna",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/4ba33879-4551-4817-aab5-f5b072c162e7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Viajante do mundo",
+      "trophyDetail": "Ache todos os fungos de Fluxo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/5babf48b-35ad-47e1-ba76-34a92a45658d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Finalmente!",
+      "trophyDetail": "Ache a bateria do Fluxo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/d8531e15-4556-4026-8172-60ebf01dec25.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boas-vindas ao clube",
+      "trophyDetail": "Ache e pegue a clava de madeira",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/b6d70039-efcd-449e-bf88-97d647d51762.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "O fim",
+      "trophyDetail": "Vá para os créditos finais",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/270f27b8-8826-4e14-b600-ca552a38f611.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Não chore, lobo",
+      "trophyDetail": "Conheça Boji, o primeiro aprendiz do grande sábio",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/79b5e0eb-324a-4c56-a600-3512f34a7753.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Um novo mundo à frente",
+      "trophyDetail": "Abra o portal do templo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/4011d854-e81e-4b86-a7fb-efc31795157a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Intocável",
+      "trophyDetail": "Faça 50 aparos com sucesso",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/9b30b115-5a6b-42e3-8832-e2969121f686.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "O time titular",
+      "trophyDetail": "Reúna-se com Boji após escaparem juntos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/6402fa38-55c9-4404-8787-6204cd3f361e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mas e os ácreos?",
+      "trophyDetail": "Saiba a verdade sobre os ácreos e o que aconteceu com eles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/8c793278-ea06-4afc-92da-309258b13de9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Um presente decepcionante",
+      "trophyDetail": "Descubra a verdade por trás das Forjas Arcanas dos elessinos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/70b0b46c-6a3d-4218-ae50-98cfa1aa1901.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Revelando a verdade",
+      "trophyDetail": "Quebre a Ilusão da Miragem de Ingla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/f280fcd1-d778-4e8d-b4dc-b844e9bc786f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aprendiz",
+      "trophyDetail": "10% de progresso da árvore de habilidades",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/e2f1ae67-c083-4222-b5b8-9ccf318caa9c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Mestre de todos os domínios",
+      "trophyDetail": "100% de progresso da árvore de habilidades",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/c2d51354-18b9-4473-b1d7-988d36b0634e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Especialista",
+      "trophyDetail": "50% de progresso da árvore de habilidades",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/267f3749-8994-4b32-a4aa-ae7e9585f59d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clarão dourado",
+      "trophyDetail": "Receba a habilidade do íntio",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/858706b4-5bcd-44aa-98bd-0d39cfb3c3e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "O poder das montanhas",
+      "trophyDetail": "Receba a habilidade da maninita",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/edb2bb96-c716-455b-8110-a562515b0777.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mudando o mundo",
+      "trophyDetail": "Receba a habilidade do xínon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/353ea595-8dfd-40ee-a883-40375026285c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mente sobre Matéria",
+      "trophyDetail": "Derrote o Cientista",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/7b17145a-c0eb-4bdc-8bad-a5dca24bc328.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Venha preparado",
+      "trophyDetail": "Colete todas as três partes da armadura",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/ec07e95b-208a-4007-a605-b405c9db17cd.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Tudo no devido lugar",
+      "trophyDetail": "Complete 100% do conteúdo para baixar",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/daa29df5-17c1-476e-a0be-8b3311651f5f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sussurros da Areia",
+      "trophyDetail": "Encontre todas as mensagens de história do Sindicato das Cinzas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/41174b05-edc7-466c-b104-b73e434290d4.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Achados e Perdidos",
+      "trophyDetail": "Recupere todas as armas perdidas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/a7e95dd3-7eee-408c-8ce8-a4406e3331fd.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pequeno Contratempo",
+      "trophyDetail": "Seja derrotador pelo Cientista",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR28201_00/24d28a9c-bfe0-43a3-9b0e-caada169eb8b.png",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 53
+}

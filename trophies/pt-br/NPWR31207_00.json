@@ -1,0 +1,593 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR31207_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "DREDGE",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/6da93114-ff4c-4a32-b4cf-95f653613ea0.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 42,
+    "silver": 13,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "DREDGE",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/6da93114-ff4c-4a32-b4cf-95f653613ea0.png",
+      "definedTrophies": {
+        "bronze": 27,
+        "silver": 8,
+        "gold": 4,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "The Pale Reach",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/6352b1cd-0832-4936-a6bc-028ff2586e85.png",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "The Iron Rig",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/498ec475-20f6-4042-89e8-ddd8cf9d6f9d.png",
+      "definedTrophies": {
+        "bronze": 11,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Das Profundezas",
+      "trophyDetail": "Obtenha todos os outros troféus.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/ad99fb33-8aeb-4fa5-974c-bad369258eb3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apresentações",
+      "trophyDetail": "Conclua a missão de introdução.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/90ca7bfe-c9a5-4bcb-9dc4-90e33a19edff.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Mestre Pescador",
+      "trophyDetail": "Pesque todas as espécies conhecidas de peixe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/1ae0260d-0728-4eb2-8ab3-8a75b2a16448.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Chave",
+      "trophyDetail": "Entregue a Chave.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/0e5f67df-5fd4-45b4-b25e-9a67741ea6fc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "O Segredo",
+      "trophyDetail": "Ceda a Caixa de Música.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/52898066-6398-4f1b-9133-524ac6b86378.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "O Vínculo",
+      "trophyDetail": "Confie o Anel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/00f34524-6235-4c16-b838-e9b4dfdad42f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "As Correntes",
+      "trophyDetail": "Renuncie ao Colar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/77fe5da8-a56f-4516-bc56-a2d706fa5f6d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "O Momento",
+      "trophyDetail": "Desista do Relógio de Bolso.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/93409c4d-0294-4127-9908-27ea676e2bf7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Liberto",
+      "trophyDetail": "Encontre um uso para as relíquias.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/5b35a157-b30a-4d49-9b44-65f21997ea60.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Saciado",
+      "trophyDetail": "Jogue de volta.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/35ca9daf-5048-490b-908e-f7b1772e1309.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carregamento Perfeito",
+      "trophyDetail": "Tenha um carregamento lotado.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/94dbd1ab-6065-4f14-9640-ab0949b9b21c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Atraindo Anomalias",
+      "trophyDetail": "Pegue todas as anomalias.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/f22d557e-1697-402f-abb6-e9fb21201671.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Da Névoa",
+      "trophyDetail": "Ouça o eco de uma Sirene.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/08b9c59c-fa6a-480b-9cde-07c84f465a4f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Presa à Vista",
+      "trophyDetail": "Veja um peixe de cada categoria com sua Luneta.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/3567c0fe-16e1-4427-a687-4e741aa40447.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Resultados Mistos",
+      "trophyDetail": "Use a Isca Mista para atrair 3 espécies diferentes para um único lugar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/138eff16-6a67-4c3f-a402-d690555ca59a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Calor Cruel",
+      "trophyDetail": "Mantenha seu medidor de Aceleração acima de 50% por 10 segundos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/295485b0-9dd7-4ca6-8314-fb18d1013385.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Salto Dimensional",
+      "trophyDetail": "Viaje uma longa distância usando Aparição.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/3393a898-4b94-4576-9bee-91bd32812480.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Abolidor",
+      "trophyDetail": "Faça 10 ameaças desaparecerem por Banimento.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/2149407b-79f8-47fc-bd95-e2b00dbc42ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pesca Insustentável",
+      "trophyDetail": "Use Atrofia em uma zona de pesca muito longe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/d565323f-d942-48fb-9da2-4fb838d02cda.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Providência",
+      "trophyDetail": "Conclua todas as missões secundárias. De um jeito ou de outro.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/2c3ce858-cf0e-44ba-932c-a5d95eaf635c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Portos Seguros",
+      "trophyDetail": "Visite todas as docas no jogo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/849000c3-b187-4bd9-80e0-054efce33be1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Servo dos Santuários",
+      "trophyDetail": "Solucione todos os quebra-cabeças dos santuários de peixe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/47bcd489-4acc-4202-8966-c4239936d9cc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sentindo-se Preparado",
+      "trophyDetail": "Instale equipamento em cada lugar do seu barco.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/cacf44ba-717d-4935-9324-f3d664de757f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pesquisa: Varas",
+      "trophyDetail": "Pesquise todas as varas.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/dfc1a964-c169-49b5-beb5-bdf7bbe5a76d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pesquisa: Redes",
+      "trophyDetail": "Pesquise todas as redes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/2b68c171-0792-4c19-93d8-c161a7148f5b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pesquisa: Covos",
+      "trophyDetail": "Pesquise todos os covos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/dda197bb-4304-4903-96b7-a0a3991eca29.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pesquisa: Motores",
+      "trophyDetail": "Pesquise todos os motores.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/66ed436f-627b-478f-863a-322501b5282e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Regatado das Profundezas",
+      "trophyDetail": "Pegue 250 peixes usando varas.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/69e9b6fc-dbc9-4d5e-ae33-3dccb8511655.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Preso por estas Paredes",
+      "trophyDetail": "Pegue 100 caranguejos em covos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/0878229e-59b6-486a-b38c-f36620b67cf2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Preso nesta Rede",
+      "trophyDetail": "Pegue 150 peixes em redes de arrasto.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/79a2396f-3307-43cd-ac71-9fd8a916a11c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucro das Vidas",
+      "trophyDetail": "Venda um total de $2.500 em peixes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/1b70969f-2c21-4dd2-ad85-230138b4b720.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dinheiro por Ouro",
+      "trophyDetail": "Venda um total de $1.500 em artigos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/b9a51e15-bce6-4e0d-9b9b-b46eb26ee2ef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Colheita Descuidada",
+      "trophyDetail": "Esgote um total de 25 zonas de pesca.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/671227a0-fcfe-4835-991f-209b6a98161a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ceifador Rápido",
+      "trophyDetail": "Tenha uma velocidade de pesca combinada de 200%.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/663ed1b3-5d26-4098-a380-6bfd8555fd5a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sem Tempo a Perder",
+      "trophyDetail": "Tenha uma velocidade de motor combinada de 75 nós.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/cf73b8d8-025d-4dd9-8637-c12392fadb2e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ilumine a Noite",
+      "trophyDetail": "Tenha uma força de iluminação combinada de 3.000 lúmens.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/a5801d9f-375e-4e19-bc1f-dc5e970a1cd7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Casco: Aprimorado",
+      "trophyDetail": "Melhore o casco para a segunda categoria.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/5353dad0-f887-4407-8302-a3ba5a01d6e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Casco: Refinado",
+      "trophyDetail": "Melhore o casco para a terceira categoria.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/326c0f58-14e8-4c41-8dc6-c2d07331de0d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Casco: Avançado",
+      "trophyDetail": "Melhore o casco para a quarta categoria.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/a871b080-f691-4710-875a-cc9a172e6d60.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Indesejado",
+      "trophyDetail": "Discard 25 fish.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/18ed642a-e6d0-4414-a2ac-3cf017116a9c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pescador polar",
+      "trophyDetail": "Pesque todas as espécies de peixe conhecidas na Fronteira Nevada.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/c8f12274-cfee-41e6-a93b-bfd34521c47e.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Corrupções geladas",
+      "trophyDetail": "Pesque todas as espécies anômalas na Fronteira Nevada.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/16c233a2-f659-45d8-a66a-f4fc560f75a6.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hora do almoço",
+      "trophyDetail": "Alimente o Narval.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/4d5315ac-fe9d-4d39-a831-e411836ddf55.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sob o gelo",
+      "trophyDetail": "Conclua a missão principal na Fronteira Nevada.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/1c01f095-9ff0-4408-854e-b87d1bd80cd2.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Favores gelados",
+      "trophyDetail": "Conclua todas as missões secundárias na Fronteira Nevada.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/74f56bd5-68d4-4c6a-8578-fd6086e77d46.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quebra-gelo",
+      "trophyDetail": "Equipe o Quebra-gelo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/1f17f247-75ea-48bd-b1df-48044624a3e2.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Peixe fresco",
+      "trophyDetail": "Tenha 5 blocos de gelo na carga.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/1213f922-7b2d-4c73-b7b4-f5e9e6809a25.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Das profundezas sombrias",
+      "trophyDetail": "Pesque a Lula-colossal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/4237ad27-4e33-438c-a392-590899303b10.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pescador Ancião",
+      "trophyDetail": "Pesque todas as espécies de peixe conhecidas na Plataforma Férrea.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/d921ac59-6b96-4a23-a48a-3cddb6812ed9.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Divergências Primordiais",
+      "trophyDetail": "Pesque todas as espécies anômalas na Plataforma Férrea (excluindo exóticos).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/d5eaae9b-26ad-40ea-96bf-a733f55c8ee2.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Remessa Perdida",
+      "trophyDetail": "Entregue a remessa perdida na plataforma.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/e17aa94e-e3fa-41ca-aa32-f41df698393c.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Ruína Férrea",
+      "trophyDetail": "Desligue as defesas da plataforma.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/de6fd8d1-a93b-4369-bf42-ba74f3ca71c4.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arquiteto de Plataforma",
+      "trophyDetail": "Construa todos os níveis de todas as instalações da plataforma.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/782780a5-e7b7-4f9e-9c8d-eef3d830cf9c.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aparelho Corretivo",
+      "trophyDetail": "Equipe a Bomba de Sucção.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/aed58f4a-b797-48b8-aa95-4e76cb478d6b.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guardião Sombrio",
+      "trophyDetail": "Colete um total de 10 Recipientes Escuros.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/0aee7588-5b3f-4663-bc98-7ed5a7f7a519.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Casco: Industrial",
+      "trophyDetail": "Melhore o casco para a quinta categoria.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/2fcac139-2529-47b7-a3b8-08bd509f1291.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exemplar Exótico",
+      "trophyDetail": "Pegue qualquer anomalia exótica.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/78e47665-f055-4945-b4dc-679dd8eed63f.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Habilidades Aprimoradas",
+      "trophyDetail": "Melhore todas as 3 habilidades básicas.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/08198b9d-5ddc-4d6a-a20d-3c55e6479466.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Respingos das Sombras",
+      "trophyDetail": "Tenha 5 Respingos Sombrios no seu inventário.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/df045489-0b60-46c4-864e-ede3ffac229e.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "O Golias Reluzente",
+      "trophyDetail": "Fuja daquilo que espreita o sedimento perturbado.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31207_00/fb31d0d5-73b5-4ad0-993f-4ab158824648.png",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 60
+}

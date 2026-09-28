@@ -1,0 +1,819 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR33439_00",
+  "trophySetVersion": "01.10",
+  "trophyTitleName": "Atomic Heart",
+  "trophyTitleDetail": "Trophies for Atomic Heart",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/37003E3665C8A976D574DBF4ACE4D2AFC8DF3ACB.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 65,
+    "silver": 12,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Atomic Heart",
+      "trophyGroupDetail": "Trophies for Atomic Heart",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/37003E3665C8A976D574DBF4ACE4D2AFC8DF3ACB.PNG",
+      "definedTrophies": {
+        "bronze": 30,
+        "silver": 8,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Atomic Heart: Annihilation Instinct",
+      "trophyGroupDetail": "Atomic Heart: Annihilation Instinct",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/EFC7206F57C407265BBDDB4D37EE8460B8AEBCD6.PNG",
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Atomic Heart: Trapped in Limbo",
+      "trophyGroupDetail": "Atomic Heart: Trapped in Limbo",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/8D5FCA6289919AFDAFB6303E17DD10B9291FAE91.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Atomic Heart: Enchantment Under The Sea",
+      "trophyGroupDetail": "Atomic Heart: Enchantment Under The Sea",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/86E08E9CA45DBC7EE021BE69B48DB36A6F032607.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 0,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Atomic Heart: Blood on Crystal",
+      "trophyGroupDetail": "Atomic Heart: Blood on Crystal",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/BE52698DCF051A3773A478096A35E22B4DBAC2D7.PNG",
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Motherland Does Not Forget its Heroes",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/34C8C011C890C13BEB05D657A49C9B1787436476.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Strike",
+      "trophyDetail": "Kill Hedgie without making a single shot / destroy all statues",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/E4A3AD29F6CA42D96F54EA0D20768086642DD6D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Medium Rare",
+      "trophyDetail": "Kill Belyash",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/7C9563234F4003EA8E9ECE6EEB0EE797C8499842.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Make It Go Round",
+      "trophyDetail": "Kill Hedgie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/8DCF396487865F3D5F9BCB2C8D7430C9B6C3500C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Plyusch Rush",
+      "trophyDetail": "Kill Plyusch",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/4AECB46668BD9E7F91E89CF74C0552C49665F2CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Show's Over",
+      "trophyDetail": "Kill Natasha",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/E371C21BA008357F7865B572CD20C11A3EF99F1D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dew Point",
+      "trophyDetail": "Kill Dewdrop",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/B8A2332086A2E47AE25FAD3D3F7B529323C0E6EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Murderous Beauty",
+      "trophyDetail": "Kill Twins",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/D8B35DF7CFCF8FF9FD674304C2D8589CA8F0E0EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Chop Chop Chop",
+      "trophyDetail": "Kill Belyash with a melee weapon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/305B2047F6706189980FCFD57201F8D4C839508B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Happy Polymerization Day!",
+      "trophyDetail": "Fly out of Chelomey",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/B659D0C5626B848C4DBE3C30962CC7EC4BCDB528.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pistils and Stamens",
+      "trophyDetail": "Get out of Vavilov",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/2045011A661071956C9218445C436E689027DD7E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tickets, Please!",
+      "trophyDetail": "Take a train at the Lesnaya Maglev train station",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/35EA00E2348FA23347055D25F586DA8B788CF37B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quite an Achievement",
+      "trophyDetail": "Clear the VDNH complex",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/0B4851F8FEBA13EB9C4B9F1C090D911B404D3EEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Curtain",
+      "trophyDetail": "Finish a theater performance",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/87621D15A1D0C1E05DF9AE21D2F597049F9A6B4F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Medical Checkup",
+      "trophyDetail": "Get to a hospital",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/D68DD0CB860CE290EF594C895AA25DABC047D314.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Freedom Reflex",
+      "trophyDetail": "Explore Pavlov",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/4863E021A718DC711C0B6687152A35C572BB367A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kommunism 2.0",
+      "trophyDetail": "Find out the AoC's secret",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/A1E34196B0BA26F7F843806A168110E8B0A290EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Atomic Heart",
+      "trophyDetail": "Complete the game on Armageddon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/E43892A43486ABB0CEA58648C001CFA58A61CA64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Artisan",
+      "trophyDetail": "Create a weapon in a crafting machine",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/4808627D12AF2BE3B06E69841844B941197D4614.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weapon Master",
+      "trophyDetail": "Create five types of weapons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/E2CBD20F905313B6ABF1D363E844644F3188AD77.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lord of War",
+      "trophyDetail": "Collect all weapons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/32467DA89118A5D98F78191922FF7D48B5DCB6D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chemist",
+      "trophyDetail": "Craft consumables of all types",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/6464F3CC3737268F6EB264C8F9A974051290EE06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Polymerization",
+      "trophyDetail": "Collect 100 jelly",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/09279CD6FAE623CD36E62A09656B5DA9F8B0E559.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apple Pie",
+      "trophyDetail": "Pick all apples in Limbo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/1DF8A9339EBFDBF5FF99BA3296DDCCF57583BC23.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Great Inventor",
+      "trophyDetail": "Upgrade a weapon to the maximum level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/FC8087C0A3E18D76DCD12E981F6298710118DED3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lefthand Mastery",
+      "trophyDetail": "Fully upgrade one skill tree",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/4A34F33330FA7115092D08EBCD72EFF72821C858.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "How Can I Help You?",
+      "trophyDetail": "Use a phone booth at Chelomey",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/74D82C0273399CE67756ED9B86E73B7210F69677.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Beast Friend",
+      "trophyDetail": "Find all talking dead animals",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/4FA3D470549371011FA175FD0C6FCE0E14A164E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Necromancer",
+      "trophyDetail": "Talk to every dead",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/0A85F52EC62EBB9FCC5A9A73952933BB4D59C8AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Burning Ears",
+      "trophyDetail": "Find all Chirpers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/4872111E19E71C96A63DA88EE150FD33AC95440C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "More Than Profit",
+      "trophyDetail": "Find all Lootyagins",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/FE6CACF860A6E4095D7759A2989CE46838C6C0A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explorer",
+      "trophyDetail": "Find all the testing grounds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/1FFB8080EB9D16BEC1242954D053B2FBE419B9A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Clean-up",
+      "trophyDetail": "Complete all testing grounds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/4F609AA7BB9AE46D7E44BAA5B12E9E5181063A16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scanner",
+      "trophyDetail": "Scan all mobs",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/DA9F809F13D0ACC55D59333FB0FDF25A15A7A86C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avatar",
+      "trophyDetail": "Kill 10 burning enemies, 10 electrified enemies, and 10 frozen enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/218B1B0A895E283F3487283B3DB65F48B8699003.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hothead",
+      "trophyDetail": "Get 25 kills with headshots using the PM",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/8055877756B0AA8506E23E0032A815E695296E11.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Below Zero",
+      "trophyDetail": "Freeze a Vova mid-air",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/9CD5C1A4B191F7E58080B550FBE03DDEF5EDBFDF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Assimilation Procedure Interrupted",
+      "trophyDetail": "Don't let a sprout grow into a mutant",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/1815FB2BC8EF44169812672E8021DF13859E0267.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bull's Eye!",
+      "trophyDetail": "Use Telekinesis to throw an object and knock down an Owl",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/ADC4E2D6D3368CF950AEE3240C2F2E692D5B690A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alcoholics Anonymous",
+      "trophyDetail": "Get drunk with vodka and kill 5 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/05DB078599B41B1B13BB45268DDADE561510BF27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Triple Penetration",
+      "trophyDetail": "Kill 3 or more enemies with a single Railgun shot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/308CF3C3955E01AB76BB4D96DA577B811CFE597E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hands on the Hood",
+      "trophyDetail": "Hit 20 enemies by a car",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/5861BCDDC1F8EDF8706A6DF8811F91727FDE918C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weird Science",
+      "trophyDetail": "Get into the ORB lab",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/09C972B8CF847A89EFDB86235027A13851135CBF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lord of the Flies",
+      "trophyDetail": "Use a Strekoza for the first time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/FF1F5793A8DDCA436948E51481078748A3791CB1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Girl's Best Friend",
+      "trophyDetail": "Send all BEA-Ds to NORA's brain",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/E9FC739CB28FB01CB8718B0AA8299C014E17B301.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Return to Utopia",
+      "trophyDetail": "Complete the Annihilation Instinct DLC",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/6D8935E7D6DBA12487E4A9E62929473C886224CC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Divide et Impera",
+      "trophyDetail": "Separate several combined BEA-Ds with one shot from the Secateur",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/DC61BA029043B0109D4CD2EE3B8CA9EF21C7E8EE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Time in a Bottle",
+      "trophyDetail": "Kill 3 enemies while using technostasis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/727658D51F1C42F9509396B8547321BD58F062E7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "John Silver's Crew",
+      "trophyDetail": "Kill 3 M4D-5 robots in a row while they're hopping on one foot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/FE00D8F48B551CF7032CF14D24E8C1CC408C24C4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultimate Storm",
+      "trophyDetail": "Destroy 15 enemies using the neuropolymeric launch module",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/43F3A2ADDFD6E157BBD0F0641F7C5413D5D6FAA0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maximum Strength",
+      "trophyDetail": "Upgrade the Klusha and Secateur to max",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/4FD48A1162371D54BC1AE53FAB60009E0E506F79.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Apple Pie 3826",
+      "trophyDetail": "Collect 3,826 apples in the Trapped in Limbo DLC",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/ADAD6E0FB035C21679E32BEBFE04E4DA82FCF76E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conservationist",
+      "trophyDetail": "Get a gold coin without shooting the Pchela",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/78912C193B35285EFBCBC8FDDBFFE50B0F0EE74B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Casino Isn't Always in the Black",
+      "trophyDetail": "Get ALL items from the slot machine",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/E8FDFA9345FC84BF52A9CB2EDEF5EFE544AFBB23.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slashing Through the Limbo Waves",
+      "trophyDetail": "Complete the Plateau of Responsibility without dying",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/5DFEE255EF2EBAA7300157F46CCB7D64C77CAB06.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conqueror of Annapurna",
+      "trophyDetail": "Complete the Tower of Memory without dying",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/08AAE69FA70C44BE92557268392A11928BC5C74A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conqueror of Chomolungma",
+      "trophyDetail": "Complete the Cliff of Perseverance without dying",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/D5FEFE828FD2B5B71F3B82A363B64080DEA39095.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Daring as a Bullet is Sharp",
+      "trophyDetail": "Complete the Avenue of Speed without dying",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/04ED664D3D0EF41D3250DE89FEE9DC8B089282C7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Don't Mess With the Major",
+      "trophyDetail": "Complete the Trapped in Limbo DLC without dying",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/08C0449BEE1C050278B6DEA47152E3DB46770125.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gold Rush",
+      "trophyDetail": "Collect 76 gold coins",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/0AA0B3B46C5761724F425ECB900E422B99459641.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Overkill",
+      "trophyDetail": "Get extra 77th coin",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/C6CE6B32107042B35F2794E613EF4545FBD5FD16.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moby Dick",
+      "trophyDetail": "Hear the beautiful song while taking in the fantastic view",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/10C2B50FC09C2034F1EEF91163151AF686D4C102.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Survival",
+      "trophyDetail": "Find all the Hunter's stashes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/F0795333C598C35A2DDF367E3405A9483C79AB45.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demonstration of Violence",
+      "trophyDetail": "Destroy the Robogirl at Chelomey",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/2A7978AA3FE4FAB400DEDA699456C5F4D78F5C5E.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "And now—CHAR-les",
+      "trophyDetail": "Complete the story DLC",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/20D71E4F53F553E596F3EE68B359CD6526EBE78A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Water Sports",
+      "trophyDetail": "Toss the ball back and forth with the dolphin three times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/7ABE8D2F28FCD28BB71165ED09D4A7473F34A23A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You've Read the Manual!",
+      "trophyDetail": "Pull yourself close to your enemy with the Whip",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/DE480CDC93CAB23B1FB92E4ABD7873E4C0DEA4B2.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I'm here if you need to talk",
+      "trophyDetail": "Talk to Terentiy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/67214AF68B4B1E35D030817C107C898BE9068E59.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hic Sunt Dracones",
+      "trophyDetail": "Swim beyond the underwater world's borders, ignoring warnings",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/F3C517A282DC3D8FFB701E5093ABE871B0AF49B7.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marco... Polo!",
+      "trophyDetail": "Fall in the water at Wave and get killed by Morays",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/79DEFF4B7CD9E42277D1B7D062D20A09ABA4FC05.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Final Burn-down",
+      "trophyDetail": "Destroy all of the infected plants on the submarine",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/A800736E26C7E7E53D30FB1B7C41B7555AE3CCE5.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let's Shake on It!",
+      "trophyDetail": "Exterminate the RACCOON boss",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/913BDE99838CED538626AB92AD41FF9D01615C1C.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Validol's Our Bro",
+      "trophyDetail": "Complete Validol's mission peacefully",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/AD1035BF75E89066169CD728A6C607A9F752627A.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fluffy Easter Egg",
+      "trophyDetail": "Find the secret room with the fluffball",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/06A0ECAFA327BE8F0AABE8172F85BC2F9CD09A78.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Better Late Than Never",
+      "trophyDetail": "Find the dolphin figurine in the secret room",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/DB60E75913F376267C7B9B1A5F8602DDB2990298.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secret Meeting",
+      "trophyDetail": "Open the secret room with observers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/B3657BDDAC8F8C4283E4EFD33D2BF7AB6433F13F.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Terminator's Death",
+      "trophyDetail": "Use an industrial press to destroy robots",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/9CABB1024F968000BC3625BA60E6F874B6E2EAF8.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clean in Two",
+      "trophyDetail": "Defeat the Second Twin",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/A7EC0A2D771E289CF0263E8AF213B15ADC94B1BD.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "For Chief's a Jolly Good Fellow",
+      "trophyDetail": "Save Sechenov",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/EF72C59D8BF5356F15DAE4E1CA0C5BF1D0E5A290.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Farewell, Old Friend",
+      "trophyDetail": "Beat CHAR-les",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/E418ADC781293BDE66A3F1257384D434F3224D23.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "This Is the End",
+      "trophyDetail": "Complete the story DLC",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/3CE0C1450D8E684612F2746820CBFD20B58629A2.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crystal Platinum",
+      "trophyDetail": "Collect all the figurines hidden in the complex in one run",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33439_00_0050BF9478AE0C46EC705438809468930E41D859F8/7809E7231618D3A245E2F78697EB411320332EB7.PNG",
+      "trophyGroupId": "004"
+    }
+  ],
+  "totalItemCount": 82
+}

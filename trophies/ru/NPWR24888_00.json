@@ -1,13 +1,13 @@
 {
   "npServiceName": "trophy",
   "npCommunicationId": "NPWR24888_00",
-  "trophySetVersion": "01.00",
+  "trophySetVersion": "01.01",
   "trophyTitleName": "QUAKE",
   "trophyTitleDetail": "QUAKE",
   "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24888_00_00BEBD91958AEB766ACB7FE91793E5AD93F68D5305/83E350DFF220AED6C0452B46212C6E3044DF41B5.PNG",
   "trophyTitlePlatform": "PS4",
   "definedTrophies": {
-    "bronze": 22,
+    "bronze": 25,
     "silver": 8,
     "gold": 5,
     "platinum": 1
@@ -24,9 +24,21 @@
         "gold": 5,
         "platinum": 1
       }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Dawn of the Machine",
+      "trophyGroupDetail": "Dawn of the Machine",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24888_00_00BEBD91958AEB766ACB7FE91793E5AD93F68D5305/6E37F3861937AD9474B02B7F42E5ED49440C7E4A.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
     }
   ],
-  "hasTrophyGroups": false,
+  "hasTrophyGroups": true,
   "trophies": [
     {
       "trophyId": 0,
@@ -351,7 +363,34 @@
       "trophyDetail": "Завершите эпизод «Измерение механизмов» в одиночном режиме на уровне сложности «Кошмар».",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24888_00_00BEBD91958AEB766ACB7FE91793E5AD93F68D5305/F1DB47BA604E5B750C60B4E1A71D6EF132B2379A.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сквозь иллюзии",
+      "trophyDetail": "Завершите эпизод Dawn of the Machine в одиночном режиме.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24888_00_00BEBD91958AEB766ACB7FE91793E5AD93F68D5305/A5BD21E6217C2FA552D0ED02669C5697DACC01A0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Кошмарная истина",
+      "trophyDetail": "Завершите эпизод Dawn of the Machine в одиночном режиме на уровне сложности «Кошмар».",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24888_00_00BEBD91958AEB766ACB7FE91793E5AD93F68D5305/9FA49E83DCE985E7BC217106626BE6467CB3217E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Кровавый кошмар",
+      "trophyDetail": "Найдите голову рыцаря смерти.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24888_00_00BEBD91958AEB766ACB7FE91793E5AD93F68D5305/6CF20BC407F78692BC39B8CD842B7050C1D9F444.PNG",
+      "trophyGroupId": "001"
     }
   ],
-  "totalItemCount": 36
+  "totalItemCount": 39
 }

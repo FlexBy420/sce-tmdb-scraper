@@ -1,13 +1,13 @@
 {
   "npServiceName": "trophy",
   "npCommunicationId": "NPWR20889_00",
-  "trophySetVersion": "01.13",
+  "trophySetVersion": "01.14",
   "trophyTitleName": "Clone Drone in the Danger Zone",
   "trophyTitleDetail": "Clone Drone in the Danger Zone",
   "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/47F87C688319FCEB987554988D387E8F60BE631A.PNG",
   "trophyTitlePlatform": "PS4",
   "definedTrophies": {
-    "bronze": 53,
+    "bronze": 59,
     "silver": 7,
     "gold": 1,
     "platinum": 1
@@ -80,6 +80,18 @@
       "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/94CBF805A9EBD5A4996B2598E785B882CD71DBBF.PNG",
       "definedTrophies": {
         "bronze": 2,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "006",
+      "trophyGroupName": "Team Battle",
+      "trophyGroupDetail": "Two teams enter. One explodes!",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/BCE0D305B6DFA192FAEA9B3E243D4B2144EDEADF.PNG",
+      "definedTrophies": {
+        "bronze": 6,
         "silver": 0,
         "gold": 0,
         "platinum": 0
@@ -645,7 +657,61 @@
       "trophyDetail": "Defeat the Co-op Ride or Die Challenge!",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/997A851F52EFDDFB2AED1745EBD903B4F6393410.PNG",
       "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Analyze This!",
+      "trophyDetail": "Win 10 team battle games on analysis-bot's team!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/F752F962A0AF1F1D1AB0F2B1AF25B6D7CA026980.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Team Commentatron!",
+      "trophyDetail": "Win 10 team battle games on commentatron's team!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/4F473DABF4F68DA3C5803DB1AEC2566371AEC947.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Upgrade With Friends",
+      "trophyDetail": "Upgrade with a team mate in Team Battles!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/89F58B9B9EA7A377FE6974DE6CA8F3568F0CFC55.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hill Killer",
+      "trophyDetail": "Take over the hill by killing the last defender in Team Battles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/68C7D1909A557A8F47D3E7C7AFCD944471483232.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Get Outta Here",
+      "trophyDetail": "Kick someone off the hill in Team Battles!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/7F0D9E40C4108E3F6371B797E3A76B2B25430DE0.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Care to Dance.exe?",
+      "trophyDetail": "Dance with another human!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/E744DB457F2B940664612D5682D67620F17D57A5.PNG",
+      "trophyGroupId": "006"
     }
   ],
-  "totalItemCount": 62
+  "totalItemCount": 68
 }

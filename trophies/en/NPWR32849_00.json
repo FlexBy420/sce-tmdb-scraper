@@ -1,0 +1,442 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR32849_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "RoadCraft",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/1c5afea9-7e93-4b72-95cd-7b89dc2a97a3.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 24,
+    "silver": 17,
+    "gold": 2,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "RoadCraft",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/1c5afea9-7e93-4b72-95cd-7b89dc2a97a3.png",
+      "definedTrophies": {
+        "bronze": 24,
+        "silver": 17,
+        "gold": 2,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Witness me",
+      "trophyDetail": "Complete all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/3501a4f3-2200-492d-b743-e42cf146eb2e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shore Thing",
+      "trophyDetail": "Reinforce the endangered shoreline",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/39f23eea-a782-4b6a-9edc-47d513e16e3d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "When The Levee Breaks",
+      "trophyDetail": "Reconnect the town to the power plant",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/dc5b6df8-4344-49ff-8fe6-47918ee17629.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Please Hold",
+      "trophyDetail": "Restore region communications",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/03ddad5d-068a-4810-829c-4fdeb3ab0d48.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "All Mine",
+      "trophyDetail": "Recover all mining equipment",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/70904f93-878d-4410-94ca-8cb74e8beec2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Rectify",
+      "trophyDetail": "Repair the region infrastructure and the dam",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/1a224bbf-0191-47c8-bb1f-e536b712a8fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Well Oiled",
+      "trophyDetail": "Rehabilitate the region gas industry and logistics",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/5d75f82a-c916-4d24-90a8-4bf28b2d16a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Praise The Sun",
+      "trophyDetail": "Relaunch region electricity production and research facility",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/6e46fe38-ef83-4d14-b3d2-b7d8f381e242.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Ground Zero",
+      "trophyDetail": "Investigate the geothermal plant failure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/2f728326-b63d-42bf-942d-146624a346b1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "It Flows",
+      "trophyDetail": "Pour 500 tons of sand",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/0fc5c266-52b3-4507-82e5-49285614427b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Growing Up",
+      "trophyDetail": "Find and sell all Toy vehicles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/01e5fed0-a2c3-47a5-8c02-31807666c632.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Paving The Way",
+      "trophyDetail": "Build your first asphalt road",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/6bb7eb4e-e288-4683-83d2-3cd0a0cd1cb8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Patchwork",
+      "trophyDetail": "Pave 1000 m2 of asphalt",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/d2154fdd-9248-4079-81cf-ca286db09bf0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Know The Pieces Fit",
+      "trophyDetail": "Have 250 vehicles successfully travel along the routes you've plotted",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/d8cb88d3-233c-45e9-8ec5-f6c54f2fb058.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "250"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Woven Web",
+      "trophyDetail": "Have 750 vehicles successfully travel along the routes you've plotted",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/3c837d13-63d7-423a-aff7-e02e377844f6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "750"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Extra Mile",
+      "trophyDetail": "Complete all Side Objectives (base game)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/4eb1b201-24d2-482d-9875-a4e9e7f76e7c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Business Time",
+      "trophyDetail": "Purchase 25 Resources from Construction Depots",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/209d0745-cf35-47c9-84a3-bf511f803cc0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In This Economy...",
+      "trophyDetail": "Sell 50 Resources to Construction Depots",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/635b5b00-20a7-4dab-9cdf-c61fc3c66312.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dam Son",
+      "trophyDetail": "Help a strange guy build his own dam on Deluge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/eb46a3ff-79c4-412d-96b3-464d7940fda0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Jamais Vu",
+      "trophyDetail": "Find a future reference on Deluge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/8a151c5d-ea6c-4c98-8adf-24bb0227440a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Not In Vain",
+      "trophyDetail": "Revisit the facilities you worked with on Aftermath",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/e58246d4-4209-45f2-9179-528fa228edfd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Open for business",
+      "trophyDetail": "Restore the Construction Depot on Incommunicado",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/0c613944-d737-46ba-a287-450cf736f499.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Choo Choo",
+      "trophyDetail": "Plot a route for vehicles across the railway bridge on Sunken and have them successfully cross it",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/3c405c45-be54-4486-b7a4-164d48017cce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Digging for treasure",
+      "trophyDetail": "Fully drain all rewards from the route to the castle on Sunken",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/25437b0b-0515-488a-aba5-d4426ac2b411.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "01001110 01101001 01100011 01100101",
+      "trophyDetail": "Visit the Sabertooth island on Sunken",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/12de4557-d4e2-4394-a657-98086c787eac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Running late",
+      "trophyDetail": "Perform an insane jump in jungle area on Sojourn",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/ae1bcc4e-d334-423c-a558-f4637f655032.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Juicin'",
+      "trophyDetail": "Ruin the orange harvest on Sojourn",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/78b6a529-ebaf-49af-a3ce-4bfc61786448.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Well then...",
+      "trophyDetail": "Find a well with unusual properties on Sojourn",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/5facbf32-89c9-4039-a2ec-785186ee815f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Lost Olympus",
+      "trophyDetail": "You wanna rock?!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/55fd8057-a2e9-403f-b2cb-d99dfbc4c610.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Serious business",
+      "trophyDetail": "Do you hear a distant screaming?",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/698b4c08-c2c1-4940-ac92-5823ebb0e2ee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Wilhelm scream",
+      "trophyDetail": "That sure was a leap",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/ca4d1702-ce49-426f-b9e4-61fe1bac99d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mood",
+      "trophyDetail": "Ruin a beautiful thing on Kernel (you monster)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/9817f7bf-4d27-4f3c-948a-f5d723a92441.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Spinner",
+      "trophyDetail": "Construct 30 bridges",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/fe9822d3-8b1c-4df6-b466-5b53f4d948b4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Slow Learner",
+      "trophyDetail": "Flood your engine 10 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/1d8131d3-34da-4545-969b-5aaf5f96d0dd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Time to think",
+      "trophyDetail": "Freefall 15m in a single leap",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/05ed6be8-30dd-4029-8772-15865ce8ecb2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Caught sipping",
+      "trophyDetail": "Feel the need to refuel?",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/6678824c-7cc7-4cc4-ab6c-ecdcca6c470a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Easy rider",
+      "trophyDetail": "Travel 100 km",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/ffefc7d4-7fa4-4392-af7e-4e0cc7e13222.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "To Boldly Go",
+      "trophyDetail": "Travel 5,000 km",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/04faa7c8-bc9d-4ae8-b8d4-391ef3fc38a3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5000"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hand-me-down",
+      "trophyDetail": "Receive your first Rusty vehicle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/5caa4bce-8517-487c-b28e-aba888f834e1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Baller on a budget",
+      "trophyDetail": "Receive all Rusty vehicles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/b616867b-04e2-4838-806a-0c5ff4a55042.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Yep, these are geysers",
+      "trophyDetail": "Thoroughly make sure all geysers are indeed geysers on Kernel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/cc660a9d-62d1-4337-9c47-531131fc0895.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "And Let The Whole World Wait",
+      "trophyDetail": "Visit all rest spots on Deluge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/81c90fde-0fc2-44e0-9982-23504bd6972f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "S.O.S.",
+      "trophyDetail": "Find all the ships thrown ashore on Aftermath",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/508a02c2-3af9-4aa3-b624-8b275f82acde.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Baller",
+      "trophyDetail": "Purchase a Modern vehicle in every category",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32849_00/2d811a10-79ea-4c84-a6ab-bc874d1f9b03.png",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 44
+}

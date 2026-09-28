@@ -1,0 +1,225 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR31314_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Robby's Adventure",
+  "trophyTitleDetail": "Набор основных трофеев",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/EF6186109942EA31EB584232ECCEF5B961765486.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 7,
+    "silver": 3,
+    "gold": 9,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Robby's Adventure",
+      "trophyGroupDetail": "Набор основных трофеев",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/EF6186109942EA31EB584232ECCEF5B961765486.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 3,
+        "gold": 9,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Новогоднее обновление",
+      "trophyGroupDetail": "Новогодний пак трофеев",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/96616E0C7B1EAADEC609EC00BA1EC2AFA172A2A6.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Ремонт никогда не заканчивается",
+      "trophyDetail": "Но вы всегда можете начать заново.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/4486E832A642F01C6DE325CEF97C9E72F3C51D72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Начинающий механик",
+      "trophyDetail": "Соберите 10 шестеренок",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/B3535946870744EC6AEE2A6A503BC0A6DE34DE07.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Младший механик",
+      "trophyDetail": "Соберите 20 шестеренок",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/42012CB5FB686C6D03822DA074373F68ABB2E19B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Средний механик",
+      "trophyDetail": "Соберите 50 шестеренок",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/354138DA17A6917BA1825513DC774C4BD9204617.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Старший механик",
+      "trophyDetail": "Соберите 70 шестеренок",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/320BE4BF2D9530758B6FEA44FB23486693FC4AB5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ведущий механик",
+      "trophyDetail": "Соберите 100 шестеренок",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/7A05F9701DCC213239A4D60AA3D14347C0C456D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Смерть",
+      "trophyDetail": "Умри 1 раз.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/C88E8AEDCC9522A3B4D395B7A832E7D4631759BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "5 смертей",
+      "trophyDetail": "Умри 5 раз.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/6FDA034DC4DE787F8E172EC5FEB81290BA63B1FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "10 смертей",
+      "trophyDetail": "Умри 10 раз.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/3974AC2101F092C2BF3C77D1402FF7B53FFD3104.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "15 смертей",
+      "trophyDetail": "Умри 15 раз.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/06E466962C0BBE498B37FB257A7E187A90495100.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Первый инструмент",
+      "trophyDetail": "Получите отвертку.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/85480A76525B0562B0496A715EA16435292A71ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Неправильный конвейер",
+      "trophyDetail": "Пусть конвейер затянет вас внутрь.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/F4F82E1C5EAB5108594AE9AF62E2349B39985B82.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Толкай меня!",
+      "trophyDetail": "Толкните 5 предметов.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/49BEAC07C6AC22205A9EB0ABD1D85E74A869DA09.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Я снова могу бегать!",
+      "trophyDetail": "Исправьте бег.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/ECE09B0D0962B78C040AD40C30D15AB05F356864.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Первый побег",
+      "trophyDetail": "Спаситесь от танка.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/3F0D9EC54713FD0B52C5D44F09662BBA077C3E02.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "У меня кое-что есть!",
+      "trophyDetail": "Найдите любой коллекционный предмет.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/5C291A7F8E28AED11231F42F66E4EF6B3A0FFE81.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Только начало",
+      "trophyDetail": "Разблокировать 1 уровень из группы B",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/B115FCFF9875BC4A0644AF201D47AC8CC7133EA3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Больше подарков",
+      "trophyDetail": "Откройте 30 подарков",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/5EFF1BD80120EEE3F3964B04D63AFF7A64361F98.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Больше снежинок",
+      "trophyDetail": "Соберите 60 снежинок",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/E1C32D7A5EA1C419DDB95F455A03653EBFB3EABE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "С Новым Годом!",
+      "trophyDetail": "Завершите новогодний уровень",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31314_00_001F598257BC7DABFE3DF4ACD2AC15F279E48E9AAC/C74E25153304DA02A260206E85575E6BF2E30B1F.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 20
+}

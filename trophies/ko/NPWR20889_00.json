@@ -1,13 +1,13 @@
 {
   "npServiceName": "trophy",
   "npCommunicationId": "NPWR20889_00",
-  "trophySetVersion": "01.13",
+  "trophySetVersion": "01.14",
   "trophyTitleName": "Clone Drone in the Danger Zone",
   "trophyTitleDetail": "Clone Drone in the Danger Zone",
   "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/47F87C688319FCEB987554988D387E8F60BE631A.PNG",
   "trophyTitlePlatform": "PS4",
   "definedTrophies": {
-    "bronze": 53,
+    "bronze": 59,
     "silver": 7,
     "gold": 1,
     "platinum": 1
@@ -80,6 +80,18 @@
       "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/94CBF805A9EBD5A4996B2598E785B882CD71DBBF.PNG",
       "definedTrophies": {
         "bronze": 2,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "006",
+      "trophyGroupName": "팀 전투",
+      "trophyGroupDetail": "두 팀이 입장합니다. 한 팀은 폭발하죠!",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/BCE0D305B6DFA192FAEA9B3E243D4B2144EDEADF.PNG",
+      "definedTrophies": {
+        "bronze": 6,
         "silver": 0,
         "gold": 0,
         "platinum": 0
@@ -645,7 +657,61 @@
       "trophyDetail": "협동 타느냐 죽느냐의 도전을 쓰러뜨리세요!",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/997A851F52EFDDFB2AED1745EBD903B4F6393410.PNG",
       "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "분석해 보세요!",
+      "trophyDetail": "해설봇 팀 소속으로 팀전에서 10회 승리하세요!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/F752F962A0AF1F1D1AB0F2B1AF25B6D7CA026980.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "캐스터트론팀의 승리!",
+      "trophyDetail": "캐스터트론 팀 소속으로 팀전에서 10회 승리하세요!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/4F473DABF4F68DA3C5803DB1AEC2566371AEC947.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "친구와 함께 업그레이드",
+      "trophyDetail": "팀전에서 팀원과 함께 업그레이드하세요!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/89F58B9B9EA7A377FE6974DE6CA8F3568F0CFC55.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "언덕의 살인마",
+      "trophyDetail": "팀전에서 최후의 수비원을 처치하여 영토를 차지하세요.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/68C7D1909A557A8F47D3E7C7AFCD944471483232.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "여기서 비켜",
+      "trophyDetail": "팀전에서 영토를 차지한 상대를 쫓아내세요!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/7F0D9E40C4108E3F6371B797E3A76B2B25430DE0.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dance.exe가 신경 쓰이시나요?",
+      "trophyDetail": "다른 인간과 춤을 춰보세요!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/E744DB457F2B940664612D5682D67620F17D57A5.PNG",
+      "trophyGroupId": "006"
     }
   ],
-  "totalItemCount": 62
+  "totalItemCount": 68
 }

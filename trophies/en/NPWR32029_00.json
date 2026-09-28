@@ -1,0 +1,580 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR32029_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Smoothcade",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/407e1d48-e08d-4ed7-9d9e-4f9b687dd601.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 50,
+    "silver": 10,
+    "gold": 0,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Smoothcade",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/407e1d48-e08d-4ed7-9d9e-4f9b687dd601.png",
+      "definedTrophies": {
+        "bronze": 50,
+        "silver": 10,
+        "gold": 0,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum",
+      "trophyDetail": "Get all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/77a8b1b7-8d18-4c62-be44-4e981e02d0ac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tidy Up",
+      "trophyDetail": "Clear 5 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/c016a3e4-7e97-43d6-a42f-85338e714124.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unclutter",
+      "trophyDetail": "Clear 250 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/1f9040d3-392c-43a3-a82d-82615ea6cd98.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cleanse",
+      "trophyDetail": "Clear 500 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/695f4d47-d5df-4be3-aeec-1c0c4b2e6c3a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Handle with Care",
+      "trophyDetail": "Break 50 boxes/crates",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/b9356a4e-b644-442c-a863-7fbec21f209b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Look Important",
+      "trophyDetail": "Collect 10 keys",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/ab424860-6cee-4c5e-a4fc-c04021603522.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Skillshot",
+      "trophyDetail": "Pop 100 balloons ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/44db7a18-0c87-483a-b804-5e2ab45af4bc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Red Tongue",
+      "trophyDetail": "Collect 11 cherries",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/4225dd3f-8a33-4eaf-8daf-fed3a0da57f6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yellow Tongue",
+      "trophyDetail": "Collect 11 Pineapples",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/e201aa5c-ca64-4a82-8d07-555dbcf56cb5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tropical Platter",
+      "trophyDetail": "Collect 30 cherries and 30 pineapples",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/1d7d323b-272f-4b8e-bdc9-aa31f4111ca8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pro-Player",
+      "trophyDetail": "Beat Story mode with 3 or less continues",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/c0ad6040-ff17-4776-b2bb-06c3245d420f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Speedrunner",
+      "trophyDetail": "Beat Story mode under 4 hours",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/96831473-117f-49d9-9128-cc8c60960998.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Second Chance at Life",
+      "trophyDetail": "Have enemies escape cloudies 20 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/ff041c35-4bd3-4832-8d67-00d684c0be2e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Uh-Oh!",
+      "trophyDetail": "Lose 10 lives",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/b85172fa-ffca-4225-af90-9ef8524fa5f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Losing Hope",
+      "trophyDetail": "Lose 30 lives",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/60442849-5ae8-4d34-895b-63d970367962.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dwells Down Under",
+      "trophyDetail": "Lose 50 lives",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/671d8a17-6819-4111-a3cc-6d000c882bba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Needle Nuance",
+      "trophyDetail": "Lose a life by landing on spikes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/2bb15aa0-1575-4cbd-936d-e49f6c7c13c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flaming Fiend",
+      "trophyDetail": "Lose a life by touching fire",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/1ea710a9-a238-4d4f-bcdd-8da2e7184639.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elevating Evil",
+      "trophyDetail": "Lose a life while battling a boss",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/8831eb35-5dc3-49ef-8224-99f67cfadbd9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fruit Fanatic",
+      "trophyDetail": "Collect 250 fruits",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/fa54a922-432d-4c9e-ab58-fc0fec988d2a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fruit Frenzy",
+      "trophyDetail": "Collect 500 fruits",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/1a46a631-ff7f-4a44-8ad0-9f953612fced.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fruit Hoarder",
+      "trophyDetail": "Collect 800 fruits",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/8fde9265-6288-4b75-bcd2-679c4b939151.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secret Small Speedrun",
+      "trophyDetail": "Clear Level 1 under 9 seconds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/2d172a7c-b895-4485-8f8f-94cabe7374ba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cloud 9",
+      "trophyDetail": "Blow exactly 9 cloudies on level 9",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/07ebf579-c6ff-4104-ade9-d1c6cfb5938d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bruised Apple",
+      "trophyDetail": "Defeat an Oba",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/790b336c-d288-412c-8aca-7e07138320b9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Upset Stomach",
+      "trophyDetail": "Spit 80 cloudies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/f473dec3-9c4d-4a46-98bd-c25d474a3f5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clouds",
+      "trophyDetail": "Spit 800 cloudies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/df7555e0-a3f7-4a1b-98d4-48b62f5c788d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spirit in the Sky",
+      "trophyDetail": "Spit 2,000 cloudies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/556f34a1-cc5e-4f7e-ba43-f74ee42cd1a4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spring Fever",
+      "trophyDetail": "Bounce on cloudies 50 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/1a9cade1-fa3d-4870-bb69-c033c3a16f9d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Input Output",
+      "trophyDetail": "Flip Switches 20 times with cloudies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/bf1e302f-5705-4c09-aaa7-f723038aaeba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Atom Splitter",
+      "trophyDetail": "Teleport 50 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/476335bc-e604-4016-813a-870824f1f192.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sweet & Sour",
+      "trophyDetail": "Collect 10 lemons as Effiel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/8eee34b1-3d21-4dde-84b5-13172bd61cb6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Berry Boi",
+      "trophyDetail": "Collect 20 blueberries as Lambert",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/390b8a7a-1be8-4813-a9dd-45ea2086c865.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Raspberry Jam",
+      "trophyDetail": "Collect 50 raspberries as Jamm",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/2927bff1-a917-4255-bfb9-b06e149bd235.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King Kappa",
+      "trophyDetail": "Clear Level 100 as Kappa Kame",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/af6146fc-dfaf-4fdf-8505-c9b5fe421ccd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Munchy Combo",
+      "trophyDetail": "Perform a x6 combo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/2cbe224d-5b89-4984-8b31-ec563561d48e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cosmic Collector",
+      "trophyDetail": "Earn 3 Gold Sars on 80 different levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/d4ca6433-bd07-4c89-829c-54c7e240e0f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cleanup Crew",
+      "trophyDetail": "Destroy 20 spiny balls or pom pellets",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/1ded1331-facc-4190-99dc-35d1b1cd25ed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Can't Touch This",
+      "trophyDetail": "Clear Levels 1 to 10 without losing a life",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/be4e091f-f4eb-4eb4-be46-c35356f22e00.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sparkling Chaos",
+      "trophyDetail": "Clear 5 Pinehedges in Fruit Frenzies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/4abff9f9-0417-4131-a1c8-a307f891474a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pure Soul",
+      "trophyDetail": "Maxout Mercy karma 5 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/fad9bddf-f89e-4ec0-802a-73440415f1a3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guilty Soul",
+      "trophyDetail": "Maxout Mayhem karma 5 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/728528a2-a0e1-4fe5-ad14-3acb66a999a1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cloudy Day",
+      "trophyDetail": "Have 20 cloudies on a level at one time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/fea5f0ed-6ff9-4e9a-a44e-b716d13d5624.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bravocado!",
+      "trophyDetail": "Collect 10 avocados as Dolphina",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/5389bbfe-db50-46f7-a9c4-f5275f9413b6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pig Belly",
+      "trophyDetail": "Collect 10 watermeleon as Pignata",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/4e04e1bb-6869-44f7-8054-67a36e623e9a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fruit Flowin'",
+      "trophyDetail": "Activate Fruit Power 10 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/aaded57a-ac90-4b2f-8fd3-dfd820206e4a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drowning Soul",
+      "trophyDetail": "Lose a life on level 66",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/6f436e94-8947-42f2-9166-114939142319.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "7 Heaven",
+      "trophyDetail": "Only use Mercy cloudies on level 77",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/cf2a50e1-3139-46a5-b7e4-2d9f073c5391.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Astronomer",
+      "trophyDetail": "Earn a total of 250 Gold Stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/422a1edc-d8ce-4bd0-bbbe-a3439ed8661e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Head in the Clouds",
+      "trophyDetail": "Pop 200 cloudies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/552ae6a3-1177-4a9c-8b3e-505a5484e739.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Straight Shooter",
+      "trophyDetail": "Spit 100 Mercy cloudies in a row",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/b5179137-06f3-4847-9fed-9598a59a548d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Poison Mucus",
+      "trophyDetail": "Spit 50 Mayhem cloudies in a row as Gorf",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/98262e78-8a0f-4d77-99de-c4a073a359b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sprout",
+      "trophyDetail": "Reach a score of 50,000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/e6fd38a1-d189-4a4b-8fed-5bc928a98865.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sapling",
+      "trophyDetail": "Reach a score of 100,000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/5fe0190e-2c3a-4ab8-bdae-5874b14d8f12.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Great Oak",
+      "trophyDetail": "Reach a score of 250,000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/122c7af9-0550-4045-bdb8-ae9b6a57d588.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Party Animal!",
+      "trophyDetail": "Find 5 Power-ups",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/aeb599e5-a58b-4ec7-b47a-3087ae639a86.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bountiful Luau",
+      "trophyDetail": "Use Party Poppers to turn a total of 10 cloudies into fruit",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/ce2c0664-b621-4d36-b735-5db5ddd5fe6b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Red Light!",
+      "trophyDetail": "Use Traffic Cones to freeze 5 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/4d30ab83-91ab-4e6d-8f3b-ddb14f56d269.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Garden Glory",
+      "trophyDetail": "Hold onto 100 Seeds at once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/c89aac8b-1b35-47a7-9bb6-570f497908e0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Now it's a Party!",
+      "trophyDetail": "Unlock 5 characters",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/b41eb2c8-79d3-4bb7-b43f-667f5e42dd00.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Our Hero",
+      "trophyDetail": "Our Hero - Find the Golden Blender",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32029_00/e945dd07-e5f3-455f-9a1a-45f059d60218.png",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 61
+}

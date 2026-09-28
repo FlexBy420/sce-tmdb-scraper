@@ -1,0 +1,105 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR33332_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Trivia Live",
+  "trophyTitleDetail": "Trivia Live Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33332_00_00480207DC38F2D15341C87A31E4442E371481EEC5/9D7807A2D366B45819C36E3B32180206359A01AA.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 4,
+    "silver": 2,
+    "gold": 2,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Trivia Live",
+      "trophyGroupDetail": "Trivia Live Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33332_00_00480207DC38F2D15341C87A31E4442E371481EEC5/9D7807A2D366B45819C36E3B32180206359A01AA.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 2,
+        "gold": 2,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Correct",
+      "trophyDetail": "Answer a question correctly in single-player mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33332_00_00480207DC38F2D15341C87A31E4442E371481EEC5/9D56835DA4B933E99CD993901FAC49A8ABEBCD9A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrong",
+      "trophyDetail": "Answer a question incorrectly in single-player mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33332_00_00480207DC38F2D15341C87A31E4442E371481EEC5/6746BB2264C06F1A27D857A4A4B9CCC385C9E78A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "All Correct",
+      "trophyDetail": "All players answer a question correctly in a multiplayer game, 2+ players",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33332_00_00480207DC38F2D15341C87A31E4442E371481EEC5/8BB260FE44D9B3C25639B4278FED0B17A63ED775.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Wrong",
+      "trophyDetail": "All players answer the same question wrong in a multiplayer game, 2+ players",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33332_00_00480207DC38F2D15341C87A31E4442E371481EEC5/E50B002E3AB86F2589196A46E6A3A966455ECE92.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Trivia Live",
+      "trophyDetail": "Completed a game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33332_00_00480207DC38F2D15341C87A31E4442E371481EEC5/5FFE98843630D28626F9C918B790F46CCB6EC494.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Good player",
+      "trophyDetail": "Any player gets a score of 400 or higher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33332_00_00480207DC38F2D15341C87A31E4442E371481EEC5/2A2DA8EF202C2C3DE49F12337758FFE03A2A16DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Challenger",
+      "trophyDetail": "Any player gets a score of 600 points or higher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33332_00_00480207DC38F2D15341C87A31E4442E371481EEC5/59139C75C31CD167AC2B3673C6901E48093806DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Top player",
+      "trophyDetail": "Any player answers all questions correctly",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33332_00_00480207DC38F2D15341C87A31E4442E371481EEC5/D13628DF8BDBED2618A56886CF33844992A10B4E.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 8
+}

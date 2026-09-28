@@ -1,0 +1,936 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR32380_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Stroke The Dog",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/0325e977-b465-4a14-930a-11dd96314b06.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 91,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Stroke The Dog",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/0325e977-b465-4a14-930a-11dd96314b06.png",
+      "definedTrophies": {
+        "bronze": 70,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "The Puppy",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/662b1513-5b17-4f07-b8da-f359310b92e3.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "The Beagle",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/c4ecaa39-857c-47a5-a5e5-cc56335ff7cc.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "The Dog Quiz",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/a33dc914-c7de-4934-a970-909ed577fc01.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Smarty Pants",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/6db4fc9d-e194-4f80-8d00-cf491315d3c0.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "C-C-C-Combo",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/7ebdb62d-cdf2-40a6-9d8a-5b12f8e56e4b.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "006",
+      "trophyGroupName": "Not So Smarty Pants",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/893703dc-9c05-432a-a13e-fa01dc626092.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "007",
+      "trophyGroupName": "W-W-W-Wrongbo",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/75408357-001d-4d40-b03d-33f4ae1731da.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "All Stroked Out!",
+      "trophyDetail": "You stroked that dog a lot, must be tired now! Go and rest!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/e45cf217-3d2e-4a22-b6d6-637968ec9559.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "25 Strokes",
+      "trophyDetail": "Stoke the animal 25 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/e76d70e9-4313-4eeb-b6ff-88eec88d4aaf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "50 Strokes",
+      "trophyDetail": "Stroke the animal 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/fcbcf5c0-3905-411a-9ec0-17061c5338b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "75 Strokes",
+      "trophyDetail": "Stroke the animal 75 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/0c995d8b-04b1-4896-80f8-0d1e56db69dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "100 Strokes",
+      "trophyDetail": "Stroke the animal 100 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/095e03d5-6204-4475-b315-438498690af9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "125 Strokes",
+      "trophyDetail": "Stroke the animal 125 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/1b671aa6-9aa5-467c-95ba-84307314233a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "150 Strokes",
+      "trophyDetail": "Stroke the animal 150 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/33749dd5-78d0-48c3-8ef7-b1d00cc0e3a4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "175 Strokes",
+      "trophyDetail": "Stroke the animal 175 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/2e281b89-f4f9-4198-8a0e-28907bc06ca9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "200 Strokes",
+      "trophyDetail": "Stroke the animal 200 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/6cffa357-99fe-4276-b07a-1f01342b18a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "225 Strokes",
+      "trophyDetail": "Stroke the animal 225 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/4dbf56d6-315c-4ed1-9d00-c2e1e04b03ce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "250 Strokes",
+      "trophyDetail": "Stroke the animal 250 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/7f885f5e-0ace-4547-ac4e-0afa70669afb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "275 Strokes",
+      "trophyDetail": "Stroke the animal 275 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/cb196f52-32d5-4ffe-8b32-ada179e47e77.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "300 Strokes",
+      "trophyDetail": "Stroke the animal 300 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/721cc22e-735f-45be-a986-43bd64747974.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "325 Strokes",
+      "trophyDetail": "Stroke the animal 325 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/3728113b-d444-4eec-896f-b983e5d36f0d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "350 Strokes",
+      "trophyDetail": "Stroke the animal 350 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/72f1bc55-f587-4421-9655-7423c30a3115.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "375 Strokes",
+      "trophyDetail": "Stroke the animal 375 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/e0bc7afc-94e9-49fa-b045-f09b2f21c4f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "400 Strokes",
+      "trophyDetail": "Stroke the animal 400 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/dd2b6b57-2713-424c-8988-9c5b3ba789c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "425 Strokes",
+      "trophyDetail": "Stroke the animal 425 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/6439a926-6d85-4fa0-a242-0508b1f7bb93.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "450 Strokes",
+      "trophyDetail": "Stroke the animal 450 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/dcb6e91e-364c-4d6d-81f7-27edc99d6d32.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "475 Strokes",
+      "trophyDetail": "Stroke the animal 475 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/5529ddfc-7859-44fe-987e-4d6c26ce3a7f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "500 Strokes",
+      "trophyDetail": "Stroke the animal 500 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/d0e62908-4d0d-4905-9453-95970a23d1cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "525 Strokes",
+      "trophyDetail": "Stroke the animal 525 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/97c0f5ba-60df-4a55-8af8-beed1fd9d439.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "550 Strokes",
+      "trophyDetail": "Stroke the animal 550 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/a3fa250f-be9d-478b-8c89-697d6870b5b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "575 Strokes",
+      "trophyDetail": "Stroke the animal 575 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/8b5fe390-8a97-4f52-8190-42088e88e5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "600 Strokes",
+      "trophyDetail": "Stroke the animal 600 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/73c39d69-e086-4e99-a564-4db0cb5d1881.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "625 Strokes",
+      "trophyDetail": "Stroke the animal 625 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/7bcb3f37-a0ec-4a78-817f-6bfd1a069161.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "650 Strokes",
+      "trophyDetail": "Stroke the animal 650 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/20d953b3-097a-42d2-97fb-c17975ac93a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "675 Strokes",
+      "trophyDetail": "Stroke the animal 675 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/cc583f81-b048-4c77-aeb8-7c79b4cec571.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "700 Strokes",
+      "trophyDetail": "Stroke the animal 700 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/367342c2-a4b3-4d6e-876c-5f6d33f44fee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "725 Strokes",
+      "trophyDetail": "Stroke the animal 725 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/0a66ade2-efb8-4955-91d6-d3dd7cda6870.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "750 Strokes",
+      "trophyDetail": "Stroke the animal 750 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/b76771df-cc8b-4e6e-beca-775c71db7c6a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "775 Strokes",
+      "trophyDetail": "Stroke the animal 775 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/403d1cf9-ab1f-4421-ac73-91495eeaec15.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "800 Strokes",
+      "trophyDetail": "Stroke the animal 800 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/3d4bae7c-b721-448d-a74e-a1bf8f68ed58.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "825 Strokes",
+      "trophyDetail": "Stroke the animal 825 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/412faa53-1351-4f67-9481-ce1594bcdc5d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "850 Strokes",
+      "trophyDetail": "Stroke the animal 850 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/5c064f58-e0d7-464f-a5f4-e530f1d370ef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "875 Strokes",
+      "trophyDetail": "Stroke the animal 875 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/5e79335c-9a98-46b0-874f-08490b84fe78.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "900 Strokes",
+      "trophyDetail": "Stroke the animal 900 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/f17f9368-1b55-41fd-8017-df2520ee7e7e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "925 Strokes",
+      "trophyDetail": "Stroke the animal 925 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/fb8d0710-42db-4185-8825-97e0272060f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "950 Strokes",
+      "trophyDetail": "Stroke the animal 950 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/bb96bcf0-adae-42dd-baf7-219f34b6577a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "975 Strokes",
+      "trophyDetail": "Stroke the animal 975 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/a5b7e1ca-2130-45ea-89a0-f58b339ae1a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1000 Strokes",
+      "trophyDetail": "Stroke the animal 1000 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/524dd9cc-7059-46a4-970a-77da7a870d5d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1025 Strokes",
+      "trophyDetail": "Stroke the animal 1025 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/ece7bb47-6eb0-4818-9f9f-ed59f442a425.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1050 Strokes",
+      "trophyDetail": "Stroke the animal 1050 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/732e4cbc-afac-481b-841b-200f6104e292.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1075 Strokes",
+      "trophyDetail": "Stroke the animal 1075 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/9bf9aafb-1bf6-4bee-8511-1dc8b42eff65.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1100 Strokes",
+      "trophyDetail": "Stroke the animal 1100 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/cbacf26e-cde9-4832-aba5-7dba7f8e4bf8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1125 Strokes",
+      "trophyDetail": "Stroke the animal 1125 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/8f0e2f9f-5906-4888-bfd6-92966c460b00.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1150 Strokes",
+      "trophyDetail": "Stroke the animal 1150 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/386dfe1d-e461-4ff9-9aff-5ec4e0bf5232.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1175 Strokes",
+      "trophyDetail": "Stroke the animal 1175 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/9e22a19b-e4c5-4aaa-8e5f-40c134f431f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1200 Strokes",
+      "trophyDetail": "Stroke the animal 1200 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/8c5c627d-7e64-4736-8d9c-2adc31eb96e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1225 Strokes",
+      "trophyDetail": "Stroke the animal 1225 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/b5c13759-6384-483d-b9f0-69aead3ee2ca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1250 Strokes",
+      "trophyDetail": "Stroke the animal 1250 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/346f0521-c375-4b4e-95bc-5eb7552e7f94.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1275 Strokes",
+      "trophyDetail": "Stroke the animal 1275 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/2515df42-b088-48dc-a1ec-296177ebf3a3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1300 Strokes",
+      "trophyDetail": "Stroke the animal 1300 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/262909f7-dfdd-4106-9b6d-2a78b2a6a07d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1325 Strokes",
+      "trophyDetail": "Stroke the animal 1325 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/46be0f65-1ceb-43ff-83bd-974c9d3bd249.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1350 Strokes",
+      "trophyDetail": "Stroke the animal 1350 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/d45e4c49-becf-451a-9550-68eab80394b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1375 Strokes",
+      "trophyDetail": "Stroke the animal 1375 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/dba6576c-305e-4534-bb35-34496442efc0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1400 Strokes",
+      "trophyDetail": "Stroke the animal 1400 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/80e3a800-2649-45eb-b2ae-149f8382c006.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1425 Strokes",
+      "trophyDetail": "Stroke the animal 1425 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/ece9216f-3528-4ac7-a7a2-2086ed749e81.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1450 Strokes",
+      "trophyDetail": "Stroke the animal 1450 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/1f5d98a6-4cb4-4eae-b7ad-ee957ed65f16.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1475 Strokes",
+      "trophyDetail": "Stroke the animal 1475 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/b9e84f3a-7f6b-4c20-8143-7af93d07ac23.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1500 Strokes",
+      "trophyDetail": "Stroke the animal 1500 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/474d237d-ab0a-4747-a640-3ec6ef42c958.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1525 Strokes",
+      "trophyDetail": "Stroke the animal 1525 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/167863d4-d733-4c5a-9ab2-b0b2665b27c7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1550 Strokes",
+      "trophyDetail": "Stroke the animal 1550 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/2a3ae6b0-3f1b-45a8-b1c0-60faa165dc9d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1600 Strokes",
+      "trophyDetail": "Stroke the animal 1600 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/ecb47a6c-6f5f-4ba1-adc0-c156f0c772f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1650 Strokes",
+      "trophyDetail": "Stroke the animal 1650 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/3a2f7e4f-1db1-4489-981b-966fa3d18e6e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1700 Strokes",
+      "trophyDetail": "Stroke the animal 1700 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/8b466988-1b02-42ce-ad93-5d0522b4c98b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1750 Strokes",
+      "trophyDetail": "Stroke the animal 1750 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/39f594c1-d4b5-4073-b580-1a7f234bcb8b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1800 Strokes",
+      "trophyDetail": "Stroke the animal 1800 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/b32bb8af-ab18-4a3e-ae35-167fe1526515.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1850 Strokes",
+      "trophyDetail": "Stroke the animal 1850 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/ea7ed28c-7a12-4f79-bf7a-9240714312d4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1900 Strokes",
+      "trophyDetail": "Stroke the animal 1900 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/a98dbd30-6d21-4525-a9a0-73966102114a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "2000 Strokes",
+      "trophyDetail": "You stroked that animal far too many times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/a7c7ae56-fb8b-4cb4-b1ca-13b640b44b48.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "100 Puppy Strokes",
+      "trophyDetail": "Stroke the puppy 100 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/0bc2907d-ec4a-44cb-a6c5-4b8af27e37cb.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "250 Puppy Strokes",
+      "trophyDetail": "Stroke the puppy 250 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/5baecd80-532a-4161-ac4c-5755cf83e493.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "500 Puppy Strokes",
+      "trophyDetail": "Stroke the puppy 500 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/a2257600-50af-4832-9fc2-511e2e1f3126.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "25 Beagle Strokes",
+      "trophyDetail": "Stroke the beagle 25 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/c4ecaa39-857c-47a5-a5e5-cc56335ff7cc.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "50 Beagle Strokes",
+      "trophyDetail": "Stroke the beagle 25 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/c4ecaa39-857c-47a5-a5e5-cc56335ff7cc.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "100 Beagle Strokes",
+      "trophyDetail": "Stroke the beagle 100 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/c4ecaa39-857c-47a5-a5e5-cc56335ff7cc.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Answered 5 Questions",
+      "trophyDetail": "You answered 5 questions, right or wrong, doesn't matter!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/a33dc914-c7de-4934-a970-909ed577fc01.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Answered 10 Questions",
+      "trophyDetail": "You answered 10 questions, right or wrong, doesn't matter!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/a33dc914-c7de-4934-a970-909ed577fc01.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Answered 15 Questions",
+      "trophyDetail": "You answered 15 questions, right or wrong, doesn't matter!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/a33dc914-c7de-4934-a970-909ed577fc01.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1 Correct Answer",
+      "trophyDetail": "You answered a question correctly.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/6db4fc9d-e194-4f80-8d00-cf491315d3c0.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Correct Answers",
+      "trophyDetail": "You answered 5 questions correctly.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/6db4fc9d-e194-4f80-8d00-cf491315d3c0.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Correct Answers",
+      "trophyDetail": "You answered 10 questions correctly.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/6db4fc9d-e194-4f80-8d00-cf491315d3c0.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "3 In A Row",
+      "trophyDetail": "You answered 3 questions right in a row.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/617b3a8a-df63-4204-9d16-1be2fe067bea.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 In A Row",
+      "trophyDetail": "You answered 5 questions right in a row.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/9243d391-f030-43e6-91c7-817dc9c07191.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 In A Row",
+      "trophyDetail": "You answered 10 questions right in a row.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/dd345306-b70f-4673-a6c9-0d9d0a59d58f.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1 Wrong Answer",
+      "trophyDetail": "Answered a question incorrectly.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/893703dc-9c05-432a-a13e-fa01dc626092.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Wrong Answers",
+      "trophyDetail": "Answered 5 questions incorrectly.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/893703dc-9c05-432a-a13e-fa01dc626092.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Wrong Answers",
+      "trophyDetail": "Answered 10 questions incorrectly.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/893703dc-9c05-432a-a13e-fa01dc626092.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 89,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "3 Wrong In A Row",
+      "trophyDetail": "You got three questions wrong in a row.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/de343a08-518f-4e3b-9ece-f1a742ad77fa.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 90,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Wrong In A Row",
+      "trophyDetail": "You got 5 questions wrong in a row.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/208693bb-055f-4859-aecb-cd71870d5def.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 91,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Wrong In A Row",
+      "trophyDetail": "You got 10 questions wrong in a row. You must have done that on purpose!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR32380_00/f0b3484f-d1ca-4d2c-a33b-275dfd36a987.png",
+      "trophyGroupId": "007"
+    }
+  ],
+  "totalItemCount": 92
+}
