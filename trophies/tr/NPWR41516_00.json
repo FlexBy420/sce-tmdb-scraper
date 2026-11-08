@@ -1,0 +1,827 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR41516_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Firefighting Simulator: Ignite",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/d3bf518f-8129-4e0c-85e6-5d066c88d147.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 57,
+    "silver": 15,
+    "gold": 4,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Firefighting Simulator: Ignite",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/d3bf518f-8129-4e0c-85e6-5d066c88d147.png",
+      "definedTrophies": {
+        "bronze": 30,
+        "silver": 6,
+        "gold": 4,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Summer Camp",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/3616cf38-cb4c-4974-a214-4b1dfb3e1b37.png",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Parker’s Story",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/2a658211-6c13-4629-843b-cde9c226c5d0.png",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Motor Vehicle Accident Expansion",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/ed1df4ce-be33-475a-9cb5-b22bd078b3bc.png",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 3,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Construction Site",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/9be0eb16-edb9-43a6-8361-cc2b555bb653.png",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Tüm Kupaları Topla",
+      "trophyDetail": "Oyundaki tüm kupaları topladın.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/b1cac6ab-ed80-4b63-9f5f-655e5d5cb598.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Görev",
+      "trophyDetail": "10 farklı görevi tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/9a275993-d5d2-4fd1-b12c-65cb0aec4e85.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "20 Görev",
+      "trophyDetail": "20 farklı görevi tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/02b85eaa-152e-4f80-9786-bfe32349c171.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "30 Görev",
+      "trophyDetail": "30 farklı görevi tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/8f988875-0ade-46ef-94ca-f5de87cbf964.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Yan Görev",
+      "trophyDetail": "10 yan görevi tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/7687285f-786f-4839-a89f-26c3aaa385ba.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "20 Yan Görev",
+      "trophyDetail": "20 yan görevi tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/c81f3217-34f3-4cd6-a21d-79a5243224e9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hepsi Bitti",
+      "trophyDetail": "Çoğu kariyer görevini tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/984285ea-9166-4737-a6a9-ae502dd31077.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "39"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Yükselen Yıldız",
+      "trophyDetail": "Çoğu kariyer görevini en az gümüş yıldızla tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/6b1a60f3-fc5f-4134-83bd-e5d9fa2222f2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "39"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Parlayan Yıldız",
+      "trophyDetail": "Çoğu kariyer görevini altın yıldızla tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/da9cfc4a-6f5b-4c1c-8240-5f8f5856f136.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "39"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eksiksiz Hazırlık",
+      "trophyDetail": "Eğitim alanındaki tüm modülleri tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/9622309e-d254-47cc-9f2a-6ba66fc3bd76.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hem istasyonun hem takımın parçası",
+      "trophyDetail": "Takımın bir parçası ol",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/da9321cf-c15f-4830-a181-9904205a42b1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Çavuş",
+      "trophyDetail": "Çavuş ol",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/a9531e60-771d-4021-b3b4-a7c1125cdcf7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kaptan",
+      "trophyDetail": "Kaptan ol",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/31052c27-dd95-4c3c-a7c1-0fc4f2ece016.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ekip Müdürü",
+      "trophyDetail": "Ekip Müdürü ol",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/7c3ba282-d710-4b88-83f9-b6e412f05f76.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Müdür Yardımcısı",
+      "trophyDetail": "Müdür Yardımcısı ol",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/b1cac6ab-ed80-4b63-9f5f-655e5d5cb598.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dolu Garaj",
+      "trophyDetail": "7 aracın kilidini aç",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/c88b5865-2b77-4221-99cd-b50cc1fa9028.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "7"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tüm Filo",
+      "trophyDetail": "İntikaller için 7 farklı araç kullan",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/79bade0a-0478-4f9d-8ef9-d9850c374ffd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "7"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 İntikal",
+      "trophyDetail": "10 farklı görev için araç sürerek intikal et",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/be3daa16-b32c-4fde-a644-5b5d84c45365.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Didik Didik",
+      "trophyDetail": "Kariyer görevlerinin çoğu için araç sürerek intikal et",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/9107fd75-420b-4ead-be15-0733477a5576.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "39"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Önce Güvenlik",
+      "trophyDetail": "Kaza yapmadan 5 intikali tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/28db29d3-b1f9-4529-af9e-b211baaf09bb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kilitli Kapılar",
+      "trophyDetail": "50 kapıyı zorla aç",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/742f9426-cc1b-4305-90d7-bac9a9ee5701.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kilitli Pencereler",
+      "trophyDetail": "25 pencereyi zorla aç",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/2f03f272-8172-43e9-9819-98663fe49d8f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Garaj Kapıları",
+      "trophyDetail": "15 garaj kapısını keserek aç",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/db9be574-0815-4f23-a488-cf2983930ea2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kırılabilir Duvarlar",
+      "trophyDetail": "20 kırılabilir duvarı yık",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/9af8507c-21ba-4ec0-b617-67919799b100.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Su Hatları",
+      "trophyDetail": "20 su hattı bağla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/1ad92dd6-4c8f-4cff-85e6-7d96b827e6fc.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Havalandırma",
+      "trophyDetail": "Çatılarda ve tavanlarda 40 havalandırma deliği aç",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/5bd5105e-320b-4c64-a89c-d4f888fc728c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "40"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alet Ustası",
+      "trophyDetail": "El aletlerinin altısını en az bir kez kullanın",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/a4de0bce-8543-4a75-aa79-9b9f7a2046f6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Uzman ve Kumandan",
+      "trophyDetail": "100 emir ver",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/d4558348-63ff-4b7f-bc03-08a44de1923a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Emir Yağıyor",
+      "trophyDetail": "Tek görevde 30 emir ver",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/e6c5ce4c-4279-4c93-9aa2-ee9ddf93943c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dost",
+      "trophyDetail": "Baygın bir itfaiyeciyi kurtar",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/f6207df9-4a68-4973-b8c5-e0cc2ea45c4f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hâlâ Ayakta",
+      "trophyDetail": "Yıkıldıktan sonra geri kalk",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/d4422ae9-9f84-4dc1-9f47-646d5ac7efb6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yağ Yangınları",
+      "trophyDetail": "10 yağ yangını söndür",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/dec5487c-2938-4fd6-91d3-96b1a3961352.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yanıcı Sıvılar",
+      "trophyDetail": "15 yanıcı sıvı yangını söndür",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/1031e734-a5f7-4b9c-bc43-eba56d692cfe.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yol Gösteren",
+      "trophyDetail": "Bilinci yerinde 30 mağduru kurtar",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/7f05bead-97c6-46b4-96b3-9ad0dd9ee956.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kahraman",
+      "trophyDetail": "30 baygın mağduru kurtar",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/1091c59e-83ea-474c-9747-7d74a8d313a8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bina Çöküyor",
+      "trophyDetail": "Çöken bir zeminden aşağı düş",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/4818ef73-fd52-4a45-b13c-5a967e3a6168.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ayak İşi",
+      "trophyDetail": "Tek görevde 2 km hortum çek",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/b78ebc78-b445-4b08-bade-afb086df866c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2000"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Köpük Partisi",
+      "trophyDetail": "İtfaiye istasyonunda birine köpük sık",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/d3ddcdbd-a5fb-4cd4-8513-33aea79995d3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hızlı Şoför",
+      "trophyDetail": "Araç sürerken yüksek hızlara ulaş",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/9edcc511-4353-41f1-ba96-f4e80588ef42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Manzaralı Yol",
+      "trophyDetail": "Bir görevi bitirdikten sonra 5 dakika dünyayı keşfet",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/b642d919-b203-40ce-9ef8-993c71e139ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Büyük Patron",
+      "trophyDetail": "Yangını kendin söndürmeden veya mağdurları kendin kurtarmadan bir görevi tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/9dc3a364-24c3-4fbb-8f9d-707e3044dff2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Palamut",
+      "trophyDetail": "Tüm Yaz Kampı görevlerini tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/3736fe7a-a23f-4a32-ba1e-143be84e22ea.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fidan",
+      "trophyDetail": "Tüm Yaz Kampı görevlerini en az gümüş yıldızla tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/694b5faa-16db-485d-8ec3-836aba36b809.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Meşe",
+      "trophyDetail": "Tüm Yaz Kampı görevlerini altın yıldızla tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/0594e96f-1eaf-4e74-8867-2b44d763893e.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Woodchuck Kampının Kahramanı",
+      "trophyDetail": "Tüm Yaz Kampı görevlerini zor modda tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/6c28fce5-7384-4465-9ff8-bf9d51fdefe8.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Merdivenden Müdahale",
+      "trophyDetail": "\\\"Alevler İçindeki Kulübe\\\" yangınlarını söndürmek için bir merdiven monitörü kullan",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/2dcc8438-8ace-474d-9fb5-b31fb7cdefc4.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kampçılar, Elektrikler Gitti!",
+      "trophyDetail": "\\\"Alevler İçindeki Kulübe\\\"de tüm sigorta kutularını kapat",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/fc73ecb8-77a0-4dbf-a560-d384af6d2060.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Temiz Hava",
+      "trophyDetail": "\\\"Odun ateşinde yemek dedikleri bu mu oluyor?\\\" görevinde 10 pencere kır",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/80dce262-fb63-4c3d-834e-c1e3daa2e8c9.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Kısa Yol",
+      "trophyDetail": "\\\"Odun ateşinde yemek dedikleri bu mu oluyor?\\\" görevinde tavandaki delikten mutfağa düş",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/21b8639f-4dca-49bd-860a-186706714a3c.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yolu Uzatmadan",
+      "trophyDetail": "Tüm Yaz Kampı görevlerinde Altın intikal sürelerine ulaş",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/f4dfc75c-97b2-449e-a7a8-8e790f2b2a5e.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alevlerden Doğan Arkadaşlık",
+      "trophyDetail": "Parker'ın Hikayesi'ndeki her iki bölümü en az bronz derecede tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/780f09b7-feb7-462e-b43c-9e90339e12fb.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Artan Güven",
+      "trophyDetail": "Parker'ın Hikayesi'ndeki her iki bölümü en az gümüş derecede tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/58612c7f-118f-4ea7-9ad3-7c10ff3facca.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sarsılmaz Kardeşlik",
+      "trophyDetail": "Parker'ın Hikayesi'ndeki her iki bölümü altın derecede tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/81e48381-2abf-40f3-938e-1eb93de7437e.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ah, Demek Böyle Olmuş",
+      "trophyDetail": "“Kritik Yönetim” bölümünde patlamanın nedenini bul.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/c3e1c937-bfd9-46c7-814a-9184e3ab203f.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bir Kahraman Beklerken",
+      "trophyDetail": "“Alev Köprüsü” bölümü sırasında, Parker gaz patlamasına bir çözüm bulurken alevleri söndür.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/d8d52ef6-3a6d-4154-953b-c335393dca0d.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Yol gösteren sözler",
+      "trophyDetail": "Parker'ın tüm nasihatlerini dinle.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/bd4cdb12-1375-4e4e-828d-72b28a6a99c6.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Şimdi Sırası Değil",
+      "trophyDetail": "“Kritik Yönetim” bölümünde düğün salonunun oradaki birinin önünde çömel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/fe9d1531-18e4-4756-b697-423c2648c71e.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Parker'ın Dehası",
+      "trophyDetail": "Parker'ın Hikayesi’nin her iki bölümünü “zor” zorluk seviyesinde tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/dfa39a7c-0a01-4e45-9221-9f2cbe1a1182.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "İlk Müdahaleci",
+      "trophyDetail": "Parker'ın Hikayesi’nin her iki bölümünde altın intikal sürelerine ulaş.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/e9076ae4-9438-4155-9e5e-c768069e518d.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yerine, Hazır, Kurtar",
+      "trophyDetail": "Arabalardan 5 hasta kurtar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/1dd43aa9-1b44-49a6-bbc2-4d9b19b2b15f.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hızlı Kurtarma",
+      "trophyDetail": "Olay mahalline ulaştıktan sonraki 3 dakika içinde bir arabadan bir hasta kurtar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/b5bf9dd4-9a17-4e23-bc7a-78f105b6a1d2.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kesildi ve Açıldı",
+      "trophyDetail": "Motorlu testereyi kullanarak 10 engeli kes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/925f462f-4507-41e8-98ed-9cbf1afa5719.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Güçlü Kol",
+      "trophyDetail": "Çekmede hata yapmadan art arda 10 defa motorlu testereyi çalıştır.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/56feea85-43de-4f03-a58e-83aca31c2513.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tak Çalıştır",
+      "trophyDetail": "Sızan sıvı alev almadan önce 10 sızıntıyı durdur.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/348fba33-a979-48ac-96b7-470e5e34e7ff.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Teknik Kurtarma",
+      "trophyDetail": "5 trafik görevini tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/047e1696-97c2-4202-a8a6-933cbf16b1e5.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ağır Kurtarma",
+      "trophyDetail": "Tüm trafik görevlerini zor modda tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/4f42b515-1995-4ea9-bd48-c9ac3e4ac6aa.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Kitabına Uygun Kurtarma",
+      "trophyDetail": "Tüm trafik görevlerini altın dereceyle tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/2c67c4c9-d03e-4c16-a87d-51af22b023fc.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Trafikte Türbülans",
+      "trophyDetail": "\\\"Acil İniş\\\"i tamamla",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/642b1e27-e8f3-4e1c-8780-3927939d3b40.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hans Peter",
+      "trophyDetail": "İnşaat Sahası görevlerindeki 6 sallanan kafa figürünün tamamını bul.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/77923aff-f230-41f3-9fcc-f5e725396569.png",
+      "trophyGroupId": "004",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bacak Günü",
+      "trophyDetail": "\\\"Vinç Çarpma Kaosu\\\" görevinde merdiven veya araç merdiveni kullanmadan en üst kata ulaş.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/ffd588cd-396f-4c41-b0bf-a8ec5bbca677.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Metalci",
+      "trophyDetail": "Daire testereyle konteynerleri 10 kez kes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/a4ab31d6-ea9b-466e-a417-c732cb840f5a.png",
+      "trophyGroupId": "004",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hızlı Asansör",
+      "trophyDetail": "İskele çökerken üzerinde dur.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/8aee8af4-ad98-4731-8992-38d4220f09e4.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bu Manzara Kaçmaz",
+      "trophyDetail": "\\\"Kestirme Yol\\\" görevinde seyir noktasına ulaş.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/4f2319ec-26d9-483a-ac38-ac1d1f8d067a.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kalas Cambazı",
+      "trophyDetail": "İnşaat Sahası görevlerinde 10 ahşap kalasın üzerinden yürü.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/1a81f8e0-bb06-4831-a792-223e8a6096c3.png",
+      "trophyGroupId": "004",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "İnşaat Tamamlandı",
+      "trophyDetail": "Tüm İnşaat Sahası görevlerini tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/b5ce4517-9fdc-4706-88ff-e3cb4e5edbb2.png",
+      "trophyGroupId": "004",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Baret",
+      "trophyDetail": "Tüm İnşaat Sahası görevlerini zor seviyede tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/cdcaf28d-37bb-4e25-af38-a550f3daf7b5.png",
+      "trophyGroupId": "004",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "İnşaat Şefi",
+      "trophyDetail": "Tüm İnşaat Sahası görevlerini altın dereceyle tamamla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/25ee2bb4-ffe4-47c7-a886-21837456bb5c.png",
+      "trophyGroupId": "004",
+      "trophyProgressTargetValue": "3"
+    }
+  ],
+  "totalItemCount": 77
+}

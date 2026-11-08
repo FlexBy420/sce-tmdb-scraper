@@ -1,14 +1,14 @@
 {
   "npServiceName": "trophy",
   "npCommunicationId": "NPWR14049_00",
-  "trophySetVersion": "01.09",
+  "trophySetVersion": "01.10",
   "trophyTitleName": "The Long Dark",
   "trophyTitleDetail": "The trophy set for The Long Dark.",
   "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/B3EFB9274C177E246202C2490BDD90E0FB5B70F2.PNG",
   "trophyTitlePlatform": "PS4",
   "definedTrophies": {
-    "bronze": 56,
-    "silver": 15,
+    "bronze": 67,
+    "silver": 16,
     "gold": 4,
     "platinum": 1
   },
@@ -69,6 +69,18 @@
       "definedTrophies": {
         "bronze": 12,
         "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Episode 5: The Light at the End of All Things",
+      "trophyGroupDetail": "Episode 5: The Light at the End of All Things Trophy Set.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/F8F9E1E7B4383835B6951C1391C92D47DB02559A.PNG",
+      "definedTrophies": {
+        "bronze": 11,
+        "silver": 1,
         "gold": 0,
         "platinum": 0
       }
@@ -759,7 +771,115 @@
       "trophyDetail": "ピューマと闘って25回生き延びる。",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/FE043EC04CE0D50B0126906573CDE3791A41E7C6.PNG",
       "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "隔離",
+      "trophyDetail": "パーセビアランス・ミルズを探索する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/17091AF2356F8AABA3C2C962999E27700D791C86.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "捜索班",
+      "trophyDetail": "現実の40分で行方不明の町人を全員見つける。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/29C21C6F253CCB74E8747C3612413731409668DD.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "骨の髄まで",
+      "trophyDetail": "行方不明だったパーセビアランス・ミルズの住人1人の解剖を完了する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/316F49C96D815D3C86A53218E0ECEB45F0C47814.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "漂流",
+      "trophyDetail": "絶望の入江からの謎の信号に関する真実を突き止める",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/818CE2A95ACF38336C359C1B76322BD2F541ED17.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "死者の伝言",
+      "trophyDetail": "船の乗組員が残したすべての文章と所持品を回収する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/7BCEC226AABFAD0B9DD0CF154A6833B744F516D5.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ハードサイエンス",
+      "trophyDetail": "スズキ電波望遠鏡に到達し、アトウッド博士にジェレミアの「ウインターミュート」のメッセージを届ける",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/A816A9C73691CB6B011C70E3086A40CCBF408173.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "大地の歌",
+      "trophyDetail": "地熱発電所を再始動させて、望遠鏡に電力を提供する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/5FD205AFC6482F6B08872C61225AC7130EF11141.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "心は野生のまま ",
+      "trophyDetail": "地熱地帯で活動しているピューマを倒して殺す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/6F4863AA47314D7E267B4312A70EEFC7F361FCC0.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "完璧な調節",
+      "trophyDetail": "「SARに行って戻る」ミッションを石炭50個以下の使用で完了する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/FC8D59183A4C73CF812970731F313F800C377136.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "レール曲げ ",
+      "trophyDetail": "外傷キットを回収する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/F8618617EA3FD612A26AC76B1A9F640B6F5E8CC6.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "最後の光",
+      "trophyDetail": "アストリッドと再会し、ハードケースを渡す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/41E8A6FEEBC4504897112AFB032BD9211EBEB9BD.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "新世界",
+      "trophyDetail": "第5エピソードを完了する。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/77FE7F6FC54EF96305C8078039A4E2CE43F068D4.PNG",
+      "trophyGroupId": "005"
     }
   ],
-  "totalItemCount": 76
+  "totalItemCount": 88
 }

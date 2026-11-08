@@ -1,0 +1,931 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR36395_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Honkai: Star Rail",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/75608f7b-b8e4-4268-9cab-e951ea2d21df.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 40,
+    "silver": 39,
+    "gold": 9,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Honkai: Star Rail",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/75608f7b-b8e4-4268-9cab-e951ea2d21df.png",
+      "definedTrophies": {
+        "bronze": 27,
+        "silver": 7,
+        "gold": 4,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Звёздный путь. Выпуск II",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/aca36e7f-8d14-4b4b-be81-e69a312faa2e.png",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Звёздный путь. Выпуск III",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/027f5524-f460-47b5-ad60-116891d304a3.png",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 5,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Звёздный путь. Выпуск IV",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/66690000-e31b-4039-91c9-eeea22b87f1c.png",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Звёздный путь. Выпуск V",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/01a9c7ee-5a07-4738-8a14-c1f69d764e30.png",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 5,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Звёздный путь. Выпуск VI",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/92bc1a85-9b72-444a-b3e4-fa37501a9448.png",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "006",
+      "trophyGroupName": "Звёздный путь. Выпуск VII",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/f04ce6ad-1281-49e5-87d6-26fb041b1761.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "007",
+      "trophyGroupName": "Звёздный путь. Выпуск VIII",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/069d9888-9688-4c79-a6fe-1f4a0674427c.png",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 5,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "008",
+      "trophyGroupName": "Звёздный путь. Выпуск IX",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/47f27562-1891-4ed4-83e0-8f62c8f5a645.png",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "009",
+      "trophyGroupName": "Звёздный путь. Выпуск X",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/a83d0280-dc65-43fd-bc51-8cd95fdb41eb.png",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Гудки среди звёзд",
+      "trophyDetail": "Когда поезд даст гудок и отправится сквозь световые годы, люди наконец познают путешествия среди звёзд.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/fedbc4c6-add9-4bc3-a598-eb3972d9d0d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Вечно горящий янтарь",
+      "trophyDetail": "Ступите на Путь Сохранения.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3fd17276-73f7-4bd2-a18f-4416b98c442b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Судьба манит I",
+      "trophyDetail": "Повысьте Световой конус до уровня 40.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/f30a6955-e709-456c-be1a-cd83802ef7f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Судьба манит II",
+      "trophyDetail": "Повысьте Световой конус до уровня 60.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/f30a6955-e709-456c-be1a-cd83802ef7f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Детство",
+      "trophyDetail": "Улучшите любого персонажа до уровня 40.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/f30a6955-e709-456c-be1a-cd83802ef7f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "В людях",
+      "trophyDetail": "Улучшите любого персонажа до уровня 60.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/f30a6955-e709-456c-be1a-cd83802ef7f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Моя цель - звёзды",
+      "trophyDetail": "Отправьтесь в путешествие по бескрайней галактике. ※ Поздравляем! Вы сели на Звёздный экспресс!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/de222f5f-2146-4763-8fd6-94f77de91b04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Наполовину волшебник Изумрудного города",
+      "trophyDetail": "Одолейте железного дровосека и маленькую девочку. ※ Сварог и Клара стали вашими друзьями!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Зима уже не так близко",
+      "trophyDetail": "Измените Белобог, начав с себя! ※ Первый шаг - одолеть Верховную хранительницу Коколию...",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/de222f5f-2146-4763-8fd6-94f77de91b04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Охотник на оленя",
+      "trophyDetail": "Печь не погасла, олень смолк. ※ Спасите Комиссию по ремёслам от катастрофы.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Пока свет не заберёт нас",
+      "trophyDetail": "Активируйте 5 пространственных якорей на космической станции «Герта».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3e266231-ff89-4a0c-a297-14823365011c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Неоткрытый мир",
+      "trophyDetail": "Активируйте 14 пространственных якорей в Белобоге.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3e266231-ff89-4a0c-a297-14823365011c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Поросята Тиндала",
+      "trophyDetail": "Поймайте свинку-копилку пространства 1 раз.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3e266231-ff89-4a0c-a297-14823365011c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Где проходит небесный путь",
+      "trophyDetail": "Активируйте 10 пространственных якорей на Лофу Сяньчжоу.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3e266231-ff89-4a0c-a297-14823365011c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Догадайся, кто я",
+      "trophyDetail": "Завершите миссию компаньона «ТыМеняЗнаешь».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Досада юного Арлана",
+      "trophyDetail": "Завершите миссию компаньона «Неожиданный поворот».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Дары волхвов",
+      "trophyDetail": "Завершите миссию компаньона «Подарок Хук».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "За городом тихо",
+      "trophyDetail": "Завершите миссию компаньона «Иммунитет к метели».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Клара и солнце",
+      "trophyDetail": "Завершите миссию компаньона «Невиданная ласка».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Преданность Сервал: Автобиография",
+      "trophyDetail": "Завершите миссию компаньона «Всего лишь ребёнок».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Расходный материал",
+      "trophyDetail": "Поговорите со всеми куклами Герты на космической станции.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Просто число",
+      "trophyDetail": "Используйте диковину «Оценивающий пистолет».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Повелитель бури",
+      "trophyDetail": "Разрешите кризис на станции канатной дороги Белобога, избегая при этом нарушения этики.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Быстро поднятое не считается упавшим",
+      "trophyDetail": "Узнайте рецепт жареного риса у Герти в гранд-отеле «Гёте».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ла-ла-ла Ленд",
+      "trophyDetail": "Получите партитуру для фонографа, поговорив с Тамилой в Золотом театре.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ловушка города вечнозимья",
+      "trophyDetail": "Дослушайте рэп бродяг.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "12+",
+      "trophyDetail": "Участвуйте в турнире «Тёмный кулак» и одержите окончательную победу.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Без вины виноватая",
+      "trophyDetail": "Завершите все головоломки «сундук недотёпы» в миссии «Сосуд заурядности».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Четвёртый Крот",
+      "trophyDetail": "Найдите все спрятанные сокровища в миссии «Кроты-приключенцы».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Лучше одна птица в руках, чем тысяча в небе",
+      "trophyDetail": "Помогите «Журавль-экспрессу» отыскать всех пропавших робоптах.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Тебе нужно быть в музее!",
+      "trophyDetail": "Соберите все экспонаты для Краеведческого музея Белобога.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/97a0ba5c-f332-4050-9c04-ec428f062edb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Идеальный детектив",
+      "trophyDetail": "Завершите миссию компаньона «Рыцарь-чужестранец».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Мастер среди клинков",
+      "trophyDetail": "Завершите миссию компаньона «Испытание ледяного клинка».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Прощай, Панклорд!",
+      "trophyDetail": "Завершите миссию компаньона «Дух Панклорда».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Нам не нужна легкотня III",
+      "trophyDetail": "Достигните уровня Равновесия 6.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3fd17276-73f7-4bd2-a18f-4416b98c442b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Утопия Диогена",
+      "trophyDetail": "Узнайте, чем славится Белобог! ※ Вы собрали все полезные предметы в мусорных баках!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/d5764df3-2f7e-40e5-8eff-219dc9974565.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Воздаяние",
+      "trophyDetail": "Вздох высшего существа, живущего в сердце. ※ Найдите способ израсходовать свою Похвалу высокой морали.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/d5764df3-2f7e-40e5-8eff-219dc9974565.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "50 кредитов?!",
+      "trophyDetail": "Соберите все плакаты розыска членов экипажа Звёздного экспресса.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Собственная комната",
+      "trophyDetail": "Завершите исследование Мира 1 Виртуальной вселенной.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/dadd1aa8-b77b-4a4a-8f6f-dd20bcfe2596.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Древо в щепки",
+      "trophyDetail": "Все хитросплетения должны быть устранены. ※ Помогите Цзин Юаню одолеть Фантилию.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/de222f5f-2146-4763-8fd6-94f77de91b04.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Банкиры и их коварные зонтики",
+      "trophyDetail": "Помогите Ярило-VI и Белобогу справиться с кризисом (ещё раз). ※ Завершите продолжение Освоения «Рынок будущего».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Полёт бумажного змея",
+      "trophyDetail": "Завершите миссию компаньона «Я уже коснулась неба».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Свобода воли",
+      "trophyDetail": "Завершите миссию компаньона «Письмо незнакомки».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Нахлынувшая горечь",
+      "trophyDetail": "Завершите миссию компаньона «Вспомнить всё».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Пейзажи Снежных полей",
+      "trophyDetail": "Завершите миссию компаньона «Дальше, чем Снежные поля».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Роса былого",
+      "trophyDetail": "Завершите миссию компаньона «Возвращение дракона».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "И останется только пепел",
+      "trophyDetail": "Завершите миссию компаньона «Моя кровиночка».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сломан, но не сломлен",
+      "trophyDetail": "Завершите миссию компаньона «Блуждающее облако».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Молчаливый бег",
+      "trophyDetail": "Пройдите все сюжеты Нашествия роя в Виртуальной вселенной: Нашествие роя.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/99184d8d-c28e-4a45-a4b5-9549ee4e9d52.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Опасность в моём сердце",
+      "trophyDetail": "Исследуйте сверхъестественные явления в Саду безмятежности вместе с Гуйнайфэнь.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Червячки Армагеддон",
+      "trophyDetail": "Завершите миссию компаньона «Ночь космических галлюцинаций».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Гении - налево, глупцы - направо",
+      "trophyDetail": "Устраните новые волнения на космической станции «Герта».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Время танцевать",
+      "trophyDetail": "Завершите миссию компаньона «Вальс на маскараде».",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "В погоне за сладостью",
+      "trophyDetail": "Найдите неожиданную радость в Мире грёз.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Старые друзья, новые друзья",
+      "trophyDetail": "Окунитесь в теплоту океана воспоминаний...",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Смогу одно сберечь я сердце",
+      "trophyDetail": "Вся Пенакония сойдёт с ума...",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "А она в ответ: «Хочу умереть»",
+      "trophyDetail": "Запаситесь попкорном и посмотрите финал. ※ Сразите Авантюрина из Десяти каменных сердец.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Последний магнат",
+      "trophyDetail": "Отыщите Часовщика. ※ Встретьте первого Безымянного на Пенаконии.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Nessun Dorma",
+      "trophyDetail": "Ступите на Путь Гармонии.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3fd17276-73f7-4bd2-a18f-4416b98c442b.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Корабль дураков",
+      "trophyDetail": "Новая страница в нашей судьбе. ※ Устраните угрозу «бомбы» и насладитесь фейерверком.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Время охоты",
+      "trophyDetail": "Сезон охоты ещё не начался. ※ Генералы... готовы выступать.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Крылатый Зверь и на волка охота",
+      "trophyDetail": "Стрелы падают, звери втягивают когти, а охотник опускает лук. ※ Устаканьте бурю на Церемонии боевых искусств.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Пусть не затухает тлеющий огонь",
+      "trophyDetail": "Даже когда стихнут аплодисменты, останутся голоса безголосых. ※ Помогите Луке выйти на арену для вызова Мастеру.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/97a0ba5c-f332-4050-9c04-ec428f062edb.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Великолепная охота: Финал",
+      "trophyDetail": "Погасите пожар смуты и завершите великолепную охоту. Это будет записано в «Свитке космического ниндзя». ※ Одолейте Коллектив банафедры Чудесного леса.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Путь ниндзя: Прошлое",
+      "trophyDetail": "Загляните в реальность мира ниндзя и смахните паутину с пыльных воспоминаний Ниндзя Хаоса. ※ Станьте свидетелем грёз прошлого Раппы.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "И на восьмой день он отправился в путь",
+      "trophyDetail": "Потерянный рай не был брошен. Он впереди. ※ Завершите последнее прощание, когда играете за Воскресенье.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Снова встретимся со вчера",
+      "trophyDetail": "Ступите на Путь Памяти.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3fd17276-73f7-4bd2-a18f-4416b98c442b.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Сходны судьбой поколенья людей с поколеньями листьев",
+      "trophyDetail": "Начните свой эпос о герое Амфореуса. ※ Верните пламя раздора и дождитесь возвращения Фаенона.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Одни нарождаются, гибнут другие",
+      "trophyDetail": "Откройте письмо, отправленное из прошлого в будущее. ※ Узрите начало Трибиос и Преследующих пламя.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Переправляя души на ржавом пароме",
+      "trophyDetail": "Она привела её в этот мир, она же и отведёт её в царство мёртвых. ※ Одолейте Крылья Смерти Полидевксию.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Отдать швартовы и покинуть царство мёртвых",
+      "trophyDetail": "Как бы ни хотелось остаться - не оглядывайтесь. ※ Примите помощь друзей и покиньте царство мёртвых.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Она одолжила твоё тепло",
+      "trophyDetail": "Обнаружьте все фрагменты воспоминаний Башни двух лун.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Начало всех концов",
+      "trophyDetail": "В этом мире нет ничего идеального. ※ Завершите путешествие Преследующих пламя.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Кошка, которая жила миллион раз",
+      "trophyDetail": "Обнаружьте последний фрагмент воспоминаний проворной путешественницы.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Заштопать небо",
+      "trophyDetail": "Обнаружьте последний фрагмент воспоминаний лучезарной целительницы.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Пеан воскресающей земли",
+      "trophyDetail": "О герой, запой пеан воскресающей земли. ※ Отправьтесь в последнее путешествие в эру воскресающей земли.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Мгновение, когда замедляет шаг ночь схватки",
+      "trophyDetail": "Страж Весов прибывает из временного запределья. ※ Призовите слугу.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Пока живы герои",
+      "trophyDetail": "Прислушайся к отдалённому скорбному напеву: он повествует о Матерях бытия, коим имена: Мираж, Воля, Боль. ※ Унаследуйте всё, пока живы герои.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "К новым морям",
+      "trophyDetail": "Всё блестит мне быстротечно, полдень спит в объятьях дня... ※ Отправьтесь в Вихрь сотворения с помощью чаши духов, возвращённой воровским духом Бартолосом.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3e266231-ff89-4a0c-a297-14823365011c.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Внемли, сладкая иссиня-чёрная ночь",
+      "trophyDetail": "Раз уж за этой дверью Амфореус... ※ Узрите выход Темени.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Сказания о героях Амфореуса",
+      "trophyDetail": "Идите же со мной и станьте героями! ※ Завершите последнюю эру воскресающей земли.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Конечная точка света",
+      "trophyDetail": "Смотри, там, куда стремится колесница, простирается рассвет и победа. ※ Узрите, как Первопроходец в виде экспресса рассекает небеса.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Скажи мне, муза",
+      "trophyDetail": "В Световом конусе заключена судьба. ※ Поставьте точку в этом эпосе.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/de222f5f-2146-4763-8fd6-94f77de91b04.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Прошлое - отражение будущего",
+      "trophyDetail": "Время танцует на острие клинка, и только свет способен пронзить будущее. ※ Узрите слияние Завершённости и Освоения.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Лето, Искорка и чей-то труп",
+      "trophyDetail": "На встрече с богом всегда требуется жертвоприношение. ※ Узрите жестокое открытие Игр фантаны.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Бредни фантаны",
+      "trophyDetail": "Эон говорит, а вы слушаете. ※ Выслушайте безумную тираду Фантаны.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "И сказал: «Да будет смех»",
+      "trophyDetail": "Ступите на Путь Радости.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3fd17276-73f7-4bd2-a18f-4416b98c442b.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Канувшая в пустоту шутка",
+      "trophyDetail": "Нет ничего хуже необходимости объяснять шутку. ※ Узрите истинное лицо Асата Прамада.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Тишина",
+      "trophyDetail": "Тишина, конец всего. Упавшая голова смотрит на побеждённое «я», и вдруг сильно хочет засмеяться.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "009"
+    }
+  ],
+  "totalItemCount": 89
+}

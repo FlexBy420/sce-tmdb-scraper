@@ -1,0 +1,609 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR38075_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Terraformers",
+  "trophyTitleDetail": "Trophies for Terraformers",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/3ECB495D7CFF626C1F14E9CAB0B323CD2653032D.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 56,
+    "silver": 7,
+    "gold": 0,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Terraformers",
+      "trophyGroupDetail": "Trophies for Terraformers",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/3ECB495D7CFF626C1F14E9CAB0B323CD2653032D.PNG",
+      "definedTrophies": {
+        "bronze": 56,
+        "silver": 7,
+        "gold": 0,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Mars is there, waiting to be reached",
+      "trophyDetail": "Obtain all other trophies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/FE52AD5A2687B2410FD5C9174E30E669F6A7CFBC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Red Planet Awaits - Pioneer",
+      "trophyDetail": "Win \"The Red Planet Awaits\" scenario on any mastery level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/A273F3CD7B3B03E437B57108E03576782CA3C273.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Red Planet Awaits - Master",
+      "trophyDetail": "Win \"The Red Planet Awaits\" scenario on mastery level 15 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/49AD0CC4D530AEA5189786AF3BE58B99C471AA6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Red Planet Awaits - Grand Master",
+      "trophyDetail": "Win \"The Red Planet Awaits\" scenario on mastery level 45 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/ACD33104127366080DE1923A8127D099AF8B23CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Red Path - Pioneer",
+      "trophyDetail": "Win the \"Red Path\" scenario on any mastery level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/51DF194DD2FE074801B282916E2D7B3345E22C93.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Red Path - Master",
+      "trophyDetail": "Win the \"Red Path\" scenario on mastery level 15 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/2CE85316714B1C231B0AEC4D0A3F35CA52917F6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Red Path - Grand Master",
+      "trophyDetail": "Win the \"Red Path\" scenario on mastery level 45 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/1CE246D42046CF6209E410DEC3C2B4A1FE4B985A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Green Path - Pioneer",
+      "trophyDetail": "Win the \"Green Path\" scenario on any mastery level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/43EB59D664C015997A7720BE1F746B53C4210894.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Green Path - Master",
+      "trophyDetail": "Win the \"Green Path\" scenario on mastery level 15 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/091758C56C657A25A47AFC201B0284C8DF6A099D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Green Path - Grand Master",
+      "trophyDetail": "Win the \"Green Path\" scenario on mastery level 45 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/8467C7CB67EA07050F689307B18F317FF9D84218.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blue Path - Pioneer",
+      "trophyDetail": "Win the \"Blue Path\" scenario on any mastery level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/50757C4A5DB1E268AD2242315BCCFB7B8C4ACC4C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blue Path - Master",
+      "trophyDetail": "Win the \"Blue Path\" scenario on mastery level 15 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/6E084AE7298137493C9B52C37C756B29BB2DCF5A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Blue Path - Grand Master",
+      "trophyDetail": "Win the \"Blue Path\" scenario on mastery level 45 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/9E4823E39062E8BE28D0B0FBE41BD70485588CE8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Per Aspera Ad Astra - Pioneer",
+      "trophyDetail": "Win the \"Per Aspera Ad Astra\" scenario on any mastery level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/ECFD874EA162798F58A59CF3B4DF07AE2F6057CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Per Aspera Ad Astra - Master",
+      "trophyDetail": "Win the \"Per Aspera Ad Astra\" scenario on mastery level 15 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/DA63EA354099DC1242660CBBDE9825C79DB8C27D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Per Aspera Ad Astra - Grand Master",
+      "trophyDetail": "Win the \"Per Aspera Ad Astra\" scenario on mastery level 45 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/88E808167815CF542EFF0C4D7DC8ACB1155715D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Planet of Knowledge - Pioneer",
+      "trophyDetail": "Win the \"Planet of Knowledge\" scenario on any mastery level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/13D4E573C0A201BC45647ABA331D96E52B5E1205.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Planet of Knowledge - Master",
+      "trophyDetail": "Win the \"Planet of Knowledge\" scenario on mastery level 15 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/1B4D5045255104D4DDBCF03135782008FFC048C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Planet of Knowledge - Grand Master",
+      "trophyDetail": "Win the \"Planet of Knowledge\" scenario on mastery level 45 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/DBC38CD25CF63AB4E1C3BA82494D5FA294209C16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expansionist - Pioneer",
+      "trophyDetail": "Win the \"Expansionist\" scenario on any mastery level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/7F04A4780B682444D783D47D99C8C16E768DE51D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expansionist - Master",
+      "trophyDetail": "Win the \"Expansionist\" scenario on mastery level 15 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/07B18B1C59BB7A2EC4F46871D32D84280CBF3341.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Expansionist - Grand Master",
+      "trophyDetail": "Win the \"Expansionist\" scenario on mastery level 45 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/673B3AAD49A7DBC297F248B0A62907E78010DBE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mastery 1 Platinum",
+      "trophyDetail": "Complete all scenarios on mastery level 1 in 65 turns or less.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/BDB1398527C1F7591EC505B6CC5715540805C059.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mastery 3 Platinum",
+      "trophyDetail": "Complete all scenarios on mastery level 3 in 65 turns or less.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/E78CC535C0894D9040AA5B6882F2AD82308D025A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mastery 6 Platinum",
+      "trophyDetail": "Complete all scenarios on mastery level 6 in 65 turns or less.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/7BDD74B550B1268111A5E8A86B9DD1DF89C20DD2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mastery 10 Platinum",
+      "trophyDetail": "Complete all scenarios on mastery level 10 in 65 turns or less.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/5CD845B6E9ACB14F7490803C743A02D124F47B21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mastery 15 Platinum",
+      "trophyDetail": "Complete all scenarios on mastery level 15 in 65 turns or less.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/453452E0D71794F8FE5A50DC011A5EC390F10907.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mastery 21 Platinum",
+      "trophyDetail": "Complete all scenarios on mastery level 21 in 65 turns or less.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/B2D3EA14BB59EF2C35604F5CFDC931653CA10971.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mastery 28 Platinum",
+      "trophyDetail": "Complete all scenarios on mastery level 28 in 65 turns or less.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/6E613ACC29608D883BC54896E8866424D338098C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mastery 36 Platinum",
+      "trophyDetail": "Complete all scenarios on mastery level 36 in 65 turns or less.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/E8F1AA5DFCD58D3A223149889E07C8546294F2D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mastery 45 Platinum",
+      "trophyDetail": "Complete all scenarios on mastery level 45 in 65 turns or less.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/62F5BEEB28FE9AAF9912C9240DF4C076DCC53195.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weekly Terraformer",
+      "trophyDetail": "Win a Weekly Challenge.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/EA09D2E17035D608052E91364110BBBEB9840561.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "We'll Come Back Stronger",
+      "trophyDetail": "Lose a game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/E00CB5D9DFB0DB7DD5BB3106FBF08F09EEFB62A7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Global Warming",
+      "trophyDetail": "Raise the temperature level to 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/766D81D14048F6C14617423E467AA1F223F8CC87.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Big Blue",
+      "trophyDetail": "Raise the ocean level to 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/6FE5CB9B693E714FA25B90196BD0D8F626BD1E11.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ozone Layer",
+      "trophyDetail": "Raise the oxygen level to 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/DFDE3276716147F22778069E6AEBFDA1988B9DB7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Breath Of Fresh Air",
+      "trophyDetail": "Raise the atmosphere level to 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/3F194528B37AFFC6CEF40810387ADA7DC070B796.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Going Nuclear",
+      "trophyDetail": "Nuke both poles in a single game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/CC5950E5458F12742506A5F05E36AF32DF68E6E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mass Eruption",
+      "trophyDetail": "Erupt 2 volcanoes in a single game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/2DDB1430D5E448EBA183D0D203BEC3D161ACE7A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bacteria",
+      "trophyDetail": "Have 6 different bacteria on the planet.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/7F513EA02BAD3E4ACF6A57C4F977AD111C561019.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Green Planet",
+      "trophyDetail": "Have 6 different trees on the planet.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/DC9997E17E483617B00614D8D64E6A4BD5B1C8FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wildlife",
+      "trophyDetail": "Have 6 different animals on the planet.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/CB4888634E79186173BD9465FC2FB73DDF890652.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gardener of Life",
+      "trophyDetail": "Have 15 unique life forms on the planet.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/7F9EDCE9BE2E9C2084E2E268FBE9C1EC8F2A47AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Place To Be",
+      "trophyDetail": "Have a city with a comfort of living of 15.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/6A05234C9D32E514EBA5EDDD4C35AADEE2B6FFD7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Place To NOT Be",
+      "trophyDetail": "Have a city with a comfort of living of -5.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/80D0A203B1A08F10A9C447B1717F9B06D6849017.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Metropolis",
+      "trophyDetail": "Have a city that owns 20 locations.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/16821F01903B8161326549F3DE37A012B3F0FB76.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moons of Mars",
+      "trophyDetail": "Found a city on both Phobos and Deimos in a single game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/85A2B6B354551908BB9B9F0E37C53B029EC16097.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just in Time",
+      "trophyDetail": "Win a game with 10 or less support stored.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/4696054E767F279B2D6C5FEE5C46FA778D0AB9C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Netherlands",
+      "trophyDetail": "Build 30 dike levels in a single game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/BC42152CA6BD3FF5A7ED61AEC05FABFAE1C6AD64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seafaring",
+      "trophyDetail": "Construct a building or mine on an ocean location.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/2C82D8073908EE56E39C1F5CE04288A465793039.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ocean Dwellers",
+      "trophyDetail": "Have buildings or mines on 20 owned ocean locations.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/F2D891DFA02FC929DDD9074F48B54EFB69761743.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Business",
+      "trophyDetail": "Trade a total of 25 resources in a single turn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/F2C4F29129C4541A705F04665048E59AE3D6C476.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boombastic",
+      "trophyDetail": "Clear 50 rocks in a single game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/677162B8F31229000256A820EA059881C26FA5A7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "My Own City",
+      "trophyDetail": "Rename 5 cities in a single game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/B58FFBCE895DE5951CAEA28C6D296A27DD66FA0A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A New Home",
+      "trophyDetail": "House all Earth's refugees, have no slums on the planet.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/0FB8C12105207526E70B869B24B598075093A577.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Balanced Atmospheres",
+      "trophyDetail": "Import CO2 from Earth.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/518C1A99422EEAE0E5406CEDA310E41A35F41BB1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Al Ca-gone",
+      "trophyDetail": "Prevent the Martian Mafia from stealing any resources in all 5 of their attempts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/E9041597EE44F9BCAD584496CAF340938A964BF3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crimson Wind",
+      "trophyDetail": "Win a game after accepting the bribe from the Martian Mafia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/D781D9DD80A5CB330F4ED881D116E54B0F86E422.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Armageddon On My Watch",
+      "trophyDetail": "Destroy the apocalyptic asteroid.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/E7951B15B0CE25378E68A83E8ED930A9FEE67C46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Danger averted",
+      "trophyDetail": "Redirect the apocalyptic asteroid.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/6CE1AC21023696A258117FA4623722861D9AE869.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Martian",
+      "trophyDetail": "Hire Camille Williams.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/C85BBFF2104FE92CDD10B8142AE3312B29657A09.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "No Earth Society",
+      "trophyDetail": "Hire Nathan Patterson.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/E4C8AE356524C47206679C90E326970523F9EBFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Museum of Curiosity",
+      "trophyDetail": "Construct the Rover Museum.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/AF1E5D03403963D04BA016650AFF07AACC2B8B86.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Life finds a way",
+      "trophyDetail": "Discover life on Mars.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38075_00_00140F958CA6692000D6B4E6DA94F055CD9ADDCBE8/89AEF96E4E1ABB4F14C81A911090539840C63794.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 64
+}

@@ -1,0 +1,490 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR41043_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Train Traffic Manager",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/c778d10a-d3ee-4eaa-89c4-164402f75199.PNG",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 38,
+    "silver": 4,
+    "gold": 3,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Train Traffic Manager",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/c778d10a-d3ee-4eaa-89c4-164402f75199.PNG",
+      "definedTrophies": {
+        "bronze": 38,
+        "silver": 4,
+        "gold": 3,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "완료주의자",
+      "trophyDetail": "기본 트로피 모두 완료.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/14cb83b1-0b60-4f67-8e8a-7ea8d4f230fe.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "순전한 사고",
+      "trophyDetail": "20대의 열차를 충돌시키세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "충돌의 즐거움",
+      "trophyDetail": "50대의 열차를 충돌시키세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "열차 무덤",
+      "trophyDetail": "100대의 열차를 충돌시키세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "부드럽게",
+      "trophyDetail": "사고 없이 2분 연속으로 플레이하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "매끄럽게",
+      "trophyDetail": "사고 없이 5분 연속으로 플레이하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "자유 흐름",
+      "trophyDetail": "사고 없이 10분 연속으로 플레이하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "재시도",
+      "trophyDetail": "게임 한 판을 패배하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "까다로운 문제",
+      "trophyDetail": "레벨을 3회 연속으로 실패하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "설상가상",
+      "trophyDetail": "메뉴로 돌아가지 않고 3개 레벨을 연속으로 완료하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "시리즈의 법칙",
+      "trophyDetail": "메뉴로 돌아가지 않고 5개 레벨을 연속으로 완료하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "뜨거운 연속",
+      "trophyDetail": "메뉴로 돌아가지 않고 10개 레벨을 연속으로 완료하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/c9721246-37b5-4772-b730-301f065eed2c.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "하나하나까지",
+      "trophyDetail": "100대의 열차를 무사히 목적지까지 보내세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "양 세기",
+      "trophyDetail": "500대의 열차를 무사히 목적지까지 보내세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "아직도 세는 중",
+      "trophyDetail": "1000대의 열차를 무사히 목적지까지 보내세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/42520617-42c6-4c18-89f4-b454ec2e3929.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "두 번째 기회",
+      "trophyDetail": "하트 강화를 10회 사용하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "너는 너, 나는 나",
+      "trophyDetail": "하트를 잃지 않고 레벨을 5회 완료하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "가속",
+      "trophyDetail": "빨리 감기를 60초간 사용하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "60"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "터보",
+      "trophyDetail": "빨리 감기를 600초간 사용하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "600"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "느리지만 꾸준하게",
+      "trophyDetail": "빨리 감기를 쓰지 않고 레벨을 완료하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "분노의 질주",
+      "trophyDetail": "항상 빨리 감기를 한 상태로 레벨을 완료하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "완벽한 레벨",
+      "trophyDetail": "아무 지도에서 별 3개에 도달하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "별 3개가...",
+      "trophyDetail": "누적 별 50개에 도달하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "...하늘에서...",
+      "trophyDetail": "누적 별 100개에 도달하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "...빛나고 있어",
+      "trophyDetail": "누적 별 150개에 도달하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/42520617-42c6-4c18-89f4-b454ec2e3929.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "150"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "100% 캠페인",
+      "trophyDetail": "별을 전부 모으세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/c9721246-37b5-4772-b730-301f065eed2c.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "240"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "켜기 및 끄기",
+      "trophyDetail": "불을 50회 바꾸세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "교체 기계",
+      "trophyDetail": "불을 500회 바꾸세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "초록색 물결",
+      "trophyDetail": "5초간 동시에 초록불 5개를 켜세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "좌우",
+      "trophyDetail": "철로를 100회 변경하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "상하",
+      "trophyDetail": "도개교를 50회 움직이세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "모래 황무지",
+      "trophyDetail": "사막 세계를 완료하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "초록빛 초원",
+      "trophyDetail": "숲 세계를 완료하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "추웠던 그 시절",
+      "trophyDetail": "눈 세계를 완료하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "자정이 지나고",
+      "trophyDetail": "야간 세계를 완료하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/42520617-42c6-4c18-89f4-b454ec2e3929.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "무한한 시작",
+      "trophyDetail": "20개의 무한 지도에서 플레이하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "조금만",
+      "trophyDetail": "아무 무한 레벨에서 5분을 설정하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "꽤 오래",
+      "trophyDetail": "아무 무한 레벨에서 10분을 설정하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "평생",
+      "trophyDetail": "아무 무한 레벨에서 15분을 설정하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/c9721246-37b5-4772-b730-301f065eed2c.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "한계점",
+      "trophyDetail": "10개의 무한 레벨에서 5분을 설정하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/42520617-42c6-4c18-89f4-b454ec2e3929.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "산악인",
+      "trophyDetail": "눈/산사태로 열차 10대를 파괴하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "다이버",
+      "trophyDetail": "강에 열차 10대를 빠뜨리세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "토네이도",
+      "trophyDetail": "회오리바람으로 열차 10대를 날려버리세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "하늘에서",
+      "trophyDetail": "운석으로 열차 10대를 파괴하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "벌목꾼",
+      "trophyDetail": "쓰러진 나무로 열차 10대를 파괴하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "친구와 함께하는 재미",
+      "trophyDetail": "2명 이상의 플레이어로 레벨을 완료하세요.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41043_00/aa62e974-ff1b-4704-9b65-4ee22455cc01.PNG",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    }
+  ],
+  "totalItemCount": 46
+}

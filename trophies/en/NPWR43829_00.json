@@ -1,0 +1,300 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR43829_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Land Of Mushrooms",
+  "trophyTitleDetail": "Main game trophies.",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/D002CC327FA380B17021E04D9190B536BA33FB2D.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 4,
+    "silver": 13,
+    "gold": 9,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Land Of Mushrooms",
+      "trophyGroupDetail": "Main game trophies.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/D002CC327FA380B17021E04D9190B536BA33FB2D.PNG",
+      "definedTrophies": {
+        "bronze": 4,
+        "silver": 5,
+        "gold": 9,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Small Mode Trophies",
+      "trophyGroupDetail": "Achieveable only in Small Mode!",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/5F868C1A4DDC3FB0F56EF6518A2AC6B3E4C996F9.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Coop Mode Trophies",
+      "trophyGroupDetail": "Achieveable only in Coop Mode!",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/255E91519779F3750928D59E5F97C07B3C8B741B.PNG",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Full atlas",
+      "trophyDetail": "You collected a full atlas of mushroom achievements.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/A9A54D70DC6CC0A0FB80FC79D081F54DA62C20A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fungal Fusion Initiate",
+      "trophyDetail": "Combine your very first mushroom!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/9211622A41D3983A3F9E0CCE542CD32F0CB06C4A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Agaric Assembler",
+      "trophyDetail": "Combine 2 Fly Agaric Mushrooms.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/6B0A7D19F2FAAB6047443AB76FF1F9E633C5750A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Champignon Composer",
+      "trophyDetail": "Combine 2 Champignon mushrooms.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/E48BD589B67107CF74CEA34AABF0B40B768F5FEA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Russule Rendezvous",
+      "trophyDetail": "Combine 2 Russule  mushrooms.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/4009CCA94E34B0F3C992815DB94DD4E722691647.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Lurid Bolete Blitzer",
+      "trophyDetail": "Combine 2 Lurid Bolete mushrooms.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/73F5FDF0334119DD1991A22CC879A34E274B001A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Chantarelle Champion",
+      "trophyDetail": "Combine 2 Chantarelle mushrooms.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/70C5E37BD57A7B3A2F7AE052741EC018677AC70D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "White Domecap Wizard",
+      "trophyDetail": "Combine 2 White Domecap mushrooms.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/B8948D95DA36C90AD71EDE4BE74FBF402F324B12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Button Mushroom Maestro",
+      "trophyDetail": "Combine 2 Button mushrooms.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/AC3CCCBA3EC909AB21FECFDDA811FB092FAB9EE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Oyster Orchestrator",
+      "trophyDetail": "Combine 2 Oyster mushrooms.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/3E382EB0E07A8409B34D011F5712EA396D39B237.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fungal Fusionist",
+      "trophyDetail": "Combine 25 mushrooms in total..",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/02A8AA10AB9ECD48F88ACE6612E0C89AA9119C9D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mushroom Medley",
+      "trophyDetail": "Combine 50 mushrooms in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/DD06501087DE25BD8D6742B7208D92714694DD75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Mycelial Maestro",
+      "trophyDetail": "Combine 100 mushrooms in total. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/6230DC64C71161CF4E3D51C35E3F0A41490CA3A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fungal Frenzy 1",
+      "trophyDetail": "Score 1000 points.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/39F32F41302C423398B919DFE6616F7B0503724E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mushroom Madness 2",
+      "trophyDetail": "Score 5000 points. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/C3C836D86A04682509F2C6E2DE3FEF91C13CC202.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Fungi Phenomenon 3",
+      "trophyDetail": "Score 10000 points. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/A3257B588F7577D3903DD6663CF20DC0C12ABC9A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spore Bomber 1",
+      "trophyDetail": "Bomb 5 mushrooms in total. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/88207362B11819EF2F8370D5B0F7307CC1E57D25.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fungus Annihilator 2",
+      "trophyDetail": "Bomb 25 mushrooms in total. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/E00525B6981F4E240436E82920C3D6A633605A1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Mycorrhizal Menace 3",
+      "trophyDetail": "Bomb 50 mushrooms in total. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/9185FFE78EAFFE055DF1746AA61879F4E80C42B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Small Mode: Beginner",
+      "trophyDetail": "Reach 1000 score in small mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/73686AFD48ABF7753BDCC3420B9F9BE801F2F68F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Small Mode: Apprentice",
+      "trophyDetail": "Reach 5000 score in small mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/E819E56B9529CFC9D63EB36EEA1FBCD0E3C90F22.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Small Mode: Mastery",
+      "trophyDetail": "Reach 25000 score in small mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/18FCFFB5CAA29CB41FBF257B3AA7B348EDEBE434.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Peace, at last",
+      "trophyDetail": "Skip 10 bombs in small mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/4710ED4D7309932AE0733E11316A4C68AA1AF843.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mushrooms, together",
+      "trophyDetail": "Score 1000 points",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/B5431DFD230D6C9E9FAA14CC749C3BF501D8CC00.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "More mushrooms, together",
+      "trophyDetail": "Score 5000 points",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/438B8A1930EA427D40323561E4C1146A837FE617.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Even more mushrooms, altogether",
+      "trophyDetail": "Score 10000 points",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/290B72C4EEAA58C4C226E4D8B86F80F3F1908853.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Funky mushrooms go away",
+      "trophyDetail": "Skip 10 wildcard (Rainbow) mushrooms",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43829_00_00AFA5657E0BB14342F43BB6399E831AC6DAD3EA6A/5D6AC27ABE8145E7665C9C46D0BCC6AED9890076.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 27
+}

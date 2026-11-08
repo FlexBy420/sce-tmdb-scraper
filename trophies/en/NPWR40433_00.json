@@ -1,0 +1,780 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR40433_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Songs of Conquest",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/d999c238-a027-4256-850f-b6874f390e50.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 65,
+    "silver": 10,
+    "gold": 0,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Songs of Conquest",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/d999c238-a027-4256-850f-b6874f390e50.png",
+      "definedTrophies": {
+        "bronze": 44,
+        "silver": 10,
+        "gold": 0,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Vanir",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/bddbfc88-0606-49c1-96bb-c9f2fc21369e.png",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Roots",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/ca9420e0-098a-4288-a537-833ba8fab4c7.png",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Rise Eternal",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/ee2387b9-331d-4d40-ab04-7739814d7d22.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Yulan",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/fa9ffe67-06d7-450a-a9e9-b417de091329.png",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Song of Conquest",
+      "trophyDetail": "Obtain all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/44a8cb8d-d3fc-40ba-80e0-74fdd1eb8c7d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bringer of Ruin",
+      "trophyDetail": "Cast five Apocalypse spells on the same troop turn",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/85e235c9-4065-417f-bb16-275f6b5e5a8b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Song of Stoutheart",
+      "trophyDetail": "Complete all Arleon campaign maps (on any difficulty)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/15068ab2-5e30-446a-9212-a421dbc11f1e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Death To Diplomacy",
+      "trophyDetail": "Complete the last Arleon campaign map on Overwhelming difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/d49a537d-d777-4c8c-ba02-87dc73cd1ceb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dressed For Success",
+      "trophyDetail": "Have a wielder equipped with artifacts in all slots",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f04afc1b-6f50-4a20-9a68-2f06515e3cf0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Attack Bonanza",
+      "trophyDetail": "Have troop perform six attacks on its turn",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/752c1890-b13d-4780-aa0f-6e778e961061.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Price of Freedom",
+      "trophyDetail": "Complete all Barya campaign maps (on any difficulty)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/0e47155a-fbda-40c2-bb53-c3b10e08556f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Life's Worth",
+      "trophyDetail": "Complete the last Barya campaign map on Overwhelming difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/774ea1eb-daba-4b05-ba5a-9c5c3e6ac06c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "This Spot's Taken",
+      "trophyDetail": "Block an enemy troop from burrowing up",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/398d2d68-d721-4cf8-8e8a-ed05af46ef11.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hello There",
+      "trophyDetail": "Burrow up next to three or more ranged enemy troops",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/a5c20bce-9959-464e-a009-7bea6f367b1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Versatile Wielder",
+      "trophyDetail": "Cast each spell (over any number of games)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/0f92e4eb-e19b-4640-a08b-d4738e75acb6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "40"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unlimited Power!",
+      "trophyDetail": "Kill three enemies using Chain Lightning",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/c846c450-3303-4853-be9f-a4b1f8400112.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fully Charged",
+      "trophyDetail": "Have ten or more Charged buffs on a troop",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/62e777c0-3aa6-4df9-8285-82f31ceef412.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coming Through!",
+      "trophyDetail": "Trigger three Attacks of Opportunity in a single Bull Rush",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/bc2150df-182c-42f3-81e8-e7b525b80ba2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Critical Hit",
+      "trophyDetail": "Deal 500 damage or more in one attack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/fd1bd8cc-2ff8-4089-8dd9-9dcf58070d31.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deepstrike",
+      "trophyDetail": "Use Dimensional Door to position your troop in three or more Zones of Control",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/2362fa64-8a58-406b-83cd-6d4e4765646b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Die by the Bow",
+      "trophyDetail": "Kill 100 000 enemies using ranged attacks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/48f25928-ead8-409a-85f3-6e42290ad5f2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100000"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Die by the Staff",
+      "trophyDetail": "Kill 100 000 enemies using magic damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/4b2e4e5d-5f03-487d-a074-5f1ad7bd48d9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100000"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Die by the Sword",
+      "trophyDetail": "Kill 100 000 enemies using melee attacks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/d4875fad-3e1b-4ceb-9f53-ccb18fd4b3b8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100000"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Double Kill",
+      "trophyDetail": "Win two battles on the same turn with the same wielder",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/883d35a9-5e51-4fe9-972c-e04e73b99e88.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Barbecue",
+      "trophyDetail": "Kill three enemies with one flame attack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/b67fef3a-64ff-4379-9153-f3eeaef9230c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In The Thick Of It",
+      "trophyDetail": "Have three or more Front Line Fighter buffs on a troop",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/da653d07-e54a-4273-bbc6-47f8ab625107.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full House",
+      "trophyDetail": "Win a battle using each of the official wielders",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/d393ed46-9d5b-474d-9153-c97144166a54.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "36"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infernal Influence",
+      "trophyDetail": "Make enemy kill his friend using Blind Hatred",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/bc378bcb-728e-4d12-ac20-84cda5e57549.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Killing Spree",
+      "trophyDetail": "Win six battles in a row on the same turn",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/a5070989-476c-499f-b0fb-6416e1ca304f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Together For Her",
+      "trophyDetail": "Complete all Loth campaign maps (on any difficulty)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/1106a48d-a51f-4f79-b7f2-34b2576860a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "An Empress's Hope",
+      "trophyDetail": "Complete the last Loth campaign map on Overwhelming difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/bebff129-f314-4713-89f6-cc46e30194a2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Multi Kill",
+      "trophyDetail": "Win three battles on the same turn with the same wielder",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/e056ee2e-16ff-4d86-8a31-2a03496fdf6a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Proof That Luck Can Be Consistent",
+      "trophyDetail": "Win 25 multiplayer (online or hotseat) games",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/721c3990-4e83-49fe-8b63-723bb7d75393.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oops!",
+      "trophyDetail": "Have enemy kill one of your own troops when you cast Blind Hatred",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/a13474de-65c6-48c0-a0bb-3a7dba6a047d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Death From Above",
+      "trophyDetail": "Kill three enemies using Breath of the Phoenix",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/599c5b9e-f657-4a29-93e2-6ae46cb04e96.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Whoops!",
+      "trophyDetail": "Have your troop die from a Quick retaliation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f978582e-80c0-4b22-a1a5-fc074bc09d30.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "From the Ashes",
+      "trophyDetail": "Complete all Rana campaign maps (on any difficulty)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/b47c5ac8-1074-4932-a331-8eda22160374.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Marsh Expands",
+      "trophyDetail": "Complete the last Rana campaign map on Overwhelming difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/4bee1410-96d1-4949-be85-3f0178ed7db6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Don't Touch My Stuff",
+      "trophyDetail": "Reclaim your town or settlement that is being occupied/razed/converted by the enemy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/3988cd6a-850f-4038-a4d4-166253fc4242.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Such A Fungi",
+      "trophyDetail": "Use Repel to push an enemy troop into three Explosive Fungi",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/c2d7d379-5f20-4f0c-bf7b-2d09b2436f76.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sorcerous Spree",
+      "trophyDetail": "Cast five spells on the same troop turn",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/007a2da1-4ef7-4f7d-865b-6ea430dd9f06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Get Over Here!",
+      "trophyDetail": "Swap enemy troop into Acid Cloud",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/13c0e066-c569-446e-aab0-d5b230a1c896.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cleave",
+      "trophyDetail": "Kill three enemies with one sweeping attack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/3f9756ae-6580-4e5f-a208-e2bdc4adbcd3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Landlord Extraordinaire",
+      "trophyDetail": "Max out a town in a non-campaign game (tier 5, walls, upgraded buildings on all build sites) ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/25d81e70-b9e1-4e0e-89be-6fdb966fd7c6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trojan Horse",
+      "trophyDetail": "Use a teleport spell to get on top of or behind the walls in a town siege",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/fc69cda7-3969-430f-a16c-6817f5c13afd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ultra Kill",
+      "trophyDetail": "Win four battles on the same turn with the same wielder",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/cb2dd728-43f1-436d-870b-8b5d949349e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept",
+      "trophyDetail": "Reach level 8 with a wielder",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/d5b9d6dc-ee48-4cad-b880-7446d49feb96.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Veteran",
+      "trophyDetail": "Reach level 16 with a wielder",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/3d521e97-c954-4c1b-8cf1-5970ad54c46d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master",
+      "trophyDetail": "Reach level 24 with a wielder",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/a2d2aab8-f6f7-4a3a-8a19-022e9cfe8f44.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Grand Master",
+      "trophyDetail": "Reach level 32 with a wielder",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/097c681a-93aa-47df-8724-0622b0cd9136.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Humiliation",
+      "trophyDetail": "Win a battle before the enemy gets a turn",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/c2587680-57cc-425f-b6f4-eddbf9fb236f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pyrrhic Victory",
+      "trophyDetail": "Win a battle with only a single one unit left",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/1a33fa99-b4c4-432c-8684-6fb2bbc2469c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert Essence Employment",
+      "trophyDetail": "Win a battle without making an attack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/aae70c1e-f140-4b8b-9b30-7dabb42a27bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Veni, Vidi, Vici",
+      "trophyDetail": "Win a battle against a walled town",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/9a8d8b47-ab4e-4e86-8896-cecb1f2f9045.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Venisti, Vidisti, Perdidisti",
+      "trophyDetail": "Defend a walled town in battle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/a24b2a4e-c1a2-4f36-8313-a6025eab2c67.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kneel, peasant!",
+      "trophyDetail": "Win 25 times on non-campaign maps with Arleon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f2e9eff2-b4be-463f-98e5-3214750aec78.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contractually Obligated to Win",
+      "trophyDetail": "Win 25 times on non-campaign maps with Barya",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/74a56550-ddf4-48a7-b6af-f0b24ea28a5a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Like It A Loth",
+      "trophyDetail": "Win 25 times on non-campaign maps with Loth",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/fa2027a0-f379-457f-9a0a-fcd8137f5053.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Here be Dragons",
+      "trophyDetail": "Win 25 times on non-campaign maps with Rana",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/2b2b5a47-eefc-4c1e-b499-347181fe1b29.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ready, Set, Go",
+      "trophyDetail": "Complete an artifact set containing at least four pieces in a non-campaign game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/1161a101-0719-4350-a729-d8b387b4657e.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Challenge At All",
+      "trophyDetail": "Challenge an enemy and have it die before it gets a chance to attack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/3a542823-4583-4067-a357-38a608652ad1.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grisfest",
+      "trophyDetail": "Have 540 Serimnaans return to be drafted",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/2decb114-0550-4ad4-b11b-607cc90076f5.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "540"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "So Long, and Thanks for All the Fish",
+      "trophyDetail": "Win a battle using a fish",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/bc6156ec-3434-4e2c-95fd-e03972219f5f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Great Deeds Done",
+      "trophyDetail": "Win 25 times on non-campaign maps with Vanir",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/bc9c3bbd-b1b6-45cc-8f2c-60586b1fa819.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Steadfast",
+      "trophyDetail": "As Vanir, win a game without ever purchasing a Vildra troop",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/8c497009-4d3c-45e8-bcea-3674a2327836.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Core Kernel of Essence",
+      "trophyDetail": "As a Roots player, purchase all available essence research",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/dc1bfd42-a427-4ca6-879a-817f613c73f4.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Smothered",
+      "trophyDetail": "Absorb 1,000 damage using the Mother's Embrace trait",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/763893d0-acc1-42ef-bd41-272470e45e83.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Free Lunge",
+      "trophyDetail": "Use Lunge ability to finish off an enemy after it was Repelled away",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/007d73cf-1008-4b7a-8f24-83e0ba69bef3.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heart to Heart",
+      "trophyDetail": "Win a beam duel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/ee6c55d8-5549-41cf-8657-672010e3d2c6.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Personal Growth",
+      "trophyDetail": "Win 25 times on non-campaign maps with Roots",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f58dde32-ead0-4ffb-82b3-e0c975bdef53.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boycott",
+      "trophyDetail": "Win a game without ever purchasing a troop",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/10edd35a-1ef7-43c7-a2ee-8cc15bb0c5f6.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zounds like a Loth",
+      "trophyDetail": "Have 1000 Risen in Kastus Maal's army",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/ce209143-eedd-482c-80b9-f03691db9299.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rise Eternal",
+      "trophyDetail": "Complete all Rise Eternal Campaign maps (on any difficulty)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/8af0b100-b40e-46ec-9700-835ffc10da49.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Restoration of Grey Tor",
+      "trophyDetail": "Restore all that the Faey have destroyed around Grey Tor",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/ea92efd6-a779-4f0e-b090-ad771428f346.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Winning Is Like Li",
+      "trophyDetail": "Win a non-campaign game using only house Li wielders and troops",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f58dde32-ead0-4ffb-82b3-e0c975bdef53.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sheng Happens",
+      "trophyDetail": "Win a non-campaign game using only house Sheng wielders and troops",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f58dde32-ead0-4ffb-82b3-e0c975bdef53.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "There Can Be Only Xuan",
+      "trophyDetail": "Win a non-campaign game using only house Xuan wielders and troops",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f58dde32-ead0-4ffb-82b3-e0c975bdef53.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Once Divided Now United",
+      "trophyDetail": "Win 25 times on non-campaign maps with Yulan",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f58dde32-ead0-4ffb-82b3-e0c975bdef53.png",
+      "trophyGroupId": "004",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Three Houses",
+      "trophyDetail": "Complete all Yulan campaign maps (on any difficulty)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f58dde32-ead0-4ffb-82b3-e0c975bdef53.png",
+      "trophyGroupId": "004",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Houses United",
+      "trophyDetail": "Complete the last Yulan campaign map on Overwhelming difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/45b06b3a-1329-4156-825d-2b11c388136a.png",
+      "trophyGroupId": "004"
+    }
+  ],
+  "totalItemCount": 76
+}

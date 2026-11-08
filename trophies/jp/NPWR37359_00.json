@@ -1,0 +1,589 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR37359_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Transport Fever 2",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/45d1b362-fd2f-43a5-9da8-24e06279ec2e.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 55,
+    "silver": 6,
+    "gold": 0,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Transport Fever 2",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/45d1b362-fd2f-43a5-9da8-24e06279ec2e.png",
+      "definedTrophies": {
+        "bronze": 55,
+        "silver": 6,
+        "gold": 0,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Transport Fever",
+      "trophyDetail": "すべてのトロフィーをアンロックする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/45271948-8fe0-4979-bc28-73c0e6ee521b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初の停留所",
+      "trophyDetail": "フリーゲームにおいてバス停留所を作る。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/62c9c122-0aff-4baa-be7a-5034f9445dce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初の鉄道駅",
+      "trophyDetail": "フリーゲームにおいて旅客用の駅を作る。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/b3ec63dc-f83c-425c-b6e7-7ccd284e56a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初の路線",
+      "trophyDetail": "フリーゲームにおいて2つ以上停留所のある路線を作る。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/4c0246a5-adb9-4aff-8c94-04ec2053fd9c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初のバスが到着",
+      "trophyDetail": "フリーゲームにおいてバスを購入して路線を走らせる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/d25e4b96-b463-4b13-844a-d9ca0075763b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初の蒸気機関車が到着",
+      "trophyDetail": "フリーゲームにおいて蒸気機関車を購入して路線を走らせる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/cd230358-f838-4339-83d5-2180765d9aff.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初の船が到着",
+      "trophyDetail": "フリーゲームにおいて船を購入して路線を走らせる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/1fbf0741-d719-4132-84fd-d8bc64302e50.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初の電車が到着",
+      "trophyDetail": "フリーゲームにおいて電車を購入して路線を走らせる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/ed824059-d8ac-4819-a655-1dd67b31acd8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初の飛行機が到着",
+      "trophyDetail": "フリーゲームにおいて飛行機を購入して路線を飛ばす。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/33707a67-fdf1-4a94-98be-65ec95e4550b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初の乗客が待機中",
+      "trophyDetail": "フリーゲームにおいて路線を敷いて街の住民が車両に乗れるようにする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/824fc9d4-4f80-4fa1-b312-1ec4337ebb1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初の乗客が乗車",
+      "trophyDetail": "フリーゲームにおいて車両に乗客を乗せる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/ef004e6a-9eb6-4eed-a2e0-54448925db0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初の産業をアップグレード",
+      "trophyDetail": "フリーゲームにおいて製造産業をアップグレードする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/145caf66-3503-4105-95d3-80bea14a607d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "輸送の億万長者",
+      "trophyDetail": "フリーゲームにおいて負債なしで100万貯める。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/74071d69-e385-4b1e-9f13-2d30bbb3852f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "輸送の達人",
+      "trophyDetail": "フリーゲームにおいて負債なしで1000万貯める。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/f3973820-6157-485a-a18d-b4c8ed2a5d43.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "輸送の名人",
+      "trophyDetail": "フリーゲームにおいて負債なしで1億貯める。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/8db5482f-70c0-47fc-a6fd-5a563c6f9d99.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "輸送の大物",
+      "trophyDetail": "フリーゲームにおいて負債なしで10億貯める。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/d6877c58-6acd-4c76-a9cc-ab491017c098.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "輸送の名人（ハードモード）",
+      "trophyDetail": "フリーゲームのハードモードにおいて負債なしで1億貯める。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/95b82f9a-28f4-4936-a1f3-f58360facf34.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "輸送の大物実業家（ハードモード）",
+      "trophyDetail": "フリーゲームのハードモードにおいて負債なしで10億貯める。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/5a1b7942-cef6-447f-9b80-af97ad07c362.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初の貨物が待機中",
+      "trophyDetail": "フリーゲームにおいてターミナルに貨物を待機させる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/e97d9fa6-811c-4c45-93c2-0dbd60fc87f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最初の貨物を搭載",
+      "trophyDetail": "フリーゲームにおいて車両で貨物を輸送する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/55e97670-4c0f-4801-9589-240ad6e6d84b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "満員列車",
+      "trophyDetail": "フリーゲームにおいて列車に100人以上の乗客を乗せる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/7fb78674-c8c2-4756-b81c-79426b068518.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "空席なし",
+      "trophyDetail": "フリーゲームにおいて列車に200人以上の乗客を乗せる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/22932284-2001-43c6-bf72-b7573e5212ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "荷物山積み",
+      "trophyDetail": "フリーゲームにおいて列車に250個以上の貨物を乗せる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/36bfc40d-049f-4000-adec-4dc191301590.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "街",
+      "trophyDetail": "フリーゲームにおいて人口750人以上の街を作る。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/f582ea1d-2a45-49af-ae8d-0b32686010a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "大都会",
+      "trophyDetail": "フリーゲームにおいて人口1500人以上の街を作る。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/dbc324c3-e52a-49e8-9a3c-4ed39bcb2e8d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "氷河急行",
+      "trophyDetail": "フリーゲームにおいて列車で標高450m以上に到達する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/46fa4b3f-67cb-4458-8ce3-d874aa5a1d4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "産業主義者",
+      "trophyDetail": "フリーゲームにおいてすべての産業に自分の輸送ネットワークを使って商品を出荷させる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/4105600e-f9d9-468b-a5af-afd35f6a3783.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "大量生産",
+      "trophyDetail": "フリーゲームにおいて製造業で製造量400個に到達する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/7ff9fb7d-956e-45f1-9a61-b674cb75dae3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "まだ足りない",
+      "trophyDetail": "フリーゲームにおいて列車10台以上が稼働する鉄道路線を敷く",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/7e1a5075-21a8-4a14-9814-f41194b4a09b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "トラック愛",
+      "trophyDetail": "フリーゲームにおいて列車を使わずに5000万稼ぐ。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/fe9256f0-a4a0-4369-a86d-93a7ca0a176b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "アンティーク",
+      "trophyDetail": "フリーゲームにおいて1900年以前に製造された列車を2000年まで走らせる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/834897b8-9d2b-40ba-a86c-f79f72fde7dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "列車愛",
+      "trophyDetail": "フリーゲームにおいて列車だけを使って2050年に到達する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/d6911401-313c-49d6-8247-3a0ba212cb47.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "博物館路線",
+      "trophyDetail": "フリーゲームにおいて1850年から2020年の間に使用されていた旅客道路運送車両から1つ以上を含む路線を作る。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/71302a6c-964a-430d-b934-2c03fdcfbe9e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "成功の醜い香り",
+      "trophyDetail": "フリーゲームにおいて鉄道駅に300人以上の乗客を待たせる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/f75d9b5f-74e9-4423-8dad-c23a683f3b7e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "節約家",
+      "trophyDetail": "フリーゲームにおいて2050年まで追加ローンを受けない。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/0a583e7e-f9a6-489d-af01-1cb1a41ad1a2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "光速",
+      "trophyDetail": "フリーゲームにおいて列車で時速300kmの最高速度に到達する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/a545904c-ecf5-40d0-84d1-675c06027814.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "高速",
+      "trophyDetail": "フリーゲームにおいて列車で時速120kmの最高速度に到達する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/5cd7b57b-1e30-45c9-8391-c1c9315085ba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "研修生",
+      "trophyDetail": "キャンペーンの最初のミッションをクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/cc44b7d0-edcd-4897-a1f9-d21287ddc78b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ベテラン",
+      "trophyDetail": "キャンペーンの最初の時代をクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/fe328e9d-7bce-49e9-8721-adff6420037f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "キャンペーンの達人",
+      "trophyDetail": "キャンペーンの最初と2つ目の時代をクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/4bb82c07-6a7a-4285-b79c-4830bd87f215.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "キャンペーンの名人",
+      "trophyDetail": "キャンペーンをすべてクリアする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/a9e815bb-abd2-437c-bbaf-b9850ddc6c86.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "模範学生",
+      "trophyDetail": "1つのキャンペーンミッションでメダルを全部獲得する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/3d444e7e-5bd0-4c7d-9848-ddedad4cecdb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "キャンペーンの大物",
+      "trophyDetail": "すべてのミッションでメダルを全部獲得する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/bfa70155-0a9f-41e7-b3cf-2aeef968a621.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "バックトゥザフューチャー",
+      "trophyDetail": "サンドボックスモードにおいて時間を操作して過去や未来に飛ぶ。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/18dfdd50-bf45-4c1c-82b4-fed13da9b969.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "安定",
+      "trophyDetail": "フリーゲームにおいて会社本部を作る。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/54231624-3e5b-4810-8f48-56886e9c313f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "輸送会社",
+      "trophyDetail": "フリーゲームにおいて最大の本部レベルに到達する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/98325ac8-6e3e-489b-8462-8a10ad596eba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "それでどうする？",
+      "trophyDetail": "フリーゲームにおいて列車2台が向かい合わせで立ち往生する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/4cc43af3-55c5-4d5a-8405-e0d82acad15d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ルイ・ファーブル",
+      "trophyDetail": "フリーゲームにおいて100kmの鉄道トンネルを作る",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/713e0118-b934-40d2-9a44-2cd87f2da794.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "チャールズ・アルトン・エリス",
+      "trophyDetail": "フリーゲームにおいて50kmの鉄道橋を作る",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/bb011bb2-22ed-47aa-bc7c-dcb7dccd89ba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "シベリア鉄道",
+      "trophyDetail": "フリーゲームにおいて400kmの線路を作る。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/393d5ff3-38b5-473b-8747-ac62f4e67dcb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "気候の変化",
+      "trophyDetail": "3種類の天気すべてでフリーゲームをプレイする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/f23a0f7a-f781-40c9-927f-6858e1e18cc8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "太っ腹",
+      "trophyDetail": "フリーゲームにおいて毎月の整備費用を2億にする。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/9ad1b5f6-2cfd-4fe1-a109-e3a0b88bc969.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "近所では禁止",
+      "trophyDetail": "フリーゲームにおいて街の排気ガス排出量が80に到達する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/e57d9a09-b596-4bdf-aa5f-432d75651262.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "海の王",
+      "trophyDetail": "フリーゲームにおいて1か月以内に船で100万稼ぐ。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/caf2c845-ab7a-4a06-b67d-a35efd8e3edd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "飛行機の企業家",
+      "trophyDetail": "フリーゲームにおいて1か月以内に飛行機で100万稼ぐ。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/cd3c4e8f-0497-489b-a260-500e940f0deb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "貨物ハブ",
+      "trophyDetail": "フリーゲームにおいて鉄道駅に300個以上の貨物を待機させる。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/6770ca0b-142c-4b7b-a4e2-2d48a8872488.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "古い列車に用はなし",
+      "trophyDetail": "フリーゲームにおいてすべての線路を電力・高速化する。線路を100km以上作る。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/39a05a47-987f-48dd-837c-036258cb146b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "輸送ベルト",
+      "trophyDetail": "フリーゲームにおいて最大まで延長した駅より長い列車を所有する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/5da52440-2760-48c8-ba11-0ba4c87be816.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "未来は今だ",
+      "trophyDetail": "フリーゲームにおいて現在に到達する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/b2ade265-dd9a-45bf-8121-50385192aa1a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "全商品を全街に",
+      "trophyDetail": "フリーゲームにおいてすべての商品を、それが必要なすべての街に運ぶ。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/fbe6377f-ac77-46ce-b2ca-d759bb72e0c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "彫刻家",
+      "trophyDetail": "フリーゲームにおいて地形ツールで地形を変更する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/37725dc2-ec58-472a-b430-18db7660ad21.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ボブ・ロス",
+      "trophyDetail": "フリーゲームにおいてペイントツールで地形を変更する。",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37359_00/19c19348-8a24-46f8-8cb2-288c501e4b95.png",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 62
+}

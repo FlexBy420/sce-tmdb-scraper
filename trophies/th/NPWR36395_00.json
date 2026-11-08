@@ -1,0 +1,931 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR36395_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Honkai: Star Rail",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/75608f7b-b8e4-4268-9cab-e951ea2d21df.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 40,
+    "silver": 39,
+    "gold": 9,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Honkai: Star Rail",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/75608f7b-b8e4-4268-9cab-e951ea2d21df.png",
+      "definedTrophies": {
+        "bronze": 27,
+        "silver": 7,
+        "gold": 4,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Star Rail: ชุดที่สอง",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/aca36e7f-8d14-4b4b-be81-e69a312faa2e.png",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Star Rail: ชุดที่สาม",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/027f5524-f460-47b5-ad60-116891d304a3.png",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 5,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Star Rail: ชุดที่สี่",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/66690000-e31b-4039-91c9-eeea22b87f1c.png",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Star Rail: ชุดที่ห้า",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/01a9c7ee-5a07-4738-8a14-c1f69d764e30.png",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 5,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Star Rail: ชุดที่หก",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/92bc1a85-9b72-444a-b3e4-fa37501a9448.png",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "006",
+      "trophyGroupName": "Star Rail: ชุดที่เจ็ด",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/f04ce6ad-1281-49e5-87d6-26fb041b1761.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "007",
+      "trophyGroupName": "Star Rail: ชุดที่แปด",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/069d9888-9688-4c79-a6fe-1f4a0674427c.png",
+      "definedTrophies": {
+        "bronze": 1,
+        "silver": 5,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "008",
+      "trophyGroupName": "Star Rail: ชุดที่เก้า",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/47f27562-1891-4ed4-83e0-8f62c8f5a645.png",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "009",
+      "trophyGroupName": "Star Rail: ชุดที่สิบ",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/a83d0280-dc65-43fd-bc51-8cd95fdb41eb.png",
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "เสียงหวูดในหมู่ดาว",
+      "trophyDetail": "เมื่อรถไฟส่งเสียงหวูดและออกเดินทางด้วยความเร็วที่เหนือแสง มนุษย์ก็จะได้เดินทางท่ามกลางดวงดาวในที่สุด",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/fedbc4c6-add9-4bc3-a598-eb3972d9d0d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "อำพันเพลิงแผดเผา",
+      "trophyDetail": "ผู้บุกเบิกก้าวสู่ Path \"อนุรักษ์\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3fd17276-73f7-4bd2-a18f-4416b98c442b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ท่ามกลางโชคชะตา (1)",
+      "trophyDetail": "มี Light Cone ที่ถึง Lv.40 หนึ่งชิ้น",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/f30a6955-e709-456c-be1a-cd83802ef7f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ท่ามกลางโชคชะตา (2)",
+      "trophyDetail": "มี Light Cone ที่ถึง Lv.60 หนึ่งชิ้น",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/f30a6955-e709-456c-be1a-cd83802ef7f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "เยาว์วัย",
+      "trophyDetail": "เลเวลตัวละครใดก็ได้ถึง Lv.40",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/f30a6955-e709-456c-be1a-cd83802ef7f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ในโลกมนุษย์",
+      "trophyDetail": "เลเวลตัวละครใดก็ได้ถึง Lv.60",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/f30a6955-e709-456c-be1a-cd83802ef7f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "ที่พักพิงใจในหมู่ดาว",
+      "trophyDetail": "เริ่มต้นการเดินทางในกาแล็กซีอันแสนกว้างใหญ่ ※ ยินดีด้วย! คุณได้ขึ้น Astral Express แล้ว!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/de222f5f-2146-4763-8fd6-94f77de91b04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "ครึ่งของ Wizard of Oz",
+      "trophyDetail": "เอาชนะหุ่นเหล็กและเด็กสาว ※ Svarog และ Clara ได้กลายมาเป็นเพื่อนของคุณแล้ว!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "ส่งท้ายปลายหนาว",
+      "trophyDetail": "เปลี่ยนแปลง Belobog โดยเริ่มต้นที่ตัวฉัน ※ ขั้นแรกคือต้องเอาชนะผู้พิทักษ์สูงสุด Cocolia ให้ได้...",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/de222f5f-2146-4763-8fd6-94f77de91b04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "ว่าด้วยเรื่องของการล่า",
+      "trophyDetail": "เตาไม่ดับมอดและเสียงร้องของกวางที่เงียบลง ※ ช่วย Artisanship Commission ให้พ้นจากวิกฤติ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "จนกว่าแสงสว่างจะพัดพา",
+      "trophyDetail": "เปิดใช้งาน Space Anchor ในสถานีอวกาศ Herta 5 จุด",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3e266231-ff89-4a0c-a297-14823365011c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "โลกที่ปิดกั้น",
+      "trophyDetail": "เปิดใช้งาน Space Anchor ใน Belobog 14 จุด",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3e266231-ff89-4a0c-a297-14823365011c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "หมูน้อย Tindalos",
+      "trophyDetail": "จับ Warp Trotter 1 ครั้ง",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3e266231-ff89-4a0c-a297-14823365011c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ทางแห่งเซียนอยู่หนใด",
+      "trophyDetail": "เปิดใช้งาน Space Anchor ใน Xianzhou \"Luofu\" 10 จุด",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3e266231-ff89-4a0c-a297-14823365011c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "เดาสิว่านี่ใคร",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"คนที่คุณก็รู้ว่าใคร\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "เรื่องกลุ้มใจของหนุ่มน้อย Arlan",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"จับพลัดจับผลู\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ของขวัญของจอมปราชญ์",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"ของขวัญของ Hook\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ชานเมืองที่เงียบงัน",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"ภูมิต้านลมหนาว\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clara กับพระอาทิตย์",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"ยากเกินจะไขว่คว้า\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "น้ำตาไหลหลั่ง",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"เพียงแค่เด็กที่ไร้เดียงสา\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ใช้แล้วทิ้ง",
+      "trophyDetail": "ตามหาหุ่นเชิด Herta ทั้งหมดในสถานีอวกาศและพูดคุยกับเธอ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "เป็นเพียงแค่ตัวเลข",
+      "trophyDetail": "ใช้วัตถุหายาก \"ปืนประเมินคะแนน\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "หน่วยเก็บกู้",
+      "trophyDetail": "แก้ปัญหาวิกฤตที่สถานีรถรางของ Belobog พร้อมทั้งหลีกเลี่ยงความเสี่ยงทางด้านศีลธรรม",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ไม่สะอาดเท่าไหร่ แต่กินแล้วไม่ป่วย",
+      "trophyDetail": "รับสูตร Fried Rice จากการพูดคุยกับ Gertie ที่โรงแรม Goethe Grand Hotel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ลา ลา แลนด์",
+      "trophyDetail": "รับแผ่นเสียงสำหรับหีบเสียงจากการพูดคุยกับนักแสดงหญิง Tamila ที่โรงละคร Golden Theater",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "กับดักแห่งเมืองฤดูหนาว",
+      "trophyDetail": "ฟังแรปของคนพเนจรให้จบหนึ่งครั้ง",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "เฉพาะผู้ที่อายุ 12 ปีขึ้นไป",
+      "trophyDetail": "เข้าร่วม \"ศึกดวลหมัดแห่งความมืด\" และได้รับชัยชนะในท้ายที่สุด",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ความชั่วร้ายสามัญ",
+      "trophyDetail": "ไขปริศนากล่องของคนไม่ประสาทั้งหมดในภารกิจ \"ภาชนะแห่งสามัญ\" ให้สำเร็จ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ตัวตุ่นน้อยตัวที่สี่",
+      "trophyDetail": "ตามหาสมบัติทั้งหมดที่ซ่อนอยู่ในภารกิจ \"การผจญภัยของแก๊งตัวตุ่น\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "นกพันตัวบนต้นไม้ ไม่เท่านกในมือทั้งเจ็ด",
+      "trophyDetail": "ช่วย Heron Express ตามหานกสมองกลทั้งหมดที่หายไป",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "ควรจะอยู่ในพิพิธภัณฑ์!",
+      "trophyDetail": "รวบรวมวัตถุจัดแสดงทั้งหมดของพิพิธภัณฑ์ประวัติศาสตร์และวัฒนธรรมแห่ง Belobog",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/97a0ba5c-f332-4050-9c04-ec428f062edb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "นักสืบผู้โด่งดังที่สมบูรณ์ไร้ที่ติ",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"อัศวินจากต่างแดน\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ผู้นำในหมู่คมดาบ",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"บททดสอบแห่งคมดาบน้ำแข็ง\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ลาก่อน Punklorde!",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"Punklorde Mentality\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "รู้ว่ายาก ถึงต้องขอลอง (3)",
+      "trophyDetail": "ระดับความสมดุลถึง Lv.6",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3fd17276-73f7-4bd2-a18f-4416b98c442b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ดินแดนแห่งฝันของ Diogenes",
+      "trophyDetail": "สำรวจสิ่งที่ขึ้นชื่อของ Belobog กันเถอะ! ※ คุณได้รับอุปกรณ์ที่มีประโยชน์จากถังขยะเล็กครบแล้ว!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/d5764df3-2f7e-40e5-8eff-219dc9974565.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ผลกรรมตามติด",
+      "trophyDetail": "ทำให้การดำรงอยู่อันสูงส่งในใจเรา ต้องส่ายหน้าและถอนหายใจให้กับคุณ ※ หาทางใช้ \"แต้มคุณธรรม\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/d5764df3-2f7e-40e5-8eff-219dc9974565.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "50 เครดิต?!",
+      "trophyDetail": "รวบรวมประกาศจับของสมาชิกทีมขบวนรถไฟ ที่ติดอยู่ตามมุมต่างๆ ใน Belobog ทั้งหมด",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ห้องส่วนตัว",
+      "trophyDetail": "เสร็จสิ้นการสำรวจ \"Simulated Universe: โลก 1\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/dadd1aa8-b77b-4a4a-8f6f-dd20bcfe2596.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "แมกไม้ที่หักโค่น",
+      "trophyDetail": "แผนการชั่วร้ายทั้งหมดจะถูกทำลาย ※ ช่วย Jing Yuan กำจัด Phantylia",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/de222f5f-2146-4763-8fd6-94f77de91b04.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "เก็บร่มเมื่อมีแดด ยืมร่มเมื่อฝนตก",
+      "trophyDetail": "ช่วย Jarilo-Ⅵ และ Belobog แก้ปัญหาวิกฤตครั้งใหญ่ (อีกครั้ง) ※ สำเร็จการบุกเบิกต่อเนื่อง \"ตลาดแห่งอนาคต\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "นกโผบินและว่าวกระดาษ",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"เพราะฉันเคยได้สัมผัสกับท้องฟ้า\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "เจตจำนงเสรี",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"จดหมายจากหญิงแปลกหน้า\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "แม่น้ำลืมเลือนนั้นแสนขม",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"หวนย้อนความทรงจำ\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "เขตแดนดั้งเดิมของทุ่งหิมะ",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"ไกลเกินกว่าทุ่งหิมะ\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "หยาดฝนในวันวาน",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"มังกรคืนถิ่น\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "เหลือเพียงเถ้าถ่านที่ขาวโพลน",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"รักแท้ของฉัน เลือดเนื้อของฉัน\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ดาบหักย่อมหลอมใหม่ได้",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"เมฆที่ไร้ร่องรอย\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "จักรวาลเงียบสงบ",
+      "trophyDetail": "ผ่านเนื้อเรื่องของหายนะแห่งมวลแมลงทั้งหมด ใน \"Simulated Universe: หายนะแห่งมวลแมลง\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/99184d8d-c28e-4a45-a4b5-9549ee4e9d52.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "อันตรายในใจฉัน",
+      "trophyDetail": "ตามล่าหาวิญญาณใน Fyxestroll Garden ร่วมกับ Guinaifen",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "แมลงผจญศึก",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"ค่ำคืนจักรวาลที่ลวงตา\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "อัจฉริยะอยู่ซ้าย คนสามัญอยู่ขวา",
+      "trophyDetail": "สยบความวุ่นวายครั้งใหม่ของสถานีอวกาศ Herta",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "งานเต้นรำที่ดำเนินไป",
+      "trophyDetail": "สำเร็จภารกิจเพื่อนร่วมทาง \"คู่เต้นรำสวมหน้ากาก\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "เมื่อความหวานมาเยือนที่หน้าประตู",
+      "trophyDetail": "พบกับความสุขที่คาดไม่ถึงในโลกแห่งแดนฝัน",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "เพื่อนเก่า เพื่อนใหม่",
+      "trophyDetail": "สัมผัสถึงความอบอุ่นในห้วงลึกของความทรงจำ...",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "รักษาใจมิให้แตกสลาย",
+      "trophyDetail": "ทั่วทั้ง Penacony กำลังจะคลุ้มคลั่ง...",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "เธอตอบว่า ฉันต้องสิ้นลม",
+      "trophyDetail": "ชมการแสดงปิดฉากสุดยิ่งใหญ่ จากตำแหน่งที่ดีที่สุด ※ เอาชนะ Aventurine แห่ง \"สิบคนหัวใจหิน\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "เศรษฐีคนสุดท้าย",
+      "trophyDetail": "พบกับ \"ช่างนาฬิกา\" ※ พบกับผู้มาเยือนนิรนามคนแรกของ Penacony",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "คืนที่ไร้ผู้หลับใหล",
+      "trophyDetail": "ผู้บุกเบิกก้าวสู่ Path \"ประสาน\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3fd17276-73f7-4bd2-a18f-4416b98c442b.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "เรือคนเขลา",
+      "trophyDetail": "เพิ่มอรรถรสใหม่ๆ ให้กับโชคชะตาของเธอและฉัน ※ แก้ไขวิกฤติ \"ระเบิด\" ได้สำเร็จ และชมดอกไม้ไฟที่แสนยิ่งใหญ่",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "ถึงเวลาล่า",
+      "trophyDetail": "เกมของนักล่าและเหยื่อยังไม่เริ่มต้น ※ เหล่านายพล...กำลังจะออกโรง",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "จิ้งจอกเวหาสยบสิงคาล",
+      "trophyDetail": "ลูกศรร่วงหล่น สัตว์ร้ายถอนกรงเล็บ นักล่าเก็บคันธนู ※ สยบความวุ่นวายใน \"พิธีดวลยุทธ์\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "อย่าดับเปลวไฟคุกรุ่น",
+      "trophyDetail": "แม้เสียงเชียร์จะหยุดลง แต่เสียงของผู้ที่ไร้เสียง ก็จะไม่จางหายไป ※ ช่วยให้ Luka ได้เดินขึ้นสู่เวทีของศึกจ้าวสังเวียน",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/97a0ba5c-f332-4050-9c04-ec428f062edb.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "การไล่ล่าครั้งสุดท้าย: จบสิ้น",
+      "trophyDetail": "ทำลายเพลิงหายนะแห่งความเสื่อมโทรม สำเร็จการไล่ล่าครั้งสุดท้าย เรื่องนี้ก็มีบันทึกไว้ใน \"ตำรานินจาแห่งกาแล็กซี\" เช่นกัน ※ เอาชนะ \"สำนักวิชาบานาการในป่าอัศจรรย์\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "อดีตแห่งนินจาผู้กล้า",
+      "trophyDetail": "สำรวจความจริงในด้านมืดของโลกนินจา และปัดฝุ่นความทรงจำของนินจาผู้กล้าจอมวุ่น ※ ร่วมเป็นสักขีพยานในเงาแห่งอดีตของ Rappa",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "ตั้งต้นเดินทาง ณ วันที่แปด",
+      "trophyDetail": "สรวงสวรรค์ที่สูญเสียไป ไม่เคยถูกทอดทิ้งไว้ข้างหลัง แต่มันรออยู่ข้างหน้า ※ บอกลาครั้งสุดท้ายภายใต้มุมมองของ Sunday",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "พบกับวันวานอีกครา",
+      "trophyDetail": "ผู้บุกเบิกก้าวสู่ Path \"ความทรงจำ\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3fd17276-73f7-4bd2-a18f-4416b98c442b.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "ยุคสมัยดั่งใบไม้ที่ร่วงหล่น",
+      "trophyDetail": "เปิดเรื่องราวมหากาพย์วีรชนของคุณใน Amphoreus ※ ส่งคืนเชื้อไฟของ \"ปฏิปักษ์\" และรอ Phainon กลับมา",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "รุ่นหนึ่งถือกำเนิด อีกรุ่นย่อมโรยรา",
+      "trophyDetail": "เปิดผนึกจดหมายที่ส่งจากอดีตสู่อนาคต ※ เป็นสักขีพยานในจุดเริ่มต้นของ Tribios และการไล่ล่าเปลวไฟ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "พาวิญญาณข้ามฟากด้วยเรือสีสนิม",
+      "trophyDetail": "มันเคยพาเธอมาที่โลกมนุษย์ และจะพาเธอไปยังแดนอนธการ ※ เอาชนะ \"มังกรมรณา\" Pollux",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "ปลดเชือกและออกจากโลกอนธการ",
+      "trophyDetail": "อย่าหันหลังกลับ แม้นั่นจะเป็นคำเชิญแสนหอมหวาน และเงียบสงบก็ตาม ※ รับความช่วยเหลือจากเพื่อนๆ และออกจากโลกอนธการ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "เธอเคยขอยืมความอบอุ่นจากคุณ",
+      "trophyDetail": "สำรวจเศษความทรงจำที่อยู่ใน \"หอคอยจันทร์คู่\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "จุดเริ่มต้นของทุกจุดจบ",
+      "trophyDetail": "บนโลกนี้ ไม่อาจสมบูรณ์แบบได้ทุกอย่าง ※ สำเร็จการเดินทางไล่ล่าเปลวไฟ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "แมวล้านชีวิต",
+      "trophyDetail": "สำรวจเศษความทรงจำสุดท้ายของผู้สัญจรปราดเปรียว",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ซ่อมฟ้า",
+      "trophyDetail": "สำรวจเศษความทรงจำสุดท้ายของของผู้เยียวยาอาภา",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/309a3d1b-1728-41c2-a6cc-aa3fd45e3102.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "ลำนำสดุดีชัยแด่ยุคนิรมิตใหม่",
+      "trophyDetail": "วีรชนเอ๋ย จงกู่ก้องลำนำสดุดีชัย แด่ยุคนิรมิตใหม่ ※ ก้าวสู่การเดินทางครั้งสุดท้ายของ \"ยุคนิรมิตใหม่\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "ค่ำคืนแห่งโชคชะตา หยุดลงในเวลานี้",
+      "trophyDetail": "ผู้พิทักษ์แห่งตาชั่งมาเยือนข้ามกาลเวลา ※ อัญเชิญเซอร์แวนต์ของคุณได้สำเร็จ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "ก่อนวีรชนจะลาลับ",
+      "trophyDetail": "ฟังบทเพลงอันไกลโพ้นและเศร้าโศก มันกำลังขับขานนามของมารดาแห่งการดำรงอยู่: ภาพมายา เจตจำนง ความทุกข์ทน ※ สืบทอดทุกสิ่งทุกอย่างก่อนวีรชนจะลาลับ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "มุ่งสู่มหาสมุทรแห่งใหม่",
+      "trophyDetail": "สรรพสิ่งเปล่งประกายใหม่เอี่ยมตลอดกาล หลับใหลพักผ่อนเหนือห้วงมิติและกาลเวลา... ※ เดินทางไปยังวังวนนิรมิตด้วยอ่างวารีจิตที่ \"ภูตจอมโจร\" Bartholos มอบคืนกลับมา",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3e266231-ff89-4a0c-a297-14823365011c.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "จงฟัง ความมืดที่แสนหวาน",
+      "trophyDetail": "ในเมื่อหลังประตูบานนี้ก็คือ Amphoreus... ※ ร่วมเป็นสักขีพยานในการก้าวขึ้นสู่เวทีของ Evernight",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "มหากาพย์วีรชน Amphoreus",
+      "trophyDetail": "ร่วมเป็นวีรชนไปพร้อมกับฉันเถอะ ※ สำเร็จ \"ยุคนิรมิตใหม่\" ครั้งสุดท้าย",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "จุดสิ้นสุดของแสง",
+      "trophyDetail": "ดูเถิด ทิศทางที่รถศึกมุ่งไปนั้น คือแสงรุ่งอรุณและชัยชนะ ※ ร่วมเป็นพยานในการเดินทางข้ามขอบฟ้า ของผู้บุกเบิกที่แปลงร่างเป็นรถไฟ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Muse ได้โปรดบอกฉันเถิด",
+      "trophyDetail": "ภายใน Light Cone ล้วนเป็นโชคชะตา ※ เขียนจุดจบสุดท้ายให้กับมหากาพย์ที่ยิ่งใหญ่",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/de222f5f-2146-4763-8fd6-94f77de91b04.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "อดีตคือภาพสะท้อนของอนาคต",
+      "trophyDetail": "กาลเวลาเริงระบำอยู่บนคมดาบ มีเพียงแสงสว่างเท่านั้นที่จะแทงทะลุสู่อนาคตได้ ※ เป็นพยานในจุดบรรจบระหว่าง \"จุดจบ\" กับ \"บุกเบิก\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "หน้าร้อน ดอกไม้ไฟ และศพของใครบางคน",
+      "trophyDetail": "พิธีกรรมพบพานเทพ ย่อมต้องมีเครื่องสักการะ ※ เป็นพยานการเปิดฉากอันโหดร้ายของเกมจันทร์มายา",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "จันทร์มายาพร่ำเพ้อ",
+      "trophyDetail": "เขาพูดไปอย่างนั้น คุณก็ฟังไปอย่างนั้น ※ ฟังคำประกาศอันคลุ้มคลั่งของจันทร์มายา",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "ดังนั้น ต้องมีเสียงหัวเราะ",
+      "trophyDetail": "ผู้บุกเบิกก้าวสู่ Path \"ปิติสุข\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/3fd17276-73f7-4bd2-a18f-4416b98c442b.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "เรื่องตลกที่กลับสู่ความว่างเปล่า",
+      "trophyDetail": "การอธิบายมุกตลก เป็นการกระทำที่เลวร้ายที่สุด ※ ได้เห็น Asat Pramad เผยโฉมหน้าที่แท้จริงของตน",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "เงียบสงัด",
+      "trophyDetail": "ความเงียบงัน จุดจบของสรรพสิ่ง ศีรษะที่ร่วงหล่นจ้องมองตัวตนที่พ่ายแพ้ ทันใดนั้นเขาก็อยากหัวเราะออกมา",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36395_00/c18a8016-010b-445f-b714-d473704842bb.png",
+      "trophyGroupId": "009"
+    }
+  ],
+  "totalItemCount": 89
+}

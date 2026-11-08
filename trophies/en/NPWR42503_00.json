@@ -1,0 +1,87 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR42503_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Horse Racing",
+  "trophyTitleDetail": "Trophies of Horse Racing game",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42503_00_00B338AB135EDE434A1807F43DC43071ED7455BA1F/081B036CE2F6627E63BE65BE75B549DC0425E5A6.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 2,
+    "silver": 1,
+    "gold": 3,
+    "platinum": 0
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Horse Racing",
+      "trophyGroupDetail": "Trophies of Horse Racing game",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42503_00_00B338AB135EDE434A1807F43DC43071ED7455BA1F/081B036CE2F6627E63BE65BE75B549DC0425E5A6.PNG",
+      "definedTrophies": {
+        "bronze": 2,
+        "silver": 1,
+        "gold": 3,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Easy Race",
+      "trophyDetail": "Win a race with the easy difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42503_00_00B338AB135EDE434A1807F43DC43071ED7455BA1F/4C45FFB3D105FB67805673C809926B8162896549.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Medium Race",
+      "trophyDetail": "Win a race with the medium difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42503_00_00B338AB135EDE434A1807F43DC43071ED7455BA1F/43ED4C4E2A6BD45169F3907959E3BF8B72A3CF3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hard Race",
+      "trophyDetail": "Win a race with the hard difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42503_00_00B338AB135EDE434A1807F43DC43071ED7455BA1F/03576535B60A0F557FC0113A87ADE6D4CEEC4993.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Extreme Race",
+      "trophyDetail": "Win a race with the extreme difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42503_00_00B338AB135EDE434A1807F43DC43071ED7455BA1F/222560325A90D24C0561CF5E86C2CD40FE25A332.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "3 Races",
+      "trophyDetail": "Complete 3 Races in Race mode in the same session.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42503_00_00B338AB135EDE434A1807F43DC43071ED7455BA1F/E09E1AA48DC23483E5333271142AD2B7598CC2EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "7 Races",
+      "trophyDetail": "Complete 7 Races in Race mode in the same session.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42503_00_00B338AB135EDE434A1807F43DC43071ED7455BA1F/89A68A04B619D88ACB2E00DC3E858B2ED703CBD1.PNG",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 6
+}

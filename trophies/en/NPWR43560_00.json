@@ -1,0 +1,687 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR43560_00",
+  "trophySetVersion": "01.02",
+  "trophyTitleName": "Shujinkou",
+  "trophyTitleDetail": "The trophy set for Shujinkou.",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/B7289338485D120015441ACE85F8E0FD69ACE000.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 62,
+    "silver": 2,
+    "gold": 5,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Shujinkou",
+      "trophyGroupDetail": "The trophy set for Shujinkou.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/B7289338485D120015441ACE85F8E0FD69ACE000.PNG",
+      "definedTrophies": {
+        "bronze": 48,
+        "silver": 2,
+        "gold": 3,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Akuma Quests",
+      "trophyGroupDetail": "The trophy set for Shujinkou - Akuma Quests DLC",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/82AE8F5B40CA5E28539B0AFEFCF18CB6124626FD.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 0,
+        "gold": 1,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Swimsuit Quests",
+      "trophyGroupDetail": "The trophy set for Shujinkou - Swimsuit Quests DLC",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/2C1EEDFB5995B3C40750EA9058215DE2F91393DA.PNG",
+      "definedTrophies": {
+        "bronze": 7,
+        "silver": 0,
+        "gold": 1,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "You are the Shujinkou",
+      "trophyDetail": "Obtain all other trophies. You've really become the Shujinkou.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/C8E2C6C67C93624024B9927955A8B66B90509E8F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Goodbye Peace",
+      "trophyDetail": "Defeat the terrifying Akuma that disturbed Himamura's peace.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/8FE8C2E6013464D51AB2138A17209F64BA1CAADA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Shu and Jin!",
+      "trophyDetail": "Meet Jin and have him join Shu on his journey to save Genya.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/A739050C629F21BC562DDD0B52462F7893AE89C7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Shu, Jin, Kou!",
+      "trophyDetail": "Meet Kou and have her join Shu and Jin on their journey to save Genya.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/8DB312B6D3BADA09F709E8FCE6FBF75A1D812EC5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Hero of Genya",
+      "trophyDetail": "Finish Chapter 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/F4D9C251F2115554C47066C72A6C9833D45B794B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The First Lifted Curse",
+      "trophyDetail": "Free Daitengu from his mysterious curse.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/AF6EB98B918BFABB48AC51C8A7F9045F3AFB8993.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "What Does the Future Hold?",
+      "trophyDetail": "Overcome the Mermaids of Time's Trial and view the Genzai Painting.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/31693CA10F1748583517CE858AA11A25476B972F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Hero of Sabaku",
+      "trophyDetail": "Finish Chapter 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/E7EE44489D38464287B97BCDA649089201355FA0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reaching the Cap...?",
+      "trophyDetail": "Have any party member reach level 99.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/03CC5154C660075D2D187638526578683B29E4AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Need Your Explanations",
+      "trophyDetail": "Discover 50 explanations.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/22957C59FF1FE94FBAB272715FE5725B30626BE5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dedicated Shujinkou",
+      "trophyDetail": "Log over 100 hours of gameplay.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/B84D604C55D5CD1B8421183F239335CFCBBD5CFE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That Reminds Me...",
+      "trophyDetail": "Earn Jin's approval through his nen'oshi 25 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/442E49BD454FCC0F7361EDFA004B63428E9E04BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of Kin",
+      "trophyDetail": "Earn a total of over 1,000 Kin.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/039BF4580FEE1B9807C0E5CC64E6CBF25A0BBB80.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Musical Enlightenment",
+      "trophyDetail": "Purchase 100 tracks in the Jukebox.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/D0A66ED3A3B3F3ACC5C418A6DC7BAEE27977C27F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hina's Favorite Hero",
+      "trophyDetail": "Win and obtain a score of over 20,000 in Radical Hunter.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/8C529E75EB5F39F48B028BC9DD62257432733D3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sugi's Favorite Hero",
+      "trophyDetail": "Win a match at difficulty 8 or higher with only half HP to spare.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/29E8B6CE649F74F25242AF0D138AA0878B4AA086.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kiyo's Favorite Hero",
+      "trophyDetail": "Win a perfect match at difficulty 9 or higher within five minutes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/40A922F4DB1897BF71269F2DA87F0694E36BE614.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tatiana's Favorite Hero",
+      "trophyDetail": "Consecutively knock in one or more Kanatama four times in a row in Kotoba Kyuugi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/32157B46E80DDDA200C08296E0ACB31FE2A3C827.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Otogawa's Favorite Hero",
+      "trophyDetail": "Formulate a Perfect sentence that is six or more Kudoku Kotoba long.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/EDEF7FB571C27583939135FCEE4793F0A4C5137E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tsunako's Favorite Hero",
+      "trophyDetail": "Win the Fish War at difficulty 6 or higher without taking any damage.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/8E3DA11555D1BC0E6BD56EC67EE452F049692F6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Minigame Enthusiast",
+      "trophyDetail": "Play and win all of the Fuu Games at least once.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/7741C0B92AF682EAD69907FBFF2522F17A15A1C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Minigame Master",
+      "trophyDetail": "Win all of the Fuu Games at difficulty 10.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/841AEDE384334E6C6529CF310C6951F795FFF1F1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sake Savant",
+      "trophyDetail": "Buy and gift the right sake at the Izakaya to every Fuu Partner.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/B973ACBD0C3168EA6D77AF9424F23EC12BF19AD1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sign Collector",
+      "trophyDetail": "Discover and view 30 Kanban in Labyrinths.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/1EA5CA776241CC81B09EAF86C62F1F8553E0BCC1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Collector",
+      "trophyDetail": "Discover and open 30 treasure chests in Towns and Labyrinths.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/0457A913CBA94E71C7397E8147B0FA340D31946A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chizu Connoisseur",
+      "trophyDetail": "Achieve 100% Chizu completion for 10 labyrinth areas.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/0C6A1E60292B9C09C5830A5F2D295057757FFAB1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kind Samurai",
+      "trophyDetail": "Complete 15 youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/A3609F7AE1A5D4E56E18C8B77EC16BC0A7A75E85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ultra Kind Samurai",
+      "trophyDetail": "Complete 100 youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/7E5447F0D2173D2045BC7E8D3BA99A4D54D5F576.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Wildly Kind Samurai",
+      "trophyDetail": "Complete 200 youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/07C7B60B75FEF882070ECF3FBC1B8A59A054CDEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Power of Friendship",
+      "trophyDetail": "Unlock all 100 pieces of Kyuukou's Omikuji mosaic.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/666F1E9726D25C56465D43BD9D98173F1D060588.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thanks, Little Sis!",
+      "trophyDetail": "Sleep at your home at every time of day five times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/BF3DAF6604BB50617466EA400A9F81A61D83BD04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thanks, Big Bro!",
+      "trophyDetail": "Forge special equipment with Daisuke five times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/23FBEF9B24CDEAB7794536298606113A6A94ADB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fishing for Fish",
+      "trophyDetail": "Fish and catch 10 species of fish.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/A6ADB0ED72567ABC078A6313AFF4C102B100346B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fish Spot Finder",
+      "trophyDetail": "Discover 10 different fishing spots.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/B9F17493C93424120F348F40B74FE74E53B7C715.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Something is Fishy",
+      "trophyDetail": "Successfully exchange goods with Tsurugi five times at the Tsurigu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/D28521FC14EFB8153DFA96A284B8358BA75FB5CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Decorated Ship",
+      "trophyDetail": "Obtain and place at least 10 decorations on the Akagi.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/78ED480DC074EA14CA0587A88B636D7A970B4A9D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Culture Shock",
+      "trophyDetail": "Let Kiyo show you 100 entries for any given kana or kanji.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/F552B65D07A1DA4C76D85A59FFCDAE17F606A7AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "An Important Bond",
+      "trophyDetail": "Obtain the first Kizuna slice with any partner.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/F5FF8555349169A7BCBC2B57EB7E4E3933FF055D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Budding Social Butterfly",
+      "trophyDetail": "Obtain the second Kizuna slice with any partner.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/B65B1E4FE6CFF5D2ECED79477274288C9143F1F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Fantastic Social Butterfly",
+      "trophyDetail": "Obtain the second Kizuna slice with all partners.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/5705AE9624406932843E4304B43BD568B541D423.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Solidifying One's Will",
+      "trophyDetail": "Experience all 10 Ishi with any partner in Genya.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/7C48D509B3F0D8BD26204F9003C13247D5376CB5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fulfilling One's Will",
+      "trophyDetail": "Experience all Ishi with every partner in Part 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/BFD09E239FDCC20FC0CFC21B78C38998EDCABAD3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Who's That Akuma?",
+      "trophyDetail": "Discover all the kana or kanji in any akuma's name.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/4B6B82630C482853474F57CD6AF198DF56D637AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Akuma Analyzer",
+      "trophyDetail": "Log 100 entries in the Kemono Kiroku.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/00C5B280F548B15A2D29B017D73CF38B31F7E832.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Akuma Slayer",
+      "trophyDetail": "Defeat 500 enemies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/806C0D7CDD344B6D076C3AEE1EECFAC06931FD55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Listen to Me",
+      "trophyDetail": "Succeed in over 50 negotiations in battle.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/4DB6BC6D9FDF12B297A14EB9D3C75FC8D3832CF8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Damage Dealer",
+      "trophyDetail": "Deal over 1000 damage in a single attack.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/9FCE65AC65C24CB25D929094C9D8776BBA34103E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Special Striker",
+      "trophyDetail": "Nail a Perfect Result for Shu, Jin, and Kou's Kakusei.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/B64B676B44D2AFB067CAD98B0D614C0A0FEC6639.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yajuu What?",
+      "trophyDetail": "Experience victory against a Junshu Yajuu and Ihan Yajuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/EAD3B98712CE77C6D51A628EDC8156B73B357611.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nigerundayo!",
+      "trophyDetail": "Successfully escape from a Yajuu battle 10 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/0B7ECA69B55DFD12C6FF61BA8FDF183A695DF28E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Skillful Apparitionist",
+      "trophyDetail": "Have a hero learn 15 different Arawasu skills.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/5AD3144D93D31CB4C849EFA5B10C1A433478FA37.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maximize Me",
+      "trophyDetail": "Max out a Battle, Field, and Bonus skill.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/23F027D3E0AA607985BAC5CD35AE3912510C9859.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Name that Weakness",
+      "trophyDetail": "Strike over 500 unique ontological weaknesses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/F0111B9CA51192FBF0ECBFC7DED784A88BF43CB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Got Me Weak",
+      "trophyDetail": "Strike elemental weaknesses over 500 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/65E4566E3E9E6B3BFDF27866B1D9DAE046A86AAF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Real Akuma",
+      "trophyDetail": "Complete all 18 Akuma Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/FD720EF199286D7950AE55534EC0FF103CAC5E6D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spider Woman",
+      "trophyDetail": "Complete Kiyo's Akuma Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/26D8643E78DACDCA08723B3E4F3700D22A67D25D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kowagaranaide",
+      "trophyDetail": "Complete Sugi's Akuma Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/9284D77D1747B5F18CE31BC7B9F930B04A7C94F2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Errand Runner",
+      "trophyDetail": "Complete Tsunako's Akuma Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/A5D492EF6EF26E7673257A0F2D20CFFDE18AB72E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golden Lady? Bug?",
+      "trophyDetail": "Complete Hina's Akuma Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/BD61B0B41C01F522426AB19AF7843E687FB869C7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unyielding to the Undying",
+      "trophyDetail": "Complete Otogawa's Akuma Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/9FB04B8C43F1CEF8A5195C9F4CC62434F53D0D3B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It Takes Two to Tango",
+      "trophyDetail": "Complete Tatiana's Akuma Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/9E59C3FB39E990A038010D1DD43DB68A807E04A4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Decor Demon",
+      "trophyDetail": "Decorate the Akagi with at least one Decor item earned from an Akuma Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/EF7E96E2299DC3FA25048D4015265C268033AD9D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "No Lost Swimsuits",
+      "trophyDetail": "Complete all 18 Swimsuit Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/66F4AF9CEFFF441F2FCFDBBE7657634A7D973642.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bikini Hullabaloo",
+      "trophyDetail": "Complete Kiyo's Swimsuit Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/BB5AF0B8B4C02805167C0043B66A3A8847F2E49D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Waly Waly",
+      "trophyDetail": "Complete Sugi's Swimsuit Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/042A72BE514D5A8BF4B385BF74386C65FE52FBBA.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Skinny Dipper",
+      "trophyDetail": "Complete Tsunako's Swimsuit Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/B80D779E97B7EA107ABC7B7AA0CA364C3ED5C9AB.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cat's Outta the Bag",
+      "trophyDetail": "Complete Hina's Swimsuit Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/BF3B3A061E1C810A1DBFC12B134F29852FF3BB94.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seer of the Seas",
+      "trophyDetail": "Complete Otogawa's Swimsuit Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/47F39146894D078A9909B6510F9D191BBD72A557.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King's Praise",
+      "trophyDetail": "Complete Tatiana's Swimsuit Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/025DF5F249B1A48AEA6B1BDD0D2F1CC89444C1E9.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Can Decorate, Too!",
+      "trophyDetail": "Decorate the Akagi with at least one Decor item earned from a Swimsuit Youkyuu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43560_00_0075B7B187DF0485019F1DA422DD28EA54C2D20FD6/9C844F9D09B6ECF9190C00BEC34336D3A535EEE7.PNG",
+      "trophyGroupId": "002"
+    }
+  ],
+  "totalItemCount": 70
+}

@@ -1,0 +1,615 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR37394_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "502's Arcade",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/f0570d08-f473-4387-9191-6091f3ed86cd.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 56,
+    "silver": 3,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "502's Arcade",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/f0570d08-f473-4387-9191-6091f3ed86cd.png",
+      "definedTrophies": {
+        "bronze": 56,
+        "silver": 3,
+        "gold": 1,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Rey de la Arcade",
+      "trophyDetail": "Obtén todos los trofeos en 502's Arcade",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/d27df1bd-a31c-4b11-aebf-57436299c0b1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¿Puedes acariciar al gato?",
+      "trophyDetail": "Acaricia a los 4 diferentes colores de gatos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/8f973600-9476-4d12-bd84-66e4f3a8cca9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Sellado de espíritus grandioso!",
+      "trophyDetail": "Realiza un combo de 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/5e84e2f4-ba4c-4533-8795-803a9ca0184a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Sellado de espíritus asombroso!",
+      "trophyDetail": "Realiza un combo de 9",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/ffcc8004-c764-4a5f-b88f-c663045d174b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "9"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Sellado de espíritus perfecto!",
+      "trophyDetail": "Realiza un combo de 15",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/804618da-2803-48ff-8ae8-b9bc881b2e64.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coleccionista de cerámica",
+      "trophyDetail": "Destruye 50 jarrones",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/9b5893b7-bb39-4fb1-a13b-51a9d811e203.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Francotirador",
+      "trophyDetail": "Golpea espíritus con proyectiles 100 veces",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/4bf84987-93e5-463b-a0d4-fe8f69bd5cbe.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lleno de recursos",
+      "trophyDetail": "Equipa todos los tipos de proyectiles durante el juego",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/7c3ac4e5-e5c2-46bf-a774-343d2291826b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sacerdotisa principiante",
+      "trophyDetail": "Sella 100 espíritus",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/5167e316-324c-4080-bad2-edc4e4acb514.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alta Sacerdotisa",
+      "trophyDetail": "Sella 300 espíritus",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/dbb41eb6-c643-4b98-9901-01759eff37cb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Suprema Sacerdotisa",
+      "trophyDetail": "Sella 500 espíritus",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/5d119d38-7dbd-4834-be18-20c2c7f2ab8a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Máscara Rota",
+      "trophyDetail": "Derrota al Oni",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/2b7aef5e-d0de-4e72-9102-c6b2cf98fa44.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tempestad",
+      "trophyDetail": "Derrota al Nukekubi",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/21c622e7-385b-439e-9bea-12d82681f033.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Manos ociosas",
+      "trophyDetail": "Derrota al Waira",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/f0f28b79-9888-4835-85bc-a064134ce6b1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pararrayos",
+      "trophyDetail": "Derrota al Tengu",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/dc41bf9d-46a8-4b72-a235-8faa9a295b23.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Experto en sellado",
+      "trophyDetail": "Completa un bucle terminando todos los niveles con rango S",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/b3a0404c-275f-45f3-ada9-0589cc404707.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Bonito combo!",
+      "trophyDetail": "Haz un combo de 2 pociones",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/a0813a03-6d24-436c-bef0-c4af37d06737.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Genial combo!",
+      "trophyDetail": "Haz un combo de 3 pociones",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/4006ae51-46c3-4b37-8b74-c49117666047.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Increíble combo!",
+      "trophyDetail": "Haz un combo de 5 pociones",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/ea95b949-74ed-411c-ba0a-dc1d0d288c32.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Negocio a largo plazo",
+      "trophyDetail": "Juega 100 veces",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/63bba3fb-4373-43f7-99a3-a07ce6e0915c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zona de peligro",
+      "trophyDetail": "Permanecer en la \"zona de peligro\" durante más de 30 segundos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/efce9d28-8d50-4d95-b93b-134deb0811e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Primeros 100!",
+      "trophyDetail": "Haz 100 pociones",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/2e007d1a-9433-4997-8a26-5df1f26bac75.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gran trabajador",
+      "trophyDetail": "Haz 300 pociones",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/760e213e-1c4c-436f-8602-8d2ba27c2f30.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Experto en calderos",
+      "trophyDetail": "Haz 500 pociones",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/71b63cd0-9b3e-4f5f-9cdb-1018668083ae.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Despegando",
+      "trophyDetail": "Prepara 100 recetas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/1b160a1f-524e-4b26-bdbf-afe0eb7bd3ac.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clientes satisfechos",
+      "trophyDetail": "Prepara 300 recetas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/1214709a-4264-403a-9171-0c3ca0cae0a2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Manteniendo el negocio",
+      "trophyDetail": "Prepara 500 recetas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/f6ddc05f-9010-4229-a93c-8aa3bc84ac5f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maestro de cocina",
+      "trophyDetail": "Prepara 1000 recetas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/a81f85c3-3713-47c2-865f-dfa0ca656385.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Subiendo de nivel!",
+      "trophyDetail": "Alcanza el nivel 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/a4a665e8-b352-424f-bbf1-a6a18ddc2155.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Hora pico!",
+      "trophyDetail": "Alcanza el nivel 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/fccb112a-ea16-42b8-addf-21999097165e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "¡Puedo hacer esto todo el día!",
+      "trophyDetail": "Alcanza el nivel 15",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/3b2408d2-392c-4fe3-a6db-a0f07dc57ee3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Control de pestes",
+      "trophyDetail": "Derrota 200 enemigos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/cc4f1bb6-b456-4e63-b65f-3e7b762d6984.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "El exterminador",
+      "trophyDetail": "Derrota 500 enemigos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/e159e66e-af3c-4e31-bc09-18433ef930b7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Déjalos arder!",
+      "trophyDetail": "Derrota 150 enemigos usando el lanzallamas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/e6492124-38fd-4945-b33c-407ab925b5b3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "150"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Fuera bombas!",
+      "trophyDetail": "Derrota 65 enemigos usando el lanzagranadas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/65a5af28-0bf9-4e27-8612-1acba7e9cec3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "65"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Hora de la demolición!",
+      "trophyDetail": "Derrota 80 enemigos con el lanzacohetes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/1981a102-d39c-48d2-9194-04a838a669e7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "80"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coleccionista de escarabajos",
+      "trophyDetail": "Derrota al jefe de la primer área",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/e612f0b1-4136-4418-b3e9-62ac3b3e674e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Temblores!",
+      "trophyDetail": "Derrota al jefe de la segunda área",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/d88c833f-cc5b-4b60-9434-675f1a5761a7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vienen del espacio exterior",
+      "trophyDetail": "Derrota al jefe de la tercer área",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/b9b90347-5240-4fb2-83e0-3689f824e72e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Un paseo en el parque",
+      "trophyDetail": "Completa la primer área sin perder vida",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/1d983eaa-572b-4191-b058-0859256fd3c6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¿Hace calor aquí?",
+      "trophyDetail": "Completa la segunda área sin perder vida",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/aa006766-0242-42b4-9717-61ecc6624439.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Intocable",
+      "trophyDetail": "Completa un bucle sin perder vida",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/f3dec7ca-4369-40dc-afb3-92785db94612.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aplasta insectos",
+      "trophyDetail": "Derrota al menos una vez a cada tipo de enemigo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/e56be350-e099-445d-9ab3-54d3dfd29c9e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arsenal",
+      "trophyDetail": "Usa todas las armas en el juego",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/181e604a-3c14-481d-a70c-d9f0aef1920a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trabajo en equipo",
+      "trophyDetail": "Completa un bucle con cada personaje",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/d3ec258c-e196-44a7-a099-7ea202435130.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Aquí vamos otra vez!",
+      "trophyDetail": "Completa un segundo bucle del juego",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/7ef34a43-ba19-444f-abd1-ac5c9e9fb6cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Dales una paliza!",
+      "trophyDetail": "Derrota 700 enemigos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/90d83e74-62aa-434d-96bc-8ecc20f44869.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "700"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Por la borda",
+      "trophyDetail": "Lanza 200 enemigos al agua",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/3b35daba-7c74-4226-8128-ca03daec52ad.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Peso muerto",
+      "trophyDetail": "Derrota 200 enemigos mientras sostienen un cofre",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/bfd389f8-5142-4751-8733-f9c1a2b9db45.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Daño colateral",
+      "trophyDetail": "Lanza 125 objetos o enemigos a otros enemigos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/76976dd7-55b7-40c1-b7e1-6dfc75615581.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "125"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Electrificante",
+      "trophyDetail": "Derrota 140 enemigos con el ataque relámpago",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/774167ae-c44c-409f-9e2e-0ad676ce29bf.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "140"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Escapando del cofre de Jones",
+      "trophyDetail": "Derrota al primer jefe",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/8278ee5f-824c-4b0a-ac83-5f15d7cc0104.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cancion de la Sirena",
+      "trophyDetail": "Derrota al segundo jefe",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/d465f371-469a-4b7c-bb41-d8dd8ad9a141.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monstruo Marino",
+      "trophyDetail": "Derrota al tercer jefe",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/29548b69-b547-4207-a620-7ac20ac03ef2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡De compras!",
+      "trophyDetail": "Compra todas las mejoras al menos una vez",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/1d89770c-cb6d-47f4-b601-e281910bcce5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "16"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "El cofre del Hombre Muerto",
+      "trophyDetail": "Conserva todos tus cofres hasta la ronda 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/837bbfd5-3a9a-46ea-ab59-70642150c466.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "¡Ah, mis queridos!",
+      "trophyDetail": "Consigue 3 loros ayudantes durante la misma partida",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/c640a4d5-f0d2-41bf-8b41-f6f9763f0a1a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fuego y pólvora",
+      "trophyDetail": "Derrota 70 enemigos usando el cañon portable",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/76a8d580-9404-4a86-9a94-7085039cf4a6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "70"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No todo lo que brilla es oro",
+      "trophyDetail": "Derrota 40 enemigos especiales brillantes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/26fb1be0-cb2b-4baa-aaad-89892d304d81.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "40"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Saqueo",
+      "trophyDetail": "Recupera 3 cofres durante la misma partida",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/c4a0208a-e4af-41ae-91c6-5330614cf283.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Navega por los siete mares",
+      "trophyDetail": "Completa un segundo bucle del juego",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR37394_00/957e34e7-fa31-4ede-ba82-672211105cf8.png",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 61
+}

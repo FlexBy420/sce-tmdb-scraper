@@ -1,0 +1,780 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR40433_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Songs of Conquest",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/d999c238-a027-4256-850f-b6874f390e50.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 65,
+    "silver": 10,
+    "gold": 0,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Songs of Conquest",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/d999c238-a027-4256-850f-b6874f390e50.png",
+      "definedTrophies": {
+        "bronze": 44,
+        "silver": 10,
+        "gold": 0,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Vanir",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/bddbfc88-0606-49c1-96bb-c9f2fc21369e.png",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "002",
+      "trophyGroupName": "Enraizados",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/ca9420e0-098a-4288-a537-833ba8fab4c7.png",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "003",
+      "trophyGroupName": "Ascensão Eterna",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/ee2387b9-331d-4d40-ab04-7739814d7d22.png",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "004",
+      "trophyGroupName": "Yulan",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/fa9ffe67-06d7-450a-a9e9-b417de091329.png",
+      "definedTrophies": {
+        "bronze": 6,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "A Canção da Conquista",
+      "trophyDetail": "Obtenha todos os troféus",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/44a8cb8d-d3fc-40ba-80e0-74fdd1eb8c7d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Portador da Ruína",
+      "trophyDetail": "Conjure o feitiço Apocalipse cinco vezes no mesmo turno da tropa",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/85e235c9-4065-417f-bb16-275f6b5e5a8b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Canção dos Almabrava",
+      "trophyDetail": "Complete todos os mapas da campanha Arleon (em qualquer dificuldade)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/15068ab2-5e30-446a-9212-a421dbc11f1e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Morte à Diplomacia",
+      "trophyDetail": "Complete o último mapa da campanha Arleon na dificuldade Esmagadora",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/d49a537d-d777-4c8c-ba02-87dc73cd1ceb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Traje de Sucesso",
+      "trophyDetail": "Faça um Portador ter artefatos equipados em todos os espaços",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f04afc1b-6f50-4a20-9a68-2f06515e3cf0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Atacando Sem Parar",
+      "trophyDetail": "Faça a tropa realizar seis ataques no turno dela",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/752c1890-b13d-4780-aa0f-6e778e961061.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "O Preço da Liberdade",
+      "trophyDetail": "Complete todos os mapas da campanha Barya (em qualquer dificuldade)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/0e47155a-fbda-40c2-bb53-c3b10e08556f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "O Valor de uma Vida",
+      "trophyDetail": "Complete o último mapa da campanha Barya na dificuldade Esmagadora",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/774ea1eb-daba-4b05-ba5a-9c5c3e6ac06c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Este Lugar é Meu",
+      "trophyDetail": "Impeça uma tropa inimiga de cavar para fora",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/398d2d68-d721-4cf8-8e8a-ed05af46ef11.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ei, Você",
+      "trophyDetail": "Cave para fora perto de três ou mais tropas de longa distância inimigas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/a5c20bce-9959-464e-a009-7bea6f367b1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Portador Versátil",
+      "trophyDetail": "Conjure todos os feitiços (em qualquer número de partidas)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/0f92e4eb-e19b-4640-a08b-d4738e75acb6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "40"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Poder Ilimitado!",
+      "trophyDetail": "Mate três tropas inimigas usando Relâmpago Encadeado",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/c846c450-3303-4853-be9f-a4b1f8400112.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carga Completa",
+      "trophyDetail": "Faça uma tropa ter dez ou mais buffs de Em Carga",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/62e777c0-3aa6-4df9-8285-82f31ceef412.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Passando!",
+      "trophyDetail": "Provoque três Ataques de Oportunidade em apenas uma Investida Cega",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/bc2150df-182c-42f3-81e8-e7b525b80ba2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Acerto Crítico",
+      "trophyDetail": "Cause 500 de dano ou mais em um ataque",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/fd1bd8cc-2ff8-4089-8dd9-9dcf58070d31.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golpe Profundo",
+      "trophyDetail": "Use uma Porta Dimensional para posicionar sua tropa em três Zonas de Controle ou mais",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/2362fa64-8a58-406b-83cd-6d4e4765646b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Seta Fatal",
+      "trophyDetail": "Mate 100.000 inimigos usando ataques de longa distância",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/48f25928-ead8-409a-85f3-6e42290ad5f2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100000"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Feitiço Mortal",
+      "trophyDetail": "Mate 100.000 inimigos usando dano mágico",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/4b2e4e5d-5f03-487d-a074-5f1ad7bd48d9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100000"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Espada Vorpal",
+      "trophyDetail": "Mate 100.000 inimigos usando ataques corpo a corpo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/d4875fad-3e1b-4ceb-9f53-ccb18fd4b3b8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100000"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Morte em Dobro",
+      "trophyDetail": "Vença duas batalhas no mesmo turno com o mesmo Portador",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/883d35a9-5e51-4fe9-972c-e04e73b99e88.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Churrasquinho",
+      "trophyDetail": "Mate três inimigos com um ataque flamejante",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/b67fef3a-64ff-4379-9153-f3eeaef9230c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Meio da Bagunça",
+      "trophyDetail": "Faça uma tropa ter três ou mais buffs de Combatente da Linha de Frente",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/da653d07-e54a-4273-bbc6-47f8ab625107.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mão Cheia",
+      "trophyDetail": "Vença uma batalha usando cada um dos Portadores oficiais",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/d393ed46-9d5b-474d-9153-c97144166a54.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "36"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Influência Infernal",
+      "trophyDetail": "Faça o inimigo matar um aliado usando Ódio Descontrolado",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/bc378bcb-728e-4d12-ac20-84cda5e57549.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Assassinato em Massa",
+      "trophyDetail": "Vença seis batalhas em sequência no mesmo turno",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/a5070989-476c-499f-b0fb-6416e1ca304f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Juntos Por Ela",
+      "trophyDetail": "Complete todos os mapas da campanha Loth (em qualquer dificuldade)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/1106a48d-a51f-4f79-b7f2-34b2576860a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Esperança de uma Imperatriz",
+      "trophyDetail": "Complete o último mapa da campanha Loth na dificuldade Esmagadora",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/bebff129-f314-4713-89f6-cc46e30194a2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Matança",
+      "trophyDetail": "Vença três batalhas no mesmo turno com o mesmo Portador",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/e056ee2e-16ff-4d86-8a31-2a03496fdf6a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prova de Que a Sorte Sempre Está Comigo",
+      "trophyDetail": "Vença 25 partidas multijogador (online ou local)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/721c3990-4e83-49fe-8b63-723bb7d75393.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mal ae!",
+      "trophyDetail": "Faça o inimigo matar uma das próprias tropas quando você conjurar Ódio Descontrolado",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/a13474de-65c6-48c0-a0bb-3a7dba6a047d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Morte vem do Céu",
+      "trophyDetail": "Mate três inimigos usando Sopro da Fênix",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/599c5b9e-f657-4a29-93e2-6ae46cb04e96.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ops!",
+      "trophyDetail": "Faça sua tropa morrer de um contra-ataque Rápido",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f978582e-80c0-4b22-a1a5-fc074bc09d30.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Das Cinzas",
+      "trophyDetail": "Complete todos os mapas da campanha Rana (em qualquer dificuldade)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/b47c5ac8-1074-4932-a331-8eda22160374.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "O Pântano se Expande",
+      "trophyDetail": "Complete o último mapa da campanha Rana na dificuldade Esmagadora",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/4bee1410-96d1-4949-be85-3f0178ed7db6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Não Mexa nas Minhas Coisas",
+      "trophyDetail": "Recupere uma cidade ou habitação sua que está sendo ocupada/devastada/convertida pelo inimigo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/3988cd6a-850f-4038-a4d4-166253fc4242.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fungicínio",
+      "trophyDetail": "Use Repelir para empurrar uma tropa inimiga em três Fungos Explosivos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/c2d7d379-5f20-4f0c-bf7b-2d09b2436f76.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Feitiço Farto",
+      "trophyDetail": "Conjure cinco feitiços no mesmo turno da tropa",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/007a2da1-4ef7-4f7d-865b-6ea430dd9f06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Venha Aqui!",
+      "trophyDetail": "Troque a tropa inimiga de lugar para uma Nuvem Ácida",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/13c0e066-c569-446e-aab0-d5b230a1c896.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sai da Frente",
+      "trophyDetail": "Mate três inimigos com um ataque de varredura",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/3f9756ae-6580-4e5f-a208-e2bdc4adbcd3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Agente Imobiliário",
+      "trophyDetail": "Maximize uma cidade fora da campanha (escala 5, muros, construções aprimoradas em todas as áreas)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/25d81e70-b9e1-4e0e-89be-6fdb966fd7c6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cavalo de Troia",
+      "trophyDetail": "Use um feitiço de teletransporte para chegar ao topo ou do outro lado dos muros em um cerco à cidade",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/fc69cda7-3969-430f-a16c-6817f5c13afd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Eliminação Total",
+      "trophyDetail": "Vença quatro batalhas no mesmo turno com o mesmo Portador",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/cb2dd728-43f1-436d-870b-8b5d949349e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adepto",
+      "trophyDetail": "Alcance o nível 8 com um Portador",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/d5b9d6dc-ee48-4cad-b880-7446d49feb96.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Veterano",
+      "trophyDetail": "Alcance o nível 16 com um Portador",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/3d521e97-c954-4c1b-8cf1-5970ad54c46d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mestre",
+      "trophyDetail": "Alcance o nível 24 com um Portador",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/a2d2aab8-f6f7-4a3a-8a19-022e9cfe8f44.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Grão-mestre",
+      "trophyDetail": "Alcance o nível 32 com um Portador",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/097c681a-93aa-47df-8724-0622b0cd9136.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Humilhação",
+      "trophyDetail": "Vença uma batalha antes do turno do inimigo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/c2587680-57cc-425f-b6f4-eddbf9fb236f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vitória Pírrica",
+      "trophyDetail": "Vença uma batalha com apenas uma unidade restante",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/1a33fa99-b4c4-432c-8684-6fb2bbc2469c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Especialista em Essências",
+      "trophyDetail": "Vença uma batalha sem dar um único ataque",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/aae70c1e-f140-4b8b-9b30-7dabb42a27bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Veni, Vidi, Vici",
+      "trophyDetail": "Vença uma batalha contra uma cidade muralhada",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/9a8d8b47-ab4e-4e86-8896-cecb1f2f9045.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Venisti, Vidisti, Perdidisti",
+      "trophyDetail": "Defenda uma cidade muralhada em batalha",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/a24b2a4e-c1a2-4f36-8313-a6025eab2c67.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ajoelhe-se, camponês!",
+      "trophyDetail": "Vença 25 vezes em mapas de fora da campanha com Arleon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f2e9eff2-b4be-463f-98e5-3214750aec78.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Obrigado por Contrato a Vencer",
+      "trophyDetail": "Vença 25 vezes em mapas de fora da campanha com Barya",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/74a56550-ddf4-48a7-b6af-f0b24ea28a5a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Um Morto Muito Vivo",
+      "trophyDetail": "Vença 25 vezes em mapas de fora da campanha com Loth",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/fa2027a0-f379-457f-9a0a-fcd8137f5053.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Terra de Dragões",
+      "trophyDetail": "Vença 25 vezes em mapas de fora da campanha com Rana",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/2b2b5a47-eefc-4c1e-b499-347181fe1b29.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conjunto Básico",
+      "trophyDetail": "Complete um conjunto de artefatos de pelo menos quatro peças em uma partida fora da campanha",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/1161a101-0719-4350-a729-d8b387b4657e.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Está mais para Desafinado",
+      "trophyDetail": "Faça com que um inimigo morra antes de atacar após ser desafiado",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/3a542823-4583-4067-a357-38a608652ad1.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hoje tem Porco",
+      "trophyDetail": "Faça 540 Serimnaan voltarem ao recrutamento",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/2decb114-0550-4ad4-b11b-607cc90076f5.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "540"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Até a Próxima, Agradeço pelo Peixe",
+      "trophyDetail": "Vença uma batalha usando um peixe",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/bc6156ec-3434-4e2c-95fd-e03972219f5f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grandes Feitos Executados",
+      "trophyDetail": "Vença 25 vezes em mapas de fora da campanha com Vanir",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/bc9c3bbd-b1b6-45cc-8f2c-60586b1fa819.png",
+      "trophyGroupId": "001",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inabalável",
+      "trophyDetail": "Como Vanir, vença uma partida sem comprar tropas Vildra",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/8c497009-4d3c-45e8-bcea-3674a2327836.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Essência Enraizada",
+      "trophyDetail": "Ao jogar com os Enraizados, compre todas as pesquisas de Essência disponíveis",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/dc1bfd42-a427-4ca6-879a-817f613c73f4.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amor Sufocante",
+      "trophyDetail": "Absorva 1.000 de dano usando o traço Alento da Mãe",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/763893d0-acc1-42ef-bd41-272470e45e83.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pego no Bote",
+      "trophyDetail": "Use a habilidade Bote para finalizar um inimigo Repelido",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/007d73cf-1008-4b7a-8f24-83e0ba69bef3.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "De Coração",
+      "trophyDetail": "Vença um duelo de disparos reativos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/ee6c55d8-5549-41cf-8657-672010e3d2c6.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crescimento Pessoal",
+      "trophyDetail": "Vença 25 vezes em mapas de fora da campanha com Enraizados",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f58dde32-ead0-4ffb-82b3-e0c975bdef53.png",
+      "trophyGroupId": "002",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boicote",
+      "trophyDetail": "Vença uma partida sem comprar tropas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/10edd35a-1ef7-43c7-a2ee-8cc15bb0c5f6.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "O Zumbir dos Loth",
+      "trophyDetail": "Acumule 1000 Retornados no exército de Kastus Maal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/ce209143-eedd-482c-80b9-f03691db9299.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ascensão Eterna",
+      "trophyDetail": "Complete todos os mapas da campanha Ascensão Eterna (em qualquer dificuldade)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/8af0b100-b40e-46ec-9700-835ffc10da49.png",
+      "trophyGroupId": "003",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Restauração de Tor Cinzenta",
+      "trophyDetail": "Restaure tudo que os Faey destruíram ao redor de Tor Cinzenta",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/ea92efd6-a779-4f0e-b090-ad771428f346.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Liderar Começa com Li",
+      "trophyDetail": "Vença uma partida fora da campanha usando apenas portadores e tropas da Casa Li.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f58dde32-ead0-4ffb-82b3-e0c975bdef53.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Uma Jornada Sheng-nífica",
+      "trophyDetail": "Vença uma partida fora da campanha usando apenas portadores e tropas da Casa Sheng.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f58dde32-ead0-4ffb-82b3-e0c975bdef53.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Uma Vitória Xuan-tástica",
+      "trophyDetail": "Vença uma partida fora da campanha usando apenas portadores e tropas da Casa Xuan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f58dde32-ead0-4ffb-82b3-e0c975bdef53.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Antes Dividida, Agora Unida",
+      "trophyDetail": "Vença 25 vezes em mapas fora da campanha com Yulan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f58dde32-ead0-4ffb-82b3-e0c975bdef53.png",
+      "trophyGroupId": "004",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Três Casas",
+      "trophyDetail": "Complete todos os mapas da campanha de Yulan (em qualquer dificuldade).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/f58dde32-ead0-4ffb-82b3-e0c975bdef53.png",
+      "trophyGroupId": "004",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Casas Unidas",
+      "trophyDetail": "Complete o último mapa da campanha de Yulan na dificuldade Esmagador.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40433_00/45b06b3a-1329-4156-825d-2b11c388136a.png",
+      "trophyGroupId": "004"
+    }
+  ],
+  "totalItemCount": 76
+}

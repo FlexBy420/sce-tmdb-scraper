@@ -1,14 +1,14 @@
 {
   "npServiceName": "trophy",
   "npCommunicationId": "NPWR13317_00",
-  "trophySetVersion": "01.09",
+  "trophySetVersion": "01.10",
   "trophyTitleName": "The Long Dark",
   "trophyTitleDetail": "The Trophy set for the Long Dark",
   "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/B5021CD0BEA80E90D2158A60A801349D8CBD64D2.PNG",
   "trophyTitlePlatform": "PS4",
   "definedTrophies": {
-    "bronze": 56,
-    "silver": 15,
+    "bronze": 67,
+    "silver": 16,
     "gold": 4,
     "platinum": 1
   },
@@ -69,6 +69,18 @@
       "definedTrophies": {
         "bronze": 12,
         "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "005",
+      "trophyGroupName": "Episode 5: The Light at the End of All Things",
+      "trophyGroupDetail": "Episode 5: The Light at the End of All Things Trophy Set.",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/4157614E26C5BB819BDA1EAB6905DCF464C1B35B.PNG",
+      "definedTrophies": {
+        "bronze": 11,
+        "silver": 1,
         "gold": 0,
         "platinum": 0
       }
@@ -207,7 +219,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Sostentamento naturale",
-      "trophyDetail": "Maestro di sopravvivenza",
+      "trophyDetail": "Sopravvivi 25 giorni consecutivi consumando soltanto piante selvatiche e animali (partita singola).",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/72832DEACF500CE517E0A8F2BA11B1A880A32960.PNG",
       "trophyGroupId": "default"
     },
@@ -224,8 +236,8 @@
       "trophyId": 16,
       "trophyHidden": false,
       "trophyType": "bronze",
-      "trophyName": "Raccogli 25 piante di ciascun tipo (partita singola).",
-      "trophyDetail": "Sopravvivi 25 giorni consecutivi consumando soltanto piante selvatiche e animali (partita singola).",
+      "trophyName": "Raccoglitor contento",
+      "trophyDetail": "Raccogli 25 piante di ciascun tipo (partita singola).",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/6DA9110F244F4682B940F964D4FC2970E8B31E15.PNG",
       "trophyGroupId": "default"
     },
@@ -759,7 +771,115 @@
       "trophyDetail": "Sopravvivi a 25 lotte contro i puma.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/DDDFA3206E4DAEEE09D31C19BD111ACB7EA1FB94.PNG",
       "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Quarantena",
+      "trophyDetail": "Esplora Perseverance Mills.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/179D25C21C63E92F47C2AEA19EE096F93A011FA8.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Squadra di ricerca",
+      "trophyDetail": "Trova tutti e tre i cittadini scomparsi entro 40 minuti reali.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/BDA65FD73C54C35BA6DFB5063140C7AA60B8A219.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fino all'osso",
+      "trophyDetail": "Esegui l'autopsia di un cittadino di Perseverance Mills scomparso.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/5412DE1C07D20CECC583C995952200E7FDE384BB.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Alla deriva",
+      "trophyDetail": "Scopri la verità sul misterioso segnale di Desperation Bay.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/DE031BE5AE8F3E02EE5F17F1C6CC1C34F60B3FA7.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Scia di morte",
+      "trophyDetail": "Recupera tutti gli scritti e gli effetti personali lasciati dall'equipaggio della nave.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/97C2216518CF1E2C74604FC72FC28EF13DC35526.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Le scienze dure",
+      "trophyDetail": "Raggiungi il radiotelescopio Suzuki e consegna alla Atwood il messaggio \"Wintermute\" di Jeremiah.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/A9A9B05BE020B5661C7EF0847C4A18AE67227966.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Il canto della terra",
+      "trophyDetail": "Riattiva l'impianto geotermico e aziona il telescopio.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/CA37774F8BA79EDC4A49D6429940A66EFB291A25.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Natura selvaggia ",
+      "trophyDetail": "Sconfiggi ed elimina il puma che si aggira nella regione geotermica.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/25203B0E22977764538BA9C4275053CC18BCF96A.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Massima efficienza",
+      "trophyDetail": "Completa \"La stazione di ricerca e soccorso\" utilizzando al massimo 50 pezzi di carbone.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/0CFFEA95C88FE0A1C8669DAAAA15EC327999652D.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lungo le rotaie",
+      "trophyDetail": "Recupera il kit medico.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/C8A635FD69A6CAB1850A015F74AE4EB440F040D2.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "L'ultima luce",
+      "trophyDetail": "Riunisciti con Astrid e consegna la valigetta.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/BEB9C35549BF64DD9AC7DF7DF84472F17D7CE736.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Il nuovo mondo",
+      "trophyDetail": "Completa l'Episodio cinque.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/2B873CC11ED150D495383DDED3431EED8E942BF8.PNG",
+      "trophyGroupId": "005"
     }
   ],
-  "totalItemCount": 76
+  "totalItemCount": 88
 }

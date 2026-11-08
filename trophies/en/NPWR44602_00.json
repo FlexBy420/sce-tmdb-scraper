@@ -1,0 +1,589 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR44602_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "Hero's Hour",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/a1a6ed31-86ba-44e2-80d5-b04ddf61f9d6.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 54,
+    "silver": 7,
+    "gold": 0,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Hero's Hour",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/a1a6ed31-86ba-44e2-80d5-b04ddf61f9d6.png",
+      "definedTrophies": {
+        "bronze": 54,
+        "silver": 7,
+        "gold": 0,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Hero of the Hour",
+      "trophyDetail": "Get all other trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/3d6745e6-d9bd-4870-845e-68485656c8b6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Desperado",
+      "trophyDetail": "Defeat a near impossible enemy army",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/db1994e5-4ff6-4ea8-8692-73851301a87d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power of Elementals",
+      "trophyDetail": "Defeat a challenging enemy in battle using only elementals",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/146da5b0-9b7c-4a76-91f2-1ab55024f9e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No time to waste",
+      "trophyDetail": "Win a game before week 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/5cfba895-aad0-4310-9e5d-572849a8e134.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Speedrunner",
+      "trophyDetail": "Win a game in less than 15 minutes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/076cefff-a5b0-4df5-879a-0f099754e62c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Any% PB",
+      "trophyDetail": "Win a game in less than 30 minutes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/7bdc73f7-b61a-4615-b764-d440270d9d92.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Magicphobia",
+      "trophyDetail": "Win a game without casting magic",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/764371ea-eaae-4987-b6be-2747560c259d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I can do this alone!",
+      "trophyDetail": "Win a game without hiring a hero",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/a71f8c99-1585-4b98-8b8d-25419ebc8f58.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nudist Run",
+      "trophyDetail": "Win a game without any artifacts",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/fed0bd28-7661-4eaf-8d58-cb6838d77603.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fully Loaded",
+      "trophyDetail": "Have a hero with an artifact in all equipment slots",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/0437f650-e125-4e37-9ed5-716bdf6b8060.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ancient Power",
+      "trophyDetail": "Have three artifacts in a set",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/9a69bdb5-d7b8-4e28-8b93-35b5e52f6bc1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reviving Legend",
+      "trophyDetail": "Complete a full artifact set",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/69815280-e094-4b28-965f-0979e9bb0c33.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flawless",
+      "trophyDetail": "Win a battle without taking casualties",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/41dc6e76-c77e-46e7-9ec2-bf37be79926c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hordes of Hell",
+      "trophyDetail": "Recruit 666 Pyre units in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/578313bb-521a-4409-b8f5-2b8ff317393f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Champion",
+      "trophyDetail": "Win a 5+ player game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/61ad3024-600f-4d39-b04b-74ec7cfa2049.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chicken Dinner",
+      "trophyDetail": "Win a 7-player game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/5198a31a-f200-44a8-bf2e-46f3bc1ad10b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Challenge Accepted",
+      "trophyDetail": "Win a Challenging difficulty game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/7e4b93b6-a2b4-42b8-9151-ae8a629da7ef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Challenge Complete",
+      "trophyDetail": "Win a Hardcore difficulty game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/ef0f5a51-35bd-466d-bf41-bf2f82ec580b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hero's Hour",
+      "trophyDetail": "Win a Normal difficulty game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/5a43ef9f-8852-4bb9-b96c-5d4337dd420e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Win",
+      "trophyDetail": "Win an Easy difficulty game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/9bbbc34e-6e18-4b1c-b818-e77c65fcaccf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Puzzle Master",
+      "trophyDetail": "Win a game on Hardcore+ and with hamlet starting conditions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/93e64a73-b325-4fe2-a988-2e29ae89bbb3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Scrying",
+      "trophyDetail": "Find an obelisk treasure with just 1 clue",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/f94052b9-214d-41a8-9a04-1c8cf769947c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Patience",
+      "trophyDetail": "Win a game on the Patience map in less than 24 real-time hours",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/dc14eca1-27ee-4f8f-9709-a3ea944c4726.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bestiary",
+      "trophyDetail": "Encounter 95% of all rare creatures",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/0f397c5e-f868-4542-86d7-48383e9eaf54.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Collector",
+      "trophyDetail": "Encounter 95% of all artifacts",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/b76e6aa7-4a47-4d27-a3ba-071c9fcbfa08.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Magus of Magi",
+      "trophyDetail": "Encounter 95% of all spells",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/5406574b-489c-484c-a230-56f784bb87f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adventurer",
+      "trophyDetail": "Encounter 95% of all adventure buildings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/afcb0794-1a36-4b1a-beba-d53c6ef67eab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Completionist",
+      "trophyDetail": "Achieve 95% of all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/1e075e9a-e847-4d63-bb92-3598e81dbb10.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dragonbane",
+      "trophyDetail": "Defeat the red dragon in Skirmish mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/740fe6eb-dd6d-4548-ab73-da66ec807195.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Fear",
+      "trophyDetail": "Defeat the ghost larvae in Skirmish mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/28b2d982-4502-4bbb-9f76-7416e4cb475b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Killing the Beast",
+      "trophyDetail": "Defeat the black dragons in Skirmish mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/4b395b8f-b7b8-4cba-9759-2e021a65432f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dragonspeaker",
+      "trophyDetail": "Acquire a dragon via Diplomacy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/2ef0e0a1-8737-4d0d-b19f-cfeffab0b72c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Greed is Good",
+      "trophyDetail": "Acquire a treasure elemental",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/c69f3bd8-c0eb-4870-8405-1d75e2c52b4e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King",
+      "trophyDetail": "Have a hero reach level 20",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/3c5ca49c-65cf-4a44-a082-0d3ef850e44e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Emperor",
+      "trophyDetail": "Have a hero reach level 30",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/78aceb8a-7a13-4643-a872-370b48c8fa33.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "God",
+      "trophyDetail": "Achieve rank 5 in a hero skill",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/cb7a86ec-2ba2-4c14-956f-80a558987e34.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scrooge",
+      "trophyDetail": "Have 100000 gold",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/d7f55150-111e-4b7b-8f60-63ff01c5582b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back in Order",
+      "trophyDetail": "Win a game as Order (normal or harder)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/6bc32a3d-112d-47c0-a37f-2a997c6f4f07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Going Wild",
+      "trophyDetail": "Win a game as Wild (normal or harder)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/67777355-775f-4760-8416-8be90fda1419.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Magic over Might",
+      "trophyDetail": "Win a game as Arcane (normal or harder)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/e52e5769-5497-4e02-98df-d765e2affeba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Death's Door",
+      "trophyDetail": "Win a game as Decay (normal or harder)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/436ee004-1f1d-422d-b167-1e13bd8b2551.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hell on Earth",
+      "trophyDetail": "Win a game as Pyre (normal or harder)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/e8d5bfbc-3cc5-4431-a506-f4bd9ef84ec1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Liberation",
+      "trophyDetail": "Win a game as Horde (normal or harder)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/5b2087d3-ae86-47b9-a4df-069e8930f285.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exclave",
+      "trophyDetail": "Win a game as Enclave (normal or harder)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/16c07a76-d397-4c1c-98c7-c01a01a00e0a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Final Lament",
+      "trophyDetail": "Win a game as Lament (normal or harder)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/67371b19-8198-45ea-8b96-686924937cf4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rising Tides",
+      "trophyDetail": "Win a game as Tide (normal or harder)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/21c9c92a-c740-4743-a28f-dd11be7c574b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earthen Arise",
+      "trophyDetail": "Win a game as Earthen (normal or harder)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/a8353049-4272-4c86-a5b9-4eb6318333b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pillar Reformed",
+      "trophyDetail": "Win a game as Pillar (normal or harder)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/5aa25cd4-725c-4a38-bd42-f02e580d85a8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Architect",
+      "trophyDetail": "Fully develop a town",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/f9596034-47ac-4c80-b1e2-c856f4c0d437.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Theresa",
+      "trophyDetail": "Save 500 creatures using infirmaries and hospitals in a single game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/4de1a24e-2c2b-404f-9d9f-14ec4a1f38f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Insatiable",
+      "trophyDetail": "Devour a Black Dragon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/ee467b24-3143-408c-98f6-b86b61916d0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Archmage",
+      "trophyDetail": "Learn an adventure map spell at an Archmage Tribunal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/52aaa48c-39b2-4f94-966b-e45e9b55d0d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Idolatry",
+      "trophyDetail": "Create an Idol",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/6ef92aef-0d88-4b0f-8780-bf88d8311c35.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Culture Conversion",
+      "trophyDetail": "Convert a town to a faction you did not start as",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/0aa4ff17-93ad-4da2-8eec-2064769afd10.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Embrace Death",
+      "trophyDetail": "Use a Forlorn Cloister with your highest leveled hero",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/8643b230-3b43-413a-b7e0-86d30f43416a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "True Evil",
+      "trophyDetail": "Put 200 power worth of units to work at a Slave Pens",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/57ad5c79-49de-413a-9982-ef2c5190eb60.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "All Grown Up",
+      "trophyDetail": "Bloodwarp a Hatchling into a Seraph",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/4f46e9ca-f08b-4416-abab-452f3d8226c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Showdown",
+      "trophyDetail": "Enter combat against an enemy player with at least 2000 power worth of army",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/d10cfa6c-446a-4e4b-8073-5774ca60f41e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wilderness",
+      "trophyDetail": "Control 10 overgrown mines",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/5616d35a-5f6b-4e2b-b396-567b0fcc1254.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Literacy",
+      "trophyDetail": "Enter combat with a hero that uses the most overpowered Rune",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/0179b092-567d-4601-9c9d-8f2c85e4b342.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Man Made God",
+      "trophyDetail": "Have a hero with a sum of attack, defence, knowledge and spellpower above 100",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/aeadc30a-f59e-4743-83ec-80dcf1c759d6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Shadowpower",
+      "trophyDetail": "Cast Shadowcasting while your hero has 50 or more spellpower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44602_00/fc00f900-a929-4bfd-b88b-7e5207036773.png",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 62
+}

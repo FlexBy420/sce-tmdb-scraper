@@ -1,0 +1,666 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR42445_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Tevi",
+  "trophyTitleDetail": "Tevi Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/5CC81D7D9C6C192530E4C1BD2157766D92F92D7D.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 67,
+    "silver": 0,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Tevi",
+      "trophyGroupDetail": "Tevi Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/5CC81D7D9C6C192530E4C1BD2157766D92F92D7D.PNG",
+      "definedTrophies": {
+        "bronze": 64,
+        "silver": 0,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "Content Update Trophies",
+      "trophyGroupDetail": "Content Update Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/E5B55F64B9FA1040FF1438C6B789353C6EF1A454.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Tevi",
+      "trophyDetail": "Complete all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/4BBC0A5A3D7AB7B81FBD1988FB34AC1594181103.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Humble Beginnings",
+      "trophyDetail": "Begin the game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/231BDD1DF5E9B76812F6B6B1D6D0E6A417FAC4A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Shatter",
+      "trophyDetail": "Complete all chapters",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/E21EF07873AC38E58B7444FD64411A0334FC8E9D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wanderlust",
+      "trophyDetail": "Complete the game in Free Roam (Custom Game) mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/8FFB8F2E2E70A0EEC20638CC669E810BEFADDEBF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chaotic Mischief",
+      "trophyDetail": "Complete the game in Random Sigils (Custom Game) mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/E5390020A84D81194E454BF6BCB8915E27F7D4E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Trick Bunny",
+      "trophyDetail": "Complete the game with under 15% damage dealt via either ranged or melee attack",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/91369734ED08A6121EC22F52A327C041653D4252.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pack Light",
+      "trophyDetail": "Complete the game on average difficulty of normal or above while holding 25% or fewer of all items. (Only bunny potions and bag expanders affect item %)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/77F484B7A8FBFA53AA192A622945272074CBA8BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unassailable Virtue",
+      "trophyDetail": "Complete the game without defeating any wild rabbit-shaped entities",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/3424D3EBBA56767815255064C3E9704AA19E179A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hare-ied",
+      "trophyDetail": "Complete the game (average difficulty of normal or above) in 5 hours or under (active control time) while holding 50% or more of all items. (Only bunny potions and bag expanders affect item %)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/B82B6D2777B87AF12433F18C17E65837D9C26912.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tis but a scratch",
+      "trophyDetail": "Complete the game on average difficulty of hard or above while healing 50% or less of damage received",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/FB8EE3DFA3D299DD626D44C5C785B8682E50AFB1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "There All Along",
+      "trophyDetail": "Complete the game without using the Silver Bell",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/CAF222C64EAA52A2BF63E60ADF421AD10F2ACBAA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Max Power",
+      "trophyDetail": "Attain MAX RANK for the first time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/31223E21345D87522BB7593F375DB8C2AF8F2A0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chiliad Combo",
+      "trophyDetail": "Attain a combo count of 1000 for the first time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/E2213AC7C9BFC69E8393272E61877622FBBCE756.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crushing Combo",
+      "trophyDetail": "Deal a total of 15,000 damage before combo ends",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/646377288E7E4A67CE54A2237A7FEE7CDA46211E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vae Victis",
+      "trophyDetail": "Defeat 1000 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/AB5C23A60AF038E291FCFEB9D80834C48179414F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Bunch!",
+      "trophyDetail": "Deal 250 damage in one hit (excludes damage dealt by consumables)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/1AD589546CBB5C5BAD7DF0F03B9C5C3D94A8B0D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Five Stars",
+      "trophyDetail": "Successfully execute quintuple flash",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/2F18AAA0D2AB6A40A02EE52836548DB7C7860904.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Potion Collector I",
+      "trophyDetail": "Obtain 10 bunny potions",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/2EE8B766DE782F62BE2E7D9DCDC864132EC028EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Potion Collector II",
+      "trophyDetail": "Obtain 50 bunny potions",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/90FFB28DD5419F2C08FB9D070B19C53A47CC2358.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Potion Collector III",
+      "trophyDetail": "Obtain 125 bunny potions",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/C35B1646502592051986EB03A7937570D7E51E4B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sigil Collector I",
+      "trophyDetail": "Obtain 30 sigils",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/2CA5F1C48852257B52A83D35F84D0C8DD53F506E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sigil Collector II",
+      "trophyDetail": "Obtain 80 sigils",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/9F84EFB83E79906B8F9031AE66E7D790499CD8EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sigil Collector III",
+      "trophyDetail": "Obtain 160 sigils",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/F6B0FFF19060D19384D74F31522B6625861A557C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Decked Out",
+      "trophyDetail": "Collect all items in the right inventory slot (which excludes potions, bag expanders, and sigils)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/E38369AB35A12383418927C5129ED5B8021A76A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rising Sun",
+      "trophyDetail": "Obtain the hidden item Gilded Exultation",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/3C5A1BE98BD11DF6455B77A4ABFC6287EC6E2F12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avid Adventurer",
+      "trophyDetail": "Explore 100% of any area on the map",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/620B867FEA660B76C1680FEAE4949A3642EF97E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Charting the Unknown",
+      "trophyDetail": "Explore 50% of the map of Az",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/FE195846937C4A66D9CEFD97167C118D5653E56F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert Explorer",
+      "trophyDetail": "Explore 100% of the map of Az",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/3AA2EB3DBE317B360F8F43F3DB5037F570E8B73B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucky Conversion",
+      "trophyDetail": "Obtain a rare shard via materials conversion",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/4672D5E107EEBD401B268E899325D8D04C7C551D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Over the Rainbow",
+      "trophyDetail": "Complete crafting attempts for the Whimsical Waffle of Wonder",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/F0F31764AD93703D6EE90BBF29C983D14CE687D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rigorous Research",
+      "trophyDetail": "Upgrade any piece of equipment to level 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/4C34E05194BD0061F7172B2836E2C40DB14B06BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fully Enhanced",
+      "trophyDetail": "Upgrade all equipment to level 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/693A378FC65711D1A74D8B5F724DD2CE64C25FA1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cutting Edge",
+      "trophyDetail": "Complete research of all modular chips to unlock all orbitar shot types B and C, core expansion U and D, and soul burst",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/40BCD69298ABA14EE2D85E9E8E582048934CF8D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crafty",
+      "trophyDetail": "Initiate crafting of consumables or sigils 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/493DD92AC03F39BD948B4A5FCA5C3AAFFB1C0BB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bake 'em away",
+      "trophyDetail": "Initiate crafting of consumables or sigils 50 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/1B8FE665B18D0DFD4CD386519394FCF55E13360E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chef's Bliss",
+      "trophyDetail": "Use healing consumables 25 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/DBF41F8A56B8192217504E578DDD9E8F1CCEAFF9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Top Client",
+      "trophyDetail": "Purchase all the items from the store in any town or city",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/D21F4FF855A71965229DD2D0823C7D2C40CFB630.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In the Bag",
+      "trophyDetail": "Expand bag once",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/F88268A2EEE8B0E1501554128D6A8DEB48DAA287.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zenniful",
+      "trophyDetail": "Obtain 50,000 zennies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/E7AC32A1FAF526676B6785879464BDE270F2E1DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Show Me the Zennies",
+      "trophyDetail": "Obtain 150,000 zennies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/99B076C1FFE9CEC35307D16DBED9E8D3130630CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Waffle Wizard",
+      "trophyDetail": "Purchase all the items from Morose Wafflehouse (Chapter 6 and later)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/768D2DFE4BA770DD48872E7AA1F81281C9CC7C33.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bomber Baron",
+      "trophyDetail": "Purchase all the items from Vena's shop (Chapter 7 and later)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/A8210E1CF887D1083D9FF5F68BE8F95DD3439748.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Challenger of Fate",
+      "trophyDetail": "Find and complete all missions from the Mysterious Traveller",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/C130D1382DBAD2F3A93FFF96C3C3C23F42F08DE8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fun Bun Done Bun",
+      "trophyDetail": "Learn Memine's ultimate fate",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/886B8CF6F716E6570F98070D49C82E9E3A8E97F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hush Bunny",
+      "trophyDetail": "Receive Rulan's \\\"gift\\\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/C52A5333CAF3AABC494435FAD50EBB8CAD482575.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frosted Overdose",
+      "trophyDetail": "Get KO'd from eating Voodoo's Mewmew Cookie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/FE3B13A8B49B8CA496DDAFB63014D28CE0664BF1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bunny don't have 9 lives",
+      "trophyDetail": "Get KO'd 9 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/86C5CCCDFF4CBA90095B63335A1435F8DD057882.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buntality",
+      "trophyDetail": "Get KO'd by a bunny",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/80B38C7C6E11148F1ECE79F1CC23AF8CA0E347E2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ms. Kitty cannot airdash",
+      "trophyDetail": "Defeat Vena after having obtained air dash, but not high jump, double jump, or slide",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/8E08A17A79229E7D83B58629EC3D51737EDA0E16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Caerbunnog",
+      "trophyDetail": "Use Vena's wind-up bunny to defeat a boss",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/7FD1DD212208EE8C72993AA44ACCD0FFF8EAB27F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Do Step on Me",
+      "trophyDetail": "Enter Merry Village in Chapter 1",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/E400F6142477B65339EBF797DA995A9C173FCE3B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Squeak By",
+      "trophyDetail": "Defeat a boss while having less than 5% HP remaining",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/60566FC6FEE1987675B67D79F6F4564333C34C34.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Smashing Opportunity",
+      "trophyDetail": "Discover Rabi Smash",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/957D592B16E0F82E347E0AEBF1A51D7908727696.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Smashing Victory",
+      "trophyDetail": "Clear all stages of Rabi Smash",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/EFDC2FA3E8D64EF17EC527E1FBBDB486A89BD1F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Smashing Triumph!",
+      "trophyDetail": "Achieve 50,000 points in Rabi Smash",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/27C1CB17FFFFB596266B807BF6D7D4D5232B3FD8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Change of Scenery",
+      "trophyDetail": "Get knocked through a map transition at high speed",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/B378601CEB583388BAE2E35F572EE6E92FB8B936.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gossip Gal",
+      "trophyDetail": "Talk to NPCs around towns and cities",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/1C65724293E05CCF587ED18B9C85C60701FBFC9A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hooky Played",
+      "trophyDetail": "Find Vena's podium",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/16287C9BE3C2278C81FE9B953CD15518563B1553.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Your Civic Duty",
+      "trophyDetail": "Use a special action to pet a bunny",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/AE0DD088CC159B0D79DC480995DB322A4F99CAE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Steampunk'd",
+      "trophyDetail": "Witness Vassago's hidden move",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/84BB24CB6CC2A713D1BBEBCF23DA0EABCD0329F1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Final Countdown",
+      "trophyDetail": "Witness Revenance's hidden move",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/2685AAC35957FEEBC6EA02717DC29E3C034E89BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Another Shot",
+      "trophyDetail": "Successfully trigger Déjà Vu's rewind effect",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/37A5158F6F3660DD0F9C482791EBEF195A3F989D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Come a Long Way",
+      "trophyDetail": "Defeat a unicorn for the first time in the Evernight Garden",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/7B48CC1BC53B3B7C0DCD7AC63C9A91EACDA8D7D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My Journey",
+      "trophyDetail": "Unlock all of the notebook entries and read at least one of the entries",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/09301B388CEDD791EC4AF6EA63979ED91F2816B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Rabi Dream",
+      "trophyDetail": "Visit a familiar place while in the possession of a certain item...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/7E46E93D22C42FEF3C7751E23FE73830908002B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Waxing Whimsical",
+      "trophyDetail": "Experience the refreshing sublimity (or mundanity) of strange company in a strange place",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/151552C54D84985AD647EB3040F3EAB85F7569CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Very nice",
+      "trophyDetail": "Receive 20 Nice Times in parkour",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/AA7F8445843BBE70CB1435B3EBF7B9E2657D534C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heavy Hitter",
+      "trophyDetail": "Hit the training dummy for 40 seconds and attain DPS of above 800 in training room",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/E0C59DC2BE329FD94F9C1F5E0231F6D124A38792.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enlightened Conscience",
+      "trophyDetail": "Stay in the mushroom room for 80 seconds and attain KO per second of above 10",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42445_00_0031B7845E8E009C040CA126A0BCBE54C6923DDAC8/EDCA36C0F9F4F4C560C82BDBFEB34E14ABA97114.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 69
+}

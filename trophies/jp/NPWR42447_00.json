@@ -1,0 +1,666 @@
+{
+  "npServiceName": "trophy",
+  "npCommunicationId": "NPWR42447_00",
+  "trophySetVersion": "01.01",
+  "trophyTitleName": "Tevi",
+  "trophyTitleDetail": "Tevi Trophies",
+  "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/B308B11CEA48C673E0321331B2452FF4A5DAC5E8.PNG",
+  "trophyTitlePlatform": "PS4",
+  "definedTrophies": {
+    "bronze": 67,
+    "silver": 0,
+    "gold": 1,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "Tevi",
+      "trophyGroupDetail": "Tevi Trophies",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/B308B11CEA48C673E0321331B2452FF4A5DAC5E8.PNG",
+      "definedTrophies": {
+        "bronze": 64,
+        "silver": 0,
+        "gold": 1,
+        "platinum": 1
+      }
+    },
+    {
+      "trophyGroupId": "001",
+      "trophyGroupName": "コンテンツアップデートのトロフィー",
+      "trophyGroupDetail": "コンテンツアップデートのトロフィー",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/A4087BD3296200F23DD9EA47BD98366083B86546.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    }
+  ],
+  "hasTrophyGroups": true,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Tevi",
+      "trophyDetail": "Complete all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/839958215965009FB2C51DAFCFE8665DE207A7F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "新しい旅立ち",
+      "trophyDetail": "ゲームスタート！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/7F77B0D7F9996221A833DEDE309C6AE7746A7983.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "瓦解",
+      "trophyDetail": "全章クリア",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/98CA4F55AA3871979EBB671243BE729ADB7656AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "放浪癖",
+      "trophyDetail": "ゲームクリア（自由探索モード）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/0D551B3DF6B6972FA961E00093BA9019A1FFE310.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "カオスゲーム",
+      "trophyDetail": "ゲームクリア（ランダムシジルモード）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/66B34F96B0F5A10492632E168C948C9201D8402D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ワン・トリック・バニー",
+      "trophyDetail": "近接攻撃か遠隔攻撃のどちらかのダメージ比率が15%以下の状態でゲームをクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/5FC40C911454547236E6F2C408EED21E73993427.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "軽量パック",
+      "trophyDetail": "アイテムの所持率が25%以下の状態でゲームをクリアする（Normalモード以上）&#xD;\n※バニーポーションとバックパックの容量のみ所持率に影響する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/1D99A32314CA6E9772817D97EF39FE2C99161A42.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "揺るぎない美徳",
+      "trophyDetail": "うさ耳がついている生物または機械物を倒さずにゲームをクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/473C0F1C2038E908C4F2FD60695BFFF2E18E49BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "全速前進",
+      "trophyDetail": "キャラクター操作時間が5時間以内の上にアイテムの所持率が50%以上の状態でゲームをクリアする（Normalモード以上）&#xD;\n※バニーポーションとバックパックの容量のみ所持率に影響する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/3750BEB93856382949C02A458E5C950E0D689753.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ただのかすり傷",
+      "trophyDetail": "HPの総回復量がトータル被ダメージ量の50%以下の状態でゲームをクリアする（Hardモード以上）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/F6E09102ABE876D450393F670AE4149EDCF2B55C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ずっと側にいるよ",
+      "trophyDetail": "ブードゥーの鈴を使用せずにゲームをクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/6B447E0633D59C8C3EDCD8E0DBDB26CAD7BA6730.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "出力全開",
+      "trophyDetail": "初めてコンボランクがMAXに到達する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/F379608B9B024F8DC5D4213F5602163B5B4F3FBD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1000combo",
+      "trophyDetail": "初めて1000コンボに到達する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/D12138A430029D6DE07809D8E52FBDB0173E276B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "クラッシング・コンボ",
+      "trophyDetail": "コンボ終了までトータル15,000以上のダメージを出す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/9E018CA4731497F05466BD55188E9AD907421314.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "一騎当千",
+      "trophyDetail": "敵を1000人を倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/01E0EF0B89EF57A138FFB9F7AA96524F073E45AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Bunch!",
+      "trophyDetail": "一撃で250以上のダメージを出す（消耗品によるダメージは含まない）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/2B3F4C284DE5B059DED37AB505E9F68D3B9F8B7E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Five Stars",
+      "trophyDetail": "五連閃を出す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/3E9BF9BC30286A7148C75A8352ECC5A502D8CB67.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ポーション・コレクター I",
+      "trophyDetail": "バニーポーションを10個集める",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/EC322566F38030EC6FEE9588CC489B38434C6B54.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ポーション・コレクター II",
+      "trophyDetail": "バニーポーションを50個集める",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/E4A5FBFBC4FAC6D875BDF4E0C7632F63B2E02EDB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ポーション・コレクター III",
+      "trophyDetail": "バニーポーションを125個集める",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/F7614105B870EF11108DE2C435B3C9EFE04D10EE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "シジル・コレクター I",
+      "trophyDetail": "シジルを30個集める",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/4FF37BEF8E5EF84F2F533C60F498E0C49356B00D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "シジル・コレクター II",
+      "trophyDetail": "シジルを80個集める",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/94D45B0F3DECC64B37A189350F8D397FB41A4238.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "シジル・コレクター III",
+      "trophyDetail": "シジルを160個集める",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/0CD38225896495D5F282A41FC04E31A952D79308.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "コレクター",
+      "trophyDetail": "全てのアイテムを集める（ポーション、バッグ拡張、シジルは含まない）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/9C26B6ABD75DF9D4B36244EC1A0EA2117367F31F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "太陽の手",
+      "trophyDetail": "隠しアイテム 「ゴールドラッシュ 」 を取得する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/DDCD7E50DCF59DA068B8FD8529240AE452ACE064.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "熱心な冒険者",
+      "trophyDetail": "任意のエリアの探索率を100%にする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/6F5049DC9D0168F448DA9E8D595006A7DC3F9036.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "未知なる世界を描く者",
+      "trophyDetail": "アズ大陸の探索率を50%にする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/1EC87D7F241E2222B56588957462BC0FF244EE8D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "熟練の探検家",
+      "trophyDetail": "アズ大陸の探索率を100%にする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/1E7EC3F2CBCD321D15BF611E3A0D397C96B815D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "幸運の変換",
+      "trophyDetail": "素材変換で初めて結晶を取得する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/3E8BEFB801390B13F94F2BE50E178BD64842A8D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "虹の彼方に",
+      "trophyDetail": "楽しさ満点ワンダーワッフルのレシピをアンロックする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/AFA6C074C66BE089B1770F169CF6F9C9C1E92C2E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "精密強化",
+      "trophyDetail": "任意の装備をレベル3までアップグレードする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/AEDCC3615910AAE5ECDC6477AF6BA56E61BAEBB5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "全面強化",
+      "trophyDetail": "全ての装備をレベル3までアップグレードする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/2D499DF9EDF941A0672A17AE46EEE18270569DD9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "最先端技術",
+      "trophyDetail": "モジュラーの開発を全て完成する（タイプB・C、コア展開U・Dとソウルバースト）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/AB1E996B342242147B467DBEDCD929D1D8018959.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "巧みな手",
+      "trophyDetail": "消耗品やシジルを5回クラフトする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/4EB2BFFF2AAAE9492106CE7AC194D2C9460754A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "一人前の職人",
+      "trophyDetail": "消耗品やシジルを50回クラフトする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/48CA03F618F712DDA92C3FF4CF738584CF2CF46B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "シェフの至福",
+      "trophyDetail": "HPを回復する消耗品を25回使用する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/95584396178C1D38BE84BB7F11D6D04387BEC5E9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "トップ・クライアント",
+      "trophyDetail": "町の店の商品を全て購入する（任意の町）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/9E070D2753CB26858D4F538038C6794A3EABBDF1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "大きいカバン",
+      "trophyDetail": "バックパックの容量を拡張する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/A22A8A95FC62D6CDDDB6BC9256275B75702FEF53.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "小金持ち",
+      "trophyDetail": "50,000ゼニーを回収する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/A5A9990F65A24A107B890B6380E49CD574EBF194.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "大金持ち",
+      "trophyDetail": "150,000ゼニーを回収する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/C2263F02B837616ACBC408059C802135B3347032.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ワッフル・ウィザード",
+      "trophyDetail": "モロースのワッフルハウスの商品を全て購入する（6章とその以降）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/7E54D16AD6198684B4CA3212930BD2257F0E4BAC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ボンバー・バロン",
+      "trophyDetail": "ヴィーナの店の商品を全て購入する（7章とその以降）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/32ACB1AC8878BAE53959D74F87DE6DD4750A801A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "恐れを知らず",
+      "trophyDetail": "謎の旅人のチャレンジを全て発見しクリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/3FDD4208F4D2F0078E9D6EFB314920AC4B81110D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "遅れた正義",
+      "trophyDetail": "メミーネを最後まで見守る",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/77A7F0C05F477CD7DBC655227AC2ED7C80DA9555.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "シー〜ウサギちゃん",
+      "trophyDetail": "ルランから 「  ギフト  」  をもらう",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/5FA5617F92E9E7FE0194D2F172D76B05DAA32AF2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "砂糖を入れすぎた……",
+      "trophyDetail": "ブードゥーのねこねこクッキーでゲームオーバーになる",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/3A5F9619ED5CC85B7CD384C846FC28AA29092C52.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "バニーには9つの命がない",
+      "trophyDetail": "9回倒された",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/DDCD22FF0C421F0BFD5D4218A14C90F0A94D9D1B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "裏切り",
+      "trophyDetail": "ウサギにやられた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/B05661644FD6914FF6CE80E67CDCBBA0FFC60A0A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ネコ少女はエアダッシュできず",
+      "trophyDetail": "ラビブーツ、ダブルラビブーツ、ツルツルブーツを全部所持していない状態で&#xD;\nエアダッシュを取得しヴィーナを倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/23097C56E7CF70C80D5BA8022B2A7F9CA515DCF1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "キラー・ラビット",
+      "trophyDetail": "ヴィーナの店で購入した「BBうさぎ 」 でボスを倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/654FB52DDA2C9B19FD9692A4D4D17D615B7E3988.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "わたしを越えてゆけ",
+      "trophyDetail": "1章のタイミングでメリー村に入る",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/CB1D2B3F9CC8A082F10497AD8045094C943FF2A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "危機一髪",
+      "trophyDetail": "HPが5%未満の状態でボスを倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/04997088753E7C0CD6A46C49EEB443FCA61D6B4B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "大きな可能性",
+      "trophyDetail": "Rabi-Smashを発見する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/168AF213182CCA285873B372597CB382DFDF8AAA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "大きな勝利",
+      "trophyDetail": "Rabi-Smashのステージを全部クリアする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/DED8EABD04E06CE47835B1EEFD3C32E149DE4025.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "完全勝利",
+      "trophyDetail": "Rabi-Smashで50,000ポイントゲットする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/43F0F4D4F6ADE952CD6702D4E98799310AE58247.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "強制退場",
+      "trophyDetail": "すごい勢いで打ち上げられた状態で次のマップに入る",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/1D94107BDF232DE76BBCD8E5A59D1666DAF9E447.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ゴシップ・ギャル",
+      "trophyDetail": "頻繁に住民と会話をする",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/39FF45E7E2F0EFD9BE688142D79253577294F535.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "どこかで見たような……",
+      "trophyDetail": "ヴィーナの表彰台を発見する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/86C3A98C2ED16634D721F372F393A1DFBBF13942.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "市民の義務",
+      "trophyDetail": "特殊アクションでウサギを撫でる",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/0C9EC8ECA88B87763812B834935DC73C65F4D0EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "だッ！！",
+      "trophyDetail": "ヴァッサゴーの隠し技を見る",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/4A77C54F5869E5BA20B451E4F2305CB34656C537.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "終焉のカウントダウン",
+      "trophyDetail": "レヴァナンスの隠し技を見る",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/879737CD1D7F4FD6FFD79D8431F0973363978D50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ワン・モア・チャンス",
+      "trophyDetail": "デジャヴを一回発動する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/D7920DEE7B0F79A94596F07F4BCDB66CB4B7C74D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "過去との決別",
+      "trophyDetail": "エバーナイト庭園のユニコーンを倒す",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/6E511E3FE9BFC89D10E61CD129D3DFABFF25C390.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "わたしだけの冒険",
+      "trophyDetail": "ノートの内容を全てアンロックし全部読む",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/CC43FC80472B9BF2E7199CEB26468168B6DDC07D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ウサギの夢",
+      "trophyDetail": "キーアイテムを持つ状態で懐かしい場所へ行く",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/7871071C97E22794930697692484519163961142.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "奇想天外",
+      "trophyDetail": "見知らぬ土地で不思議な連中と出会う",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/7843533D54FAC28384DCEB8921B36F090077C32F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージの征服者",
+      "trophyDetail": "パルクールステージでNice Timeを20回取得する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/5431FFF49B1B1515AC7FBA3CBA042BF64FD08EE5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ヘビー・ヒッター",
+      "trophyDetail": "\"トレーニングルームで訓練用のダミーを40秒間\nヒットさせ、DPSを800以上達成する\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/C961F757262ACFEAF8CDCE65E0257A8687ED4824.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "明鏡止水",
+      "trophyDetail": "マッシュルームに80秒間滞在し、毎秒KO10回以上を達成する",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42447_00_00CF28174F28CEFFF9BBA72664A0CE97CB795BFA3A/A737A50FA369A34180BD59EA0E4D3244CD755B37.PNG",
+      "trophyGroupId": "001"
+    }
+  ],
+  "totalItemCount": 69
+}

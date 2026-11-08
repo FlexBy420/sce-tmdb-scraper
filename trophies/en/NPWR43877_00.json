@@ -1,0 +1,418 @@
+{
+  "npServiceName": "trophy2",
+  "npCommunicationId": "NPWR43877_00",
+  "trophySetVersion": "01.00",
+  "trophyTitleName": "RoboDunk",
+  "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/734db71c-f3c4-4ec7-8800-3d0d2d26b086.png",
+  "trophyTitlePlatform": "PS5",
+  "definedTrophies": {
+    "bronze": 34,
+    "silver": 3,
+    "gold": 5,
+    "platinum": 1
+  },
+  "trophyGroups": [
+    {
+      "trophyGroupId": "default",
+      "trophyGroupName": "RoboDunk",
+      "trophyGroupIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/734db71c-f3c4-4ec7-8800-3d0d2d26b086.png",
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 3,
+        "gold": 5,
+        "platinum": 1
+      }
+    }
+  ],
+  "hasTrophyGroups": false,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "I am DUNK",
+      "trophyDetail": "Collect all trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/8218d042-371f-46c6-beba-21d59025e61f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Friendly Dunks",
+      "trophyDetail": "PLay your first multiplayer match.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/b7175635-8997-4ee6-86a8-313ec0223968.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Everyone Is Here",
+      "trophyDetail": "Unlock all robots in multiplayer/endless.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/cbad20a7-50e4-4a17-9dad-b7152b184f50.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "See The Worlds",
+      "trophyDetail": "Unlock all stages in multiplayer/endless.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/3a39f476-56be-4f17-8164-864a31a98ba6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "All The Toys",
+      "trophyDetail": "Unlock all mods in multiplayer/endless.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/43ff462c-4843-466e-a0b1-b43facc9970a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take That, Robots",
+      "trophyDetail": "Beat 2 level 9 CPUs in a VS match.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/0ded03c2-d474-48e8-a83e-86d7e04bc26c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The First Dunk",
+      "trophyDetail": "Play your first campaign match.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/bf1b8db3-3ad3-40d4-9561-51523d5e7171.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Full Roster",
+      "trophyDetail": "Unlock all robots in the campaign.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/ebb2c101-3dd2-4868-bc21-8450eb34cd5b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Full Bloom",
+      "trophyDetail": "Unlock all mods in the campaign.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/a649e95c-a65f-42c1-a39c-1be8045898a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Maxed Out",
+      "trophyDetail": "Upgrade 1 robot to the max.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/47b3a568-6002-44fb-8c64-11ef7a1314a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Team OP",
+      "trophyDetail": "Upgrade all robots to the max.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/3728238f-9320-4969-9900-b9b02246830c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Champion Dunker",
+      "trophyDetail": "Win the tournament.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/4dc2be6d-19f9-44fe-837e-ab33a4b53639.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Elite Dunker",
+      "trophyDetail": "Win the tournament on hard.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/fe67d49f-bf15-4464-9245-97c8300c99d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It Happens To Everyone",
+      "trophyDetail": "Get destroyed in the tournament.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/d39715b9-a4bb-4aac-a494-0fbfba36d3b9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shortcut Builder",
+      "trophyDetail": "Build all teleports.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/a0801a87-b35a-4dd5-886e-a06ba90f47fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "I know Everything",
+      "trophyDetail": "Get to know all lore.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/2771cbc3-f2cc-4a7b-aa3a-d81bebb33989.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boss Mode",
+      "trophyDetail": "Unlock Jetto.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/9ae754ea-9553-44c7-8d63-4da4c6a33515.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enter The Chaos",
+      "trophyDetail": "Play your first match in endless.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/7d0b925b-19f4-4743-b858-42e04eee1b86.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Luck VS Talent",
+      "trophyDetail": "Get to level 10 in endless.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/6bfe52d4-9376-4bcf-a855-1211ce5fc5d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On The Board",
+      "trophyDetail": "Get your name on the leaderboards.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/44f272fd-81a7-4635-a27c-fcd89039279e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wild Card",
+      "trophyDetail": "Unlock Mordan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/d67a1f30-abd6-47eb-8bc4-6a9a86abe85d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flush With Cash",
+      "trophyDetail": "Hold $1000 in endless.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/441419a3-39af-40eb-b8d6-db9d4b369fdb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Combo Breaker",
+      "trophyDetail": "Stop a dunk with a ram in the air.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/c666bfdb-00cb-4775-a5a4-d162ccab4c0d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Space For You",
+      "trophyDetail": "Stop a space dunk.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/134be551-3893-464a-a92f-dda9c4150b4b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hoarder",
+      "trophyDetail": "Hold 5 ammo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/cbdd26d8-d755-4bf8-aa9c-bb3abd15220b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Double Up",
+      "trophyDetail": "Do a double jump dunk.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/c87dae2f-1a68-4218-b26b-c49c2ffc2d84.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monty Mole",
+      "trophyDetail": "Hit someone when coming out of the ground.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/d2fd5e8d-4803-4a2f-a1e4-34c3710f90f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Step Ahead",
+      "trophyDetail": "Blow up someone with a sticky bomb while they dunk.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/6e202844-9c52-487a-a13a-c51700238ac0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That's Not Fair",
+      "trophyDetail": "Get a time over while dunking.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/0efcc47d-9fb7-440a-9a8f-a1e5dc66d3a3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sniper",
+      "trophyDetail": "Hit with a laser from off screen.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/1046b2db-88f0-4097-ae8f-19e4e60f13af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Red Cyclone",
+      "trophyDetail": "Hit 3 robots with one lariat.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/75ec396f-ad25-48a1-bac8-10a32affb99f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Two For One",
+      "trophyDetail": "Hit 2 robots with one spreadshot.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/f9b34382-e7f9-446e-9c74-c9740f5c2602.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wall Breaker",
+      "trophyDetail": "Smash an energy wall.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/f037c103-e366-4fe8-8840-b2e96570fcd3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enough Is Enough",
+      "trophyDetail": "Smash a turret.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/03a7ed40-2da7-4071-8098-765c2203dd1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Team Kim",
+      "trophyDetail": "Do a moon kick combo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/cf5ef1d4-06a2-4a5e-b934-02cb06cf15f5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fire From The Sky",
+      "trophyDetail": "Do a sky beam dunk.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/a7da85cb-c0bd-4791-963f-343a9dde2f08.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chaos Is My Friend",
+      "trophyDetail": "Do a special shot with Mordan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/059edff9-8912-4fdf-9e16-71fcb357145f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flat Head",
+      "trophyDetail": "Hit the same robot with 10 falling pans in 1 match.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/55df6b0e-7e34-4cfa-b32c-6c4372946d61.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stop Following Me",
+      "trophyDetail": "Hit someone with a missile after it flies for 3 seconds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/c6699e30-9d2f-4349-ac77-342079814307.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Part Of The Plan",
+      "trophyDetail": "Hit with a sawblade after 2 bounces.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/851dd879-c16f-4fe4-8817-f98246e6d39a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boom Shakalaka",
+      "trophyDetail": "Do a space dunk.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/39accac3-8334-4b70-be8c-27ccac8afcdb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Too Clutch",
+      "trophyDetail": "Score the winning points in the last 5 seconds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/a0f0ae77-72a6-4f28-8ec0-9790ce1c65a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blast From The Past",
+      "trophyDetail": "Find all the punchies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR43877_00/9ab8d2fd-8cf5-4b21-9718-2e205f4c263e.png",
+      "trophyGroupId": "default"
+    }
+  ],
+  "totalItemCount": 43
+}

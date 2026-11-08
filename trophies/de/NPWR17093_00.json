@@ -1,13 +1,13 @@
 {
   "npServiceName": "trophy",
   "npCommunicationId": "NPWR17093_00",
-  "trophySetVersion": "01.14",
+  "trophySetVersion": "01.15",
   "trophyTitleName": "Human Fall Flat",
   "trophyTitleDetail": "Human Fall Flat",
   "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/BB3D2FF80A85CCCC36FCF7B4DC3FD6C998C8C6E8.PNG",
   "trophyTitlePlatform": "PS4",
   "definedTrophies": {
-    "bronze": 96,
+    "bronze": 99,
     "silver": 14,
     "gold": 1,
     "platinum": 1
@@ -258,6 +258,18 @@
       "trophyGroupName": "Schlaraffenland",
       "trophyGroupDetail": "Schlaraffenland",
       "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/C07F82B75C4208F990BA2FA21382115FE9C9FA62.PNG",
+      "definedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      }
+    },
+    {
+      "trophyGroupId": "021",
+      "trophyGroupName": "Testkammer",
+      "trophyGroupDetail": "Testkammer",
+      "trophyGroupIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/D8A8346CDA28EA3239A63EDFDF5C266B62021B14.PNG",
       "definedTrophies": {
         "bronze": 3,
         "silver": 0,
@@ -1275,7 +1287,34 @@
       "trophyDetail": "Stoße im Schokofluss in „Schlaraffenland“ gegen keine Doughnuts",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/A0AFAA8B18C9F80CAE745D7D245D1BE535AAB346.PNG",
       "trophyGroupId": "020"
+    },
+    {
+      "trophyId": 112,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Test abgeschlossen",
+      "trophyDetail": "Schließe „Testkammer“ ab.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/2EA49BEB3F65C74C8242A28CE8B281444E8A6DC2.PNG",
+      "trophyGroupId": "021"
+    },
+    {
+      "trophyId": 113,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Backe, backe Kuchen",
+      "trophyDetail": "Finde in „Testkammer“ den Kuchen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/553DEF7FBA7F85595091B3606ECA8B7F55D8EE09.PNG",
+      "trophyGroupId": "021"
+    },
+    {
+      "trophyId": 114,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Einmal lüften, bitte",
+      "trophyDetail": "Gehe in „Testkammer“ durch alle Lüftungsschächte.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/1DBC46BC3A3E0159C26F2F54C3DA7D231D853283.PNG",
+      "trophyGroupId": "021"
     }
   ],
-  "totalItemCount": 112
+  "totalItemCount": 115
 }
